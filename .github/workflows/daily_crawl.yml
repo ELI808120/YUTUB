@@ -19,7 +19,7 @@ jobs:
       - name: Run Crawler
         run: python crawler.py
 
-  - name: Commit and Push
+      - name: Commit and Push
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'

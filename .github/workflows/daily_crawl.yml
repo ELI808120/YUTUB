@@ -2,8 +2,7 @@ name: YouTube Netfree Crawler
 
 on:
   schedule:
-    # ירוץ בכל שעה עגולה (למשל 01:00, 02:00 וכו')
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'  # ירוץ כל 5 דקות (הכי מהיר שגיטהב מרשה)
   workflow_dispatch: # משאיר לך אפשרות להפעיל ידנית כשבא לך
 jobs:
   build:

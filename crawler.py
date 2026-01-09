@@ -2,65 +2,73 @@ import urllib.request
 import re
 import json
 import time
+import random
 
 def get_channel_videos(channel_id):
-    # כתובת ה-RSS הרשמית של ערוץ יוטיוב
     rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         req = urllib.request.Request(rss_url, headers=headers)
         with urllib.request.urlopen(req, timeout=15) as res:
             content = res.read().decode('utf-8')
-            # שליפת מזהי וידאו וכותרות
             video_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', content)
-            titles = re.findall(r'<title>(.*?)</title>', content)[1:] # מתעלם מכותרת הערוץ
-            return [{"id": v, "title": t} for v, t in zip(video_ids, titles)]
-    except Exception as e:
-        print(f"Error fetching RSS for {channel_id}: {e}")
+            titles = re.findall(r'<title>(.*?)</title>', content)[1:]
+            return [{"id": v, "title": t.replace('"', "'")} for v, t in zip(video_ids, titles)]
+    except:
         return []
 
 def run():
-    print("📡 סורק באמצעות RSS (ללא עוגיות - חסין חסימות)...")
+    print("📡 סורק בשיטת 'מפעל' אקראי...")
     
+    # 1. טעינת היסטוריה
     try:
         with open('final_history_final.json', 'r', encoding='utf-8') as f:
             history = json.load(f)
+    except: return
+
+    # 2. טעינת רשימת המתנה קיימת (כדי שלא נמחק סרטונים שגיטהב כבר מצא)
+    try:
+        with open('pending_check.json', 'r', encoding='utf-8') as f:
+            new_candidates = json.load(f)
     except:
-        print("❌ לא נמצא קובץ היסטוריה!")
-        return
+        new_candidates = []
 
     seen = {v['id'] for v in history}
-    new_candidates = []
+    pending_ids = {v['id'] for v in new_candidates}
 
-    # נסרוק את 15 הסרטונים האחרונים כדי למצוא את הערוצים שלהם
-    for entry in history[:15]:
-        print(f"🔎 מחפש ערוץ עבור: {entry['title'][:30]}...")
+    # 3. הגרלת 15 סרטונים מההיסטוריה - כדי למצוא ערוצים שונים בכל הרצה!
+    # זה הסוד של "עוד ועוד קישורים"
+    sample_size = min(len(history), 20)
+    random_samples = random.sample(history, sample_size)
+
+    for entry in random_samples:
+        print(f"🔎 בודק ערוץ דרך סרטון: {entry['title'][:30]}")
         try:
             url = f"https://www.youtube.com/watch?v={entry['id']}"
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req, timeout=10) as res:
                 html = res.read().decode('utf-8', errors='ignore')
-                # מחפש את מזהה הערוץ בתוך ה-HTML
                 channel_match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
                 
                 if channel_match:
-                    channel_id = channel_match.group(1)
-                    videos = get_channel_videos(channel_id)
+                    videos = get_channel_videos(channel_match.group(1))
                     for v in videos:
-                        if v['id'] not in seen:
-                            print(f"   ✨ מצאתי סרטון חדש: {v['title']}")
+                        if v['id'] not in seen and v['id'] not in pending_ids:
+                            print(f"   ✨ מציאה חדשה! {v['title']}")
                             new_candidates.append(v)
-                            seen.add(v['id'])
+                            pending_ids.add(v['id'])
         except:
             continue
         
-        if len(new_candidates) > 50: break
-        time.sleep(1)
+        # אם הגענו ל-100 סרטונים שמחכים לבדיקה, נעצור כדי לא להעמיס
+        if len(new_candidates) > 100: break
+        time.sleep(0.5)
 
+    # 4. שמירה
     with open('pending_check.json', 'w', encoding='utf-8') as f:
         json.dump(new_candidates, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ הצלחנו! נמצאו {len(new_candidates)} מועמדים.")
+    print(f"\n✅ הצלחנו! בתור ממתינים כרגע {len(new_candidates)} סרטונים לבדיקת ה-AAA שלך.")
 
 if __name__ == "__main__":
     run()

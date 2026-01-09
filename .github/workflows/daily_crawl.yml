@@ -2,9 +2,9 @@ name: YouTube Netfree Crawler
 
 on:
   schedule:
-    - cron: '0 0 * * *' # ירוץ כל יום בחצות
-  workflow_dispatch: # מאפשר לך להריץ ידנית מתי שתרצה
-
+    # ירוץ בכל שעה עגולה (למשל 01:00, 02:00 וכו')
+    - cron: '0 * * * *'
+  workflow_dispatch: # משאיר לך אפשרות להפעיל ידנית כשבא לך
 jobs:
   build:
     runs-on: ubuntu-latest

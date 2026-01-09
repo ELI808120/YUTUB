@@ -1,18 +1,20 @@
 name: YouTube Netfree Crawler
 on:
   schedule:
-    - cron: '0 0 * * *' # ירוץ כל יום בחצות
-  workflow_dispatch: # מאפשר להריץ ידנית
+    - cron: '0 0 * * *' 
+  workflow_dispatch: 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3 # עדכון גרסה ליתר ביטחון
+        with:
+          fetch-depth: 0 # מוודא שמורידים את כל ההיסטוריה לסנכרון טוב
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
@@ -23,7 +25,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git pull --rebase origin main
           git add pending_check.json
           git commit -m "Update pending queue" || exit 0
+          git pull --rebase origin main # המפתח לפתרון ה-Rejected
           git push

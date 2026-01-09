@@ -18,7 +18,7 @@ def get_channel_videos(channel_id):
         return []
 
 def run():
-    print("🚀 מנוע סריקה עוצמתי (RSS + Recommendations) הופעל...")
+    print("🚀 מנוע סריקה ויראלי הופעל - מחפש הממוווון סרטונים...")
     
     try:
         with open('final_history_final.json', 'r', encoding='utf-8') as f:
@@ -34,50 +34,50 @@ def run():
     seen = {v['id'] for v in history}
     pending_ids = {v['id'] for v in new_candidates}
 
-    # דוגם 50 סרטונים מההיסטוריה כדי לפתוח רדיוס סריקה ענק
-    sample_size = min(len(history), 50)
+    # דוגם 40 סרטונים מההיסטוריה כנקודות מוצא
+    sample_size = min(len(history), 40)
     random_samples = random.sample(history, sample_size)
 
     for entry in random_samples:
-        print(f"🔎 סורק עומק עבור: {entry['title'][:40]}...")
+        print(f"🔎 סורק עומק והמלצות: {entry['title'][:40]}...")
         try:
             url = f"https://www.youtube.com/watch?v={entry['id']}"
             req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
             with urllib.request.urlopen(req, timeout=10) as res:
                 html = res.read().decode('utf-8', errors='ignore')
                 
-                # 1. חילוץ סרטונים מומלצים מהדף (Related Videos) - זה מביא המון תוכן חדש!
+                # 1. חילוץ המון המלצות (עד 40 מכל דף)
                 recommended = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})"', html)
-                for r_id in recommended[:10]: # לוקח את 10 ההמלצות הראשונות מכל סרטון
+                for r_id in recommended[:40]: 
                     if r_id not in seen and r_id not in pending_ids:
-                        # בגלל שאין לנו כותרת להמלצות מה-Regex הזה, נשים כותרת זמנית
-                        new_candidates.append({"id": r_id, "title": "סרטון מומלץ (צריך בדיקה)"})
+                        new_candidates.append({"id": r_id, "title": "סרטון מומלץ (חדש)"})
                         pending_ids.add(r_id)
 
-                # 2. חילוץ ערוץ המקור וסריקת כל ה-RSS שלו
-                channel_match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
-                if channel_match:
-                    videos = get_channel_videos(channel_match.group(1))
-                    for v in videos:
-                        if v['id'] not in seen and v['id'] not in pending_ids:
-                            print(f"   ✨ נמצא סרטון מהערוץ: {v['title']}")
-                            new_candidates.append(v)
-                            pending_ids.add(v['id'])
+                # 2. חילוץ ערוצים מומלצים וסריקת ה-RSS שלהם
+                # זה גורם לסורק "לקפוץ" לערוצים דומים
+                extra_channels = re.findall(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
+                for ex_cid in list(set(extra_channels))[:3]: 
+                    ex_videos = get_channel_videos(ex_cid)
+                    for ev in ex_videos:
+                        if ev['id'] not in seen and ev['id'] not in pending_ids:
+                            print(f"   ✨ מצאתי ערוץ חדש וסרטון: {ev['title'][:30]}")
+                            new_candidates.append(ev)
+                            pending_ids.add(ev['id'])
                             
         except Exception as e:
             continue
         
-        # מגבלה: אם הגענו ל-300 סרטונים, עוצרים כדי שיהיה לך כח לבדוק
-        if len(new_candidates) > 300: 
-            print("⚠️ הגענו למכסה של 300 סרטונים בתור. עוצרים.")
+        # מכסה גבוהה מאוד כדי שתקבל "הרבה ממש הרבה"
+        if len(new_candidates) > 500: 
+            print("🔥 הגענו למעל 500 סרטונים! עוצרים.")
             break
         
-        time.sleep(0.2) # מהירות גבוהה יותר
+        time.sleep(0.1)
 
     with open('pending_check.json', 'w', encoding='utf-8') as f:
         json.dump(new_candidates, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ הצלחנו! בתור מחכים כרגע {len(new_candidates)} סרטונים לבדיקת ה-AAA שלך.")
+    print(f"\n✅ סיום! בתור מחכים כרגע {len(new_candidates)} סרטונים לבדיקת ה-AAA שלך.")
 
 if __name__ == "__main__":
     run()

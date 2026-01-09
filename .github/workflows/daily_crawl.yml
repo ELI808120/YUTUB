@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # חשוב מאוד בשביל ה-rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -37,8 +37,11 @@ jobs:
           
           git add pending_check.json
           
-          # ביצוע קומיט - אם אין שינויים הוא פשוט ימשיך הלאה (|| exit 0)
+          # אם אין שינויים, צא בשקט
           git commit -m "Update pending queue [skip ci]" || exit 0
           
-          # דחיפה פשוטה וישירה
+          # התיקון הקריטי: משיכת שינויים מהמחשב בבית ושילובם
+          git pull --rebase origin main
+          
+          # דחיפה סופית של הכל יחד
           git push origin main

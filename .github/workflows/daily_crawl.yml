@@ -1,6 +1,6 @@
 name: YouTube Netfree Crawler
 on:
-  workflow_dispatch: # הרצה ידנית
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -8,19 +8,14 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
+      - name: Install yt-dlp
         run: pip install yt-dlp
-
-      - name: Create Cookies File
-        run: echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
 
       - name: Run Crawler
         run: python crawler.py
@@ -29,6 +24,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add .
-          git commit -m "Update from private crawler" || exit 0
+          git add pending_check.json
+          git commit -m "Update pending queue" || exit 0
+          git pull --rebase origin main
           git push

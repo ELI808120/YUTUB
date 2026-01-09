@@ -15,7 +15,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # חשוב מאוד בשביל ה-rebase
+          fetch-depth: 0 # קריטי כדי שיוכל לעשות rebase
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,18 +30,33 @@ jobs:
       - name: Run Crawler
         run: python crawler.py
 
-      - name: Commit and Push
+      - name: Commit and Push with Retry
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
+          # מוסיף את הקובץ שהשתנה
           git add pending_check.json
           
-          # אם אין שינויים, צא בשקט
+          # יוצר קומיט. אם אין שינויים, פשוט יוצא
           git commit -m "Update pending queue [skip ci]" || exit 0
           
-          # התיקון הקריטי: משיכת שינויים מהמחשב בבית ושילובם
-          git pull --rebase origin main
+          # לולאת ניסיונות חוזרים (עד 5 פעמים) כדי לנצח את המרוץ
+          for i in {1..5}; do
+            echo "Attempt $i to push changes..."
+            
+            # משיכת שינויים מהבית ושילובם
+            git pull --rebase origin main
+            
+            # ניסיון דחיפה
+            if git push origin main; then
+              echo "✅ Push succeeded!"
+              exit 0
+            fi
+            
+            echo "⚠️ Conflict detected, retrying in 5 seconds..."
+            sleep 5
+          done
           
-          # דחיפה סופית של הכל יחד
-          git push origin main
+          echo "❌ Failed to push after 5 attempts."
+          exit 1

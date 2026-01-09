@@ -1,22 +1,26 @@
 name: YouTube Netfree Crawler
 on:
-  schedule:
-    - cron: '0 0 * * *' 
-  workflow_dispatch: 
+  workflow_dispatch: # הרצה ידנית
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3 # עדכון גרסה ליתר ביטחון
+        uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # מוודא שמורידים את כל ההיסטוריה לסנכרון טוב
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+
+      - name: Install dependencies
+        run: pip install yt-dlp
+
+      - name: Create Cookies File
+        run: echo "${{ secrets.YOUTUBE_COOKIES }}" > cookies.txt
 
       - name: Run Crawler
         run: python crawler.py
@@ -25,12 +29,6 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add pending_check.json
-          git commit -m "Update pending queue" || exit 0
-          git pull --rebase origin main # המפתח לפתרון ה-Rejected
+          git add .
+          git commit -m "Update from private crawler" || exit 0
           git push
-      - name: Install yt-dlp
-        run: pip install yt-dlp
-
-      - name: Run Crawler
-        run: python crawler.py 

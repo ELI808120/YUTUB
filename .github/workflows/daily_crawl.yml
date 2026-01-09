@@ -1,0 +1,28 @@
+name: YouTube Netfree Crawler
+on:
+  schedule:
+    - cron: '0 0 * * *' # ירוץ כל יום בחצות
+  workflow_dispatch: # מאפשר להריץ ידנית
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Run Crawler
+        run: python crawler.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add pending_check.json
+          git commit -m "Update pending queue" || exit 0
+          git push

@@ -2,14 +2,8 @@ name: YouTube Netfree Crawler
 
 on:
   schedule:
-    # הרצה מתוזמנת (ייתכנו עיכובים מצד גיטהב)
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # מאפשר הפעלה ידנית והתנעה מהמחשב האישי
-
-# מונע ריצות מקבילות שמתנגשות זו בזו
-concurrency:
-  group: crawler-group
-  cancel-in-progress: false
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -19,7 +13,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
@@ -28,7 +22,7 @@ jobs:
         with:
           python-version: '3.9'
 
-      - name: Install dependencies
+      - name: Install yt-dlp
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp
@@ -36,26 +30,15 @@ jobs:
       - name: Run Crawler
         run: python crawler.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push
         run: |
-          # הגדרת משתמש
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # 1. סנכרון ראשוני כשהסביבה נקייה (מונע שגיאת 128)
-          git pull --rebase origin main
+          git add pending_check.json
           
-          # 2. בדיקה אם הקובץ קיים והוספתו
-          if [ -f pending_check.json ]; then
-            git add pending_check.json
-            
-            # 3. ביצוע Commit רק אם יש שינויים בתוכן
-            if git commit -m "Update pending queue [skip ci]"; then
-              # 4. דחיפה סופית עם מנגנון הגנה נגד התנגשויות של הרגע האחרון
-              git push origin main || (git pull --rebase origin main && git push origin main)
-            else
-              echo "No changes to commit"
-            fi
-          else
-            echo "File pending_check.json not found - skipping commit"
-          fi
+          # ביצוע קומיט - אם אין שינויים הוא פשוט ימשיך הלאה (|| exit 0)
+          git commit -m "Update pending queue [skip ci]" || exit 0
+          
+          # דחיפה פשוטה וישירה
+          git push origin main

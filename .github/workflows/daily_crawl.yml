@@ -2,11 +2,11 @@ name: YouTube Netfree Crawler
 
 on:
   schedule:
-    # שיניתי ל-10 דקות כדי להפחית את הסיכוי שגיטהב יעכב את הריצה בגלל עומס
+    # הרצה מתוזמנת (ייתכנו עיכובים מצד גיטהב)
     - cron: '*/10 * * * *'
-  workflow_dispatch: # מאפשר לך להפעיל ידנית לניסוי
+  workflow_dispatch: # מאפשר הפעלה ידנית והתנעה מהמחשב האישי
 
-# מונע ריצות מקבילות שעלולות לגרום לשגיאות ב-Git Push
+# מונע ריצות מקבילות שמתנגשות זו בזו
 concurrency:
   group: crawler-group
   cancel-in-progress: false
@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4 # גרסה עדכנית יותר
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
@@ -38,23 +38,24 @@ jobs:
 
       - name: Commit and Push changes
         run: |
+          # הגדרת משתמש
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # סנכרון לפני הוספת שינויים
+          # 1. סנכרון ראשוני כשהסביבה נקייה (מונע שגיאת 128)
           git pull --rebase origin main
           
-          # בדיקה אם הקובץ בכלל קיים ונוצר
+          # 2. בדיקה אם הקובץ קיים והוספתו
           if [ -f pending_check.json ]; then
             git add pending_check.json
             
-            # ביצוע ה-Commit רק אם יש שינוי
+            # 3. ביצוע Commit רק אם יש שינויים בתוכן
             if git commit -m "Update pending queue [skip ci]"; then
-              # ניסיון דחיפה עם מנגנון הגנה
+              # 4. דחיפה סופית עם מנגנון הגנה נגד התנגשויות של הרגע האחרון
               git push origin main || (git pull --rebase origin main && git push origin main)
             else
               echo "No changes to commit"
             fi
           else
-            echo "File pending_check.json not found"
+            echo "File pending_check.json not found - skipping commit"
           fi

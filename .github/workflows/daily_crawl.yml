@@ -2,28 +2,33 @@ name: YouTube Netfree Crawler
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # ירוץ כל 5 דקות (הכי מהיר שגיטהב מרשה)
-  workflow_dispatch: # משאיר לך אפשרות להפעיל ידנית כשבא לך
+    # שיניתי ל-10 דקות כדי להפחית את הסיכוי שגיטהב יעכב את הריצה בגלל עומס
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # מאפשר לך להפעיל ידנית לניסוי
+
+# מונע ריצות מקבילות שעלולות לגרום לשגיאות ב-Git Push
+concurrency:
+  group: crawler-group
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    
-    # הרשאות כתיבה למאגר (קריטי למאגר פרטי)
     permissions:
       contents: write
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # גרסה עדכנית יותר
         with:
-          fetch-depth: 0 # מוריד את כל ההיסטוריה כדי למנוע בעיות סנכרון ב-Push
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install yt-dlp
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp
@@ -31,19 +36,25 @@ jobs:
       - name: Run Crawler
         run: python crawler.py
 
-      - name: Commit and Push
+      - name: Commit and Push changes
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # הוספת הקובץ שנוצר/עודכן
-          git add pending_check.json
-          
-          # יצירת Commit רק אם יש שינויים אמיתיים
-          git commit -m "Update pending queue [skip ci]" || exit 0
-          
-          # משיכת שינויים מהשרת לפני הדחיפה כדי למנוע את שגיאת ה-rejected
+          # סנכרון לפני הוספת שינויים
           git pull --rebase origin main
           
-          # דחיפה סופית של התוצאות
-          git push
+          # בדיקה אם הקובץ בכלל קיים ונוצר
+          if [ -f pending_check.json ]; then
+            git add pending_check.json
+            
+            # ביצוע ה-Commit רק אם יש שינוי
+            if git commit -m "Update pending queue [skip ci]"; then
+              # ניסיון דחיפה עם מנגנון הגנה
+              git push origin main || (git pull --rebase origin main && git push origin main)
+            else
+              echo "No changes to commit"
+            fi
+          else
+            echo "File pending_check.json not found"
+          fi

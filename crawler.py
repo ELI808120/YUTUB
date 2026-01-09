@@ -1,68 +1,66 @@
+import urllib.request
+import re
 import json
-import subprocess
-import os
+import time
 
-def get_related_videos(video_id):
-    # הפקודה המדויקת לשימוש ב-yt-dlp עם עוגיות
-    cmd = [
-        'yt-dlp',
-        '--cookies', 'cookies.txt',
-        '--flat-playlist',
-        '--print', 'id',
-        '--print', 'title',
-        f'https://www.youtube.com/watch?v={video_id}'
-    ]
+def get_channel_videos(channel_id):
+    # כתובת ה-RSS הרשמית של ערוץ יוטיוב
+    rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     try:
-        # yt-dlp עוקף את חסימות ה-Bot של יוטיוב
-        result = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
-        lines = result.stdout.strip().split('\n')
-        
-        candidates = []
-        for i in range(0, len(lines), 2):
-            if i+1 < len(lines):
-                v_id = lines[i]
-                title = lines[i+1]
-                if len(v_id) == 11:
-                    candidates.append({"id": v_id, "title": title})
-        return candidates
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        req = urllib.request.Request(rss_url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as res:
+            content = res.read().decode('utf-8')
+            # שליפת מזהי וידאו וכותרות
+            video_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', content)
+            titles = re.findall(r'<title>(.*?)</title>', content)[1:] # מתעלם מכותרת הערוץ
+            return [{"id": v, "title": t} for v, t in zip(video_ids, titles)]
     except Exception as e:
-        print(f"Error for {video_id}: {e}")
+        print(f"Error fetching RSS for {channel_id}: {e}")
         return []
 
 def run():
-    if not os.path.exists('cookies.txt'):
-        print("❌ שגיאה קריטית: קובץ cookies.txt לא נמצא בתיקיית המאגר!")
-        return
-
-    print("🍪 מפעיל סורק מבוסס עוגיות ו-yt-dlp...")
+    print("📡 סורק באמצעות RSS (ללא עוגיות - חסין חסימות)...")
     
     try:
         with open('final_history_final.json', 'r', encoding='utf-8') as f:
             history = json.load(f)
-    except Exception as e:
-        print(f"❌ שגיאה בטעינת היסטוריה: {e}")
+    except:
+        print("❌ לא נמצא קובץ היסטוריה!")
         return
 
     seen = {v['id'] for v in history}
-    new_queue = []
+    new_candidates = []
 
-    # סורק את 5 הסרטונים הראשונים כדי לבדוק שהשיטה עובדת
-    for entry in history[:5]:
-        print(f"🔍 שואב המלצות עבור: {entry['title'][:40]}")
-        related = get_related_videos(entry['id'])
+    # נסרוק את 15 הסרטונים האחרונים כדי למצוא את הערוצים שלהם
+    for entry in history[:15]:
+        print(f"🔎 מחפש ערוץ עבור: {entry['title'][:30]}...")
+        try:
+            url = f"https://www.youtube.com/watch?v={entry['id']}"
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+            with urllib.request.urlopen(req, timeout=10) as res:
+                html = res.read().decode('utf-8', errors='ignore')
+                # מחפש את מזהה הערוץ בתוך ה-HTML
+                channel_match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
+                
+                if channel_match:
+                    channel_id = channel_match.group(1)
+                    videos = get_channel_videos(channel_id)
+                    for v in videos:
+                        if v['id'] not in seen:
+                            print(f"   ✨ מצאתי סרטון חדש: {v['title']}")
+                            new_candidates.append(v)
+                            seen.add(v['id'])
+        except:
+            continue
         
-        for item in related:
-            if item['id'] not in seen:
-                print(f"   ✨ מצאתי מועמד: {item['title']}")
-                new_queue.append(item)
-                seen.add(item['id'])
-        
-        if len(new_queue) > 50: break
+        if len(new_candidates) > 50: break
+        time.sleep(1)
 
     with open('pending_check.json', 'w', encoding='utf-8') as f:
-        json.dump(new_queue, f, indent=2, ensure_ascii=False)
+        json.dump(new_candidates, f, indent=2, ensure_ascii=False)
     
-    print(f"✅ סיום! נמצאו {len(new_queue)} מועמדים.")
+    print(f"\n✅ הצלחנו! נמצאו {len(new_candidates)} מועמדים.")
 
 if __name__ == "__main__":
     run()

@@ -29,3 +29,8 @@ jobs:
           git commit -m "Update pending queue" || exit 0
           git pull --rebase origin main # המפתח לפתרון ה-Rejected
           git push
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      - name: Run Crawler
+        run: python crawler.py 

@@ -2,117 +2,83 @@ import urllib.request
 import re
 import json
 import time
-import random
 
-# --- הגדרות קבצים ---
+# קבצים לניהול הלמידה
 PENDING_FILE = "pending_check.json"
 HISTORY_FILE = "final_history_final.json"
+BLOCK_LOG = "block_patterns.json" # קובץ שהמחשב האישי שלך יעדכן עם מילים שגרמו לחסימה
 
-def get_channel_videos(channel_id):
-    """סריקת 15 הסרטונים האחרונים של ערוץ דרך RSS (מהיר מאוד)"""
-    rss_url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        req = urllib.request.Request(rss_url, headers=headers)
-        with urllib.request.urlopen(req, timeout=10) as res:
-            content = res.read().decode('utf-8')
-            video_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', content)
-            titles = re.findall(r'<title>(.*?)</title>', content)[1:]
-            return [{"id": v, "title": t} for v, t in zip(video_ids, titles)]
-    except:
-        return []
-
-def get_video_data_and_channel(video_id):
-    """חילוץ כותרת, מזהה ערוץ והמלצות מהדף"""
+def get_video_data(video_id):
     url = f"https://www.youtube.com/watch?v={video_id}"
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=10) as res:
             html = res.read().decode('utf-8', errors='ignore')
-            recommendations = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}\]', html)
-            channel_match = re.search(r'"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
-            channel_id = channel_match.group(1) if channel_match else None
-            return [{"id": v[0], "title": v[1]} for v in recommendations], channel_id
-    except:
-        return [], None
+            # חילוץ כותרות, מזהי וידאו ואפילו אורך (Duration) אם קיים
+            data = re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}\]', html)
+            return [{"id": v[0], "title": v[1]} for v in data]
+    except: return []
 
-def build_learning_model(history):
-    """בניית 'מפת מילים' של הצלחות מההיסטוריה (ה-AI של המערכת)"""
-    model = {}
-    for item in history[:300]: # לומד מ-300 ההצלחות האחרונות
-        title = item.get('title', '').lower()
-        words = re.findall(r'\b\w{4,}\b', title) # לוקח רק מילים מעל 4 אותיות
-        for word in words:
-            model[word] = model.get(word, 0) + 1
-    return model
-
-def calculate_smart_score(title, model):
-    """ציון מבוסס למידה: ככל שהמילה נפוצה יותר בהיסטוריה, הציון עולה"""
-    title_low = title.lower()
-    score = 0
+def run_sophisticated_scan():
+    print("🧠 אתחול מערכת למידה אדפטיבית...")
     
-    # בדיקה מול המודל שנלמד
-    title_words = re.findall(r'\b\w{4,}\b', title_low)
-    for word in title_words:
-        if word in model:
-            score += (model[word] * 10) # בונוס על מילים מוכרות
-            
-    # פילטרים קבועים למניעת זבל (מבוסס נטפרי)
-    bad_keywords = ['music', 'song', 'official', 'movie', 'trailer', 'vlog', 'funny', 'slime', 'makeup']
-    if any(bad in title_low for bad in bad_keywords):
-        score -= 100
-        
-    return score
-
-def run():
-    print("🚀 מתניע סורק ענן עם למידה עצמית (Self-Learning AI)...")
-    
+    # 1. טעינת בסיס הנתונים
     try:
         with open(HISTORY_FILE, 'r', encoding='utf-8') as f:
             history = json.load(f)
-    except: history = []
+        # טעינת המילים ש"המחשב המורה" סימן כחסומות
+        with open(BLOCK_LOG, 'r', encoding='utf-8') as f:
+            blocked_words = json.load(f)
+    except:
+        history, blocked_words = [], {}
 
-    # בניית המודל מההיסטוריה הקיימת שלך
-    learning_model = build_learning_model(history)
-    print(f"🧠 המודל למד {len(learning_model)} מילים 'חיוביות' מההיסטוריה.")
+    # 2. בניית מודל הסתברותי (TF-IDF Lite)
+    pos_model = {}
+    for item in history[:500]:
+        words = re.findall(r'\b\w{3,}\b', item.get('title', '').lower())
+        for w in words: pos_model[w] = pos_model.get(w, 0) + 1
 
     seen = {v['id'] for v in history}
     new_candidates = []
     
-    # בחירת סרטוני 'מקור' (Seeds) - לוקח את הכי חדשים שנטפרי אישרה
-    seeds = history[:15]
+    # 3. בחירת זרעים בצורה אסטרטגית (ה-5 הכי חדשים + 5 אקראיים מהעבר)
+    seeds = history[:10] + random.sample(history, min(len(history), 10))
     
     for seed in seeds:
-        print(f"🔎 סורק המלצות סביב: {seed.get('title', 'Unknown')[:30]}...")
-        recs, channel_id = get_video_data_and_channel(seed['id'])
+        print(f"📡 סורק אופקים סביב: {seed.get('title', 'Unknown')[:25]}...")
+        recommendations = get_video_data(seed['id'])
         
-        # סריקת ערוץ איכותי
-        if channel_id:
-            channel_vids = get_channel_videos(channel_id)
-            for cv in channel_vids:
-                if cv['id'] not in seen:
-                    cv_score = calculate_smart_score(cv['title'], learning_model)
-                    if cv_score > -20: # בערוץ שכבר הצליח אנחנו יותר גמישים
-                        new_candidates.append(cv)
-                        seen.add(cv['id'])
-
-        # סריקת המלצות כלליות
-        for r in recs:
-            if r['id'] not in seen:
-                score = calculate_smart_score(r['title'], learning_model)
-                if score > 20: # רק מה שנראה ממש מבטיח
-                    print(f"  ✨ מועמד חזק (ציון {score}): {r['title'][:40]}")
-                    new_candidates.append(r)
-                    seen.add(r['id'])
+        for rec in recommendations:
+            if rec['id'] in seen: continue
+            
+            title_low = rec['title'].lower()
+            title_words = re.findall(r'\b\w{3,}\b', title_low)
+            
+            # --- חישוב הציון המתוחכם ---
+            pos_score = sum(pos_model.get(w, 0) for w in title_words)
+            neg_score = sum(blocked_words.get(w, 0) for w in title_words)
+            
+            # נוסחת ההחלטה: (הסתברות חיובית / (הסתברות שלילית + 1))
+            final_prob = (pos_score + 5) / (neg_score + 1)
+            
+            # בונוסים על מילות מפתח טכניות
+            if any(tech in title_low for tech in ['tutorial', 'fix', 'how', 'course', 'setup']):
+                final_prob *= 2
+            
+            # אם ההסתברות גבוהה מ-1.5 (כלומר החיובי מנצח את השלילי משמעותית)
+            if final_prob > 1.2:
+                new_candidates.append(rec)
+                seen.add(rec['id'])
         
-        if len(new_candidates) > 500: break
-        time.sleep(0.5)
+        if len(new_candidates) > 600: break
+        time.sleep(0.2)
 
     with open(PENDING_FILE, 'w', encoding='utf-8') as f:
         json.dump(new_candidates, f, indent=2, ensure_ascii=False)
     
-    print(f"✅ סיום! {len(new_candidates)} סרטונים איכותיים מוכנים לבדיקה במחשב האישי.")
+    print(f"🎯 סריקה הושלמה. נמצאו {len(new_candidates)} סרטונים בעלי סבירות פתיחה גבוהה.")
 
 if __name__ == "__main__":
-    run()
+    import random
+    run_sophisticated_scan()

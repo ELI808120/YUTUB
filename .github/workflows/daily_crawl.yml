@@ -1,13 +1,13 @@
 name: YouTube Netfree Crawler
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+  # ביטלנו את ה-cron כדי למנוע כפילויות מיותרות
+  workflow_dispatch: # מאפשר למחשב שלך להפעיל את הסורק ידנית/דרך קוד
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 60 # נותן לו עד שעה לסיים סריקה ענקית
     permissions:
       contents: write
 
@@ -15,17 +15,18 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # קריטי כדי שיוכל לעשות rebase
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
 
-      - name: Install yt-dlp
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp
+          # הוספנו את requests ליתר ביטחון אם הקוד ישתמש בו
+          pip install yt-dlp requests
 
       - name: Run Crawler
         run: python crawler.py
@@ -35,28 +36,21 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          # מוסיף את הקובץ שהשתנה
           git add pending_check.json
           
-          # יוצר קומיט. אם אין שינויים, פשוט יוצא
-          git commit -m "Update pending queue [skip ci]" || exit 0
+          # אם אין שינויים, לא עוצר אלא ממשיך
+          git commit -m "Update pending queue [skip ci]" || echo "No changes to commit"
           
-          # לולאת ניסיונות חוזרים (עד 5 פעמים) כדי לנצח את המרוץ
-          for i in {1..5}; do
+          for i in {1..10}; do # הגדלנו ל-10 ניסיונות בגלל שהקובץ כבד
             echo "Attempt $i to push changes..."
-            
-            # משיכת שינויים מהבית ושילובם
             git pull --rebase origin main
-            
-            # ניסיון דחיפה
             if git push origin main; then
               echo "✅ Push succeeded!"
               exit 0
             fi
-            
             echo "⚠️ Conflict detected, retrying in 5 seconds..."
             sleep 5
           done
           
-          echo "❌ Failed to push after 5 attempts."
+          echo "❌ Failed to push after 10 attempts."
           exit 1

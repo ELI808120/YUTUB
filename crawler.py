@@ -81,7 +81,7 @@ def run_system():
     start_time = time.time()
     MAX_RUNTIME_SECONDS = 600  # הגבלה ל-10 דקות
     
-    print(f"--- Launching MAMMOTH CRAWLER v5.0 [{datetime.now().strftime('%H:%M:%S')}] ---")
+    print(f"--- Launching MAMMOTH CRAWLER v5.1 [{datetime.now().strftime('%H:%M:%S')}] ---")
     
     def is_time_up():
         return (time.time() - start_time) > MAX_RUNTIME_SECONDS
@@ -98,56 +98,60 @@ def run_system():
     seen_ids = {v['id'] for v in history}
     new_candidates = []
 
-    # 1. שלב ראשון: חיפוש רחב
-    print("🔎 Phase 1: Broad Search...")
-    for kw in random.sample(SEARCH_KEYWORDS, 4):
-        if is_time_up(): break
-        print(f"   Searching for: {kw}")
-        results = crawler.search_youtube(kw)
-        for vid_id, title, chan_id in results:
-            if vid_id not in seen_ids:
-                new_candidates.append({
-                    "id": vid_id, 
-                    "title": title, 
-                    "score": brain.get_score(title)
-                })
-                seen_ids.add(vid_id)
-
-    # 2. שלב שני: איסוף מהיר מערוצים
-    print("📡 Phase 2: Rapid Deep Crawl & Channel Harvesting...")
-    seeds = random.sample(history, min(len(history), 20))
-    for seed in seeds:
-        if is_time_up() or len(new_candidates) >= MAX_CANDIDATES:
-            break
-            
-        recs = crawler.get_recommendations(seed['id'])
-        for vid_id, title, chan_id in recs:
+    try:
+        # 1. שלב ראשון: חיפוש רחב
+        print("🔎 Phase 1: Broad Search...")
+        for kw in random.sample(SEARCH_KEYWORDS, 4):
             if is_time_up(): break
-            if vid_id in seen_ids: continue
-            
-            score = brain.get_score(title)
-            if score > 5:
-                print(f"   High score ({score:.2f}) found! Harvesting channel: {chan_id}")
-                chan_vids = crawler.get_channel_videos(chan_id)
-                for cv in chan_vids:
-                    if cv['id'] not in seen_ids:
-                        cv['score'] = brain.get_score(cv['title'])
-                        new_candidates.append(cv)
-                        seen_ids.add(cv['id'])
-            elif score > 0.5:
-                new_candidates.append({"id": vid_id, "title": title, "score": score})
-                seen_ids.add(vid_id)
+            print(f"   Searching for: {kw}")
+            results = crawler.search_youtube(kw)
+            for vid_id, title, chan_id in results:
+                if is_time_up(): break
+                if vid_id not in seen_ids:
+                    new_candidates.append({
+                        "id": vid_id, 
+                        "title": title, 
+                        "score": brain.get_score(title)
+                    })
+                    seen_ids.add(vid_id)
 
-    # --- שמירה וסיכום ---
-    print(f"💾 Processing {len(new_candidates)} candidates...")
-    new_candidates.sort(key=lambda x: x.get('score', 0), reverse=True)
-    final_output = [{"id": v['id'], "title": v['title']} for v in new_candidates[:MAX_CANDIDATES]]
-    
-    with open(PENDING_FILE, 'w', encoding='utf-8') as f:
-        json.dump(final_output, f, indent=2, ensure_ascii=False)
+        # 2. שלב שני: איסוף מהיר מערוצים
+        print("📡 Phase 2: Rapid Deep Crawl & Channel Harvesting...")
+        seeds = random.sample(history, min(len(history), 20))
+        for seed in seeds:
+            if is_time_up() or len(new_candidates) >= MAX_CANDIDATES:
+                break
+                
+            recs = crawler.get_recommendations(seed['id'])
+            for vid_id, title, chan_id in recs:
+                if is_time_up(): break
+                if vid_id in seen_ids: continue
+                
+                score = brain.get_score(title)
+                if score > 5:
+                    print(f"   High score ({score:.2f}) found! Harvesting channel: {chan_id}")
+                    chan_vids = crawler.get_channel_videos(chan_id)
+                    for cv in chan_vids:
+                        if is_time_up(): break # בדיקת זמן בתוך לולאת הערוץ
+                        if cv['id'] not in seen_ids:
+                            cv['score'] = brain.get_score(cv['title'])
+                            new_candidates.append(cv)
+                            seen_ids.add(cv['id'])
+                elif score > 0.5:
+                    new_candidates.append({"id": vid_id, "title": title, "score": score})
+                    seen_ids.add(vid_id)
 
-    elapsed = int(time.time() - start_time)
-    print(f"✅ Mission Accomplished in {elapsed}s: {len(final_output)} candidates ready.")
+    finally:
+        # --- שמירה וסיכום (מבוצע תמיד, גם אם הזמן נגמר) ---
+        print(f"💾 Time is up or finished! Processing {len(new_candidates)} candidates collected so far...")
+        new_candidates.sort(key=lambda x: x.get('score', 0), reverse=True)
+        final_output = [{"id": v['id'], "title": v['title']} for v in new_candidates[:MAX_CANDIDATES]]
+        
+        with open(PENDING_FILE, 'w', encoding='utf-8') as f:
+            json.dump(final_output, f, indent=2, ensure_ascii=False)
+
+        elapsed = int(time.time() - start_time)
+        print(f"✅ Mission Finished in {elapsed}s: {len(final_output)} candidates ready.")
 
 if __name__ == "__main__":
     run_system()

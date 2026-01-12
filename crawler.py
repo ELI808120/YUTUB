@@ -14,10 +14,9 @@ REPO = "ELI808120/YUTUB"
 HISTORY_FILE = "final_history_final.json"
 PENDING_FILE = "pending_check.json"
 BLOCK_LOG = "block_patterns.json"
-MAX_CANDIDATES = 1000 # הגדלת הכמות למקסימום
+MAX_CANDIDATES = 1000 
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 
-# מילות מפתח לחיפוש רחב (מנוע הדיג הגדול)
 SEARCH_KEYWORDS = [
     "National Geographic Documentary", "Space Exploration 4K", "Science Experiment",
     "Cooking Recipe Tutorial", "Nature Relaxation 8K", "Woodworking Projects",
@@ -34,7 +33,7 @@ class BrainEngine:
 
     def _build_model(self, data):
         model = {}
-        for item in data[-1000:]: # למידה מ-1000 הצלחות אחרונות
+        for item in data[-1000:]: 
             words = self.tokenize(item.get('title', ''))
             for w in words:
                 model[w] = model.get(w, 0) + 1
@@ -72,7 +71,6 @@ class YouTubeCrawlHandler:
         return re.findall(r'"videoId":"([a-zA-Z0-9_-]{11})".*?"title":\{"runs":\[\{"text":"(.*?)"\}\].*?"channelId":"(UC[a-zA-Z0-9_-]{22})"', html)
 
     def get_channel_videos(self, channel_id):
-        # משיכה מ-RSS (מהיר) + ניסיון דף סרטונים
         url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
         xml_content = self.get_html(url)
         video_ids = re.findall(r'<yt:videoId>(.*?)</yt:videoId>', xml_content)
@@ -80,13 +78,11 @@ class YouTubeCrawlHandler:
         return [{"id": v, "title": t} for v, t in zip(video_ids, titles)]
 
 def run_system():
-    # הגדרת נקודת התחלה ומגבלת זמן (10 דקות)
     start_time = time.time()
-    MAX_RUNTIME_SECONDS = 600 
+    MAX_RUNTIME_SECONDS = 600  # הגבלה ל-10 דקות
     
     print(f"--- Launching MAMMOTH CRAWLER v5.0 [{datetime.now().strftime('%H:%M:%S')}] ---")
     
-    # פונקציית עזר לבדיקה מהירה אם חרגנו מהזמן
     def is_time_up():
         return (time.time() - start_time) > MAX_RUNTIME_SECONDS
 
@@ -95,7 +91,6 @@ def run_system():
             with open(path, 'r', encoding='utf-8') as f: return json.load(f)
         return [] if "history" in path else {}
 
-    # טעינת נתונים
     history = load_json(HISTORY_FILE)
     blocked_words = load_json(BLOCK_LOG)
     brain = BrainEngine(history, blocked_words)
@@ -103,11 +98,10 @@ def run_system():
     seen_ids = {v['id'] for v in history}
     new_candidates = []
 
-    # 1. חלק ראשון: חיפוש רחב לפי מילות מפתח
-    print("🔎 Phase 1: Broad Search for new niches...")
+    # 1. שלב ראשון: חיפוש רחב
+    print("🔎 Phase 1: Broad Search...")
     for kw in random.sample(SEARCH_KEYWORDS, 4):
-        if is_time_up(): break # בדיקת זמן
-        
+        if is_time_up(): break
         print(f"   Searching for: {kw}")
         results = crawler.search_youtube(kw)
         for vid_id, title, chan_id in results:
@@ -119,7 +113,7 @@ def run_system():
                 })
                 seen_ids.add(vid_id)
 
-    # 2. חלק שני: חפירה מסביב להיסטוריה ואיסוף ערוצים
+    # 2. שלב שני: איסוף מהיר מערוצים
     print("📡 Phase 2: Rapid Deep Crawl & Channel Harvesting...")
     seeds = random.sample(history, min(len(history), 20))
     for seed in seeds:
@@ -129,11 +123,9 @@ def run_system():
         recs = crawler.get_recommendations(seed['id'])
         for vid_id, title, chan_id in recs:
             if is_time_up(): break
-            
             if vid_id in seen_ids: continue
-            score = brain.get_score(title)
             
-            # אם נמצא סרטון מבטיח (ציון מעל 5), שואבים את כל הערוץ שלו
+            score = brain.get_score(title)
             if score > 5:
                 print(f"   High score ({score:.2f}) found! Harvesting channel: {chan_id}")
                 chan_vids = crawler.get_channel_videos(chan_id)
@@ -142,14 +134,11 @@ def run_system():
                         cv['score'] = brain.get_score(cv['title'])
                         new_candidates.append(cv)
                         seen_ids.add(cv['id'])
-                # הערה: אנחנו לא מבצעים רקורסיה על סרטוני הערוץ כדי לא להתקע
-            
             elif score > 0.5:
                 new_candidates.append({"id": vid_id, "title": title, "score": score})
                 seen_ids.add(vid_id)
 
-    # --- סיכום, מיון ושמירה ---
-    # שלב זה ירוץ תמיד, גם אם הלולאות למעלה נעצרו בגלל מגבלת זמן
+    # --- שמירה וסיכום ---
     print(f"💾 Processing {len(new_candidates)} candidates...")
     new_candidates.sort(key=lambda x: x.get('score', 0), reverse=True)
     final_output = [{"id": v['id'], "title": v['title']} for v in new_candidates[:MAX_CANDIDATES]]
@@ -159,15 +148,6 @@ def run_system():
 
     elapsed = int(time.time() - start_time)
     print(f"✅ Mission Accomplished in {elapsed}s: {len(final_output)} candidates ready.")
-
-    # מיון ושמירה
-    new_candidates.sort(key=lambda x: x.get('score', 0), reverse=True)
-    final_output = [{"id": v['id'], "title": v['title']} for v in new_candidates[:MAX_CANDIDATES]]
-    
-    with open(PENDING_FILE, 'w', encoding='utf-8') as f:
-        json.dump(final_output, f, indent=2, ensure_ascii=False)
-
-    print(f"✅ Mission Accomplished: {len(final_output)} candidates ready for NetFree check.")
 
 if __name__ == "__main__":
     run_system()

@@ -1,1 +1,2982 @@
-[]
+[
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון/Python פרק 4 - פעולות חשבוניות",
+    "score": 110
+  },
+  {
+    "id": "DNKpAZTXhhU",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "A5EiLLDTIQU",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "L6nzniWbeCs",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "KMO371fCkNM",
+    "title": "Learn 10 Beginner Bushcraft \\u0026 Survival Skills!",
+    "score": 50
+  },
+  {
+    "id": "mO01HHe-k2s",
+    "title": "How to Calculate Faster than a Calculator - Mental Math #1",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "ASMR car restoration of rusty 1940 Dodge Business Coupe from grandma's old barn in the countryside",
+    "score": 50
+  },
+  {
+    "id": "qXvIuOGzKAQ",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "Is This Abandoned Water Tower The Best Restoration Project Ever? | Restoration Man | S4 EP10",
+    "score": 50
+  },
+  {
+    "id": "Lxs4cBMY7DQ",
+    "title": "Toyota Land Cruiser Full Restoration Project | From Abandoned to Legendary",
+    "score": 50
+  },
+  {
+    "id": "FJnQfGeg6fY",
+    "title": "'Safer, healthier, more accessible': $7M Kalamazoo River restoration project completed",
+    "score": 50
+  },
+  {
+    "id": "GMD7N0UEmsQ",
+    "title": "Florida breaks ground on major Everglades restoration project",
+    "score": 50
+  },
+  {
+    "id": "BVNGjDZS008",
+    "title": "Louisiana shifts coastal strategy after canceling two major restoration projects",
+    "score": 50
+  },
+  {
+    "id": "IirYQZXmkyY",
+    "title": "Maumee River restoration project now complete",
+    "score": 50
+  },
+  {
+    "id": "J73WmPP9vzE",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "Restoration Gumball Machine Stahlberg 1980s",
+    "score": 50
+  },
+  {
+    "id": "ZTimVStLZh0",
+    "title": "Gumball Machine Restoration/Restore",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "Restoring a Burned SUZUKI Box Truck Abandoned for Many Years | Full Restoration",
+    "score": 50
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Gummie Candy, Croissants, Sandwich Cookies, \\u0026 More Snacks | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "Pt4bwEqGF7Y",
+    "title": "ICE Agents Make Arrest in Minneapolis Days After Fatal Shooting",
+    "score": 50
+  },
+  {
+    "id": "EKprw-Bec0M",
+    "title": "How To Be Mature",
+    "score": 50
+  },
+  {
+    "id": "eEq1Qj5Cmqc",
+    "title": "Lewis Miley scores first Newcastle goal to make it 1-0 against Fulham | Premier League | NBC Sports",
+    "score": 50
+  },
+  {
+    "id": "QA138oMv69M",
+    "title": "C. S. Lewis Gives Evidence for God's Existence that Makes Atheists Mad!",
+    "score": 50
+  },
+  {
+    "id": "sNAQAFvwt3k",
+    "title": "Secretary Turner Uncovers 509 Dead Tenants in Minnesota | Makes Mamdani Regret His Woke Housing Czar",
+    "score": 50
+  },
+  {
+    "id": "Y-rIXcAP7jw",
+    "title": "How To Deal With Parents' Divorce In Your 20's",
+    "score": 50
+  },
+  {
+    "id": "CGP1Q25z46E",
+    "title": "8. The Sumerians - Fall of the First Cities",
+    "score": 10
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "✅ The guy shows SURVIVAL skills in the wilderness 💦 #camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "36E28cSEDRs",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "Survival Skills: Firestarter for Extreme Conditions. #survival #skills #lifehacks #camping",
+    "score": 10
+  },
+  {
+    "id": "0dVdwjcWl2Q",
+    "title": "Survival Skills: Made Soap Kindling for Survival 🌳 #survival #bushcraft #camping #outdoors",
+    "score": 10
+  },
+  {
+    "id": "MDkOVt_Bf-w",
+    "title": "✅Wild Survival Skills: Filter Muddy Water 🌿💧 #camping #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "dMIqr6YlR_w",
+    "title": "Bushcraft Winter Shelter: Hidden Refuge, Fire Cooking \\u0026 Survival Skills",
+    "score": 10
+  },
+  {
+    "id": "_aNgbknNuLQ",
+    "title": "Survival bushcraft skills #bushcraft #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "PYRrOIS_JWc",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "RLmUxXO8pKs",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "SSitRqKIt48",
+    "title": "Cordage",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Simple Math Tricks You Weren’t Taught at School",
+    "score": 10
+  },
+  {
+    "id": "LERb-94P8po",
+    "title": "Adding fractions",
+    "score": 10
+  },
+  {
+    "id": "OjdoU97fv8w",
+    "title": "Awesome Math Trick with Mr. Bean.",
+    "score": 10
+  },
+  {
+    "id": "2DQgKrRxV9k",
+    "title": "Only for a Genius! Connect 1 to 1, 2 to 2 \\u0026 3 to 3 without crossing the lines! #math #youtube",
+    "score": 10
+  },
+  {
+    "id": "Nx0SWj1y8jk",
+    "title": "Mental Math Tricks - Addition, Subtraction, Multiplication \\u0026 Division!",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v4U4b7UP5xc",
+    "title": "This Math Trick is Black Magic",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "Can You Pass This Maths Quiz...? ➗✖️🧠 | Easy, Medium, Hard, Impossible | Quiz Blitz",
+    "score": 10
+  },
+  {
+    "id": "D6IqViNgGbk",
+    "title": "Calculator - Fractions",
+    "score": 10
+  },
+  {
+    "id": "cYKVTbdyxQ8",
+    "title": "Fast Multiplication Tricks 2 Digit Numbers",
+    "score": 10
+  },
+  {
+    "id": "hffbhcDepMM",
+    "title": "Easy Math Tricks Never Taught in School!  #maths  #mathstricks  #mathematics",
+    "score": 10
+  },
+  {
+    "id": "hnzWHBCw2uU",
+    "title": "10 Math Tricks School Didn't Teach You But Should Have",
+    "score": 10
+  },
+  {
+    "id": "itW2Eie2eQ8",
+    "title": "Multiply by 9",
+    "score": 10
+  },
+  {
+    "id": "ObiqJzfyACM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "xEgtc4uAqSM",
+    "title": "$1,700 Abandoned Yacht Restored to Like New INSANE",
+    "score": 10
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "We're restoring a dying coral reef - here's how",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zRZZgQn7a8g",
+    "title": "I bought an ABANDONED Workshop - 1 Year Transformation *Timelapse*",
+    "score": 10
+  },
+  {
+    "id": "8Y4nk5yElGk",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "F4P7xM9cqvY",
+    "title": "About the song \\\"If This Is It\\\"",
+    "score": 10
+  },
+  {
+    "id": "Tbahrgt0uzo",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "eJblzuaxAOY",
+    "title": "15 Massive Sea Creatures Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "xweWz3BFFc4",
+    "title": "Sad News| Jayden Smith Cctv Footage Exp0se LA Lewis Find Evidence",
+    "score": 10
+  },
+  {
+    "id": "iJWFc0lKjtU",
+    "title": "But What Actually Is a Particle? How Quantum Fields Shape Reality",
+    "score": 10
+  },
+  {
+    "id": "3GeKUQfO5_k",
+    "title": "Distractions Pt.2 - Bad News - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "SNuW6bUNzSY",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "gRxBe2Pkj1Y",
+    "title": "The Tragedy Of Huey Lewis",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "_cYGuh5Ax_E",
+    "title": "Dumplings.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "6as_1m9YAG0",
+    "title": "Fresh Cut Flowers.",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "mplRtR7NMtg",
+    "title": "Can A Scored Porsche Engine Be Saved? | Wheeler Dealers",
+    "score": 10
+  },
+  {
+    "id": "u0JyBP1m9HI",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "Mz86UFPMC20",
+    "title": "Birth of the Earth.",
+    "score": 10
+  },
+  {
+    "id": "zL93IObiPbw",
+    "title": "Glass Paperweights - Originally aired 2010",
+    "score": 10
+  },
+  {
+    "id": "lE7EGwpJfMg",
+    "title": "Tortilla Chips.",
+    "score": 10
+  },
+  {
+    "id": "5XFLpRN2tYc",
+    "title": "Pillows - Originally aired 2014",
+    "score": 10
+  },
+  {
+    "id": "qY45EKqgRUc",
+    "title": "Aerogel - Originally aired 2014",
+    "score": 10
+  },
+  {
+    "id": "fyFsfBCc4kk",
+    "title": "The Power Of Love- Huey Lewis And The News",
+    "score": 10
+  },
+  {
+    "id": "kqPCfMiiYsI",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "Ci_JWPxC3qo",
+    "title": "Lewis family could invest more money in Tottenham Hotspur",
+    "score": 10
+  },
+  {
+    "id": "lXx1UcKXAII",
+    "title": "American Psycho - Do you like Huey Lewis and the News?",
+    "score": 10
+  },
+  {
+    "id": "vWxZwGvh_wY",
+    "title": "Lewis County, WA flooding impacts roads, safety | FOX 13 Seattle",
+    "score": 10
+  },
+  {
+    "id": "eY8pQMt8eB4",
+    "title": "LATEST F1 NEWS | Ferrari's Lewis Hamilton, Jacques Villeneuve, Max Verstappen, Isack Hadjar \\u0026 more.",
+    "score": 10
+  },
+  {
+    "id": "kgvZ92RPlG0",
+    "title": "TERRIBLE NEWS For Hamilton After NEW EVIDENCE Remerged About Ferrari REPLACEMENT!",
+    "score": 10
+  },
+  {
+    "id": "pii1s28o9oY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "-sbBhk8Nms8",
+    "title": "Who Were The Super-Archaic 'Ghost' Humans?",
+    "score": 10
+  },
+  {
+    "id": "YXxdRyuZ53A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7OweNJyctHM",
+    "title": "We Found Animal Companys First Ghost (pogo19)",
+    "score": 10
+  },
+  {
+    "id": "yoCsC5YpOmM",
+    "title": "Most TERRIFYING Moments From Ghost Adventures | Ghost Adventures | Travel Channel",
+    "score": 10
+  },
+  {
+    "id": "NDFLR80h9ls",
+    "title": "Paranormal Activity: The Guyra Ghost",
+    "score": 10
+  },
+  {
+    "id": "6q6QqgGVlZM",
+    "title": "1 MINUTE AGO: The Encrypted File That Exposed Zak Bagans… Then He Vanished...",
+    "score": 10
+  },
+  {
+    "id": "RnwpDjrw44g",
+    "title": "Shocking Priya Incident (Fight For Justice).!🥺😱",
+    "score": 10
+  },
+  {
+    "id": "XqzEAQEBxzo",
+    "title": "3 Scary TRUE Snowy Night Horror Stories",
+    "score": 10
+  },
+  {
+    "id": "b0ISG2hhpLA",
+    "title": "Haunted House Mystery - True Story of the Schoolmaster's Ghost",
+    "score": 10
+  },
+  {
+    "id": "3hAQCz-KCBk",
+    "title": "PREPARED FOR WAR: Trump turns up pressure on Iran as CHAOS erupts",
+    "score": 10
+  },
+  {
+    "id": "F4pF0GvbA5E",
+    "title": "FAN FAVORITE Horror Stories of America's Haunted Forests! | These Woods Are Haunted | Travel Channel",
+    "score": 10
+  },
+  {
+    "id": "FcN_3CWQMqg",
+    "title": "ഇത്ര ക്ഷമയില്ലാത്തവർ എന്തിനാ ഈ പണിക്ക് നിൽക്കുന്നത് 🤦😔🙏",
+    "score": 10
+  },
+  {
+    "id": "VvgGy70Damw",
+    "title": "Demonic Entity Wants Son's Soul! | Ghost Adventures | Travel Channel",
+    "score": 10
+  },
+  {
+    "id": "T2xF0sdRHYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JASI1etXs3s",
+    "title": "99 Nights But You Can CRAFT Banned Classes!",
+    "score": 10
+  },
+  {
+    "id": "8auqt0h804U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "e18JlW7QpCM",
+    "title": "Mass Effect 1 Synth",
+    "score": 10
+  },
+  {
+    "id": "Jkci5U5TV7A",
+    "title": "Mass Effect - Uncharted Worlds (State Azure Cover) // Eurorack, Digitone, Digitakt",
+    "score": 10
+  },
+  {
+    "id": "zcacOrGDL6Q",
+    "title": "The Great Unknown by Miracle Of Sound (Epic Synth Rock) (Mass Effect)",
+    "score": 10
+  },
+  {
+    "id": "vJHblObvFWM",
+    "title": "Suicide Mission (Synth Cover) from \\\"Mass Effect 2\\\"",
+    "score": 10
+  },
+  {
+    "id": "QK0VJQ0tMLo",
+    "title": "Mass Synth | Riders Republic (Original Game Soundtrack) | Justin Boreta, Edward Ma \\u0026 Josh Mayer",
+    "score": 10
+  },
+  {
+    "id": "UPWzTM2ako8",
+    "title": "Mozart Mass in C Minor - Kyrie  (Synth Arrangement)",
+    "score": 10
+  },
+  {
+    "id": "pt89FKSOlXc",
+    "title": "Mass effect synth sound for kenny",
+    "score": 10
+  },
+  {
+    "id": "8FaUenlVCpE",
+    "title": "80s mass effect synth",
+    "score": 10
+  },
+  {
+    "id": "uTlAKX86iao",
+    "title": "Someone In The Crowd Requested Blur Song 2 On Modular Synth haha",
+    "score": 10
+  },
+  {
+    "id": "nGqefb0qlds",
+    "title": "Mass Synth",
+    "score": 10
+  },
+  {
+    "id": "ilm9jIykgMw",
+    "title": "MASS EFFECT | Leaving Earth Synth Cover | Roland MC-707",
+    "score": 10
+  },
+  {
+    "id": "Gw5zQTTgV1s",
+    "title": "SYNTH MASS IN SHADOW",
+    "score": 10
+  },
+  {
+    "id": "qFc6-Cs_5hE",
+    "title": "Free Serum Mass Synth Pack (26 Synths)",
+    "score": 10
+  },
+  {
+    "id": "HYE2yBWdMHs",
+    "title": "'Mass Effect' - Arturia Microbrute One-Synth Recording (multitracked)",
+    "score": 10
+  },
+  {
+    "id": "XnoulI7sAxM",
+    "title": "Mass Effect - Ambient Synth Music",
+    "score": 10
+  },
+  {
+    "id": "9p0QifJGIEs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "o7xr6Fq9Nww",
+    "title": "This is a DISASTER: Sen. Graham",
+    "score": 10
+  },
+  {
+    "id": "iQyP7-XQdcs",
+    "title": "Iranian leader issues CHILLING warning to US: ‘Legitimate targets’",
+    "score": 10
+  },
+  {
+    "id": "-91oQSXq_zk",
+    "title": "Latest news on Iran as Trump weighs potential intervention options",
+    "score": 10
+  },
+  {
+    "id": "SN_JiIAixzk",
+    "title": "Cuban leader REJECTS Trump's warning: 'Last drop of blood'",
+    "score": 10
+  },
+  {
+    "id": "oyAyLS-rsrg",
+    "title": "State Dept issues CHILLING warning to US citizens: 'LEAVE IRAN NOW'",
+    "score": 10
+  },
+  {
+    "id": "5oEC-WIr-hA",
+    "title": "Marco Rubio Cringes as Trump Accidentally Reads Private Note Aloud",
+    "score": 10
+  },
+  {
+    "id": "rum0M2bhEnI",
+    "title": "'What have they been watching?!': Ilhan Omar TORCHED over new claim about ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "ciFXx5bmC_4",
+    "title": "500+ killed as Iran cracks down on protesters \\u0026 issues threat to U.S.",
+    "score": 10
+  },
+  {
+    "id": "BRAcOgMdxfY",
+    "title": "This Morning’s Top Headlines – Jan. 13 | Morning News NOW",
+    "score": 10
+  },
+  {
+    "id": "nXP-2sqoxzA",
+    "title": "'OUTRAGEOUS': Border Patrol head tears into Minnesota Dems' take on ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "lkVhamN_dEU",
+    "title": "Jenin Younes - Minneapolis and the Escalating Undermining of Civil Liberties | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "osA31q_jkX0",
+    "title": "Iran protests escalate as regime crackdown leaves more than 500 dead",
+    "score": 10
+  },
+  {
+    "id": "vBtrGTa0Dqc",
+    "title": "Iran protests escalate as regime crackdown leaves more than 500 dead",
+    "score": 10
+  },
+  {
+    "id": "knhJINXfEXg",
+    "title": "Iran's President joins pro-government demonstrators as Donald Trump weighs responses to a deadly crackdown on anti-regime protests",
+    "score": 10
+  },
+  {
+    "id": "wyjahLZjl3s",
+    "title": "'What have they been watching?!': Ilhan Omar TORCHED over new claim about ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "7AH-JMXoGxw",
+    "title": "Top U.S. \\u0026 World Headlines — January 13, 2026",
+    "score": 10
+  },
+  {
+    "id": "7A1B6y1BaRY",
+    "title": "Trump Is Already Done With Pam Bondi 😬 | Chris Cillizza",
+    "score": 10
+  },
+  {
+    "id": "BUuePBSfK80",
+    "title": "BREAKING: James Comer Speaks To Reporters After Bill Clinton Refuses To Testify In Epstein Probe",
+    "score": 10
+  },
+  {
+    "id": "j0QBjvLv-Zw",
+    "title": "Trump Responds to Outrage in Minneapolis by Sending in More ICE Agents \\u0026 Wants a Nobel Peace Prize",
+    "score": 10
+  },
+  {
+    "id": "pAoQ8Xx5BRo",
+    "title": "Joe: The latest Trump chaos is not making life better for working Americans",
+    "score": 10
+  },
+  {
+    "id": "AXBYCs5Lz_4",
+    "title": "President Trump speaks to reporters outside the White House",
+    "score": 10
+  },
+  {
+    "id": "gk0xyPHdtWg",
+    "title": "'OUTRAGEOUS': Border Patrol head tears into Minnesota Dems' take on ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "p49Ynp2rFK8",
+    "title": "Marco Rubio Cringes as Trump Accidentally Reads Private Note Aloud",
+    "score": 10
+  },
+  {
+    "id": "-FKALzeQb-c",
+    "title": "Enten: ‘Trump is losing the political fight to Jerome Powell’",
+    "score": 10
+  },
+  {
+    "id": "bGVm3l7KM3A",
+    "title": "Harry Enten looks at Americans’ support for an independent Federal Reserve",
+    "score": 10
+  },
+  {
+    "id": "T38d84cB2mY",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - January 11, 2026",
+    "score": 10
+  },
+  {
+    "id": "iH0RKO7k6hI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4Uj13fIpoKE",
+    "title": "Distractions 3 - Religious Rites - A Message by: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "EkBApvlOJ3A",
+    "title": "Distractions Pt.2 - Bad News - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "095VWGWuvAM",
+    "title": "Letting Go of Distractions - Travel Light, Part 2 with Pastor Craig Groeschel",
+    "score": 10
+  },
+  {
+    "id": "51MAxagbuOA",
+    "title": "CHOOSING WHAT IS BEST",
+    "score": 10
+  },
+  {
+    "id": "BFxGWL0n5cw",
+    "title": "Shut the Door on Distractions - The Good Work Part 4 with Craig Groeschel",
+    "score": 10
+  },
+  {
+    "id": "KXJClS_qZAw",
+    "title": "The Good Work",
+    "score": 10
+  },
+  {
+    "id": "MG90JYIteWw",
+    "title": "Bad Friends, Bad Results - A Message by: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "nwn6XeY4F0s",
+    "title": "Bad Friends Bad Results",
+    "score": 10
+  },
+  {
+    "id": "DRrw3FumDms",
+    "title": "Episode 59 - Eliminate Distractions: Cut the Slack, Part 1",
+    "score": 10
+  },
+  {
+    "id": "WFz9_i7b1os",
+    "title": "Growing Up - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "A5eF7OyEDK8",
+    "title": "If You’re Going Through Something Difficult",
+    "score": 10
+  },
+  {
+    "id": "S7sGGQCruuE",
+    "title": "Yield - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "d56g8yZquT0",
+    "title": "Romans 6 14 for Sin Shall Not Have Dominion over You",
+    "score": 10
+  },
+  {
+    "id": "lEkE8sPfo2Q",
+    "title": "When Your Mind Is Out of Control",
+    "score": 10
+  },
+  {
+    "id": "8dgSQzQ-oPs",
+    "title": "Does Your Mind Race All The Time?",
+    "score": 10
+  },
+  {
+    "id": "cWnDfMlwRFU",
+    "title": "Examine Yourself with the Word of God",
+    "score": 10
+  },
+  {
+    "id": "Ox8vPkoLXFQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PktUQj5I4Zs",
+    "title": "Broken - A Message by: G. .Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "XtOzQ0lFnkg",
+    "title": "Generational Heresies - A Message by: G Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "AzRZBNj_H2s",
+    "title": "Strange Fruit - A Message By: G. Craige Lewis",
+    "score": 10
+  },
+  {
+    "id": "Vkrz8ds8L4s",
+    "title": "Don't Give Up! - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "NOF_QQIrzSg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6xCfBYMIeoc",
+    "title": "The Life-Changing Magic of Tidying Up",
+    "score": 10
+  },
+  {
+    "id": "RA8Cl3bW00Q",
+    "title": "Easy Yoke - A Message By: G. Craige Lewis of EX Ministries",
+    "score": 10
+  },
+  {
+    "id": "df_WvH_GVp8",
+    "title": "Matthew 11",
+    "score": 10
+  },
+  {
+    "id": "FBwhVSNQs0o",
+    "title": "The devil demands a sacrifice by G. Craige Lewis",
+    "score": 10
+  },
+  {
+    "id": "S1q4HIv-bGA",
+    "title": "Your Most Focused Year Yet - Craig Groeschel Leadership Podcast",
+    "score": 10
+  },
+  {
+    "id": "3oLQw-XKE_I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NrxVX3iNvhY",
+    "title": "Dropkick Murphys: “MAGA Got Played”",
+    "score": 10
+  },
+  {
+    "id": "5BRHuiRyVEE",
+    "title": "The Dropkick Murphys Take on MAGA Fans in an Epic Wager!",
+    "score": 10
+  },
+  {
+    "id": "SCHUZ_ZbqeI",
+    "title": "Awesome anti-Trump rant as Dropkick Murphys announce 2-part new album at NY State Fair 2022 [HD]",
+    "score": 10
+  },
+  {
+    "id": "ZhxkRTA5jNI",
+    "title": "MAGA gets Dropkicked.",
+    "score": 10
+  },
+  {
+    "id": "A-OpBLwWKiM",
+    "title": "Crowd Goes WILD as Musician Calls MAGA Man's Bluff",
+    "score": 10
+  },
+  {
+    "id": "0-cwXinScBU",
+    "title": "Dropkick Murphys MOCKS Trump and Musk at SOLD OUT Boston Show - 3/15/25",
+    "score": 10
+  },
+  {
+    "id": "OXJNBhUdBw4",
+    "title": "Irish Girl's First Time Hearing Dropkick Murphys | I'm Shipping Up To Boston",
+    "score": 10
+  },
+  {
+    "id": "NxBg6VlL5YY",
+    "title": "MAGA Mike PANICS as his PARTY REVOLTS!",
+    "score": 10
+  },
+  {
+    "id": "cnQRcYnG-CQ",
+    "title": "Venezuela's End: Next on the Chopping Block || Peter Zeihan",
+    "score": 10
+  },
+  {
+    "id": "CXq4o6PwKqY",
+    "title": "Dropkick Murphys - (Full Set) @ Gazi Music Hall, Athens 03/06/2019",
+    "score": 10
+  },
+  {
+    "id": "KEPzhuefbP4",
+    "title": "Cadence to Arms",
+    "score": 10
+  },
+  {
+    "id": "W04R_RdZb3A",
+    "title": "Song Intro: Dropkick Murphys and Politics",
+    "score": 10
+  },
+  {
+    "id": "tV7baCSut1c",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lGHeCkp4soU",
+    "title": "Dropkick Murphys Band Attacks Fan For Wearing MAGA Hat",
+    "score": 10
+  },
+  {
+    "id": "DtF586vPPUM",
+    "title": "Dropkick Murphys Are Not A Fan Of MAGA",
+    "score": 10
+  },
+  {
+    "id": "cPxdUUVB7OM",
+    "title": "Dropkick Murphys - \\\"Bar Room Hero\\\"",
+    "score": 10
+  },
+  {
+    "id": "kM2Cf6h0-rs",
+    "title": "Ken Casey \\u0026 The Dropkick Murphys spitting some 🔥🔥🔥 !!! [HD]",
+    "score": 10
+  },
+  {
+    "id": "n6RKU3S9b68",
+    "title": "Intro: \\\"This is America, there's no kings here!\\\"",
+    "score": 10
+  },
+  {
+    "id": "ubEVJUtldTU",
+    "title": "MAGA Fans Humiliated After Punk Rock Icon CALLS THEM OUT",
+    "score": 10
+  },
+  {
+    "id": "igE_T-S4rgs",
+    "title": "Dropkick Murphys Publicly Humiliate MAGA Fanboys to Their Faces",
+    "score": 10
+  },
+  {
+    "id": "SZ-r3n16dMU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wGpvloAr3ek",
+    "title": "Huey Lewis and the News - I Want A New Drug  (Rock am Ring, August 3, 1985)",
+    "score": 10
+  },
+  {
+    "id": "soYKJUre1_0",
+    "title": "Huey Lewis and the News - It’s All Right (Rock am Ring, August 3, 1985)",
+    "score": 10
+  },
+  {
+    "id": "kaTXk8A3C8U",
+    "title": "Huey Lewis and the News - The Power Of Love (Rock am Ring, August 3, 1985)",
+    "score": 10
+  },
+  {
+    "id": "N4-8OL_gW7Q",
+    "title": "Huey Lewis and the News - Trouble In Paradise (Rock am Ring, August 3, 1985)",
+    "score": 10
+  },
+  {
+    "id": "EI7PFqC1zSk",
+    "title": "Huey on the Nothing Left Unsaid podcast",
+    "score": 10
+  },
+  {
+    "id": "0xiErZP1QEA",
+    "title": "Relaying a message from Huey Lewis to Hootie and The Blowfish",
+    "score": 10
+  },
+  {
+    "id": "ALDuZWpjU3o",
+    "title": "Huey's Caricature Added To Sardi's",
+    "score": 10
+  },
+  {
+    "id": "6sBt_P80RC8",
+    "title": "Huey Lewis - An emotional speech",
+    "score": 10
+  },
+  {
+    "id": "_x40T3N_5bA",
+    "title": "The Heart of Rock and Roll - Broadway edition",
+    "score": 10
+  },
+  {
+    "id": "1ZhJVQtNOXo",
+    "title": "Back In Time",
+    "score": 10
+  },
+  {
+    "id": "ur57IunS9To",
+    "title": "Huey Lewis \\u0026 Gwyneth Paltrow   Cruisin is made for love HD",
+    "score": 10
+  },
+  {
+    "id": "E4gxSnP7RKc",
+    "title": "Huey Lewis \\u0026 The News - Perfect World",
+    "score": 10
+  },
+  {
+    "id": "VBWGqXgZytw",
+    "title": "Back to the Future • The Power of Love • Huey Lewis and the News",
+    "score": 10
+  },
+  {
+    "id": "aL6NdKvVkkQ",
+    "title": "Cruisin - Huey Lewis \\u0026 Gwyneth Paltrow (with lyrics)",
+    "score": 10
+  },
+  {
+    "id": "YHVhTFvhCMM",
+    "title": "Huey Lewis \\u0026 The News - Walking On A Thin Line",
+    "score": 10
+  },
+  {
+    "id": "Dfib3iqHKLY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "e3-Ao1feA2E",
+    "title": "Rescuers busy during Lewis County flooding",
+    "score": 10
+  },
+  {
+    "id": "ZHIsAW4DQ0w",
+    "title": "Lewis County, WA flooding impacts roads, safety | FOX 13 Seattle",
+    "score": 10
+  },
+  {
+    "id": "vsQzw_Ax8Cw",
+    "title": "G. Craige Lewis Exposes Hip Hop",
+    "score": 10
+  },
+  {
+    "id": "LuNOAtxKtSo",
+    "title": "Lewis County sees significant flooding Tuesday as region is hit hard by heavy rain",
+    "score": 10
+  },
+  {
+    "id": "UF2vUMmw38U",
+    "title": "Snow Falling Fast In Lewis County",
+    "score": 10
+  },
+  {
+    "id": "n-SuBTnYO0A",
+    "title": "1 Killed In Officer-Involved Shooting In Lewis County",
+    "score": 10
+  },
+  {
+    "id": "-7v3yr97ppQ",
+    "title": "Lewis County family hopes to exhume, relocate remains of Civil War veteran",
+    "score": 10
+  },
+  {
+    "id": "68MeP4feSBM",
+    "title": "Posters featuring faces of Lewis County High School seniors hung up as signs of appreciation",
+    "score": 10
+  },
+  {
+    "id": "f-MaSEdaae8",
+    "title": "Extreme drought conditions reported in Lewis County",
+    "score": 10
+  },
+  {
+    "id": "belY0t9bkek",
+    "title": "Lewis County judge suspended for inappropriate conduct",
+    "score": 10
+  },
+  {
+    "id": "E9Ll813tKvo",
+    "title": "Lewis County experiences snowfall",
+    "score": 10
+  },
+  {
+    "id": "fEMoI85hzec",
+    "title": "Lewis County man faces controlled substance homicide charge after woman dies of overdose",
+    "score": 10
+  },
+  {
+    "id": "oGefVwCI2iI",
+    "title": "Deadly crash investigation in Lewis County",
+    "score": 10
+  },
+  {
+    "id": "UHWlJv0eYpA",
+    "title": "Forrest V.S. Lewis County H.S. Basketball",
+    "score": 10
+  },
+  {
+    "id": "U3aMuafLcfk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "l30SXoUcXUE",
+    "title": "Eluvium ‎– Wisdom For Debris (2014) [FULL ALBUM]",
+    "score": 10
+  },
+  {
+    "id": "3lT2KvJx7Do",
+    "title": "1.Wisdom II",
+    "score": 10
+  },
+  {
+    "id": "Jlr1CyxA_GE",
+    "title": "His Grace will carry you | Full Album | Songs of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "5nTAWBNdN70",
+    "title": "Wisdom - Judas - ( full album - 2011 )",
+    "score": 10
+  },
+  {
+    "id": "NM1_GbKw8q0",
+    "title": "Under Your Wings | Full Album | Songs Of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "ZX4EK4El67w",
+    "title": "Ancient Wisdom - The Calling (Full Album)",
+    "score": 10
+  },
+  {
+    "id": "R_tOAjaLPgI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0l7Y4HGxhQs",
+    "title": "Iran cracks down on anti-government protests",
+    "score": 10
+  },
+  {
+    "id": "LYoL4wgGcTc",
+    "title": "Deadly protests erupt in Iran",
+    "score": 10
+  },
+  {
+    "id": "NYSv-xsNBec",
+    "title": "What Do Iran's Protests Mean for the World?",
+    "score": 10
+  },
+  {
+    "id": "rDKLx0a0KK0",
+    "title": "U-Haul Plows Into Crowd at Iran Protest in Los Angeles as Chaos Erupts on Video",
+    "score": 10
+  },
+  {
+    "id": "XXnIYbBTyWQ",
+    "title": "Trump responds to anti-government protests in Iran getting more violent",
+    "score": 10
+  },
+  {
+    "id": "QkmBUhk3drw",
+    "title": "Protesters attack driver after truck speeds through Iran demonstration in Los Angeles",
+    "score": 10
+  },
+  {
+    "id": "LUASfXIhEfY",
+    "title": "U-Haul plows through Los Angeles crowd supporting Iran protest; driver swarmed by protesters after",
+    "score": 10
+  },
+  {
+    "id": "RrvM24jEqNw",
+    "title": "Anti-government protests in Iran enter third week",
+    "score": 10
+  },
+  {
+    "id": "jIOZY8nEh8g",
+    "title": "What are Iranian protesters chanting?",
+    "score": 10
+  },
+  {
+    "id": "iDiStIlvMVg",
+    "title": "Death toll continues to rise as Iran protests intensify",
+    "score": 10
+  },
+  {
+    "id": "E5Uyzv9StG0",
+    "title": "Violent protests continue across Iran",
+    "score": 10
+  },
+  {
+    "id": "gDHpKmSMZhw",
+    "title": "Iran protests continues as Trump renews warning of possible US intervention",
+    "score": 10
+  },
+  {
+    "id": "lGFchVTM5hw",
+    "title": "What’s REALLY Going on in Iran",
+    "score": 10
+  },
+  {
+    "id": "gZ6LFTmbpMc",
+    "title": "Iran protests: 500 dead as death toll likely to rise",
+    "score": 10
+  },
+  {
+    "id": "vg0Y_kdtZCk",
+    "title": "What are Iranian protesters chanting?",
+    "score": 10
+  },
+  {
+    "id": "xhkxQW9m028",
+    "title": "Moment truck ploughs into crowd of Iranian protesters in LA before cops drag driver away",
+    "score": 10
+  },
+  {
+    "id": "ABxSDuPRgl8",
+    "title": "'Help is on the way,' Donald Trump says as he urges Iranians to 'keep protesting' | BBC News",
+    "score": 10
+  },
+  {
+    "id": "v0HrHi7isnw",
+    "title": "Iran protests: why it’s different this time - Omid Djalili",
+    "score": 10
+  },
+  {
+    "id": "os5kzKlqer8",
+    "title": "Iran protests: Fact-checking claims of AI manipulation, low turnout • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "fsVywQLFS-k",
+    "title": "Why Iran's mass protests are different this time",
+    "score": 10
+  },
+  {
+    "id": "CEmQ6zn4VHY",
+    "title": "U.S. threatens military action as Iran protests continue | NewsNation Prime",
+    "score": 10
+  },
+  {
+    "id": "Q5uiaK846-M",
+    "title": "US State Dept to Americans in Iran: 'leave Iran now'",
+    "score": 10
+  },
+  {
+    "id": "JrkTC4rJ_WU",
+    "title": "CNN's Jomana Karadsheh reports on the violence inside Iran growing worse amid a brutal crackdown",
+    "score": 10
+  },
+  {
+    "id": "y5vTjmDCFhg",
+    "title": "Iran is a Bloodbath of Protesters Being Killed",
+    "score": 10
+  },
+  {
+    "id": "4srzr8m_1MI",
+    "title": "Why Iran’s Protests Feel Different This Time",
+    "score": 10
+  },
+  {
+    "id": "9Wwk5S-Of0M",
+    "title": "Iran Escalates Deadly Crackdown on Mass Protests as Trump Threatens to Launch Military Attack",
+    "score": 10
+  },
+  {
+    "id": "ndZoeb2VUGQ",
+    "title": "Deadly protests erupt in Iran",
+    "score": 10
+  },
+  {
+    "id": "gkcpc7QfzXo",
+    "title": "What a hit from 18-year-old Lewis Miley 🚀🚀Newcastle equalise! #FACup",
+    "score": 10
+  },
+  {
+    "id": "-_zGPm2GNtk",
+    "title": "Why Lewis Miley Is One Of The BEST Young Midfielders In EUROPE...",
+    "score": 10
+  },
+  {
+    "id": "ClVueFxB9V8",
+    "title": "Craig Hope BACKS Newcastle United's Lewis Miley To Go To The WORLD CUP With England!",
+    "score": 10
+  },
+  {
+    "id": "CM77H0UC3XM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xnJLu2w_Ng8",
+    "title": "How Lewis Miley’s New Role Took Newcastle to ANOTHER Cup Semi-Final",
+    "score": 10
+  },
+  {
+    "id": "SAhXhfmumGU",
+    "title": "Lewis Miley's perfect new role",
+    "score": 10
+  },
+  {
+    "id": "C7ib3QpJqS8",
+    "title": "Is This Miley’s Breakout Season?",
+    "score": 10
+  },
+  {
+    "id": "opI4FzONbUk",
+    "title": "I've Noticed Something Big About Lewis Miley \\u0026 Wissa! [Newcastle 2-1 Fulham]",
+    "score": 10
+  },
+  {
+    "id": "gAeDK5XJoE4",
+    "title": "LEWIS MILEY IS NOT YOUR NORMAL AVERAGE TEENAGER! 😲 | Eddie Howe | Everton 1-4 Newcastle United",
+    "score": 10
+  },
+  {
+    "id": "YKpkTOYT_us",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2Iff4AvGtLQ",
+    "title": "Lewis Miley doubles Newcastle's advantage over Everton | Premier League | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "C8rypzcKB-Y",
+    "title": "GREAT FEELING AS A LOCAL LAD! Lewis Miley \\u0026 Wissa React to Newcastle's 2-1Win over Fulham in Carabao",
+    "score": 10
+  },
+  {
+    "id": "s_TXPxc-IAA",
+    "title": "Tino Livramento - Dribbling Skills, Tackles \\u0026 Crosses | 2025ᴴᴰ",
+    "score": 10
+  },
+  {
+    "id": "OzfQLipPLmI",
+    "title": "Lewis Hall Deserves to be Seen in 2025!",
+    "score": 10
+  },
+  {
+    "id": "052Doenr7HU",
+    "title": "Joe Willock Has Been Brilliant for Newcastle! 2021 Higlights",
+    "score": 10
+  },
+  {
+    "id": "l-YZhuu3Heo",
+    "title": "Lewis Miley - Complete Season in 2024!",
+    "score": 10
+  },
+  {
+    "id": "p-ErbEzcGGE",
+    "title": "\\\"Definitely they deserve it\\\" –Lewis Miley thanks travelling Toon Army after epic 4-1 win vs Everton ",
+    "score": 10
+  },
+  {
+    "id": "LggLX349Tuk",
+    "title": "Lewis Miley in EAFC24 #like #subscribe",
+    "score": 10
+  },
+  {
+    "id": "GzrAdUdOBVs",
+    "title": "Why Newcastle's Lewis Miley Is Such A Special Player",
+    "score": 10
+  },
+  {
+    "id": "xNhpvYgh6AE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Z1-mrbO0QQ",
+    "title": "“I Was Pushing Trollies At 17!” Dan Burn on Lewis Miley",
+    "score": 10
+  },
+  {
+    "id": "8UgCKKJ60K4",
+    "title": "17 Year Old Lewis Miley is SPECIAL! (TOP 50 WONDERKIDS ITW)",
+    "score": 10
+  },
+  {
+    "id": "kaUXZ9UZUmc",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "ell8nLf4I4Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BowJk0InIic",
+    "title": "Huey Lewis \\u0026 The News - The Power Of Love (Extended Version)",
+    "score": 10
+  },
+  {
+    "id": "kGBF7Be42mw",
+    "title": "Huey Lewis \\u0026 the News - The Power of Love Lyrics",
+    "score": 10
+  },
+  {
+    "id": "WK0z87WrhGo",
+    "title": "Huey Lewis and the News - The Power Of Love (Rock am Ring, August 3, 1985)",
+    "score": 10
+  },
+  {
+    "id": "qIL6QW4qw2I",
+    "title": "Huey Lewis and the News - The Power of Love (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "DodDj1M9NBY",
+    "title": "Huey Lewis \\u0026 The News - The Power Of Love (HQ)",
+    "score": 10
+  },
+  {
+    "id": "ZpW80qf7NzE",
+    "title": "Huey Lewis \\u0026 The News - Do You Believe In Love",
+    "score": 10
+  },
+  {
+    "id": "RGGkEexNzdI",
+    "title": "\\\"The Power of Love\\\" Huey Lewis \\u0026 the News@Strand Theater York, PA 3/20/14",
+    "score": 10
+  },
+  {
+    "id": "dPBLocjAH64",
+    "title": "Huey Lewis \\u0026 The News - Hip To Be Square",
+    "score": 10
+  },
+  {
+    "id": "LWJZuf5bW-g",
+    "title": "Huey Lewis and The News on Jay Leno SCREW THE COMMERCIAL",
+    "score": 10
+  },
+  {
+    "id": "Kqcy800mVQo",
+    "title": "Huey Lewis \\u0026 the News - Full Concert - 05/23/89 - Slim's (OFFICIAL)",
+    "score": 10
+  },
+  {
+    "id": "mm5M9wxZRI4",
+    "title": "Huey Lewis And The News - The Power Of Love | From Back to the Future (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "pJdzNyG86fs",
+    "title": "Huey Lewis - Back In Time + The Power Of Love (With Orchestral Intro)",
+    "score": 10
+  },
+  {
+    "id": "6RFY05U2hlg",
+    "title": "Back to the Future Theme",
+    "score": 10
+  },
+  {
+    "id": "upslZ_0hD1o",
+    "title": "Huey Lewis and the News - The Power of Love (drumless)",
+    "score": 10
+  },
+  {
+    "id": "-NMph943tsw",
+    "title": "Huey Lewis and The News - The Power of Love (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "_n8Jw0h-vTw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GurljGjfrVs",
+    "title": "Huey Lewis \\u0026 The News - Do You Believe In Love",
+    "score": 10
+  },
+  {
+    "id": "vV3Bp4V84_I",
+    "title": "Huey Lewis \\u0026 The News - I Want A New Drug",
+    "score": 10
+  },
+  {
+    "id": "I0czvJ_jikg",
+    "title": "Lewis Capaldi - Someone You Loved (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "FGGo8LFmbjs",
+    "title": "Lewis Capaldi - Bruises (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rnFLF0ylZdY",
+    "title": "Dean Lewis - With You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "23SRUbq6BIQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gonDml99-DU",
+    "title": "The Archaeological Discovery That Got Meriwether Lewis Murdered",
+    "score": 10
+  },
+  {
+    "id": "GH5WlyI-oz8",
+    "title": "Roots Reggae Radio (24/7 Reggae Music)",
+    "score": 10
+  },
+  {
+    "id": "UI3NnBKdO90",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIq4FPxHRTg",
+    "title": "How CS Lewis PROVED Christ WITHOUT the Bible",
+    "score": 10
+  },
+  {
+    "id": "xnzDk_MHo5g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o5FPZpBRKWw",
+    "title": "Investigating The Mysterious Death Of Legendary Explorer Meriwether Lewis",
+    "score": 10
+  },
+  {
+    "id": "DOj6diqQ2fg",
+    "title": "BULLETPROOF (Full Video)| Lewis | Loveworld",
+    "score": 10
+  },
+  {
+    "id": "n2a_Jj7KZ7Y",
+    "title": "Universe Designed",
+    "score": 10
+  },
+  {
+    "id": "Zex2MWOb0KE",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "OIxGf82LLqo",
+    "title": "SCLUSA-Cnfrnc27-Snip06: Judicial Obstruction; Lewis: Evidence Exists: Vote-Fraud; Social Injustice.",
+    "score": 10
+  },
+  {
+    "id": "SVMtsXDaCYA",
+    "title": "Cheers To Crime! (Culinary Crimes)",
+    "score": 10
+  },
+  {
+    "id": "gLrumB_S5SU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tQa-w1ehlC0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yGU2JN2a3Cs",
+    "title": "I Forgive Your Sins and Now It Is Quite Natural for a Man To Forgive Something You Do to Him",
+    "score": 10
+  },
+  {
+    "id": "saCajQJTFXs",
+    "title": "New evidence presented in Adrian Lewis murder trial",
+    "score": 10
+  },
+  {
+    "id": "Wjlfd7faxR8",
+    "title": "Lewis County prosecutor, sheriff’s office report evidence tampering within Canton Police Departme...",
+    "score": 10
+  },
+  {
+    "id": "5xJnJHn3qso",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "n8LhUia57EY",
+    "title": "The Great Unknown",
+    "score": 10
+  },
+  {
+    "id": "9OSKFdY5jxU",
+    "title": "Stick Figure – \\\"The Great Unknown\\\"",
+    "score": 10
+  },
+  {
+    "id": "Gsyf_oPtJY0",
+    "title": "Ice Nine Kills - The Great Unknown (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "yULLYRevTMg",
+    "title": "Josh Gates Uncovers The Secrets Of Göbekli Tepe: The World’s Oldest Temple | Expedition Unknown",
+    "score": 10
+  },
+  {
+    "id": "i8QfvzZuhIo",
+    "title": "Looking for Issues with a New Boat",
+    "score": 10
+  },
+  {
+    "id": "FdV-Cs5o8mc",
+    "title": "Timothée Chalamet: «Song to Woody» (Bob Dylan) - 2024",
+    "score": 10
+  },
+  {
+    "id": "WB8J8yOA7-g",
+    "title": "Shawn Mullins  \\\"The Great Unknown\\\" @ Eddie Owen Presents",
+    "score": 10
+  },
+  {
+    "id": "aTWw92-ZLGk",
+    "title": "2021 Remaster \\\"While My Guitar Gently Weeps\\\" with Prince, Tom Petty, Jeff Lynne and Steve Winwood",
+    "score": 10
+  },
+  {
+    "id": "dWRCooFKk3c",
+    "title": "Eddie Vedder Keep Me In Your Heart (Warren Zevon)",
+    "score": 10
+  },
+  {
+    "id": "AhOlck6wyQQ",
+    "title": "LANDMVRKS - The Great Unknown (OFFICIAL VISUALIZER)",
+    "score": 10
+  },
+  {
+    "id": "kNF4gLZOg-I",
+    "title": "Ice Nine Kills - The Great Unknown (2025) [HD-Audio Only]",
+    "score": 10
+  },
+  {
+    "id": "hxZ_4CTAnGQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-Bwb0nci8fk",
+    "title": "The Hippies became Boomers #hippie #60s #boomer #boomers #parents #capitalism #70s",
+    "score": 10
+  },
+  {
+    "id": "aah60SoIHqU",
+    "title": "How 50,000 Hippies Changed America Forever",
+    "score": 10
+  },
+  {
+    "id": "lGt-YKBgzKo",
+    "title": "What Happened to the Hippies? | Report - AT",
+    "score": 10
+  },
+  {
+    "id": "SGPhH2krOJk",
+    "title": "Boulder: a haven of hippie heritage",
+    "score": 10
+  },
+  {
+    "id": "1nMCgHXH958",
+    "title": "Dropkick Murphys: “MAGA Got Played”",
+    "score": 10
+  },
+  {
+    "id": "kNAfrRpr_ek",
+    "title": "John Mayer BREAKS SILENCE On Bob Weir’s Final Days… Shocking Truth!",
+    "score": 10
+  },
+  {
+    "id": "q87Ua9EpXgo",
+    "title": "🔴 RIP SCOTT ADAMS: Dilbert Creator Dies of Cancer as Trump Posts Powerful Tribute",
+    "score": 10
+  },
+  {
+    "id": "eai9FtgZwZA",
+    "title": "Jon on ICE's Killing of Renee Good and Trump's Model of Compliance for Protesters | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "iRePSj6zyn0",
+    "title": "Powell Charges Set Off Alarm Bells | Trump Is Destroying The World | Monkey 'Mergency",
+    "score": 10
+  },
+  {
+    "id": "TxTKpKxQSMk",
+    "title": "THE NEXT DAY..",
+    "score": 10
+  },
+  {
+    "id": "w3R0dnHFoEU",
+    "title": "The Press Made Fun Of Dope Dope Smoking Hyde Park Hippies. 1960s Entertainment News",
+    "score": 10
+  },
+  {
+    "id": "K4WYf1IllEw",
+    "title": "Alberta separatism issues, Trans activist fakes death, Manitoba backs Minnesota | Buffalo Roundtable",
+    "score": 10
+  },
+  {
+    "id": "9yUBvk6AAJA",
+    "title": "My life raised by hippies",
+    "score": 10
+  },
+  {
+    "id": "_t6MMTmzVo0",
+    "title": "Dave Meets Manny The Hippie In Haight-Ashbury | Letterman",
+    "score": 10
+  },
+  {
+    "id": "7QrRDUasQp8",
+    "title": "The Most Hippie Man in the World - Dos Equis Ad",
+    "score": 10
+  },
+  {
+    "id": "5WE2vK8aoLs",
+    "title": "Bill Murray: Why the Hippie Generation HAD to Happen",
+    "score": 10
+  },
+  {
+    "id": "_u00g3WwfDY",
+    "title": "1967 Wild TV Show With CounterCulture Hippies Mouthing Off. Abbie Hoffman \\u0026 Others",
+    "score": 10
+  },
+  {
+    "id": "UtKI0DsD_CU",
+    "title": "Nick Shirley: MAGA’s Favorite Fiction Writer - January 13, 2026",
+    "score": 10
+  },
+  {
+    "id": "kLcvb4dEm3g",
+    "title": "In 1967 This Hippie Show Ran On TV. It Looks Nuts Now.",
+    "score": 10
+  },
+  {
+    "id": "jeverlMyyvA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "s72CjyFDhqY",
+    "title": "Top Rock News of the Week: Marilyn Manson, Slipknot, Metallica, Falling in Reverse - 06/03/22",
+    "score": 10
+  },
+  {
+    "id": "Nt27aBceerI",
+    "title": "Alice Cooper reflects on Ozzy Osbourne’s passing | Planet Rock",
+    "score": 10
+  },
+  {
+    "id": "8RT1ZBDy8RM",
+    "title": "Icon's TAKE on SPRINGSTEEN is PRICELESS..\\\"He KILLED US...HE JUST BLEW US OUT\\\"! | Professor of Rock",
+    "score": 10
+  },
+  {
+    "id": "ojz51IDwg8Y",
+    "title": "Top 10 Mistakes Left In Rock Songs",
+    "score": 10
+  },
+  {
+    "id": "Jdz9w6r5SMw",
+    "title": "Dwayne ‘The Rock’ Johnson \\u0026 Jelly Roll Finally Meet After Nearly 10 Years Of Friendship",
+    "score": 10
+  },
+  {
+    "id": "ri9-72m200U",
+    "title": "Lostprophets Singer Ian Watkins Killed in Prison Attack",
+    "score": 10
+  },
+  {
+    "id": "UfKKGMcQBDs",
+    "title": "Huey Lewis \\u0026 The News - The Heart Of Rock \\u0026 Roll",
+    "score": 10
+  },
+  {
+    "id": "TE1PyPqNShQ",
+    "title": "The Rock: Then vs Now",
+    "score": 10
+  },
+  {
+    "id": "yXe9Muouy-Q",
+    "title": "Is it possible today for another legendary rock band to exist?",
+    "score": 10
+  },
+  {
+    "id": "pFwjCX3myWI",
+    "title": "BACKSTAGE: Kickboxing Legend Roland Veres Prepares for Hard Rock War",
+    "score": 10
+  },
+  {
+    "id": "OasmN2eR-5w",
+    "title": "RUSH TOUR NEWS! 🤯 #rushband #rocknews #geddylee #alexlifeson",
+    "score": 10
+  },
+  {
+    "id": "V-hD4rdmj2w",
+    "title": "One Minute Update for 2/21/22 - Rock News Weekly Podcast!",
+    "score": 10
+  },
+  {
+    "id": "kMsihhVCf74",
+    "title": "Ozzy Osbourne Dead at 76",
+    "score": 10
+  },
+  {
+    "id": "DZz6D9_2AYc",
+    "title": "The Rock at a screening of 'The Smashing Machine' where he plays Mark Kerr 🎭 (via @raminsetoodah/IG)",
+    "score": 10
+  },
+  {
+    "id": "W_9X3JrKpcE",
+    "title": "Dave Mustaine Announces The End of Megadeth",
+    "score": 10
+  },
+  {
+    "id": "2it3p0oPysk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OT6BtYYk6mI",
+    "title": "MAGA Mike SCRAMBLES as Survivors EXPOSE TRUMP",
+    "score": 10
+  },
+  {
+    "id": "Ia3GQsu0MbE",
+    "title": "MAGA Mike PANICS IN CAPITOL as VOTE HE FEARED Arrives",
+    "score": 10
+  },
+  {
+    "id": "zVd3Hzjibac",
+    "title": "MAGA Mike IN TERROR as HIS JOB  SLIPS AWAY",
+    "score": 10
+  },
+  {
+    "id": "u4C4CFhtsQI",
+    "title": "MAGA Mike IN UTTER PANIC as GOP Loses ALL SUPPORT",
+    "score": 10
+  },
+  {
+    "id": "VLxBmlxp8Zs",
+    "title": "MAGA Mike PANICS IN PUBLIC as GOP Senate BETRAYS HIM",
+    "score": 10
+  },
+  {
+    "id": "3k9xS5dxt8s",
+    "title": "MAGA Mike IN UTTER TERROR as Epstein VOTE PASSES",
+    "score": 10
+  },
+  {
+    "id": "X-9eFs33PaI",
+    "title": "MAGA Mike RUNS FROM PRESS as Trump DESTROYS GOP",
+    "score": 10
+  },
+  {
+    "id": "PEOK9WTVVAE",
+    "title": "MAGA Mike SERVED with LAWSUIT as he RUNS OFF House Floor",
+    "score": 10
+  },
+  {
+    "id": "Wwbwyn1lxH8",
+    "title": "MAGA Mike PANICS IN PUBLIC as SHUTDOWN DESTROYS HIM",
+    "score": 10
+  },
+  {
+    "id": "M83B8snUU2Q",
+    "title": "MAGA Mike PANICS in PUBLIC as HIS JOB is in IMMINENT JEOPARDY",
+    "score": 10
+  },
+  {
+    "id": "hUiWFtQuK7o",
+    "title": "Mike Johnson's Wife Exposed: The Dark Side of MAGA 'Family Values'",
+    "score": 10
+  },
+  {
+    "id": "otEDz4cGCDY",
+    "title": "Musk Dog Walked by Ilhan Omar | Trump Turned American Against ICE | Fox Whines About Ms Rachel",
+    "score": 10
+  },
+  {
+    "id": "O8WaHtwuYsg",
+    "title": "Heather Cox Richardson: Trump is acting like Putin...The feckless MAGA GOP needs to STOP him",
+    "score": 10
+  },
+  {
+    "id": "UU_txxMOYt8",
+    "title": "WATCH: 'MAGA Granny' Pamela Hemphill, who rejected Trump's Jan. 6 pardon, says 'I own that guilt'",
+    "score": 10
+  },
+  {
+    "id": "jnk8UClnRyc",
+    "title": "I Entered A Jiu-Jitsu Tournament To Prove It Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "GwHTR6fcCJ8",
+    "title": "Maduro Faces Judge \\u0026 MAGA Scrambles to Justify Abduction | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "d2f92rNrCyI",
+    "title": "Ronny Chieng's TDS Welcome",
+    "score": 10
+  },
+  {
+    "id": "0wW-U3XSAVE",
+    "title": "Michael Fanone criticizes Democratic Party as 'cowards' ahead of 5-year anniversary of Jan. 6",
+    "score": 10
+  },
+  {
+    "id": "3rIF8lrs488",
+    "title": "MAGA Mike PANICS IN PUBLIC Right  before ELECTION DAY",
+    "score": 10
+  },
+  {
+    "id": "5Fx98ZwvK28",
+    "title": "MAGA Mike has PUBLIC MELTDOWN as Trump COLLAPSES QUICKLY",
+    "score": 10
+  },
+  {
+    "id": "uPLT3AyCiFc",
+    "title": "MAGA Mike GETS SUED as SHUTDOWN STUNT goes WRONG",
+    "score": 10
+  },
+  {
+    "id": "8bcIHHC_B6Q",
+    "title": "MAGA Mike PANICS as GOP HOUSE Threatens MASS RESIGNATION",
+    "score": 10
+  },
+  {
+    "id": "20IRCyMXwvU",
+    "title": "MAGA Mike gets BRUTAL KARMA as Court INSTANTLY RIPS PLAN",
+    "score": 10
+  },
+  {
+    "id": "8_R68MvzLKE",
+    "title": "MAGA Mike GOES NUTS at PRESSER as HIS JOB SLIPS AWAY",
+    "score": 10
+  },
+  {
+    "id": "pEU8_WJKL04",
+    "title": "MAGA Mike RUNS AWAY as Trump BACKSTABS Him",
+    "score": 10
+  },
+  {
+    "id": "7H2rsHNABeE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "7KLWZDIe4e0",
+    "title": "Bruno Fernandes Penalty | Man Utd vs Burnley | Premier League - Old Trafford ~ 30.08.2025 #manutd ",
+    "score": 10
+  },
+  {
+    "id": "Kplsu0k4Okg",
+    "title": "David de Gea Returns To Old Trafford | Man Utd v Fiorentina | 09.08.2025",
+    "score": 10
+  },
+  {
+    "id": "Zy_YtL0_7iI",
+    "title": "Benjamin Sesko Unveiled at Old Trafford | Man Utd vs Fiorentina | 09.08.2025",
+    "score": 10
+  },
+  {
+    "id": "F4DjH1U2cGM",
+    "title": "Lewis Daynes: The Online Predator Your Parents Warned You About | World's Most Evil Killers",
+    "score": 10
+  },
+  {
+    "id": "2pSIPQ3JqUY",
+    "title": "#23 Geraint Lewis - Fine-Tuning, Multiverse, Cosmological Tensions",
+    "score": 10
+  },
+  {
+    "id": "OejwZqh-F9U",
+    "title": "C. S. Lewis - The World’s Last Night",
+    "score": 10
+  },
+  {
+    "id": "b0LfCtPE8Z4",
+    "title": "BBC The Secret World of Lewis Carroll",
+    "score": 10
+  },
+  {
+    "id": "_KQ9kDbduTo",
+    "title": "LA Lewis - Jews Called Emprah King Of The World + Anju Punk Out Richard Currie in Accompong ",
+    "score": 10
+  },
+  {
+    "id": "Ps1x5Hacyxs",
+    "title": "Mario Lewis: Finalist, 2025 World Championship of Public Speaking(R)",
+    "score": 10
+  },
+  {
+    "id": "PRn91kaa1ic",
+    "title": "Lewis Fitzgerald - Worldwide MASHUP",
+    "score": 10
+  },
+  {
+    "id": "MVr8Dyonzfg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pXwhetxKJ9U",
+    "title": "Introduction to Lewis Borsellino",
+    "score": 10
+  },
+  {
+    "id": "aLaHFrecT_E",
+    "title": "Stavvy's World #42 - Lewis Black | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "gFeZswzWvnI",
+    "title": "Ads (Freeze Pipe, Babbel, Factor)",
+    "score": 10
+  },
+  {
+    "id": "CdTzsbqQyhY",
+    "title": "Food Fire and Knowledge",
+    "score": 10
+  },
+  {
+    "id": "Qyi0KPVYSkA",
+    "title": "Has China reached the Lewis turning point?",
+    "score": 10
+  },
+  {
+    "id": "JtKq9BotBWg",
+    "title": "Minneapolis Mayor Frey calls out ‘deep mistrust’ around ICE shooting investigation: Full interview",
+    "score": 10
+  },
+  {
+    "id": "FBVDYAiAVs8",
+    "title": "'OUTRAGEOUS': Klobuchar blasts Trump, Vance smears of Minneapolis mom killed by ICE",
+    "score": 10
+  },
+  {
+    "id": "K2nSYjtD4eQ",
+    "title": "Mayor Frey, Minneapolis city leaders call for cooperation in ICE shooting death of Renee Good",
+    "score": 10
+  },
+  {
+    "id": "T75vMmM3bj0",
+    "title": "'OUTRAGEOUS': Border Patrol head tears into Minnesota Dems' take on ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "5rIWRYOngb0",
+    "title": "Minneapolis ICE shooting reveals 'fundumentally broken' politics",
+    "score": 10
+  },
+  {
+    "id": "x7dNyawub7o",
+    "title": "What happened in Minneapolis is outrageous",
+    "score": 10
+  },
+  {
+    "id": "KTOzzaQ__W4",
+    "title": "Anti-ICE protesters taken into custody by federal officers in south Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "wi8dMQyODPw",
+    "title": "Tom Homan says ICE officer in Minneapolis shooting ‘feared for his life’: Full interview",
+    "score": 10
+  },
+  {
+    "id": "qbAEP3UMw7E",
+    "title": "Top 10 Misconceptions About the Minneapolis ICE Shooting — What the Law Actually Says",
+    "score": 10
+  },
+  {
+    "id": "PfWnIUAXMF4",
+    "title": "Trump Responds to Outrage in Minneapolis by Sending in More ICE Agents \\u0026 Wants a Nobel Peace Prize",
+    "score": 10
+  },
+  {
+    "id": "s6tXTbD6Y7w",
+    "title": "Surveillance Video Shows Moments Preceding Deadly ICE Shooting In Minneapolis, Minnesota",
+    "score": 10
+  },
+  {
+    "id": "Jbq98aqF794",
+    "title": "FIRST ON MS NOW: DOJ officials quit after division refused to probe MN ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "U7VryeqE7Ts",
+    "title": "Self-defence? A breakdown of the fatal ICE shooting in Minneapolis | About That",
+    "score": 10
+  },
+  {
+    "id": "ZEiw1rMjZsc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nRdgX3VFVeg",
+    "title": "Officials are probing Minneapolis shooting victim's possible activist ties: NYT",
+    "score": 10
+  },
+  {
+    "id": "DQPSk5VNfQE",
+    "title": "Seething For A Decade? Ex-Husband Chained in Court, Slapped With New Charges | Ohio Double Murders",
+    "score": 10
+  },
+  {
+    "id": "EdX6HbJ8gPg",
+    "title": "Vance unloads on media over Minneapolis ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "SvKdN4UAgtw",
+    "title": "Political fallout grows after Minneapolis ICE shooting: Panel | Morning in America",
+    "score": 10
+  },
+  {
+    "id": "lvrUkyq1pC8",
+    "title": "'Shameful to law enforcement': Minneapolis' former safety commissioner reacts to shooting",
+    "score": 10
+  },
+  {
+    "id": "RzRpkiucTZ0",
+    "title": "New video shows several federal agent vehicles in street before fatal shooting",
+    "score": 10
+  },
+  {
+    "id": "ELUAFpsme2Q",
+    "title": "Minneapolis mayor, city leaders urge FBI to collaborate with BCA on ICE shooting investigation",
+    "score": 10
+  },
+  {
+    "id": "5MU5SQ5Qw8k",
+    "title": "Here’s what protestors have to say about the ICE shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "-epbvyjSW3E",
+    "title": "ICE Agent's Threat To Minneapolis Churchgoer Over Shooting CAUGHT On Camera",
+    "score": 10
+  },
+  {
+    "id": "dEff0mEcAUw",
+    "title": "Minneapolis AG on deadly ICE shooting: ‘'It's outrageous’",
+    "score": 10
+  },
+  {
+    "id": "s8al0wKmR0Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6tA0ewSoW14",
+    "title": "Jenny Lewis - Psychos (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "b_4YEbsb8cU",
+    "title": "Hip to be Square - American Psycho (3/12) Movie CLIP (2000) HD",
+    "score": 10
+  },
+  {
+    "id": "Ruw9fsh3PNY",
+    "title": "ACTOR Jared Leto",
+    "score": 10
+  },
+  {
+    "id": "Pxu0vQeZqSc",
+    "title": "'Hip to Be Square' Scene | American Psycho",
+    "score": 10
+  },
+  {
+    "id": "QvBAEp3Znn4",
+    "title": "'Hip To Be Square' | American Psycho",
+    "score": 10
+  },
+  {
+    "id": "6Bo-OLCXu6g",
+    "title": "Psychonautics",
+    "score": 10
+  },
+  {
+    "id": "__Ggb1CwyO4",
+    "title": "American Psycho (6/12) Movie CLIP - I Gotta Return Some Videotapes (2000) HD",
+    "score": 10
+  },
+  {
+    "id": "MCo6TtUkCWc",
+    "title": "POPULAR DIRECTOR Dennis Hopper",
+    "score": 10
+  },
+  {
+    "id": "AwYj7rvFaOs",
+    "title": "American Psycho - Office Interrogation - 1080 HD",
+    "score": 10
+  },
+  {
+    "id": "8o7AhE1dphU",
+    "title": "'Patrick Bateman Spares His Assistant' Scene | American Psycho",
+    "score": 10
+  },
+  {
+    "id": "Y-4vDAKaMX8",
+    "title": "Jenny Lewis \\\"Psychos\\\" on Austin City Limits",
+    "score": 10
+  },
+  {
+    "id": "CN-gDLc9aaM",
+    "title": "How Sociopaths Actually Work | Authorized Account | Insider",
+    "score": 10
+  },
+  {
+    "id": "FTWNnmymMc4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zW0v8zGMtkE",
+    "title": "American Psycho with Huey Lewis and Weird Al",
+    "score": 10
+  },
+  {
+    "id": "Fk15H6PjBis",
+    "title": "Huey Lewis And The News - Hip To Be Square (1986)",
+    "score": 10
+  },
+  {
+    "id": "bcyW1hmaECQ",
+    "title": "How You Got into Training People",
+    "score": 10
+  },
+  {
+    "id": "_DedXnND5AU",
+    "title": "American Psycho • Hip to Be Square • Huey Lewis and the News",
+    "score": 10
+  },
+  {
+    "id": "AJNJtDPrHrk",
+    "title": "Psychopath On Remorse, Prison, Feelings \\u0026 Life Now",
+    "score": 10
+  },
+  {
+    "id": "uaHIV7JJbwQ",
+    "title": "Who is Lewis?",
+    "score": 10
+  },
+  {
+    "id": "tuocRFiokx8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-M3z-gbY4kA",
+    "title": "AGENT OUTRAGE - Went Terribly Wrong",
+    "score": 10
+  },
+  {
+    "id": "1AzgnHYoTME",
+    "title": "Anti-ICE protests escalate as agents deploy chemical agents to disperse crowd in wake of shooting",
+    "score": 10
+  },
+  {
+    "id": "KE2wysAJVqc",
+    "title": "Grapevine: Outrage over slap on the wrist for DEA agents",
+    "score": 10
+  },
+  {
+    "id": "4QWkZBZj8x0",
+    "title": "DEA agents get slap on the wrist",
+    "score": 10
+  },
+  {
+    "id": "_qvIjoUxWZ0",
+    "title": "ICE Agents SURROUNDED by Furious Crowd After Stopping Man at Minneapolis Gas Station | AC1G",
+    "score": 10
+  },
+  {
+    "id": "MNWfZqTMWNg",
+    "title": "Protesters Clash With Federal Agents After Fatal ICE Shooting Sparks Nationwide Outrage | AC1G",
+    "score": 10
+  },
+  {
+    "id": "q4RCOxPWML4",
+    "title": "ICE Pushes Man Into Traffic",
+    "score": 10
+  },
+  {
+    "id": "3FUjMrQwsT0",
+    "title": "Agent Outrage - Surprising H.",
+    "score": 10
+  },
+  {
+    "id": "fBQy6yjI78Q",
+    "title": "ICE Agent Fundraiser Sparks Outrage ⚖️ #trending",
+    "score": 10
+  },
+  {
+    "id": "yJ-m6t-OTGg",
+    "title": "VIRAL OUTRAGE: ICE Agent Jonathan Ross Accused in Renee Good’s Death — Public Demands Justice",
+    "score": 10
+  },
+  {
+    "id": "MqPMuXt2jVI",
+    "title": "‘I want them out’: Outrage over Minneapolis school ICE raid",
+    "score": 10
+  },
+  {
+    "id": "dt80lDWx_QU",
+    "title": "\\\"Outrage as Agents Accused of Abduction in City Streets\\\"",
+    "score": 10
+  },
+  {
+    "id": "LvnpqjMpaqY",
+    "title": "Scrutiny, outrage continues after fatal shooting of Minneapolis woman by ICE agent",
+    "score": 10
+  },
+  {
+    "id": "Grv5ZxH5TFg",
+    "title": "Anger, outrage in the wake of deadly ICE shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "9PvzVGPH-TQ",
+    "title": "ICE Agents Ambushed — Where’s the Outrage?",
+    "score": 10
+  },
+  {
+    "id": "4coJNHNzTKs",
+    "title": "ICE Agent's Threat To Minneapolis Churchgoer Over Shooting CAUGHT On Camera",
+    "score": 10
+  },
+  {
+    "id": "aA35MICcBZE",
+    "title": "The killing of Renee Good by ICE in Minneapolis sparks outrage in Boston and across the country",
+    "score": 10
+  },
+  {
+    "id": "GmwSuaggODQ",
+    "title": "Ras Baraka violently arrested by #ICE agents sparking outrage 🗽🇺🇸🗞️🟪 #news #politics #trump",
+    "score": 10
+  },
+  {
+    "id": "kIDNYJdHAcY",
+    "title": "🛑 Minneapolis Residents Clash With ICE as Additional Agents Arrive, Tear Gas Deployed",
+    "score": 10
+  },
+  {
+    "id": "9Vn0pjyKn9w",
+    "title": "OUTRAGE after Fake ICE Agents Commit the UNTHINKABLE",
+    "score": 10
+  },
+  {
+    "id": "fmXaQ4NPmH8",
+    "title": "Nationwide outrage after ICE agent fatally shoots woman in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "q9nsN70_im0",
+    "title": "Woman Allegedly Shoves And Threatens Flight Attendant",
+    "score": 10
+  },
+  {
+    "id": "AIYcsaZsEK0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5Lz-qrpg79M",
+    "title": "Hip to be Square - American Psycho (3/12) Movie CLIP (2000) HD",
+    "score": 10
+  },
+  {
+    "id": "1wUMDjr-LYM",
+    "title": "Hip To Be Square (80s Rock - Huey Lewis cover) #aicover #hueylewis",
+    "score": 10
+  },
+  {
+    "id": "FW2V5wk1vaw",
+    "title": "Hip to Be Square (Huey Lewis and the News) | Lexington Lab Band",
+    "score": 10
+  },
+  {
+    "id": "_jUVj2j-yAo",
+    "title": "Huey Lewis And The News - Hip To Be Square (Lyrics HD)",
+    "score": 10
+  },
+  {
+    "id": "_ggK1hK8ssI",
+    "title": "American Psycho with Huey Lewis and Weird Al",
+    "score": 10
+  },
+  {
+    "id": "_OAXJ0jhUuU",
+    "title": "GFMI TUESDAY FASTING SERVICE |REV. DR.OTIS MANNING | JANUARY 13, 2026",
+    "score": 10
+  },
+  {
+    "id": "6JmRGBT5WH8",
+    "title": "SLURMCORE - Huey Lewis \\u0026 the News - Hip To Be Square",
+    "score": 10
+  },
+  {
+    "id": "Ic4teuM1puc",
+    "title": "American Psycho • Hip to Be Square • Huey Lewis and the News",
+    "score": 10
+  },
+  {
+    "id": "7bkYBWJDqaQ",
+    "title": "Huey Lewis \\u0026 The News: Hip to Be Square",
+    "score": 10
+  },
+  {
+    "id": "lMquzkKDGZ4",
+    "title": "‘Hip To Be Square’ (HUEY LEWIS \\u0026 THE NEWS) cover by The HSCC",
+    "score": 10
+  },
+  {
+    "id": "UbEbzcjwq4o",
+    "title": "Hip To Be Square , Huey Lewis \\u0026 The News , 1986 Vinyl 45RPM",
+    "score": 10
+  },
+  {
+    "id": "NudNVYMD8dQ",
+    "title": "It's hip to be square! #hueylewisandthenews #americanpsycho #weirdal @alyankovic",
+    "score": 10
+  },
+  {
+    "id": "6LrDOiqpkZM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "svGkX9toMoI",
+    "title": "What's REALLY Happening to Kids of Divorced Parents",
+    "score": 10
+  },
+  {
+    "id": "4Y7v8s2cFoo",
+    "title": "You can always tell when someone grew up with divorced parents..💔😭 #storytelling #funny #relatable",
+    "score": 10
+  },
+  {
+    "id": "Y6Y_vNI6Dio",
+    "title": "it gets better💖 #divorce",
+    "score": 10
+  },
+  {
+    "id": "1MxYOnMYMnk",
+    "title": "The Psychology of People Whose Parents Are Divorced",
+    "score": 10
+  },
+  {
+    "id": "WoGLdS2S8-0",
+    "title": "Dealing with my parents DIVORCE at 26 years old 😥 my experience and how I got through it all…",
+    "score": 10
+  },
+  {
+    "id": "0I74yG9ldT8",
+    "title": "growing up with divorced parents // the schedule, hard nights, getting through it",
+    "score": 10
+  },
+  {
+    "id": "7cKzGkEuuaw",
+    "title": "Intro Summary",
+    "score": 10
+  },
+  {
+    "id": "c5cu7reXBns",
+    "title": "parents divorce | ib: original × #KhaiiSaja #gachaclub #gachaedit #gachatrend #gacha",
+    "score": 10
+  },
+  {
+    "id": "7ds3tRZWhzA",
+    "title": "What having divorced parents is rlly like…",
+    "score": 10
+  },
+  {
+    "id": "OCFeiX2uBZg",
+    "title": "PART 3!! These divorced parents force their child to choose AGAIN! #acting @lizzieallyn",
+    "score": 10
+  },
+  {
+    "id": "eHdppRd6frU",
+    "title": "When Parents Want To Divorce 💀",
+    "score": 10
+  },
+  {
+    "id": "fEI_gOxppDw",
+    "title": "People with Divorced Parents, do you regret staying with the parent you chose?",
+    "score": 10
+  },
+  {
+    "id": "VjrmAkWbQhA",
+    "title": "My Parents' Divorce Still Hurts 40 Years Later (Hardest Video I've Ever Made)",
+    "score": 10
+  },
+  {
+    "id": "e2JWxURc2Jg",
+    "title": "Why I Published This Video",
+    "score": 10
+  },
+  {
+    "id": "XPIkpVp7nfg",
+    "title": "Life After My Parents Divorce | Caspar Lee: storybooth Stars",
+    "score": 10
+  },
+  {
+    "id": "FCv9OiYCb5g",
+    "title": "WHEN YOUR PARENTS ARE GETTING A DIVORCE #parents #divorce #children #trauma #hamzasyed",
+    "score": 10
+  },
+  {
+    "id": "Gof0YcpcVLM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LL0xhVgW82A",
+    "title": "Simon Jordan EXPLAINS if Spurs are a SERIOUS CLUB after Daniel Levy's exit amid Thomas Frank DOUBTS!",
+    "score": 10
+  },
+  {
+    "id": "Mzy6D2H0uco",
+    "title": "\\\"5 STARS FOR BUSINESS!\\\" Finance Expert HAILS Daniel Levy's Spurs reign \\u0026 reveals HUGE club valuation",
+    "score": 10
+  },
+  {
+    "id": "ku13_rRJmhQ",
+    "title": "BREAKING! SAUDI INVESTMENT'S COMING! STADIUM NAMING RIGHTS DEAL! TOTTENHAM ON ALERT FOR GIBBS-WHITE!",
+    "score": 10
+  },
+  {
+    "id": "CgHF69tu0UU",
+    "title": "Jeff Stelling \\u0026 Ally McCoist DEBATE if Tottenham SHOULD sign players in the transfer window",
+    "score": 10
+  },
+  {
+    "id": "_ujf3cVhDfA",
+    "title": "\\\"DIFFERENT BRIEF!\\\" Simon Jordan REACTS to Spurs' HUGE £100M CAPITAL INJECTION!",
+    "score": 10
+  },
+  {
+    "id": "sKcZ5CguKB8",
+    "title": "Lewis family could invest more money in Tottenham Hotspur",
+    "score": 10
+  },
+  {
+    "id": "1rDnHCcema0",
+    "title": "4 Stocks I'm Buying RIGHT NOW‼️ US Investing Championship Update 💰",
+    "score": 10
+  },
+  {
+    "id": "Ez8GjCR8WfE",
+    "title": "Wall Street Is Tokenizing Assets — My 70 20 10 Split!",
+    "score": 10
+  },
+  {
+    "id": "xIxkxUnT72M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tliHUr8x22s",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "6aPfl3jfaYU",
+    "title": "Will 2026 be a BEAR MARKET Year?",
+    "score": 10
+  },
+  {
+    "id": "RY3BPtBA_Bs",
+    "title": "5 TOP ETFs to BUY in 2026",
+    "score": 10
+  },
+  {
+    "id": "cGZNF0WML1M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ObPAqDhPsH8",
+    "title": "Magnum",
+    "score": 10
+  },
+  {
+    "id": "hArWIPyGzZg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PEgJwTdxX5o",
+    "title": "Don't Say I Didn't WARN You  |  SOFI Stock",
+    "score": 10
+  },
+  {
+    "id": "pNdIv8fySrk",
+    "title": "Should Spurs Invest more to support Thomas Frank? Incredible React to The Hardest Time at Spurs!",
+    "score": 10
+  },
+  {
+    "id": "SqCvmO3QaIA",
+    "title": "Tottenham's New Investment  Is This a Whitewash",
+    "score": 10
+  },
+  {
+    "id": "FVUFo8UjtBA",
+    "title": "Spurs Are The Richest Club In London",
+    "score": 10
+  },
+  {
+    "id": "rpNut12RFHc",
+    "title": "Stefan Borson REVEALS How Much Of The £100m Tottenham Injection Will Go On Transfers!",
+    "score": 10
+  },
+  {
+    "id": "XyN8xMAIKA4",
+    "title": "Exclusive Tottenham investor's 'huge' takeover plan revealed",
+    "score": 10
+  },
+  {
+    "id": "XA9x62DOEOI",
+    "title": "Daniel Levy Bold Plan for Tottenham: Investment \\u0026 Academy Focus Explained!",
+    "score": 10
+  },
+  {
+    "id": "OZXD4P2ypX8",
+    "title": "Are Tottenham's owners looking to sell?",
+    "score": 10
+  },
+  {
+    "id": "8JCCaISZi50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Hm6N8NPsTmI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pSrrfF12zZ8",
+    "title": "The ONLY Explanation of Tottenham's £100 Million Investment You Need",
+    "score": 10
+  },
+  {
+    "id": "PA0DVYlLMNQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ihj0qUoC4mY",
+    "title": "Isack Hadjar and Ritomo Miyata incident in the Monaco tunnel",
+    "score": 10
+  },
+  {
+    "id": "lAdWNIFiE_M",
+    "title": "Don't Forget Your Phone, Alex 🤣📸",
+    "score": 10
+  },
+  {
+    "id": "88gXBA7mFGY",
+    "title": "Isack Hadjar's Inspiring Rookie Comeback 🤩",
+    "score": 10
+  },
+  {
+    "id": "EHTxMDk_aaU",
+    "title": "Isack Hadjar's First-Ever F1 Podium! | 2025 Dutch Grand Prix",
+    "score": 10
+  },
+  {
+    "id": "dlj0ZNgp0Dc",
+    "title": "How Isack Hadjar managed to get a F1 seat",
+    "score": 10
+  },
+  {
+    "id": "TXpiK10YvX4",
+    "title": "1974  Hesketh James Hunt - Monaco Historic GP 2021 Onboard",
+    "score": 10
+  },
+  {
+    "id": "7g1um9xusA0",
+    "title": "Matching with F1 Driver Isack Hadjar  😂 #f1 #funny",
+    "score": 10
+  },
+  {
+    "id": "AvAexQdim1Q",
+    "title": "Isack Hadjar: 'I'm A Fighter' | F1 Beyond The Grid Podcast",
+    "score": 10
+  },
+  {
+    "id": "LXTxhl0d_JM",
+    "title": "Hadjar Turned His Career Around in Just 15 Races 🥰",
+    "score": 10
+  },
+  {
+    "id": "qRj4hDChwtI",
+    "title": "Max Verstappen “calls” Eddie Jordan a wanker",
+    "score": 10
+  },
+  {
+    "id": "qXif1beCbFo",
+    "title": "🥊 'Grumpy' Alonso vs 'hero' Hadjar",
+    "score": 10
+  },
+  {
+    "id": "mHU2oAgZzB8",
+    "title": "ISACK HADJAR AND LIAM LAWSON CALL OUT F1 DRIVERS FOR FUN",
+    "score": 10
+  },
+  {
+    "id": "c0IX2uoH6_w",
+    "title": "Les mots de Lewis et Max sur Isack 😍 #f1 #dutchgp",
+    "score": 10
+  },
+  {
+    "id": "O-f2J0ursVQ",
+    "title": "Isack really broke his first F1 trophy 😭 (via @visacashapprb/IG)",
+    "score": 10
+  },
+  {
+    "id": "W4vxlaKXqW0",
+    "title": "Hadjar’s first podium in F1 🤯🔥🥶",
+    "score": 10
+  },
+  {
+    "id": "FAFPPk-XYDo",
+    "title": "📻 Hadjar’s radio: \\\"So I unlocked a new problem\\\" | F1 Japanese Grand Prix 2025",
+    "score": 10
+  },
+  {
+    "id": "yzbmrWP-PJY",
+    "title": "Wrong Way, Isack! 🤣",
+    "score": 10
+  },
+  {
+    "id": "8ujf6hNHvUE",
+    "title": "Hadjar Mocks Leclerc’s Dirty Air Excuse 😂",
+    "score": 10
+  },
+  {
+    "id": "HaCGem_v1ns",
+    "title": "My First F1 Car: All Access with Isack Hadjar",
+    "score": 10
+  },
+  {
+    "id": "ypZVmNe0PMA",
+    "title": "Isack Hadjar’s dad jumps in his son’s car 🥹 #F1 #VCARB",
+    "score": 10
+  },
+  {
+    "id": "0M_dBvAR_uo",
+    "title": "Search filters",
+    "score": 10
+  }
+]

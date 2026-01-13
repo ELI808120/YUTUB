@@ -1,13 +1,12 @@
 name: YouTube Netfree Crawler
 
 on:
-  # ביטלנו את ה-cron כדי למנוע כפילויות מיותרות
-  workflow_dispatch: # מאפשר למחשב שלך להפעיל את הסורק ידנית/דרך קוד
+  workflow_dispatch: # מאפשר הפעלה ידנית או דרך הקוד במחשב
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 60 # נותן לו עד שעה לסיים סריקה ענקית
+    timeout-minutes: 15 # סריקה לא צריכה לקחת יותר מ-15 דקות
     permissions:
       contents: write
 
@@ -15,7 +14,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # חשוב כדי לאפשר מיזוג (Rebase) תקין
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,8 +24,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # הוספנו את requests ליתר ביטחון אם הקוד ישתמש בו
-          pip install yt-dlp requests
+          pip install requests yt-dlp
 
       - name: Run Crawler
         run: python crawler.py
@@ -36,21 +34,28 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           
-          git add pending_check.json
+          # מוסיפים את כל השינויים (חשוב מאוד לסורק האוטונומי!)
+          git add .
           
-          # אם אין שינויים, לא עוצר אלא ממשיך
-          git commit -m "Update pending queue [skip ci]" || echo "No changes to commit"
+          # מבצעים Commit רק אם יש שינויים בפועל
+          git commit -m "Update crawler data [skip ci]" || { echo "No changes to commit"; exit 0; }
           
-          for i in {1..10}; do # הגדלנו ל-10 ניסיונות בגלל שהקובץ כבד
+          # ניסיונות דחיפה למניעת התנגשויות עם המחשב המקומי
+          for i in {1..10}; do
             echo "Attempt $i to push changes..."
+            
+            # מושך עדכונים אחרונים כדי לוודא שההיסטוריה מסונכרנת
             git pull --rebase origin main
+            
             if git push origin main; then
               echo "✅ Push succeeded!"
               exit 0
             fi
+            
             echo "⚠️ Conflict detected, retrying in 5 seconds..."
             sleep 5
           done
           
           echo "❌ Failed to push after 10 attempts."
           exit 1
+          

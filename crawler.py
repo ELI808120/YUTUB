@@ -116,7 +116,7 @@ class CloudCrawler:
         return results
 
 def main():
-    print(f"🚀 Hyper-Crawler v2 Started. Workers: {MAX_WORKERS}")
+    print(f"🚀 Autonomous Hyper-Crawler v3 Started. Workers: {MAX_WORKERS}")
     
     # 1. Load History
     try:
@@ -127,63 +127,73 @@ def main():
     crawler = CloudCrawler()
     candidates = []
     
-    # 2. Generate Massive Task List
+    # 2. GENERATE AUTONOMOUS TASKS
     tasks = []
     
-    # א. מגרילים 25 נושאים מתוך הרשימה (במקום 5)
-    selected_seeds = random.sample(SAFE_SEEDS, min(len(SAFE_SEEDS), 25))
-    for seed in selected_seeds: 
-        tasks.append(('search', seed))
-        
-    # ב. סריקת עומק על ההיסטוריה (עד 10 סרטונים אחרונים)
+    # א. בסיס: 10 נושאים אקראיים מהרשימה הבטוחה
+    tasks.extend([('search', s) for s in random.sample(SAFE_SEEDS, min(len(SAFE_SEEDS), 10))])
+    
+    # ב. הקסם האוטונומי: למידה מהצלחות
     if history:
-        for item in history[:10]:
+        # 1. משימת "קשורים" (Related) ל-15 הסרטונים האחרונים שנטפרי פתחה
+        for item in history[:15]:
             tasks.append(('related', item['id']))
+            
+        # 2. ייצור שאילתות דינמיות מכותרות קיימות
+        dynamic_queries = set()
+        # עוברים על 30 הסרטונים האחרונים בהיסטוריה
+        for item in history[:30]:
+            title = item.get('title', '')
+            # חילוץ מילים (בעברית ובאנגלית) באורך 4 אותיות ומעלה
+            words = re.findall(r'\b[\u0590-\u05EA]{4,}\b|\b[a-zA-Z]{4,}\b', title)
+            
+            if len(words) >= 2:
+                # יצירת צירוף של 2 מילים אקראיות מתוך הכותרת
+                phrase = " ".join(random.sample(words, 2))
+                dynamic_queries.add(phrase)
+        
+        # מוסיפים עד 20 שאילתות חדשות שהבוט המציא לבד
+        autonomous_list = list(dynamic_queries)
+        for q in random.sample(autonomous_list, min(len(autonomous_list), 20)):
+            tasks.append(('search', q))
+            print(f"🧠 Autonomous Query Generated: {q}")
 
-    print(f"📋 Loaded {len(tasks)} heavy tasks. Starting swarm...")
+    print(f"📋 Total Tasks: {len(tasks)}. Starting swarm...")
 
-    # 3. Parallel Execution
+    # 
+
+    # 3. Parallel Execution (נשאר ללא שינוי ליציבות)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_task = {}
         for task_type, value in tasks:
             if crawler.is_time_up(): break
-            
             func = crawler.search_keyword if task_type == 'search' else crawler.get_related
             future = executor.submit(func, value)
             future_to_task[future] = f"{task_type}:{value[:15]}"
 
         for future in as_completed(future_to_task):
-            task_name = future_to_task[future]
             try:
                 data = future.result()
                 if data:
-                    print(f"   🔹 {task_name}.. -> {len(data)} vids")
                     for vid in data:
                         if brain.is_new(vid['id']):
                             score = brain.score(vid['title'])
                             if score > 0:
                                 candidates.append({
-                                    "id": vid['id'], 
-                                    "title": vid['title'], 
-                                    "score": score
+                                    "id": vid['id'], "title": vid['title'], "score": score
                                 })
             except: pass
-
             if crawler.is_time_up(): break
 
     # 4. Final Processing
-    # מסדרים לפי ציון ומעיפים כפילויות
     unique_candidates = {v['id']: v for v in candidates}.values()
     final_list = list(unique_candidates)
     final_list.sort(key=lambda x: x['score'], reverse=True)
     
-    # מגדילים את המכסה ל-800 מועמדים
     final_output = final_list[:800]
-
     print(f"💾 DONE. Collected {len(candidates)} raw -> Saving {len(final_output)} best candidates.")
     
     with open(PENDING_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=2, ensure_ascii=False)
-
 if __name__ == "__main__":
     main()

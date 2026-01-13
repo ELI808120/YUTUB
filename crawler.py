@@ -118,7 +118,7 @@ class CloudCrawler:
 def main():
     print(f"🚀 Autonomous Hyper-Crawler v3 Started. Workers: {MAX_WORKERS}")
     
-    # 1. Load History
+    # 1. טעינת היסטוריה
     try:
         with open(HISTORY_FILE, 'r', encoding='utf-8') as f: history = json.load(f)
     except: history = []
@@ -127,42 +127,40 @@ def main():
     crawler = CloudCrawler()
     candidates = []
     
-    # 2. GENERATE AUTONOMOUS TASKS
+    # 2. יצירת רשימת משימות חכמה
     tasks = []
     
-    # א. בסיס: 10 נושאים אקראיים מהרשימה הבטוחה
+    # א. גיוון: 10 נושאים אקראיים מהרשימה הקבועה (כדי לא לאבד כיוון)
     tasks.extend([('search', s) for s in random.sample(SAFE_SEEDS, min(len(SAFE_SEEDS), 10))])
     
-    # ב. הקסם האוטונומי: למידה מהצלחות
+    # ב. המוח האוטונומי:
     if history:
-        # 1. משימת "קשורים" (Related) ל-15 הסרטונים האחרונים שנטפרי פתחה
+        # 1. משימות "קשורים" (Related) ל-15 האחרונים שנטפרי אישרה
         for item in history[:15]:
             tasks.append(('related', item['id']))
             
-        # 2. ייצור שאילתות דינמיות מכותרות קיימות
+        # 2. יצירת מילות חיפוש חדשות מהכותרות של ההיסטוריה
         dynamic_queries = set()
-        # עוברים על 30 הסרטונים האחרונים בהיסטוריה
-        for item in history[:30]:
+        for item in history[:40]: # מסתכל על 40 האחרונים
             title = item.get('title', '')
-            # חילוץ מילים (בעברית ובאנגלית) באורך 4 אותיות ומעלה
+            # חילוץ מילים בעברית ובאנגלית (מעל 3 אותיות)
             words = re.findall(r'\b[\u0590-\u05EA]{4,}\b|\b[a-zA-Z]{4,}\b', title)
             
             if len(words) >= 2:
-                # יצירת צירוף של 2 מילים אקראיות מתוך הכותרת
+                # יוצר צירוף של 2 מילים אקראיות מתוך הכותרת ומחפש אותן
                 phrase = " ".join(random.sample(words, 2))
                 dynamic_queries.add(phrase)
         
-        # מוסיפים עד 20 שאילתות חדשות שהבוט המציא לבד
-        autonomous_list = list(dynamic_queries)
-        for q in random.sample(autonomous_list, min(len(autonomous_list), 20)):
+        # מוסיף 20 שאילתות שהבוט המציא לבד
+        for q in random.sample(list(dynamic_queries), min(len(dynamic_queries), 20)):
             tasks.append(('search', q))
-            print(f"🧠 Autonomous Query Generated: {q}")
+            print(f"🧠 Autonomous Query: {q}")
 
     print(f"📋 Total Tasks: {len(tasks)}. Starting swarm...")
 
     # 
 
-    # 3. Parallel Execution (נשאר ללא שינוי ליציבות)
+    # 3. הרצה במקביל (נשאר כפי שהיה)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_task = {}
         for task_type, value in tasks:
@@ -179,13 +177,10 @@ def main():
                         if brain.is_new(vid['id']):
                             score = brain.score(vid['title'])
                             if score > 0:
-                                candidates.append({
-                                    "id": vid['id'], "title": vid['title'], "score": score
-                                })
+                                candidates.append({"id": vid['id'], "title": vid['title'], "score": score})
             except: pass
-            if crawler.is_time_up(): break
 
-    # 4. Final Processing
+    # 4. עיבוד סופי ושמירה
     unique_candidates = {v['id']: v for v in candidates}.values()
     final_list = list(unique_candidates)
     final_list.sort(key=lambda x: x['score'], reverse=True)

@@ -127,19 +127,19 @@ def main():
     crawler = CloudCrawler()
     candidates = []
     
-    # 2. יצירת רשימת משימות חכמה
+    # 2. יצירת רשימת משימות חכמה (מנגנון אוטונומי)
     tasks = []
     
-    # א. גיוון: 10 נושאים אקראיים מהרשימה הקבועה (כדי לא לאבד כיוון)
+    # א. גיוון: 10 נושאים אקראיים מהרשימה הקבועה
     tasks.extend([('search', s) for s in random.sample(SAFE_SEEDS, min(len(SAFE_SEEDS), 10))])
     
-    # ב. המוח האוטונומי:
+    # ב. המוח הלומד:
     if history:
-        # 1. משימות "קשורים" (Related) ל-15 האחרונים שנטפרי אישרה
+        # 1. סריקת "קשורים" (Related) ל-15 האחרונים שנטפרי אישרה
         for item in history[:15]:
             tasks.append(('related', item['id']))
             
-        # 2. יצירת מילות חיפוש חדשות מהכותרות של ההיסטוריה
+        # 2. **ייצור שאילתות דינמיות**: פירוק כותרות קיימות למילות חיפוש
         dynamic_queries = set()
         for item in history[:40]: # מסתכל על 40 האחרונים
             title = item.get('title', '')
@@ -147,20 +147,21 @@ def main():
             words = re.findall(r'\b[\u0590-\u05EA]{4,}\b|\b[a-zA-Z]{4,}\b', title)
             
             if len(words) >= 2:
-                # יוצר צירוף של 2 מילים אקראיות מתוך הכותרת ומחפש אותן
+                # הגרלת צירוף של 2 מילים מהכותרת ליצירת חיפוש חדש
                 phrase = " ".join(random.sample(words, 2))
                 dynamic_queries.add(phrase)
         
-        # מוסיף 20 שאילתות שהבוט המציא לבד
-        for q in random.sample(list(dynamic_queries), min(len(dynamic_queries), 20)):
+        # הוספת 25 שאילתות שהבוט "המציא" לבד מההיסטוריה
+        autonomous_list = list(dynamic_queries)
+        for q in random.sample(autonomous_list, min(len(autonomous_list), 25)):
             tasks.append(('search', q))
             print(f"🧠 Autonomous Query: {q}")
 
     print(f"📋 Total Tasks: {len(tasks)}. Starting swarm...")
 
-    # 
+    
 
-    # 3. הרצה במקביל (נשאר כפי שהיה)
+    # 3. הרצה במקביל (Parallel Execution)
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         future_to_task = {}
         for task_type, value in tasks:
@@ -177,8 +178,11 @@ def main():
                         if brain.is_new(vid['id']):
                             score = brain.score(vid['title'])
                             if score > 0:
-                                candidates.append({"id": vid['id'], "title": vid['title'], "score": score})
+                                candidates.append({
+                                    "id": vid['id'], "title": vid['title'], "score": score
+                                })
             except: pass
+            if crawler.is_time_up(): break
 
     # 4. עיבוד סופי ושמירה
     unique_candidates = {v['id']: v for v in candidates}.values()

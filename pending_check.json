@@ -1,1 +1,2457 @@
-[]
+[
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "קורס אקסל למתחילים - שיעור 2 - שינוי שפת התצוגה באקסל -",
+    "score": 110
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "אפו את לחם המחמצת המושלם: מדריך שלב אחר שלב",
+    "score": 110
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "iCzoZPiDnsQ",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "דניאל ג'ינו- הרצאה- היסטוריה של ארץ ישראל-בר גלים 2015 Daniel Gino",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "איך הייתי לומד פייתון מהר (אם הייתי יכול להתחיל מחדש)",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "אקסל פיבוט - כל מה שצריך לדעת PIVOT TABLE",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "כך תכינו מחמצת של תומר בלס",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "מתכון והוראות ללחם שאור ביתי #מחמצת #מתכוןלמחמצת #אפייה",
+    "score": 60
+  },
+  {
+    "id": "UNtCXPKcuNY",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "1dQIgFiS7mw",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "CpS59j4tujA",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "כך תכינו מחמצת שעור מי קמח לבן או קמח מלא .חלק א באהבה לכולם תומר תומס 💚",
+    "score": 60
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "איך להכין לחם מחמצת- בעד ונגד אכילת לחם מחמצת ומתכון מלא",
+    "score": 60
+  },
+  {
+    "id": "ssPg5k4UhVQ",
+    "title": "לחם מחמצת שאור בסיסי (יחסית) למתחילים",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "יסודות בתולדות עם ישראל. חובה לראות לכל ישראלי . פרופסור ישראל פינקלשטיין אגדה של עולם הארכאולוגיה",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "[עושים היסטוריה] 237: האיש שחישמל את ארץ-ישראל – פרק מיוחד של 'מיטען חשמלי'",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "xm673bpIdOA",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "האם אנחנו בדרך לפיצול בין יהודה לישראל? פודקאסט עם נתנאל אלינסון | ארץ ושמיים פרק 46",
+    "score": 60
+  },
+  {
+    "id": "BX_RXZBP4Tg",
+    "title": "עמיחי מזר עושה סדר בארכיאולוגיה והיסטוריה של בני ישראל",
+    "score": 60
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "נחמיה- מפרס לירושלים -יומן אישי",
+    "score": 60
+  },
+  {
+    "id": "A6klQYHVA_Q",
+    "title": "היסטוריה, מקרא ומה שקרה: ראשיתן של ממלכות ישראל ויהודה",
+    "score": 60
+  },
+  {
+    "id": "tjnBmH8b0Ko",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "מלחמת ששת הימים בקיצור",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "eZcNmuOHtoY",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "gvuMhD52Phg",
+    "title": "Learn 10 Beginner Bushcraft \\u0026 Survival Skills!",
+    "score": 50
+  },
+  {
+    "id": "8VrgeLeruFo",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python Syllabus | Python for Beginners | Complete Python Course #pythonlearning",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "DNKpAZTXhhU",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "Learning Excel Lesson 4 - Basic Concepts - Part 3 (Excel for Beginners)",
+    "score": 50
+  },
+  {
+    "id": "ePsNWXGz9Zw",
+    "title": "Easy Sourdough Starter Guide: Just Flour \\u0026 Water!",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "Easy Oil Painting Techniques EVERYONE Should Know! (Step by Step Oil Painting Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "By5ryf3wbAw",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "5FQnW2bW10E",
+    "title": "The ENTIRE History of Human Civilizations | Ancient to Modern (4K Documentary) [Full Movie]",
+    "score": 50
+  },
+  {
+    "id": "ha1NneZGm7A",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "skfeCM3x_Pw",
+    "title": "How WW1 Created the Middle East Conflicts (Documentary)",
+    "score": 50
+  },
+  {
+    "id": "PiCXNI2ZrkQ",
+    "title": "Don't Filter Data in Excel Like this‼️Instead Use Amazing trick \"},{\"text\":\"#exceltutorial\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CPsCENbKAxgKIhMIpJuJw5qOkgMVHuWUCR3lSyyFygEEba7w8Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/exceltutorial\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gURCg1leGNlbHR1dG9yaWFsGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CPsCENbKAxgKIhMIpJuJw5qOkgMVHuWUCR3lSyyF\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#exceltips\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CPoCENbKAxgMIhMIpJuJw5qOkgMVHuWUCR3lSyyFygEEba7w8Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/exceltips\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUNCglleGNlbHRpcHMYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CPoCENbKAxgMIhMIpJuJw5qOkgMVHuWUCR3lSyyF\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#excel\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CPkCENbKAxgOIhMIpJuJw5qOkgMVHuWUCR3lSyyFygEEba7w8Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/excel\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUJCgVleGNlbBgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CPkCENbKAxgOIhMIpJuJw5qOkgMVHuWUCR3lSyyF\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"207,826 views\"},\"shortViewCount\":{\"simpleText\":\"207K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 50
+  },
+  {
+    "id": "qbkpW5YZl_Q",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "RG5fXpfiUL0",
+    "title": "How To Use Jira Search (Full 2025 Guide)",
+    "score": 50
+  },
+  {
+    "id": "bkau6HJuZZ4",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "RdUeaddCOdU",
+    "title": "How to use JQL to search text-based fields | Jira Software tutorial",
+    "score": 50
+  },
+  {
+    "id": "3QAuueP947k",
+    "title": "Introduction to JQL: A beginner's guide to more advanced Jira filters",
+    "score": 50
+  },
+  {
+    "id": "sEL2Ey038VM",
+    "title": "The ONLY JQL Jira Tutorial You Need: Ultimate Guide for Beginners",
+    "score": 50
+  },
+  {
+    "id": "wmAS-oGJ7dU",
+    "title": "How to Create Filter in Jira Step by Step Tutorial – Jira How-to's Series by Jexo",
+    "score": 50
+  },
+  {
+    "id": "zM1s2fY33gQ",
+    "title": "JIRA Tutorial #26 - Introduction to JQL | Advanced Search in JIRA",
+    "score": 50
+  },
+  {
+    "id": "ItTffH3V4w4",
+    "title": "How to create Smart Filter in JIRA (Simple Search Setup)",
+    "score": 50
+  },
+  {
+    "id": "b-vcMIgnO7s",
+    "title": "Jira Query Language | JQL | Jira Advance Search | Jira Tutorial for  Beginner",
+    "score": 50
+  },
+  {
+    "id": "94OFIVpwua0",
+    "title": "How to sign in Youtube - Login Free \\u0026 Easy",
+    "score": 50
+  },
+  {
+    "id": "vWt6-eeR-Tw",
+    "title": "How to Sign In/Login to YouTube [Guide]",
+    "score": 50
+  },
+  {
+    "id": "G6GNDWdKSos",
+    "title": "How to Sign In to YouTube TV (2025) - Log in to YouTube TV on Smart TV",
+    "score": 50
+  },
+  {
+    "id": "IwRDjxXeHvU",
+    "title": "Who Has the Best Glow-Up? 🧚✨ Ordinary vs Billionaire Makeover Showdown",
+    "score": 50
+  },
+  {
+    "id": "9nEJmtO_UZM",
+    "title": "How to Sign Out of YouTube [Guide]",
+    "score": 50
+  },
+  {
+    "id": "G33DC8oCZ7A",
+    "title": "How To Make An Account On YouTube - Full Guide",
+    "score": 50
+  },
+  {
+    "id": "dx2LzTkd_6w",
+    "title": "How To Sign In To My Youtube Premium Account ? - Step by Step",
+    "score": 50
+  },
+  {
+    "id": "osv5xaajHdE",
+    "title": "How To Sign Into YouTube Account [Tutorial]",
+    "score": 50
+  },
+  {
+    "id": "pGdYIYujJpA",
+    "title": "HOW TO SIGN IN TO YOUTUBE ON TV",
+    "score": 50
+  },
+  {
+    "id": "0WnJGjP2YOo",
+    "title": "How to Login To YouTube Account",
+    "score": 50
+  },
+  {
+    "id": "g2pdd9bBEPY",
+    "title": "How to login to your YouTube account on LG’s webOS TVs",
+    "score": 50
+  },
+  {
+    "id": "A5zpNKMMHV4",
+    "title": "How to Sign into YouTube on Any Smart TV",
+    "score": 50
+  },
+  {
+    "id": "p9LiAXJTe24",
+    "title": "How to Sign in YouTube on Smart TV",
+    "score": 50
+  },
+  {
+    "id": "nJ-2uRWmdps",
+    "title": "How To Sign In To YouTube On TV - Step By Step",
+    "score": 50
+  },
+  {
+    "id": "nAIZOXxddjs",
+    "title": "Sedona Method: How to STOP Beating Yourself Up?",
+    "score": 50
+  },
+  {
+    "id": "Ouf4WeNxTm8",
+    "title": "How To Kill Your Current Self (Phoenix Method)",
+    "score": 50
+  },
+  {
+    "id": "RH4MDeL844Y",
+    "title": "How To Kill Your Current Self (Goggins Method)",
+    "score": 50
+  },
+  {
+    "id": "sn5QBVar5pk",
+    "title": "6 Techniques to Master Self Discipline | Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "E0S8UBI-UfU",
+    "title": "The Science Of Building EXTREME Discipline - Andrew Huberman",
+    "score": 50
+  },
+  {
+    "id": "RRgCskx2a0k",
+    "title": "Study With Me 📚 Pomodoro",
+    "score": 50
+  },
+  {
+    "id": "LRsn3YUHOaM",
+    "title": "Guidelines",
+    "score": 50
+  },
+  {
+    "id": "JKP0il83XVQ",
+    "title": "review your life",
+    "score": 50
+  },
+  {
+    "id": "PaIT96aE8SE",
+    "title": "How to Build Self-Discipline: The Mindset Method",
+    "score": 50
+  },
+  {
+    "id": "P9tAsMmFSpk",
+    "title": "Tokyo Travel Guide - The Best Things to Do in Tokyo",
+    "score": 50
+  },
+  {
+    "id": "0MQKLUkAUf8",
+    "title": "How to Spend 5 Days in Tokyo",
+    "score": 50
+  },
+  {
+    "id": "sWEBl9A4lNY",
+    "title": "Ultimate Tokyo Japan Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "ZjQj5GRwLSY",
+    "title": "Why visit Tokyo - The Ultimate Guide",
+    "score": 50
+  },
+  {
+    "id": "Sdjqx0BMHdw",
+    "title": "The History of Search and Why it Sucks",
+    "score": 50
+  },
+  {
+    "id": "bvHjbw61lnc",
+    "title": "The Youtube History Search SUCKS!!",
+    "score": 50
+  },
+  {
+    "id": "wDjeBNv6ip0",
+    "title": "Bakermat - Learn to Lose ft. Alex Clare",
+    "score": 50
+  },
+  {
+    "id": "Fo8uMyM3BDQ",
+    "title": "How To Lose STUBBORN Fat (3 TIPS)",
+    "score": 50
+  },
+  {
+    "id": "2bgfLnsGj5M",
+    "title": "How to Add Starting Soon on OBS",
+    "score": 50
+  },
+  {
+    "id": "XMScrQYc2kI",
+    "title": "Power Apps Gallery with Tabbed Filters | Step-by-Step Tutorial",
+    "score": 50
+  },
+  {
+    "id": "JJhbBlMuNHM",
+    "title": "Power Apps Gallery with Tabbed Filters | Step-by-Step Tutorial",
+    "score": 50
+  },
+  {
+    "id": "YBIzVZWJ098",
+    "title": "Power Apps Modern Gallery Design | Filters + Sort + Search UI Tutorial",
+    "score": 50
+  },
+  {
+    "id": "VVjKR6EsUEc",
+    "title": "Filter \\u0026 Fetch Data from Apps ⢸ Clappia Dynamic Filters ⢸ No-Code App Building",
+    "score": 50
+  },
+  {
+    "id": "rtx7Gr4kZX8",
+    "title": "how to create aesthetic instagram reels ✨ | best apps, filters, \\u0026 content ideas",
+    "score": 50
+  },
+  {
+    "id": "HRm2YRXwJY0",
+    "title": "I‘m using Filter? 😳🤭.. #secret #makeup #filter",
+    "score": 50
+  },
+  {
+    "id": "f5bCqZLlCC8",
+    "title": "Fleetwood Mac - You Make Loving Fun (The Dance)",
+    "score": 50
+  },
+  {
+    "id": "qY3W7r7k3n4",
+    "title": "Chillout Lounge - Calm \\u0026 Relaxing Background Music | Study, Work, Sleep, Meditation, Chill",
+    "score": 50
+  },
+  {
+    "id": "Qlb0vMgHtfA",
+    "title": "Survival in nature, finding food in the wilderness, survival skills",
+    "score": 10
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "✅ The guy shows SURVIVAL skills in the wilderness 💦 #camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "KMO371fCkNM",
+    "title": "Her Survival skills will Fry 🔪 #camping #survival #bushcraft #outdoors #lifehack",
+    "score": 10
+  },
+  {
+    "id": "yHQO8aHQoxs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "-Kq2Cndht6w",
+    "title": "Extreme Winter Survival in Heavy Snow | Under a Fallen Tree at -21°C – Catch \\u0026 Cook",
+    "score": 10
+  },
+  {
+    "id": "QWpl6aVPp8c",
+    "title": "Survival Skills: Firestarter for Extreme Conditions. #survival #skills #lifehacks #camping",
+    "score": 10
+  },
+  {
+    "id": "xlMmWmRQe-I",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "Survival bushcraft skills #bushcraft #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "gtozrKzv4to",
+    "title": "Survival Skills: I don't know how, but it's amazing #camping #bushcraft",
+    "score": 10
+  },
+  {
+    "id": "X_-Wh-r12J4",
+    "title": "The GIRL's skills are AMAZING🔪🎋#camping #survival #bushcraft #outdoors #lifehack",
+    "score": 10
+  },
+  {
+    "id": "RLmUxXO8pKs",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "BFheNvvJGoQ",
+    "title": "✅Wild Survival Skills: Filter Muddy Water 🌿💧 #camping #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "dMIqr6YlR_w",
+    "title": "Survival Skills: SMART idea and USEFUL with single mom #bushcraft #camping #outdoors",
+    "score": 10
+  },
+  {
+    "id": "bbYdxL5foP0",
+    "title": "Survival Skills: Amazing DIY heater for Extreme Conditions. #survival #camping #skills #lifehacks",
+    "score": 10
+  },
+  {
+    "id": "-bkiQCQ3W2Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HT7u2YwGSc4",
+    "title": "Does the Universe Have a Maximum Temperature? The Planck Temperature Explained",
+    "score": 10
+  },
+  {
+    "id": "rCfPQLVzus4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OKBapkJbB8c",
+    "title": "warnings \\u0026 disclaimers",
+    "score": 10
+  },
+  {
+    "id": "Da-2h2B4faU",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "5kuRatz2rj0",
+    "title": "What about quantum mechanics?",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WGJJIrtnfpk",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "Zsa26236rio",
+    "title": "Python Roadmap For Beginners (Step By Step)",
+    "score": 10
+  },
+  {
+    "id": "yZl5FJ3ChkI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2ulxVUKbC6E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IckNnvQVcDM",
+    "title": "Dreams To Dream (Tanya's Version) (Fievel Goes West/Soundtrack Version)",
+    "score": 10
+  },
+  {
+    "id": "LXbg2yBHdo4",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "Deep Sea Exploration - 360 | Into Water",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "20 New Deep Sea Creature Encounters Caught on Camera in Hawaii 2025 | Mega ROV Countdown № 2",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "wKUzjton2TM",
+    "title": "15 Gardening Hacks You’ll Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "BO8yuSTc3fo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "Garden Center Shopping Like a Pro! 🌿 Expert Tips to Pick the Best Plants \\u0026 Shrubs",
+    "score": 10
+  },
+  {
+    "id": "b3E38LJeDZ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "496lZjgQZ-4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A6zhvmVuPZc",
+    "title": "8 Of My BEST Raised Bed Gardening Tips",
+    "score": 10
+  },
+  {
+    "id": "fwb6UDdpGEo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "50elEqbnM8w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "spHoixofvso",
+    "title": "Sierra Ferrell - In Dreams -  Alternative Version (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "LS4NkOiu6wk",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "cdTNj3y6G8I",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "Mxk6x4pSDx0",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "qJcdOJdc1Dc",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "3L-gogyZ1TA",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "1c5dZV3CeJw",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "qg0kcPyK0EM",
+    "title": "Robert Miles - Children [Dream Version]",
+    "score": 10
+  },
+  {
+    "id": "otFgrfMH6Y8",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "MKRQCNcTEX4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "yhFccHgf_FQ",
+    "title": "Dreams (Lanie's Version)",
+    "score": 10
+  },
+  {
+    "id": "YFrWGVjjvHE",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "MHIV0bYryiw",
+    "title": "Part 2: Power Apps with Excel Creating Filters, Search, Collections, Charts",
+    "score": 10
+  },
+  {
+    "id": "-pwRDC6l1Zk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "bljJxzdrwJI",
+    "title": "Eminem - Lose Yourself (Remix) 2Pac, The Notorious B.I.G., Method Man, Ice Cube, Eazy-E, Dr. Dre",
+    "score": 10
+  },
+  {
+    "id": "3CZTuqxwiCk",
+    "title": "Justin Bieber - Love Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "aZgopZMc8pA",
+    "title": "Lose Yourself - Eminem | Subtitulada en español",
+    "score": 10
+  },
+  {
+    "id": "j5-yKhDd64s",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "uelHwf8o7_U",
+    "title": "Eminem - Not Afraid",
+    "score": 10
+  },
+  {
+    "id": "IQTI5Wg1h6A",
+    "title": "Eminem - Lose Yourself (Remix) 2Pac, The Notorious B.I.G., Method Man, Ice Cube, Eazy-E, Dr. Dre",
+    "score": 10
+  },
+  {
+    "id": "VwXITaUkHYc",
+    "title": "Eminem - Please, Be Yourself (ft. Yelawolf) Morrison Remix 2024",
+    "score": 10
+  },
+  {
+    "id": "hr71T8fZbpM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ljVrFz79fdA",
+    "title": "Two ways to easily add search and filters to your Webflow site – Workflow series",
+    "score": 10
+  },
+  {
+    "id": "Nhe-LJLZMHk",
+    "title": "Eminem - Lose Yourself [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "bD3S3kurYVA",
+    "title": "Eminem - Love The Way You Lie ft. Rihanna",
+    "score": 10
+  },
+  {
+    "id": "Pi3_Zs-oRUo",
+    "title": "Till I Collapse",
+    "score": 10
+  },
+  {
+    "id": "SvPo3w3hgdg",
+    "title": "Eminem - Till I Collapse (NEFFEX Remix)",
+    "score": 10
+  },
+  {
+    "id": "WvZXLHr8-tA",
+    "title": "Eminem - Till I Collapse Remix Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX, Method Man",
+    "score": 10
+  },
+  {
+    "id": "VbQY7gSJFsA",
+    "title": "Eminem - Till I Collapse  | Creed II  (Motivational video) #work_hard #believe_in_yourself",
+    "score": 10
+  },
+  {
+    "id": "F16ZS6rM29s",
+    "title": "Eminem - 'Till I Collapse [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "M1ovvl2a-OE",
+    "title": "Eminem - 'Till I Collapse [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "fSc_wUZqS9Y",
+    "title": "Jake Gyllenhaal - 'Till I Collapse",
+    "score": 10
+  },
+  {
+    "id": "oI7svXARbwI",
+    "title": "Eminem - Till I Collapse (NEFFEX Remix)",
+    "score": 10
+  },
+  {
+    "id": "jNFPM6frhCA",
+    "title": "Till I Collapse Lyrics by Eminem",
+    "score": 10
+  },
+  {
+    "id": "uI3E3-V627A",
+    "title": "Eminem - Till I Collapse (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "vqEN9NwJbT4",
+    "title": "Eminem - Till I Collapse (Motivation video)",
+    "score": 10
+  },
+  {
+    "id": "AIbAX_Jhb1g",
+    "title": "Till I Collapse - Eminem, Nate Dogg, Lil Jon, 2Pac, Ice Cube, Dr. Dre, Eazy E, DMX, Method Man Remix",
+    "score": 10
+  },
+  {
+    "id": "GNDCZ0u_6Mw",
+    "title": "Mike Tyson - Till I Collapse (Eminem) | BoxinLegends",
+    "score": 10
+  },
+  {
+    "id": "8TfyXTIk9_o",
+    "title": "Military Motivation || Till I Collapse (2018ᴴᴰ)",
+    "score": 10
+  },
+  {
+    "id": "MFzYXid7tUk",
+    "title": "Eminem - Not Afraid",
+    "score": 10
+  },
+  {
+    "id": "r_0JjYUe5jo",
+    "title": "Eminem - 'Till I Collapse [Explicit]",
+    "score": 10
+  },
+  {
+    "id": "IUUfu3824QI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BLLe0y8WK00",
+    "title": "Juice WRLD Freestyles to 'Just Lose It' by Eminem",
+    "score": 10
+  },
+  {
+    "id": "wft5qQVL6LI",
+    "title": "Eminem - Just Lose It (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "j6ASIsbbmwg",
+    "title": "Eminem Roasted Michael Jackson 😳 | \\\"Just Lose It\\\" Controversy",
+    "score": 10
+  },
+  {
+    "id": "IbEhobkVbK8",
+    "title": "Just Lose It (Director's Cut) by Eminem | Eminem",
+    "score": 10
+  },
+  {
+    "id": "A9-t86OAtM0",
+    "title": "[S] John: Just Lose it",
+    "score": 10
+  },
+  {
+    "id": "tNWFpCPZ4VI",
+    "title": "Eminem - Just Lose It (YOOKiE Flip)",
+    "score": 10
+  },
+  {
+    "id": "h-umaoTI5gU",
+    "title": "Eminem - Just Lose It",
+    "score": 10
+  },
+  {
+    "id": "icZQXYzaQX8",
+    "title": "Eminem - Just Lose It",
+    "score": 10
+  },
+  {
+    "id": "wSiavT_iask",
+    "title": "Eminem - Just Lose It (Jesse Bloch Bootleg) [FREE DOWNLOAD]",
+    "score": 10
+  },
+  {
+    "id": "NMD6bwbTpn8",
+    "title": "No Way Michael Jackson Did This To Eminem! 😳",
+    "score": 10
+  },
+  {
+    "id": "EXadluskQf0",
+    "title": "Eminem Just Lose It (Uncensored)",
+    "score": 10
+  },
+  {
+    "id": "K5MKlVtUwgI",
+    "title": "Eminem - Just Lose It (Clean) [Curtain Call: The Hits]",
+    "score": 10
+  },
+  {
+    "id": "Jc3vmF-tvC0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ns8xOO_Anbo",
+    "title": "Operators available for text-based fields",
+    "score": 10
+  },
+  {
+    "id": "wNo0B-n5n_o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "73d_4XoWi8I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "k5E93r0mqIk",
+    "title": "The filter view",
+    "score": 10
+  },
+  {
+    "id": "jbuRNc_VZis",
+    "title": "Basic Search",
+    "score": 10
+  },
+  {
+    "id": "S-LgjZToK90",
+    "title": "Agenda",
+    "score": 10
+  },
+  {
+    "id": "JMEVX3eSwPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gOEpFQh65gk",
+    "title": "The Cranberries' Timeless 'Dreams' Performance in Paris 1999",
+    "score": 10
+  },
+  {
+    "id": "HIi4-H3Phfk",
+    "title": "The Fall (2006) - Behind The Scenes Part II - Wanderlust",
+    "score": 10
+  },
+  {
+    "id": "UMqpuiIVIyo",
+    "title": "Our 6-Year Love Was a LIE! She Married Her Ex \\u0026 Gave Me a FAKE Certificate. 💔 I Left Heartbroken...",
+    "score": 10
+  },
+  {
+    "id": "eZtWNG0Gykk",
+    "title": "Highlights",
+    "score": 10
+  },
+  {
+    "id": "fT2v4Xjx6RQ",
+    "title": "The Fall (2006) - Behind The Scenes Part I - Nostalgia",
+    "score": 10
+  },
+  {
+    "id": "dI73faVk7Bw",
+    "title": "Behind the Scenes2",
+    "score": 10
+  },
+  {
+    "id": "sevKUii9jA4",
+    "title": "Behind the Scenes: an adorable child actress",
+    "score": 10
+  },
+  {
+    "id": "SBKK4irVyBk",
+    "title": "When Someone Requests The Cranberries and This Singer Steals The Show",
+    "score": 10
+  },
+  {
+    "id": "TyW4R-Yc3Aw",
+    "title": "DHS Sec. Kristi Noem on Minneapolis ICE presence",
+    "score": 10
+  },
+  {
+    "id": "M-DPrxUE7AQ",
+    "title": "Lee Pace The Fall interview",
+    "score": 10
+  },
+  {
+    "id": "7RVMuqBH9kc",
+    "title": "실제로 이동진이 눈물 쏟은 영화 10선 (어그로 아님)",
+    "score": 10
+  },
+  {
+    "id": "4gy1T-RFgVg",
+    "title": "Film Bits- Close Reads: The Fall Credit Sequence",
+    "score": 10
+  },
+  {
+    "id": "YAlhxyYgqXA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_QiKAN2LIuk",
+    "title": "Dreams (Lanie's Version)",
+    "score": 10
+  },
+  {
+    "id": "Mk7AGg1Fh-0",
+    "title": "Dreams ~ Lanie Gardner- CMAFest 2023",
+    "score": 10
+  },
+  {
+    "id": "lKY9OQRPm1w",
+    "title": "Lanie Gardner   'Dreams'   by Fleetwood Mac (Cover/lyrics)",
+    "score": 10
+  },
+  {
+    "id": "C-9Hnmh93Rk",
+    "title": "Landslide  -  Lanie Gardner  (Fleetwood Mac cover)",
+    "score": 10
+  },
+  {
+    "id": "ffGNEVbEzyc",
+    "title": "Dreams - Lanie Gardner ( Lyrics )",
+    "score": 10
+  },
+  {
+    "id": "xBb-ilXvTGk",
+    "title": "Dreams (feat. Lanie Gardner) (Extended)",
+    "score": 10
+  },
+  {
+    "id": "qRNSqePOGm8",
+    "title": "Lanie Gardner...Dreams...Extended Mix...",
+    "score": 10
+  },
+  {
+    "id": "B-BkqjReyGE",
+    "title": "What happened to Lanie Gardner?",
+    "score": 10
+  },
+  {
+    "id": "5LD545KhyWE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9dcVOmEQzKA",
+    "title": "Eminem - Lose Yourself [HD]",
+    "score": 10
+  },
+  {
+    "id": "S9bCLPwzSC0",
+    "title": "Eminem - Mockingbird (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "z3Ct_w6vyJQ",
+    "title": "John Legend - All of Me (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "SGQULVZ8lyk",
+    "title": "The Easiest Way to Manage Filters \\u0026 Search in React",
+    "score": 10
+  },
+  {
+    "id": "lG_mTu0wyZA",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Nd93sn3-iIQ",
+    "title": "Happy January Morning Jazz ☕ Positive Coffee  Music and Delicate Bossa Nova Piano for Joyful Moods",
+    "score": 10
+  },
+  {
+    "id": "456NmeoW1oA",
+    "title": "Today is Monday! | Jack Hartmann",
+    "score": 10
+  },
+  {
+    "id": "SXRi24s19JI",
+    "title": "SEU Worship - Monday Morning Faith (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "TJMSvbMSGEI",
+    "title": "Monday JAZZ - Best Relaxing Bossa Nova JAZZ To Start the Week: Chill Out JAZZ",
+    "score": 10
+  },
+  {
+    "id": "bFt91Z7K09E",
+    "title": "Monday Morning Jazz - September Jazz \\u0026 Bossa Nova Music for Good Day",
+    "score": 10
+  },
+  {
+    "id": "zEA8mZ88euI",
+    "title": "Monday Morning Lofi ☕ Coffee \\u0026 Chill Beats for Deep Focus, Light Productivity \\u0026 Calm Wake Up Vibes",
+    "score": 10
+  },
+  {
+    "id": "337OKHV3BRI",
+    "title": "Cody Johnson - Monday Morning Merle (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "SsmVgoXDq2w",
+    "title": "The Mamas \\u0026 The Papas - Monday Monday",
+    "score": 10
+  },
+  {
+    "id": "h81Ojd3d2rY",
+    "title": "Monday Morning (2004 Remaster)",
+    "score": 10
+  },
+  {
+    "id": "sWJtuk3hy7I",
+    "title": "Melanie Fiona - Monday Morning (((lyrics))) HQ",
+    "score": 10
+  },
+  {
+    "id": "THVMaSuNtaE",
+    "title": "Monday Morning",
+    "score": 10
+  },
+  {
+    "id": "FlyztL4o1lc",
+    "title": "Monday Morning",
+    "score": 10
+  },
+  {
+    "id": "xlCSjtSNeZI",
+    "title": "Good Morning Vibes | Lo-Fi Music Monday- Sunday (18 Min) ☕🎶",
+    "score": 10
+  },
+  {
+    "id": "nbe6tBHsXMA",
+    "title": "Monday",
+    "score": 10
+  },
+  {
+    "id": "VsIjOKCxRSE",
+    "title": "Maroon 5 - Sunday Morning",
+    "score": 10
+  },
+  {
+    "id": "S2Cti12XBw4",
+    "title": "Happy Monday 😊 Start Your Week With Good Vibes - Chill Music Mix | The Good Life No.53",
+    "score": 10
+  },
+  {
+    "id": "vKEktBb8d00",
+    "title": "Peter Paul And Mary－Monday Morning(with Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "M_zpFM07-Ls",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mdcpUBGyn3k",
+    "title": "Hablan por teléfono y Trump dice \\\"es fantástica, estupenda\\\".",
+    "score": 10
+  },
+  {
+    "id": "YEyzQ85cU6Y",
+    "title": "Would You Risk Dying For $500,000?",
+    "score": 10
+  },
+  {
+    "id": "zo7i8VTpfNM",
+    "title": "3 Powerful Vegetables That Heal Knee Pain While You Sleep",
+    "score": 10
+  },
+  {
+    "id": "b5rdVrvaS54",
+    "title": "Why Chipotle Is a Warning Sign for the Economy",
+    "score": 10
+  },
+  {
+    "id": "omVAkORg59Y",
+    "title": "sandwich",
+    "score": 10
+  },
+  {
+    "id": "9ufwpKclEpM",
+    "title": "Testing Every IRL Ad I See",
+    "score": 10
+  },
+  {
+    "id": "cRFtI2BP8LU",
+    "title": "my brother just Did it",
+    "score": 10
+  },
+  {
+    "id": "c-4_ucr1Vyo",
+    "title": "Why Does YouTube TV Keep Asking Me to Sign In",
+    "score": 10
+  },
+  {
+    "id": "SM2A4uQvyNY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yTcuazSy5Cs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XfatXgt9VQY",
+    "title": "YouTube TV: Nothing but Net",
+    "score": 10
+  },
+  {
+    "id": "v52PQCUJnUo",
+    "title": "Viral video of the YouTube channel #saharadesert #love #music #desertadventures #viral #desert",
+    "score": 10
+  },
+  {
+    "id": "x1FZUpzHSIc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m-1UqKjoet0",
+    "title": "Eminem - Lose Yourself (Clean) | Lyrics",
+    "score": 10
+  },
+  {
+    "id": "QvDKekfCp-8",
+    "title": "Without Me - Eminem (Clean Version)",
+    "score": 10
+  },
+  {
+    "id": "6hoyXekqfNA",
+    "title": "Eminem, Juice WRLD - Godzilla (Clean - Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "eJO5HU_7_1w",
+    "title": "Eminem - Without Me (Clean)",
+    "score": 10
+  },
+  {
+    "id": "RQ9_TKayu9s",
+    "title": "Eminem - Cleanin' Out My Closet (Clean)",
+    "score": 10
+  },
+  {
+    "id": "O546jm4P3dU",
+    "title": "Eminem - Mockingbird (Clean Version) (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "458J63uAiTU",
+    "title": "Till' I Collapse (clean)",
+    "score": 10
+  },
+  {
+    "id": "E9PonIkfquE",
+    "title": "Eminem - Not Afraid (Clean)",
+    "score": 10
+  },
+  {
+    "id": "8jFSd5WKtOw",
+    "title": "Eminem - The Real Slim Shady (Clean - Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "cVBo1tJWM0w",
+    "title": "(Clean) Venom - Eminem",
+    "score": 10
+  },
+  {
+    "id": "4t2Jr80BSEw",
+    "title": "Eminem - Stan (BEST Clean Version)",
+    "score": 10
+  },
+  {
+    "id": "cZ8Gb9lYQcc",
+    "title": "Eminem - Mockingbird (Clean Version) (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "v72iiFGnuIA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xwTPvcPYaOo",
+    "title": "Fleetwood Mac - Dreams 1977 Extended Version",
+    "score": 10
+  },
+  {
+    "id": "mXonGAEPQp8",
+    "title": "RARE: SARA - 11 Minute Long Version - Stevie Nicks - Fleetwood Mac",
+    "score": 10
+  },
+  {
+    "id": "s6MXEdkR3CM",
+    "title": "Fleetwood Mac - The Dance Full Concert (DVD 1997)",
+    "score": 10
+  },
+  {
+    "id": "b19PcuJsQbA",
+    "title": "Landslide",
+    "score": 10
+  },
+  {
+    "id": "k4M53xndqiU",
+    "title": "Fleetwood Mac - Rumours [Full Album]",
+    "score": 10
+  },
+  {
+    "id": "2b9BpunsVmo",
+    "title": "Fleetwood Mac- Silver Springs",
+    "score": 10
+  },
+  {
+    "id": "mnXsvj4Awa0",
+    "title": "Hypnotized",
+    "score": 10
+  },
+  {
+    "id": "fDzXbdxeeHI",
+    "title": "Everywhere (2018 Remaster)",
+    "score": 10
+  },
+  {
+    "id": "7jH05dt9R68",
+    "title": "Fleetwood Mac ~ Sara 1979 Classic Rock Purrfection Version",
+    "score": 10
+  },
+  {
+    "id": "sxJzuvH9T8s",
+    "title": "Second Hand News",
+    "score": 10
+  },
+  {
+    "id": "zdHh_D_b5xU",
+    "title": "Oh Well, Pt. 1 (2013 Remaster)",
+    "score": 10
+  },
+  {
+    "id": "VQmmByJwKFI",
+    "title": "Silver Springs (2004 Remaster)",
+    "score": 10
+  },
+  {
+    "id": "kVE4aOUX2iM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3m_QN8P93IA",
+    "title": "Eminem - Till I Collapse  | Creed II  (Motivational video) #work_hard #believe_in_yourself",
+    "score": 10
+  },
+  {
+    "id": "gLMo7_VXU_s",
+    "title": "Eminem - Not Afraid",
+    "score": 10
+  },
+  {
+    "id": "l5yX7cY0iSE",
+    "title": "2Pac - Till I Die (ft. Eminem)",
+    "score": 10
+  },
+  {
+    "id": "YD568NCUVGk",
+    "title": "Till I Collapse",
+    "score": 10
+  },
+  {
+    "id": "7rneuiWxDY0",
+    "title": "Eminem - 'Till I Collapse [Explicit]",
+    "score": 10
+  },
+  {
+    "id": "uCNHGGJpHWc",
+    "title": "Empty (Concert/slowed version)",
+    "score": 10
+  },
+  {
+    "id": "_nISCuZwMv0",
+    "title": "Empty",
+    "score": 10
+  },
+  {
+    "id": "VnLE7eHwdNM",
+    "title": "Juice WRLD - Empty Out Your Pockets (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "dJxQdPWM_7I",
+    "title": "Empty Out Your Pockets",
+    "score": 10
+  },
+  {
+    "id": "FL3wlfiDoQw",
+    "title": "Juice WRLD playlist",
+    "score": 10
+  },
+  {
+    "id": "aSQ_tBXTE-0",
+    "title": "Eminem \\u0026 NF - EMPTY (Feat. Juice WRLD)",
+    "score": 10
+  },
+  {
+    "id": "24SIGY63Smw",
+    "title": "Juice Wrld - Empty Out Your Pockets (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "UfU4JHbKMM4",
+    "title": "Juice WRLD – Empty (1950’s Soul Version) [BEST VERSION]",
+    "score": 10
+  },
+  {
+    "id": "qaPMrNc_Qr4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_fg7xiIyw3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zorEkK8jCz8",
+    "title": "A simple cure for OCD - \\\"Trusting Yourself Method\\\"",
+    "score": 10
+  },
+  {
+    "id": "dNq2b2WRnZk",
+    "title": "Eminem - Lose Yourself (Remix) 2Pac, The Notorious B.I.G., Method Man, Ice Cube, Eazy-E, Dr. Dre",
+    "score": 10
+  },
+  {
+    "id": "-Rrg_qxauaY",
+    "title": "Carl Jung's Method of Self-Development - The Path of Individuation",
+    "score": 10
+  },
+  {
+    "id": "Vx_60kIXLIU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AtbkxxoTrYk",
+    "title": "Master Yourself and You Will Master Your Life (philosophy of Miyamoto Musashi)",
+    "score": 10
+  },
+  {
+    "id": "1oDrJba2PSs",
+    "title": "Releasing The Power of Beingness",
+    "score": 10
+  },
+  {
+    "id": "o-WhM-0dWeE",
+    "title": "Path of Stillness",
+    "score": 10
+  },
+  {
+    "id": "B5OvzMgkmcM",
+    "title": "TOP OLD SCHOOL HIP HOP Ice Cube, Snoop Dogg,2Pac , Eminem, Dr. Dre, DMX, Xzibit, Method Man, 50 Cent",
+    "score": 10
+  },
+  {
+    "id": "SseUzcEN9U0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9VDZsLWFXWs",
+    "title": "The “Date Yourself” Method: The Key to Finding True Love!",
+    "score": 10
+  },
+  {
+    "id": "Acei8dPVAng",
+    "title": "To attract a healthy partner, prioritize self-love and personal development after a breakup to rediscover your identity.",
+    "score": 10
+  },
+  {
+    "id": "v4QvQLSNRCQ",
+    "title": "Discovering Self-Love Through the Two-Mind Method",
+    "score": 10
+  },
+  {
+    "id": "oNcUsXq2cQw",
+    "title": "The Samurai Method to Perfect Self Control",
+    "score": 10
+  },
+  {
+    "id": "6nq4If0WH7w",
+    "title": "The Japanese Method to Become the Strongest Version of Yourself — Musashi’s Secret",
+    "score": 10
+  },
+  {
+    "id": "V-JJttSX7uk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Q0GNo5_YOCk",
+    "title": "Getting Out of Addictions/Unhealthy Habits",
+    "score": 10
+  },
+  {
+    "id": "iUJuE7LLsO8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-H2Bjyw6AS8",
+    "title": "Eminem - Lose Yourself, Super Bowl Halftime Show 2022, Dr Dre, Snoop Dogg",
+    "score": 10
+  },
+  {
+    "id": "OqAf7hGiloE",
+    "title": "Eminem - Lose Yourself  (clip 8 mile)",
+    "score": 10
+  },
+  {
+    "id": "dku79-2_SCQ",
+    "title": "Brent Faiyaz - full moon. (fall in tokyo)",
+    "score": 10
+  },
+  {
+    "id": "I_qaccjrirc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "W327GE4oYpw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "14hVXXVLaU8",
+    "title": "TOKYO NINJA - Full Hollywood Action Movie With English Subtitles | Tomohisa, Mikako | Free Movies",
+    "score": 10
+  },
+  {
+    "id": "IHyPw5OSMzM",
+    "title": "7 days in tokyo",
+    "score": 10
+  },
+  {
+    "id": "pALlMhbGLs4",
+    "title": "day 1- harajuku",
+    "score": 10
+  },
+  {
+    "id": "wxy5aTglkN4",
+    "title": "【4K HDR】Night Walk in Tokyo Shibuya (東京散歩)",
+    "score": 10
+  },
+  {
+    "id": "0nTO4zSEpOs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gX-BdCdzKOE",
+    "title": "The Best Food in Tokyo, Japan (Pt. 2)",
+    "score": 10
+  },
+  {
+    "id": "tTBzNtEq47U",
+    "title": "15 Tips for First-Time Travellers to Japan",
+    "score": 10
+  },
+  {
+    "id": "00ZXaXIABMY",
+    "title": "Internet access: eSIM has since emerged as another convenient way to connect to the internet.",
+    "score": 10
+  },
+  {
+    "id": "lzIudok713k",
+    "title": "There is Something for EVERYONE in Japan!",
+    "score": 10
+  },
+  {
+    "id": "7TPHhJ2veSU",
+    "title": "Chet Baker in Tokyo (1987)",
+    "score": 10
+  },
+  {
+    "id": "eZAuY5M7J-Y",
+    "title": "101 Things to Do in TOKYO 🇯🇵 Hidden Spots Revealed",
+    "score": 10
+  },
+  {
+    "id": "SUoxEx9M1d4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2Abrpfj3Aa4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MbDf319K0P8",
+    "title": "Crossroads",
+    "score": 10
+  },
+  {
+    "id": "I6o6V2vlwp0",
+    "title": "All Tokyo Ghoul openings full (1-4)",
+    "score": 10
+  },
+  {
+    "id": "UZypukjCw6w",
+    "title": "2 Mello - Memories Of Tokyo-To Full Album [OFFICIAL]",
+    "score": 10
+  },
+  {
+    "id": "OBt8ioYEXBw",
+    "title": "Pump Up The Love",
+    "score": 10
+  },
+  {
+    "id": "UF6Koc_wfuo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5c3AJb53Xos",
+    "title": "Why does YouTube search SUCK SO MUCH",
+    "score": 10
+  },
+  {
+    "id": "7r3p4xX2mKE",
+    "title": "Why Search Sucks Now",
+    "score": 10
+  },
+  {
+    "id": "BPUev-w22IU",
+    "title": "Why Search Sucks Now",
+    "score": 10
+  },
+  {
+    "id": "kx58OFt18jk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "i0yiHxA62lk",
+    "title": "Woman Sucked Out Of Plane 😨",
+    "score": 10
+  },
+  {
+    "id": "9GKquxMrVYE",
+    "title": "the youtube search engine sucks!",
+    "score": 10
+  },
+  {
+    "id": "yN8IT_4jRnc",
+    "title": "Search Engines are Totally Useless Now...",
+    "score": 10
+  },
+  {
+    "id": "N8P6MTOQlyk",
+    "title": "LinkedIn and Indeed Sucks, use these Websites instead to Actually find a Job",
+    "score": 10
+  },
+  {
+    "id": "Uskxyn-BJ_Y",
+    "title": "Intro / Why Indeed and Linkedin sucks",
+    "score": 10
+  },
+  {
+    "id": "EAF54G1maQw",
+    "title": "Windows Search SUCKS! Try THIS Instead!",
+    "score": 10
+  },
+  {
+    "id": "_yGifKCmHC0",
+    "title": "The (NOT DREAMWORKS) Collection - The Search For The Worst - IHE (9 MOVIES!)",
+    "score": 10
+  },
+  {
+    "id": "J8I-UUHgV_I",
+    "title": "LITTLE BIG MONSTERS",
+    "score": 10
+  },
+  {
+    "id": "Sr7ySzPHN-4",
+    "title": "MITTY",
+    "score": 10
+  },
+  {
+    "id": "LrEALVHHI7w",
+    "title": "Google Search Sucks. Here Are 9 Better Alternatives",
+    "score": 10
+  },
+  {
+    "id": "osven54J4so",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NsIZh1SONL4",
+    "title": "YouTube search sucks",
+    "score": 10
+  },
+  {
+    "id": "5ZMn1J0epW0",
+    "title": "The typical job search experience. Why does it suck so much?",
+    "score": 10
+  },
+  {
+    "id": "1j0-6jygazw",
+    "title": "Why the Job Search Sucks (and what you can do about it)",
+    "score": 10
+  },
+  {
+    "id": "0yob3sJTIGI",
+    "title": "Google Search SUCKS! The AI Tool Everyone Is Using",
+    "score": 10
+  },
+  {
+    "id": "yHSQGu7yYCA",
+    "title": "AI sucks, google search is bad, shopping online is bad, Spotify algorithm doesn’t work",
+    "score": 10
+  },
+  {
+    "id": "c7ETAWbYYu8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3WdgqaAIvwA",
+    "title": "Something Just Happened in the World… and Russia Is About to LOSE the War",
+    "score": 10
+  },
+  {
+    "id": "r5inVONkOKQ",
+    "title": "SZA - Snooze (Lyrics) \\\"i can't lose when i'm with you\\\"",
+    "score": 10
+  },
+  {
+    "id": "BPXaSEs0Pr8",
+    "title": "Cartoon, Jéja - Why We Lose (feat. Coleman Trapp) | DnB | NCS - Copyright Free Music",
+    "score": 10
+  },
+  {
+    "id": "zyXmsVwZqX4",
+    "title": "Judy Kuhn Sings \\\"What Can You Lose?\\\" from DICK TRACY Film (Music and Lyrics by Stephen Sondheim)",
+    "score": 10
+  },
+  {
+    "id": "519p-Ei6vHY",
+    "title": "Nothing to Lose / from Akumajo Dracula (FC)",
+    "score": 10
+  },
+  {
+    "id": "N4sbNEf0AQ8",
+    "title": "The Pineapple Thief - Too Much to Lose (from Tightly Unwound)",
+    "score": 10
+  },
+  {
+    "id": "MdaxryzsjjA",
+    "title": "Sandro Cavazza, Georgia Ku - Love To Lose",
+    "score": 10
+  },
+  {
+    "id": "Y-kUsyKfpW4",
+    "title": "How much weight can you lose with Mounjaro? 🤷🏻‍♂️👨🏻‍⚕️ #mounjaro #doctor #obesity",
+    "score": 10
+  },
+  {
+    "id": "_rcQQS_LSJA",
+    "title": "NIKI - Lose (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "shpSJPGyvRI",
+    "title": "What I ate to lose 40 lbs with high protein meals + snacks",
+    "score": 10
+  },
+  {
+    "id": "2Bv3LcC7HhE",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "jH5Zk8Uhgcw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vTEL_NZKMWs",
+    "title": "Can You Lose By Following God",
+    "score": 10
+  },
+  {
+    "id": "UiuB72na5mw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EzLYf366bVg",
+    "title": "Cloud Control - Scar",
+    "score": 10
+  },
+  {
+    "id": "TR33DyCc_9E",
+    "title": "CLOUD CONTROL: There's Nothing In The Water We Can't Fight",
+    "score": 10
+  },
+  {
+    "id": "5X7Rkd4B_MQ",
+    "title": "CLOUD CONTROL: Gold Canary",
+    "score": 10
+  },
+  {
+    "id": "kDULAuG8FgA",
+    "title": "CLOUD CONTROL: This Is What I Said",
+    "score": 10
+  },
+  {
+    "id": "FqDRYemOa4o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sUcYBNkab44",
+    "title": "Cloud Control Meditation Song #2 (Why, Oh Why)",
+    "score": 10
+  },
+  {
+    "id": "sZEqqgcK3-g",
+    "title": "Cloud Control cover The Cranberries 'Dreams' for Like A Version",
+    "score": 10
+  },
+  {
+    "id": "qKQqhHUI5AI",
+    "title": "Cloud Control: Treetops",
+    "score": 10
+  },
+  {
+    "id": "q3tp5fkHg40",
+    "title": "Cloud Control 'Promises' (Official)",
+    "score": 10
+  },
+  {
+    "id": "oR9WioRaj7U",
+    "title": "Cloud Control - Death Cloud",
+    "score": 10
+  },
+  {
+    "id": "IQsu1m_DuZ4",
+    "title": "The Smoke, The Feeling",
+    "score": 10
+  },
+  {
+    "id": "J66hWGkbBhg",
+    "title": "Cloud Control-The Smoke,The Feeling",
+    "score": 10
+  },
+  {
+    "id": "s19jqr0L9aU",
+    "title": "Cloud Control: Dojo Rising (Official)",
+    "score": 10
+  },
+  {
+    "id": "KRwQp6iglWk",
+    "title": "Cloud Control cover Kid Kudi 'Pursuit Of Happiness' for Like A Version",
+    "score": 10
+  },
+  {
+    "id": "cVLzi54rb3o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "W53aL5TRQ0U",
+    "title": "Starting Soon",
+    "score": 10
+  },
+  {
+    "id": "sMViflBpGPI",
+    "title": "tiasu - Starting Soon (witwix.mp3)",
+    "score": 10
+  },
+  {
+    "id": "c5ACVSdj8ig",
+    "title": "Animating the Character",
+    "score": 10
+  },
+  {
+    "id": "kKqFD_UDN-0",
+    "title": "Starting Soon Twitch Video Template (Editable)",
+    "score": 10
+  },
+  {
+    "id": "9yzLen9kcXM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "H623aqMFvnI",
+    "title": "here's some filters that i love on this app #filters",
+    "score": 10
+  },
+  {
+    "id": "Yv7lLuwg4Eg",
+    "title": "The Best Photo Filter Apps for Beauty Lovers",
+    "score": 10
+  },
+  {
+    "id": "eczLJywiHm4",
+    "title": "Add Filters in the Camera App while Taking Photos on your iPhone or iPad.",
+    "score": 10
+  },
+  {
+    "id": "bh3A43G_g24",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bb9v5hwNNis",
+    "title": "Best Filter App for iOS/ iPhone/ iPad (Which is the Best Filter App?)",
+    "score": 10
+  },
+  {
+    "id": "SX-G-YKIBBI",
+    "title": "Top 3 Camera Apps For Android 🤖📸 #photography #apps #android #photographer",
+    "score": 10
+  },
+  {
+    "id": "0uOgH8gsZdY",
+    "title": "App name : dazz cam (filter CPM35)⭐️",
+    "score": 10
+  },
+  {
+    "id": "A92QSQYbnxM",
+    "title": "✨Apps like Snapchat!🩷 Please comment video ideas! #preppy#fypシ#filters#tips",
+    "score": 10
+  },
+  {
+    "id": "6t-XoI1HC0o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MrRVW-p8SJ8",
+    "title": "Walk \\u0026 Dance to Fleetwood Mac | 15 Min Feel-Good Cardio (Seated or Standing)",
+    "score": 10
+  },
+  {
+    "id": "criH6H0aNao",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qNM6IuA87eM",
+    "title": "Fleetwood Mac -  I'm So Afraid - The Dance - 1997",
+    "score": 10
+  },
+  {
+    "id": "HB9Y2LHIT24",
+    "title": "FLEETWOOD MAC-The Purple Dancer (Single Version Remastered)",
+    "score": 10
+  },
+  {
+    "id": "7RicSJtQVmI",
+    "title": "Fleetwood Mac- Mirage Tour 1982",
+    "score": 10
+  },
+  {
+    "id": "ujm9UO1CDRc",
+    "title": "Elton John, Bee Gees, Scorpions, Heart, Bon Jovi, John Denver👍 Top Soft Rock Songs 70s 80s 90s",
+    "score": 10
+  },
+  {
+    "id": "X2ZJ3Z0SXjo",
+    "title": "Fleetwood Mac - Rumours [Full Album]",
+    "score": 10
+  },
+  {
+    "id": "z1xAx_OFqmo",
+    "title": "The Chain",
+    "score": 10
+  },
+  {
+    "id": "mZZp76M4NGc",
+    "title": "Fleetwood Mac - Rhiannon - The Dance -1997",
+    "score": 10
+  },
+  {
+    "id": "kBYHwH1Vb-c",
+    "title": "Fleetwood Mac  Over My Head The Dance",
+    "score": 10
+  },
+  {
+    "id": "r5X6ZSdDIJ8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HDe7GYpxq9g",
+    "title": "JUSTIN BIEBER - Love Yourself Lyrics",
+    "score": 10
+  },
+  {
+    "id": "0jJmzo9JyzI",
+    "title": "Eminem - Lose Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "k6wS7NZHNFk",
+    "title": "Justin Bieber - Love Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "RWXkX7oRQi8",
+    "title": "Eminem - Lose Yourself (Lyrics/Letra)",
+    "score": 10
+  },
+  {
+    "id": "RL0jV6F3sOM",
+    "title": "Eminem - Lose Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "U8v6lFnnBug",
+    "title": "Eminem - The Real Slim Shady (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rkqMbsmLrtA",
+    "title": "Justin Bieber - Love Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "IiPEs8WpwEo",
+    "title": "Mirror To Magic – Manifestation Song for Healing, Self-Growth \\u0026 Identity Shifts (Listen Daily)",
+    "score": 10
+  },
+  {
+    "id": "sjdLhAIK-sc",
+    "title": "Sia - Unstoppable (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "h3h035Eyz5A",
+    "title": "Eminem - Mockingbird (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "bARFYWgUsXo",
+    "title": "Eminem - Mockingbird (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ngq5Aw0Q6rQ",
+    "title": "Eminem - Sing For The Moment (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "NtPY1_p9KKg",
+    "title": "Ed Sheeran - Thinking out Loud (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "XMPgVZtADtQ",
+    "title": "Eminem - Lose Yourself (Clean) | Lyrics",
+    "score": 10
+  },
+  {
+    "id": "XC6URZ-cCB0",
+    "title": "Eminem - Lose Yourself (Legendado | Lyrics + Tradução)",
+    "score": 10
+  },
+  {
+    "id": "IZEYUcImPRQ",
+    "title": "Eminem - Lose Yourself",
+    "score": 10
+  },
+  {
+    "id": "PwclAKuCJUk",
+    "title": "Eminem - Lose Yourself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "17Z3g9Hym5Q",
+    "title": "Linkin Park - Fighting Myself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "c2lvkb26dGI",
+    "title": "Layton Greene - Myself (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "VbbtjAg0odU",
+    "title": "Idina Menzel, Evan Rachel Wood - Show Yourself (From \\\"Frozen 2\\\"/Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "md7dK5-qvHc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YsuISSj5XO8",
+    "title": "Dreams - Fleetwood Mac (Acoustic Cover by Chase Eagleson \\u0026 @SierraEagleson )",
+    "score": 10
+  },
+  {
+    "id": "9UMxZofMNbA",
+    "title": "Dreams (Acoustic Version)",
+    "score": 10
+  },
+  {
+    "id": "SQUtermA2rA",
+    "title": "\\\"Dreams\\\" Fleetwood Mac performed by Rumours of Fleetwood Mac",
+    "score": 10
+  },
+  {
+    "id": "A8jUpaOMF6o",
+    "title": "Dreams -The Cranberries || Drum cover by KALONICA NICX",
+    "score": 10
+  },
+  {
+    "id": "fw1T1oRXoUU",
+    "title": "Dreams - Fleetwood Mac | Violin Cover - Karolina Protsenko",
+    "score": 10
+  },
+  {
+    "id": "wU57V-zceWQ",
+    "title": "Dreams - Fleetwood Mac (80s Ambient Pop AI Cover)",
+    "score": 10
+  },
+  {
+    "id": "UMBNjrbhF6E",
+    "title": "Darius - DREAMS (Visualizer) ft. Darianna Everett (Cover)",
+    "score": 10
+  },
+  {
+    "id": "rdyvhSIvk-c",
+    "title": "BROKEN DREAMS (Female Metal Cover) | Drew McIntyre WWE Theme V3",
+    "score": 10
+  },
+  {
+    "id": "d9lYmqiOdL4",
+    "title": "Fleetwood Mac – Dreams (AI Metal Cover | Bad Omens x TesseracT Style)",
+    "score": 10
+  },
+  {
+    "id": "ReI6eYSfUqw",
+    "title": "Fleetwood Mac - Dreams (Bass Cover) (Play Along Tabs In Video)",
+    "score": 10
+  },
+  {
+    "id": "QueBnFis7R8",
+    "title": "Dreams Fleetwood Mac cover Sarah Collins",
+    "score": 10
+  },
+  {
+    "id": "NzthG-iHJUA",
+    "title": "Fleetwood Mac - Dreams ( Cover By @1TRoyal )",
+    "score": 10
+  },
+  {
+    "id": "hmMgn2JOI6I",
+    "title": "'Dreams 2023' (FLEETWOOD MAC) Cover by The HSCC",
+    "score": 10
+  }
+]

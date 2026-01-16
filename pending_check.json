@@ -1,1 +1,2917 @@
-[]
+[
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "למד פייתון - קורס מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון - 37  - סטים",
+    "score": 110
+  },
+  {
+    "id": "nAApXVKkroE",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "מדריך פייתון  - 43 - פונקציות",
+    "score": 110
+  },
+  {
+    "id": "o0wyYsNbJeY",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון - 40 - List Comprehensions",
+    "score": 110
+  },
+  {
+    "id": "OM4Ep-Zo2tA",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "lAmawfhJ0ME",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "MAJLgj3_G7E",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "VfEnAUDUBz0",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "yfGqSNw6iSQ",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "GUW_nCnrnyw",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע מסביב לעולם",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "F_22M8wNOhI",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "Yuval Dax - Wildlife Israel / יובל דקס צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "-I9m5RhmdMM",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "3gznTBTc5sg",
+    "title": "המרד הגדול של יהודה ברומא - מרד החורבן - כל הסיבות - עם ד״ר דויד גורביץ׳",
+    "score": 60
+  },
+  {
+    "id": "PIyBYrmrQns",
+    "title": "מלחמת ששת הימים בקיצור",
+    "score": 60
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "יסודות ההיסטוריה - ציר הזמן",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "קיצור תולדות העם היהודי | פרק 5 – שלטון רומא, מרד וחורבן",
+    "score": 60
+  },
+  {
+    "id": "4_uma1wEIxk",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "חורבן בית ראשון בקיצור",
+    "score": 60
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "אנגלית למתחילים - חלק 1",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "תרגול דיבור באנגלית | תרגול שיחות באנגלית יומיות למתחילים",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "rxy_jgUoepM",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "TKwplhzRlrk",
+    "title": "2,000 hectare biodiversity restoration project in Dublin Mountains",
+    "score": 50
+  },
+  {
+    "id": "Gtj6t_6EXww",
+    "title": "Toyota Land Cruiser Full Restoration Project | From Abandoned to Legendary",
+    "score": 50
+  },
+  {
+    "id": "ZTimVStLZh0",
+    "title": "Gumball Machine Restoration/Restore",
+    "score": 50
+  },
+  {
+    "id": "rTTzHImZYhI",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "ewMksAbgdBI",
+    "title": "How to ACTUALLY Start Drawing? (for beginners)",
+    "score": 50
+  },
+  {
+    "id": "SDQEaJY291A",
+    "title": "How to sketch anything intro",
+    "score": 50
+  },
+  {
+    "id": "JHQ-d0CDQIg",
+    "title": "How To Draw A Dachshund",
+    "score": 50
+  },
+  {
+    "id": "CiHzvmFhiXE",
+    "title": "How to Throw The Perfect Spiral (FOR BEGINNERS)",
+    "score": 50
+  },
+  {
+    "id": "wPyD-euEubc",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "G2-jnRq2qZ8",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "_XRCYUIYlHU",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "How I paint a REALISTIC WAVE - Oil Painting Techniques!",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "29 SCIENCE TRICKS that look like real MAGIC",
+    "score": 50
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "40 Science Experiments - Experiments You Can Do at Home Compilation by Inventor 101",
+    "score": 50
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "100 EASY SCIENCE EXPERIMENTS with Explanation - PART 1 (1-50)",
+    "score": 50
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "YfSvv6l9yxQ",
+    "title": "The World in 2030: Top 20 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "The World in 2050: Future Technology",
+    "score": 50
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "22 Future Technologies That Could Rewrite Reality",
+    "score": 50
+  },
+  {
+    "id": "7ARBJQn6QkM",
+    "title": "What is Jensen Huang trying to build?",
+    "score": 50
+  },
+  {
+    "id": "dxWb1Vd9aq8",
+    "title": "Coolest New Technologies of 2025",
+    "score": 50
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "Top 15 New Technology Trends That Will Define 2027",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "Top 17 New Technology Trends That Will Define 2026",
+    "score": 50
+  },
+  {
+    "id": "yf4UxBD5LrI",
+    "title": "China Just Shocked the World With What They’re Building!",
+    "score": 50
+  },
+  {
+    "id": "bwFxDOYr320",
+    "title": "Pro tips: How to throw an axe",
+    "score": 50
+  },
+  {
+    "id": "MdyyIRJqCfs",
+    "title": "3 Tips on How to Throw a Baseball Harder \\u0026 More Accurately - Baseball Throwing Tips",
+    "score": 50
+  },
+  {
+    "id": "pfQq2b8xLJE",
+    "title": "YOUR Perfect Dart Throw - Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "fG7020cZM1Q",
+    "title": "Coaching Beginner Baseball | How to Throw (Pro Speed Baseball)",
+    "score": 50
+  },
+  {
+    "id": "hZdpR93uggw",
+    "title": "How To Instantly Throw 75 Feet Further | Disc Golf Basics",
+    "score": 50
+  },
+  {
+    "id": "NMoDXwNlMhE",
+    "title": "How to Actually Throw Far in Disc Golf (Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "MMQv-tyiZ_U",
+    "title": "How to Throw a Football by Tom Brady",
+    "score": 50
+  },
+  {
+    "id": "CQtxGybytqA",
+    "title": "How To Throw A Football Farther",
+    "score": 50
+  },
+  {
+    "id": "aF8Q-N8Jfv8",
+    "title": "How To Really Throw 100 Feet Farther",
+    "score": 50
+  },
+  {
+    "id": "JXXtGJQ8tQo",
+    "title": "How To Grip A Dart In Just 4 Minutes Tutorial",
+    "score": 50
+  },
+  {
+    "id": "qCs0pm_D_hM",
+    "title": "Colors for Children to Learn with Toy Trains",
+    "score": 50
+  },
+  {
+    "id": "IhdFuymqRAE",
+    "title": "Learning numbers from 1 to 10 | Cartoon for toddlers with Tino",
+    "score": 50
+  },
+  {
+    "id": "myhBZ0GnZrY",
+    "title": "Learn Colors with Soccer Balls | Bob The Train Fun Series - Kids TV",
+    "score": 50
+  },
+  {
+    "id": "PaUHeXb4Yf0",
+    "title": "Wooden Base Color Balls Truck Toys to Learn Colors for Children - 3D Kids Learning Videos",
+    "score": 50
+  },
+  {
+    "id": "68pnAMQSj4Y",
+    "title": "Learn Numbers, Shapes, Colors and more with Max the Glow Train | 8 Cartoons with Max and Friends!",
+    "score": 50
+  },
+  {
+    "id": "1zTxgoPlwZM",
+    "title": "Train Song for Learning Colors Finger Family Nursery Rhymes",
+    "score": 50
+  },
+  {
+    "id": "6gxfaOciWpo",
+    "title": "Learn Colors with PACMAN VS SchoolBus and Farm Magic Slide and Surprise Toy Street Vehicle for Kid",
+    "score": 50
+  },
+  {
+    "id": "jWiA2GCHII4",
+    "title": "Learn Colors Numbers for Kids with Little Babies Fun Play | Soccer Balls Caterpillar Train 3D Edu",
+    "score": 50
+  },
+  {
+    "id": "QS3U8qfNsDE",
+    "title": "Learn Colors with Color Balls Machine - Colors Videos Collection",
+    "score": 50
+  },
+  {
+    "id": "dVCClBZyUxA",
+    "title": "BEST JUMPSHOTS FOR ALL BUILDS + 3PT RATINGS in NBA 2K26! BEST SHOOTING TIPS! FASTEST JUMPSHOT 2K26!",
+    "score": 50
+  },
+  {
+    "id": "2pJ5doZyddw",
+    "title": "The Ultimate Guide for Shooting the Basketball [PERFECT SHOOTING FORM]",
+    "score": 50
+  },
+  {
+    "id": "yZqbSb4ND9k",
+    "title": "I Found the BEST DB Builds in College Football 26",
+    "score": 50
+  },
+  {
+    "id": "mgAt-id5glM",
+    "title": "BEST JUMPSHOTS for ALL BUILDS, HEIGHTS, \\u0026 3PT RATINGS on NBA2K26! BEST SHOOTING TIPS!",
+    "score": 50
+  },
+  {
+    "id": "A75XhHcBiwQ",
+    "title": "THE RETURN OF THE 6'10 ISO DEMIGOD...BEST 6'10 BUILD AND SIGS ON NBA 2K26",
+    "score": 50
+  },
+  {
+    "id": "lIiJKATC9W4",
+    "title": "*UPDATED* BEST COMP JUMPSHOTS \\u0026 SHOOTING TIPS FOR ALL RATINGS \\u0026 BUILDS NBA 2K26! NEW SEASON 4 UPDATE",
+    "score": 50
+  },
+  {
+    "id": "5zcnDWqhqPk",
+    "title": "How to Fix the BIGGEST Shooting Mistake 🏀",
+    "score": 50
+  },
+  {
+    "id": "POz2nAUkOgs",
+    "title": "2K26 Best Jumpshot Shooting Tips \\u0026 How to Green More Shots",
+    "score": 50
+  },
+  {
+    "id": "iw1_L6GSa_I",
+    "title": "BEST Jumpshot in NBA2K26 for 85+ 3PT Rating \\u0026 UNDER 6’10 Builds!🔥🤯✅",
+    "score": 50
+  },
+  {
+    "id": "EvZhk3JX7JM",
+    "title": "How To Start Shooting Long Range - Long Range Made Easy",
+    "score": 50
+  },
+  {
+    "id": "lexxhMHRoQY",
+    "title": "Once you learn this secret, you will never throw away An old tire valve again😱! Creation Tips 8",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How to Use Search Filters",
+    "score": 50
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "How To Use Search Filters In Facebook On PC (New Update)",
+    "score": 50
+  },
+  {
+    "id": "z8JzYvXjXNg",
+    "title": "How to Use Search Filters in YouTube App",
+    "score": 50
+  },
+  {
+    "id": "Sl0dcgd70Q4",
+    "title": "How To Use the Search Filters Web Part",
+    "score": 50
+  },
+  {
+    "id": "lqJmcQjBs1U",
+    "title": "Testimonial: ReviewTrackers Thrilled About Partnership With Perfect Search Media",
+    "score": 50
+  },
+  {
+    "id": "xIZF1y8TvMw",
+    "title": "What is a Content Gap Analysis for?",
+    "score": 50
+  },
+  {
+    "id": "c4HsgsHa2RM",
+    "title": "Rory McIlroy Switched FAST… Should You? | TaylorMade Qi4D Driver review",
+    "score": 50
+  },
+  {
+    "id": "aA0x1TSC5s4",
+    "title": "Tiger Woods and Rory McIlroy: How to Hit Driver",
+    "score": 50
+  },
+  {
+    "id": "TQ0iiSVNISw",
+    "title": "How to Use The TaylorMade Adjustable Hosel Settings",
+    "score": 50
+  },
+  {
+    "id": "AnrKntYyW68",
+    "title": "How To Throw Your Dart Straight",
+    "score": 50
+  },
+  {
+    "id": "Yr4cOaxBY-s",
+    "title": "Once you learn this secret, you will never throw away An old tire valve again😱! Creation Tips 8",
+    "score": 50
+  },
+  {
+    "id": "TJZlaBNxTIQ",
+    "title": "How to hold a dart! THE GRIP!",
+    "score": 50
+  },
+  {
+    "id": "JRr4f9QhIxk",
+    "title": "How to throw a flat cornhole bag",
+    "score": 50
+  },
+  {
+    "id": "NYytiAdb2_M",
+    "title": "How to Throw a Flat Bag - 3 Pro Tips to Fix your Bag Flight",
+    "score": 50
+  },
+  {
+    "id": "ByJCiGvIwKw",
+    "title": "How to Throw a Football (For Beginners)",
+    "score": 50
+  },
+  {
+    "id": "TnACAx-T5dk",
+    "title": "7 HIGH-PAYING jobs that allow you to TRAVEL THE WORLD | How to get paid to travel \\u0026 work remotely",
+    "score": 50
+  },
+  {
+    "id": "56xuD2AD1ps",
+    "title": "The Simple Job That Allows Me To Travel (and make money)",
+    "score": 50
+  },
+  {
+    "id": "AcL6bRdbO-4",
+    "title": "Beginner’s Guide to Dart Barrels: The Right Dart for You!? 🎯 | Brass vs Tungsten, Grip Tips \\u0026 More!",
+    "score": 50
+  },
+  {
+    "id": "GXPTBx23RvI",
+    "title": "How to Throw Darts Straight [ Very EFFECTIVE ]",
+    "score": 50
+  },
+  {
+    "id": "4aIJ3MIbvJE",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "dneR1fSiS2Q",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "i4Uy050xsEM",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "fZJgCIxNMww",
+    "title": "BECOME THE PERFECT STUDENT📔🎀 study tips, habits \\u0026 romanticizing school",
+    "score": 50
+  },
+  {
+    "id": "S-DvDAEYirQ",
+    "title": "Introduction to StarRupture Building",
+    "score": 50
+  },
+  {
+    "id": "CVJeYJkXXR4",
+    "title": "How To Find The BEST Darts To Buy [ 2024 ]",
+    "score": 50
+  },
+  {
+    "id": "wvMGcJC2meI",
+    "title": "What About Me Makes You Proud? - Emotional Father's Day Video Will Make You Cry",
+    "score": 50
+  },
+  {
+    "id": "FCXxbBrbkls",
+    "title": "How to Make a Key That Unlocks All Locks",
+    "score": 50
+  },
+  {
+    "id": "D1r2B8IGicA",
+    "title": "Soldering Complete Tutorial for Beginners | Leaded, SMTs, Chip【Step by Step】",
+    "score": 50
+  },
+  {
+    "id": "xm0xyt8QBgM",
+    "title": "Bass Fishing Tutorial",
+    "score": 50
+  },
+  {
+    "id": "c5K9bazXhxs",
+    "title": "Learn Cardistry Basics ● 5 BEGINNER TIPS",
+    "score": 50
+  },
+  {
+    "id": "sbmeX8mByMc",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dXhUbxUfmkk",
+    "title": "Restoring a 1970s Black-and-White Television Set",
+    "score": 10
+  },
+  {
+    "id": "mqCP82rubho",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "I1uOp-e03rw",
+    "title": "wstęp",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GUk0vEKVAXU",
+    "title": "5 Tips to Throw Perfect Spirals 🏈",
+    "score": 10
+  },
+  {
+    "id": "2vQWewZqwP4",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "UOC8ISSbFx0",
+    "title": "Let's Begin!",
+    "score": 10
+  },
+  {
+    "id": "7SWvlUd2at8",
+    "title": "hooplakidz Doodle",
+    "score": 10
+  },
+  {
+    "id": "XAQ6K3DbEt4",
+    "title": "Intro and Goals",
+    "score": 10
+  },
+  {
+    "id": "zqNZ9df0tho",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g5-oSun386s",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "gVjei0pKhhQ",
+    "title": "Macro Photography Lighting #litbylume | Miniature Nature Studio",
+    "score": 10
+  },
+  {
+    "id": "zUTsQH5MMCY",
+    "title": "Calm Your Mind With Beautiful Relaxing Music \\u0026 Beautiful Nature for Insomnia Relief and Meditation",
+    "score": 10
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "Effort, Dedication,Timing    - Indian paradise flycatcher",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nG0BlndTOSU",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iK6_UvMiM3U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "huO9FKcvYS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "cfOJxv10BPw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cC6CCdg8fBs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "NCjf6og4qHk",
+    "title": "Corn flakes and magnet",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Deep Sea Exploration - 360 | Into Water",
+    "score": 10
+  },
+  {
+    "id": "XDZ39JJsSp0",
+    "title": "The Monterey Submarine Canyon",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Discovering the Strange and Unusual Creatures of the Deep Ocean | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "Into the Abyss: Creatures of the Midwater (Full Movie)",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "The deep ocean is the final frontier on planet Earth",
+    "score": 10
+  },
+  {
+    "id": "p0G68ORc8uQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OQpCcQhNfxM",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "Inside the Sub That Reached Earth's Deepest Point | Bathyscaphe Trieste",
+    "score": 10
+  },
+  {
+    "id": "T6BOb8J7Wi0",
+    "title": "Deep Trouble (2023)",
+    "score": 10
+  },
+  {
+    "id": "3fnRU6jrL4s",
+    "title": "Tired of Fear by Jim Gifford",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "28 Inventions of the Future that will soon be Available to Everyone",
+    "score": 10
+  },
+  {
+    "id": "Oa9aWdcCC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SzMiJFOa6w8",
+    "title": "Artificial General Intelligence",
+    "score": 10
+  },
+  {
+    "id": "L2pMSsfLoSM",
+    "title": "Conscious AI",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MmgRnR0hGN8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KiAiNLoiGoM",
+    "title": "20 INVENTIONS THAT WILL CHANGE THE WORLD",
+    "score": 10
+  },
+  {
+    "id": "T-F-vVNVQ50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
+    "score": 10
+  },
+  {
+    "id": "u-4omutbbh8",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KBIXQ-jG9wQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "10 Smart Gadgets That Will Define 2026: What's Coming",
+    "score": 10
+  },
+  {
+    "id": "PFVvCs9iQco",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QSvdBBDhZP0",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "TIAK0dpLA1Y",
+    "title": "The Correct Way To Throw A Softball",
+    "score": 10
+  },
+  {
+    "id": "nZpzEo3r9aM",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "P0mOHfLSe14",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "PnNEvFyGj5s",
+    "title": "Throw Darts Like a Pro - Dart Tips",
+    "score": 10
+  },
+  {
+    "id": "IRzXqnm1GVg",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "6owaOPxEyF4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hKx0RgQ2VXI",
+    "title": "Fix These Backhand Mistakes To Throw Farther!",
+    "score": 10
+  },
+  {
+    "id": "4b9mnURHYcE",
+    "title": "Throw farther [AND more accurate] in 3 minutes",
+    "score": 10
+  },
+  {
+    "id": "7xCMwB3J-r0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L1PHi-zgXIY",
+    "title": "The Correct Way To Throw A Softball",
+    "score": 10
+  },
+  {
+    "id": "HBKA4RKajQE",
+    "title": "Front Shoulder Arc",
+    "score": 10
+  },
+  {
+    "id": "RIGJWFNpNoo",
+    "title": "The Javelin Throw - The #1 Secret to Throw Farther",
+    "score": 10
+  },
+  {
+    "id": "DiPULMZ5hVQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Mxj5BAZbfu0",
+    "title": "8 Things I Changed To Throw 150' Farther | Disc Golf Tips",
+    "score": 10
+  },
+  {
+    "id": "NlIWgzJpoYE",
+    "title": "Exercises to Throw Farther | A Quarterback Workout To Improve Throw Power",
+    "score": 10
+  },
+  {
+    "id": "oGzideZ_XLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wLCE9g-1mjE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zg4RTSAM_rI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "H5qSY2HYcTY",
+    "title": "Top Darts Tips For Beginner Dart Players",
+    "score": 10
+  },
+  {
+    "id": "lYWhX4JuYxI",
+    "title": "Colors with Preschool Toy Train and Color Balls - Shapes \\u0026 Colors Collection for Children",
+    "score": 10
+  },
+  {
+    "id": "kS9fxiOdiGs",
+    "title": "Colors for Children | Toy Trains - Colors Videos Collection",
+    "score": 10
+  },
+  {
+    "id": "0XUwsIriKis",
+    "title": "Lime Green",
+    "score": 10
+  },
+  {
+    "id": "vyLcAYfbJ_k",
+    "title": "Kitty's Games  - compilation series 1-5 - premiere on the channel",
+    "score": 10
+  },
+  {
+    "id": "XC2hYlU_-nY",
+    "title": "ORANGE",
+    "score": 10
+  },
+  {
+    "id": "Ce_974bE0Xs",
+    "title": "SPHERE",
+    "score": 10
+  },
+  {
+    "id": "NmVL8cDm3t4",
+    "title": "Colors for Children with Train Transporter Toy Street Vehicles",
+    "score": 10
+  },
+  {
+    "id": "PUJEwZGnksg",
+    "title": "POLICE",
+    "score": 10
+  },
+  {
+    "id": "Aa1InJSpeX4",
+    "title": "Dancing Balls",
+    "score": 10
+  },
+  {
+    "id": "2iIsW9LGt30",
+    "title": "FIRE TRUCK!",
+    "score": 10
+  },
+  {
+    "id": "NjB5wczEVVM",
+    "title": "The Train Battle - Marble Race in Algodoo",
+    "score": 10
+  },
+  {
+    "id": "lw4PXxW4dP8",
+    "title": "Marble Run Enjoyed in Nature ☆ Fun Time with Rolling Balls",
+    "score": 10
+  },
+  {
+    "id": "MQl55Uufwms",
+    "title": "RED",
+    "score": 10
+  },
+  {
+    "id": "H0XKpjHXRu4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R1R_z1V1i2A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8h4Ux6oEIl8",
+    "title": "These two drills will help you throw harder! #baseball",
+    "score": 10
+  },
+  {
+    "id": "83SCnZO028w",
+    "title": "Use Gravity To Throw Harder",
+    "score": 10
+  },
+  {
+    "id": "qbvfX4BqyRU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "K986jWE_G5Y",
+    "title": "Throw Harder NOW #baseballszn #baseball #baseballlifestyle #sports #mlb #pitching",
+    "score": 10
+  },
+  {
+    "id": "wXywC94rvS8",
+    "title": "Top 5 Exercises to Throw Harder",
+    "score": 10
+  },
+  {
+    "id": "iDInfF-thXs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UcnB9e5O5NY",
+    "title": "The top 10 prettiest jumpshots ever.",
+    "score": 10
+  },
+  {
+    "id": "fp4NUML-FS8",
+    "title": "These MISTAKES Are Destroying Your Jumpshot [FIX NOW]",
+    "score": 10
+  },
+  {
+    "id": "ucDnR_vo2mo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "nPyEXTytYq0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3--urvppqtU",
+    "title": "Ray Allen and The Art of the Jump Shot",
+    "score": 10
+  },
+  {
+    "id": "KKuwKwrzZIA",
+    "title": "The GOAT Jumpshot Release is BACK!",
+    "score": 10
+  },
+  {
+    "id": "zQ3Bz-0SlUg",
+    "title": "NHL Highlights | Canucks vs. Blue Jackets - January 15, 2026",
+    "score": 10
+  },
+  {
+    "id": "ypgcvbj-Ypc",
+    "title": "1st Regulation Period",
+    "score": 10
+  },
+  {
+    "id": "_VmdcPgCAM0",
+    "title": "JULIAN DECINA TRAINS AT THE MOST DANGEROUS GYM IN AMERICA",
+    "score": 10
+  },
+  {
+    "id": "dvV9Nw-SBaQ",
+    "title": "SECRET JUMPSHOT EVERYONE MISSED is AMAZING in NBA 2K26 SEASON 4!",
+    "score": 10
+  },
+  {
+    "id": "rZBz8J97IBs",
+    "title": "BATTLEGROUNDS FESTIVAL TMRW WITH DM DBOOK AND KP PLUS SO MANY GOOD ATTAINABLE CARDS!!",
+    "score": 10
+  },
+  {
+    "id": "JfT4yraSTc4",
+    "title": "6'5-6'9, 85+ rating jumper",
+    "score": 10
+  },
+  {
+    "id": "h8nlsEV1fNw",
+    "title": "The BEST Jumpshot for 6’10+ on NBA 2K26!",
+    "score": 10
+  },
+  {
+    "id": "yazkcGSQv9A",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "lG3EsD5VUmw",
+    "title": "LISTEN CLOSELY",
+    "score": 10
+  },
+  {
+    "id": "MhmEB4hQ4gs",
+    "title": "BEST Tall Guard Jumpshot in NBA 2K26 🤯 Got Me ACCUSED of Cheating (Season 4)",
+    "score": 10
+  },
+  {
+    "id": "Q_OheoiaUuU",
+    "title": "BEST JUMPSHOTS for EVERY HEIGHT + THREE POINT RATING in NBA 2K26!",
+    "score": 10
+  },
+  {
+    "id": "Hd2vru-dQpk",
+    "title": "4 SHOOTING DRILLS THAT WILL FIX YOUR JUMPSHOT #basketballtraining",
+    "score": 10
+  },
+  {
+    "id": "MJ9G7CxhhlA",
+    "title": "How an NBA Shooting Coach Perfects Jumpshots | The Assist | GQ Sports",
+    "score": 10
+  },
+  {
+    "id": "_t7frQmivew",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fmNuCzMfvFc",
+    "title": "What You Need For EFFECTIVE Long Range Shooting",
+    "score": 10
+  },
+  {
+    "id": "zL-iUrFCoKM",
+    "title": "GBRS Group x Eberlestock | Long Range Precision Training at Hat Creek Ranch",
+    "score": 10
+  },
+  {
+    "id": "m-oQmmqKCuc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B8cd5kSjcU0",
+    "title": "7 BEST LONG RANGE RIFLES IN THE WORLD OF THE YEAR 2026",
+    "score": 10
+  },
+  {
+    "id": "bkYztIhuw5c",
+    "title": "Tesla FINALLY Launches Model Y Ultra Long Range!",
+    "score": 10
+  },
+  {
+    "id": "PqhK8pkpJuc",
+    "title": "Introduction to Long-Range Shooting - Here is What You Need to Get Started | Palmetto State Armory",
+    "score": 10
+  },
+  {
+    "id": "2bAJkrP3zEQ",
+    "title": "TOP 5 BEST LONG RANGE RIFLES FOR HUNTING \\u0026 COMPETITION",
+    "score": 10
+  },
+  {
+    "id": "Ore3jTarZq0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZosrAgT1Wgo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zDbxpIpARHI",
+    "title": "#1 Best Budget-Friendly Long Range Rifle Setup",
+    "score": 10
+  },
+  {
+    "id": "WzfswYe2d8M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sx-i3OkWRbU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EbLdB08YOmA",
+    "title": "What is MOA? Minute of Angle Explained for Long-Range Shooting | Ryan Cleckner",
+    "score": 10
+  },
+  {
+    "id": "yj_ELhqMSB0",
+    "title": "The 10 Best Precision Rifle Scopes, Picked by a Competitive Long Range Shooter",
+    "score": 10
+  },
+  {
+    "id": "xn7YX0jBe1Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "u25d6TT5EFU",
+    "title": "Long Range for Beginners - 5 Easy Mistakes to Avoid!",
+    "score": 10
+  },
+  {
+    "id": "6mFvTBD1QCw",
+    "title": "The Most Underrated Long-Range Caliber",
+    "score": 10
+  },
+  {
+    "id": "_2aCgJdsAUE",
+    "title": "Falling in love with a hated caliber",
+    "score": 10
+  },
+  {
+    "id": "uRqeiOIuC_s",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "CmXtJT7L_zs",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "IYlrs-Ab0_k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zf4aMlFgd6I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HHJDXoewU3M",
+    "title": "Search Jira",
+    "score": 10
+  },
+  {
+    "id": "SEYJ5UlK3E4",
+    "title": "The Easiest Way to Manage Filters \\u0026 Search in React",
+    "score": 10
+  },
+  {
+    "id": "2t6Gv-MrdwI",
+    "title": "Power Apps Search and Filter Functions on Large SharePoint Lists",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PG5mBrM1QBA",
+    "title": "Introduction and overview",
+    "score": 10
+  },
+  {
+    "id": "JxAgUk7F92E",
+    "title": "A Day in the Life at Perfect Search",
+    "score": 10
+  },
+  {
+    "id": "p4Z2YZTb86c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OA9HyMNDb94",
+    "title": "PSM Works from Home | Perfect Search Media",
+    "score": 10
+  },
+  {
+    "id": "MaqfC9S31GE",
+    "title": "Our pets are our coworkers",
+    "score": 10
+  },
+  {
+    "id": "TGvfe_7XG8c",
+    "title": "Perfect Search Media | Top 27 Alternatives of Perfect Search Media",
+    "score": 10
+  },
+  {
+    "id": "ZGMg5ROJs4U",
+    "title": "DJI Matrice 30T - The Perfect Search and Rescue Drone",
+    "score": 10
+  },
+  {
+    "id": "E4B8lXTy-BQ",
+    "title": "Search and rescue story",
+    "score": 10
+  },
+  {
+    "id": "5XJpdrg2Zcs",
+    "title": "What is a CMS?",
+    "score": 10
+  },
+  {
+    "id": "IqXL1ATqUSQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SHu420B7Gyk",
+    "title": "Introducing Exa Websets - A breakthrough toward perfect search",
+    "score": 10
+  },
+  {
+    "id": "6BctPbNSjqg",
+    "title": "Perfect Search - Big Data Search",
+    "score": 10
+  },
+  {
+    "id": "m_6BpRQ1fOY",
+    "title": "Copywriting \\u0026 Content Strategy Training | Perfect Search Media",
+    "score": 10
+  },
+  {
+    "id": "MwQpjqkoA58",
+    "title": "What is SEO Copywriting?",
+    "score": 10
+  },
+  {
+    "id": "wiyZC_aLuuQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5jYEnYoh3yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t96LKXXKLAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VdWNacxw26Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-JgIgLejua4",
+    "title": "How the TaylorMade Driver Loft Sleeve Works",
+    "score": 10
+  },
+  {
+    "id": "oUWqj8NzZ5E",
+    "title": "TaylorMade Qi4D vs Qi35 vs Qi10: Is Qi4D A REAL Upgrade?",
+    "score": 10
+  },
+  {
+    "id": "zo9BMtPRkSE",
+    "title": "2026 TaylorMade Qi4D - Their Best Driver EVER!",
+    "score": 10
+  },
+  {
+    "id": "rwRJ_WruWG4",
+    "title": "MOST GOLFERS DON'T KNOW THIS \\u0026 It Can Be Harming Your Golf!!",
+    "score": 10
+  },
+  {
+    "id": "b8tOChxSwrY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-xoqRzLUr2k",
+    "title": "This TaylorMade Mini Driver Might Be Better for Average Golfers",
+    "score": 10
+  },
+  {
+    "id": "-Jh8alSY8AU",
+    "title": "Collin Morikawa's Secret To Spinning 50-Yard Wedge Shots | TaylorMade Golf",
+    "score": 10
+  },
+  {
+    "id": "oGnzJEVyb7s",
+    "title": "Expect Better Shots, More Often - Stealth HD Irons | TaylorMade Golf Europe",
+    "score": 10
+  },
+  {
+    "id": "3KOtqxBdV2g",
+    "title": "Is TaylorMade’s New Spider Zero-Torque Putter Actually Innovative… or Just Inevitable?",
+    "score": 10
+  },
+  {
+    "id": "CB9umGZr_C0",
+    "title": "IS THERE A NEW KING? Titleist T250 vs TaylorMade P790",
+    "score": 10
+  },
+  {
+    "id": "kF4trzdiyjQ",
+    "title": "TaylorMade 2025 Irons – Which One is Best for YOU?",
+    "score": 10
+  },
+  {
+    "id": "XlHd4TkhCxU",
+    "title": "Highlights | Round 1 | Sony Open | 2026",
+    "score": 10
+  },
+  {
+    "id": "XBme232sKLQ",
+    "title": "Cobra OPTM - NEW 2026 DRIVERS!",
+    "score": 10
+  },
+  {
+    "id": "4EMAdEjZpjM",
+    "title": "Grant Horvat \\u0026 Tommy Fleetwood Try the New Qi4D Driver!",
+    "score": 10
+  },
+  {
+    "id": "Qjluyho8Hd8",
+    "title": "2026 TaylorMade Qi4D - Their Best Driver Ever?",
+    "score": 10
+  },
+  {
+    "id": "ds-yFRWcGsQ",
+    "title": "Rory Switches from Blades to Cavity Backs",
+    "score": 10
+  },
+  {
+    "id": "JtCPapOuI2g",
+    "title": "The NEW Takomo 201 Mk2 vs TaylorMade P790 - HUGE RESULTS!",
+    "score": 10
+  },
+  {
+    "id": "ht-B-xodRiY",
+    "title": "PXG Gen 8 Irons are Here! Can They Beat My Gamers?",
+    "score": 10
+  },
+  {
+    "id": "yda5izMO-zE",
+    "title": "The New TaylorMade Qi Max Irons Will BLOW YOU AWAY - But Will They Sell?",
+    "score": 10
+  },
+  {
+    "id": "E1LOULjsF8s",
+    "title": "2026 Takomo Irons - Almost Perfect...",
+    "score": 10
+  },
+  {
+    "id": "j0ssdfR3698",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "uFBpC6L-e-I",
+    "title": "Expect More Better With SIM2 Irons | TaylorMade Golf",
+    "score": 10
+  },
+  {
+    "id": "ijOpjTspoA0",
+    "title": "Taylormade TP5 vs TP5x Comparison Test",
+    "score": 10
+  },
+  {
+    "id": "5Xw0IiK2Cl8",
+    "title": "Intro at TaylorMade HQ",
+    "score": 10
+  },
+  {
+    "id": "pnYobkY-5V8",
+    "title": "Grant Horvat Tests The All-New Qi35 Driver Lineup | TaylorMade Golf",
+    "score": 10
+  },
+  {
+    "id": "iZvPbvmaHJI",
+    "title": "Rory McIlroy's Best Tip for More Distance Off the Tee | TaylorMade Golf",
+    "score": 10
+  },
+  {
+    "id": "mkeI9TREGe0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3jHdylpy5sU",
+    "title": "O JOGO de PODER de Trump em 2026 (Ele NÃO está blefando)",
+    "score": 10
+  },
+  {
+    "id": "1xDB7S894wc",
+    "title": "Grip",
+    "score": 10
+  },
+  {
+    "id": "VnHP4aV40Bw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5Ro_65dDQHI",
+    "title": "Step 1 Grip",
+    "score": 10
+  },
+  {
+    "id": "bNDurgbu8s0",
+    "title": "AIM BETTER FORGET THE TEEPAD",
+    "score": 10
+  },
+  {
+    "id": "5atxdHaE-T8",
+    "title": "foot placement",
+    "score": 10
+  },
+  {
+    "id": "y42BEYxCoU8",
+    "title": "throwing on the run",
+    "score": 10
+  },
+  {
+    "id": "Rd1RWCeTQ1k",
+    "title": "Go Places With Enable Travel #WhatsStoppingYou",
+    "score": 10
+  },
+  {
+    "id": "W9ayjKrREWI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6lZn-ESMBVE",
+    "title": "Jobs that allow you to travel",
+    "score": 10
+  },
+  {
+    "id": "bqkLU8hNgCo",
+    "title": "11 JOBS THAT ALLOW YOU TO TRAVEL!! | Travel in Your Twenties",
+    "score": 10
+  },
+  {
+    "id": "1U_dACVzJ1g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GN896THQMGM",
+    "title": "20 Best High Paying Jobs That Allow You To Travel | Entry And Non Entry Level",
+    "score": 10
+  },
+  {
+    "id": "ba4BC4Eg_Zo",
+    "title": "CRUISE SHIP DIRECTOR",
+    "score": 10
+  },
+  {
+    "id": "zq5OlR5DTMY",
+    "title": "I Was Given a Device That Allows Me to Time Travel. What I Saw Was TERRIFYING.",
+    "score": 10
+  },
+  {
+    "id": "Sllx9Zn07Wo",
+    "title": "Inside the LARGEST FAKE MARKET in SHANGHAI, China 🇨🇳",
+    "score": 10
+  },
+  {
+    "id": "v9YLXFva4Cc",
+    "title": "New Travel Rule United Airlines Allow Passengers to Share Location With AirTags of Lost Luggage",
+    "score": 10
+  },
+  {
+    "id": "I55HFIx1aZ8",
+    "title": "Supreme court allows Travel Ban 3.0 to take effect",
+    "score": 10
+  },
+  {
+    "id": "baTTw9xzxOU",
+    "title": "These Celebs Should Not Be Allowed to Travel... | Would I Lie To You?",
+    "score": 10
+  },
+  {
+    "id": "WiyFeI_F3jI",
+    "title": "David Mitchell - Last winter, I watched in horror as the train Tube doors trapped the pompom of my bobble hat and carried it off into the darkness of the Underground (S13 EP9)",
+    "score": 10
+  },
+  {
+    "id": "9JDzuGB-GHU",
+    "title": "Sweden Allows Travel to  Austria \\u0026 Liechtenstein",
+    "score": 10
+  },
+  {
+    "id": "wJ3ixttVQMc",
+    "title": "SCHENGEN VISA NEWS",
+    "score": 10
+  },
+  {
+    "id": "n3EJuPPptfc",
+    "title": "NO KIDS ALLOWED! Mommy and Daddy LEAVE! Travel to Korea!",
+    "score": 10
+  },
+  {
+    "id": "-IBKOFYY63Y",
+    "title": "allows you to travel from El Salvador to all the countries in Central America for only $79 USD!!! By",
+    "score": 10
+  },
+  {
+    "id": "pjA03EBayRk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TeyvHKw2QGY",
+    "title": "Vanessa Amorosi | Absolutely Everybody | Club Version",
+    "score": 10
+  },
+  {
+    "id": "N0Ch0eNAxhg",
+    "title": "The Horrors of Fruit of the Month | Everybody Loves Raymond",
+    "score": 10
+  },
+  {
+    "id": "urZasOFV6rM",
+    "title": "EVERYBODY WANTS TO RULE THE WORLD (TEARS FOR FEARS) cover by HSCC",
+    "score": 10
+  },
+  {
+    "id": "LusXTCUJnLY",
+    "title": "will.i.am - Scream \\u0026 Shout ft. Britney Spears",
+    "score": 10
+  },
+  {
+    "id": "kYtGl1dX5qI",
+    "title": "Everybody Got \\\"Tipsy\\\" With Shaboozey Ft. J-KWON's Mashup Of \\\"A Bar Song\\\" | BET Awards '24",
+    "score": 10
+  },
+  {
+    "id": "YspuVnWcU3s",
+    "title": "Everybody Wants You",
+    "score": 10
+  },
+  {
+    "id": "9hVtnQqrAVY",
+    "title": "Fruit Of The Month | Everybody Loves Raymond",
+    "score": 10
+  },
+  {
+    "id": "Ob_Lx6VbCFQ",
+    "title": "Backstreet Boys - Everybody (Backstreet's Back) (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "6M6samPEMpM",
+    "title": "Frank and Marie are the Problem: Part 1 | Everybody Loves Raymond",
+    "score": 10
+  },
+  {
+    "id": "pQx6jvJJba8",
+    "title": "S Club - S Club Party",
+    "score": 10
+  },
+  {
+    "id": "MZkgtgr7LhE",
+    "title": "Backstreet Boys - Everybody (Backstreet's Back) (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "e-syzbglE6g",
+    "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+    "score": 10
+  },
+  {
+    "id": "9bZkp7q19f0",
+    "title": "Everybody (Extended Mix)",
+    "score": 10
+  },
+  {
+    "id": "F9XAQZCd0HQ",
+    "title": "Madonna - Everybody (The Girlie Show)",
+    "score": 10
+  },
+  {
+    "id": "Dzi4FpwGIwI",
+    "title": "DJ BoBo - EVERYBODY",
+    "score": 10
+  },
+  {
+    "id": "_0JrmT3FjBE",
+    "title": "Tu Vuo' Fa' L'Americano - Hetty \\u0026 the Jazzato Band",
+    "score": 10
+  },
+  {
+    "id": "J0ogqBcK9ow",
+    "title": "S Club - Bring It All Back",
+    "score": 10
+  },
+  {
+    "id": "GLQ0biK-ZgA",
+    "title": "Father - Everybody In The Club Gettin Shot (Directors Cut)",
+    "score": 10
+  },
+  {
+    "id": "4CIRl-huv6k",
+    "title": "Yung Nation- Club Rock (Everybody Rockin)",
+    "score": 10
+  },
+  {
+    "id": "QC5QsRYqjK0",
+    "title": "Rocco - Everybody (Club Mix)",
+    "score": 10
+  },
+  {
+    "id": "03RaZ39URU4",
+    "title": "WHY IS EVERYBODY ALWAYS PICKING ON ME?? // Eltingville Club Animation Meme",
+    "score": 10
+  },
+  {
+    "id": "ifsrDmef4Sg",
+    "title": "Everybody Knows",
+    "score": 10
+  },
+  {
+    "id": "fcHDZFFVU4U",
+    "title": "LMFAO - Party Rock Anthem ft. Lauren Bennett, GoonRock",
+    "score": 10
+  },
+  {
+    "id": "51bg9wOuQfk",
+    "title": "S Club 7 -01- Everybody Wants Ya [T.V. Show Version]",
+    "score": 10
+  },
+  {
+    "id": "7QBz3ieZgQE",
+    "title": "Nicki Minaj - Everybody (Visualizer) ft. Lil Uzi Vert",
+    "score": 10
+  },
+  {
+    "id": "3g5AbGTqvt0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ABXtWqmArUU",
+    "title": "Simon and Garfunkel ( The Concert in Central Park 1981 ) Full Concert 16:9 HQ",
+    "score": 10
+  },
+  {
+    "id": "x2bd1zp_q6Y",
+    "title": "Paul Simon - Diamonds On The Soles Of Her Shoes",
+    "score": 10
+  },
+  {
+    "id": "-I_T3XvzPaM",
+    "title": "Paul Simon \\u0026 Friends: The Library Of Congress Gershwin Prize For Popular Song | FULL MOVIE",
+    "score": 10
+  },
+  {
+    "id": "lGA2AYDnauk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8rlDTK6QI-w",
+    "title": "Paul Simon - Graceland (from The Concert in Hyde Park)",
+    "score": 10
+  },
+  {
+    "id": "85rr5SqrCZI",
+    "title": "Simon \\u0026 Garfunkel - The Sound of Silence - Madison Square Garden, NYC - 2009/10/29\\u002630",
+    "score": 10
+  },
+  {
+    "id": "L-JQ1q-13Ek",
+    "title": "Paul Simon - Me and Julio Down by the Schoolyard (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "JVdlpZ4M-Hw",
+    "title": "Paul Simon - Late in the Evening (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "R7f189Z0v0Y",
+    "title": "Joan Baez - Diamonds and Rust (With Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "1ST9TZBb9v8",
+    "title": "Kenny Rogers - The Gambler",
+    "score": 10
+  },
+  {
+    "id": "7hx4gdlfamo",
+    "title": "Paul Simon - Still Crazy After All These Years (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "Q5Eoax6I-O4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Szqv1O1tans",
+    "title": "The BEST and WORST Darts of 2025 ",
+    "score": 10
+  },
+  {
+    "id": "ECfUk7X9LBg",
+    "title": "THE BEST UK OPEN MATCH EVER? Littler v Heta | 2024 UK Open",
+    "score": 10
+  },
+  {
+    "id": "0wDpHzpFEjI",
+    "title": "John Lowe 9-dart finish FIRST EVER ON TV",
+    "score": 10
+  },
+  {
+    "id": "Sg5Y2CURFl8",
+    "title": "THE NEXT LUKE LITTLER? 👀 - Johnson v Hutton - 2025 JDC National Volts Final",
+    "score": 10
+  },
+  {
+    "id": "jO-2iOsw93Q",
+    "title": "BEST DARTS MATCH EVER | Phil Taylor v Adrian Lewis, 2013 Grand Slam of Darts",
+    "score": 10
+  },
+  {
+    "id": "di4cprVo-ag",
+    "title": "Can 3 AMATEURS Beat Americas BEST Dart Players?",
+    "score": 10
+  },
+  {
+    "id": "UeAZjV7KVts",
+    "title": "FATHER vs SON Darts Match (Competitive!)",
+    "score": 10
+  },
+  {
+    "id": "g-TzT_kg4Xg",
+    "title": "These Darts Tips Can Improve Any Player (Very Simple!)",
+    "score": 10
+  },
+  {
+    "id": "dV3vlktr3gc",
+    "title": "Phil Taylor's last Matchplay title! 2017 World Matchplay Final - Full Match",
+    "score": 10
+  },
+  {
+    "id": "Udo6tjrC9zc",
+    "title": "IMPROVE Your Darts ACCURACY Fast | Better Aiming!",
+    "score": 10
+  },
+  {
+    "id": "-FeMn_1iu-w",
+    "title": "CULT HEROES! 😍 | Day Eight Afternoon Highlights | 2025/26 Paddy Power World Darts Championship",
+    "score": 10
+  },
+  {
+    "id": "YKGOgQPTbW8",
+    "title": "A NEW WINNER 🥇 | Day Three Evening Highlights | 2025 Ladbrokes Players Championship Finals",
+    "score": 10
+  },
+  {
+    "id": "OtGIm1K3Qnc",
+    "title": "Cameron Menzies Punching The Table PDC DARTS WORLD CHAMPIONSHIP 2026",
+    "score": 10
+  },
+  {
+    "id": "_JQb7GXoS4c",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CZS4WyXBwbg",
+    "title": "Outdoor Solutions Takes Grunt Style To School",
+    "score": 10
+  },
+  {
+    "id": "Mcr6d31h8bA",
+    "title": "A Hunters Life, Eat What You Hunt feat Made With MEAT",
+    "score": 10
+  },
+  {
+    "id": "KlRJsu9xvJM",
+    "title": "Master Long Range Shooting With Outdoor Solutions",
+    "score": 10
+  },
+  {
+    "id": "5zWt54saNp4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LlvZvFgNRcY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KG3kW62xp8M",
+    "title": "Breakdown of Tenderloin",
+    "score": 10
+  },
+  {
+    "id": "aQVNgKiPM2g",
+    "title": "25 Kills in 20 Minutes! (ULTIMATE Deer Hunting Compilation)",
+    "score": 10
+  },
+  {
+    "id": "aQvLquH9VXU",
+    "title": "DARKEST Hot Pot Ever! Cow-Dung soup | POOP SOUP",
+    "score": 10
+  },
+  {
+    "id": "akbK-a13m8w",
+    "title": "Epic Bear Hunt In Alaska Part 2 Using Benelli Lupo Rifles",
+    "score": 10
+  },
+  {
+    "id": "ROkfgxyF69U",
+    "title": "7 Days in Hawaii: My 1st Pig Hunt, Spear Fishing, Making Lau Lau \\u0026 More!!",
+    "score": 10
+  },
+  {
+    "id": "WDLukotX3Ho",
+    "title": "New Mexico Antelope Hunting | 5 Antelope Down In 2 Days",
+    "score": 10
+  },
+  {
+    "id": "MLIca6H1MZI",
+    "title": "Deer Processing 101: How a Chef Removes Venison Backstrap",
+    "score": 10
+  },
+  {
+    "id": "ltfNOfl3gtE",
+    "title": "Survival Camping with 4 yr Old - Trapping, Knapping, Friction Fire \\u0026 Campfire Cooking",
+    "score": 10
+  },
+  {
+    "id": "4pmRIwP3orY",
+    "title": "First Time Shooter | Shooting Out To 1000 Yards With Benelli Lupo",
+    "score": 10
+  },
+  {
+    "id": "SP1g55VeRd8",
+    "title": "Favorite Thing To Hunt",
+    "score": 10
+  },
+  {
+    "id": "X7Y4QkV-N_Y",
+    "title": "Hunting Free Range Axis During the Rut In Texas",
+    "score": 10
+  },
+  {
+    "id": "TwbXB1CgNeg",
+    "title": "Houston takes a 1,000 yard shot! @OutdoorSolutions",
+    "score": 10
+  },
+  {
+    "id": "0fbsOg_d79o",
+    "title": "BILL MACGREGOR",
+    "score": 10
+  },
+  {
+    "id": "BnS2C4d65as",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RdSpzqCyYUE",
+    "title": "The Ultimate Hunting Giveaway 2021! Giveaway of A Lifetime",
+    "score": 10
+  },
+  {
+    "id": "-J-VkU7DBaA",
+    "title": "Greg Ray FOUNDER OUTDOOR SOLUTIONS",
+    "score": 10
+  },
+  {
+    "id": "Khki3dSfQvQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PAgWKbJhU3w",
+    "title": "Chicken Freezer Meals That Your Family Will Love    Stocking the Freezer",
+    "score": 10
+  },
+  {
+    "id": "tG2tdRO2tho",
+    "title": "“Now that your husband is dead, grieve, pack your bags, and never come back!” my daughter-in-law...",
+    "score": 10
+  },
+  {
+    "id": "MQT-eY0Cbpk",
+    "title": "7 Warning Signs That Your Kidneys Are Toxic",
+    "score": 10
+  },
+  {
+    "id": "1Im6I9gItjg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "QSGMUFAsyAk",
+    "title": "The 12 Signs that Your Gallbladder is in DANGER",
+    "score": 10
+  },
+  {
+    "id": "hD1ag2YmUew",
+    "title": "Introduction: The #1 sign of a gallbladder problem",
+    "score": 10
+  },
+  {
+    "id": "5pf2Ea2zNK0",
+    "title": "My Sister Dumped My Laptop in the Pool, Smirking, “That’s Your Punishment for Saying No.” So I...",
+    "score": 10
+  },
+  {
+    "id": "zSvQJ2tpTcU",
+    "title": "THEY TESTED YOU ALL ROUND \\u0026 NOW THEY’VE CONFIRMED THAT YOUR GOD IS THE GOAT.",
+    "score": 10
+  },
+  {
+    "id": "m33zgiZuZc0",
+    "title": "You Have 21 Minutes... Don’t Miss This Miracle | C.S. Lewis 2026",
+    "score": 10
+  },
+  {
+    "id": "0q9suPFHzmE",
+    "title": "The Promises of God // Bible Verses for Rest, Reflection, and Reassurance",
+    "score": 10
+  },
+  {
+    "id": "SHatYgXlXAI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DzZe2Pb35Gk",
+    "title": "CANCER🦀 RICHNESS BEYOND MONEY COMING! TRUE LOVE FOUND \\u0026 A FUTURE SO BRIGHT YOU'LL NEED SHADES!🔥",
+    "score": 10
+  },
+  {
+    "id": "iLN-IUgu598",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - Jan. 15, 2026",
+    "score": 10
+  },
+  {
+    "id": "nQqghKQMdlc",
+    "title": "When to Sever Ties With Toxic Family Members",
+    "score": 10
+  },
+  {
+    "id": "JIJTEuNN1XM",
+    "title": "When Do You Need To Sever Ties with Toxic Family Members",
+    "score": 10
+  },
+  {
+    "id": "u0SHcVlAEQQ",
+    "title": "PISCES❤️‍🩹 MAJOR WARNING! HONESTLY THEY'RE SOOO SCARED TO TELL YOU *THIS* BECAUSE .. 😱💣",
+    "score": 10
+  },
+  {
+    "id": "87TE77bXXIE",
+    "title": "Watters: Things aren't looking so pretty...",
+    "score": 10
+  },
+  {
+    "id": "CTqabbIPfc0",
+    "title": "Gracie Abrams - That’s So True",
+    "score": 10
+  },
+  {
+    "id": "vOdsnBKq1Mk",
+    "title": "5 Signs that Your Work Place is Toxic (And it's Time to Quit)",
+    "score": 10
+  },
+  {
+    "id": "CWyCXRqs1ZA",
+    "title": "TIM HAN INTERNATIONAL SPEAKER, ENTREPRENEUR AUTHOR, COACH",
+    "score": 10
+  },
+  {
+    "id": "eXiF8Pw_UN0",
+    "title": "Can dogs imprint on humans?",
+    "score": 10
+  },
+  {
+    "id": "BM8x-OsQyxc",
+    "title": "That's Your Thing",
+    "score": 10
+  },
+  {
+    "id": "-fYCYytqef8",
+    "title": "11 Signs That Your Cat Is Lonely - But You Don't Know",
+    "score": 10
+  },
+  {
+    "id": "S7-PRDUqL58",
+    "title": "Is your cat lonely?",
+    "score": 10
+  },
+  {
+    "id": "lSHIt6_xhZU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lO0j-khBnDQ",
+    "title": "Interfering in Everything",
+    "score": 10
+  },
+  {
+    "id": "p4SDrWGYzlg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1HEHAAyaF7E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "v4m9RhXmdkk",
+    "title": "Known issue: Search Filter Button Missing on YouTube Kya Hai | Yt Studio New Notifications Kya Hai",
+    "score": 10
+  },
+  {
+    "id": "-IUMoXUmrRY",
+    "title": "Known issue 🚨 Greyed out search filters issue yt studio Greyed out search filters issue",
+    "score": 10
+  },
+  {
+    "id": "XjCjhAN-Pcc",
+    "title": "Known Issue 🚨Greyed out search filters issue | YouTube notice Known Issue🚨",
+    "score": 10
+  },
+  {
+    "id": "nf48TRJCrvk",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt studio ",
+    "score": 10
+  },
+  {
+    "id": "UW2Ra50WHTw",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt Studio Update",
+    "score": 10
+  },
+  {
+    "id": "fThStvI53oA",
+    "title": "10 Essential Tips for Perfect Chiffon Cake Every Time | Baking 101",
+    "score": 10
+  },
+  {
+    "id": "nZd_27rqWSM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6Y5XZ9CZLAg",
+    "title": "Perfect Miters and 3 Other Tips Every Woodworker Should Know",
+    "score": 10
+  },
+  {
+    "id": "_KEw83c8T98",
+    "title": "Getting Perfect Looking Mitered Corners on Boxes and Cabinets",
+    "score": 10
+  },
+  {
+    "id": "KLS05r3-2RU",
+    "title": "China’s DEADLY Fighter Jets Reach Iran? Xi-Khamenei JOIN HANDS To CRUSH Trump | US Vs Iran-China War",
+    "score": 10
+  },
+  {
+    "id": "FaktpTEns44",
+    "title": "Tips and Tricks Every Woodworker Should Know",
+    "score": 10
+  },
+  {
+    "id": "xqlN7mR6LkY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A-Hcgjz1uow",
+    "title": "Woodworking Tricks You'll Actually Use // How Did I Not Know These Things",
+    "score": 10
+  },
+  {
+    "id": "C9scpxNqb40",
+    "title": "The Jointer",
+    "score": 10
+  },
+  {
+    "id": "YIhgvCsDS6g",
+    "title": "A Perfect Depth Setting on Your Router",
+    "score": 10
+  },
+  {
+    "id": "M8cnGQXTHpE",
+    "title": "10 Useful BEGINNER Tips for Using a PAINTBRUSH!!",
+    "score": 10
+  },
+  {
+    "id": "6noW8bBBh6I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AgqLE5pv4YY",
+    "title": "Perfect Glue Up",
+    "score": 10
+  },
+  {
+    "id": "AEFC884nzv0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Zh9I5HrYadA",
+    "title": "What are lap marks?",
+    "score": 10
+  },
+  {
+    "id": "SVhjt1te1-g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIjWwZwlHQg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OBrEJz-zNyY",
+    "title": "Mature Women Fashion Tips:  Tapered Pants Are Perfect for Women Over 50",
+    "score": 10
+  },
+  {
+    "id": "97d5FYF8y0Y",
+    "title": "Hit A Perfect Serve (Powerful Tennis Tips)",
+    "score": 10
+  },
+  {
+    "id": "Ggwb3C46CsA",
+    "title": "draw the line on the middle of bevel 2",
+    "score": 10
+  },
+  {
+    "id": "brFHyOtTwH4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RQtLMgcaLMc",
+    "title": "8 Tips for Perfect Sliding Doors without Hardware",
+    "score": 10
+  },
+  {
+    "id": "9i2CudD73Hk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pbWlSJxy4-M",
+    "title": "7 Tips for Perfect Woodworking Panel Glue-Ups",
+    "score": 10
+  },
+  {
+    "id": "3b-GmvUhwUU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Dbr_GMWizLk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-Uwwz1CsX38",
+    "title": "MY DAUGHTER GRADUATES FROM HiGH SCHOOL!! *emotional* 🎓 💙",
+    "score": 10
+  },
+  {
+    "id": "rKJYrD5SueU",
+    "title": "Pomp and Circumstance Graduation Walking March (Song Extended)",
+    "score": 10
+  },
+  {
+    "id": "Kw-_Ew5bVxs",
+    "title": "THE DAY BEFORE GRADUATION (grad practice, alumni day, \\u0026 sleepover) | farewell senior szn ep. 14",
+    "score": 10
+  },
+  {
+    "id": "RM9CNJ0BgAY",
+    "title": "I GRADUATED HIGH SCHOOL || Best day ever!!",
+    "score": 10
+  },
+  {
+    "id": "24JjkQ-KsoU",
+    "title": "He did the impossible at his graduation 👏",
+    "score": 10
+  },
+  {
+    "id": "FPoOoJg2NGA",
+    "title": "Little sister gets emotional seeing her big sister graduate high school 🥹",
+    "score": 10
+  },
+  {
+    "id": "Eht3byUhLqQ",
+    "title": "Central High School Graduation Ceremony 2016",
+    "score": 10
+  },
+  {
+    "id": "O1xwTOddDV8",
+    "title": "Best HS Graduation Speech Ever! Weber High Graduation 2015",
+    "score": 10
+  },
+  {
+    "id": "M3N06KyK3s0",
+    "title": "Ranking the BEST Graduation Moments! 🔥",
+    "score": 10
+  },
+  {
+    "id": "jGEg2gPfH9k",
+    "title": "High School Graduation - SNL",
+    "score": 10
+  },
+  {
+    "id": "c1TGqkQetbQ",
+    "title": "Congratulations to the most wonderful humans! #graduation #seniors #lastdayofschool #highschool",
+    "score": 10
+  },
+  {
+    "id": "9wnoJOgWVCs",
+    "title": "We graduated!!! #senior #fypシ゚viral #2025 #graduation #fyp #viralvideo #gradstudents",
+    "score": 10
+  },
+  {
+    "id": "GhZMy6JCpnw",
+    "title": "GRWM TO GRADUATE FROM UCLA!",
+    "score": 10
+  },
+  {
+    "id": "MM19-J-0Sgo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CX2aK-2iyhA",
+    "title": "The Best Player Darts of 2025?",
+    "score": 10
+  },
+  {
+    "id": "QNPDYmzUVtw",
+    "title": "BLISTERING IN BAHRAIN! 🇧🇭 | 2026 Bahrain Darts Masters | Day One Highlights",
+    "score": 10
+  },
+  {
+    "id": "n6hQHXIXehc",
+    "title": "THE BEST LEG OF ALL TIME 🤯 MICHAEL SMITH HITS A NINE-DARTER IN A WORLD CHAMPIONSHIP FINAL",
+    "score": 10
+  },
+  {
+    "id": "soXq_GQc-NQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ya3DRj69n04",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ov0337Lns40",
+    "title": "Best Beginner Darts in 2026?",
+    "score": 10
+  },
+  {
+    "id": "a1NlI5i7XT4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VdtW0wqFWck",
+    "title": "THE NEXT LUKE LITTLER? 👀 - Johnson v Hutton - 2025 JDC National Volts Final",
+    "score": 10
+  },
+  {
+    "id": "BRh9E8VB2BY",
+    "title": "What are the best darts for £100",
+    "score": 10
+  },
+  {
+    "id": "fI_UEetREB0",
+    "title": "THE SECOND GREATEST LEG OF ALL TIME?! Luke Littler Nine-Darter - 2025 Betfred World Matchplay",
+    "score": 10
+  },
+  {
+    "id": "3gV5wjUFFO8",
+    "title": "CHEAP vs EXPENSIVE Darts!",
+    "score": 10
+  },
+  {
+    "id": "aa1nkEPaFys",
+    "title": "I Tested Star Wars Darts!",
+    "score": 10
+  },
+  {
+    "id": "S9JfSHyWnCY",
+    "title": "LUKE LITTLER'S RECORD BREAKING SET 🤯 2024/25 Paddy Power World Darts Championship",
+    "score": 10
+  },
+  {
+    "id": "UfsMrfhoHj0",
+    "title": "Top Straight Barrel Darts for All Players | Best For All Budgets",
+    "score": 10
+  },
+  {
+    "id": "0KYmMlHPE8g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ddc7tAmIqAs",
+    "title": "AI Impersonation PSA Begins",
+    "score": 10
+  },
+  {
+    "id": "0qioRxeqvoE",
+    "title": "Bethany asks her Dad why he didn’t tell her that her Jessie came by",
+    "score": 10
+  },
+  {
+    "id": "1DeQleZxSNU",
+    "title": "Giving the bride’s father the wrong footage 🫣 | Would I Lie To You?- BBC",
+    "score": 10
+  },
+  {
+    "id": "E-x27w8Xd5s",
+    "title": "Trump sends message to father of woman killed by ICE agent in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "AguclSviIJI",
+    "title": "Ring footage shows new images of father accused of killing 3 daughters",
+    "score": 10
+  },
+  {
+    "id": "XAdj22b3UpY",
+    "title": "FIREFIGHTER Realizes He SAVED His ABSENT FATHER | Dhar Mann Bonus!",
+    "score": 10
+  },
+  {
+    "id": "lXYvNEAnkxA",
+    "title": "Dad returns home from deployment to surprise his son at his soccer game ❤️❤️",
+    "score": 10
+  },
+  {
+    "id": "gwB2o-hT-Sg",
+    "title": "Father released from prison surprises daughter at pre-K graduation",
+    "score": 10
+  },
+  {
+    "id": "BzMCSzeW_qk",
+    "title": "Alleged Intruder’s Dad Visits California Home to Apologize for His Daughter",
+    "score": 10
+  },
+  {
+    "id": "-fHzO6kmJRI",
+    "title": "Father and son shootout captured on video | FOX 5 News",
+    "score": 10
+  },
+  {
+    "id": "xnjJ4ouaW68",
+    "title": "Doggie Dad Plays With His Puppies || ViralHog",
+    "score": 10
+  },
+  {
+    "id": "F1ts572Ut0k",
+    "title": "#TellThemNow - The Father’s Day Video That Will Melt Your Heart",
+    "score": 10
+  },
+  {
+    "id": "aSnKNXuw5TE",
+    "title": "GUESS THE DAD *Emotional*",
+    "score": 10
+  },
+  {
+    "id": "eryiYViJvZs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m_9hfHvQSNo",
+    "title": "Father seen in Ring camera footage before 3 girls found dead in Washington",
+    "score": 10
+  },
+  {
+    "id": "BdGjGvig9-8",
+    "title": "Dad's Quick Reflexes Save Baby From Flying Dinner Roll || ViralHog",
+    "score": 10
+  },
+  {
+    "id": "kSh6rlNnW14",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "hSZetbMqg-8",
+    "title": "Basics of the Throw: Pro Tips for a Perfect Darts Throw with Luke Humphries \\u0026 Mark Webster",
+    "score": 10
+  },
+  {
+    "id": "OicNZz9dFsY",
+    "title": "iPhone Tips for Seniors: Basic Settings",
+    "score": 10
+  },
+  {
+    "id": "-Q-fvcy20Jg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ve-jVpUIE-E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "AmbM8E-APdQ",
+    "title": "Pero Trump no la recibe con todos los honores",
+    "score": 10
+  },
+  {
+    "id": "WZ6-aAoCMwM",
+    "title": "10 STUPID ERRORS To AVOID in Soldering and TIPS",
+    "score": 10
+  },
+  {
+    "id": "Fp37DPZVdRI",
+    "title": "10 Soldering Tips to Instantly Improve Your Soldering Skills",
+    "score": 10
+  },
+  {
+    "id": "FTYDSCUUDSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Zu3TYBs65FM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GAjuZoyAhgI",
+    "title": "Principles of Soldering",
+    "score": 10
+  },
+  {
+    "id": "AIWnygcnGBY",
+    "title": "using flux core wire",
+    "score": 10
+  },
+  {
+    "id": "hfwGq00wlJE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QQWjA7u9LzM",
+    "title": "Wall Framing Basics",
+    "score": 10
+  },
+  {
+    "id": "qWl4uaIYqjc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d9uulq_mj5U",
+    "title": "connect the nozzle",
+    "score": 10
+  },
+  {
+    "id": "cB4irRaB_6s",
+    "title": "Basics of Mig Welding",
+    "score": 10
+  },
+  {
+    "id": "N_hyeTomzA0",
+    "title": "all classic grips (dealers grip, straddle grip, biddle grip, z grip)",
+    "score": 10
+  },
+  {
+    "id": "wgwBKyWyS_s",
+    "title": "wear out the first inch and a half of the blade",
+    "score": 10
+  },
+  {
+    "id": "6yTb4kCkNzk",
+    "title": "Twisting Wires Together",
+    "score": 10
+  },
+  {
+    "id": "XfvOlljcS_k",
+    "title": "Framing Basics: 6 Tips for Spreading Wall Plates on a Subfloor",
+    "score": 10
+  },
+  {
+    "id": "Y3_NF6VUAww",
+    "title": "Spreading Wall Plates",
+    "score": 10
+  },
+  {
+    "id": "sOVyKASzTpk",
+    "title": "Wood Glue Basics and Application Tips",
+    "score": 10
+  },
+  {
+    "id": "fftbphh3Swc",
+    "title": "Hide Glue",
+    "score": 10
+  }
+]

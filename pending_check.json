@@ -1,1 +1,3352 @@
-[]
+[
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "ללמוד פייתון בשעה - מדריך מקיף",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "הילימוד ברצף - מערכת השמש וכוכבי הלכת - מיוחד לילדים",
+    "score": 110
+  },
+  {
+    "id": "n4ba86ULy4Q",
+    "title": "חידוש רהיטי עץ - איך מחדשים רהיטי עץ בבית לבד? 3 שלבים בלבד",
+    "score": 60
+  },
+  {
+    "id": "a9CKzAL2_Z8",
+    "title": "שמשון מאור חידוש שיפוץ מזנון ישן בן 100 שנה בשיטות מסורתיות, פוליטורה",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "שמשון מאור חידוש שיפוץ רהיטים ישנים רהיטים חידוש  עתיקים רסטורציה פוליטורה בשיטות מסורתיות",
+    "score": 60
+  },
+  {
+    "id": "oAyDh5OoYzg",
+    "title": "החייאת שידה נשכחת מעליית גג נטושה | שחזור רהיטים בסגנון אר דקו",
+    "score": 60
+  },
+  {
+    "id": "6UDum8diOfg",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "5-xlNcwlhws",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "שווה לנסות - פרק 19",
+    "score": 60
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "כל מה שרציתם לדעת על השמש",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "כוכב לכת כדור הארץ מערכת השמש חלל לילדים",
+    "score": 60
+  },
+  {
+    "id": "MK5E_7hOi-k",
+    "title": "התנועה המפתיעה של השמש לרוחב השמיים - גורדון וויליאמסון",
+    "score": 60
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "🪐מערכת השמש: כוכב הלכת צדק וההיסטוריה של מאדים",
+    "score": 60
+  },
+  {
+    "id": "Bf3y3B41J8I",
+    "title": "כל מה שרציתם לדעת על כוכבי לכת חוץ-שמשיים",
+    "score": 60
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "KMO371fCkNM",
+    "title": "Learn 10 Beginner Bushcraft \\u0026 Survival Skills!",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "How to Minimize Home Repair Costs with Effective Hacks and DIY Inventions 💸",
+    "score": 50
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "Man Fully Transforms His Backyard with DIY | Start to Finish by @buildersblueprint",
+    "score": 50
+  },
+  {
+    "id": "lOiAPkUXk-Q",
+    "title": "Essential Home Repair Tips: Your DIY Guide",
+    "score": 50
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "Here Is Why Extra Dimensions ACTUALLY Make Sense",
+    "score": 50
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "Here Is Why Extra Dimensions ACTUALLY Make Sense",
+    "score": 50
+  },
+  {
+    "id": "S8I0MdfBvbs",
+    "title": "a quiet autumn playlist for quiet people (reading, writing, or studying)🍂",
+    "score": 50
+  },
+  {
+    "id": "UW6H5dAPuhY",
+    "title": "How To Draw A Cute Ice Cream Cone",
+    "score": 50
+  },
+  {
+    "id": "VtgB2pCC73M",
+    "title": "how to draw hand for beginners ✋",
+    "score": 50
+  },
+  {
+    "id": "JI3P70RE74g",
+    "title": "Face Tutorial #drawing #drawingprocess #facetutorial #face #facedrawing #turorial #drawingtutorial",
+    "score": 50
+  },
+  {
+    "id": "DhvOHZ7AFo8",
+    "title": "How to draw a nose! #art #artdrawing #drawing #tutorial",
+    "score": 50
+  },
+  {
+    "id": "1OLI4qiHh9Q",
+    "title": "How To Draw A Dachshund",
+    "score": 50
+  },
+  {
+    "id": "e6sXkvmLwIU",
+    "title": "How to start drawing (for beginners)",
+    "score": 50
+  },
+  {
+    "id": "_nPQOMZmIk8",
+    "title": "How to draw anything | learn sketching for beginners in 7 steps",
+    "score": 50
+  },
+  {
+    "id": "lAYl-qp6Ngc",
+    "title": "The Continent Shaper: Inside the Giant Ship That Builds Coastlines | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "p-60kpdN-Bg",
+    "title": "⋆.˚ ★— a cozy fall playlist | relax \\u0026 study",
+    "score": 50
+  },
+  {
+    "id": "7syXbeK0k-c",
+    "title": "songs to make you feel ATTRACTIVE (baddie playlist)",
+    "score": 50
+  },
+  {
+    "id": "GEqHgOzE6AU",
+    "title": "They can’t look away ~ songs to make you feel attractive ~ women energy playlist",
+    "score": 50
+  },
+  {
+    "id": "ajUSq7KoJgE",
+    "title": "Abracadabra ASMR - Fan sound 01 Industrial Air Con. Deep Low Rumbling Sound relaxation Study Sleep",
+    "score": 50
+  },
+  {
+    "id": "7pcx2ZdK6Ps",
+    "title": "Off Grid Refrigerator Review, Propane Refrigerator",
+    "score": 50
+  },
+  {
+    "id": "Z44JgHlcUtE",
+    "title": "Techomey 13.5 Cu.Ft Propane Refrigerator: The Ultimate Off-Grid Cooling Solution",
+    "score": 50
+  },
+  {
+    "id": "6C27_51E3do",
+    "title": "SMAD Propane Freezer vs Unique Freezer Review for the Off Grid Cabin",
+    "score": 50
+  },
+  {
+    "id": "x8Ktr07BrzA",
+    "title": "Propane Refrigerator,  Unboxing and Review",
+    "score": 50
+  },
+  {
+    "id": "o-ru4PreS6Q",
+    "title": "Practical Guide to Implement the Global Convention on Higher Education",
+    "score": 50
+  },
+  {
+    "id": "iRahvPnEERY",
+    "title": "This Is How To Master Public Speaking",
+    "score": 50
+  },
+  {
+    "id": "0qTuoDMyKqg",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "71NI6ZNUDGI",
+    "title": "Not Allowed by TV Girl Guitar Tutorial - Guitar Lessons with Stuart!",
+    "score": 50
+  },
+  {
+    "id": "8xNUHm5yWJ4",
+    "title": "How to Transfer Your Playlist from Spotify to YouTube Music",
+    "score": 50
+  },
+  {
+    "id": "9Kopxhp1III",
+    "title": "Install French Doors YOURSELF! | DIY Tutorial",
+    "score": 50
+  },
+  {
+    "id": "VcygFxIp1YY",
+    "title": "How to Remove and Install New Milgard French Doors",
+    "score": 50
+  },
+  {
+    "id": "SSKgHmlt0gM",
+    "title": "Site View: Anderson Outswing French Door Review",
+    "score": 50
+  },
+  {
+    "id": "IwoK3A6s7kQ",
+    "title": "Building your own French door. Is it worth it?",
+    "score": 50
+  },
+  {
+    "id": "xErn31T5Xn4",
+    "title": "How to Hang French Doors - In Depth",
+    "score": 50
+  },
+  {
+    "id": "ZAPb-3PqQ2E",
+    "title": "KitchenAid French Door Refrigerator Review: A Repairman’s Honest Take",
+    "score": 50
+  },
+  {
+    "id": "d3yd7lm7mtw",
+    "title": "Best Appliances Recommended by a Repair Technician of 29 Years",
+    "score": 50
+  },
+  {
+    "id": "Ws81lkQLp0A",
+    "title": "#ad After 5 years, our “builder-grade-special” appliances finally gave out on us",
+    "score": 50
+  },
+  {
+    "id": "hmCcfzgXD0o",
+    "title": "How to Install a Microwave (Over-the-Range) the Right Way!",
+    "score": 50
+  },
+  {
+    "id": "U3xDV_-ttlY",
+    "title": "Lowes reviews: I ordered a brand new refig but was defective and wouldn't replace",
+    "score": 50
+  },
+  {
+    "id": "Xca3s45excY",
+    "title": "How to Replace Samsung Refrigerator Water Filter – Quick DIY (No Tools!)",
+    "score": 50
+  },
+  {
+    "id": "5L0_Un1JpPU",
+    "title": "Relax Gently with Exquisite Autumn Jazz Music 🍁 The Autumn Jazz Vibes Will Make You Flutter 🎶",
+    "score": 50
+  },
+  {
+    "id": "N7rN35Yx5xg",
+    "title": "Soft Jazz Relaxing Music 🍁☕️ Cozy Autumn Coffee Shop Ambience with Rain Sounds to Work, Focus, Study",
+    "score": 50
+  },
+  {
+    "id": "l3RzUQIAtYg",
+    "title": "Morning Ambience at Canalside Café Shop Vibes 🍂 Elegant \\u0026 Soothing Autumn Jazz Music for Work, Study",
+    "score": 50
+  },
+  {
+    "id": "jJnu23sWi3I",
+    "title": "Cozy Fall Lofi 🎃 Chill Beats for Autumn Vibes, Study \\u0026 Relaxation 🍂 Lofi Rain Playlist",
+    "score": 50
+  },
+  {
+    "id": "MYPVQccHhAQ",
+    "title": "FRIDAY COFFEE: Chill Weekend Start ☕ Smooth Jazz Cafe BGM for Work, Study \\u0026 Relax",
+    "score": 50
+  },
+  {
+    "id": "9Nq0id6jOgw",
+    "title": "Outdoor Coffee Shop Ambience with Smooth Autumn Jazz Music 🍂 Gently Jazz Piano Tunes for Work, Study",
+    "score": 50
+  },
+  {
+    "id": "qgF5whH_Cf8",
+    "title": "Relaxing Jazz Instrumental Music ☕ Cozy Porch Ambience with Smooth Jazz Music for Studying, Work",
+    "score": 50
+  },
+  {
+    "id": "i6F586jYHvQ",
+    "title": "Cozy Coffee Shop Ambience with Smooth Jazz Music for Work, Study ☕ Relaxing Jazz Instrumental Music",
+    "score": 50
+  },
+  {
+    "id": "rVUv_j9AiVM",
+    "title": "Rainy Autumn Cafe Ambience with Smooth Jazz Relaxing Music \\u0026 Rain Sounds for Work, Relax, Study 🍂🍁☕️",
+    "score": 50
+  },
+  {
+    "id": "iBeKujv18OI",
+    "title": "Music in a Better Mood 🍀 Winter Day with Smooth Lofi Vibes ☕ Lofi Hip Hop to Study, Relax, Work",
+    "score": 50
+  },
+  {
+    "id": "1zWd6z0pwEM",
+    "title": "Cozy Reading Ambience with Smooth Jazz | Relaxing Rain \\u0026 Fireplace Sounds to Studying, Sleeping 4K",
+    "score": 50
+  },
+  {
+    "id": "eyMSkICJviE",
+    "title": "Cozy Morning Jazz 🍂 Fall Coffee Shop Ambience with Smooth Jazz Instrumental Music for Work, Study",
+    "score": 50
+  },
+  {
+    "id": "qWGRmHEis6o",
+    "title": "How to Use LinkedIn Search Filters: Find Leads Faster in 2026",
+    "score": 50
+  },
+  {
+    "id": "t_CkYfx4zy8",
+    "title": "What UFO Sightings Reveal About Power, Technology, and the Unknown | Jesse Michels",
+    "score": 50
+  },
+  {
+    "id": "1zt-wNRuwaU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QYUahojeHQg",
+    "title": "Survival in nature, finding food in the wilderness, survival skills",
+    "score": 10
+  },
+  {
+    "id": "Qlb0vMgHtfA",
+    "title": "Survival Skills: Kindling for Hiking and Wilderness Survival 🌳 #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "✅ The guy shows SURVIVAL skills in the wilderness 💦 #camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "yHQO8aHQoxs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "36E28cSEDRs",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "Survival Skills: Firestarter for Extreme Conditions. #survival #skills #lifehacks #camping",
+    "score": 10
+  },
+  {
+    "id": "xlMmWmRQe-I",
+    "title": "Survival Skills: I don't know how, but it's amazing #camping #bushcraft",
+    "score": 10
+  },
+  {
+    "id": "X_-Wh-r12J4",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "-Kq2Cndht6w",
+    "title": "The GIRL's skills are AMAZING🔪🎋#camping #survival #bushcraft #outdoors #lifehack",
+    "score": 10
+  },
+  {
+    "id": "RLmUxXO8pKs",
+    "title": "✅Wild Survival Skills: Filter Muddy Water 🌿💧 #camping #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "dMIqr6YlR_w",
+    "title": "Survival Skills: SMART idea and USEFUL with single mom #bushcraft #camping #outdoors",
+    "score": 10
+  },
+  {
+    "id": "bbYdxL5foP0",
+    "title": "Survival Skills: Amazing DIY heater for Extreme Conditions. #survival #camping #skills #lifehacks",
+    "score": 10
+  },
+  {
+    "id": "-bkiQCQ3W2Y",
+    "title": "I demonstrate skills of Simplifying Survival in the wild #outdoors #survival #forest #camping",
+    "score": 10
+  },
+  {
+    "id": "H6aq0W6g3lA",
+    "title": "Survival Skills: Single mom with watermelon fish trap #survival #camping #bushcraft #fish",
+    "score": 10
+  },
+  {
+    "id": "_aNgbknNuLQ",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "QWpl6aVPp8c",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "SSitRqKIt48",
+    "title": "Cordage",
+    "score": 10
+  },
+  {
+    "id": "MDkOVt_Bf-w",
+    "title": "✅ SURVIVAL Bushcraft Skills: Soap for Survival in the wild ⛺️#camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "YBWIU7acf_Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "Into the Abyss: Creatures of the Midwater (Full Movie)",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "This Discovery in the Mariana Trench Will Transform Geopolitics (4K)",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Deep Sea Exploration - 360 | Into Water",
+    "score": 10
+  },
+  {
+    "id": "XDZ39JJsSp0",
+    "title": "The Monterey Submarine Canyon",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Discovering the Strange and Unusual Creatures of the Deep Ocean | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "Into the Abyss: Chemosynthetic Oases (Full Movie)",
+    "score": 10
+  },
+  {
+    "id": "1LrcTa0dDmw",
+    "title": "The deep ocean is the final frontier on planet Earth",
+    "score": 10
+  },
+  {
+    "id": "p0G68ORc8uQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "elhlCZ7EEIo",
+    "title": "Inside the Sub That Reached Earth's Deepest Point | Bathyscaphe Trieste",
+    "score": 10
+  },
+  {
+    "id": "0KKHYtSLI1g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "Jc7ogKSFs_4",
+    "title": "The Bridge at Dusk - Alternate Version by Jim Gifford [from Waterwick: Prologue Short Film Soundtrack]",
+    "score": 10
+  },
+  {
+    "id": "OQpCcQhNfxM",
+    "title": "Uncharted Depths | Discovering the World’s Deepest Ocean Trenches and Their Hidden Secrets",
+    "score": 10
+  },
+  {
+    "id": "myGGS1FBsk4",
+    "title": "Into the Midnight Zone: Secrets of the Ocean Void",
+    "score": 10
+  },
+  {
+    "id": "o_Zs8UdCArM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IV0u9mcULrA",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "mHrK98mpYeo",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "mmXkY5v-yMY",
+    "title": "🔧 Handyman Hacks for DIY Home Repairs | Fix Anything Like a Pro",
+    "score": 10
+  },
+  {
+    "id": "PTzkSCnC5Ck",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "Easy DIY Drywall Repair #diy #drywall #home",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Top 6 Tools for any DIY Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dEPXeBn79Bk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jiKM5tCymGM",
+    "title": "This $1 Fix Saves Thousands in Water Damage",
+    "score": 10
+  },
+  {
+    "id": "HOsddz2Ubd4",
+    "title": "25 bizarre home hacks that work like magic!",
+    "score": 10
+  },
+  {
+    "id": "spjVZLwvVt8",
+    "title": "1. Kool-Aid Toilet Hack",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "ZawOeUSzmY4",
+    "title": "Why Do We ACTUALLY Believe Atoms Exist?",
+    "score": 10
+  },
+  {
+    "id": "5eyAAp5wG0c",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "The One Principle That Explains All of Physics",
+    "score": 10
+  },
+  {
+    "id": "1J0UkL0zQOs",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "Why Supermassive Black Holes Are Actually Safe",
+    "score": 10
+  },
+  {
+    "id": "XcNsvqEduJ8",
+    "title": "The Man Who Discovered the Laws of Infinity",
+    "score": 10
+  },
+  {
+    "id": "Jfk4_BsNn1g",
+    "title": "What the Higgs Boson Actually Is (No Analogies)",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "Classical Mechanics",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "piC8T2HnzrU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "kGBv_vZFnvw",
+    "title": "Nobel Winners PROVED \\\"The Universe Is Quantum\\\" Nobel Physics Prize 2025 Explained!",
+    "score": 10
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "Physicist Brian Cox explains quantum physics in 22 minutes",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KrejHlq-O9A",
+    "title": "Does the Universe Have a Maximum Temperature? The Planck Temperature Explained",
+    "score": 10
+  },
+  {
+    "id": "p9pPjASnnxw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "H_Y7hnCV7vE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "gj2K_Yj_JAE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "-PaJxyupfK0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "KOkXy47tAkg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Pc1IYCAUKyg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "aXfZwjV7G2Y",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "uzBcxewyk4U",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "EIKIX8-aMt8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "NCzDsVOdTCk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "AcgDMX0KAkw",
+    "title": "A late fall playlist for losers ^-^",
+    "score": 10
+  },
+  {
+    "id": "hTE1VGwg8dY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "hz3ly6nH3Ms",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "hJn4Abio0DM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "R8Y3CJRiBco",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ImKY6TZEyrI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Chcy9K6ywjA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "-htLOynize8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "niUDtr9m4uU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "swcr4bu9M_o",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "_g4vy7H8bdo",
+    "title": "Head",
+    "score": 10
+  },
+  {
+    "id": "j7CjkMtWJrw",
+    "title": "Eye",
+    "score": 10
+  },
+  {
+    "id": "ao2IP7f23-8",
+    "title": "drawing a curve right here in the middle of our paper",
+    "score": 10
+  },
+  {
+    "id": "XeIR7P82aPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b2scvHu_tGQ",
+    "title": "If I started drawing TODAY, this is what I would do.",
+    "score": 10
+  },
+  {
+    "id": "t4MeJxenIpw",
+    "title": "Let's Begin",
+    "score": 10
+  },
+  {
+    "id": "7Htc4YNR6ps",
+    "title": "5 BEGINNER Drawing Exercises to IMPROVE Fast (Do these First!)",
+    "score": 10
+  },
+  {
+    "id": "UOC8ISSbFx0",
+    "title": "Let's Begin!",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "Transforming a Supertanker Into a Giant Facility | Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "VI4CPe2I8WI",
+    "title": "Pet Food Superplant: Inside a Million-Meals-a-Day Operation | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "yHUgXrKmYJ0",
+    "title": "Pilot's Eye - Inside the Cockpit of a Boeing 747 | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ak7UEpmOfUA",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Austin's Impossible Skyscraper: How Engineers Built This Gravity-Defying Tower | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "nIOUg5TV5Uc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "trA5s2iGj2A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wtz6zhnAfME",
+    "title": "a playlist for a quiet autumn morning",
+    "score": 10
+  },
+  {
+    "id": "z_Ae-amx6AA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "FJX0JPXD2nM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Q6FarZpy67M",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "CZXLLMbJdZ4",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vx4kLgnFexo",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "esMMHzePMVk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "QCgdu2rmlVs",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vBHild0PiTE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "o7fgFaXKVa0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "z1N52_9FSOs",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "QfpPd6NvRPA",
+    "title": "Cozy Fall Night Ambience 🍁 Fireplace Crackle with Smooth Jazz Music for Relaxation \\u0026 Sleep",
+    "score": 10
+  },
+  {
+    "id": "D9qlAry5iwo",
+    "title": "2000s autumn playlist | gilmore girls, practical magic, nostalgic, global village coffeehouse",
+    "score": 10
+  },
+  {
+    "id": "lbjZPFBD6JU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "P8fzTiEOKTw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "sPuSIyXBdlU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "F1JMH70M32Q",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "qg45smXu-a0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "7aB-oHkfrBU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "FP3rvbD741g",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "rmxWd8SZB0k",
+    "title": "a playlist for a rainy autumn [ dark academia ]",
+    "score": 10
+  },
+  {
+    "id": "mjeNQjIPcBA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "b4wPvNaeC1k",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "k2B_-LKov7I",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "G7shZOTyU7Y",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "01OD6Ov6EJ4",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "lTxVVdhFE6Q",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "7E7dUxKDkAQ",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "EPE9AocVTXg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "G09LMEXI3Nw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "NlHp0ODtFJo",
+    "title": "가을, 틀어두면 분위기 200% 🍂 | 카페 · 매장 팝송 playlist",
+    "score": 10
+  },
+  {
+    "id": "2s4vUaWKhpk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "scaLtm2FhSk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "sRJ4RywOPvA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "RumTrTLv-Ks",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "DJCB1ZlseJ8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "zf2k9_Nnm7w",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "QIPPRSu2e9Q",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "A7LqxIbL-2M",
+    "title": "🍂\"},{\"text\":\".ೃ࿔\"},{\"text\":\" autumn playlist .\"},{\"text\":\"ᐟ\"},{\"text\":\" ♫ 🍁",
+    "score": 10
+  },
+  {
+    "id": "0VymvRU4B9M",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "opeETnB8m8w",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "u-zciRk3glk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Zm_GfzD80hQ",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "cZCm_i6YvAk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vRVsyQ2TtYg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "HwtEBQiuX-c",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "DPBIuzlcx6U",
+    "title": "Indie Folk Compilation - Autumn/Fall 2025 🍂 (2-Hour Playlist)",
+    "score": 10
+  },
+  {
+    "id": "XZ1bMrYtN00",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "X94eE7cMIJg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "GCdwKhTtNNw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vpX67n9zJVk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "9OFpfTd0EIs",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "zM0goJtxxJY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Qn8F_u0vBNI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "EiS7cKfuf6w",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "tpdrvoHoKsU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "wbzJB36Z1F4",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "G6Kspj3OO0s",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "SR70AZXmyr8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "o0tqEQ331go",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "lUqNygTgPoc",
+    "title": "Baking Cinnamon Rolls In Autumn [Playlist]",
+    "score": 10
+  },
+  {
+    "id": "b7pE8AG1jjE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "0rYU57Hcd_Q",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vfnAYipqj1k",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "OmKAn8rNbKg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "JKrDdsgXuso",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "yP7pwm6E09U",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "cI0wUoCLnLk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "QEfDazTZSPQ",
+    "title": "Early Winners Late Losers",
+    "score": 10
+  },
+  {
+    "id": "W7mZA62hrRE",
+    "title": "The Loser - SNL",
+    "score": 10
+  },
+  {
+    "id": "gQYH_FG1Ztc",
+    "title": "Loser Move On - Twister 1996",
+    "score": 10
+  },
+  {
+    "id": "tgm602S6vTE",
+    "title": "My Life As A Loser",
+    "score": 10
+  },
+  {
+    "id": "w4QONYrjA-Q",
+    "title": "If you’re feeling behind in life, watch this.",
+    "score": 10
+  },
+  {
+    "id": "Afk0h0dPBhE",
+    "title": "COMPARISON SLOTS",
+    "score": 10
+  },
+  {
+    "id": "fhVJou5ueNg",
+    "title": "Donald Trump Children’s Book",
+    "score": 10
+  },
+  {
+    "id": "bJecWvOTIT8",
+    "title": "Why Gen X is the real loser generation",
+    "score": 10
+  },
+  {
+    "id": "tSWyNgXeyqA",
+    "title": "Venue Skateboards section in Late Night Losers",
+    "score": 10
+  },
+  {
+    "id": "WI7s5lxRK6Q",
+    "title": "Its too late losers!",
+    "score": 10
+  },
+  {
+    "id": "DU843o9yuGA",
+    "title": "Artistic alphabet band from late loser",
+    "score": 10
+  },
+  {
+    "id": "PWr42TMHMFg",
+    "title": "FAILURE - Best Motivational Video Speeches Compilation for Success, Students \\u0026 Entrepreneurs",
+    "score": 10
+  },
+  {
+    "id": "dww3Oo8ropA",
+    "title": "FAIL YOUR WAY TO SUCCESS",
+    "score": 10
+  },
+  {
+    "id": "be8nGSKVyOQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iqB2HkrdidU",
+    "title": "Imagine - John Lennon \\u0026 The Plastic Ono Band (w The Flux Fiddlers) (Ultimate Mix 2018) - 4K REMASTER",
+    "score": 10
+  },
+  {
+    "id": "VOgFZfRVaww",
+    "title": "IMAGINE. (Ultimate Mix, 2020) - John Lennon \\u0026 The Plastic Ono Band (with the Flux Fiddlers) HD",
+    "score": 10
+  },
+  {
+    "id": "YkgkThdzX-8",
+    "title": "🔥 Imagine Dragons Greatest Hits Full Album 2026🎶 Believer, Thunder, Bones, Radioactive🔥#rockplaylist",
+    "score": 10
+  },
+  {
+    "id": "q3ues1stefk",
+    "title": "Imagine: John Lennon",
+    "score": 10
+  },
+  {
+    "id": "w-svyW4N81U",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "EcPsB6PwaiE",
+    "title": "달의 앞면과 뒷면은 왜 이토록 다를까? / 드디어 다시 시작되는 달 유인 탐사 🌕",
+    "score": 10
+  },
+  {
+    "id": "pG3NJUh80g0",
+    "title": "875화. 달의 지형",
+    "score": 10
+  },
+  {
+    "id": "loozhIcyqM8",
+    "title": "COL Lawrence Wilkerson... Warns: An Israel–Iran War Would Be Catastrophic",
+    "score": 10
+  },
+  {
+    "id": "xbjgtXe7tXY",
+    "title": "RARE - John Lennon and Freddie Mercury sing IMAGINE",
+    "score": 10
+  },
+  {
+    "id": "74DZHXhdcVQ",
+    "title": "Imagine - John Lennon | 4-Year-Old SINGER AMAZED People",
+    "score": 10
+  },
+  {
+    "id": "KQp5h9gqwE0",
+    "title": "Imagine Dragons Playlist 2024 - Best songs - Top 10 GREATEST HITS SONGS - Best of Imagine Dragons",
+    "score": 10
+  },
+  {
+    "id": "LzInU71ljJQ",
+    "title": "Chris Kläfford - Imagine - Original AGT audition",
+    "score": 10
+  },
+  {
+    "id": "YdxdpRZgfT4",
+    "title": "25 Extreme Places Where Survival Seems Impossible| Life at the Limit",
+    "score": 10
+  },
+  {
+    "id": "fNF8QyNcDy4",
+    "title": "John Lennon    Imagine -subtitulada al español y al ingles",
+    "score": 10
+  },
+  {
+    "id": "fcBAG6Gk1V8",
+    "title": "John Lennon - Imagine [sub. Español]",
+    "score": 10
+  },
+  {
+    "id": "8-3wIW1Rpiw",
+    "title": "IMAGINE DRAGONS ~ ✨ ✨ Greatest Hits Full Album 2024",
+    "score": 10
+  },
+  {
+    "id": "4pkOoKf_e8U",
+    "title": "John Lennon - Imagine (Lyrics)🎶",
+    "score": 10
+  },
+  {
+    "id": "0uW44pyjx54",
+    "title": "John Lennon - Imagine - 1971",
+    "score": 10
+  },
+  {
+    "id": "iOs9Osz3UFQ",
+    "title": "I CAN ONLY IMAGINE (full Movie)",
+    "score": 10
+  },
+  {
+    "id": "adCBXOYCur4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Pxf21Yh-w5o",
+    "title": "Comparing Refrigerators",
+    "score": 10
+  },
+  {
+    "id": "Sm20AXvy4sw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ixZz_6zmTsI",
+    "title": "Refrigerators You Should Never Buy in 2025!",
+    "score": 10
+  },
+  {
+    "id": "3lyw8g418nc",
+    "title": "Tip 1",
+    "score": 10
+  },
+  {
+    "id": "Adl07DyID0U",
+    "title": "Refrigerators You Should Never Buy!",
+    "score": 10
+  },
+  {
+    "id": "WQWVW4DUmZ0",
+    "title": "introduction",
+    "score": 10
+  },
+  {
+    "id": "8ln4NgG0__M",
+    "title": "The 3 types of RV Refrigerators!  Gas Electric, 12volt, and Residential!",
+    "score": 10
+  },
+  {
+    "id": "IMioz8IBZ8c",
+    "title": "Gas Electric Style Refrigerators",
+    "score": 10
+  },
+  {
+    "id": "W5jtT4h9BFA",
+    "title": "5 Best Refrigerators 2026 – Top Fridges to Buy",
+    "score": 10
+  },
+  {
+    "id": "c9WI5JMV3xY",
+    "title": "introduction",
+    "score": 10
+  },
+  {
+    "id": "McbdqIxGrGA",
+    "title": "Samsung 650L French Door Refrigerator// #refrigerator #samsungfridge 🔥🔥🔥",
+    "score": 10
+  },
+  {
+    "id": "K3rMDLpgph4",
+    "title": "🚫Don't Buy this Fridge",
+    "score": 10
+  },
+  {
+    "id": "PfbuGx2G9Ag",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DIkkpwTydvA",
+    "title": "Cupping, does it work?",
+    "score": 10
+  },
+  {
+    "id": "QlhBizGW5oY",
+    "title": "Does minoxidil really work?",
+    "score": 10
+  },
+  {
+    "id": "BR9h9BokcWc",
+    "title": "How does the brain work?",
+    "score": 10
+  },
+  {
+    "id": "lUYT8sZ4l18",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LMtC73GqStk",
+    "title": "How Does Adderall™ Work?",
+    "score": 10
+  },
+  {
+    "id": "MeJRBsghMt8",
+    "title": "How do lungs work? - Emma Bryce",
+    "score": 10
+  },
+  {
+    "id": "8NUxvJS-_0k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kX6rzEcdqKM",
+    "title": "How do antidepressants work? - Neil R. Jeyasingam",
+    "score": 10
+  },
+  {
+    "id": "ClPVJ25Ka4k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zwibgNGe4aY",
+    "title": "What is DNA",
+    "score": 10
+  },
+  {
+    "id": "ue7tvGdOkpw",
+    "title": "How does an MRI machine work?",
+    "score": 10
+  },
+  {
+    "id": "nFkBhUYynUw",
+    "title": "How does an MRI generate an image?",
+    "score": 10
+  },
+  {
+    "id": "PSRJfaAYkW4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UiRJfV_CJCQ",
+    "title": "Berberine: what is it and how does it work? #berberine",
+    "score": 10
+  },
+  {
+    "id": "xsqIiAiq70s",
+    "title": "How do vitamins work? - Ginnie Trinh Nguyen",
+    "score": 10
+  },
+  {
+    "id": "ISZLTJH5lYg",
+    "title": "What does vitamin K do to your body?",
+    "score": 10
+  },
+  {
+    "id": "vDR7tSLW1CY",
+    "title": "How does chemotherapy work? - Hyunsoo Joshua No",
+    "score": 10
+  },
+  {
+    "id": "RgWQCGX3MOk",
+    "title": "The First Chemotherapy Drugs",
+    "score": 10
+  },
+  {
+    "id": "raVms8w61No",
+    "title": "Former Netflix CEO: “Hard Work Does Not Matter!” A $278 Billion Company Wasn’t Built On Hard Work!",
+    "score": 10
+  },
+  {
+    "id": "HSVbD7RhOHU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OMKIAy-C8bA",
+    "title": "Intro Summary",
+    "score": 10
+  },
+  {
+    "id": "n5RBFbhA1Lg",
+    "title": "Baddie Playlist | Hot Girl | Baddie Vibes | I like and am obsessed with you",
+    "score": 10
+  },
+  {
+    "id": "P41EL57rvSo",
+    "title": "a 2000s baddie playlist to boost your confidence | y2k playlist",
+    "score": 10
+  },
+  {
+    "id": "fa49r2k2Igc",
+    "title": "ur confidence playlist (feminine playlist) - Girl boss vibes - Women energy playlist",
+    "score": 10
+  },
+  {
+    "id": "oC3I44aEnF4",
+    "title": "baddie playlist to listen to at 3am ✨ Confidence playlist 2026",
+    "score": 10
+  },
+  {
+    "id": "ydz2l2QBGpY",
+    "title": "2000s Baddie Playlist🫦✨",
+    "score": 10
+  },
+  {
+    "id": "bZuyseo_wtY",
+    "title": "2000s songs to boost your confidence ~ baddie playlist💄",
+    "score": 10
+  },
+  {
+    "id": "JWPdnVGupk4",
+    "title": "a 2000s baddie playlist to help boost your confidence ~ y2k playlist",
+    "score": 10
+  },
+  {
+    "id": "ZG3sYh5jvdE",
+    "title": "Baddie Playlist | Dark Feminine Energy | Madame Diaries",
+    "score": 10
+  },
+  {
+    "id": "Zx2XQkVnrP4",
+    "title": "THE IT girl playlist sped up | baddie playlist | 90s it girl plsylist | confidence playlist",
+    "score": 10
+  },
+  {
+    "id": "60k6zu6WfMo",
+    "title": "It's the 2000's and you're a baddie ☆ y2k Playlist",
+    "score": 10
+  },
+  {
+    "id": "4-W2mZPz_64",
+    "title": "𝙗𝙖𝙙𝙙𝙞𝙚 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 (𝙙𝙖𝙧𝙠 𝙛𝙚𝙢𝙞𝙣𝙞𝙣𝙚 𝙚𝙣𝙚𝙧𝙜𝙮) — 𝙂𝙞𝙧𝙡 𝙗𝙤𝙨𝙨 𝙫𝙞𝙗𝙚𝙨 — 𝙒𝙤𝙢𝙚𝙣 𝙚𝙣𝙚𝙧𝙜𝙮 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩",
+    "score": 10
+  },
+  {
+    "id": "9byAW6Weo_E",
+    "title": "baddie playlist (dark feminine energy) - Girl boss vibes - Women energy playlist",
+    "score": 10
+  },
+  {
+    "id": "lCP91CLgGnw",
+    "title": "It's the 2000's and you're a baddie ~ y2k Playlist",
+    "score": 10
+  },
+  {
+    "id": "mz5qcIVTNBs",
+    "title": "𝘽𝙖𝙙𝙙𝙞𝙚 𝙥𝙡𝙖𝙮𝙡𝙞𝙨𝙩 // 𝘾𝙤𝙣𝙛𝙞𝙙𝙚𝙣𝙘𝙚 𝙗𝙤𝙤𝙨𝙩 (𝙥𝙩.2)",
+    "score": 10
+  },
+  {
+    "id": "Cx7UezXwYK4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Z0heZHok3NA",
+    "title": "4 Tips on Writing the Beginning of Your Story (So It Doesn't Suck)",
+    "score": 10
+  },
+  {
+    "id": "yeQ1qLkhA3s",
+    "title": "Animated Book Opening Green Screen Effect, Green Screen",
+    "score": 10
+  },
+  {
+    "id": "SJWblg4IoY8",
+    "title": "Bible, book, fairytales, fantasy, magical, story | Video Effects",
+    "score": 10
+  },
+  {
+    "id": "vhG5usAFL_g",
+    "title": "Sizzling Starts: 6 Ways to Start your Story! | EasyTeaching",
+    "score": 10
+  },
+  {
+    "id": "akwRzjNahzQ",
+    "title": "Freaky Stories Intro/Opening (Original)",
+    "score": 10
+  },
+  {
+    "id": "ogVgj1pevD0",
+    "title": "America the Story of Us Intro",
+    "score": 10
+  },
+  {
+    "id": "K9TvzNH7TPY",
+    "title": "Fallout: The Original Intro Story",
+    "score": 10
+  },
+  {
+    "id": "XBhdRfJizkc",
+    "title": "Ghost Story (TV 1972) - Intro",
+    "score": 10
+  },
+  {
+    "id": "jERRBXXqc2M",
+    "title": "The Pixar Story Intro.mov",
+    "score": 10
+  },
+  {
+    "id": "MCDmONVQiK8",
+    "title": "BEGINNING A STORY - Terrible Writing Advice",
+    "score": 10
+  },
+  {
+    "id": "yJNMkroM8zQ",
+    "title": "fill it with massive amounts of exposition",
+    "score": 10
+  },
+  {
+    "id": "R8Lv6HPDR3A",
+    "title": "Blender. Book and candle animation",
+    "score": 10
+  },
+  {
+    "id": "5wtfFfBb224",
+    "title": "Reading of the Declaration of Independence",
+    "score": 10
+  },
+  {
+    "id": "ETroXvRFoKY",
+    "title": "How Skyrim’s First 3 Minutes Manipulate You",
+    "score": 10
+  },
+  {
+    "id": "NT_VtStnZzk",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "DDtkOXUwq7E",
+    "title": "Top 5 | Education Intro Template Free Download",
+    "score": 10
+  },
+  {
+    "id": "DApykU8X7KM",
+    "title": "PEARL VS. KASPARIAN - Opening Statements",
+    "score": 10
+  },
+  {
+    "id": "vhz-NZAUHFo",
+    "title": "THE XX   INTRO ONE HOUR just a killer song",
+    "score": 10
+  },
+  {
+    "id": "tuRttI5Cjzo",
+    "title": "open book (intro)",
+    "score": 10
+  },
+  {
+    "id": "BTDKz6S30sk",
+    "title": "The Music of Fallout",
+    "score": 10
+  },
+  {
+    "id": "FLq3h5zk1LA",
+    "title": "Chicago Story INTRO",
+    "score": 10
+  },
+  {
+    "id": "4_R1kg9K_RM",
+    "title": "Mortal Kombat 2 Arcade OST - Original Music Soundtrack - Intro Story",
+    "score": 10
+  },
+  {
+    "id": "ib5VetcCDik",
+    "title": "Welcome to The Story |Intro video",
+    "score": 10
+  },
+  {
+    "id": "Em4DFC2ui3M",
+    "title": "Celebrity Underrated - The Kenny Greene Story  (R\\u0026B Group Intro)",
+    "score": 10
+  },
+  {
+    "id": "PsYGR5wViOs",
+    "title": "Long Story Short Intro",
+    "score": 10
+  },
+  {
+    "id": "j2An1NI1qww",
+    "title": "The XX - Intro  (2020 Remastered) long version",
+    "score": 10
+  },
+  {
+    "id": "eRYjhOpLd_s",
+    "title": "Papa Beaver's Story Time English Intro",
+    "score": 10
+  },
+  {
+    "id": "EweII2Iy-kQ",
+    "title": "Intro Story - Paper Mario  The Thousand Year Door",
+    "score": 10
+  },
+  {
+    "id": "CzECwEbXBJE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "idSKb7zzOeM",
+    "title": "0°C outside and you are near the fan heater... | heater sound, white noise, relaxing, sleeping,",
+    "score": 10
+  },
+  {
+    "id": "yhKe7roI82M",
+    "title": "[ASMR] Air Conditioner Sound | Sonido del AIRE ACONDICIONADO | Som do AR CONDICIONADO | 에어컨 소리",
+    "score": 10
+  },
+  {
+    "id": "RyP9_O4RuSw",
+    "title": "10hr Oscillating Fan (Sleep Sounds\\\" ASMR",
+    "score": 10
+  },
+  {
+    "id": "VgQgNyGooXQ",
+    "title": "🎧 Air Conditioner sound on black screen dark screen high quality white noise ASMR",
+    "score": 10
+  },
+  {
+    "id": "YTxgGTusb4Y",
+    "title": "Air Conditioner White Noise Sounds for Sleep 10 Hours ASMR",
+    "score": 10
+  },
+  {
+    "id": "REpJxMfWt2I",
+    "title": "Air Conditioner - 10 hours of relaxing ambient sounds ASMR",
+    "score": 10
+  },
+  {
+    "id": "r3vYcEr1DGU",
+    "title": "10 Hours of Hotel AC Unit White Noise",
+    "score": 10
+  },
+  {
+    "id": "gVWrPX3Uz9Q",
+    "title": "*10 Hours* Relaxing Air Conditioner Sound for Sleep or Focus | HIGH-QUALITY AUDIO",
+    "score": 10
+  },
+  {
+    "id": "s-caCSvoo58",
+    "title": "ASMR | Shampooing, Conditioning and Trimming your Hair ✂️ (Roleplay, layered sounds)",
+    "score": 10
+  },
+  {
+    "id": "ii9bWFJ6HE0",
+    "title": "Check in at front desk.",
+    "score": 10
+  },
+  {
+    "id": "Az5JA3F-IIU",
+    "title": "Hotel AC White Noise ⎸Best Sleep Guaranteed",
+    "score": 10
+  },
+  {
+    "id": "I-_CNsVw02k",
+    "title": "AIR CONDITIONER | Relaxing White Noise For Great Sleep (10 Hours)",
+    "score": 10
+  },
+  {
+    "id": "MsfbGmctqLM",
+    "title": "REAL Air Conditioner 10 Hours White Noise Sleep Sounds ASMR",
+    "score": 10
+  },
+  {
+    "id": "tfgUa8Rnu0g",
+    "title": "Air Conditioner Sound | White Noise l Sleep Well",
+    "score": 10
+  },
+  {
+    "id": "hAiMQlTIzOw",
+    "title": "Air Conditioner  - 10 hours of relaxing ASMR air conditioner sounds with a black screen for sleep",
+    "score": 10
+  },
+  {
+    "id": "f-TW3red2eY",
+    "title": "😴 Dive into Tranquility with Black Screen ASMR: 8 Hours of Soothing Old Air Conditioner Noise",
+    "score": 10
+  },
+  {
+    "id": "2-HSuBOt4u4",
+    "title": "ASMR Holiday Hair Care for Sleep",
+    "score": 10
+  },
+  {
+    "id": "BsptdNtvGCY",
+    "title": "hey friend, l'occitane lotion",
+    "score": 10
+  },
+  {
+    "id": "tofGJLxFyt8",
+    "title": "Thousand Below - Lost Between feat. Marcus Bridge",
+    "score": 10
+  },
+  {
+    "id": "beOfvsA9b2M",
+    "title": "Thousand Below - \\\"Lost Between\\\" (feat. Marcus Bridge; Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "n5jvf3RNJoI",
+    "title": "yaeow - Lost In Between (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "pNcqIkDhTOI",
+    "title": "เหนื่อยจะถาม (Lost In Between) Ost.คุณวาฬร้านชำ Whale Store xoxo - June Wanwimol, Mewnich Nannaphas",
+    "score": 10
+  },
+  {
+    "id": "8RI11ofpeks",
+    "title": "🎵 Lost Between Me And You - Melodyspot | Official Lyric Video",
+    "score": 10
+  },
+  {
+    "id": "bq7u1ZHxda0",
+    "title": "Post Malone ft Chris brown (Lost Between the Lines (Cinematic RnB / Rap Ballad))",
+    "score": 10
+  },
+  {
+    "id": "zpjF9ZCwXeQ",
+    "title": "yaeow - Lost In Between (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "jturGC955_c",
+    "title": "Kevin Gates - Lost Between Us",
+    "score": 10
+  },
+  {
+    "id": "ius0ZNhz-uI",
+    "title": "Lost between rhythm \\u0026 memory | Afro Soul Nights Playlist - 2025 Mix By Sarah",
+    "score": 10
+  },
+  {
+    "id": "A70jBA1eez8",
+    "title": "\\\"WOW…✨ Unbelievable Emotion in Every Line 😭 | Lost Between Yesterday and Tomorrow",
+    "score": 10
+  },
+  {
+    "id": "FvC92iUPIQI",
+    "title": "Thousand Below - lost between",
+    "score": 10
+  },
+  {
+    "id": "f4hlt8T_YAE",
+    "title": "Morgan Wallen - Lost Between the Lines (New Song 2025) Cover Remix",
+    "score": 10
+  },
+  {
+    "id": "bFt5U2BrlNw",
+    "title": "yaeow - Lost In Between EP (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "apjZhsO9xYE",
+    "title": "Lost Between",
+    "score": 10
+  },
+  {
+    "id": "mwwnZvmc0x4",
+    "title": "🎵 Best Songs 2025 Playlist 🎧 Melodyspot | Top US UK Hits \\u0026 Trending Music VOL.2",
+    "score": 10
+  },
+  {
+    "id": "nEv7L-3FmEs",
+    "title": "Aydra | Lost Between Two Lands - Drum playthrough",
+    "score": 10
+  },
+  {
+    "id": "bjIwmsd6-NM",
+    "title": "Lost Between(gothic symphonic ethereal)",
+    "score": 10
+  },
+  {
+    "id": "d7E5jK4jMDE",
+    "title": "Lost Between the Lines",
+    "score": 10
+  },
+  {
+    "id": "8TLFutP9C-M",
+    "title": "Lost In Between",
+    "score": 10
+  },
+  {
+    "id": "1xI0vdAYBns",
+    "title": "Lost In Between - Ashes (Guitar Playthrough)",
+    "score": 10
+  },
+  {
+    "id": "TFgYfiXiSOI",
+    "title": "Lost Between Us - EchoSoul | New Sad Songs |  Sad Song Lyrics Video Korean OST style",
+    "score": 10
+  },
+  {
+    "id": "2UisAJSfd5A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3_Wt0O9--34",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9y6b8Bkz5dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HQt6jIKNwgU",
+    "title": "GARDEN EQUIPMENT THAT YOU WILL WANT TO BUY",
+    "score": 10
+  },
+  {
+    "id": "_aBWdIA15R8",
+    "title": "9 Beginner Raised Bed Garden Mistakes to Avoid",
+    "score": 10
+  },
+  {
+    "id": "uCM0Tvp6Dko",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j_Of36XVHng",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B64g_X1rUpM",
+    "title": "Hazlett - i don't want your garden (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "WQv4PxotBzc",
+    "title": "Perennials You Will Want to Add to Your Garden | Gardening with Creekside",
+    "score": 10
+  },
+  {
+    "id": "i8aVcnCKQGU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "IYlrs-Ab0_k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zrD1Q_KKxUw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Search \\u0026 Filter Pro WordPress Plugin - Better than SearchWP \\u0026 FacetWP?",
+    "score": 10
+  },
+  {
+    "id": "tpLZxiGt5Z0",
+    "title": "your cozy autumn playlist 🍂| part 1.",
+    "score": 10
+  },
+  {
+    "id": "VaeMeo2v9hQ",
+    "title": "fall playlist ༄˖°.🍂.ೃ࿔*:･",
+    "score": 10
+  },
+  {
+    "id": "guJvelRueDE",
+    "title": "Indie Folk Compilation - Autumn/Fall 2025 🍂 (2-Hour Playlist)",
+    "score": 10
+  },
+  {
+    "id": "WnxK0lpCKko",
+    "title": "Ziggy - Harvest Moon Waltz",
+    "score": 10
+  },
+  {
+    "id": "C9OIOJG6YXs",
+    "title": "2000s autumn playlist | gilmore girls, practical magic, nostalgic, global village coffeehouse",
+    "score": 10
+  },
+  {
+    "id": "ureDNt1z1D8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "kBBdHNrnEXo",
+    "title": "30 Inch Range",
+    "score": 10
+  },
+  {
+    "id": "8f0vNiUSoe8",
+    "title": "Before you buy a propane refrigerator for your off grid home",
+    "score": 10
+  },
+  {
+    "id": "viH6By9A6ww",
+    "title": "Gas Fridge explains the benefits of owning a modern propane gas refrigerator",
+    "score": 10
+  },
+  {
+    "id": "bMmlz1UHU0I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KL7IDryq-Zo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CbvrO8GcerU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gnWXU-d51vU",
+    "title": "12V Refrigerators vs Propane Refrigerators: Which is Right for You?",
+    "score": 10
+  },
+  {
+    "id": "U88ix8tO1yM",
+    "title": "The Top 5 Best Propane Fridge in 2025 - Must Watch Before Buying!",
+    "score": 10
+  },
+  {
+    "id": "dgirsFTqcPA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-UKvRM3IAUg",
+    "title": "EZ Freeze Propane Fridge Size Comparison",
+    "score": 10
+  },
+  {
+    "id": "mmEbXcOb_to",
+    "title": "EZ Freeze Product Tour EZ-10 Gas Refrigerator - Propane or Natural Gas Refrigerator",
+    "score": 10
+  },
+  {
+    "id": "IK0ll15OKe8",
+    "title": "Cleaning",
+    "score": 10
+  },
+  {
+    "id": "k7YyPA1tIRg",
+    "title": "Diamond Propane Refrigerators - Gas Frige - Propane Refrigerators - Natural Gas Appliance",
+    "score": 10
+  },
+  {
+    "id": "UGqMwMW77aQ",
+    "title": "Warehouse Appliance has the largest and best selection of propane refrigerators in the US",
+    "score": 10
+  },
+  {
+    "id": "D0B-Moygvfw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rh2ApiBQQks",
+    "title": "2023 EuroLLVM - Practical Global Merge Function with ThinLTO",
+    "score": 10
+  },
+  {
+    "id": "0DwgKZ2A64g",
+    "title": "2019",
+    "score": 10
+  },
+  {
+    "id": "pr3ASk9wILs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v9LaTFLhP38",
+    "title": "“The current global environment…” Must watch video! EAM Jaishankar’s BRICS message to the world",
+    "score": 10
+  },
+  {
+    "id": "JbCo6kdVpk8",
+    "title": "India's Global Aspirations: Investing in Companies Expanding Internationally",
+    "score": 10
+  },
+  {
+    "id": "WTsQmYDNsxo",
+    "title": "Explore the new Practical Law Global Home",
+    "score": 10
+  },
+  {
+    "id": "N2B0Gu35Hj0",
+    "title": "QUICK ACCESS To key resources",
+    "score": 10
+  },
+  {
+    "id": "mUJJ0eTA6qY",
+    "title": "ITI Practical | Ball Pein Hammer | Cross Pein Hammer | Claw Hammer #globaliti",
+    "score": 10
+  },
+  {
+    "id": "IdDsLADA_HM",
+    "title": "GLIR: A Practical Global-local Integrated Reactive Planner towards Safe Human-Robot Collaboration",
+    "score": 10
+  },
+  {
+    "id": "Y5c7eSAcBHc",
+    "title": "Non-Violence Organization Calls for Practical Global Action on International Human Solidarity Day",
+    "score": 10
+  },
+  {
+    "id": "SjZNvnKDYh4",
+    "title": "A Tour of Practical Law's Global Home",
+    "score": 10
+  },
+  {
+    "id": "9_FumYDv9YA",
+    "title": "OPT \\u0026 STEM OPT Changes Now Affect H-1B! US Form I-983, Status \\u0026 Visa Future Explained",
+    "score": 10
+  },
+  {
+    "id": "U70hvv7k3k4",
+    "title": "Practical Daily English: Situational Dialogues for Immediate Use#english #englishforbeginners",
+    "score": 10
+  },
+  {
+    "id": "JVQ4Jj_xntQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3ug0BQCGv3I",
+    "title": "She really thought I was a magician 👹, mhhhhhh #asmr #hairstyle #blackhair",
+    "score": 10
+  },
+  {
+    "id": "kfn1rq8BGCI",
+    "title": "💇🏽‍♀️💇🏽‍♀️💅🏽 #asmr #asmrsatisfyingsounds #asmrvideos #asmrmouthsounds #relax #asmr #asmr",
+    "score": 10
+  },
+  {
+    "id": "pSMuNjoxP-0",
+    "title": "Searches related to \"},{\"text\":\"Hair ASMR\",\"bold\":true}]},\"trackingParams\":\"COICEK2qASITCPK2portjpIDFcyHigcd3XoqWQ==\",\"icon\":{\"iconType\":\"SEARCH\"}}},\"style\":{\"type\":\"HORIZONTAL_CARD_LIST_STYLE_TYPE_NARROW_SHELF\"},\"previousButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_LEFT\"},\"trackingParams\":\"COECEPBbIhMI8ramiu2OkgMVzIeKBx3deipZ\"}},\"nextButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_RIGHT\"},\"trackingParams\":\"COACEPBbIhMI8ramiu2OkgMVzIeKBx3deipZ\"}}}},{\"videoRenderer\":{\"videoId\":\"tdyhK9dsqHU\",\"thumbnail\":{\"thumbnails\":[{\"url\":\"https://i.ytimg.com/vi/tdyhK9dsqHU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\\u0026rs=AOn4CLDCxrTq6WfQ0wRHQA7lbakFzuCp6Q\",\"width\":360,\"height\":202},{\"url\":\"https://i.ytimg.com/vi/tdyhK9dsqHU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==\\u0026rs=AOn4CLDDgYWIpldg7AWHyQqdzRECBX-mVw\",\"width\":720,\"height\":404}]},\"title\":{\"runs\":[{\"text\":\"ASMR Vintage Bridal Hairstyle | Low Elegant Hairstyling, Veiled Hat \\u0026 Perfect Finishing Touches",
+    "score": 10
+  },
+  {
+    "id": "tdyhK9dsqHU",
+    "title": "ASMR Detailed Scalp Check | Hair Parting, Brushing, Light Triggers, Close-up Inspection Care",
+    "score": 10
+  },
+  {
+    "id": "_OTF20c00VE",
+    "title": "ASMR | playing with your hair until you fall asleep 💕 (scalp massage, hair brushing, pampering)",
+    "score": 10
+  },
+  {
+    "id": "g7nRS3sfwaE",
+    "title": "Kitsch",
+    "score": 10
+  },
+  {
+    "id": "t594X_5KKMo",
+    "title": "Wednesday “plays” with your hair 🙄🖤🎀 #asmr #wednesday",
+    "score": 10
+  },
+  {
+    "id": "Vxg56nhskzU",
+    "title": "ASMR Tingle Therapy 🌙 Hair Brushing \\u0026 Scalp Massage to Knock You Out (No Talking)",
+    "score": 10
+  },
+  {
+    "id": "J6Drr-9sL_o",
+    "title": "Gentle Hair Tracing",
+    "score": 10
+  },
+  {
+    "id": "tM0UDHfLnNU",
+    "title": "ASMR Scalp Check | Lice Comb, Hair Brushing Tingles | Sharp or Dull, Hair Treatment Sensory Tests",
+    "score": 10
+  },
+  {
+    "id": "OxxjfFXhL0A",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "LBujoM61Qq4",
+    "title": "ASMR | Soft \\u0026 Gentle Hair Play, Hair Brushing \\u0026 Back Scratching On Sophia 🌙 (Whisper)",
+    "score": 10
+  },
+  {
+    "id": "dxO57mb8Y0s",
+    "title": "Hair play with hands",
+    "score": 10
+  },
+  {
+    "id": "g6bJY_-ZpX4",
+    "title": "POV: cavewoman scalp massage \\u0026 lice check #asmr (part 1)",
+    "score": 10
+  },
+  {
+    "id": "NIkvsGsEfN0",
+    "title": "Removing sticky slime from your hair 😵‍💫#asmr",
+    "score": 10
+  },
+  {
+    "id": "AQC87XclUL8",
+    "title": "POV your bestie feels something crawling in her hair … #asmr #asmrroleplay #viral #asmrsatisfying",
+    "score": 10
+  },
+  {
+    "id": "kCfCen2lMKo",
+    "title": "ASMR Close-Up Scalp Cleaning ✨ 35 Mins of Oiling, Hair Parting \\u0026 Deep Scratches (No Talk)",
+    "score": 10
+  },
+  {
+    "id": "1A9Ah2NVWX0",
+    "title": "Hair Pulling",
+    "score": 10
+  },
+  {
+    "id": "JyKliIF49JQ",
+    "title": "'The Boys' Comic Was Kinda Terrible",
+    "score": 10
+  },
+  {
+    "id": "eM5oGvrgNR4",
+    "title": "Worst Kinda Nigga",
+    "score": 10
+  },
+  {
+    "id": "p0Su-ZTqIz0",
+    "title": "Walker McGuire - Best Kinda Bad (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "d18Yh-B-CdM",
+    "title": "Why Breakfast Kinda SUCKS",
+    "score": 10
+  },
+  {
+    "id": "FI--kMqbpRU",
+    "title": "She kinda bad tho… is that frost",
+    "score": 10
+  },
+  {
+    "id": "EVagWVLf2fY",
+    "title": "TV Kinda Sucks Now",
+    "score": 10
+  },
+  {
+    "id": "RLwCHrlcy9Y",
+    "title": "Disney Kind of SUCKS Now",
+    "score": 10
+  },
+  {
+    "id": "vfFGEFUFaHQ",
+    "title": "Why college kinda SUCKS",
+    "score": 10
+  },
+  {
+    "id": "12wwyeWgVN4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uaNdKce7htY",
+    "title": "Vitaly Situation is Finally Over",
+    "score": 10
+  },
+  {
+    "id": "WqLfV8-dfUg",
+    "title": "Every father at Disneyland",
+    "score": 10
+  },
+  {
+    "id": "jY7Or0ON84w",
+    "title": "Worst Time for an Emergency",
+    "score": 10
+  },
+  {
+    "id": "rlzFcSuT9lM",
+    "title": "The Gen Z “Religious Revival” Isn’t Real",
+    "score": 10
+  },
+  {
+    "id": "vGHs5Xx1FCI",
+    "title": "AI Took Over the Drive-Thru — Customers Immediately Lost It",
+    "score": 10
+  },
+  {
+    "id": "Gye5It3UHpk",
+    "title": "The Fantastic Four: First Steps Pitch Meeting",
+    "score": 10
+  },
+  {
+    "id": "u65j8NIZ8z0",
+    "title": "Stranger Things' Lackluster Finale",
+    "score": 10
+  },
+  {
+    "id": "fJ817JVOC-Q",
+    "title": "Little Nightmares 3 was kinda terrible..",
+    "score": 10
+  },
+  {
+    "id": "fVm3m2ct9M4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HAvNWGbf7Z8",
+    "title": "'The Boys' Comic Was Kinda Terrible | Nux Reacts",
+    "score": 10
+  },
+  {
+    "id": "31gxrO2FggY",
+    "title": "Mafia 3 kinda sucks...",
+    "score": 10
+  },
+  {
+    "id": "C3f4y3TKbaw",
+    "title": "Mission Structure",
+    "score": 10
+  },
+  {
+    "id": "z6LpswHjZAY",
+    "title": "Why Las Vegas Actually Kinda Sucks",
+    "score": 10
+  },
+  {
+    "id": "5oQnaCQuAFk",
+    "title": "She kinda bad tho... Is that Jean?",
+    "score": 10
+  },
+  {
+    "id": "FeR5n9VD1KE",
+    "title": "Laura Marano \\u0026 Wrabel - Worst Kind of Hurt (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "X_VE7UnmOM4",
+    "title": "007n7 is Kinda BAD - Forsaken",
+    "score": 10
+  },
+  {
+    "id": "0XgPrsbeNNs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0Kp4cU8OzlY",
+    "title": "not allowed- tv girl",
+    "score": 10
+  },
+  {
+    "id": "AGt62LDGoW8",
+    "title": "Not Allowed - TV Girl  (Instrumental + Slowed) - (1 hour)",
+    "score": 10
+  },
+  {
+    "id": "nJ0jGDnf61k",
+    "title": "Not Allowed — TV GIRL lyrics #tvgirl #angst",
+    "score": 10
+  },
+  {
+    "id": "UPA0pDvm948",
+    "title": "Not Allowed - TV Girl - Heaven Studio",
+    "score": 10
+  },
+  {
+    "id": "RhMS8ao_5Oc",
+    "title": "TV Girl - Not Allowed",
+    "score": 10
+  },
+  {
+    "id": "8XjPz-EnppY",
+    "title": "Poor Girl Spent All Her Savings To Save A Beggar—Never Expect He Was Ceo's Lost Father! Fate Flip!",
+    "score": 10
+  },
+  {
+    "id": "BbV-rqd02iA",
+    "title": "CEO Cursed to Never Have Kids, Till Rural Girl Become His Wife\\u0026Pregnant At Once, Love Triumphs!",
+    "score": 10
+  },
+  {
+    "id": "mytqVliuEgY",
+    "title": "A Poor Girl Escaped Danger into a Stranger’s Arms—He Turned Out to Be a Scheming Billionaire CEO！",
+    "score": 10
+  },
+  {
+    "id": "ZWBMO2k26uo",
+    "title": "Nerdy Girl Dumps BF To Be Popular | Dhar Mann Studios",
+    "score": 10
+  },
+  {
+    "id": "QJc0U-GCANE",
+    "title": "Nerd Girl RISKS IT ALL To BE POPULAR",
+    "score": 10
+  },
+  {
+    "id": "vsr7sslWpQ0",
+    "title": "TV Girl - Not Allowed (Filtered Instrumental - No Vocals)",
+    "score": 10
+  },
+  {
+    "id": "-LZM1vb9Bbc",
+    "title": "I Tested *too good to be true* Pinterest Treats | Viral Ventures",
+    "score": 10
+  },
+  {
+    "id": "-5FPe3KTuu4",
+    "title": "Ruthless disabled CEO rejects all women, yet marries the girl who dared kiss him and spoils her!",
+    "score": 10
+  },
+  {
+    "id": "FeEOdPLDg58",
+    "title": "not allowed tv girl (slowed instrumental)",
+    "score": 10
+  },
+  {
+    "id": "Uj-uJdUM7Gw",
+    "title": "TV Girl - Not Allowed (slowed + reverb)",
+    "score": 10
+  },
+  {
+    "id": "CDGMV583Rww",
+    "title": "TV Girl - Not Allowed",
+    "score": 10
+  },
+  {
+    "id": "mygETVlf85o",
+    "title": "Not Allowed Instrumental - TV Girl #edit #fantasticmrfox #capcut #vent",
+    "score": 10
+  },
+  {
+    "id": "tHbmCseGhnY",
+    "title": "Arcane edit | Not allowed - TV girl | Timebomb",
+    "score": 10
+  },
+  {
+    "id": "DabGK3q5LJg",
+    "title": "TV Girl - Not Allowed (Richmond VA 2023)",
+    "score": 10
+  },
+  {
+    "id": "Cft2UlBoNOg",
+    "title": "tv girl song: not allowed 💖💙 #tvgirl #capcut #music #lyrics #edit",
+    "score": 10
+  },
+  {
+    "id": "vkfR83-Tw2k",
+    "title": "Not Allowed - TV Girl Instrumental (slow to fast + reverb) 432hz",
+    "score": 10
+  },
+  {
+    "id": "eDcH_OJr_mc",
+    "title": "Meek Mill C Tv Girl not allowed",
+    "score": 10
+  },
+  {
+    "id": "HxDCpnGLt00",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zEXA4DEtXC8",
+    "title": "playlist I attractive vibes",
+    "score": 10
+  },
+  {
+    "id": "MdY2gy41IVM",
+    "title": "dancing in your living room, just enjoying life 🍊 // \\\"oldies\\\" playlist",
+    "score": 10
+  },
+  {
+    "id": "1jaF8KndhIk",
+    "title": "Playlist to slay on your sister's wedding ✨🎀main character energy ⚡#playlist #wedding ",
+    "score": 10
+  },
+  {
+    "id": "sTKrHeE43VE",
+    "title": "playlist I dark romance vibes",
+    "score": 10
+  },
+  {
+    "id": "3Y1Z7eJz6MA",
+    "title": "Abby Powledge - \\\"i still check your playlists\\\" (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "SrGVw1Ka0CQ",
+    "title": "𝙋𝙡𝙖𝙮𝙡𝙞𝙨𝙩| 𝘔𝘰𝘳𝘯𝘪𝘯𝘨𝘴 𝘸𝘪𝘵𝘩 𝘠𝘰𝘶 𝘊𝘢𝘭𝘭 𝘧𝘰𝘳 𝘚𝘰𝘯𝘨𝘴 𝘓𝘪𝘬𝘦 𝘛𝘩𝘪𝘴🥣🍞",
+    "score": 10
+  },
+  {
+    "id": "V6hN8A5kM-0",
+    "title": "Backspace",
+    "score": 10
+  },
+  {
+    "id": "t4KlGqsxvTU",
+    "title": "🔥 Your Playlist is Getting a Lot Of Engagement | Playlist Work Facebook",
+    "score": 10
+  },
+  {
+    "id": "NhtArs5Iors",
+    "title": "𝑨 𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕 𝒕𝒐 𝒘𝒂𝒌𝒆 𝒖𝒑 𝒚𝒐𝒖𝒓 𝒊𝒏𝒏𝒆𝒓 𝒅𝒂𝒏𝒄𝒆𝒓♡︎シ︎",
+    "score": 10
+  },
+  {
+    "id": "iTJhX1jzvPo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7tBOpVAJTSs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sA17Squ-6-Q",
+    "title": "‧✩౨Stargazing With Your Comfort Characterৎ✩‧ (A Playlist)",
+    "score": 10
+  },
+  {
+    "id": "SKb8pl_VFrQ",
+    "title": "Treehouse - Alex G",
+    "score": 10
+  },
+  {
+    "id": "fKbSqKF-iCA",
+    "title": "The Way You Love Me | Heartfelt Love Song with Lyrics | Your Playlist",
+    "score": 10
+  },
+  {
+    "id": "JgB87eN0-so",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "pBwTLwHzV8I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "dVr03Y6f8wM",
+    "title": "measure from the floor to the line on each side",
+    "score": 10
+  },
+  {
+    "id": "9XzzxnoNiC8",
+    "title": "3 Unique Benefits of Having A Hinged French Patio Door.",
+    "score": 10
+  },
+  {
+    "id": "P9JtEvExw_s",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "-EYLe6QQyAo",
+    "title": "Why Sliding Doors Might Be a Bad Idea (French Door Alternatives)",
+    "score": 10
+  },
+  {
+    "id": "KcDGg_607vU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9QKzxEwMiVw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GWbgkEVfkns",
+    "title": "French Doors Locking System",
+    "score": 10
+  },
+  {
+    "id": "xP78OwJtG2k",
+    "title": "Patio Series 2:  French Doors",
+    "score": 10
+  },
+  {
+    "id": "RW4y0VUubyU",
+    "title": "Do both doors open on French doors?",
+    "score": 10
+  },
+  {
+    "id": "gAhouViRhlw",
+    "title": "Installing French Doors! #diyprojects #tipsandtricks",
+    "score": 10
+  },
+  {
+    "id": "MPw893URN-8",
+    "title": "Was trying to convert a window to French doors a MISTAKE?",
+    "score": 10
+  },
+  {
+    "id": "DYOaFV_YQ3Q",
+    "title": "Upgrade your French doors easily with our Perfect Fit Shutters 👌",
+    "score": 10
+  },
+  {
+    "id": "ZiTV-z8bY1Q",
+    "title": "Internal French Doors - Doors Plus",
+    "score": 10
+  },
+  {
+    "id": "NO_-QaPTgaU",
+    "title": "Internal French Doors",
+    "score": 10
+  },
+  {
+    "id": "p06wn98ROfM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KKSYMyiNwb0",
+    "title": "7 Most Underrated Luxury Appliances for 2026",
+    "score": 10
+  },
+  {
+    "id": "u_C3hGEbMcM",
+    "title": "The Most Reliable Appliance Brands for 2025",
+    "score": 10
+  },
+  {
+    "id": "jX1tPXGzArU",
+    "title": "Consumer Reports: Kitchen appliances you won't regret",
+    "score": 10
+  },
+  {
+    "id": "s5aVYJczKN4",
+    "title": "Best 5 Budget-Friendly Luxury Appliances: Ranking the Good and Bad",
+    "score": 10
+  },
+  {
+    "id": "XaQ1ETmkoZ8",
+    "title": "Affordable Luxury Brands Ranked",
+    "score": 10
+  },
+  {
+    "id": "Jt_HKvWFb_c",
+    "title": "Pros and Cons of KitchenAid French Door Fridges | Benefits \\u0026 Overview",
+    "score": 10
+  },
+  {
+    "id": "_37kx4hujYY",
+    "title": "Here's one of the best refrigerators of 2025. If you need one, choose from the top 10 on our web",
+    "score": 10
+  },
+  {
+    "id": "u2ItQi4IpuY",
+    "title": "Top 5 Best Refrigerators 2024 | Reliable To Buy in Summer",
+    "score": 10
+  },
+  {
+    "id": "oC9PufP0UtI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "R_FBRivIR38",
+    "title": "Café vs LG Studio",
+    "score": 10
+  },
+  {
+    "id": "Xl2Q3epfLss",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mW8pRpUABvs",
+    "title": "No Temperature Fluctuations",
+    "score": 10
+  },
+  {
+    "id": "EPN4FA07cYE",
+    "title": "Counter-Depth vs Standard Refrigerators: What Works for You?",
+    "score": 10
+  },
+  {
+    "id": "9l5ehydFTDU",
+    "title": "Which Fridge Brands Are The Most Reliable?",
+    "score": 10
+  },
+  {
+    "id": "dG6r4QuEGBc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "071cR3JrtH8",
+    "title": "LG Smart French Door Refrigerator",
+    "score": 10
+  },
+  {
+    "id": "MQduHi8QRU4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rWakgo0WCyU",
+    "title": "Beautiful French Door",
+    "score": 10
+  },
+  {
+    "id": "6slLPPQEAoA",
+    "title": "Best Refrigerators 2026 [Don't Buy Until You WATCH This!]",
+    "score": 10
+  },
+  {
+    "id": "5SJBPyty0oM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "cFR5aYWBrjU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GUaiicJ9fI8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oBm55678-ww",
+    "title": "The 5 Best Refrigerators Under $1000 !  #appliances #kitchenappliances #refrigerator #lowespartner",
+    "score": 10
+  },
+  {
+    "id": "U6vSjbvRcsk",
+    "title": "The BEST Washers to Buy and What to Avoid Today!",
+    "score": 10
+  },
+  {
+    "id": "7pvnk43V4z8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "dDGYpaEaFoQ",
+    "title": "I went to @loweshomeimprovement just to browse… and came home with the faucet of my dreams",
+    "score": 10
+  },
+  {
+    "id": "zWWj7PL0Pns",
+    "title": "Aka my Costco fridge 🙃Would you?Credit: @aivanelli #newconstruction #costcofridge #refrigerator",
+    "score": 10
+  },
+  {
+    "id": "zQz1i1YIJqQ",
+    "title": "Over-the-Range Microwave Installation Overview",
+    "score": 10
+  },
+  {
+    "id": "x00qs0JSBC8",
+    "title": "The Best dishwashers under $600? #dishwashers #dishes #lowespartner",
+    "score": 10
+  },
+  {
+    "id": "qxsqJeWOl30",
+    "title": "Garage Drink Fridge Restock #lowesfinds",
+    "score": 10
+  },
+  {
+    "id": "dJmj88WYB5k",
+    "title": "#lowespartner EASY Updates for your Kitchen #lowesproject",
+    "score": 10
+  },
+  {
+    "id": "zqxofKi6lFo",
+    "title": "@lowes cyber week deals #lowespartner #lowesblackfriday #family",
+    "score": 10
+  },
+  {
+    "id": "PdVQSCr7z3o",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "eMf1OQGyWz0",
+    "title": "Is a new appliance on your list this year!? @lowes is the place to go! #lowespartner  #lowesfinds",
+    "score": 10
+  },
+  {
+    "id": "8uccBIDICNc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "20046_vi1vA",
+    "title": "Autumn Vibes",
+    "score": 10
+  },
+  {
+    "id": "WEP5RV86r_M",
+    "title": "ＡＵＴＵＭＮ　ＣＨＩＬＬ",
+    "score": 10
+  },
+  {
+    "id": "6me17gGZYRg",
+    "title": "Childhood Memories (w/ Ambulo)",
+    "score": 10
+  },
+  {
+    "id": "NVI7MjhR2JQ",
+    "title": "Track 1",
+    "score": 10
+  },
+  {
+    "id": "ykTLM_3TsPo",
+    "title": "Relaxing Evening Fall Rain In New York City🍂🌧️Calm Rain Ambience For Reading, Sleeping, Etc.",
+    "score": 10
+  },
+  {
+    "id": "EHNdBT08eVQ",
+    "title": "Autumn in the Forest | Cozy Cabin Ambience with Jazz, Rain, and Fireplace for Relaxation 🍁",
+    "score": 10
+  },
+  {
+    "id": "M0lVOhvJajc",
+    "title": "Autumn Vibes🍂Take time for yourself🍀Enjoy music for relax/chill with me🎧Lofi Hip Hop - Lofi Coffee☕",
+    "score": 10
+  },
+  {
+    "id": "pa6CyLN3wPY",
+    "title": "Misty Autumn Cafe Ambience | Piano And Violin Dark Academia Rain Sounds for Deep Focus \\u0026 Reading",
+    "score": 10
+  },
+  {
+    "id": "SK_VwY1n7C4",
+    "title": "a cozy autumn night 1940s and you're listening to vintage music on a room cottage",
+    "score": 10
+  },
+  {
+    "id": "qZFBzHEfqEM",
+    "title": "Autumn Chill | Soulful Sounds for Cozy Vibes - The Soul Sanctuary - Vol. 14",
+    "score": 10
+  },
+  {
+    "id": "rC4jjBwhXIc",
+    "title": "1. Colors of the Fall",
+    "score": 10
+  },
+  {
+    "id": "TGoOVhdYuF4",
+    "title": "Novino – The Nights",
+    "score": 10
+  },
+  {
+    "id": "RTZPfrmxnzo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "vN0QZdgr5Dg",
+    "title": "Golden Dusk Ease",
+    "score": 10
+  },
+  {
+    "id": "Xipr4Yaj3cA",
+    "title": "Relaxing Sleep Winter Nighttime Jazz with Smooth Piano Instrumentals for Sleep, Relaxation \\u0026 Work",
+    "score": 10
+  },
+  {
+    "id": "R8eUiRZU3Dk",
+    "title": "Cozy Fall Night Ambience 🍁 Fireplace Crackle with Smooth Jazz Music for Relaxation \\u0026 Sleep",
+    "score": 10
+  },
+  {
+    "id": "jfFdDqJ1ppA",
+    "title": "Stress Relief with Smooth Jazz Instrumental Music ☕ Cozy Coffee Shop Ambience \\u0026 Jazz Relaxing Music",
+    "score": 10
+  },
+  {
+    "id": "KbswPudB454",
+    "title": "Stress Relief with Smooth Jazz Music ☕ Cozy Coffee Shop Ambience \\u0026 Relaxing Jazz Instrumental Music",
+    "score": 10
+  },
+  {
+    "id": "8eOTsaz_Gb4",
+    "title": "【No ads】Rainy Day at Cozy Coffee Shop with Smooth Jazz Music and Rain Sounds for Stress Relief",
+    "score": 10
+  },
+  {
+    "id": "onvZkmfomeo",
+    "title": "Cozy Christmas Coffee Shop Ambience - with Smooth Christmas Music, Crackling Fire \\u0026 Coffee Sounds",
+    "score": 10
+  },
+  {
+    "id": "64igk3pT_Cs",
+    "title": "Unwind with Smooth Winter Jazz Music \\u0026 Snowfall ⛄ Jazz Relaxing Music at Cozy Coffee Shop Ambience",
+    "score": 10
+  },
+  {
+    "id": "65Xs4IO4dQc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "kwKpBa7vX0E",
+    "title": "Power Apps Search and Filter Functions on Large SharePoint Lists",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "14XEQKxDZEs",
+    "title": "Search Filter in React JS - Filter Through Results",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "b-3BI9AspYc",
+    "title": "Rihanna - What Now (Official)",
+    "score": 10
+  },
+  {
+    "id": "YXwYJyrKK5A",
+    "title": "Two Door Cinema Club - What You Know",
+    "score": 10
+  },
+  {
+    "id": "KpCcJY-rJSs",
+    "title": "What You Know",
+    "score": 10
+  },
+  {
+    "id": "_Ym7Mg4yTZc",
+    "title": "Two Door Cinema Club - What You Know",
+    "score": 10
+  },
+  {
+    "id": "r3Pr1_v7hsw",
+    "title": "Rihanna-What Now Lyrics",
+    "score": 10
+  },
+  {
+    "id": "MEg-oqI9qmw",
+    "title": "三星記憶體紅利快沒了?中國技術差不到一年?三星只能怪自己? 中國記憶體崛起滿滿\\\"南韓\\\"影子?｜王志郁 主持｜20260115｜Catch大錢潮 feat.朱岳中",
+    "score": 10
+  },
+  {
+    "id": "7IIVtHgJVqU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NwkbfrW-dXM",
+    "title": "How ICE Uses Pain as Propaganda - with MS NOW’s Jacob Soboroff",
+    "score": 10
+  },
+  {
+    "id": "YeKq3UyQNtM",
+    "title": "Cold Open",
+    "score": 10
+  },
+  {
+    "id": "-X8xwrKdFOg",
+    "title": "Men Are Staying Single \\u0026 Women Have To Compete For Single Men Dating in 2026",
+    "score": 10
+  },
+  {
+    "id": "BAaKEaidUlk",
+    "title": "Why Men Are Staying Single",
+    "score": 10
+  },
+  {
+    "id": "acIQqjYalXg",
+    "title": "We Still Don't Really Know How Jeffrey Epstein Got So Rich...",
+    "score": 10
+  },
+  {
+    "id": "5XyslxsPLQ4",
+    "title": "Aries Spears \\u0026 Vlad Argue About White People Kissing Their Dogs (Part 9)",
+    "score": 10
+  },
+  {
+    "id": "vIYTunS0JCs",
+    "title": "#1 MOST WANTED — PAGHAHANAP KAY ATONG ANG #MissingSabungeros (Jan. 15, 2026) | 24 Oras",
+    "score": 10
+  },
+  {
+    "id": "bpOSxM0rNPM",
+    "title": "Ed Sheeran - What Do I Know? [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "6B9J3lEyffA",
+    "title": "What You Know Bout Love",
+    "score": 10
+  },
+  {
+    "id": "jhTkV1r2Mpg",
+    "title": "Pop Smoke - What You Know Bout Love (Official)",
+    "score": 10
+  },
+  {
+    "id": "7Mzxotj6Gvs",
+    "title": "YoungBoy Never Broke Again - What You Know (feat. Lil Uzi vert) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "9KN8YsHYCBM",
+    "title": "Guy Penrod \\u0026 Sarah Darling - Knowing What I Know About Heaven",
+    "score": 10
+  },
+  {
+    "id": "yduN-IC7bOA",
+    "title": "What You Know",
+    "score": 10
+  },
+  {
+    "id": "VIy2ZDPUtzE",
+    "title": "Foreigner - I Want to Know What Love Is (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "2j_ai_zYntw",
+    "title": "You Know What",
+    "score": 10
+  },
+  {
+    "id": "tQDEf0pTjhk",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,3352 @@
-[]
+[
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "TYXMYsebS5c",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "מתכון והוראות ללחם שאור ביתי #מחמצת #מתכוןלמחמצת #אפייה",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "אליאל רוטנמר - הכנת לחם מחמצת שאור בבית (מקמח מלא כמובן!!)",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "לחם הכי קל להכין בבית 🍞",
+    "score": 60
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "איך עושים לחם מחמצת מקמח מלא",
+    "score": 60
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "T-446AjBMjg",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "כתב סתרים ממיץ לימון וחלב",
+    "score": 60
+  },
+  {
+    "id": "Udx6mWOTIsc",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "How I Would Learn Python (if I could start over)",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "nt09P1sDVb8",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "10mBKHspeJU",
+    "title": "10 Woodworking joints / Corner wood joining techniques",
+    "score": 50
+  },
+  {
+    "id": "PcfF58syR5c",
+    "title": "Master Woodworking Joints: 30+ Techniques Explained",
+    "score": 50
+  },
+  {
+    "id": "SKDawhnBsj4",
+    "title": "How to Cut a DOVETAIL JOINT with Hand Tools (Quick Version)",
+    "score": 50
+  },
+  {
+    "id": "VtgB2pCC73M",
+    "title": "How to ACTUALLY Start Drawing? (for beginners)",
+    "score": 50
+  },
+  {
+    "id": "UW6H5dAPuhY",
+    "title": "How To Draw Stitch From Lilo And Stitch",
+    "score": 50
+  },
+  {
+    "id": "b2scvHu_tGQ",
+    "title": "How To Draw a Sea Turtle | Sketch Tutorial",
+    "score": 50
+  },
+  {
+    "id": "vrOQDW6yTFI",
+    "title": "How to draw Simple Scenery Art For Beginners",
+    "score": 50
+  },
+  {
+    "id": "PGNrnp-jLQg",
+    "title": "How to Draw Basic Anatomy",
+    "score": 50
+  },
+  {
+    "id": "AmoW_LqwQ40",
+    "title": "HOW TO DRAW A PERSON! (Beginner Friendly Step by Step)",
+    "score": 50
+  },
+  {
+    "id": "JHQ-d0CDQIg",
+    "title": "how to draw hand for beginners ✋",
+    "score": 50
+  },
+  {
+    "id": "JI3P70RE74g",
+    "title": "How To Sketch ANYTHING! | Urban Sketching Objects For Beginners",
+    "score": 50
+  },
+  {
+    "id": "SDQEaJY291A",
+    "title": "How to sketch anything intro",
+    "score": 50
+  },
+  {
+    "id": "tdF0xHv_wuk",
+    "title": "Face Tutorial #drawing #drawingprocess #facetutorial #face #facedrawing #turorial #drawingtutorial",
+    "score": 50
+  },
+  {
+    "id": "DhvOHZ7AFo8",
+    "title": "I'll teach you to draw! How to Draw #1: The Essential First Steps Most Beginners Miss",
+    "score": 50
+  },
+  {
+    "id": "Sg4GMVMdOPo",
+    "title": "Python Basics: The Best Way to Learn Python Programming (2024)",
+    "score": 50
+  },
+  {
+    "id": "GfWRxr1OBm4",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "t8pPdKYpowI",
+    "title": "Course Intro \\u0026 Course Overview",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Python Full Course 2026 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "ITSMDeOgXxw",
+    "title": "Introduction to Python Full Course 2026",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Automate with Python – Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "IfKlGhRc7Dc",
+    "title": "Learn Python in Less than 10 Minutes for Beginners (Fast \\u0026 Easy)",
+    "score": 50
+  },
+  {
+    "id": "q2-pnQffZik",
+    "title": "Python Syllabus | Python for Beginners | Complete Python Course #pythonlearning",
+    "score": 50
+  },
+  {
+    "id": "WCM65ION4nE",
+    "title": "Python in Excel vs. VBA - What You Should Learn in 2024!",
+    "score": 50
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "Man Fully Transforms His Backyard with DIY | Start to Finish by @buildersblueprint",
+    "score": 50
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "How to Minimize Home Repair Costs with Effective Hacks and DIY Inventions 💸",
+    "score": 50
+  },
+  {
+    "id": "QGa3ZfeH1f0",
+    "title": "THIS Is Why I Teach Homeowners How to Renovate!",
+    "score": 50
+  },
+  {
+    "id": "tZ7vUbj1NJU",
+    "title": "GIANT Restoration Project in Arizona",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "Is This Abandoned Water Tower The Best Restoration Project Ever? | Restoration Man | S4 EP10",
+    "score": 50
+  },
+  {
+    "id": "Lxs4cBMY7DQ",
+    "title": "1871 Candy Drop Roller Restoration - Thomas Mills",
+    "score": 50
+  },
+  {
+    "id": "ian6CXeFUYc",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "Toyota Land Cruiser Full Restoration Project | From Abandoned to Legendary",
+    "score": 50
+  },
+  {
+    "id": "FJnQfGeg6fY",
+    "title": "'Safer, healthier, more accessible': $7M Kalamazoo River restoration project completed",
+    "score": 50
+  },
+  {
+    "id": "GMD7N0UEmsQ",
+    "title": "Florida breaks ground on major Everglades restoration project",
+    "score": 50
+  },
+  {
+    "id": "BVNGjDZS008",
+    "title": "Maumee River restoration project now complete",
+    "score": 50
+  },
+  {
+    "id": "J73WmPP9vzE",
+    "title": "🚙 Legendary Toyota Land Cruiser 100 – Epic Car Restoration After Years of Neglect!",
+    "score": 50
+  },
+  {
+    "id": "x7UAQciXzOY",
+    "title": "Louisiana shifts coastal strategy after canceling two major restoration projects",
+    "score": 50
+  },
+  {
+    "id": "IirYQZXmkyY",
+    "title": "1965 Austin-Healey MK III - Car Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "WUxAtk8Q_LE",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "8Y4nk5yElGk",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "TuCk4NDsihE",
+    "title": "Interstellar Secrets of Ancient Civilizations | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "PmnrMVw9ooE",
+    "title": "Caral: The Ancient Civilization That Vanished From History",
+    "score": 50
+  },
+  {
+    "id": "Q3Nf_AMbhN4",
+    "title": "How to Deal With a Disrespectful Wife",
+    "score": 50
+  },
+  {
+    "id": "SlWylhOat34",
+    "title": "I Married Without Love ✅ An Emotional English Story (A1–A2 Level) ✅ Stories to Learn English",
+    "score": 50
+  },
+  {
+    "id": "KBkl3I645c8",
+    "title": "How to Enhance Your Immune System | Dr. Roger Seheult",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How To Use Search Filters In WhatsApp (Updated)",
+    "score": 50
+  },
+  {
+    "id": "ppHZTjKZomI",
+    "title": "How to Use Search Filters",
+    "score": 50
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "bGXbqLCxSpU",
+    "title": "YouTube Effect | New way to find Effects! #effectmaker #filter #effects",
+    "score": 50
+  },
+  {
+    "id": "5RwKXhPS1AU",
+    "title": "How to Develop a Strong Case Theory in Mock Trial",
+    "score": 50
+  },
+  {
+    "id": "F4u7dLocS0U",
+    "title": "Strongest Magnetic iPhone Case? | Testing the Top Strongest MagSafe iPhone Cases (Review)",
+    "score": 50
+  },
+  {
+    "id": "ELUAFpsme2Q",
+    "title": "How To Stop Shooting Low And Left For Righties OR Low and Right for Lefties",
+    "score": 50
+  },
+  {
+    "id": "H0yoI1nL0nk",
+    "title": "ICE Agents Make Arrest in Minneapolis Days After Fatal Shooting",
+    "score": 50
+  },
+  {
+    "id": "oM9ibDO_AlI",
+    "title": "George Washington’s Road to Greatness | Special | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "_c_kHvx7z9I",
+    "title": "How to Defend Yourself Against False Accusations In Court | 5 Tips to Handle False Allegation",
+    "score": 50
+  },
+  {
+    "id": "brf4Rl8pGiU",
+    "title": "How to Defend Yourself in a Street Fight",
+    "score": 50
+  },
+  {
+    "id": "OHJA2irsMc4",
+    "title": "How to Defend against Neck Lock #selfdefence #rajatayyab #selfedefense #kravmaga #fightback",
+    "score": 50
+  },
+  {
+    "id": "PRsdQy99THU",
+    "title": "2 TIPS TO DEFEND LIKE VIRGIL VAN DIJK! #soccer #football #fussball #tutorial #foryou #psg #messi",
+    "score": 50
+  },
+  {
+    "id": "5a6tUu_Nryw",
+    "title": "When Singers STOP Show to Defend Fans 🥺",
+    "score": 50
+  },
+  {
+    "id": "BnB3NJCbigk",
+    "title": "Interested in becoming a Banfield veterinarian? Learn about our interview process.",
+    "score": 50
+  },
+  {
+    "id": "5ZLj5UW1ADU",
+    "title": "Gonzaga History: A Whirlwind Tour",
+    "score": 50
+  },
+  {
+    "id": "lZC9eAVz1PY",
+    "title": "Gonzaga’s Immersive Outdoor Learning",
+    "score": 50
+  },
+  {
+    "id": "M6sOTIkh1sA",
+    "title": "Stories That Make You Go \\\"HUH?!\\\" | Reading Reddit Stories",
+    "score": 50
+  },
+  {
+    "id": "49vKHKOtZww",
+    "title": "How To Diffuse Conflict In Public 🧯",
+    "score": 50
+  },
+  {
+    "id": "NcdXSRGzGy4",
+    "title": "1104 How to Diffuse Tension with Humor  Effective Tips for Disagreements",
+    "score": 50
+  },
+  {
+    "id": "I2uUonN8mhM",
+    "title": "How To Use SLIDE® STD Surface Tension Diffuser For Silicone Rubber",
+    "score": 50
+  },
+  {
+    "id": "uLiKfBCHspg",
+    "title": "FEDERALISM: The Relationship Between STATES and FEDERAL Government [AP Gov Review, Unit 1 Topic 7]",
+    "score": 50
+  },
+  {
+    "id": "fq3wmU2pt-g",
+    "title": "My Parents Won't Accept My Controlling Pastor Husband ᴴᴰ - Dr.Phil Documentary",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ssPg5k4UhVQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "1.Double-end grains joint",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "EXTREME SIMPLE Traditional Japanese Wood Joinery - Hand Cut Three-Way Wood Joints Structure",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "Five Woodworking Joints That Will Amaze You!",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "5 Woodworking Joints For Beginners",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "21 Wood Joinery with Tool Hacks | Japanese Woodworking",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v62jMY6-CqQ",
+    "title": "9 Essential Woodworking Joints - WOOD magazine",
+    "score": 10
+  },
+  {
+    "id": "pWohJHPdD8o",
+    "title": "Screw Joint",
+    "score": 10
+  },
+  {
+    "id": "MOB3DyZp1yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JYpgk69XCdc",
+    "title": "What Pros Know About Butt Joints That Beginners Don't.",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "B1A3aiEHIzk",
+    "title": "Glue and Nails",
+    "score": 10
+  },
+  {
+    "id": "pM16MHq_aEs",
+    "title": "You're being misled about woodworking joinery",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "gyXL9YCg-rU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "dqg03t7B_GU",
+    "title": "Are federal agents immune to state prosecution? JD Vance says so",
+    "score": 10
+  },
+  {
+    "id": "20AW4hI7R3M",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "HLxDp5rZmIs",
+    "title": "JD Vance Says ICE Has Absolute Immunity. \"},{\"text\":\"#news\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKkCENbKAxgJIhMIsKSj3IyTkgMVkjazBR0CRyB2ygEE6EwqeA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/news\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUICgRuZXdzGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CKkCENbKAxgJIhMIsKSj3IyTkgMVkjazBR0CRyB2\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#politics\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKgCENbKAxgLIhMIsKSj3IyTkgMVkjazBR0CRyB2ygEE6EwqeA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/politics\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUMCghwb2xpdGljcxgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CKgCENbKAxgLIhMIsKSj3IyTkgMVkjazBR0CRyB2\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#ice\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKcCENbKAxgNIhMIsKSj3IyTkgMVkjazBR0CRyB2ygEE6EwqeA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/ice\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUHCgNpY2UYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CKcCENbKAxgNIhMIsKSj3IyTkgMVkjazBR0CRyB2\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#minneapolis\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKYCENbKAxgPIhMIsKSj3IyTkgMVkjazBR0CRyB2ygEE6EwqeA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/minneapolis\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgttaW5uZWFwb2xpcxgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CKYCENbKAxgPIhMIsKSj3IyTkgMVkjazBR0CRyB2\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#trump\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKUCENbKAxgRIhMIsKSj3IyTkgMVkjazBR0CRyB2ygEE6EwqeA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/trump\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUJCgV0cnVtcBgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CKUCENbKAxgRIhMIsKSj3IyTkgMVkjazBR0CRyB2\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"4,293 views\"},\"shortViewCount\":{\"simpleText\":\"4.2K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "_g4vy7H8bdo",
+    "title": "Head",
+    "score": 10
+  },
+  {
+    "id": "UOC8ISSbFx0",
+    "title": "Let's Begin!",
+    "score": 10
+  },
+  {
+    "id": "qqva-bcEnHA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XAQ6K3DbEt4",
+    "title": "Intro and Goals",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PXMJ6FS7llk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8DvywoWv6fI",
+    "title": "Computers want to be helpful...",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DMw8jH0R6Fg",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UE40IoLEPKk",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "mmXkY5v-yMY",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "Y7Iyuhwz1f4",
+    "title": "🔧 Handyman Hacks for DIY Home Repairs | Fix Anything Like a Pro",
+    "score": 10
+  },
+  {
+    "id": "PTzkSCnC5Ck",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "mHrK98mpYeo",
+    "title": "Easy DIY Drywall Repair #diy #drywall #home",
+    "score": 10
+  },
+  {
+    "id": "lOiAPkUXk-Q",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "Top 10 Home Improvement Hacks You Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "dEPXeBn79Bk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "This $1 Fix Saves Thousands in Water Damage",
+    "score": 10
+  },
+  {
+    "id": "HOsddz2Ubd4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "G6fFtjPZrQY",
+    "title": "JD Vance Says ICE Agent Who Killed Renee Good Has Absolute Immunity 1/8 \"},{\"text\":\"#breakingnews\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKICENbKAxgJIhMI-ZKe3IyTkgMVwuxTCh18JgxlygEEyKzXuQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/breakingnews\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUQCgxicmVha2luZ25ld3MYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CKICENbKAxgJIhMI-ZKe3IyTkgMVwuxTCh18Jgxl\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#jdvance\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKECENbKAxgLIhMI-ZKe3IyTkgMVwuxTCh18JgxlygEEyKzXuQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/jdvance\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gULCgdqZHZhbmNlGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CKECENbKAxgLIhMI-ZKe3IyTkgMVwuxTCh18Jgxl\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#ice\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKACENbKAxgNIhMI-ZKe3IyTkgMVwuxTCh18JgxlygEEyKzXuQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/ice\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUHCgNpY2UYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CKACENbKAxgNIhMI-ZKe3IyTkgMVwuxTCh18Jgxl\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"12,446 views\"},\"shortViewCount\":{\"simpleText\":\"12K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "qEbBiO7Z7D8",
+    "title": "SCOTTY DUNTON OWNER/OPERATOR OF OUNTON RANCH",
+    "score": 10
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "I bought an ABANDONED Workshop - 1 Year Transformation *Timelapse*",
+    "score": 10
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "We're restoring a dying coral reef - here's how",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5TXYl9-lnv4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-CQatuQdQv4",
+    "title": "The end of World War I",
+    "score": 10
+  },
+  {
+    "id": "TGPYXF7y9o0",
+    "title": "JD Vance Says Ice Has Full Immunity",
+    "score": 10
+  },
+  {
+    "id": "J8lju2oC9xE",
+    "title": "Ancient Clues Suggest We’re NOT The First Civilization!",
+    "score": 10
+  },
+  {
+    "id": "EC38TZNXxAY",
+    "title": "3+ Hours Of Lost Civilizations And Ancient Megapolis Facts",
+    "score": 10
+  },
+  {
+    "id": "CAsKpXoxZAQ",
+    "title": "18. Egypt - Fall of the Pharaohs",
+    "score": 10
+  },
+  {
+    "id": "YpKej05RgsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PSBwp63FUhc",
+    "title": "The Anunnaki and Human Origins",
+    "score": 10
+  },
+  {
+    "id": "pecTi4mE3zM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d2lJUOv0hLA",
+    "title": "The Sumerians",
+    "score": 10
+  },
+  {
+    "id": "Wk4yqLEQTSM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8Lvh5aJBfvw",
+    "title": "The Supreme Court Said What? | Former U.S. Attorney Joyce Vance",
+    "score": 10
+  },
+  {
+    "id": "WByiMWEIx3U",
+    "title": "Los Angeles Police Commission grilled about fatal ICE officer-involved shooting of California man ",
+    "score": 10
+  },
+  {
+    "id": "mIohaInytiw",
+    "title": "Ex-boxing champion Anthony Joshua injured in fatal car crash",
+    "score": 10
+  },
+  {
+    "id": "wjjVt1RrfI4",
+    "title": "Teens involved in high-speed fatal crash that leaves 1 man dead, deputies say",
+    "score": 10
+  },
+  {
+    "id": "L0kysrVybaY",
+    "title": "Video shows fatal ICE-involved shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "_rU1_3V5q2o",
+    "title": "Minnesota Gov. Tim Walz address the fatal ICE-involved shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "Xn5pDImiU_A",
+    "title": "Military vehicle involved in fatal crash on I-65 in Boone County",
+    "score": 10
+  },
+  {
+    "id": "ClINybw7W8I",
+    "title": "APD releases new details on fatal officer-involved shooting",
+    "score": 10
+  },
+  {
+    "id": "l1dKjk9Vtsc",
+    "title": "Candlelight service held for children involved in deadly car crash near Lake Murray",
+    "score": 10
+  },
+  {
+    "id": "ricZAN4yErs",
+    "title": "Boxer Anthony Joshua stable after fatal car crash",
+    "score": 10
+  },
+  {
+    "id": "uIwINZQTiuA",
+    "title": "TBI investigates officer-involved fatal shooting at state park",
+    "score": 10
+  },
+  {
+    "id": "FoF9g50lWRk",
+    "title": "Videos show fatal ICE shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "mNnVbXPCEDU",
+    "title": "Investigators tight-lipped over PPB-involved fatal shooting",
+    "score": 10
+  },
+  {
+    "id": "vWgE3_ZS6C0",
+    "title": "Police-Involved Fatal Crash",
+    "score": 10
+  },
+  {
+    "id": "rAS4YP0whT8",
+    "title": "BREAKING: New video shows ICE officer's perspective of MN shooting",
+    "score": 10
+  },
+  {
+    "id": "Bz04gFH2l6c",
+    "title": "Cops Break Down Minneapolis ICE Shooting (Media Missed This)",
+    "score": 10
+  },
+  {
+    "id": "SnqeE__Hdxs",
+    "title": "Metro Nashville police release more details on car involved fatal New Year’s Eve hit-and-run",
+    "score": 10
+  },
+  {
+    "id": "pjRwb9Kvo7Q",
+    "title": "ICE officer involved in deadly Minneapolis shooting identified as Jonathan Ross",
+    "score": 10
+  },
+  {
+    "id": "3H04dwcMf7M",
+    "title": "Fatal Crash Involving Police Vehicles Caught On Video",
+    "score": 10
+  },
+  {
+    "id": "Oy33dD1nzgc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ODttuDU4b10",
+    "title": "Commissioner Bob Jacobson to provide a public safety briefing",
+    "score": 10
+  },
+  {
+    "id": "5TiTpT-9SfQ",
+    "title": "Are You Talking About These 4 Things in Safety Meetings?",
+    "score": 10
+  },
+  {
+    "id": "15V_dWvWpe0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-b69-1qn6p4",
+    "title": "How the Seatbelt Works and How the Door",
+    "score": 10
+  },
+  {
+    "id": "XIji8rfjoFc",
+    "title": "Critical Information: The Passenger Safety Briefing",
+    "score": 10
+  },
+  {
+    "id": "C86am84XMVM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UN5D5OaFRjQ",
+    "title": "Old School Safety Brief: Remember These Classic Safety Talks?",
+    "score": 10
+  },
+  {
+    "id": "FV55I0nYc8s",
+    "title": "Weekend Safety Brief",
+    "score": 10
+  },
+  {
+    "id": "vz8UGWqoxSM",
+    "title": "Flight Attendant RAPPING the Safety Briefing! South West Airlines!",
+    "score": 10
+  },
+  {
+    "id": "DYA_ivyj3kE",
+    "title": "Safety Brief Gets Silly || ViralHog",
+    "score": 10
+  },
+  {
+    "id": "dGUhbmkC7Ck",
+    "title": "Weekend Safety Brief!",
+    "score": 10
+  },
+  {
+    "id": "NJm99p52yFs",
+    "title": "Old School Vietnam Era Safety Brief",
+    "score": 10
+  },
+  {
+    "id": "KdqtSaUN4fE",
+    "title": "Range Safety Brief",
+    "score": 10
+  },
+  {
+    "id": "vZAER0II1M0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cBlRbrB_Gnc",
+    "title": "tighten by pulling the elastics on both sides",
+    "score": 10
+  },
+  {
+    "id": "pH2ugt-lK7k",
+    "title": "Aircraft Safety Briefing for Medical Personnel, 135.621",
+    "score": 10
+  },
+  {
+    "id": "6YCN1WAL4OY",
+    "title": "Minnesota officials hold public safety briefing ahead of expected weekend protests",
+    "score": 10
+  },
+  {
+    "id": "6rq74RYxjIc",
+    "title": "Health \\u0026 Safety Briefing for Plant Visitors",
+    "score": 10
+  },
+  {
+    "id": "gIfIHvh8Lqw",
+    "title": "Example of Safety Briefing Video | Sime Darby Plantation",
+    "score": 10
+  },
+  {
+    "id": "s19X-qHI0TQ",
+    "title": "Military Safety Briefing #2 - Stay safe out there!",
+    "score": 10
+  },
+  {
+    "id": "nvjRrwRz7OM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wfRgziY6n20",
+    "title": "Vinnie Vincent - The Unreleased 3rd Album",
+    "score": 10
+  },
+  {
+    "id": "UJSxlgxA7TI",
+    "title": "John Vincent III - Untitled #2 (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "wtj2lujrFGY",
+    "title": "Deep Dive: Caneiro Murders Evidence | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "hBZAHOGw028",
+    "title": "Should Alex Murdaugh Get a New Trial? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "vkPMwOk5D4U",
+    "title": "[Blender] FNAC3: Monster Vinnie in a Nutshell",
+    "score": 10
+  },
+  {
+    "id": "I54pyb5YyJA",
+    "title": "The Godfather: Part III (1990) - Vincent Mancini | Sonny's Son",
+    "score": 10
+  },
+  {
+    "id": "jGjOuHhwMFY",
+    "title": "Vinnie Vincent Had It All—Then Lit It on Fire",
+    "score": 10
+  },
+  {
+    "id": "mlf7mtrvKPs",
+    "title": "NK SATURDAY RUNDOWN",
+    "score": 10
+  },
+  {
+    "id": "6SO-l8I4QD8",
+    "title": "Meghan Markle Marriage Split Hell As Homesick Harry Quits USA | What Just Happened? Kevin O'Sullivan",
+    "score": 10
+  },
+  {
+    "id": "N92fWnrO7fU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "szn9n9MiRMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I4scqMKmt9E",
+    "title": "New Witness in Brianna Aguilera’s Death | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "g6kwx-fjkYE",
+    "title": "Kyo Itachi \\u0026 Ruste Juxx - Three The Squad Way (feat. Vinnie Paz \\u0026 Rock)",
+    "score": 10
+  },
+  {
+    "id": "oyIx5EfT0c8",
+    "title": "VInnie Paul Use my Third Arm",
+    "score": 10
+  },
+  {
+    "id": "jIRcAmVjYAg",
+    "title": "The Case Against Paul Caneiro | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "z3XSmPzOYnU",
+    "title": "John Vincent III - Never, No Not Once (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "mwqb902FKi8",
+    "title": "Five Nights at Candy's 3 | Monster Vinnie SFX",
+    "score": 10
+  },
+  {
+    "id": "sbzw4m-RyIk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "J4L5q_82wsI",
+    "title": "Last November",
+    "score": 10
+  },
+  {
+    "id": "ug4HFHbuB8o",
+    "title": "MY WIFE WANTS A DIVORCE! - David Goggins Advice",
+    "score": 10
+  },
+  {
+    "id": "vvd6rHdJD40",
+    "title": "He couldn't beat his wife in business | New Life Begins 卿卿日常 |",
+    "score": 10
+  },
+  {
+    "id": "m1pRSpTlIsI",
+    "title": "💐【Eng Dub】His Wife Chose Her Secretary OVER Him... His Comeback SHOCKED Everyone!​  #romancedrama",
+    "score": 10
+  },
+  {
+    "id": "12U1XCGvcGE",
+    "title": "My Wife and I Begin Our 100 Day Journey In LOST COLONY | Ark Survival Ascended [7/9]",
+    "score": 10
+  },
+  {
+    "id": "tr8DCSDbg4U",
+    "title": "So I Started a World with my Wife...",
+    "score": 10
+  },
+  {
+    "id": "dkc6AKIGXzQ",
+    "title": "Wife just gave birth, finds husband cheating—she chooses divorce, he regrets it!【Eng Dub】",
+    "score": 10
+  },
+  {
+    "id": "ZQ58lwbGLQc",
+    "title": "He Brought Mistress To Party,Unaware Poor Cleaner Wife Show In Gorgeous Red Dress!Even CEO Love Her!",
+    "score": 10
+  },
+  {
+    "id": "FGPMINJOPQg",
+    "title": "Exploring Iran's Nomadic Lifestyle: Milking Cows And Making Butter On The Grasslands",
+    "score": 10
+  },
+  {
+    "id": "3tKX9N9TxOI",
+    "title": "Husband Brought His Mistress Home, But Wife Calmly Transferred Assets And Left Him With Nothing!",
+    "score": 10
+  },
+  {
+    "id": "TmiMme4VQkY",
+    "title": "We Have Something To Share! Big Changes Coming!",
+    "score": 10
+  },
+  {
+    "id": "py3lTbilq60",
+    "title": "Machado \\\"Presents\\\" Her Nobel Peace Prize to Trump | Vantage with Palki Sharma | N18G",
+    "score": 10
+  },
+  {
+    "id": "R57FkeKTz6o",
+    "title": "😳 Suspicious Wife Comedy | Secret Camera in Bedroom | Sarath \\u0026 Nisha Funny Video #sarathnalla",
+    "score": 10
+  },
+  {
+    "id": "xF3xTG03BmY",
+    "title": "Tonight We're Hosting Our First Swingers' Party | LOVE DON'T JUDGE",
+    "score": 10
+  },
+  {
+    "id": "EsvdGJ3hLA4",
+    "title": "*\\\"Salahuddin's Return Home: Stories from the Doctor's Office\\\"*",
+    "score": 10
+  },
+  {
+    "id": "37JQ3OT0VfQ",
+    "title": "జయ శంకర్ ఒక్క ఫోన్ కాల్ అమెరికాను కుదిపేసింది..! Jaishankar One Phone Call Shakes White House!",
+    "score": 10
+  },
+  {
+    "id": "1Ph_1SMzTSA",
+    "title": "💗CEO Pretends to Be Coma to Test Newlywed Wife,Unexpect She Exposes Him With Cold Water!Love Begins!",
+    "score": 10
+  },
+  {
+    "id": "UpwoNu38Mbc",
+    "title": "🔥After Divorce, My Ex-Wife Became a Billionaire FULL EPISODES | ReelShort",
+    "score": 10
+  },
+  {
+    "id": "uj3c2sNXjpk",
+    "title": "Second Wife in Trouble! Zahra's Revenge Begins | Nomadic Lifestyle",
+    "score": 10
+  },
+  {
+    "id": "I09QNXKMhak",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "RH-dmx9yZQA",
+    "title": "🌹For his mistress, husband slapped his wife 100 times—divorced, she married a CEO, he regretted it!",
+    "score": 10
+  },
+  {
+    "id": "Q9SaVVZZ-VA",
+    "title": "CEO shamed pregnant wife for first love.Unexpectedly, She vanished.He scours the globe: \\\"Come back!\\\"",
+    "score": 10
+  },
+  {
+    "id": "2rsjsL06WCs",
+    "title": "What To Do If You HATE Your Wife",
+    "score": 10
+  },
+  {
+    "id": "_bQeffFWcXE",
+    "title": "NATHAN GROUNDS MARRIAGE HELPER COACH",
+    "score": 10
+  },
+  {
+    "id": "zIwfrxp69wg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oPjqLBUuRkw",
+    "title": "The Lord's Wife Awakens! Her Toddler's Thoughts Unveil All Schemes—Revenge Begins Now! #chinesedrama",
+    "score": 10
+  },
+  {
+    "id": "ytlfGz0156c",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fmWYk80ti-A",
+    "title": "Criminal Lawyer Reacts To ICE BODYCAM In Minneapolis. #minneapolis #ice",
+    "score": 10
+  },
+  {
+    "id": "G6qZQExXol8",
+    "title": "Joy Behar reacts to an ICE agent fatally shooting an American citizen and mom in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "geFGVbcXCK4",
+    "title": "Jesse Ventura reacts to Minneapolis ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "cnF-DFTcpo8",
+    "title": "Former police commissioner reacts to fatal Minneapolis ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "DLuoC-LBgA8",
+    "title": "Criminal Lawyer Reacts To The ICE Takeover of Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "iMBHF5pgQe8",
+    "title": "FULL NEWS CONFERENCE: Minneapolis officials react to fatal ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "ZLVd4gT5xx8",
+    "title": "Megyn Kelly Reacts to Democrats and Reporters Saying the ICE Agent \\\"Murdered\\\" Woman in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "j4gfk6Wtj1Y",
+    "title": "Joe Rogan Reacts to ICE Shooting Women in Minneapolis \\\"Crazy\\\"",
+    "score": 10
+  },
+  {
+    "id": "392AcTEhb0c",
+    "title": "Criminal Lawyer Reacts to Minneapolis ICE Murder",
+    "score": 10
+  },
+  {
+    "id": "sfNwGNnN79I",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "eupf0D7TyXE",
+    "title": "ICE: The American Gestapo | The Coffee Klatch with Robert Reich",
+    "score": 10
+  },
+  {
+    "id": "udSUbBhA8I0",
+    "title": "Minneapolis Police Chief Responds To DHS Claims Fed Agent Was Attacked With Shovel Before Shooting",
+    "score": 10
+  },
+  {
+    "id": "Hd_unRiloy8",
+    "title": "Trump accidentally confesses why he is antagonizing Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "nizJSqC3Ta4",
+    "title": "Minneapolis ICE Shooting! | Self-Defense Attorneys Break It Down",
+    "score": 10
+  },
+  {
+    "id": "dEff0mEcAUw",
+    "title": "Rachel Maddow on Trump Being Extremely Unpopular, ICE Shooting in Minneapolis \\u0026 Peaceful Protests",
+    "score": 10
+  },
+  {
+    "id": "xHP-1U81jy8",
+    "title": "‘This is my community’: Sen. Tina Smith reacts to Minneapolis ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "-_NsG_JWKiA",
+    "title": "Minneapolis residents react to ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "B9C76EHFHso",
+    "title": "Megyn Kelly Reacts to Minneapolis Mayor Jacob Frey Making it Clear He Blames ICE For the Shooting",
+    "score": 10
+  },
+  {
+    "id": "-CEDnQbW0pU",
+    "title": "Minneapolis Council Member reacts after protesters clash with ICE agents",
+    "score": 10
+  },
+  {
+    "id": "edcgVdZykCE",
+    "title": "Republicans, Democrats react to ICE fatal shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "byDskx5-Axc",
+    "title": "'ICE, get the f**k out of Minneapolis': Mayor reacts to shooting",
+    "score": 10
+  },
+  {
+    "id": "PR7QdBw8G3g",
+    "title": "Mayor addresses ICE",
+    "score": 10
+  },
+  {
+    "id": "UGTYRASzz1w",
+    "title": "\\\"A Cold-Blooded Murder\\\" - Chris Hayes Reacts To Video Of The Deadly ICE Shooting In Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "hFjSldeSOqQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JScYRTaNMuc",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "IYlrs-Ab0_k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eczLJywiHm4",
+    "title": "Search Filter in React JS - Filter Through Results",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Power Apps Search and Filter Functions on Large SharePoint Lists",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "14XEQKxDZEs",
+    "title": "Excel tip advanced filter unique values",
+    "score": 10
+  },
+  {
+    "id": "yRZVEWkYsac",
+    "title": "Use YouTube Search filter || Sort by, Type, Upload date, Duration, And Features in Youtube ||",
+    "score": 10
+  },
+  {
+    "id": "zf4aMlFgd6I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "T8uDdixEo2c",
+    "title": "JD Vance Secret Service Agent REVEALS Secrets To Undercover Journalist!",
+    "score": 10
+  },
+  {
+    "id": "bb0ujtxPOrA",
+    "title": "Vice President JD Vance defends ICE agent, cites past attack: “33 stitches in the leg”",
+    "score": 10
+  },
+  {
+    "id": "EWNAiryV0g8",
+    "title": "Woke Secret Service Agent CAUGHT on Hidden Camera Revealing JD Vance Secret Info",
+    "score": 10
+  },
+  {
+    "id": "9nzzqRDCoE8",
+    "title": "JD Vance Defends ICE Agent Who Shot Minneapolis Woman",
+    "score": 10
+  },
+  {
+    "id": "swKp3BEZQOY",
+    "title": "What is \\\"absolute immunity,\\\" after JD Vance defended ICE agent involved in Minneapolis death?",
+    "score": 10
+  },
+  {
+    "id": "rGjxHgmBtGI",
+    "title": "JD Vance says ICE agent in Minneapolis shooting has 'absolute immunity'",
+    "score": 10
+  },
+  {
+    "id": "w-bNI1eUBts",
+    "title": "Vance: ICE Agent in Shooting Has 'Absolute Immunity'",
+    "score": 10
+  },
+  {
+    "id": "UpQa80G9qa0",
+    "title": "JD Vance and Kristi Noem Doxxed the Ice Agent #duet #ice #kristinoem #jdvance #murder #minneapolis",
+    "score": 10
+  },
+  {
+    "id": "3JGCZNlv-t0",
+    "title": "JD Vance defends ICE agent who shot, killed woman in Minneapolis: 'We stand with ICE'",
+    "score": 10
+  },
+  {
+    "id": "S40uhX_bS5w",
+    "title": "'I Stand With ICE' Says JD Vance After Woman Shot Dead By Agents In Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "iQWKGdvnur8",
+    "title": "JD Vance's Secret Service agent leaks sensitive info",
+    "score": 10
+  },
+  {
+    "id": "byVr5Bt_svM",
+    "title": "Vance says ICE agent involved in Minneapolis shooting will have 'absolute immunity'",
+    "score": 10
+  },
+  {
+    "id": "2M7qyKthseQ",
+    "title": "JD Vance Says ICE Agent Involved In Fatal Minneapolis Shooting Has \\\"Absolute Immunity\\\" | US News",
+    "score": 10
+  },
+  {
+    "id": "-c0xTz1vcVE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NKsJP1Mr1ts",
+    "title": "Bulletproof phone case!! 💀",
+    "score": 10
+  },
+  {
+    "id": "e9uAkHXZqxc",
+    "title": "Lead",
+    "score": 10
+  },
+  {
+    "id": "qU5RULAvVP4",
+    "title": "Rufus Carswell The Federal Government Has An Extremely Strong Case",
+    "score": 10
+  },
+  {
+    "id": "IW4CUf91xcs",
+    "title": "Most Rugged iPhone MagSafe Case? | Which is the Most Protective Case to Get?",
+    "score": 10
+  },
+  {
+    "id": "raslJsMuj78",
+    "title": "Lead",
+    "score": 10
+  },
+  {
+    "id": "iC0e7DQbt9E",
+    "title": "A Very Strong Case Why MAGA Voters Are Stupid",
+    "score": 10
+  },
+  {
+    "id": "KrU6F-S8VMo",
+    "title": "STRONGEST iPhone case ever😳#iphone",
+    "score": 10
+  },
+  {
+    "id": "HPNIQCbBLWo",
+    "title": "DON'T buy a $4 iPhone case until you watch this🤔",
+    "score": 10
+  },
+  {
+    "id": "ijvNtlEa9u4",
+    "title": "ESR Tough vs Otterbox Defender Pro iPhone 16 Pro Max",
+    "score": 10
+  },
+  {
+    "id": "5-qeu3vnbPc",
+    "title": "TORRAS Strong \\u0026 Magnetic Seamless Stand Case - Apple iPhone 17 Pro Max",
+    "score": 10
+  },
+  {
+    "id": "OaMQjw530Qo",
+    "title": "Griffin Survivor STRONG Case | iPhone 11 Pro Max",
+    "score": 10
+  },
+  {
+    "id": "qxc1yplqZ4k",
+    "title": "Durable Rubber Bumper",
+    "score": 10
+  },
+  {
+    "id": "sO1nQJNK-7g",
+    "title": "Nice Little Raises on the Back",
+    "score": 10
+  },
+  {
+    "id": "sa6eFjWVRyI",
+    "title": "Seasonal Vs Supermarket: A Strong Case for Fermented Foods with Chef Sam Cooper",
+    "score": 10
+  },
+  {
+    "id": "hKecUkw3k04",
+    "title": "BEST iPhone 16 case ever🤔",
+    "score": 10
+  },
+  {
+    "id": "0K97V31fbjw",
+    "title": "I Tested 27 Different iPhone 16 Cases - Here Are My Top Picks",
+    "score": 10
+  },
+  {
+    "id": "zD5E_IQlCyo",
+    "title": "Why iPhone 16 Cases Suck",
+    "score": 10
+  },
+  {
+    "id": "_lktPyunj5Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1wbroSpXkCk",
+    "title": "Shocking Arrest: Surgeon Ex-Husband Charged in Brutal Ohio Dentist Murders | Spencer \\u0026 Monique Tepe",
+    "score": 10
+  },
+  {
+    "id": "w9BDPodlqt8",
+    "title": "Melissa Gilbert Breaks Silence After Husband’s Shocking Arrest",
+    "score": 10
+  },
+  {
+    "id": "HIjQz1RbEBU",
+    "title": "Dr. Phil - S6 E52: A Husband's Shocking Confession (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "ys1VJkg-qzs",
+    "title": "Dr. Phil - S6 E53: A Husband's Shocking Confession (Part 3)",
+    "score": 10
+  },
+  {
+    "id": "hdnJ4klA-o8",
+    "title": "Dr. Phil - S6 E51: A Husband's Shocking Confession (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "ntu15q1urfQ",
+    "title": "PSYCHO Husband PUNCHES BRIDE After Their Wedding, What Happens Next Is Shocking.",
+    "score": 10
+  },
+  {
+    "id": "63i_nABC9vs",
+    "title": "7 Shocking Details from Murdered Ohio Wife’s Divorce with ‘Killer’ Ex-Husband",
+    "score": 10
+  },
+  {
+    "id": "4SB4XRU91Cw",
+    "title": "Husband's Bizarre Text Leads Detectives to a Shocking Discovery:The Murder of Katie McLean|Crime Doc",
+    "score": 10
+  },
+  {
+    "id": "VamS-Q-BUFM",
+    "title": "Dr  Phil  Shocking Accusations  Abused Wife or Abused Husband July 31, 2014",
+    "score": 10
+  },
+  {
+    "id": "dGFNg-wv0vk",
+    "title": "The Moment She Discovered Her Husband's Horrifying Secret",
+    "score": 10
+  },
+  {
+    "id": "EzM-_2RujNM",
+    "title": "I'm 73... Never Get a Boyfriend After 60. Here's Why",
+    "score": 10
+  },
+  {
+    "id": "Iq8ugABBWsM",
+    "title": "She Won $80M And Rushed To Her Husband’s Office With Their Son — Strange Noises Stopped Her Cold…",
+    "score": 10
+  },
+  {
+    "id": "ayXOdDnO970",
+    "title": "When A Killer Wife Realizes Everything Was Recorded",
+    "score": 10
+  },
+  {
+    "id": "dc1f9YCHudg",
+    "title": "Jealous Wife Kills Her Husband For Talking To Another Woman",
+    "score": 10
+  },
+  {
+    "id": "YPdPs1vleiM",
+    "title": "Dr Phil Season 2026 💥💥💥Questionable Law💥💥💥 Dr Phil Full Episode",
+    "score": 10
+  },
+  {
+    "id": "UGpqaZfk_HY",
+    "title": "The chilling story of a manipulated son: PSYCHOLOGICAL CONTROL - A Murderer Under My Roof",
+    "score": 10
+  },
+  {
+    "id": "_4jAv2kS-1I",
+    "title": "Michael McKee's EX GF After Monique Tepe speaks out. Proof that he used a silencer. Official charges",
+    "score": 10
+  },
+  {
+    "id": "uvCugyr1Wj8",
+    "title": "TEPE MURDERS Introverted Doctor Triggered by \\\"False Alarm\\\" Divorce Summons?",
+    "score": 10
+  },
+  {
+    "id": "TWeMfY2QeMw",
+    "title": "Dying Boyfriend’s Last Words Expose His Evil Girlfriend",
+    "score": 10
+  },
+  {
+    "id": "ChkeOtf-u-w",
+    "title": "🍃【Eng Dub】 Ex-Husband's SHOCKING Secret!  #drama",
+    "score": 10
+  },
+  {
+    "id": "8rZ3TVnGIGI",
+    "title": "He Was Shocked To See His Ex-Wife He Abused \\u0026 Divorced Happily Married To A Kind Billionaire",
+    "score": 10
+  },
+  {
+    "id": "5eWAHQbd2Xk",
+    "title": "MY HUSBAND’S SHOCKING SECRET.",
+    "score": 10
+  },
+  {
+    "id": "LZE-uubFoMg",
+    "title": "Husband Shocked Her With TOO Much Money! #aijokes #jokes #EnglishComedy",
+    "score": 10
+  },
+  {
+    "id": "kHUp1C2uuGg",
+    "title": "Wife SPIES On HUSBAND, What Happens Is Shocking | Dhar Mann",
+    "score": 10
+  },
+  {
+    "id": "FxRBcZwNe4M",
+    "title": "Wife SPIES On HUSBAND",
+    "score": 10
+  },
+  {
+    "id": "uZxaCrl8Nvc",
+    "title": "5 Impala Road, Kelvin View, Sandton Johannesburg",
+    "score": 10
+  },
+  {
+    "id": "Gu1ZcZDXtKI",
+    "title": "The Shocking Return of My Ex-husband After 2 Years – Making Kimbap and Selling at the Market | Ep 2",
+    "score": 10
+  },
+  {
+    "id": "LWjgkGcWOCM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EcZD6SXSQLQ",
+    "title": "Protests erupt in Minneapolis after ICE officer shoots man days after Renee Good killing",
+    "score": 10
+  },
+  {
+    "id": "8BnVdd3kCsc",
+    "title": "BREAKING: New video shows ICE officer's perspective of MN shooting",
+    "score": 10
+  },
+  {
+    "id": "TKIrkkHeQu4",
+    "title": "U.S. citizen says Minneapolis ICE agent rammed into his car",
+    "score": 10
+  },
+  {
+    "id": "F9Pksvidw9s",
+    "title": "ICE agent fatally shoots woman in Minneapolis, claims she was \\\"attempting to run over\\\" officer",
+    "score": 10
+  },
+  {
+    "id": "PwXrfbalTFA",
+    "title": "Cellphone Video From ICE Officer Shows Minneapolis Shooting",
+    "score": 10
+  },
+  {
+    "id": "x1gdbGhOdLQ",
+    "title": "New video shows several federal agent vehicles in street before fatal shooting",
+    "score": 10
+  },
+  {
+    "id": "ftZCukT_X8o",
+    "title": "Bodycam footage released showing last moments of woman killed by ICE officer in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "iwGXHvWcLs4",
+    "title": "Videos Contradict Trump Administration Account of ICE Shooting in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "CQCvNExBDjE",
+    "title": "Shocking New Evidence in the Homicide of Renee Good!",
+    "score": 10
+  },
+  {
+    "id": "ZEiw1rMjZsc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Mp7psfEayHE",
+    "title": "FRONT ANGLE VIDEO of ICE shooting in Minneapolis  [WARNING GRAPHIC]",
+    "score": 10
+  },
+  {
+    "id": "ZrUMVtrCK_Y",
+    "title": "National Guard mobilized amid Minneapolis clashes",
+    "score": 10
+  },
+  {
+    "id": "tZn8IevE3_U",
+    "title": "‘The longest 11 days’: MN activist slams ‘chaotic, out of control’ ICE operations in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "QEcVkTi6RDY",
+    "title": "Washington Week with The Atlantic full episode, Jan. 2, 2026",
+    "score": 10
+  },
+  {
+    "id": "80dD3lwcPPM",
+    "title": "New video shows several federal agent vehicles in street before fatal shooting",
+    "score": 10
+  },
+  {
+    "id": "gCraIlM8OHo",
+    "title": "DHS releases new video of Minneapolis ICE shooting",
+    "score": 10
+  },
+  {
+    "id": "SN_JiIAixzk",
+    "title": "Video taken by ICE agent shows new angle of fatal shooting of Renee Nicole Good in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "bkOjILx3dO0",
+    "title": "VIDEO: Minneapolis ICE shooting footage causing controversy",
+    "score": 10
+  },
+  {
+    "id": "WT967vCbZZk",
+    "title": "Officer who shot woman in Minneapolis was dragged by a vehicle during June immigration arrest",
+    "score": 10
+  },
+  {
+    "id": "vzC_F12yAIE",
+    "title": "ICE officer in Minneapolis shooting identified as Jonathan Ross",
+    "score": 10
+  },
+  {
+    "id": "tYLQLTptRdE",
+    "title": "One person injured in shooting by federal agent in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "EXLciMCpwoU",
+    "title": "Newly released video shows Minneapolis shooting from ICE agent's perspective",
+    "score": 10
+  },
+  {
+    "id": "UAV9ZTzBCAU",
+    "title": "BREAKING: Cellphone video released in deadly Minneapolis ICE agent shooting",
+    "score": 10
+  },
+  {
+    "id": "WVMBDUcLXQI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JL1fNIqqGV0",
+    "title": "BREAKING NEWS: Minnesota Public Safety Commissioner Holds Briefing Ahead Of Anti-ICE Protests",
+    "score": 10
+  },
+  {
+    "id": "68wFpO8oeM4",
+    "title": "Love Trial (English Cover)【JubyPhonic】恋愛裁判",
+    "score": 10
+  },
+  {
+    "id": "TXzfQ0cP1P0",
+    "title": "【Ado】恋愛裁判 歌いました",
+    "score": 10
+  },
+  {
+    "id": "iHIrEqU5cwM",
+    "title": "love trial // drv3 oumasai",
+    "score": 10
+  },
+  {
+    "id": "mf4vm2bHYk4",
+    "title": "TRIAL OF LOVE - AKROBETO, MERCY ASIEDU, PANTAN, ATTO, NANA AGYEI, VIRUS. 2025 GHANAIAN MOVIES",
+    "score": 10
+  },
+  {
+    "id": "f37Ad6hTY88",
+    "title": "恋愛裁判 / MORE MORE JUMP！ × 初音ミク",
+    "score": 10
+  },
+  {
+    "id": "mqrp4SfMJwk",
+    "title": "Love Trial - Inugami Korone ver.",
+    "score": 10
+  },
+  {
+    "id": "G49bAinM6Lc",
+    "title": "[NARUMITSU] Love trial PMV",
+    "score": 10
+  },
+  {
+    "id": "VUfz5vMwYow",
+    "title": "Love Trial (English Cover)【Will Stetson】恋愛裁判",
+    "score": 10
+  },
+  {
+    "id": "sWGedA6OoRA",
+    "title": "Ren’ai Saiban (Love Trial) / MORE MORE JUMP! x Hatsune Miku / Color Coded Lyrics [KAN/ROM/ENG]",
+    "score": 10
+  },
+  {
+    "id": "8wFtCp22sRw",
+    "title": "「4K 60 fps」 Love Trial （恋愛裁判） / 40meterP | Project DIVA Arcade Future Tone",
+    "score": 10
+  },
+  {
+    "id": "43K4heQktIo",
+    "title": "Love trial // 恋愛裁判 - Natsuri ver. 『DDLC』",
+    "score": 10
+  },
+  {
+    "id": "7JHJaUIBqqU",
+    "title": "연애재판(恋愛裁判) (커버송,Cover) Korean.ver [PrettyHerb 쁘띠허브]",
+    "score": 10
+  },
+  {
+    "id": "Q1ij_e9BLs4",
+    "title": "Turnabout Narumitsu (Objection.lol)",
+    "score": 10
+  },
+  {
+    "id": "BWJqEE1fQvM",
+    "title": "악의 하인 (悪の召使) (커버송,Cover) Korean.ver  [PrettyHerb 쁘띠허브]",
+    "score": 10
+  },
+  {
+    "id": "DB4YUI_QqUU",
+    "title": "【伊東歌詞太郎】恋愛裁判【歌ってみた】",
+    "score": 10
+  },
+  {
+    "id": "T5Fw8zVq9b8",
+    "title": "Is Klavier Gay or Straight?!",
+    "score": 10
+  },
+  {
+    "id": "DviW4rxgMwk",
+    "title": "【爽快に】恋愛裁判 歌ってみた ver.Sou",
+    "score": 10
+  },
+  {
+    "id": "64DmImY6tZA",
+    "title": "AFTER HIS DEATH- AKROBETO, VIVIAN JILL, AGYA ADU, EFO, PANTAN, KENYA, ABREWA MAFIA.",
+    "score": 10
+  },
+  {
+    "id": "ZgMZNynQDKo",
+    "title": "【MV】 からくりピエロ／イナメトオル _ Karakuri Pierrot - Iname Toru(40mP)",
+    "score": 10
+  },
+  {
+    "id": "OiQYP-y4Fxc",
+    "title": "Police Chief Realizes He’s Going To Prison Forever",
+    "score": 10
+  },
+  {
+    "id": "GBTF6JWus1w",
+    "title": "Ace Attorney: Klapollo (LOVE TRIAL)",
+    "score": 10
+  },
+  {
+    "id": "euyKpU4lK0E",
+    "title": "【40mP】 恋愛裁判  Love Trial _ Vocal by 40mP【歌ってみた】 Love Trial _ Vocal by 40mP",
+    "score": 10
+  },
+  {
+    "id": "L4n1sSFwq0w",
+    "title": "40mP ft. 初音ミク - \\\"Love Trial\\\" 恋愛裁判　(English Subtitles)",
+    "score": 10
+  },
+  {
+    "id": "NKY39jwvn0E",
+    "title": "Vocaloid ‖ \\\"Love Trial\\\" ‖ ENGLISH ver.",
+    "score": 10
+  },
+  {
+    "id": "inaltcFHZRQ",
+    "title": "Love Trial",
+    "score": 10
+  },
+  {
+    "id": "FFE2f8jatlo",
+    "title": "Trials of Love",
+    "score": 10
+  },
+  {
+    "id": "Ji6M20tQlb0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fGjse64vYT4",
+    "title": "Washington Week with The Atlantic full episode, 12/26/25",
+    "score": 10
+  },
+  {
+    "id": "ynXV2g1EV1k",
+    "title": "Washington Week with The Atlantic full episode, Dec. 12, 2025",
+    "score": 10
+  },
+  {
+    "id": "SZeF-yMy8GM",
+    "title": "Washington Week with The Atlantic full episode, Dec. 5, 2025",
+    "score": 10
+  },
+  {
+    "id": "IR_39680ibE",
+    "title": "Washington Week with The Atlantic full episode, Oct. 17, 2025",
+    "score": 10
+  },
+  {
+    "id": "lY4pyzXnIZk",
+    "title": "Washington Week with The Atlantic full episode, Nov. 21, 2025",
+    "score": 10
+  },
+  {
+    "id": "ioXQ4hGIiSg",
+    "title": "Washington Week with The Atlantic full episode, Nov. 28, 2025",
+    "score": 10
+  },
+  {
+    "id": "8eXSAb-9pgU",
+    "title": "Washington Week with The Atlantic full episode, Nov. 14, 2025",
+    "score": 10
+  },
+  {
+    "id": "3ddV7G1PxH4",
+    "title": "Washington Week with The Atlantic full episode, Nov. 7, 2025",
+    "score": 10
+  },
+  {
+    "id": "j0a83VBpIN4",
+    "title": "Washington Week with the Atlantic full episode, Dec. 19, 2025",
+    "score": 10
+  },
+  {
+    "id": "fCtGuzv5u68",
+    "title": "The Election That Could Rein in the Chaos | 'The Opinions' Podcast",
+    "score": 10
+  },
+  {
+    "id": "pnfT4k_L-_E",
+    "title": "Sandra's Book Becomes A Problem For Mary | 227 | FULL EPISODE | S2E9 | Throwback TV",
+    "score": 10
+  },
+  {
+    "id": "sloZGfnnfZM",
+    "title": "Scenes From a Hat Clip Compilation | Season 15 - PART 2 - Whose Line is it Anyway?",
+    "score": 10
+  },
+  {
+    "id": "UPuIkn9AtoQ",
+    "title": "Manchester United v. Manchester City | PREMIER LEAGUE HIGHLIGHTS | 1/17/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "qI93p1IMJgo",
+    "title": "Washington Week with The Atlantic full episode, Oct. 31, 2025",
+    "score": 10
+  },
+  {
+    "id": "ux_2Bi0QYCI",
+    "title": "Washington Week with The Atlantic full episode, Oct. 24, 2025",
+    "score": 10
+  },
+  {
+    "id": "ID81mVm6ATM",
+    "title": "Washington Week with The Atlantic full episode, Sept. 26, 2025",
+    "score": 10
+  },
+  {
+    "id": "En--2VzxWtY",
+    "title": "Inside Episode 102: TURN: Washington's Spies: Who by Fire",
+    "score": 10
+  },
+  {
+    "id": "QpixcB59lbE",
+    "title": "DANIEL HENSHALL \\\"CALEB BREWSTER\\\"",
+    "score": 10
+  },
+  {
+    "id": "PaqcB6Td6_Y",
+    "title": "Inventing the Presidency: Episode 2",
+    "score": 10
+  },
+  {
+    "id": "vRctZ5XB1hA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wPikwLZgnV8",
+    "title": "Why NO ONE Can Defend Greenland Against America",
+    "score": 10
+  },
+  {
+    "id": "xBVJC65iQP8",
+    "title": "Iran Paradox: A Theocracy Built \\u0026 Defended By Leftists (Understanding Why)",
+    "score": 10
+  },
+  {
+    "id": "X5m9kylj-D0",
+    "title": "Intro: Why we waited for this Iran episode",
+    "score": 10
+  },
+  {
+    "id": "lQ9ukNVoFXc",
+    "title": "My answer to \\\"how do you defend someone you think is guilty\\\"",
+    "score": 10
+  },
+  {
+    "id": "A4Ncs9gXBAI",
+    "title": "Top 10 Countries That Will Defend America No Matter What!",
+    "score": 10
+  },
+  {
+    "id": "eT1Im4kHD6k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vPg5huwdbp4",
+    "title": "Get Low",
+    "score": 10
+  },
+  {
+    "id": "Kc5x0zeWirg",
+    "title": "Could Modern US Marines have Defended the Alamo?",
+    "score": 10
+  },
+  {
+    "id": "U7HnvAyaGM0",
+    "title": "Be Prepared with Proof",
+    "score": 10
+  },
+  {
+    "id": "ozXqrTZavus",
+    "title": "Trump eyes the Arctic: Will Europe defend Greenland? | To the Point",
+    "score": 10
+  },
+  {
+    "id": "hUL6azqxkpM",
+    "title": "Opener",
+    "score": 10
+  },
+  {
+    "id": "R5uKpLa3qh8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "quY0jJuz0oE",
+    "title": "Dr. Gaby Reinhart’s story 🧡 #banfieldcareers",
+    "score": 10
+  },
+  {
+    "id": "HslCS18BfUY",
+    "title": "Au Pair Murder Trial Begins: Brendan Banfield Accused of Killing Wife \\u0026 Man",
+    "score": 10
+  },
+  {
+    "id": "xJLB9t4pORY",
+    "title": "Branden Banfield, Hero or Calculating Killer? | Profiling Evil",
+    "score": 10
+  },
+  {
+    "id": "p8QL3LBWbC0",
+    "title": "Brendan Banfield's Former Au Pair Takes the Stand in Double Murder Trial",
+    "score": 10
+  },
+  {
+    "id": "tRhP6wgRzb0",
+    "title": "Karen Read retrial: Google search time becomes crucial | Banfield",
+    "score": 10
+  },
+  {
+    "id": "NWEeiSGfcFI",
+    "title": "Brendan Banfield, Au Pair Slept in Room Where Alleged Murders Occurred",
+    "score": 10
+  },
+  {
+    "id": "rlQcK6kZSUs",
+    "title": "'It became sexual' - Au pair takes stand in Brendan Banfield murder tiral",
+    "score": 10
+  },
+  {
+    "id": "LiaEAxgZu0E",
+    "title": "✨ Celebrating Mentorship ✨ #banfieldcareers #banywhere",
+    "score": 10
+  },
+  {
+    "id": "c8ZYLXh-6sU",
+    "title": "🎉 Happy National Career Development Month! 🎉 #banfieldcareers",
+    "score": 10
+  },
+  {
+    "id": "H34T19IyLD4",
+    "title": "Au Pair Juliana Magalhaes Testifies Against Former Lover Brendon Banfield",
+    "score": 10
+  },
+  {
+    "id": "jq528dlifa0",
+    "title": "Dr. Bussey-Spratling + Leadership🧡",
+    "score": 10
+  },
+  {
+    "id": "c87IGtHbL0Y",
+    "title": "Opening Statements Set to Begin in Au Pair Double Murder Trial",
+    "score": 10
+  },
+  {
+    "id": "cLFyDKz5kS0",
+    "title": "Jury Hears Brendan Banfield in 911 Call | Au Pair Affair Murder Trial",
+    "score": 10
+  },
+  {
+    "id": "WS0m21az0eg",
+    "title": "Headed to #VMX2026?",
+    "score": 10
+  },
+  {
+    "id": "E-ucD2Ojspg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "v3wjYOQVJJo",
+    "title": "Deep in The Appalachian Mountains - Full paranormal investigation! Mimics CAUGHT ON CAMERA!  !SCARY!",
+    "score": 10
+  },
+  {
+    "id": "6iaE69p4GlI",
+    "title": "Delphi Murders Deep Dive | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "krFf0xHRn7Q",
+    "title": "The FBI Investigates Soviet Deep-Cover Spies in America",
+    "score": 10
+  },
+  {
+    "id": "Is0raS46rQQ",
+    "title": "Deep Dive: Caneiro Murders Evidence | Vinnie Politan Investigates Podcast",
+    "score": 10
+  },
+  {
+    "id": "XbR06oKRGH4",
+    "title": "Deep Dive Into Bryan Kohberger's Case Documents | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "bY3ZMOn9mHQ",
+    "title": "Skin-Deep | APTN Investigates",
+    "score": 10
+  },
+  {
+    "id": "yvvnuSJ3J4M",
+    "title": "Investigating a Creepy Shelter Deep in the Woods.",
+    "score": 10
+  },
+  {
+    "id": "SEUzoXkSsNU",
+    "title": "Deep Dive: Captive Stepson Case | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "5w0i-oYWyyI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Qepa4UE2IAw",
+    "title": "Ex-Husband Arrested for Ohio Dentist Murders | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "SPwPNo1hRbE",
+    "title": "Deep Dive: Murder Plot in Paradise | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "mKCRyPrm9iQ",
+    "title": "Breaking: FBI's Deep Investigation into Controversial Incident",
+    "score": 10
+  },
+  {
+    "id": "bheN3u7FHIs",
+    "title": "DEEP investigates fish kills in several Connecticut rivers",
+    "score": 10
+  },
+  {
+    "id": "1MBXssi54vA",
+    "title": "The Truth Behind Jamal Khashoggi’s Murder: A Deep Investigation",
+    "score": 10
+  },
+  {
+    "id": "7JkFgPkO6GI",
+    "title": "Deep Investigation (feat. Outbreak)",
+    "score": 10
+  },
+  {
+    "id": "CX64pxJ7wTQ",
+    "title": "Meghan mackle arrested and taken to custody after deep investigation found something shocking ",
+    "score": 10
+  },
+  {
+    "id": "aaCjeRaL14Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "43QKE99gbUo",
+    "title": "'This Is The Glove Compartment Of Renee Good...': Eric Swalwell",
+    "score": 10
+  },
+  {
+    "id": "6bY5cc5ECFs",
+    "title": "Visit Opportunities at Gonzaga University!",
+    "score": 10
+  },
+  {
+    "id": "in05Nbs95ic",
+    "title": "Gonzaga Outdoors",
+    "score": 10
+  },
+  {
+    "id": "1dsMTMlfs54",
+    "title": "Visit Gonzaga University",
+    "score": 10
+  },
+  {
+    "id": "2JGoiIUtXrU",
+    "title": "GONZAGA UNIVERSITY",
+    "score": 10
+  },
+  {
+    "id": "QzsijUD7MdA",
+    "title": "Gonzaga Explore",
+    "score": 10
+  },
+  {
+    "id": "dqU6Cdhe3Xw",
+    "title": "Gonzaga Overview (2021)",
+    "score": 10
+  },
+  {
+    "id": "rhOeurWVwws",
+    "title": "Back To School + Throwback Stories by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "KtIkgnY4g3s",
+    "title": "Visiting Lolo and Lola's House | Toni Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "884hxR9DnG4",
+    "title": "TONI GONZAGA \\u0026 FAMILY VISIT BIÑAN ",
+    "score": 10
+  },
+  {
+    "id": "IvBlHnzWsOI",
+    "title": "Surprise Party For Daddy Bonoy | Toni Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "yz7sSDcZ2dA",
+    "title": "Our Recent Trip to Taiwan by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "Y_bfLeP3L3g",
+    "title": "Our Trip to Iloilo \\u0026 Guimaras by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "n7SbOjf5F9k",
+    "title": "First Time Ever sa Congpound by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "Pzz9c35iEV0",
+    "title": "2026 Virginia Inauguration",
+    "score": 10
+  },
+  {
+    "id": "fH8-fmg6pjw",
+    "title": "Ugbo Food Trip by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "XTfIzBZxgws",
+    "title": "Double Date sa Italy by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "tsc478d02hU",
+    "title": "INISCAM ANG BANSA: Bakit GALIT NA GALIT si Ombudsman Boying Remulla kay Leandro Leviste?",
+    "score": 10
+  },
+  {
+    "id": "4QO5CmXujfo",
+    "title": "BILIS NG PANGYAYARI,MAKAKAUWI PABA AKO? /TEAM ROCHELLE",
+    "score": 10
+  },
+  {
+    "id": "Mggc8GbhZco",
+    "title": "Visiting Baby Bia by Alex Gonzaga",
+    "score": 10
+  },
+  {
+    "id": "M6IVC8XALZo",
+    "title": "The 101 on Gonzaga (College Tour Series)",
+    "score": 10
+  },
+  {
+    "id": "-Dzegwqg29I",
+    "title": "McCarthey Athletic Center - Gonzaga University",
+    "score": 10
+  },
+  {
+    "id": "KOfkuNY4EjM",
+    "title": "Gonzaga Campus Tour (with our student ambassadors)",
+    "score": 10
+  },
+  {
+    "id": "lwO2NRaYrHE",
+    "title": "Jimmy Kimmel Not Convinced Gonzaga is Real",
+    "score": 10
+  },
+  {
+    "id": "7xCXYcnhSj4",
+    "title": "Is Gonzaga a real school?",
+    "score": 10
+  },
+  {
+    "id": "u-BtP3KAqbw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "S1qmEXKvTEg",
+    "title": "My Husband Throws Temper Tantrums (What Can I Do?)",
+    "score": 10
+  },
+  {
+    "id": "BkiUZ_0_LB4",
+    "title": "My Mother-In-Law Waited For My Husband’s Last Breath To Throw Me Out.But The Lawyer Brought Somethin",
+    "score": 10
+  },
+  {
+    "id": "8Hao-2umzyA",
+    "title": "My Husband's Guilty \\u0026 The broken gavel!",
+    "score": 10
+  },
+  {
+    "id": "_R_qJgBX8XI",
+    "title": "My Husbands Guilty",
+    "score": 10
+  },
+  {
+    "id": "26sEMfD2o5E",
+    "title": "My Husband Throws Temper Tantrums",
+    "score": 10
+  },
+  {
+    "id": "b-K1YYCVv90",
+    "title": "My Husband Throw Me Out With My Baby Cos Of Another Woman But I Met A Man That Took Care Of Me",
+    "score": 10
+  },
+  {
+    "id": "6vGr0m2MQY4",
+    "title": "Where Is My Husband (Raye) Fly Dance Fitness Throw Down Routine",
+    "score": 10
+  },
+  {
+    "id": "jSN9CXvEvEc",
+    "title": "Her husband does his best not to throw away the trash",
+    "score": 10
+  },
+  {
+    "id": "RaxZpZHKTKY",
+    "title": "Her husband does his best not to throw away the trash",
+    "score": 10
+  },
+  {
+    "id": "dMjOF8XcmXI",
+    "title": "Her husband does his best not to throw away the trash",
+    "score": 10
+  },
+  {
+    "id": "y4aU3tivfdM",
+    "title": "Spiritual husband tormented #spiritual #india #funny #pakistan #comedy #viral ",
+    "score": 10
+  },
+  {
+    "id": "KB678Vrw5OQ",
+    "title": "My husband's \\\"work wife\\\" bought the house next door. She just announced she's pregnant and it's...",
+    "score": 10
+  },
+  {
+    "id": "JYx_mtXjV70",
+    "title": "My husband met his first love at class reunion—this time, will he still firmly chose me? #251006txB4",
+    "score": 10
+  },
+  {
+    "id": "HND49i0Epps",
+    "title": "They're Turning on Each Other   Because Heaven Won't Let Them Touch You",
+    "score": 10
+  },
+  {
+    "id": "W7UwOEXrU_0",
+    "title": "Unkombe mu...🤣🤣Nguhaye gasopo,ntabwo ndi imbobo, uzongera nzahita  nigendera 🔥🔥",
+    "score": 10
+  },
+  {
+    "id": "wZpx8wWNeCc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pUJjHW1aGCU",
+    "title": "My phone recorded everything while I was unconscious at Thanksgiving,[FULL STORY]",
+    "score": 10
+  },
+  {
+    "id": "UY5IyBeuy3c",
+    "title": "At my niece’s Sweet 16 I paid for, Mom said it was cheap, so I stopped paying bills. [FULL STORY]",
+    "score": 10
+  },
+  {
+    "id": "RpWu-lYa60s",
+    "title": "My Husband Throw Me Out With My Baby Cos Of Another Woman But I Met A Man That Took Care Of Me",
+    "score": 10
+  },
+  {
+    "id": "_MuNUVMyQ-o",
+    "title": "THROWING UP ON MY HUSBAND To See What He Does!! *HE FREAKED OUT*",
+    "score": 10
+  },
+  {
+    "id": "Yuanyhg6LZ8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BgJdeAp4q6I",
+    "title": "DEFUSE | 1 HOUR of Epic Dark Dramatic Military Action Tension Music",
+    "score": 10
+  },
+  {
+    "id": "t-hmWp0sc9U",
+    "title": "Countdown by Ninja Tracks",
+    "score": 10
+  },
+  {
+    "id": "ShXJM70bwU0",
+    "title": "Calming \\u0026 De-escalation Strategies",
+    "score": 10
+  },
+  {
+    "id": "R2PSExM-NhU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SEzVP-ltqtk",
+    "title": "Diffusing Tension with Playful Communication",
+    "score": 10
+  },
+  {
+    "id": "BPlwLLiZFVU",
+    "title": "Diffusing Tension with Linda Wilson",
+    "score": 10
+  },
+  {
+    "id": "y3GUd_yIDT4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "WwdxrBCNRsI",
+    "title": "5 Ways to Diffuse Your anger",
+    "score": 10
+  },
+  {
+    "id": "H4WYp9a6Yzg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iHTgN7XWiJc",
+    "title": "Diffuse Tension with Humor! 😂",
+    "score": 10
+  },
+  {
+    "id": "ZM8C3HFZWUg",
+    "title": "The easiest way to diffuse tension is curiosity",
+    "score": 10
+  },
+  {
+    "id": "yN0R5oT1V6Q",
+    "title": "Measure and Mix",
+    "score": 10
+  },
+  {
+    "id": "EDC9Ca7FAvo",
+    "title": "Welcome to Diffusing the Tension.",
+    "score": 10
+  },
+  {
+    "id": "xcplaSJ5faA",
+    "title": "The Role of Humor in Diffusing Relationship Tension",
+    "score": 10
+  },
+  {
+    "id": "clJSFiNYrbE",
+    "title": "This is a masterclass in diffusing tension in customer service. What a camp icon.",
+    "score": 10
+  },
+  {
+    "id": "2fGn3TSA3gw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ssCuksMz3XQ",
+    "title": "... Pair Affair Murder Alleged Murder Plot | Vinnie \"},{\"text\":\"Politan\",\"bold\":true},{\"text\":\" ...",
+    "score": 10
+  },
+  {
+    "id": "j4VzmaDT2Vk",
+    "title": "New Witness in Brianna Aguilera’s Death | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "zh8pGyKkpo4",
+    "title": "Au Pair Murder Trial Begins: Brendan Banfield Accused of Killing Wife \\u0026 Man",
+    "score": 10
+  },
+  {
+    "id": "6ql4IlGme_s",
+    "title": "The Gaslighting of Hannah Pettey | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "QEHzGIlsYIc",
+    "title": "Will Karen Read's Lawsuit Reveal the Truth? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "4tbwihyFd9s",
+    "title": "Paul Caneiro Defense Points to Third Brother | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "ikSBVVmJNnc",
+    "title": "... Death of Matthew Restelli | Vinnie \"},{\"text\":\"Politan\",\"bold\":true},{\"text\":\" Investigates ...",
+    "score": 10
+  },
+  {
+    "id": "MZ6RXkSxQP8",
+    "title": "The Case Against Donna Adelson | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "oipGHaYR_6s",
+    "title": "The Case Against Donna Adelson | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "76HcF-W-o7g",
+    "title": "The Au Pair Affair Murder Trial | Vinnie Politan Investigates Podcast",
+    "score": 10
+  },
+  {
+    "id": "OXcHE1uQ-Vw",
+    "title": "The Au Pair Affair Murder Trial | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "cI55r1V0u-k",
+    "title": "G Perico, 2 Eleven - State and Fed (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "vxssM4_PWps",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "vxoKL4W31Ik",
+    "title": "What Is Federalism? | Things Explained",
+    "score": 10
+  },
+  {
+    "id": "vHm_b7QOc7U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "V5nMRqD_aVk",
+    "title": "BREAKING: \\\"You Protected Trump!\\\" — Swallwell DESTROYS Patel Over Hidden Epstein Files",
+    "score": 10
+  },
+  {
+    "id": "PX1wFp2aUSE",
+    "title": "Feds launch investigation into four Washington state school districts",
+    "score": 10
+  },
+  {
+    "id": "mcVzrm8Lsik",
+    "title": "Governor Of California PANICS As New Driving Laws Could Cost Drivers Up To $10,000 In 2026!",
+    "score": 10
+  },
+  {
+    "id": "FU3_LbsGUgE",
+    "title": "Shocking New Evidence in the Homicide of Renee Good!",
+    "score": 10
+  },
+  {
+    "id": "6T27Qxr2BF8",
+    "title": "'The people are rising up': US general says Iran regime is in a 'bad place'",
+    "score": 10
+  },
+  {
+    "id": "CzapeCu_jDE",
+    "title": "Different Types of State Prison Facility",
+    "score": 10
+  },
+  {
+    "id": "KckGHaBLSn4",
+    "title": "Federal vs  State Laws HD",
+    "score": 10
+  },
+  {
+    "id": "nyz7iWlMMqU",
+    "title": "What Federal Government Means",
+    "score": 10
+  },
+  {
+    "id": "UTIaRo7iRtY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "J0gosGXSgsI",
+    "title": "Introduction: Federalism",
+    "score": 10
+  },
+  {
+    "id": "qkFlOR8qsXE",
+    "title": "State vs Federal Government Job",
+    "score": 10
+  },
+  {
+    "id": "iOVm1ABGbQY",
+    "title": "Program Management Analyst",
+    "score": 10
+  },
+  {
+    "id": "JhnR5hr0YCw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NhqE8gz1ziA",
+    "title": "Trump announces plan to stop sending federal tax dollars to blue states",
+    "score": 10
+  },
+  {
+    "id": "hFXioAi1_RY",
+    "title": "The Land Your State Doesn't Control",
+    "score": 10
+  },
+  {
+    "id": "LruaD7XhQ50",
+    "title": "How is power divided in the United States government? - Belinda Stutzman",
+    "score": 10
+  },
+  {
+    "id": "HuFR5XBYLfU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hxWfi3heRz0",
+    "title": "Which Countries Are Federal States?",
+    "score": 10
+  },
+  {
+    "id": "XaX0XIL7uJY",
+    "title": "The European Union",
+    "score": 10
+  },
+  {
+    "id": "PxfjCsf2XjU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "d5H3_5K3-L8",
+    "title": "The NFL's Biggest Scandals | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "HWqtSUpdaUA",
+    "title": "Evidence Against Sarah Grace Patrick | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "0PEAi6ghgoc",
+    "title": "Will Karen Read's Lawsuit Reveal the Truth? | Vinnie Politan Investigates Podcast",
+    "score": 10
+  },
+  {
+    "id": "Fy46S6UK5is",
+    "title": "Karen Read: Bederow on Lifetime, Mango \\u0026 Life After Morrissey",
+    "score": 10
+  },
+  {
+    "id": "4Fc7_Xau8Mw",
+    "title": "Inside The Banfield Trial: Au Pair Testifies",
+    "score": 10
+  },
+  {
+    "id": "R5oq0BakDl4",
+    "title": "Life for Bryan Kohberger Behind Bars | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "SfsjRk4seN0",
+    "title": "What Happened to Rob and Michele Reiner? | Vinnie Politan Investigates Podcast",
+    "score": 10
+  },
+  {
+    "id": "ydmVphU-pfk",
+    "title": "Murders of Christine Banfield \\u0026 Joseph Ryan | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "VxqD68o90ZI",
+    "title": "Fatal Fetish Murder Case | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "JBB0pb9gmA0",
+    "title": "Charlie Kirk shooting suspect Tyler Robinson appears in court",
+    "score": 10
+  },
+  {
+    "id": "0iaoUFknCeI",
+    "title": "Classic Divorce Court: What A Man, What A Man",
+    "score": 10
+  },
+  {
+    "id": "UCSnEl6isIA",
+    "title": "Classic Divorce Court: What About Your Friends?",
+    "score": 10
+  },
+  {
+    "id": "zD-NwEvv6y0",
+    "title": "Charlie Kirk’s accused killer is in court",
+    "score": 10
+  },
+  {
+    "id": "pwCox955Ots",
+    "title": "Charlie Kirk shooting suspect Tyler Robinson to appear in court",
+    "score": 10
+  },
+  {
+    "id": "NIxhuEq0ygw",
+    "title": "What the Supreme Court Had to Say About Boys in Girls' Sports",
+    "score": 10
+  },
+  {
+    "id": "xyBstlfgt8U",
+    "title": "Court records show growing list of civil suits filed against Riverview mayor",
+    "score": 10
+  },
+  {
+    "id": "0gE3HYqEoYE",
+    "title": "Charlie Kirk killer suspect: Tyler Robinson appears in court",
+    "score": 10
+  },
+  {
+    "id": "xml44o5S7GQ",
+    "title": "Charlie Kirk shooting suspect back in court | Here's what happened",
+    "score": 10
+  },
+  {
+    "id": "PYrpY2zfQPE",
+    "title": "What is the Court Process of a Criminal Case?",
+    "score": 10
+  },
+  {
+    "id": "j6x3VugldKg",
+    "title": "What Do I Say to the Judge in Court?",
+    "score": 10
+  },
+  {
+    "id": "kBNIdNcQgjQ",
+    "title": "UK Law and Court - What are the different courts? | The 4 Criminal Courts explained",
+    "score": 10
+  },
+  {
+    "id": "IShDpXap_z0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "q4x5XnXO-Ks",
+    "title": "Judge DESTROYS Police For Seizing Vet’s Tools! #uscourts #usa #law #justice #legalsystem",
+    "score": 10
+  },
+  {
+    "id": "N6zbrqqFCuo",
+    "title": "Supreme Court seems likely to uphold state bans on transgender athletes in girls and women's sports",
+    "score": 10
+  },
+  {
+    "id": "saHNTej9y30",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fWFh-KBJpXI",
+    "title": "Deep Dive: Caneiro Murders Evidence | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "-uZTnHDvnFk",
+    "title": "Should Luigi Mangione Be Put To Death? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "VAhswo9ZeUQ",
+    "title": "Should Richard Allen Get a New Trial? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "IrizlEcYDLo",
+    "title": "Should Richard Allen Get a New Trial? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "4f-8coCtX0I",
+    "title": "Vinnie Politan Investigates: Will the Menendez Brothers be Resentenced?",
+    "score": 10
+  },
+  {
+    "id": "unKU7jVuEgM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1vxkiq0JJu8",
+    "title": "Donna Adelson's Post-Murder Behavior | Vinnie \"},{\"text\":\"Politan\",\"bold\":true},{\"text\":\" ...",
+    "score": 10
+  },
+  {
+    "id": "j1tXK1ox1o0",
+    "title": "Killing the Messenger Murder Case | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "6-M2p4V00Mg",
+    "title": "Why Did William Brock Shoot Lo-Letha Hall? | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "Bt-HmCoezWQ",
+    "title": "Ex-Husband Arrested for Ohio Dentist Murders | Vinnie Politan Investigates Podcast",
+    "score": 10
+  },
+  {
+    "id": "J4juLtPeVIc",
+    "title": "Husband Realizes His Wife Just Murdered His Parents",
+    "score": 10
+  },
+  {
+    "id": "sStDsNQ_jgI",
+    "title": "My husband's parents EXCLUDED me from their family for years. [FULL STORY]",
+    "score": 10
+  },
+  {
+    "id": "NFU_PMO4SBQ",
+    "title": "Her Husband Forgot To Hang Up — She Heard Him Tell His Parents, “Living With Her Is Awful,” So I…",
+    "score": 10
+  },
+  {
+    "id": "bbC3ZH0DXkw",
+    "title": "My Husband Announced “We’re In An Open Marriage” At His Parents” Dinner Table. I Calmly Said...",
+    "score": 10
+  },
+  {
+    "id": "2BtaQ5dX0kM",
+    "title": "My Husband Asked for Divorce at My Parents' Funeral—Weeks Later, I Left Him Bankrupt and Begging on",
+    "score": 10
+  },
+  {
+    "id": "Z90BuTNVv5o",
+    "title": "My parents demanded in court I support the child my husband had with my sister — until I spoke...",
+    "score": 10
+  },
+  {
+    "id": "9qo6yJEeVP4",
+    "title": "Nobody From My Family Came To My Husband’S Funeral Not Even My Parents Nor My Best Friend – They...",
+    "score": 10
+  },
+  {
+    "id": "BiA0l11wWks",
+    "title": "My New Husband Won't Help Support My Family",
+    "score": 10
+  },
+  {
+    "id": "ep-YdZUoKjI",
+    "title": "Why Are Your Finances Not Combined",
+    "score": 10
+  },
+  {
+    "id": "noIKkoJZ3i0",
+    "title": "At Her Graduation, My Stepdaughter Said: \\\"Thanks Dad for My Degree\\\"—Not Me , I Smiled—Then She...",
+    "score": 10
+  },
+  {
+    "id": "Bf0G-k_LD7c",
+    "title": "\\\"Don't Come Home, Your Sister Doesn't Want You There\\\", My Parents Said—Years Later, At My Wedding...",
+    "score": 10
+  },
+  {
+    "id": "wnmDd0UqP1s",
+    "title": "Family Didn’t Invite Me To Christmas Because It’s ‘No Place For Losers,’ My Sister Said. I Calmly…",
+    "score": 10
+  },
+  {
+    "id": "zM9Aj8cot48",
+    "title": "My Father Laughed At My Daughter's Thrift Store Dress At Her Cousin's Party. Then My Husband...",
+    "score": 10
+  },
+  {
+    "id": "tYd9b29c8rk",
+    "title": "My Brother Emptied My Life Savings And Vanished — Two Days Later, He Called Me Screaming...",
+    "score": 10
+  },
+  {
+    "id": "OggBa6mvvcY",
+    "title": "My Son Announced At His Wedding Anniversary Dinner: “We Are Going To Hawaii Next Week With …”",
+    "score": 10
+  },
+  {
+    "id": "jd6L-9wFSVQ",
+    "title": "During dinner, my sister said she was pregnant and that the father is my husband...",
+    "score": 10
+  },
+  {
+    "id": "InFebGTs9hY",
+    "title": "At My Sister’s Wedding, She Mocked Me in Front of Everyone — Then Her Groom Did the Unthinkable",
+    "score": 10
+  },
+  {
+    "id": "nKcYrKLUpAE",
+    "title": "We Have Something To Share! Big Changes Coming!",
+    "score": 10
+  },
+  {
+    "id": "iy2zPjXSi1w",
+    "title": "LEADING AS A HUSBAND \\u0026 FATHER - VODDIE BAUCHAM",
+    "score": 10
+  },
+  {
+    "id": "t9AD1H0s2V0",
+    "title": "I Can’t Forgive My Husband’s Parents ✅ Emotional English Story (A1–A2 Level) ✅",
+    "score": 10
+  },
+  {
+    "id": "YjuQ3JmcKV0",
+    "title": "MY HUSBAND ASKED ME FOR A DIVORCE AT MY PARENTS' FUNERAL, SAYING I WAS BANKRUPT. WHAT HE DIDN'T KNOW",
+    "score": 10
+  },
+  {
+    "id": "PxgCt5OBe1Y",
+    "title": "My Sister And Her Husband Moved In With Our Parents And Are Outraged That I Refused To Babysit...",
+    "score": 10
+  },
+  {
+    "id": "6EG2w4KKi5M",
+    "title": "My husband ABANDONED our baby for his parents! | Reddit Stories",
+    "score": 10
+  },
+  {
+    "id": "n6fKuNNaVrU",
+    "title": "r/AITAH - My husband prefers to be with his parents rather than with me and our baby.",
+    "score": 10
+  },
+  {
+    "id": "a84cahlpR8I",
+    "title": "My Husband Hit Me. My Parents Saw The Bruise—Said Nothing. Thirty Minutes Later, He Knelt Before Me.",
+    "score": 10
+  },
+  {
+    "id": "KLsGUzZfwzQ",
+    "title": "My Parents Visited \\u0026 Insisted I Wake Up My Tired Husband Cos I'm Pregnant... AITA",
+    "score": 10
+  },
+  {
+    "id": "csd4-pKjMto",
+    "title": "Relatable lage toh share zarur kariye husband in front of my parents v/s hus parents. #couplefunny",
+    "score": 10
+  },
+  {
+    "id": "u4c7q8dC-As",
+    "title": "WHEN YOUR HUSBAND HATES YOUR PARENTS #husband #hates #parents #inlaws #family #hamzasyed",
+    "score": 10
+  },
+  {
+    "id": "AWngAaae59M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "woblxUWhZM4",
+    "title": "Megyn Breaks Down Why It Matters That Renee Good's Wife Said \\\"Drive Baby Drive\\\" Before Shooting",
+    "score": 10
+  },
+  {
+    "id": "wTSBcNgGMNo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6ywLEESFDu0",
+    "title": "Video captures Renee Good's car crashing after shooting",
+    "score": 10
+  },
+  {
+    "id": "8EjQkZoZ650",
+    "title": "Falling Down (4/10) Movie CLIP - Drive-By Shooting (1993) HD",
+    "score": 10
+  },
+  {
+    "id": "1iWqn89nvJs",
+    "title": "BREAKING: New video shows ICE officer's perspective of MN shooting",
+    "score": 10
+  },
+  {
+    "id": "sQ-V7dxVy8Q",
+    "title": "\\\"Drive Baby Drive\\\": Breaking Down the Lies About the ICE Shooting Despite Clear Video Evidence",
+    "score": 10
+  },
+  {
+    "id": "0Ld1s_PI_3s",
+    "title": "Ex-FBI agent breaks down Minnesota shooting video",
+    "score": 10
+  },
+  {
+    "id": "ceqD2WvvD4g",
+    "title": "Minneapolis ICE Shooting! | Self-Defense Attorneys Break It Down",
+    "score": 10
+  },
+  {
+    "id": "Lr60W3F1-PQ",
+    "title": "New bombshells in the Ohio murder mystery | Banfield Full Episode 1/15",
+    "score": 10
+  },
+  {
+    "id": "bsSwzWn4OUk",
+    "title": "King Zoo - Shooting Down (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "Ele4NtJDeyM",
+    "title": "Shooting You Down",
+    "score": 10
+  },
+  {
+    "id": "yqyAFl9FBTk",
+    "title": "3 gunmen wanted for fatally shooting 19-year-old man in Poplar",
+    "score": 10
+  },
+  {
+    "id": "E0kdW8Gr-lo",
+    "title": "They’re always shooting down the idle players :/#fyp #foryou",
+    "score": 10
+  },
+  {
+    "id": "IsX027l7xec",
+    "title": "Law expert details how ICE agent in MN shooting could be prosecuted | REUTERS",
+    "score": 10
+  },
+  {
+    "id": "-pqW6J9wQnM",
+    "title": "Protests in Minneapolis After Deadly Shooting by ICE Agents",
+    "score": 10
+  },
+  {
+    "id": "m1jySUXcvBI",
+    "title": "What I Did After Being Shot Down in Vietnam",
+    "score": 10
+  },
+  {
+    "id": "m6iSB0BfTvY",
+    "title": "Prone Position: Getting Set on the Rifle | Long-Range Rifle Shooting with Ryan Cleckner",
+    "score": 10
+  },
+  {
+    "id": "Av7dexTSZt4",
+    "title": "getting position where you're shooting in the prone",
+    "score": 10
+  }
+]

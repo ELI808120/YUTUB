@@ -1,1 +1,2982 @@
-[]
+[
+  {
+    "id": "IaYMdz6AG9Q",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 20 - העליה השניה",
+    "score": 110
+  },
+  {
+    "id": "9T3EDq3MemE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 28 - האימפריה הבריטית",
+    "score": 110
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "Ujcj8inqkOs",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "DNKpAZTXhhU",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "TYXMYsebS5c",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "[עושים היסטוריה] 237: האיש שחישמל את ארץ-ישראל – פרק מיוחד של 'מיטען חשמלי'",
+    "score": 60
+  },
+  {
+    "id": "0ruDojceKwQ",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "NHEPBQR0LOM",
+    "title": "יהודה תחת שלטון פרס: ארכיאולוגיה, מקרא ומציאות היסטורית",
+    "score": 60
+  },
+  {
+    "id": "eZcNmuOHtoY",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "איך להכין מחמצת ביתית! 😍",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "Easy Oil Painting Techniques EVERYONE Should Know! (Step by Step Oil Painting Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "OIL PAINTING TIPS: How to Glaze, Scumble, and . . . GLUMBLE?",
+    "score": 50
+  },
+  {
+    "id": "AK5Y3YGzmZM",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "BGRGSQ34D10",
+    "title": "Oil Painting Techniques for Beginners, RISD Art Professor Demo, Part 1 of 2",
+    "score": 50
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "GozLb7SPbYU",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "mejvVvOZsdM",
+    "title": "Easy Math Tricks📚✅ #mathtricks #math #study #school #knowledge #tricks",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "Easy Sourdough Starter Guide: Just Flour \\u0026 Water!",
+    "score": 50
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "Here Is Why Extra Dimensions ACTUALLY Make Sense",
+    "score": 50
+  },
+  {
+    "id": "8v6EPDD3Wu0",
+    "title": "Why You Get Brain Freeze 🥶 (and how to fix it)",
+    "score": 50
+  },
+  {
+    "id": "T1LRsp8qBY0",
+    "title": "YOUR vs YOU'RE 🤔| What's the difference? | Learn with examples",
+    "score": 50
+  },
+  {
+    "id": "5cnHsaurS5U",
+    "title": "You're vs. Your || Basic English Lesson",
+    "score": 50
+  },
+  {
+    "id": "hFtnrhUT4wU",
+    "title": "Learn to pronounce YOUR \\u0026 YOU'RE - American English Homophone Pronunciation Lesson #learnenglish",
+    "score": 50
+  },
+  {
+    "id": "ndDpjT0_IM0",
+    "title": "let us learn about this vital subject",
+    "score": 50
+  },
+  {
+    "id": "AJQ6mpZN58U",
+    "title": "John-Dylan Haynes - “Mind reading” with brain scanners: Facts versus science fiction - Nov 22, 21",
+    "score": 50
+  },
+  {
+    "id": "B-dmwXwh8LE",
+    "title": "\\\"We're In A Moral Crisis\\\" - Jon Meacham On America's Fragile Democratic Experiment",
+    "score": 50
+  },
+  {
+    "id": "PX1wFp2aUSE",
+    "title": "Meditation for Inner Peace 7 | Relaxing Music for Meditation, Yoga, Studying | Fall Asleep Fast",
+    "score": 50
+  },
+  {
+    "id": "R9ZXa9PM9GM",
+    "title": "We sat down with diagnosed Psychopath, Loic, to learn about his condition and the way he thinks",
+    "score": 50
+  },
+  {
+    "id": "jF9tKMJVu78",
+    "title": "The Universe: New Evidence of Parallel Worlds (S3, E2) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "EuZJoS7FJEY",
+    "title": "The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast",
+    "score": 50
+  },
+  {
+    "id": "B8FEfO7vPNk",
+    "title": "Central Nervous System: Crash Course Anatomy \\u0026 Physiology #11",
+    "score": 50
+  },
+  {
+    "id": "PkujpWzHrpA",
+    "title": "Part 1: Planets Train | Learn About the Planets of Our Solar System",
+    "score": 50
+  },
+  {
+    "id": "AHQGNb0zBgg",
+    "title": "Rock 'N Learn Title Screen",
+    "score": 50
+  },
+  {
+    "id": "KIlKKTnfzpY",
+    "title": "1. Learn About Firetrucks",
+    "score": 50
+  },
+  {
+    "id": "szz_iT5tWZ0",
+    "title": "Lessons From the Brain Scans of Criminals / Murderers - Daniel Amen, MD",
+    "score": 50
+  },
+  {
+    "id": "mmH1QN341Zg",
+    "title": "Psychopath Vs Sociopath | How To Spot The Difference And Why You Need to Know This",
+    "score": 50
+  },
+  {
+    "id": "36LmQX6d7k0",
+    "title": "Lessons From the Brain Scans of MURDERERS - Daniel Amen, MD #medical #murdernews #crimestory",
+    "score": 50
+  },
+  {
+    "id": "qmrubE8xtiM",
+    "title": "Can Neuroscience help us eradicate psychopathy? | Octavio Choi | TEDxPortlandStateUniversity",
+    "score": 50
+  },
+  {
+    "id": "v19y0qx6Y6I",
+    "title": "What Makes a Psychopath?",
+    "score": 50
+  },
+  {
+    "id": "UUEq3wntySo",
+    "title": "How to Get Your Brain to Focus | Chris Bailey | TEDxManchester",
+    "score": 50
+  },
+  {
+    "id": "qB3lpAS9Usw",
+    "title": "A neuroscientist’s guide to reclaiming your brain | Nicole Vignola",
+    "score": 50
+  },
+  {
+    "id": "X4BKRcqgBY8",
+    "title": "Neuroscience Confirms: This One Behavior Quietly Weakens Your Brain",
+    "score": 50
+  },
+  {
+    "id": "mQYWmiPHChU",
+    "title": "Brain health myth: multitasking is bad.#Neuroscience #BrainSmart #StressLess #adhd #multitasking",
+    "score": 50
+  },
+  {
+    "id": "MY5SatbZMAo",
+    "title": "How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem",
+    "score": 50
+  },
+  {
+    "id": "z2xThbX63RQ",
+    "title": "I Make $300,000/Month with 50 YouTube Channels",
+    "score": 50
+  },
+  {
+    "id": "dbSHwr47vk8",
+    "title": "How To Make $5000/month with Only $25/week",
+    "score": 50
+  },
+  {
+    "id": "3YttH7JtkP8",
+    "title": "How To Make $4000/month with Only $12/week",
+    "score": 50
+  },
+  {
+    "id": "Qrv64bAO6fc",
+    "title": "Month 2: All Stars Block Of The Month with Jenny Doan of Missouri Star Quilt Co (Video Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "pOsELMZLjGg",
+    "title": "I make $40K/month with this one website",
+    "score": 50
+  },
+  {
+    "id": "HBjMEVbnZ4E",
+    "title": "How to Force Your Brain to Study (when you don't feel like it)",
+    "score": 50
+  },
+  {
+    "id": "WPni755-Krg",
+    "title": "How to triple your memory by using this trick | Ricardo Lieuw On | TEDxHaarlem",
+    "score": 50
+  },
+  {
+    "id": "6LSfkQkL7xM",
+    "title": "Your Brain: Who's in Control? | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "3frUZIwjYwk",
+    "title": "Will AI Make Bitcoin More Valuable Than Ever?",
+    "score": 50
+  },
+  {
+    "id": "bTNmscjJmVU",
+    "title": "What guides the work of the Penny George Institute for Health and Healing?",
+    "score": 50
+  },
+  {
+    "id": "jZrZMu193BA",
+    "title": "Top 4 Most Velueable UK British King George One Penny Coins That Could Make You Rich!",
+    "score": 50
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "huO9FKcvYS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RjMbuG7tRJU",
+    "title": "Best Oil Painting Tips For Brand New Painters",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "dPw8J2G7cqI",
+    "title": "Oil Painting Basics",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "cagYqNJrFnA",
+    "title": "Amazing Connect No Screw With Japanese Woodworking Joints Skills, Making Tensegrity Wood Structure",
+    "score": 10
+  },
+  {
+    "id": "FRYpbOUglUc",
+    "title": "The Clever 10-second woodworking trick I use to impress people",
+    "score": 10
+  },
+  {
+    "id": "JYpgk69XCdc",
+    "title": "You're being misled about woodworking joinery",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Simple Math Tricks You Weren’t Taught at School",
+    "score": 10
+  },
+  {
+    "id": "LERb-94P8po",
+    "title": "Adding fractions",
+    "score": 10
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "Mental Math Tricks",
+    "score": 10
+  },
+  {
+    "id": "k8mdltWUWWY",
+    "title": "This Simple Math Trick Confuses Everyone 😱",
+    "score": 10
+  },
+  {
+    "id": "mO01HHe-k2s",
+    "title": "Mental Math Tricks - Addition, Subtraction, Multiplication \\u0026 Division!",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hnzWHBCw2uU",
+    "title": "Fast Multiplication Tricks 2 Digit Numbers",
+    "score": 10
+  },
+  {
+    "id": "VLOou59juGo",
+    "title": "Can You Pass This Maths Quiz...? ➗✖️🧠 | Easy, Medium, Hard, Impossible | Quiz Blitz",
+    "score": 10
+  },
+  {
+    "id": "D6IqViNgGbk",
+    "title": "Calculator - Fractions",
+    "score": 10
+  },
+  {
+    "id": "cYKVTbdyxQ8",
+    "title": "Trick To Always Remember Your Times Table (6 to 10)",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_XVGDx3TWaw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "itW2Eie2eQ8",
+    "title": "Multiply by 9",
+    "score": 10
+  },
+  {
+    "id": "DBESxadc-nY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "WORLD WAR 2 Full Movie (1930s - 1945) - A Complete Overview",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "How World War One Caused World War Two | Price Of Empire",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iaeBnYLNXgQ",
+    "title": "3 Hours Of WW2 Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "WW2 - OverSimplified (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5AhfDK-Pvzk",
+    "title": "World War II (short version)",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DiI-1PF_Mr0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-9Osn7JsP1Y",
+    "title": "Intro and Sourdough Starter Basics",
+    "score": 10
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "The Empty Atom Myth: Why “Nothing” Isn’t Empty at All",
+    "score": 10
+  },
+  {
+    "id": "21XuHLJkEeg",
+    "title": "How Did One Equation Predict Antimatter (…and Spin)?",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "This Particle Spins at 300× the Speed of Light",
+    "score": 10
+  },
+  {
+    "id": "piC8T2HnzrU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "rCfPQLVzus4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "J8lju2oC9xE",
+    "title": "Ancient Clues Suggest We’re NOT The First Civilization!",
+    "score": 10
+  },
+  {
+    "id": "TuCk4NDsihE",
+    "title": "Why So Many Ancient Civilizations Collapsed At The Same Time",
+    "score": 10
+  },
+  {
+    "id": "R7tlozYjgFc",
+    "title": "Stone Age",
+    "score": 10
+  },
+  {
+    "id": "6gOO1fs2FJc",
+    "title": "Indus Valley Civilization",
+    "score": 10
+  },
+  {
+    "id": "YpKej05RgsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "X8Py63FH5Dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pd2CBAA9mJk",
+    "title": "Advice for Lung Cancer Patients with Brain Mets: Sharon’s Story",
+    "score": 10
+  },
+  {
+    "id": "j_OPQgPIdKg",
+    "title": "Mind reading with brain scanners | John-Dylan Haynes | TEDxBerlin",
+    "score": 10
+  },
+  {
+    "id": "7y8HjalvoaM",
+    "title": "Orange County student with brain cancer granted dying wish to graduate high school",
+    "score": 10
+  },
+  {
+    "id": "pVmggu5IwOo",
+    "title": "CNN Weekend Shows - Boy with brain cancer says he doesn't want any more treatment",
+    "score": 10
+  },
+  {
+    "id": "dWcdBOYy_bU",
+    "title": "Which Parts Of The Brain Do What?",
+    "score": 10
+  },
+  {
+    "id": "K84Wmjte5k4",
+    "title": "Paralyzed man able to walk again with brain and spine implants",
+    "score": 10
+  },
+  {
+    "id": "ltdxEa9nOlE",
+    "title": "Living with Brain Damage: George’s Story",
+    "score": 10
+  },
+  {
+    "id": "SNZJWqt42lo",
+    "title": "Living with Brain Injuries Taught Us Advocacy | Brandon Kidney Lauren Migliaccio | TEDxCSU",
+    "score": 10
+  },
+  {
+    "id": "grOwiBDM1Yk",
+    "title": "What if the corpus callosum of the brain is removed? \"},{\"text\":\"#Brains\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLcCENbKAxgJIhMI_K2Yt6qTkgMVW5xlAx3UMSvKygEEOlsUgg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/brains\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZicmFpbnMYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLcCENbKAxgJIhMI_K2Yt6qTkgMVW5xlAx3UMSvK\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#Neuron\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLYCENbKAxgLIhMI_K2Yt6qTkgMVW5xlAx3UMSvKygEEOlsUgg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/neuron\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZuZXVyb24YAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLYCENbKAxgLIhMI_K2Yt6qTkgMVW5xlAx3UMSvK\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#MeetArnold\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLUCENbKAxgNIhMI_K2Yt6qTkgMVW5xlAx3UMSvKygEEOlsUgg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/meetarnold\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUOCgptZWV0YXJub2xkGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLUCENbKAxgNIhMI_K2Yt6qTkgMVW5xlAx3UMSvK\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"3,189,131 views\"},\"shortViewCount\":{\"simpleText\":\"3.1M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "V2crj1XR4kk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "h2jvHynuMjI",
+    "title": "Ariana Grande, Justin Bieber - Stuck with U (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Q_7Nov2xcWs",
+    "title": "Ariana Grande \\u0026 Justin Bieber - Stuck with U",
+    "score": 10
+  },
+  {
+    "id": "pE49WK-oNjU",
+    "title": "NBA YoungBoy - Stuck With Me  - [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "DrjkQx2KcFw",
+    "title": "Huey Lewis \\u0026 The News - Stuck With You",
+    "score": 10
+  },
+  {
+    "id": "J08ZwySCoJ8",
+    "title": "The Neighbourhood - Stuck with Me (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "UWBC2bv5O7U",
+    "title": "Ariana Grande - Stuck with U (Lyrics) ft. Justin Bieber",
+    "score": 10
+  },
+  {
+    "id": "oAos7lLHLGw",
+    "title": "Ariana Grande, Justin Bieber - Stuck With U (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "eINn91C1Hps",
+    "title": "King Fred Rescues Work Truck Stuck In The Utah Mud! ",
+    "score": 10
+  },
+  {
+    "id": "LHIOOG3Ta1I",
+    "title": "Hunting The Migration!!! Idaho Mule Deer Hunt - Stuck N The Rut 220",
+    "score": 10
+  },
+  {
+    "id": "7Re30H83sIQ",
+    "title": "Stuck with U - Ariana Grande \\u0026 Justin Bieber",
+    "score": 10
+  },
+  {
+    "id": "hWzOHqzRCAA",
+    "title": "Stuck With Each Other (Disney Film Version \\\"Confessions Of A Shopaholic\\\")",
+    "score": 10
+  },
+  {
+    "id": "erjJ_R_n2MI",
+    "title": "Ariana Grande \\u0026 Justin Bieber - Stuck with U (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "9UZGU4sKL7w",
+    "title": "Stuck With You (Single Edit)",
+    "score": 10
+  },
+  {
+    "id": "UhSZfc4l2yg",
+    "title": "【FULL】Stuck in a Banquet Time Loop, Killed by Her. Now I Hear Her Thoughts. Time to break#minidrama",
+    "score": 10
+  },
+  {
+    "id": "V34yRVSApOQ",
+    "title": "Stuck with Mom's New Friend | S1 E9 | Full Episode | Stuck in the Middle | @disneychannelanimation",
+    "score": 10
+  },
+  {
+    "id": "WtKCtzTyBw4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ipi9cBWTZUI",
+    "title": "Hospital’s interoperability harms 15-month-old with brain cancer",
+    "score": 10
+  },
+  {
+    "id": "z1237BOLkaM",
+    "title": "Fall Out Boy - Dance, Dance (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "MsXdUtlDVhk",
+    "title": "Dance Dice 🎲 💃 | Kids Dance Game! | Super Simple Play",
+    "score": 10
+  },
+  {
+    "id": "SswrC6KmFIE",
+    "title": "DIANA ANKUDINOVA (Диана Анкудинова) Last Dance (Dernière danse) \\\"First Audition\\\" (Age 14 yo)",
+    "score": 10
+  },
+  {
+    "id": "qSBXNJmdif8",
+    "title": "DIANA ANKUDINOVA (Диана Анкудинова) Last Dance (Dernière danse) \\\"Full song, Best performance\\\"",
+    "score": 10
+  },
+  {
+    "id": "kjMh5suWSdU",
+    "title": "Wiggle, Freeze, Spin + more! | Dance Along | Dance Compilation | Danny Go! Songs for Kids",
+    "score": 10
+  },
+  {
+    "id": "XDJHcUkkjHA",
+    "title": "Freeze Dance",
+    "score": 10
+  },
+  {
+    "id": "OpEg_MlXecM",
+    "title": "\\\"Zooby Zooby\\\" Lyrical Video | Dance Dance | Alisha Chinoy | Bappi Lahiri | Mithun, Smita Patil",
+    "score": 10
+  },
+  {
+    "id": "HXbq49vLRC8",
+    "title": "“Aisha toxic dance dekh Nora bhi sharma gai” – asli moment of the night! | Hip Hop India S2 |",
+    "score": 10
+  },
+  {
+    "id": "K3YcaYywsoQ",
+    "title": "Aqua - Barbie Girl | Official Dance for Kids Video",
+    "score": 10
+  },
+  {
+    "id": "JPmCSkuf_7E",
+    "title": "Weekly Dance Compilation - August 2025 Part 3",
+    "score": 10
+  },
+  {
+    "id": "L785op_t7Hg",
+    "title": "Sharara dance video | Dance with Alisha |",
+    "score": 10
+  },
+  {
+    "id": "VpC63LML0vc",
+    "title": "Shararat | Dance Cover | Nainika \\u0026 Thanaya",
+    "score": 10
+  },
+  {
+    "id": "vFe1QfcOfkU",
+    "title": "Soda Pop - Saja Boys From K-POP DEMON HUNTERS | Just Dance Fanmade Mashup | 9K Subscriber Special",
+    "score": 10
+  },
+  {
+    "id": "o1Lfo_-sUA8",
+    "title": "Intro \\u0026 Difficulty",
+    "score": 10
+  },
+  {
+    "id": "Ndmx9C8s3cw",
+    "title": "Ranchhod Rangila | Kavya | GGM | ",
+    "score": 10
+  },
+  {
+    "id": "LMVAO1hgO0w",
+    "title": "Kunali ki dance proffomance 😊 ",
+    "score": 10
+  },
+  {
+    "id": "BDhy5UVzFfw",
+    "title": "Coffin Dance 😎⭐️ Who BEST DANCER? 🤔🔥 TUZELITY SHUFFLE DANCE 2024",
+    "score": 10
+  },
+  {
+    "id": "IjY7QFIOlkI",
+    "title": "london tumkda Dance Video | Wedding Dance Performance | IDS Crew",
+    "score": 10
+  },
+  {
+    "id": "BeJO4LJ9PJQ",
+    "title": "QATAL - Guru Randhawa | Qatal Dance For Beginners | FITNESS DANCE With RAHUL",
+    "score": 10
+  },
+  {
+    "id": "xw1y8mc5cWs",
+    "title": "Chittiyaan Kalayaan/ Hema Tavsalkar",
+    "score": 10
+  },
+  {
+    "id": "1wTJqwc1CGE",
+    "title": "Tere Vaaste | Dance Cover | Zara Hatke Zara Bachke | Vicky Kaushal| Sara Ali Khan | Geeta Bagdwal",
+    "score": 10
+  },
+  {
+    "id": "fwpBthtZSKw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "71-6_Hw8rGY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xciwYxZuxog",
+    "title": "Forrest Frank - YOUR WAY'S BETTER (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Rmr3ipvSa7I",
+    "title": "Grammar: Your or You're?",
+    "score": 10
+  },
+  {
+    "id": "pjAJswDB14s",
+    "title": "YOU'RE vs. YOUR",
+    "score": 10
+  },
+  {
+    "id": "-FdKPEA17m4",
+    "title": "New BRUNO MARS CONCERT UPDATE + New Brainrots!",
+    "score": 10
+  },
+  {
+    "id": "ZkBoA-b3OAs",
+    "title": "Whatever I GOOGLE COMES TO LIFE In Steal A Brainrot!",
+    "score": 10
+  },
+  {
+    "id": "vsB18u9R2nM",
+    "title": "School Lunch is AWFUL..",
+    "score": 10
+  },
+  {
+    "id": "vxw5DGNeKy4",
+    "title": "My Sisters are in a FIGHT... ",
+    "score": 10
+  },
+  {
+    "id": "JISOef8az2w",
+    "title": "Your Song - Parokya Ni Edgar (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "m2ITXz1dfyc",
+    "title": "Your vs You're Meaning, Difference, Grammar, Pronunciation with Example English Sentences",
+    "score": 10
+  },
+  {
+    "id": "79DijItQXMM",
+    "title": "Homophones: your and you're",
+    "score": 10
+  },
+  {
+    "id": "qcq4GTp5Nto",
+    "title": "I'm 64 and rich. If you're in your 20s or 30s, watch this",
+    "score": 10
+  },
+  {
+    "id": "xyu-4WDVp3s",
+    "title": "As Long As You’re Mine",
+    "score": 10
+  },
+  {
+    "id": "MyEWwtaGMJI",
+    "title": "Taylor Swift - You're On Your Own, Kid (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "7Gbg6Z70J7E",
+    "title": "Bracket - Yori Yori",
+    "score": 10
+  },
+  {
+    "id": "IahNmvmFOS4",
+    "title": "Forrest Frank - YOUR WAY’S BETTER (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "oofSnsGkops",
+    "title": "YOUR / YOU'RE? Can you choose the correct one? Grammar Test - 32. Fun and easy English test.",
+    "score": 10
+  },
+  {
+    "id": "RHtWSFl1aoc",
+    "title": "Confused Words - YOU'RE \\u0026 YOUR",
+    "score": 10
+  },
+  {
+    "id": "KRxod7diTkU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WiLhAOaBkSA",
+    "title": "Cerebral hemispheres",
+    "score": 10
+  },
+  {
+    "id": "ba-HMvDn_vU",
+    "title": "1. Introduction to the Human Brain",
+    "score": 10
+  },
+  {
+    "id": "MWVh7_6kTRM",
+    "title": "Major Parts of the Brain",
+    "score": 10
+  },
+  {
+    "id": "pRFXSjkpKWA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xXk5BOAO7rc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kMKc8nfPATI",
+    "title": "The Brain Structure and Function",
+    "score": 10
+  },
+  {
+    "id": "gvX5ao5SCjE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g1is-3_c5LA",
+    "title": "TRAIN YOUR BRAIN TO OUTSMART ANY SITUATION | Napoleon Hill Motivation",
+    "score": 10
+  },
+  {
+    "id": "wmpWjZusUqE",
+    "title": "Introduction: Why your brain is your ultimate weapon",
+    "score": 10
+  },
+  {
+    "id": "CurW-sIQPxU",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "WtY8qZo-EIA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VAEmxt78bBI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0TpON5T-Sw4",
+    "title": "Introduction: Why Your Brain Needs a Second Brain",
+    "score": 10
+  },
+  {
+    "id": "Nk0H3o-hRMA",
+    "title": "Functional Mri",
+    "score": 10
+  },
+  {
+    "id": "vHrmiy4W9C0",
+    "title": "Introduction: Phrenology",
+    "score": 10
+  },
+  {
+    "id": "iomhlXlisKI",
+    "title": "Introduction to the brain",
+    "score": 10
+  },
+  {
+    "id": "bAl3ht-kpVk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "xB7rXw_3gVY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RNLceVI8jcc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SvBfAqk70LU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jvIr7b0roYI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "d4Hym5TekUE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TzBQ5m0ecl0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XPHEZ5CusFA",
+    "title": "Extreme Fatigue to Cancer! - Jason | Waldenström | The Patient Story",
+    "score": 10
+  },
+  {
+    "id": "zX3Feib6dJ4",
+    "title": "Five Years Later… My Cancer Came Back as Stage 4! - Megan | Stage 4 Melanoma | The Patient Story",
+    "score": 10
+  },
+  {
+    "id": "MpegVnGSWZ8",
+    "title": "Meet Megan",
+    "score": 10
+  },
+  {
+    "id": "4L2szOpoC-4",
+    "title": "My Cough Wouldn't GO AWAY - Stephanie | Lung Cancer | The Patient Story",
+    "score": 10
+  },
+  {
+    "id": "qJiqy_PDzYA",
+    "title": "Meet Stephanie",
+    "score": 10
+  },
+  {
+    "id": "bWAatejVqzc",
+    "title": "Why are more adults than ever getting cancer younger? - The Global Story podcast, BBC World Service",
+    "score": 10
+  },
+  {
+    "id": "R6OR_SpmAGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v4uGYQm1uoI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "20VdKjZaMU0",
+    "title": "Meet Nicole",
+    "score": 10
+  },
+  {
+    "id": "VA7n3th883s",
+    "title": "Meet Stephanie",
+    "score": 10
+  },
+  {
+    "id": "UiRCwsZ_fBs",
+    "title": "Brain Tumour \\u0026 Breast Cancer | The Hey Family's Story | Stand Up To Cancer",
+    "score": 10
+  },
+  {
+    "id": "NXXt9dt-Q4A",
+    "title": "Hughie's Story | Bone Cancer | Stand Up To Cancer",
+    "score": 10
+  },
+  {
+    "id": "BlzdEN-uoK8",
+    "title": "It Wasn’t IBS—It Was A Tumor! - Jessica | Pancreatic Cancer | The Patient Story",
+    "score": 10
+  },
+  {
+    "id": "1alOtTorpPw",
+    "title": "Meet Jessica",
+    "score": 10
+  },
+  {
+    "id": "oj8LCs1E_Wc",
+    "title": "I Had Cancer, but Doctors Missed It for Months! - Audrey | Thyroid Cancer | The Patient Story",
+    "score": 10
+  },
+  {
+    "id": "UNsRoubQvQ8",
+    "title": "Meet Audrey",
+    "score": 10
+  },
+  {
+    "id": "Dzgl93T2qPg",
+    "title": "Who I Am",
+    "score": 10
+  },
+  {
+    "id": "bsS9euwRzMU",
+    "title": "Meet Courtney",
+    "score": 10
+  },
+  {
+    "id": "BNWbIlIFO40",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gxRXROsszVQ",
+    "title": "Meet Amanda",
+    "score": 10
+  },
+  {
+    "id": "yBLVDPtavLw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-nH4MRvO-10",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BbkkK7UBlE4",
+    "title": "Living with Brain Damage: George’s Story",
+    "score": 10
+  },
+  {
+    "id": "2OfLiWLjaEY",
+    "title": "6 Warning Signs of Brain Tumors",
+    "score": 10
+  },
+  {
+    "id": "y2wm046M2d4",
+    "title": "Primary Brain Tumors | What Are They and How Do They Form?",
+    "score": 10
+  },
+  {
+    "id": "cSeXJKSQpiI",
+    "title": "Mayo Clinic Explains Brain Tumor",
+    "score": 10
+  },
+  {
+    "id": "RQsUeoVHJl4",
+    "title": "Brain Cancer Breakthrough: New Clinical Trial Tests Direct-to-Tumor Method",
+    "score": 10
+  },
+  {
+    "id": "3jP5rfa-BoQ",
+    "title": "It’s important to be aware of some the symptoms of a brain tumour. Thanks for sharing with us Beth!",
+    "score": 10
+  },
+  {
+    "id": "snTlK3GVswo",
+    "title": "What Are Primary Malignant Brain Tumors?",
+    "score": 10
+  },
+  {
+    "id": "eLL50q5g5xA",
+    "title": "How Susan Rooney Beat Stage 4 Brain Cancer",
+    "score": 10
+  },
+  {
+    "id": "hoFgNh_bIP0",
+    "title": "Having Radiotherapy for Brain Cancer",
+    "score": 10
+  },
+  {
+    "id": "Anvg2YfQdpI",
+    "title": "Brain Tumour Causes, Symptoms \\u0026 Treatment - Q\\u0026A with Dr Nicolas Kon | Mount Elizabeth Hospitals",
+    "score": 10
+  },
+  {
+    "id": "fPhyKvOe8X8",
+    "title": "Doctor Explains How Scientist Cures His Own Brain Cancer?!",
+    "score": 10
+  },
+  {
+    "id": "Sffs0VurEMk",
+    "title": "Michael Bolton Details Aggressive Brain Cancer Battle",
+    "score": 10
+  },
+  {
+    "id": "u-v7hVJxOs0",
+    "title": "Primary Brain Tumors | What Are They and How Do They Form?",
+    "score": 10
+  },
+  {
+    "id": "fVp2fBrSowY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GXDcGZV2FJs",
+    "title": "Meet Kelsey",
+    "score": 10
+  },
+  {
+    "id": "hqTyYzL5Hxw",
+    "title": "Mayo Clinic Explains Brain Tumor",
+    "score": 10
+  },
+  {
+    "id": "_9Qu9QoyOJQ",
+    "title": "It’s important to be aware of some the symptoms of a brain tumour. Thanks for sharing with us Beth!",
+    "score": 10
+  },
+  {
+    "id": "tpa4kp4lK60",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pBSncknENRc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "49ZJ8KvxZbA",
+    "title": "Brain Tumors",
+    "score": 10
+  },
+  {
+    "id": "N2EsvFkUTH8",
+    "title": "Brain Tumors",
+    "score": 10
+  },
+  {
+    "id": "uQR1iHgdggA",
+    "title": "Brain tumour symptoms experienced by Beth 🧠 #braintumour #cancerawareness",
+    "score": 10
+  },
+  {
+    "id": "eqdMhZxZw0g",
+    "title": "Types of brain tumor",
+    "score": 10
+  },
+  {
+    "id": "KZu5q3kdMDA",
+    "title": "What Are Primary Malignant Brain Tumors?",
+    "score": 10
+  },
+  {
+    "id": "bh5sswbaC5U",
+    "title": "In 2014 Charlotte started a YouTube channel where she also discussed fashion, beauty and her beloved handbags",
+    "score": 10
+  },
+  {
+    "id": "KtnrqR7411A",
+    "title": "Lab",
+    "score": 10
+  },
+  {
+    "id": "kBnABYnjLqs",
+    "title": "Mind",
+    "score": 10
+  },
+  {
+    "id": "47wmY-BCxXY",
+    "title": "Pigeon Mind Vulture - ORIGINAL- Chad Haynes and Troy Provencher",
+    "score": 10
+  },
+  {
+    "id": "-8UYRnww0tY",
+    "title": "Witt Lowry - Piece of Mind 4 (Prod. By Dan Haynes)",
+    "score": 10
+  },
+  {
+    "id": "CFIt40HDF8o",
+    "title": "Witt Lowry - Piece of Mind 4 (Prod. By Dan Haynes)",
+    "score": 10
+  },
+  {
+    "id": "E1kVtqvLoX0",
+    "title": "\\\"Get Yo Mind Right\\\" - Rev. Dr. Frederick D. Haynes, III",
+    "score": 10
+  },
+  {
+    "id": "SjtlMlUlNBU",
+    "title": "Radio of Mind-ORIGINAL- Chad Haynes",
+    "score": 10
+  },
+  {
+    "id": "UV7Fssjy8LI",
+    "title": "Emily Haines \\u0026 The Soft Skeleton | Choir Of The Mind | Full Concert",
+    "score": 10
+  },
+  {
+    "id": "rPWg4lMcrsA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GXXaIgfiFXs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Y05B0-7Sd_c",
+    "title": "Nerdy Girl Dumps BF To Be Popular | Dhar Mann Studios",
+    "score": 10
+  },
+  {
+    "id": "QJc0U-GCANE",
+    "title": "Nerd Girl RISKS IT ALL To BE POPULAR",
+    "score": 10
+  },
+  {
+    "id": "DuwUIRhwfJE",
+    "title": "Millie Jackson and Isaac Hayes - You Never Crossed My Mind",
+    "score": 10
+  },
+  {
+    "id": "y_5sVNnBhtU",
+    "title": "Gov't Mule - Beautifully Broken (Warren Haynes)",
+    "score": 10
+  },
+  {
+    "id": "A-awdzAmUD4",
+    "title": "All Of Me | Living with multiple personalities (dissociative identity disorder) | 7NEWS Spotlight",
+    "score": 10
+  },
+  {
+    "id": "kqqyOVsMvHE",
+    "title": "5 *easy* ways to become the most organized person you know (don't skip this)",
+    "score": 10
+  },
+  {
+    "id": "0ujpiQlmvZ0",
+    "title": "Introduction to Becoming the Ultimate IT Girl",
+    "score": 10
+  },
+  {
+    "id": "iY4k0zhlIvQ",
+    "title": "Money On My Mind…HAYNES",
+    "score": 10
+  },
+  {
+    "id": "89dottgJHmE",
+    "title": "What multiple personalities look like inside mind | 60 Minutes Australia",
+    "score": 10
+  },
+  {
+    "id": "cueAgcnwLzY",
+    "title": "Roland Haynes Jr \\u0026 Phenix (2024) Mind Games",
+    "score": 10
+  },
+  {
+    "id": "h5pZHBMW7vg",
+    "title": "Inside the Mind Ep. 84 - Akeem Haynes",
+    "score": 10
+  },
+  {
+    "id": "3jJC_hRh0aY",
+    "title": "Free Your Mind - Smooth Flowa (Prod E  Haynes)",
+    "score": 10
+  },
+  {
+    "id": "MOQuRzUnZ-g",
+    "title": "Wallace Haynes - Footsteps Through My Mind - Stop Records (TN)",
+    "score": 10
+  },
+  {
+    "id": "e4DsQ-a3De8",
+    "title": "KEL HAYNES FEAT. KASH-FLO  (MIND OVER MATTER)",
+    "score": 10
+  },
+  {
+    "id": "zcBFW4sOYUg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bY3iilpyYmc",
+    "title": "Callum Wilson nets West Ham's 93RD-MINUTE WINNER against Spurs | Premier League | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "4F_vcZ6KD9Q",
+    "title": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault) (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "BZ-rLBkUZf4",
+    "title": "5-Minute Tofu \\u0026 Broccoli Microwave Meal",
+    "score": 10
+  },
+  {
+    "id": "b-8RL9QN3Qk",
+    "title": "No Equipment. No Repeats. Just 20 Minutes.",
+    "score": 10
+  },
+  {
+    "id": "NXkZR8llo_A",
+    "title": "5 Minute Timer",
+    "score": 10
+  },
+  {
+    "id": "qgnDbQ1aM54",
+    "title": "🧤 SMART WINTER HACKS FOR EVERYDAY LIFE! Simple DIY craft ideas ❄️",
+    "score": 10
+  },
+  {
+    "id": "dfP_IVXfrUc",
+    "title": "1 MINUTE AGO: Donald Trump SCARED of Arrest — Federal Court Orders Instant Action",
+    "score": 10
+  },
+  {
+    "id": "7mTi8gPp6-o",
+    "title": "4 Minute Timer",
+    "score": 10
+  },
+  {
+    "id": "jDuygY5j0P4",
+    "title": "1 Hour Timer",
+    "score": 10
+  },
+  {
+    "id": "wN-mZtbX2Pg",
+    "title": "BREAKING: International Court Issues Trump Warrant as Unprecedented Ruling Hits His Empire | Buffett",
+    "score": 10
+  },
+  {
+    "id": "Bs2JIjkFEds",
+    "title": "BREAKING NEWS: Trump Held in Contempt — Marshals Called In During Explosive Courtroom Showdown",
+    "score": 10
+  },
+  {
+    "id": "XDkCxFAzg9k",
+    "title": "1 MIN AGO Trump BEGS McConnell for Support — His THREE WORD Response Stuns America",
+    "score": 10
+  },
+  {
+    "id": "659l22Qy06Y",
+    "title": "What's REALLY Going On with Trump in Court Right Now",
+    "score": 10
+  },
+  {
+    "id": "cf65LccSxe4",
+    "title": "BREAKING: \\\"You Protected Trump!\\\" — Swallwell DESTROYS Patel Over Hidden Epstein Files",
+    "score": 10
+  },
+  {
+    "id": "Affh1xGriY8",
+    "title": "All Too Well (Taylor's Version) (TMV) Eras Tour Movie Performance ❤️",
+    "score": 10
+  },
+  {
+    "id": "w0XKa2LKuU0",
+    "title": "Trump to charge NATO countries against US acquiring Greenland with 10% tariff",
+    "score": 10
+  },
+  {
+    "id": "JBEF6Cs82UQ",
+    "title": "Mindfulness Meditation Music for Focus, Concentration to Relax",
+    "score": 10
+  },
+  {
+    "id": "EkbM5EfFyME",
+    "title": "Puthu kuthirai - 1  | thirukkadaiyur 2026 | minute creators",
+    "score": 10
+  },
+  {
+    "id": "6WbHALUbsBo",
+    "title": "20 Min Standing HIIT Workout For Fat Burn \\u0026 Cardio (No Equipment, No Repeats)",
+    "score": 10
+  },
+  {
+    "id": "fvRUj62C_vk",
+    "title": "Funny Baby Video You Can't Miss! 🤣 5 Minute Fails",
+    "score": 10
+  },
+  {
+    "id": "dNOLzcwUh6M",
+    "title": "One Minute from EVERY SpongeBob Episode (Season 3) 🧽 | @SpongeBobOfficial",
+    "score": 10
+  },
+  {
+    "id": "qrREoCMGLsg",
+    "title": "Workout Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZToicYcHIOU",
+    "title": "bring your awareness to the breath taking",
+    "score": 10
+  },
+  {
+    "id": "z2WP_nu_Kj4",
+    "title": "2 Minutes of Fame",
+    "score": 10
+  },
+  {
+    "id": "cPRStAMLoEA",
+    "title": "What English phrases really mean ⏲️ 6 Minute English",
+    "score": 10
+  },
+  {
+    "id": "u5TITb4P2Mg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CZM2ZqWZIVY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rH4UzMcbmjU",
+    "title": "How is ADHD Diagnosed?",
+    "score": 10
+  },
+  {
+    "id": "RIKgZn7GMlA",
+    "title": "Growing Up With Diagnosed \\u0026 Unmedicated ADHD",
+    "score": 10
+  },
+  {
+    "id": "zA3lehFj5cM",
+    "title": "How I Was Diagnosed With ADHD in my 20s | My Symptoms + How I Found Out | Adult ADHD in Women",
+    "score": 10
+  },
+  {
+    "id": "3ZxNx5qOFfE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sLZEIpBTUNk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rr3tLodmwwE",
+    "title": "LATE DIAGNOSED ADHD: The hidden cost of going undiagnosed for most of your life",
+    "score": 10
+  },
+  {
+    "id": "uOUYlWWx4A8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dQ0Hw7yltJo",
+    "title": "White House says Trump diagnosed with 'chronic venous insufficiency'",
+    "score": 10
+  },
+  {
+    "id": "tU3rEObIS88",
+    "title": "As someone diagnosed with ADHD",
+    "score": 10
+  },
+  {
+    "id": "K_MUc2IAoTw",
+    "title": "The day I was diagnosed with advanced bone cancer, Serena's childhood sweetheart came to our house..",
+    "score": 10
+  },
+  {
+    "id": "eIC-oBoA438",
+    "title": "How is breast cancer diagnosed?",
+    "score": 10
+  },
+  {
+    "id": "CyvbjajOVtg",
+    "title": "I Misdiagnosed With An Autoimmune Disease - Turns Out It Was CANCER!",
+    "score": 10
+  },
+  {
+    "id": "KfbdUDPqxM8",
+    "title": "What to Do After Being Diagnosed With Cancer",
+    "score": 10
+  },
+  {
+    "id": "WA1F3WmOPdo",
+    "title": "Don't Panic After a Cancer Diagnosis",
+    "score": 10
+  },
+  {
+    "id": "91e0clpPKjw",
+    "title": "Brillia For 9 Year Old Boy With Diagnosed ADHD",
+    "score": 10
+  },
+  {
+    "id": "RxQz5Y3SLyw",
+    "title": "Getting diagnosed with ADHD can be emotionally draining",
+    "score": 10
+  },
+  {
+    "id": "EHysZj53Ur4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RDVgfFzZVsA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HiyzzcuaAac",
+    "title": "Introduction to Huberman Lab Essentials \\u0026 the Nervous System",
+    "score": 10
+  },
+  {
+    "id": "c08Zzc0xepI",
+    "title": "Introduction to Parallel Universes",
+    "score": 10
+  },
+  {
+    "id": "4kIDyv39Hlk",
+    "title": "Inside the Brain of a Psychopath",
+    "score": 10
+  },
+  {
+    "id": "068rdc75mHM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wo_e0EvEZn8",
+    "title": "Quantum Physics, Explained Slowly | The Sleepy Scientist",
+    "score": 10
+  },
+  {
+    "id": "KrejHlq-O9A",
+    "title": "The Dreaming Mind: Waking the Mysteries of Sleep",
+    "score": 10
+  },
+  {
+    "id": "wvvovktKKa4",
+    "title": "Alcohol and the Brain: Explained",
+    "score": 10
+  },
+  {
+    "id": "EpYQJ9NarFQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "K7QBnuF6dHg",
+    "title": "Decoding the Brain",
+    "score": 10
+  },
+  {
+    "id": "hiduiTq1ei8",
+    "title": "BABIES!",
+    "score": 10
+  },
+  {
+    "id": "QJHOLe0WCqI",
+    "title": "Doom Scroll",
+    "score": 10
+  },
+  {
+    "id": "y-G-FLJQTD8",
+    "title": "Real Pregnancy Brain Moments \\u0026 Intro",
+    "score": 10
+  },
+  {
+    "id": "j_lbSizR-6k",
+    "title": "Anatomy and Physiology of Nervous System Part Brain",
+    "score": 10
+  },
+  {
+    "id": "q8NtmDrb_qo",
+    "title": "Introduction: Broca's Aphasia",
+    "score": 10
+  },
+  {
+    "id": "UuLZ27M6JCo",
+    "title": "1. Counting Monster Trucks (numbers 1-10)",
+    "score": 10
+  },
+  {
+    "id": "Qw8E9WnZTQk",
+    "title": "The Human Brain for Kids",
+    "score": 10
+  },
+  {
+    "id": "lxAZC7pb-o4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mQjqmr-l1xc",
+    "title": "The Human Brain | Educational Videos for Kids",
+    "score": 10
+  },
+  {
+    "id": "1aCYsYSM1MA",
+    "title": "Brain stem",
+    "score": 10
+  },
+  {
+    "id": "b79xio8qgiY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yBPraaPfLSA",
+    "title": "Riddle #1. The pyramid mystery",
+    "score": 10
+  },
+  {
+    "id": "Ih_swD45rcg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-WPPFUT8R44",
+    "title": "5-Minute Brain Break (Movement Break) For KIDS!",
+    "score": 10
+  },
+  {
+    "id": "t4bzu1qFwtM",
+    "title": "Fire Truck, Dump Truck, Monster Truck \\u0026 More | Vehicles for Kids Collection Vol 1",
+    "score": 10
+  },
+  {
+    "id": "ZkDTaVYWFQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XdG-xdeCIBA",
+    "title": "Amoeba Teen  - (Coming On) Stronger [Official]",
+    "score": 10
+  },
+  {
+    "id": "RS4jZv7XwpU",
+    "title": "An Introduction to Amoeba Teen",
+    "score": 10
+  },
+  {
+    "id": "AAnAX1x6qJw",
+    "title": "\\\"Pop!\\\" by Amoeba Teen [OFFICIAL]",
+    "score": 10
+  },
+  {
+    "id": "ll7M4U_7hYg",
+    "title": "\\\"Caught In The Middle\\\" by Amoeba Teen",
+    "score": 10
+  },
+  {
+    "id": "3c40YbBEKWQ",
+    "title": "\\\"Folk\\\" by Amoeba Teen [OFFICIAL] - The Appleyard Sessions Album",
+    "score": 10
+  },
+  {
+    "id": "75fW6iAEEyQ",
+    "title": "Amoeba Teen \\\"A Night Of The Popera\\\"",
+    "score": 10
+  },
+  {
+    "id": "JAvlFnPXIvw",
+    "title": "Amoeba Teen @ Toy Tiger Concerts",
+    "score": 10
+  },
+  {
+    "id": "FuXbPSCUw64",
+    "title": "\\\"3am Here I Am\\\" by Amoeba Teen [OFFICIAL] - The Appleyard Sessions Album",
+    "score": 10
+  },
+  {
+    "id": "qSbhmFr9R9o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oA7eeZRg4wE",
+    "title": "Psychologist Explains 4 Ways Brains of Psychopaths Are Different",
+    "score": 10
+  },
+  {
+    "id": "RM9-yDB7XfQ",
+    "title": "Amygdala",
+    "score": 10
+  },
+  {
+    "id": "_Cz7CjeVmKI",
+    "title": "Inside the brain of a psychopath",
+    "score": 10
+  },
+  {
+    "id": "RB-qhZl_qLo",
+    "title": "Neuroscientist With The Brain Of A Psychopath",
+    "score": 10
+  },
+  {
+    "id": "UIxTFKpBSSw",
+    "title": "Psychopaths | The Dark Triad Personality Types",
+    "score": 10
+  },
+  {
+    "id": "JR3u0k8Ozi8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L4j6PzwmFgc",
+    "title": "HALLOWEEN",
+    "score": 10
+  },
+  {
+    "id": "qSuzLAP3S24",
+    "title": "Lars Madsen Forensic Psychology Centre",
+    "score": 10
+  },
+  {
+    "id": "tHuS2YVPRIg",
+    "title": "impulsivity dishonesty selfishness manipulation",
+    "score": 10
+  },
+  {
+    "id": "WSatsGU5UKQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0iXR74kQbkk",
+    "title": "Psychopath or Sociopath | What You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "gpjYtAB9i2w",
+    "title": "Cluster B Disorders",
+    "score": 10
+  },
+  {
+    "id": "3xTdj0k4mc4",
+    "title": "Can a Brain Scan Determine a Killer Before They Kill?",
+    "score": 10
+  },
+  {
+    "id": "Q0KXuoQNTog",
+    "title": "What's a Pro-Social Psychopath and How Did I Become One? | James Fallon | Google Zeitgeist",
+    "score": 10
+  },
+  {
+    "id": "msywgIU2P4k",
+    "title": "Three Ingredients for Murder: Neuroscientist James Fallon on psychopaths and libertarians",
+    "score": 10
+  },
+  {
+    "id": "Vx8RxRn6dWU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "UPsjp0YwPII",
+    "title": "How the Psychopathic Brain informs about Recidivism",
+    "score": 10
+  },
+  {
+    "id": "oAEYwgDre3g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2UcZWXvgMZE",
+    "title": "Now That's What I Call Summer (2021) 1 Dance Pop Party",
+    "score": 10
+  },
+  {
+    "id": "JKp0oaZ8RvY",
+    "title": "Sunroof",
+    "score": 10
+  },
+  {
+    "id": "Hhh_cKWQ534",
+    "title": "Glow party at school for kids #dance #gameplay #fun #glow #party #kindergarten #kids #2023",
+    "score": 10
+  },
+  {
+    "id": "3EpyRFfwM4c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "i9QAVURLtJo",
+    "title": "Kids Dance Party 🎉 Fun 1 Hour Dancing Extravaganza with The Wiggles🕺💃",
+    "score": 10
+  },
+  {
+    "id": "U1BSfuvUDfU",
+    "title": "Mighty Pups Birthday Party 🎉🐾 | Fun Games \\u0026 Adventures for Kids",
+    "score": 10
+  },
+  {
+    "id": "upfyda9kloA",
+    "title": "Freeze Dance Song | DJ Raphi | Dance Party for kids",
+    "score": 10
+  },
+  {
+    "id": "sp-YHMFOQrc",
+    "title": "Move Your Feet/D.A.N.C.E./It's A Sunshine Day (Trolls).",
+    "score": 10
+  },
+  {
+    "id": "hChGsRHP-mM",
+    "title": "Holiday! (Trolls Holiday, 2017)",
+    "score": 10
+  },
+  {
+    "id": "CFRLz-FLnyo",
+    "title": "K-Pop Floor is Lava Run",
+    "score": 10
+  },
+  {
+    "id": "phe5xrNgt5Y",
+    "title": "45 Minute Ultimate KIDZ BOP Dance Party!🎧 | Dance Monkey, Espresso, and more!",
+    "score": 10
+  },
+  {
+    "id": "RVmtA6GX3TY",
+    "title": "Espresso",
+    "score": 10
+  },
+  {
+    "id": "A1KmkM0wMmg",
+    "title": "Dance Monkey",
+    "score": 10
+  },
+  {
+    "id": "GpeKFIiXEig",
+    "title": "Holiday! (Trolls Holiday, 2017)",
+    "score": 10
+  },
+  {
+    "id": "sikpxhmgDj8",
+    "title": "Glow Sticks",
+    "score": 10
+  },
+  {
+    "id": "hNYhh4n3w4M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YvWU4Zd-IMc",
+    "title": "How Cortisol Programs Our Day",
+    "score": 10
+  },
+  {
+    "id": "qYvXk_bqlBk",
+    "title": "BRIANLITTLE",
+    "score": 10
+  },
+  {
+    "id": "Hu4Yvq-g7_Y",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "negnKVYXloc",
+    "title": "Introduction: The Habit Weakening Your Brain",
+    "score": 10
+  },
+  {
+    "id": "GAOxJv96VE8",
+    "title": "Your Brain, Your Life | Jared Horvath | TEDxYouth@ReddamHouse",
+    "score": 10
+  },
+  {
+    "id": "NilvW_ACG9M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lyu7v7nWzfo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pe3ndaTKjuM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uJfGby1C3C4",
+    "title": "What percentage of your brain do you use? - Richard E. Cytowic",
+    "score": 10
+  },
+  {
+    "id": "5NubJ2ThK_U",
+    "title": "FRONTAL LOBES",
+    "score": 10
+  },
+  {
+    "id": "VXjTTNsTcNk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TEhKf5roL_g",
+    "title": "Why Therapy Doesn’t Work For Mentally Ill People",
+    "score": 10
+  },
+  {
+    "id": "o8Cv5tSE6RI",
+    "title": "The Silent Treatment",
+    "score": 10
+  },
+  {
+    "id": "shhsfp1NQDg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AMROSTsSDbY",
+    "title": "Your Boyfriend Is Not a Good Communicator",
+    "score": 10
+  },
+  {
+    "id": "xFgdfN35wNQ",
+    "title": "The Silent Treatment",
+    "score": 10
+  },
+  {
+    "id": "kA4y2iyV6lI",
+    "title": "Doctor explains Ringworm (aka Tinea) including symptoms, signs, causes and treatment!",
+    "score": 10
+  },
+  {
+    "id": "80OVeYb1XOw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "g8qNBJQoHec",
+    "title": "Goal of the Silent Treatment for the Narcissist",
+    "score": 10
+  },
+  {
+    "id": "h2rR77VsF5c",
+    "title": "Why Is It So Difficult To Cure Cancer",
+    "score": 10
+  },
+  {
+    "id": "OadAW99s4Ik",
+    "title": "What is a car T cell?",
+    "score": 10
+  },
+  {
+    "id": "o05X7kDmF84",
+    "title": "Treating Benign Prostatic Hyperplasia (BPH)",
+    "score": 10
+  },
+  {
+    "id": "53RevkuVtA0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "usUOwcCdxLM",
+    "title": "Trigger Finger Symptoms, Causes, and Treatment",
+    "score": 10
+  },
+  {
+    "id": "oy6k-cRiroo",
+    "title": "LOW TESTOSTERONE (Low-T), Causes, Signs and Symptoms, Diagnosis and Treatment.",
+    "score": 10
+  },
+  {
+    "id": "HLyhruDoagI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YDFqW3v8TQs",
+    "title": "Everything You Need To Know About SPRAVATO (esketamine) Depression Treatment",
+    "score": 10
+  },
+  {
+    "id": "vvtOEknW58M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "G13xihAFNuw",
+    "title": "SEX DRIVE DIPS",
+    "score": 10
+  },
+  {
+    "id": "5KUbnVeMYEo",
+    "title": "Bell's Palsy",
+    "score": 10
+  },
+  {
+    "id": "Sw4s7c7rpIg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "25e2ThGhXsM",
+    "title": "Brain Smart Start",
+    "score": 10
+  },
+  {
+    "id": "o5yhyClkegk",
+    "title": "What are the Four Components of a Brain Smart Start?",
+    "score": 10
+  },
+  {
+    "id": "pcwiEUu-M_w",
+    "title": "7 Simple Brain Exercises to Boost Your Brain Power and Focus",
+    "score": 10
+  },
+  {
+    "id": "6A7Rbl_FKMU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I58JytJEfds",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bgXJWotViOY",
+    "title": "The Secret to Taste They Don't Tell You About",
+    "score": 10
+  },
+  {
+    "id": "4SBXGzH_F3w",
+    "title": "[#전원일기] 316화ㅣ“신식 부엌, 참 좋지요?” MBC 19870414 방송",
+    "score": 10
+  },
+  {
+    "id": "WwOfATmdJ6Q",
+    "title": "Morning Relaxing Music - Positive Background Music for Kids (Sway)",
+    "score": 10
+  },
+  {
+    "id": "WUXEeAXywCY",
+    "title": "Remembering Numbers - Brainsmart - BBC",
+    "score": 10
+  },
+  {
+    "id": "IlCYGeA2Ne0",
+    "title": "Power Foods for the Brain | Neal Barnard | TEDxBismarck",
+    "score": 10
+  },
+  {
+    "id": "v_ONFix_e4k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "iwc62zLuUEI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aZBls_wq8mo",
+    "title": "what am i #brain #quotes #brainsmart",
+    "score": 10
+  },
+  {
+    "id": "-OnjBe8u6Xk",
+    "title": "Brain Smart Start | 1-Minute Morning Routine for Focus, Energy \\u0026 Brain Power 🧠✨",
+    "score": 10
+  },
+  {
+    "id": "svspYGp7Ctk",
+    "title": "Mismatch word #brain #braincheck #braintest #puzzle #brainsmart #iqquiz #iqtest",
+    "score": 10
+  },
+  {
+    "id": "y0WBTYeL-BA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "w0wSA0-C39w",
+    "title": "A Month in the Country",
+    "score": 10
+  },
+  {
+    "id": "5dc3Wsv9TNk",
+    "title": "I Spent A Month With TommyInnit...",
+    "score": 10
+  },
+  {
+    "id": "CiMfQFYlImc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-HATAiJQ7a8",
+    "title": "October 31st, Friday | Powerful Prayer To End The Month With Miracles, Victory \\u0026 Divine Breakthrough",
+    "score": 10
+  },
+  {
+    "id": "a5mF7uFTLrc",
+    "title": "We could retire here in Brazil",
+    "score": 10
+  },
+  {
+    "id": "AqdkMHSiKVI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EF3uyvHHBfM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jHWQ2YhrxU4",
+    "title": "Applique of the Month with Jenny: January 2026 Project",
+    "score": 10
+  },
+  {
+    "id": "YzfEfddZNWU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1g6unx9naeM",
+    "title": "Skrillex - Scary Monsters And Nice Sprites (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "WSeNSzJ2-Jw",
+    "title": "Monsters at The Beach Song | Don't Swim Alone | Best Halloween Songs | Baby Xavi Kids Songs",
+    "score": 10
+  },
+  {
+    "id": "0dfF9BA37lA",
+    "title": "Monsters at the beach song",
+    "score": 10
+  },
+  {
+    "id": "AVLUefgk1Zo",
+    "title": "Monsters in the Dark",
+    "score": 10
+  },
+  {
+    "id": "ZvptCPrknP8",
+    "title": "Monster Police 🧟🚨 | Kids Songs \\u0026 Nursery Rhymes | Baby Blue",
+    "score": 10
+  },
+  {
+    "id": "8anZWMbSv5U",
+    "title": "Monster Police",
+    "score": 10
+  },
+  {
+    "id": "Mi_GlJWpa_U",
+    "title": "The 20 SCARIEST Monster Noises EVER Recorded!",
+    "score": 10
+  },
+  {
+    "id": "AAnW9BHGi7o",
+    "title": "scary cgi monsters 2022",
+    "score": 10
+  },
+  {
+    "id": "V9kamk8Kwpg",
+    "title": "Scary Trevor Henderson monsters in Luma ai 13 #scary #sirenhead #cartooncat #horror #lumaai #creepy",
+    "score": 10
+  },
+  {
+    "id": "-CNUz22xzK0",
+    "title": "I Bought The Scariest Sea Monsters Off The Web...",
+    "score": 10
+  },
+  {
+    "id": "20tcy3Nw-50",
+    "title": "🗃👻 Spooky Monster | EP87 | Bebefinn Best #Halloween Songs and Nursery Rhymes",
+    "score": 10
+  },
+  {
+    "id": "iS8DOjLXwnk",
+    "title": "Swish, swoosh!",
+    "score": 10
+  },
+  {
+    "id": "GUwW_n4lEe8",
+    "title": "Monsters in the Dark｜Halloween Songs 🎃｜Hogi Halloween｜Hogi Pinkfong",
+    "score": 10
+  },
+  {
+    "id": "KlkkPmYD1R4",
+    "title": "Go Away! | Kids Halloween Song | Super Simple Songs",
+    "score": 10
+  },
+  {
+    "id": "bOUYdTqDlIw",
+    "title": "Monster In The Toilet Song | Best Kids Songs Compilation | Baby Xavi Kids Songs",
+    "score": 10
+  },
+  {
+    "id": "FsWMDoZfc0o",
+    "title": "Monster in the toilet",
+    "score": 10
+  },
+  {
+    "id": "5UcGIPDSiYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "u6ks5OCQR9I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FHsLbZ7LIAY",
+    "title": "Brain Test -23 / Test your IQ / Teacher innovation ideas. #education #maths #school #students",
+    "score": 10
+  },
+  {
+    "id": "EMbLjW3lVfs",
+    "title": "5 Brain Exercises to Improve Memory and Concentration | Jim Kwik",
+    "score": 10
+  },
+  {
+    "id": "KVm5QuXSxxA",
+    "title": "Brain exercise #1",
+    "score": 10
+  },
+  {
+    "id": "LGHH4kTblEw",
+    "title": "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver",
+    "score": 10
+  },
+  {
+    "id": "Fl6rL6RLcAU",
+    "title": "Maine loses $1B+ in Canadian tourism.",
+    "score": 10
+  },
+  {
+    "id": "CM2wIS8UejE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hz4JKqoG_Mc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xyQY8a-ng6g",
+    "title": "FATTY ACIDS",
+    "score": 10
+  },
+  {
+    "id": "Dq0gmzTDqaA",
+    "title": "1",
+    "score": 10
+  },
+  {
+    "id": "OpyLGdrBu5E",
+    "title": "DIFFERENT NUTRIENTS",
+    "score": 10
+  },
+  {
+    "id": "Y5x42ANWtkA",
+    "title": "Top Brain Foods for brain health",
+    "score": 10
+  },
+  {
+    "id": "0wpFTCgeulo",
+    "title": "What Type of Brain Do You Have?",
+    "score": 10
+  },
+  {
+    "id": "5_lvX-EF0TM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CASp7J5OsKI",
+    "title": "Brain Test -01 / Test your IQ / Teacher innovation ideas #education #maths #school #students",
+    "score": 10
+  },
+  {
+    "id": "n4Ya2QX1djY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0EjklfLrEW8",
+    "title": "Body Planes and Sections: Frontal, Sagittal, Oblique, Transverse | Anatomy and Physiology",
+    "score": 10
+  },
+  {
+    "id": "2J8bDkALBic",
+    "title": "A Plane is a 2D slice within a 3D space",
+    "score": 10
+  },
+  {
+    "id": "wLRzVaAqPKE",
+    "title": "AXIAL, CORONAL , SAGITTAL  PLANE #paramedical #radiographer #radiographer #viralvideo #radiological",
+    "score": 10
+  },
+  {
+    "id": "EOyTJJZcOPQ",
+    "title": "Image Orientation and Transducer Position",
+    "score": 10
+  },
+  {
+    "id": "-awazvNpICg",
+    "title": "Axial Sagittal \\u0026 Coronal planes of a CBCT scan",
+    "score": 10
+  },
+  {
+    "id": "r8IwqU-Wj0o",
+    "title": "Incorrect image planes shoulder CT",
+    "score": 10
+  },
+  {
+    "id": "SB8e8Xlb_xM",
+    "title": "MRI Cross Sectional Anatomy of the Brain (Sagittal View)",
+    "score": 10
+  },
+  {
+    "id": "PlDrax1_sdY",
+    "title": "MRI Sagittal (Side) View of Left Shoulder, 400x400 Resolution, 24 Images",
+    "score": 10
+  },
+  {
+    "id": "jZfbVo8Nt_0",
+    "title": "Introduction to Computed Tomographic imaging of the Chest",
+    "score": 10
+  },
+  {
+    "id": "OLJ4sqeaCbQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tsfh6w8j6oE",
+    "title": "Anatomical planes/sections of the body#education #antony",
+    "score": 10
+  },
+  {
+    "id": "SnR_3onIWaE",
+    "title": "Worlds First Full Sagittal Section Entire Human Body Anatomy - Anatomsky",
+    "score": 10
+  },
+  {
+    "id": "uCupuGPRbE4",
+    "title": "Lumbar Spine MRI (Sagittal View) with Detailed Labeling.#XrayXpert #MRI #SpineAnatomy #Radiology",
+    "score": 10
+  },
+  {
+    "id": "YJ2eieql2zc",
+    "title": "1280043077 002 2 20x8 m sagittal",
+    "score": 10
+  },
+  {
+    "id": "U6X59yekm7g",
+    "title": "CT Brain Overview / Axial, Coronal \\u0026 Sagittal. ..",
+    "score": 10
+  },
+  {
+    "id": "57xzzrTYVJs",
+    "title": "Abdomen Axial, Coronal \\u0026 Sagittal Image",
+    "score": 10
+  },
+  {
+    "id": "HCmTObzftdc",
+    "title": "(Fig 2-A.03) normal ACL on Sagittal images",
+    "score": 10
+  },
+  {
+    "id": "Nsm-wd7OO1o",
+    "title": "Image Interpretation: IUD Sagittal",
+    "score": 10
+  },
+  {
+    "id": "foy4BWceXd0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aEasxr-mgI8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9UukcdU258A",
+    "title": "The Brainstem",
+    "score": 10
+  },
+  {
+    "id": "uOsgDkeH52o",
+    "title": "The Human Brain: Major Structures and Functions",
+    "score": 10
+  },
+  {
+    "id": "0-8PvNOdByc",
+    "title": "Parts of the brain",
+    "score": 10
+  },
+  {
+    "id": "sewhbmh0ECg",
+    "title": "treat epilepsy",
+    "score": 10
+  },
+  {
+    "id": "ALH5dVMbzTg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JqMpGrM5ECo",
+    "title": "Prof. Henry Markram Co-director Human Brain Project, Brain Simulation - EPFL, Switzerland",
+    "score": 10
+  },
+  {
+    "id": "_7_XH1CBzGw",
+    "title": "How many neurons does the human brain have?",
+    "score": 10
+  },
+  {
+    "id": "Bjd8nPKKIU4",
+    "title": "The scan was done at Cardiff University Brain Research Imaging Centre",
+    "score": 10
+  },
+  {
+    "id": "GsWfGTTgntA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lIJkc6tulus",
+    "title": "Major Brain Structures and Their Functions",
+    "score": 10
+  },
+  {
+    "id": "Ecvv-EvOj8M",
+    "title": "Nonlinear Dynamical Systems",
+    "score": 10
+  },
+  {
+    "id": "WRw27NQzX-A",
+    "title": "Psychedelics: effects on the human brain and physiology | Simeon Keremedchiev | TEDxVarna",
+    "score": 10
+  },
+  {
+    "id": "FyAgx_tzh80",
+    "title": "Psilocybin Mushroom",
+    "score": 10
+  },
+  {
+    "id": "MOWDb2TBYDg",
+    "title": "Wiggle, Freeze, Spin + more! | Dance Along | Dance Compilation | Danny Go! Songs for Kids",
+    "score": 10
+  },
+  {
+    "id": "R0MoaamP-oc",
+    "title": "Anaya’s 1st Birthday Party❤️#birthdayparty #moana #1stbirthday #emcee #babygirl #celebration",
+    "score": 10
+  },
+  {
+    "id": "4acJcYfZRwc",
+    "title": "Party Freeze Dance Song - THE KIBOOMERS Preschool Songs for Circle Time",
+    "score": 10
+  },
+  {
+    "id": "v0YSm8ztk70",
+    "title": "Party game idea! Lots of fun",
+    "score": 10
+  },
+  {
+    "id": "puaPIbD52Bk",
+    "title": "Halloween Costume Party Song 🎃| Zombie Halloween Baby Cartoon | Nursery Rhymes #kidssongs #babysongs",
+    "score": 10
+  },
+  {
+    "id": "DlnEggRIyXk",
+    "title": "#jollibee #kids#kid,#party #goodvibes #birthday #happy #family",
+    "score": 10
+  },
+  {
+    "id": "PytgqxMIkF4",
+    "title": "Happy Birthday Song for Kids 🎉 | Cute Animated Cartoon Birthday Party Song | Name Birthday Wishes",
+    "score": 10
+  },
+  {
+    "id": "Ywvx56h39Z0",
+    "title": "\\\"Great Big Party!\\\" 🥳🎈Birthday Celebration Dance | Danny Go! Songs for Kids",
+    "score": 10
+  },
+  {
+    "id": "02H502iplUU",
+    "title": "Lava, Sharks, Race Cars + more! 🚘🔥🦈 | 1-Hour Dance Party Compilation | Danny Go! Songs for Kids",
+    "score": 10
+  },
+  {
+    "id": "UYIkHzplGh4",
+    "title": "If george ever found penny",
+    "score": 10
+  },
+  {
+    "id": "My2MbBWTr70",
+    "title": "Pennywise and Georgie You'll Foat Too IT 2017",
+    "score": 10
+  },
+  {
+    "id": "kzRkYdvHe6U",
+    "title": "George A. Penny - \\\"Win Your Love For Me\\\"",
+    "score": 10
+  },
+  {
+    "id": "1nHwH8h0rT0",
+    "title": "Play Date Meme George and Penny 💙❤️💙❤️",
+    "score": 10
+  },
+  {
+    "id": "9sXJcamWY2c",
+    "title": "It (2017) | Georgie Meets Pennywise | ClipZone: Horrorscapes",
+    "score": 10
+  },
+  {
+    "id": "I0J9GC4gHFc",
+    "title": "Mama's Story || PIGGY ANIMATION MEME || Ft. Mother, Penny, and George ||",
+    "score": 10
+  },
+  {
+    "id": "6XSxtR--cLs",
+    "title": "Thanksgiving Dinner with George and Penny",
+    "score": 10
+  },
+  {
+    "id": "h95bdszN2pU",
+    "title": "Nosey neighbor recorded his MURDERER...",
+    "score": 10
+  },
+  {
+    "id": "hpwvGoU1TK0",
+    "title": "What Did George VI See in Her? The Queen Mother Unmasked",
+    "score": 10
+  },
+  {
+    "id": "epbyS4Jnhmo",
+    "title": "Abby's Way or the Highway! (Flashback MEGA-Compilation) | Dance Moms",
+    "score": 10
+  },
+  {
+    "id": "VKq1iL4Dtb8",
+    "title": "The Job With an 18% Death Rate",
+    "score": 10
+  },
+  {
+    "id": "boezS4C_MFc",
+    "title": "The Beatles - Sgt. Pepper’s Lonely Hearts Club Band (VINYL)",
+    "score": 10
+  },
+  {
+    "id": "O9qbASURNbk",
+    "title": "Hiding From 24 BOYS in 24 HOURS",
+    "score": 10
+  },
+  {
+    "id": "YPkS9f0WfE0",
+    "title": "High-Speed Picking and Psychic Finds (S2, E6) | American Pickers | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "_ozQnzmoxmQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CB9d9ppSPVs",
+    "title": "Peppa Pig Tales 2026 🦷 Peppa Brushes GIANT TEETH 🪥 BRAND NEW Peppa Pig Episodes",
+    "score": 10
+  },
+  {
+    "id": "rvsVuXyyt4c",
+    "title": "Do You Have a Rare 1920 Penny  - Worth Thousands?",
+    "score": 10
+  },
+  {
+    "id": "A5qeoskoB1A",
+    "title": "Daedelus feat. Inara George \\\"Penny Loafers\\\"",
+    "score": 10
+  },
+  {
+    "id": "FHoxT2g0W8k",
+    "title": "George A.  Penny - Win Your Love",
+    "score": 10
+  },
+  {
+    "id": "9K0pltj8vsY",
+    "title": "Georgie summons Pennywise from the Sewer Drain",
+    "score": 10
+  },
+  {
+    "id": "vMLM6_AgIfk",
+    "title": "Love like you meme//ft. Penny and George//",
+    "score": 10
+  },
+  {
+    "id": "s--WxRpa9nI",
+    "title": "How Georgie escaped his house?",
+    "score": 10
+  },
+  {
+    "id": "rxQ1dRT54r4",
+    "title": "*MEMORY* PIGGY (George sees sister Penny in nightmares !!) | DISTORTED MEMORY ENDING",
+    "score": 10
+  },
+  {
+    "id": "xdxkyBqfP2o",
+    "title": "Intro",
+    "score": 10
+  }
+]

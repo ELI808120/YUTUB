@@ -1,1 +1,3397 @@
-[]
+[
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "DNKpAZTXhhU",
+    "title": "מדריך פייתון  - 43 - פונקציות",
+    "score": 110
+  },
+  {
+    "id": "o0wyYsNbJeY",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 37  - סטים",
+    "score": 110
+  },
+  {
+    "id": "nAApXVKkroE",
+    "title": "מדריך פייתון/Python פרק 6 - מילוי מחרוזות",
+    "score": 110
+  },
+  {
+    "id": "ZsjAw4d6Xro",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "dL8VLQIXzTk",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "JcAlyfcw3eE",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "BGRGSQ34D10",
+    "title": "Painting Techniques for Autumn Landscapes + Learn to Paint Trees!",
+    "score": 50
+  },
+  {
+    "id": "MgthcVIh1ZQ",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "Bake the Perfect Sourdough Bread: A Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "The BEST Beginner Sourdough Bread Tutorial on YouTube",
+    "score": 50
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "Wholemeal sourdough bread made from rye flour - quick and easy to make!",
+    "score": 50
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "START LEARNING SPANISH with Easy Story (A1-A2) – Un pequeño Paso",
+    "score": 50
+  },
+  {
+    "id": "3DlSYmKHaiY",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Learn Spanish in 10 Minutes - ALL the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "5Ga566gw01Q",
+    "title": "IF YOU WANT TO LEARN SPANISH WATCH THIS FIRST!! Must know, basic conversational vocabulary. || SAH",
+    "score": 50
+  },
+  {
+    "id": "pA69U4L9KOY",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "S80SZH2iq1c",
+    "title": "Lesson 1: Spanish Pronunciation \\u0026 Basic Translation",
+    "score": 50
+  },
+  {
+    "id": "tdF0xHv_wuk",
+    "title": "How To Draw A Dachshund",
+    "score": 50
+  },
+  {
+    "id": "_nPQOMZmIk8",
+    "title": "Easy way to draw anime eyes!!... (eye tutorial) #eyedrawing #anime",
+    "score": 50
+  },
+  {
+    "id": "b2scvHu_tGQ",
+    "title": "10 Easy Animal Drawings for Kids Vol. 1 | Step by Step Drawing Tutorials | How to Draw Cute Animals",
+    "score": 50
+  },
+  {
+    "id": "FgSkjhQ-fCs",
+    "title": "Interstellar Secrets of Ancient Civilizations | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "CGP1Q25z46E",
+    "title": "The Missing 100,000 Years: What Humans Did BEFORE Civilization | History for Sleep",
+    "score": 50
+  },
+  {
+    "id": "40nBEj4eqAs",
+    "title": "The ENTIRE History of Human Civilizations | Ancient to Modern (4K Documentary) [Full Movie]",
+    "score": 50
+  },
+  {
+    "id": "ha1NneZGm7A",
+    "title": "3+ Hours Of Medieval Military History",
+    "score": 50
+  },
+  {
+    "id": "CsqG-5hqkmE",
+    "title": "The Entire History of Human Civilizations Explained",
+    "score": 50
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "The ENTIRE History of WORLD WAR 2 |  Full WWII Documentary | Fall Asleep To",
+    "score": 50
+  },
+  {
+    "id": "HA-iJ7sB7m4",
+    "title": "💤History For Sleep:\\\"World War Two\\\"💤Bedtime Story For Grown Ups💤Sleep Story💤Documentary Podcast",
+    "score": 50
+  },
+  {
+    "id": "GPUg7n8-M6o",
+    "title": "Way Maker (Lyric Video) - Leeland [ Official ]",
+    "score": 50
+  },
+  {
+    "id": "KFG6AoEScVE",
+    "title": "How to fix a broken heart | Guy Winch | TED",
+    "score": 50
+  },
+  {
+    "id": "nja_0BaQcNg",
+    "title": "Sad Songs ♫ Sad songs playlist for broken hearts ~ Depressing Songs 2024 That Make You Cry",
+    "score": 50
+  },
+  {
+    "id": "HKBNJHmJ1K0",
+    "title": "How to look after a suit",
+    "score": 50
+  },
+  {
+    "id": "6_pEmBCfbIA",
+    "title": "This Product Makes Me Feel a Little Guilty About Painting #miniaturepainting #warhammer",
+    "score": 50
+  },
+  {
+    "id": "zvJnrvhNf6o",
+    "title": "El Hongo Prison: Keeping Mexico's Cartel Gang Members Behind Bars | Witness | Documentary",
+    "score": 50
+  },
+  {
+    "id": "O0Y25q3GDPg",
+    "title": "The Ultimate RECON Guide for Battlefield 6",
+    "score": 50
+  },
+  {
+    "id": "r1ZEh2YF5ss",
+    "title": "Battlefield 6 Ultimate Beginners Guide",
+    "score": 50
+  },
+  {
+    "id": "QdSwDI9AvGw",
+    "title": "The ULTIMATE Battlefield 6 CLASS GUIDE! (Assault, Engineer, Support, Recon)",
+    "score": 50
+  },
+  {
+    "id": "8mnQn1uB1kc",
+    "title": "How to Master Stealth Combat in Battlefield 6",
+    "score": 50
+  },
+  {
+    "id": "QB9ndsKNZcY",
+    "title": "Three solid minutes of Tedisms to make your day | Line Of Duty - BBC",
+    "score": 50
+  },
+  {
+    "id": "EjwKOKiD7JY",
+    "title": "Make Straight and Curved Lines|Prewriting Skills| Practice Straight and Curved Lines | Jack Hartmann",
+    "score": 50
+  },
+  {
+    "id": "T7H8igUlRE8",
+    "title": "How to Plan Features Around Bend Lines to Avoid Distortion",
+    "score": 50
+  },
+  {
+    "id": "C9yQHu-NV2k",
+    "title": "How to work out the tonnage on a Press Brake FAQ [Selmach Machinery]",
+    "score": 50
+  },
+  {
+    "id": "B-wO78z5djA",
+    "title": "How to make your own custom formed hoses for swaps and fun!",
+    "score": 50
+  },
+  {
+    "id": "yhlV6wUV5DU",
+    "title": "FINAL HOURS: Will the 6x6 Ferrari Make It to Barrett-Jackson?",
+    "score": 50
+  },
+  {
+    "id": "tRNAHZOJzxI",
+    "title": "HOW TO BREAKCORE LIKE SEWERSLVT",
+    "score": 50
+  },
+  {
+    "id": "jwIWJIdpNFs",
+    "title": "HOW TO BREAKCORE DRUMS",
+    "score": 50
+  },
+  {
+    "id": "CRELdHIOXKQ",
+    "title": "Technique #1 Playlist",
+    "score": 50
+  },
+  {
+    "id": "rc2aKrmVNv8",
+    "title": "How to make Playstation Jungle from the 2000s",
+    "score": 50
+  },
+  {
+    "id": "bwW245q5668",
+    "title": "how to sewerslvt in 3 minutes | breakcore tutorial",
+    "score": 50
+  },
+  {
+    "id": "DfdXUJUJPv0",
+    "title": "How to make Breakcore like Sewerslvt",
+    "score": 50
+  },
+  {
+    "id": "mlktA3YTgCU",
+    "title": "Post Filter Builder by TreeHouse Marketing \\u0026 Development",
+    "score": 50
+  },
+  {
+    "id": "Bj_uE6ggvII",
+    "title": "How Do I Use Search Filters Effectively In EBSCOhost? - Ultimate Study Hacks",
+    "score": 50
+  },
+  {
+    "id": "2qUMEpYNpEE",
+    "title": "Make Products Visible in Search Filters on Amazon | Listing Quality Dashboard",
+    "score": 50
+  },
+  {
+    "id": "51zmUr9-xHA",
+    "title": "How To Use EBay Search Filters? - Ultimate Life Hacks",
+    "score": 50
+  },
+  {
+    "id": "AuGgGzynAxY",
+    "title": "How To Use Search Filters In Facebook On PC (New Update)",
+    "score": 50
+  },
+  {
+    "id": "-klEKeYSvbc",
+    "title": "SPARK SUPER Your Uncommon Building Maintenance Company",
+    "score": 50
+  },
+  {
+    "id": "DQuY8YopStM",
+    "title": "How to hire a part time building superintendent in NYC (Part 2) - 10 core building super duties",
+    "score": 50
+  },
+  {
+    "id": "21dFBIYuI7A",
+    "title": "New NIKE Offline ? Are the ‘Cool Grey’ Pack any good? Review plus on feet ✌️",
+    "score": 50
+  },
+  {
+    "id": "jccDqsZdaaA",
+    "title": "Train Simulator 2018 - Route Learning: Tonbridge to Hastings (Class 421) // 60fps",
+    "score": 50
+  },
+  {
+    "id": "et0wvFXssU8",
+    "title": "ROUTE LEARNING TONBRIDGE TO HASTINGS CLASS 421",
+    "score": 50
+  },
+  {
+    "id": "VSug9lhiwHY",
+    "title": "Three solid minutes of Tedisms to make your day | Line Of Duty - BBC",
+    "score": 50
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "piTln4g_tYo",
+    "title": "10 Math Tricks School Didn't Teach You But Should Have",
+    "score": 10
+  },
+  {
+    "id": "itW2Eie2eQ8",
+    "title": "Multiply by 9",
+    "score": 10
+  },
+  {
+    "id": "DBESxadc-nY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "My 10 Best Oil Painting TIPS To Instantly Improve Your Paintings",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RjMbuG7tRJU",
+    "title": "Best Oil Painting Tips For Brand New Painters",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "huO9FKcvYS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "Why You Should Use Mediums in Oil Painting",
+    "score": 10
+  },
+  {
+    "id": "cC6CCdg8fBs",
+    "title": "Speed Up Your Oil Painting | Amazing Method for Realistic Fur",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "CTuGXdyrWUo",
+    "title": "Beginner Sourdough Bread",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t7-nb1wlnyA",
+    "title": "Hi, I'm Lucia. Nice to meet you",
+    "score": 10
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Improve your SPANISH listening by up to 90% in just 45 minutes!",
+    "score": 10
+  },
+  {
+    "id": "xglEjH0Ue8o",
+    "title": "LOCATION",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Ozf-mSpMFk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yej5ztTDacI",
+    "title": "Why Do We ACTUALLY Believe Atoms Exist?",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t06aTX9jM34",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ao2IP7f23-8",
+    "title": "drawing a curve right here in the middle of our paper",
+    "score": 10
+  },
+  {
+    "id": "7SWvlUd2at8",
+    "title": "hooplakidz Doodle",
+    "score": 10
+  },
+  {
+    "id": "ySdXMv7PY6I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jQl46pqUrU0",
+    "title": "Demi Lovato - Stone Cold (Audio Only)",
+    "score": 10
+  },
+  {
+    "id": "ne_jRAHABx0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "5_u0TSKkdi0",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "J8lju2oC9xE",
+    "title": "Ancient Civilizations Tried To Tell Us Something We Ignored",
+    "score": 10
+  },
+  {
+    "id": "mNM0cFWzVhs",
+    "title": "Ancient Clues Suggest We’re NOT The First Civilization!",
+    "score": 10
+  },
+  {
+    "id": "GMvwl6ENcbQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Dpu3XoY3wQw",
+    "title": "Why So Many Ancient Civilizations Collapsed At The Same Time",
+    "score": 10
+  },
+  {
+    "id": "1l8YQuyjWks",
+    "title": "100 Unexplained Archaeological Mysteries That Ancient Civilizations Left Behind",
+    "score": 10
+  },
+  {
+    "id": "TuCk4NDsihE",
+    "title": "13. The Assyrians - Empire of Iron",
+    "score": 10
+  },
+  {
+    "id": "jpAphcaVJIs",
+    "title": "DNA, Temples and Stargates - Humanity’s Real Blueprint - Ancient Civilizations Part 1",
+    "score": 10
+  },
+  {
+    "id": "A6r75qb8Bmg",
+    "title": "Hidden Origins of Humanity",
+    "score": 10
+  },
+  {
+    "id": "zrq0wMoggI8",
+    "title": "4+ HOURS of Ancient Civilisations That Vanished",
+    "score": 10
+  },
+  {
+    "id": "X8Py63FH5Dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NKsQfckKuwY",
+    "title": "Chichen Itza And El Castillo",
+    "score": 10
+  },
+  {
+    "id": "EC38TZNXxAY",
+    "title": "The 1 Thing That All Ancient Civilizations Built EXACTLY the Same.. | Matt LaCroix",
+    "score": 10
+  },
+  {
+    "id": "ANM-YmK4rMI",
+    "title": "Ancient Civilizations Predicted AI Thousands of Years Ago | Scientists Can't Explain It",
+    "score": 10
+  },
+  {
+    "id": "ZYQdd2Pp8xU",
+    "title": "The Race That Came Before - Ancient Civilizations Part 2",
+    "score": 10
+  },
+  {
+    "id": "Z-66Za87r-c",
+    "title": "Origins of a Suppressed Human Story",
+    "score": 10
+  },
+  {
+    "id": "R7tlozYjgFc",
+    "title": "Stone Age",
+    "score": 10
+  },
+  {
+    "id": "CskfvgEItPA",
+    "title": "The Beginning of Ancient Egypt",
+    "score": 10
+  },
+  {
+    "id": "Wk4yqLEQTSM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FY84ZlvHuSs",
+    "title": "The Complete Story Of WW2 In 5 Hours",
+    "score": 10
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "THE FINAL STRAW",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "WW2 - OverSimplified (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "_CNUH9NzYKw",
+    "title": "WW2 - Introduction",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SjONVCcvOpA",
+    "title": "Episode 1 - We Are At War",
+    "score": 10
+  },
+  {
+    "id": "Q78COTwT7nE",
+    "title": "1918-1939: What Really Started World War 2?",
+    "score": 10
+  },
+  {
+    "id": "iaeBnYLNXgQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "S9Au5fn0oG0",
+    "title": "SHAÂRGHOT -  Break Your Body ( Official )",
+    "score": 10
+  },
+  {
+    "id": "j_AOeS8N6b0",
+    "title": "Break Your Heart",
+    "score": 10
+  },
+  {
+    "id": "9II94jtNKKg",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "4oOHnXJfAs8",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "pVVzo8wJtTc",
+    "title": "Steven Page on the Barenaked Ladies' Hall of Fame reunion | My Junos Moment",
+    "score": 10
+  },
+  {
+    "id": "N02vLJCoQmE",
+    "title": "Jennette McCurdy - \\\"Break Your Heart\\\" - Official Lyrics Video",
+    "score": 10
+  },
+  {
+    "id": "vTftp8I6U58",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "3EgndfGGxN4",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "GZXHBgjQjNM",
+    "title": "Backstreet Boys - I'll Never Break Your Heart (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "S_NlnZiBM9s",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "qu0hxbyGDLE",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "lXcX5llJeko",
+    "title": "The Fray - Over My Head (Cable Car)",
+    "score": 10
+  },
+  {
+    "id": "pJ5wk17KQ6I",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "IBO2UunaqTQ",
+    "title": "《用背脊唱情歌》林峯 x 湯令山Gareth T 嘉賓｜GO WITH THE FLOW 2026 澳門演唱會｜20260117",
+    "score": 10
+  },
+  {
+    "id": "nAbjVAvLwCM",
+    "title": "CHOSEN ONES: Skip Everything Else On Your Feed — This Message Is Why You Opened Your Phone! 📲🎯",
+    "score": 10
+  },
+  {
+    "id": "b2jaoeoStSA",
+    "title": "Matthew Wilder speaks about \\\"Break My Stride\\\"",
+    "score": 10
+  },
+  {
+    "id": "4ZA3h8ddr6g",
+    "title": "MATTHEW WILDER   BREAK MY STRIDE",
+    "score": 10
+  },
+  {
+    "id": "EHC9y1vMLxU",
+    "title": "Matthew Wilder - The Kid's American",
+    "score": 10
+  },
+  {
+    "id": "W9zUjVB8pw4",
+    "title": "Matthew Wilder - Bouncin' Off The Walls",
+    "score": 10
+  },
+  {
+    "id": "ZVDSREHla5g",
+    "title": "Matthew Wilder - \\\"Break My Stride\\\" (extended)",
+    "score": 10
+  },
+  {
+    "id": "D92q7_8KL1E",
+    "title": "Matthew Wilder - Break My Stride (Official 4K Video)",
+    "score": 10
+  },
+  {
+    "id": "LiB6vRnmEJg",
+    "title": "Matthew Wilder - Break My Stride (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "iGtQMT-QLgc",
+    "title": "Matthew Wilder - Break My Stride (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "F8pL7a0Qzjs",
+    "title": "Dick Clark Interviews Matthew Wilder on American Bandstand 1984",
+    "score": 10
+  },
+  {
+    "id": "jWhGhOIUUYk",
+    "title": "Matthew Wilder - Break My Stride (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "kZ5h0KUowKk",
+    "title": "Matthew Wilder “ Break My Stride 80’s Pop Sessions",
+    "score": 10
+  },
+  {
+    "id": "Q9cfqBULslU",
+    "title": "Matthew Wilder - Break My Stride (1983) HQ",
+    "score": 10
+  },
+  {
+    "id": "Dlc6m9kwvEE",
+    "title": "Matthew Wilder - Break My Stride (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ZzfyOSlqBIo",
+    "title": "Gedde Watanabe Interview on \\\"Gung Ho\\\" (January 29, 1987)",
+    "score": 10
+  },
+  {
+    "id": "HzwQ041YAE4",
+    "title": "Joshua Colley - \\\"Go the Distance\\\" (Hercules; Alan Menken \\u0026 David Zippel)",
+    "score": 10
+  },
+  {
+    "id": "1xTeB3ac82Y",
+    "title": "JUNE FORAY: The Many Voices / Characters of (Cartoon Voice Actor)",
+    "score": 10
+  },
+  {
+    "id": "LpZM4G3lFQA",
+    "title": "Matthew Wilder - From Break My Stride to Tragic Kingdom and more!",
+    "score": 10
+  },
+  {
+    "id": "cQ-N3JxiSMs",
+    "title": "GUEST: MATTHEW WILDER",
+    "score": 10
+  },
+  {
+    "id": "H6BXmZZ2Tk4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "_dK2tDK9grQ",
+    "title": "Ed Sheeran - Shape Of You [Official Lyric Video]",
+    "score": 10
+  },
+  {
+    "id": "L5V9nK7-OkM",
+    "title": "Arthur Nery - Life Puzzle (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "100Gu98BZS4",
+    "title": "Bruno Mars - Marry You (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "dElRVQFqj-k",
+    "title": "OutStation - Tum Se (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "sIveLwcQc30",
+    "title": "Avril Lavigne - Breakaway (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "oc7JLUvY9xI",
+    "title": "Reckless Love (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Sc6SSHuZvQE",
+    "title": "Bruno Mars - Count on Me (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "6k8cpUkKK4c",
+    "title": "Taylor Swift - the 1 (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "KsZ6tROaVOQ",
+    "title": "Silent Sanctuary - 14 (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "3MFMBC2P8Oc",
+    "title": "Ed Sheeran - Photograph (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "KKQl-pIRQMY",
+    "title": "大頭針【大头针 · 烟嗓情歌精选】 那些年听哭过的歌｜烟嗓情歌精选翻唱🔥#有多少愛可以重來#用心良苦#特別的愛給特別的你#大海#大約在冬季#把悲傷留給自己#我不後悔",
+    "score": 10
+  },
+  {
+    "id": "KzNNDlM6tzY",
+    "title": "Arthur Nery - TAKE ALL THE LOVE",
+    "score": 10
+  },
+  {
+    "id": "FIdzwjTTeFQ",
+    "title": "December Avenue - Huling Sandali (OFFICIAL LYRIC VIDEO)",
+    "score": 10
+  },
+  {
+    "id": "MyMmB7vnO9c",
+    "title": "No Excuse - Now You Know Who the Beast Is!",
+    "score": 10
+  },
+  {
+    "id": "WVnp-WZa0-A",
+    "title": "Arthur Nery - Di Nakakasawa (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "6DLjRAiPUpM",
+    "title": "Magnus Haven - Imahe (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "WerQABDxisM",
+    "title": "Introvoys - Line To Heaven (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "xjHkdxHpGLg",
+    "title": "ABBA - I Have A Dream (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "ER_3h03omdE",
+    "title": "Arthur Nery - Binhi (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "flAn0JJTjSI",
+    "title": "New Viral OPM Love Songs Playlist 2025 - Best Tagalog music | Alipin - Michael Pangilinan",
+    "score": 10
+  },
+  {
+    "id": "mGpYd2qtJx8",
+    "title": "Future - March Madness (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "L2mZJqU5wxI",
+    "title": "Ariana Grande - One Last Time (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "HIgvP7B3Hg8",
+    "title": "Adele - Easy On Me (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "X-yIEMduRXk",
+    "title": "ABBA - Dancing Queen (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "-sVB91NTa4A",
+    "title": "MercyMe - Even If (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "B6fA35Ved-Y",
+    "title": "Conan Gray - Heather (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "29IxnsqOkmQ",
+    "title": "Coldplay X BTS - My Universe (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "bZYPI4mYwhw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YfCwj9cLc_w",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "ICsvIwch2F4",
+    "title": "Taio Cruz - Break Your Heart (Mentol \\u0026 ADEN Cover Remix)",
+    "score": 10
+  },
+  {
+    "id": "WszGQrPMnd0",
+    "title": "Taio Cruz - Break Your Heart (Lyrics) ft. Ludacris",
+    "score": 10
+  },
+  {
+    "id": "ocq-98DBaEM",
+    "title": "Matthew Wilder - Break My Stride (Audio)",
+    "score": 10
+  },
+  {
+    "id": "4lqYdS-Ell8",
+    "title": "The Fray - Look After You (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Dddrq61sq4U",
+    "title": "Massive Attack - Protection ft. Tracey Thorn",
+    "score": 10
+  },
+  {
+    "id": "Epgo8ixX6Wo",
+    "title": "《愛在記憶中找你》寡人由秦朝返嚟啦！林峯｜GO WITH THE FLOW 2026 澳門演唱會｜20260117",
+    "score": 10
+  },
+  {
+    "id": "d0HXyasJuaU",
+    "title": "Backstreet Boys - Drowning (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "Nj2U6rhnucI",
+    "title": "Natalie Merchant - Break Your Heart",
+    "score": 10
+  },
+  {
+    "id": "SIakXyzZN7Q",
+    "title": "Beyoncé - BREAK MY SOUL (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "tzXB1HCJAQo",
+    "title": "Demi Lovato - Give Your Heart a Break (Audio Only)",
+    "score": 10
+  },
+  {
+    "id": "byQIPdHMpjc",
+    "title": "Toni Braxton - Un-Break My Heart (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "p2Rch6WvPJE",
+    "title": "GIVĒON - Heartbreak Anniversary (Audio)",
+    "score": 10
+  },
+  {
+    "id": "mh2265QqV-Y",
+    "title": "1. Benlon, Pop Mage - Someone You Loved",
+    "score": 10
+  },
+  {
+    "id": "jeMYgIfNwD8",
+    "title": "Rixton - Me and My Broken Heart",
+    "score": 10
+  },
+  {
+    "id": "7JJfJgyHYwU",
+    "title": "Breakheart Pass | Charles Bronson Western Movie | Classic Full Movie",
+    "score": 10
+  },
+  {
+    "id": "dYAnadbtjO0",
+    "title": "Dua Lipa - Break My Heart | Lyrics",
+    "score": 10
+  },
+  {
+    "id": "lwyVHMBZYVE",
+    "title": "Beyoncé - Broken-Hearted Girl (Video)",
+    "score": 10
+  },
+  {
+    "id": "JXmUYdOVJtc",
+    "title": "GIVĒON - Heartbreak Anniversary (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "c6RgA4VZ4Hk",
+    "title": "Taio Cruz - Break Your Heart (Long)",
+    "score": 10
+  },
+  {
+    "id": "k0GQSJrpVhM",
+    "title": "deepening your emotional pain and complicating your recovery",
+    "score": 10
+  },
+  {
+    "id": "i9QG_RClsRs",
+    "title": "Breakheart Pass",
+    "score": 10
+  },
+  {
+    "id": "xqJVFc5MuGo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "miZAX_n8eCs",
+    "title": "The Fray - Look After You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "DGwU9dipg3w",
+    "title": "The Fray - Look After You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "t78EFs82GzQ",
+    "title": "The Fray - Look After You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "bLCb8nmgT8w",
+    "title": "Look After You",
+    "score": 10
+  },
+  {
+    "id": "kTcfjTymsTY",
+    "title": "15 Phrasal Verbs with LOOK: Look after, Look at, Look for, Look up, Look forward to, Look out",
+    "score": 10
+  },
+  {
+    "id": "L2gVNHxPej8",
+    "title": "15 Phrasal Verbs with \\\"Look\\\" 1 Look after (someone)",
+    "score": 10
+  },
+  {
+    "id": "-OgFt4-y76k",
+    "title": "Aron Wright \\\"Look After You\\\" Grey's Anatomy S14E02",
+    "score": 10
+  },
+  {
+    "id": "r5zo_7tkTNo",
+    "title": "The Fray - \\\"Look After You\\\" |Traducida al español|",
+    "score": 10
+  },
+  {
+    "id": "t75Dtq8P9vA",
+    "title": "The Fray - Look After You (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "yNipRwTEQ10",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4Fj7QaduZks",
+    "title": "The Fray - Look After You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "pL78IqEsKJ0",
+    "title": "The Fray - Look After You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "n5JR-Vf7hwg",
+    "title": "Look After Me",
+    "score": 10
+  },
+  {
+    "id": "hM4924G45wc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MiE1inuK5tE",
+    "title": "Beyoncé - BREAK MY SOUL (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "3XfCAGy2EOo",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "996-BCP515w",
+    "title": "Hastings 1013 goes to Windsor with the Remembering Rosemary railtour.",
+    "score": 10
+  },
+  {
+    "id": "U7Pa_ssROhY",
+    "title": "Waterloo arrival",
+    "score": 10
+  },
+  {
+    "id": "7VqrWMGK-84",
+    "title": "Hastings Diesel Class 1001 on The Remembering Rosemary at Windsor \\u0026 Eton Riverside on 17/01/2026",
+    "score": 10
+  },
+  {
+    "id": "qYop9LH-8sA",
+    "title": "Hastings Diesel Class 1001 on The Remembering Rosemary at Windsor \\u0026 Eton Riverside on 17/01/2026",
+    "score": 10
+  },
+  {
+    "id": "O0YtxIwHXuA",
+    "title": "Hastings Diesel Class 1001 on The Remembering Rosemary Depart Windsor \\u0026 Eton Riverside for Hastings",
+    "score": 10
+  },
+  {
+    "id": "P48vLHLLY70",
+    "title": "Hastings Diesel Class 1001 on The Remembering Rosemary Arrivals Windsor \\u0026 Eton R from Hastings",
+    "score": 10
+  },
+  {
+    "id": "bqGP5JSNbHQ",
+    "title": "Thumper 1001 \\u0026 1013 THRASH 'Remembering Rosemary' At Windsor \\u0026 Eton",
+    "score": 10
+  },
+  {
+    "id": "I28phWl-67M",
+    "title": "Hastings DEMU 1013 honours Rosemary with a tour to Windsor | 17/01/26",
+    "score": 10
+  },
+  {
+    "id": "QjwOzJ-zRps",
+    "title": "GOD OF WAR",
+    "score": 10
+  },
+  {
+    "id": "-44d9vjlKaE",
+    "title": "JUST NOW: DNA Claim Links Joe Giuliano’s Daughter to Meghan Markle — Shocking Allegations",
+    "score": 10
+  },
+  {
+    "id": "hMIhUpSJ1Bo",
+    "title": "This is the only Meghan Markle video you need to watch",
+    "score": 10
+  },
+  {
+    "id": "e8cFkZXx0yU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZnwFZ5dnpZ4",
+    "title": "JUST NOW: Charles Uncovers Harry’s Secret — Titles Revoked Ahead of Summit",
+    "score": 10
+  },
+  {
+    "id": "M_lTwThu4sY",
+    "title": "Why Your 40s Decide Whether You’ll Be Comfortable or Stressed Forever",
+    "score": 10
+  },
+  {
+    "id": "FRFBz2P9jCw",
+    "title": "JUST IN: Canada–China Visa-Free Travel Will SHOCKS U.S. Border Cities — Trump Has No Cards!",
+    "score": 10
+  },
+  {
+    "id": "2xkhILm0vQo",
+    "title": "HARRY DRAMA - INVICTUS .NEW DEMANDS #royal #meghan #princeharry",
+    "score": 10
+  },
+  {
+    "id": "vU57SK3fHNw",
+    "title": "JOHNNY DEPP'S SHOCKING HEALTH CONFESSION: The Battle He Hid From The World!",
+    "score": 10
+  },
+  {
+    "id": "aoHPTUXo9PQ",
+    "title": "A shocking truth no one expected",
+    "score": 10
+  },
+  {
+    "id": "WyKiO8EwW7w",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VPUef64byds",
+    "title": "No one realized that Kate's red dress made Camilla a laughing stock. #celebrity #PrincessKate",
+    "score": 10
+  },
+  {
+    "id": "OTQ5vkTLJVo",
+    "title": "Fact or Crap: Is Rosemary truly a healthy herb?",
+    "score": 10
+  },
+  {
+    "id": "KlKME63YCOA",
+    "title": "Residential at 32 Rosemary Lane #, South Windsor, CT 06074 - For sale",
+    "score": 10
+  },
+  {
+    "id": "1p0ulCZckI0",
+    "title": "Episode 17: Rosemary Woods | Cracking the Success Vault Podcast",
+    "score": 10
+  },
+  {
+    "id": "kzvHrMX6Hbc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8H9DmD1SX_g",
+    "title": "Stranger surprises sweet old lady, then THIS happened 🥺❤️",
+    "score": 10
+  },
+  {
+    "id": "YWayh6fza04",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0LTABWf1Ib0",
+    "title": "Fresh Out of Prison, He Planned an Ambush",
+    "score": 10
+  },
+  {
+    "id": "3nFYdcKcCuU",
+    "title": "Rapper Ambush Remanded In Prison For Snitching On Himself ",
+    "score": 10
+  },
+  {
+    "id": "GS_MGv4vhr8",
+    "title": "AMBUSH @BuzzworlEnt ARRESTED \\u0026 REMANDED in PRISON for KIDAV3LLY Video @bouncerplaydirty ",
+    "score": 10
+  },
+  {
+    "id": "mSa4-Sqy80A",
+    "title": "Video shows inmate crab walk walls sideways to escape prison",
+    "score": 10
+  },
+  {
+    "id": "Dul_9qkeC-0",
+    "title": "🎬 Death Warrant (1990) — “Prison Ambush Showdown”｜Van Damme vs Brutal Inmate ⚔️🔥",
+    "score": 10
+  },
+  {
+    "id": "_F4acsLs4VY",
+    "title": "Video shows armed men ambush a prison transport van in France carrying a suspected drug lord",
+    "score": 10
+  },
+  {
+    "id": "Qkp_0wcN2sc",
+    "title": "#movie #film The SHOCKING Power Reveal! 😱 Kingpin’s Brutal Workout Ambush | Daredevil Season 3",
+    "score": 10
+  },
+  {
+    "id": "eeHOWV9DrgI",
+    "title": "French prison officers killed in van ambush",
+    "score": 10
+  },
+  {
+    "id": "6kOGflgzYZA",
+    "title": "Ambush Released From Prison On Bail | Headie One Responds",
+    "score": 10
+  },
+  {
+    "id": "R2GaXeqi-FU",
+    "title": "How a daytime ambush set a prisoner loose | About That",
+    "score": 10
+  },
+  {
+    "id": "T1LjD5ADldM",
+    "title": "Rapper Ambush Snitched On Himself \\u0026 Remanded Into Prison (12PM Premiere)",
+    "score": 10
+  },
+  {
+    "id": "bey6dB_FweE",
+    "title": "Inside Boko Haram The World's Most Evil Terrorist Group",
+    "score": 10
+  },
+  {
+    "id": "PJLf8zN8B0s",
+    "title": "IRAN RIOTS REIGNITE AMID REGIME CHANGE, MASSIVE BLACKOUTS IN MOSCOW! Breaking War News The Enforcer",
+    "score": 10
+  },
+  {
+    "id": "gP9qN6lynII",
+    "title": "Fatal Beer Battle Caught on Bodycam",
+    "score": 10
+  },
+  {
+    "id": "ycGbvnlt8c8",
+    "title": "Prime Crime: Woman Finds Husband Murdered in Quiet Farm House",
+    "score": 10
+  },
+  {
+    "id": "1KvJbDhpdRI",
+    "title": "Court Cam: Top 5 Greatest Escapes | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "pjDS578FROw",
+    "title": "Gerald Hyde II",
+    "score": 10
+  },
+  {
+    "id": "dShDKNtjooA",
+    "title": "Ahmed Saves John From A Traitorous Ambush | The Covenant | Prime Video",
+    "score": 10
+  },
+  {
+    "id": "AkpXSwyx0VE",
+    "title": "France prison van attack: Two officers killed in ambush near Normandy",
+    "score": 10
+  },
+  {
+    "id": "GPwKqvixOLk",
+    "title": "Mexican prison ambush leaves 17 dead with 25 inmates on the loose",
+    "score": 10
+  },
+  {
+    "id": "8YBDB1H1fSQ",
+    "title": "France: Gunmen kill guards in prison van ambush - with inmate 'The Fly' on the run",
+    "score": 10
+  },
+  {
+    "id": "SE05bbnIEB8",
+    "title": "Terrifying moment masked gunmen ambush prison convoy in France | 7 News Australia",
+    "score": 10
+  },
+  {
+    "id": "3avu9CqEh5A",
+    "title": "France prison van attack: Huge manhunt after prison officers killed in ambush -- 14/May/2024",
+    "score": 10
+  },
+  {
+    "id": "45ME51MidBE",
+    "title": "Rapper Ambush Released From Prison On Bail | Headie One Responds In My Comments",
+    "score": 10
+  },
+  {
+    "id": "Qqf_0prf4vw",
+    "title": "The Last Frontier — Inmate Ambush | Scene | Apple TV",
+    "score": 10
+  },
+  {
+    "id": "-Ue0p2ZFHkQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LQHDL68OUQ0",
+    "title": "Which Battlefield 6 Class is Right For You",
+    "score": 10
+  },
+  {
+    "id": "JrQMtAOtlug",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qka1RiU5580",
+    "title": "Why your team needs a good Recon player",
+    "score": 10
+  },
+  {
+    "id": "nrfxWyCws_o",
+    "title": "Cracking Open The Battlefield 6 Care Package... #Battlefield6",
+    "score": 10
+  },
+  {
+    "id": "-y1HNtcl6gE",
+    "title": "12 Things Nobody Knows About in Battlefield 6",
+    "score": 10
+  },
+  {
+    "id": "lwXuLUpKkf0",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "ACK0K7LzjwQ",
+    "title": "What Happened to Battlefield 6",
+    "score": 10
+  },
+  {
+    "id": "hEd-8XyqII8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "flLZfUEwKcI",
+    "title": "Ex-Elder Scrolls 6 Lead Dev Speaks Out Against Bethesda...",
+    "score": 10
+  },
+  {
+    "id": "HXICpCAlYVE",
+    "title": "Legal Cheats just dropped...",
+    "score": 10
+  },
+  {
+    "id": "t1RE2qGPHy4",
+    "title": "The DMZ 2026 UPDATE!",
+    "score": 10
+  },
+  {
+    "id": "iaqL2KmNM5Q",
+    "title": "SIDEARMS – Do they all suck? | BF6T E07",
+    "score": 10
+  },
+  {
+    "id": "puofWioInqU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dGGkN8BayoI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tL0U0X30s-A",
+    "title": "The First Battlefield 6 Update in WEEKS! Is It Good?",
+    "score": 10
+  },
+  {
+    "id": "_cV5tyN0Pr4",
+    "title": "Every ARC Raiders Blueprint Exact Spawn Location Explained",
+    "score": 10
+  },
+  {
+    "id": "QRhkiFbepj8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yjyt93EqHYE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pq8XxhUmiBo",
+    "title": "REAL MARINE leads a FOUR MAN TEAM | Battlefield 6",
+    "score": 10
+  },
+  {
+    "id": "zTSzCr76CMs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EbOPXatN0IA",
+    "title": "410 Jury",
+    "score": 10
+  },
+  {
+    "id": "Lw4WBofOkLE",
+    "title": "What's Changing in Battlefield 6 Next Week? | (Jan 20th Update)",
+    "score": 10
+  },
+  {
+    "id": "nfhYaZ0gh2E",
+    "title": "Engineer Class Evolution | BF1942 to Battlefield 6 (2002-2025)",
+    "score": 10
+  },
+  {
+    "id": "kgTbS0B_WaY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZFUOC-y4i0s",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "Search \\u0026 Filter Pro WordPress Plugin - Better than SearchWP \\u0026 FacetWP?",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "PubMed: Using the Search Filters",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lYi24okXDPs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZYIlFzGKNOI",
+    "title": "Two ways to easily add search and filters to your Webflow site – Workflow series",
+    "score": 10
+  },
+  {
+    "id": "lWmYkZz946Y",
+    "title": "Starting soon",
+    "score": 10
+  },
+  {
+    "id": "1mHAVptUKAk",
+    "title": "Using Multiple Criteria within the Excel FILTER Function",
+    "score": 10
+  },
+  {
+    "id": "-BO4g2g2_hg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "jlGxxbwuGE0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6jDNAQ0ivZc",
+    "title": "Never Gone- Backstreet boys with lyrics",
+    "score": 10
+  },
+  {
+    "id": "dWqKMKs9wU4",
+    "title": "Backstreet Boys - I'll Never Break Your Heart (EU Version) (4K)",
+    "score": 10
+  },
+  {
+    "id": "lLDV8GGrwTE",
+    "title": "Backstreet Boys - Quit Playing Games (With My Heart) (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "Ug88HO2mg44",
+    "title": "Backstreet Boys - I'll Never Break Your Heart [ 𝕤𝕝𝕠𝕨𝕖𝕕 + 𝕣𝕖𝕧𝕖𝕣𝕓 ]",
+    "score": 10
+  },
+  {
+    "id": "JadaiFLk10w",
+    "title": "Backstreet Boys - Happily Never After",
+    "score": 10
+  },
+  {
+    "id": "GwgJ7vvX0LI",
+    "title": "Backstreet Boys Play 'Never Have I Ever'",
+    "score": 10
+  },
+  {
+    "id": "vk9aoKW1AA0",
+    "title": "Backstreet Boys - All I Have To Give (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "pj6FCKm8dhM",
+    "title": "{الأسبوع ف كيس}(457) مسجد العزيز اللزيز",
+    "score": 10
+  },
+  {
+    "id": "T6a4dltjTtA",
+    "title": "DIOSDADO CABELLO VINCULADO A LA CIA AL IGUAL QUE DELCY",
+    "score": 10
+  },
+  {
+    "id": "tDC9zYmN2fg",
+    "title": "查理芒格：驚天洩密：CIA在華全軍覆沒！北京靠關門打狗穩坐江山，美國戰略全盤皆輸！#美國內憂外患 #川普 #特朗普",
+    "score": 10
+  },
+  {
+    "id": "HPgNvUz4L8k",
+    "title": "1-DARATING ANG ARAW SA AYAW M OR GUSTO M EH MAGPAPARAMDAM AT MG REACH OUT SYA SAU",
+    "score": 10
+  },
+  {
+    "id": "yax0IlBTvuA",
+    "title": "Sábado 17 | 🐎 60° Festival de Doma y Folklore de Jesús María",
+    "score": 10
+  },
+  {
+    "id": "O9Sm0ODSWcE",
+    "title": "🔴 EN VIVO | FESTIVAL DEL HUASO DE OLMUÉ 2026 - Américo, León Murillo y Gepe",
+    "score": 10
+  },
+  {
+    "id": "4epewFEtroo",
+    "title": "𝗟𝗜𝗩𝗘: Sinulog 2026 sa MyTV Cebu! 🎉",
+    "score": 10
+  },
+  {
+    "id": "ZOQh2vhhVVg",
+    "title": "Agenda Weekend | January 17, 2026",
+    "score": 10
+  },
+  {
+    "id": "MZAhjXlLVVM",
+    "title": "🔴 DW News January 17: European leaders reject Trump's tariffs",
+    "score": 10
+  },
+  {
+    "id": "I3gGnn8DObU",
+    "title": "Díaz-Canel provokes Trump and the mothers of mercenaries enter the scene | CUBA",
+    "score": 10
+  },
+  {
+    "id": "xkCCYgQo-d4",
+    "title": "\\\"I'll Never Find Someone Like You\\\" - Backstreet Boys",
+    "score": 10
+  },
+  {
+    "id": "DZ5SfKGYPl8",
+    "title": "Backstreet Boys - I'll Never Break Your Heart",
+    "score": 10
+  },
+  {
+    "id": "UrObpmrgVqM",
+    "title": "I'll Never Break Your Heart - Backstreet Boys karaoke",
+    "score": 10
+  },
+  {
+    "id": "JZplS5XBnW4",
+    "title": "Backstreet Boys - Never Gone (Color Coded Lyrics Eng)",
+    "score": 10
+  },
+  {
+    "id": "7vQlboNBT88",
+    "title": "Some things never change.",
+    "score": 10
+  },
+  {
+    "id": "7BmSWwXowWY",
+    "title": "[Remastered HD • 50fps] I'll Never Break Your Heart (Acoustic) - Backstreet Boys • Much Music 1998",
+    "score": 10
+  },
+  {
+    "id": "DUkREip1CTY",
+    "title": "Backstreet Boys - Don't Wanna Lose You Now (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "LrNoq7jzf_I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WyGCn54ktd8",
+    "title": "Demi Lovato - Sorry Not Sorry (Audio Only)",
+    "score": 10
+  },
+  {
+    "id": "FyqjDe9e_hE",
+    "title": "Demi Lovato - Give Your Heart a Break (Audio Only)",
+    "score": 10
+  },
+  {
+    "id": "Jca0B2lbqpU",
+    "title": "Demi Lovato - Tell Me You Love Me (Audio Only)",
+    "score": 10
+  },
+  {
+    "id": "cwLRQn61oUY",
+    "title": "Demi Lovato - Confident (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "Tu5xLPhCFgY",
+    "title": "Demi Lovato - Neon Lights (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "KgENp3WX11I",
+    "title": "Demi Lovato - Heart Attack (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "40cxXdKxE5M",
+    "title": "Demi Lovato - Made in the USA (Audio)",
+    "score": 10
+  },
+  {
+    "id": "PGv902wVRhY",
+    "title": "Demi Lovato - Really Don't Care ft. Cher Lloyd (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "DGfcVrU5XSY",
+    "title": "Demi Lovato - Dancing With The Devil (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "OloERKU4VMg",
+    "title": "Demi Lovato - In Case (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "DzesIrl8nws",
+    "title": "Jax Jones - Instruction ft. Demi Lovato, Stefflon Don",
+    "score": 10
+  },
+  {
+    "id": "TFj_hPjsBvE",
+    "title": "Demi Lovato - Fast (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "8JnfIa84TnU",
+    "title": "Clean Bandit - Solo ft. Demi Lovato (Audio)",
+    "score": 10
+  },
+  {
+    "id": "2MTLSzQKDVI",
+    "title": "Demi Lovato - Smoke \\u0026 Mirrors (Audio)",
+    "score": 10
+  },
+  {
+    "id": "k2wUF8bpfnM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "n_nApnGejVU",
+    "title": "The Delfonics - Break Your Promise",
+    "score": 10
+  },
+  {
+    "id": "4d28w__L7K4",
+    "title": "The Delfonics...Break Your Promise...Extended Mix...",
+    "score": 10
+  },
+  {
+    "id": "gSfJDfWNCV0",
+    "title": "The Delfonics",
+    "score": 10
+  },
+  {
+    "id": "ar0QO8u88bs",
+    "title": "The Delfonics - Break Your Promise",
+    "score": 10
+  },
+  {
+    "id": "RhAheI9I-KY",
+    "title": "Break Your Promise (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "UaKEor0OGqQ",
+    "title": "Break Your Promise - Delfonics - 1968",
+    "score": 10
+  },
+  {
+    "id": "iAY-05KuKoc",
+    "title": "The Delfonics - Break Your Promise.",
+    "score": 10
+  },
+  {
+    "id": "GLN04jvmb4U",
+    "title": "The Delfonics - Didn't I (Blow Your Mind This Time) (Audio)",
+    "score": 10
+  },
+  {
+    "id": "gM6kZabHf4w",
+    "title": "DELFONICS : US TV 1973",
+    "score": 10
+  },
+  {
+    "id": "hUkgZYqq1oI",
+    "title": "NEW 📀 Didn't I (Blow Your Mind This Time) - The Delfonics {Stereo} 1970",
+    "score": 10
+  },
+  {
+    "id": "GdvNfyFYADE",
+    "title": "The Delfonics On Soul 1972",
+    "score": 10
+  },
+  {
+    "id": "nowFK16Ek-A",
+    "title": "\\\" Break Your Promise \\\" The Delfonics 1968",
+    "score": 10
+  },
+  {
+    "id": "aVbSqtypC5U",
+    "title": "WILLIAM HART AND THE DELFONICS BEACON THEATRE NEW YORK CITY 2-11-17",
+    "score": 10
+  },
+  {
+    "id": "ScSFl8VbOwQ",
+    "title": "They really want to do  something before court, has a vehicle in your name received money 2 take🫵out",
+    "score": 10
+  },
+  {
+    "id": "rQ2uKo0249E",
+    "title": "The Delfonics - Break Your Promise",
+    "score": 10
+  },
+  {
+    "id": "XX0u6yyx-z0",
+    "title": "Delfonics 1969 performing 'Somebody Loves you Girl'",
+    "score": 10
+  },
+  {
+    "id": "b11b5VGYvNw",
+    "title": "Delfonics i'm sorry",
+    "score": 10
+  },
+  {
+    "id": "pBeu5VW1cYE",
+    "title": "The Delfonics - Break Your Promise",
+    "score": 10
+  },
+  {
+    "id": "pFEOzvVXCE0",
+    "title": "For The Love I Gave To You   The Delfonics",
+    "score": 10
+  },
+  {
+    "id": "hAepaiK0uu0",
+    "title": "05   Delfonics   Break Your Promise",
+    "score": 10
+  },
+  {
+    "id": "sfYlHm4p1FA",
+    "title": "1968 HITS ARCHIVE: Break Your Promise - Delfonics (mono 45)",
+    "score": 10
+  },
+  {
+    "id": "RFKTZWaQdhs",
+    "title": "The Delfonics - La-La Means I Love You (Audio)",
+    "score": 10
+  },
+  {
+    "id": "OIqAcijqWOg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "kEx-LZURHYs",
+    "title": "BBC Line of Duty - Series 4, Episode 6 | Final Scene - Shootout.",
+    "score": 10
+  },
+  {
+    "id": "gSmbN_vMTek",
+    "title": "In the Line of Duty: Manhunt in the Dakotas | Full Action Thriller Movie",
+    "score": 10
+  },
+  {
+    "id": "lLjuebdZulo",
+    "title": "Line of Duty fans think they have worked out who the real 'H' isÂ",
+    "score": 10
+  },
+  {
+    "id": "Y9LFMSwKodM",
+    "title": "Steve is Transferred to the Anti-Corruption Unit | Line of Duty",
+    "score": 10
+  },
+  {
+    "id": "ZlMzawJJU0Y",
+    "title": "Craig Parkinson Is Glad He Didn't Know Where His Line of Duty Character Was Going | This Morning",
+    "score": 10
+  },
+  {
+    "id": "tNVe8a9mjvI",
+    "title": "Line of Duty viewers left divided after major Gill Biggeloe twist",
+    "score": 10
+  },
+  {
+    "id": "2pyvNRLQAFo",
+    "title": "Line of Duty baddie star Gill's steamy TV past unmasked: 'People thought I was a maneater'",
+    "score": 10
+  },
+  {
+    "id": "qq8ZK31VZZU",
+    "title": "The Best of Ted Hastings in Season 1 | Line of Duty",
+    "score": 10
+  },
+  {
+    "id": "rdWP6hoi2ZA",
+    "title": "Line of Duty - DI Dot \\\"urgent exit\\\"",
+    "score": 10
+  },
+  {
+    "id": "h_XXEqggIzE",
+    "title": "Line of Duty viewers left divided after major Gill Biggeloe twist",
+    "score": 10
+  },
+  {
+    "id": "NyjRcEElyCo",
+    "title": "Jed Mercurio \\u0026 the Cast of Line of Duty | BFI \\u0026 Radio Times TV Festival 2019",
+    "score": 10
+  },
+  {
+    "id": "2Gl3gOEJXGs",
+    "title": "MARK LAWSON",
+    "score": 10
+  },
+  {
+    "id": "VmVfiokxbwU",
+    "title": "Line Of Duty - Nige Morton and Dot Cottan discuss the Caddy",
+    "score": 10
+  },
+  {
+    "id": "wYl-4HmLO_Y",
+    "title": "Best of Ted Hastings -  Line of Duty",
+    "score": 10
+  },
+  {
+    "id": "hQEnQoLVSlA",
+    "title": "Line of Duty - Lee Mack's Hilarious 'Deleted' Scene | Sport Relief",
+    "score": 10
+  },
+  {
+    "id": "mw56EIsLw78",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Er6Iq0-19Jo",
+    "title": "use a tubing bender",
+    "score": 10
+  },
+  {
+    "id": "JpwnjL9GPdA",
+    "title": "Firmly hold the line as close as possible to the die, otherwise we can risk deforming the straight runs",
+    "score": 10
+  },
+  {
+    "id": "eFSVyUYfxzQ",
+    "title": "'I was never bent' - Line of Duty (TV Series)",
+    "score": 10
+  },
+  {
+    "id": "m6IlXxsGGto",
+    "title": "Fixing My Bent Jeep",
+    "score": 10
+  },
+  {
+    "id": "gfyuFJcusyA",
+    "title": "Bent Coppers .... Crossing the Line of Duty",
+    "score": 10
+  },
+  {
+    "id": "OWofJKvNSGI",
+    "title": "The Punch the Die and the Back Gauge",
+    "score": 10
+  },
+  {
+    "id": "bqyoTWFZ5K4",
+    "title": "try to minimize brake fluid loss",
+    "score": 10
+  },
+  {
+    "id": "zjhMCFNl_YU",
+    "title": "US Troops 'TRAPPED' In Doha After Iran 'LOCATES' Them? | 'NOWHERE To Hide'",
+    "score": 10
+  },
+  {
+    "id": "SfcNUaWIebs",
+    "title": "Intro and Job Overview",
+    "score": 10
+  },
+  {
+    "id": "NscyTzvTjHE",
+    "title": "Brake Tube Flaring \\u0026 Bending",
+    "score": 10
+  },
+  {
+    "id": "iUDyEu_NYK8",
+    "title": "Brake Line Kit",
+    "score": 10
+  },
+  {
+    "id": "DJU5xrx6Qtk",
+    "title": "Correct Radius on the Top Tool",
+    "score": 10
+  },
+  {
+    "id": "nn7DhEwKbYM",
+    "title": "Трубогиб дорновый ИБ 3428. 1989 года выпуска.",
+    "score": 10
+  },
+  {
+    "id": "LYKtaH46q-I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_T-7A7_wtlI",
+    "title": "Best Ted Hastings One-Liners | Line of Duty’s Funniest Catchphrases - \\\"Bent Coppers\\\"",
+    "score": 10
+  },
+  {
+    "id": "HemwD3NpKXk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I0kFb9dFlQ8",
+    "title": "Bent Fuel Lines",
+    "score": 10
+  },
+  {
+    "id": "GblLH2SZbPk",
+    "title": "Diagonal Line:Bent Paper",
+    "score": 10
+  },
+  {
+    "id": "dvYExZ9Ti00",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "it3J9l9FRUA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3fxOU9tBQT0",
+    "title": "A-Wax \\u0026 King Iso - Time",
+    "score": 10
+  },
+  {
+    "id": "GI6_cvAQDrM",
+    "title": "So Little Time",
+    "score": 10
+  },
+  {
+    "id": "60gzg6MaPD0",
+    "title": "Jason Mraz - Little Time (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "Q1XjaLxNslg",
+    "title": "Matt Guy - Every Little Time (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "oNl-lfyrKm8",
+    "title": "A little at a time By Tonetta",
+    "score": 10
+  },
+  {
+    "id": "QejrPxx3O7w",
+    "title": "The Beautiful South - A little time",
+    "score": 10
+  },
+  {
+    "id": "o9dfbLIMHZY",
+    "title": "Arkarna   So Little time",
+    "score": 10
+  },
+  {
+    "id": "NL4eWwIl7ds",
+    "title": "Tennessee Highway Patrol \\u0026 Arkansas State Police team up to capture fleeing suspect #pursuit #pit",
+    "score": 10
+  },
+  {
+    "id": "zP_OsLu-DgU",
+    "title": "Ancient Prophecies Predicted Hitler's Rise and Fall",
+    "score": 10
+  },
+  {
+    "id": "lRN4TXOJKPE",
+    "title": "Our Favorite Discussions | The Big Bang Theory",
+    "score": 10
+  },
+  {
+    "id": "murDox2OfGU",
+    "title": "Border Patrol chief put anti-ICE agitators ON NOTICE",
+    "score": 10
+  },
+  {
+    "id": "YM1snz7-mxo",
+    "title": "A SNOWSTORM Is Set To Hit Parts Of The Southeast! Epic Winter Pattern Upcoming..",
+    "score": 10
+  },
+  {
+    "id": "nIGlI9bK0ks",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g3pBKxFQ-nQ",
+    "title": "The Apology to Ferrari \\u0026 The Auction Deadline",
+    "score": 10
+  },
+  {
+    "id": "TISIPNpRuoY",
+    "title": "Mariah Carey - I Want To Know What Love Is",
+    "score": 10
+  },
+  {
+    "id": "gCadlN8fexk",
+    "title": "I want to know what love is - Foreigner (Lyrics).",
+    "score": 10
+  },
+  {
+    "id": "vQdBgFyCHZ8",
+    "title": "Jon Pardi - Tequila Little Time (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "TGIILLmuePw",
+    "title": "A Little More Time",
+    "score": 10
+  },
+  {
+    "id": "mK5IS5rG3GQ",
+    "title": "Helloween - \\\"A LITTLE TIME\\\" (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "iXi6IHFHeIA",
+    "title": "A Little Time",
+    "score": 10
+  },
+  {
+    "id": "Bz2TWHrpi7M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GirOHEsRYvw",
+    "title": "DIVINE - Rain | Prod. by Stunnah Beatz | Official Audio",
+    "score": 10
+  },
+  {
+    "id": "Dg_auoqsZ-I",
+    "title": "THE DIVINE IS ABOUT TO SHOCK YOU WITH MORE THAN YOU EXPECTED!🥰HIDDEN FEELINGS REVEALED...",
+    "score": 10
+  },
+  {
+    "id": "rW9Y4ZdCw4o",
+    "title": "This Divine Romance",
+    "score": 10
+  },
+  {
+    "id": "fB1CWeusJaU",
+    "title": "Tames a Divine Beast at 5! CEO Kneels! This Girl is Actually a Living God!",
+    "score": 10
+  },
+  {
+    "id": "K8rG9q7AasM",
+    "title": "DIVINE - Chaabi Wala Bandar (Quality Control) | Prod. by Stunnah Beatz",
+    "score": 10
+  },
+  {
+    "id": "UDj5jAguoF4",
+    "title": "Divine 👑 Feminine- This Person Is Giving “Public Toilet 🏬🚽Seat” Energy! ",
+    "score": 10
+  },
+  {
+    "id": "pj_xPzO0DGE",
+    "title": "DIVINE - SACH BOL PATTA (Prod. by Stunnah Beatz)",
+    "score": 10
+  },
+  {
+    "id": "2V6W4BwBZJA",
+    "title": "They are SHOCKED! You PREDICTED it would happen...now the proof is here. (tarot collective) 444 111",
+    "score": 10
+  },
+  {
+    "id": "nHuk_KbVMHY",
+    "title": "“I am ready to open my heart and have an honest conversation with you!” ☎️ TIMELESS LOVE READING ☎️",
+    "score": 10
+  },
+  {
+    "id": "-uM_qDpok4w",
+    "title": "Karmics Laughed At You Are Now FRIGHTENED By Your Spiritiual Gifts. You've Been CORRECT All Along!",
+    "score": 10
+  },
+  {
+    "id": "BVxy5eD-uB8",
+    "title": "U and your higher self have been busy.....🚀🌠",
+    "score": 10
+  },
+  {
+    "id": "YQoxbWQ4OjE",
+    "title": "Your soul contract activated their heart. Now they have to choose whether to stay or go.",
+    "score": 10
+  },
+  {
+    "id": "g1AhtV7il1w",
+    "title": "Weaponized Words, Zero Foresight",
+    "score": 10
+  },
+  {
+    "id": "J7vCas6bsFw",
+    "title": "An Explosive Divine Intervention. Major Delays Are Over That Were Affected By A Deep Betrayal",
+    "score": 10
+  },
+  {
+    "id": "EoPUMtNJnTo",
+    "title": "Opening psychic channel",
+    "score": 10
+  },
+  {
+    "id": "0pYVPxHTCqk",
+    "title": "Stray Kids \\\"신선놀음 (DIVINE)\\\" M/V",
+    "score": 10
+  },
+  {
+    "id": "7dt9LvdSdIA",
+    "title": "Langhorne Slim - Divine Medicine in Music \\u0026 “The Dreamin’ Kind” | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "XDCDQoToH5Y",
+    "title": "Naezy Diss Divine | Pranit More | #rjpranit #pranitmore #singer #rapper #divine #naezy #show",
+    "score": 10
+  },
+  {
+    "id": "aL3rO6QVhWM",
+    "title": "Heavenly Choir #glorious Angelic worship #divine #song #haleluya #global",
+    "score": 10
+  },
+  {
+    "id": "SP8Olx307MU",
+    "title": "All That Remains - Anthony Barone “Divine” [Drum Playthrough]",
+    "score": 10
+  },
+  {
+    "id": "3R1CFJjTE-8",
+    "title": "bro got divine arts early #bloxfruit #bloxfruits",
+    "score": 10
+  },
+  {
+    "id": "yvubXFcULDc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "okexncZUqlA",
+    "title": "Sewerslvt - I Break My Heart \\u0026 Yours",
+    "score": 10
+  },
+  {
+    "id": "EfsK7-p-UW0",
+    "title": "Sewerslvt - Pretty Cvnt",
+    "score": 10
+  },
+  {
+    "id": "beoNy4MMHTc",
+    "title": "sewerslvt / cynthoni mix to rot in your room with [REMASTERED]",
+    "score": 10
+  },
+  {
+    "id": "kSBcx2w5R1E",
+    "title": "Purple Hearts in her eyes",
+    "score": 10
+  },
+  {
+    "id": "xr_3LQUWYtk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wL2ylkbNVqU",
+    "title": "Sewerslvt - inpeace",
+    "score": 10
+  },
+  {
+    "id": "0BNsnWppO0k",
+    "title": "Sewerslvt - Cyberia lyr1",
+    "score": 10
+  },
+  {
+    "id": "HOAKXWTtIuE",
+    "title": "How 2 Sewerslvt (How 2 not breakcore)",
+    "score": 10
+  },
+  {
+    "id": "ED4Dru4eBD4",
+    "title": "Add reverb!",
+    "score": 10
+  },
+  {
+    "id": "rLqp6prtKm0",
+    "title": "Sewerslvt - Mr. Kill Myself",
+    "score": 10
+  },
+  {
+    "id": "RgFaK6ZQifE",
+    "title": "LOONA - Hi High (Sewerslvt Remix)",
+    "score": 10
+  },
+  {
+    "id": "JVilaNmHPLY",
+    "title": "How Important is Sightreadability?",
+    "score": 10
+  },
+  {
+    "id": "57yhDDVP0K0",
+    "title": "Creative Breakcore Keys :)",
+    "score": 10
+  },
+  {
+    "id": "dxQhlZPbq1I",
+    "title": "Who are you? - Breakcore Mix To Dissociate",
+    "score": 10
+  },
+  {
+    "id": "uYFrd7Ymcac",
+    "title": "Nihigo - angelic w nunashi",
+    "score": 10
+  },
+  {
+    "id": "coZqAEkze2I",
+    "title": "Born of a Star",
+    "score": 10
+  },
+  {
+    "id": "KEF1mjVqssk",
+    "title": "Sewerslvt - I Really Like You pt1",
+    "score": 10
+  },
+  {
+    "id": "u0ZTcAOP9kk",
+    "title": "RSOD",
+    "score": 10
+  },
+  {
+    "id": "28r7UWkwndI",
+    "title": "1 Hour of Sewerslvt to break your core",
+    "score": 10
+  },
+  {
+    "id": "RNugSflCBf0",
+    "title": "What Breakcore ACTUALLY Looks Like.",
+    "score": 10
+  },
+  {
+    "id": "5PKbBH8DcBo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "sRJCzrR6ctw",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "6pJMl5-k-is",
+    "title": "Google Search Tricks - Google Advanced Search Filters -  Google Search Filters",
+    "score": 10
+  },
+  {
+    "id": "1HEHAAyaF7E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZcaZ9xkKaho",
+    "title": "How Do Amazon Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "9uQS3Cjf7YQ",
+    "title": "How Do I Use Advanced Search Filters?",
+    "score": 10
+  },
+  {
+    "id": "B_2zKwhPfdE",
+    "title": "Introducing Our New Search Filters",
+    "score": 10
+  },
+  {
+    "id": "quOMCSFXCFc",
+    "title": "What Are The Best Search Filters For Excluding Image Results? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "90zF0Yff5JI",
+    "title": "Improve Amazon Product Visibility Without Ads",
+    "score": 10
+  },
+  {
+    "id": "INf6UBgAFLY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BAdYZPF57-g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GvR_9Oi_Cj0",
+    "title": "Steven Page plays Brian Wilson at BSOMF on June 13, 2025 in tribute to Brian Wilson \\u0026 Sly Stone",
+    "score": 10
+  },
+  {
+    "id": "3LveJ221ByE",
+    "title": "Page Turner | Pastor Steven Furtick | Elevation Church",
+    "score": 10
+  },
+  {
+    "id": "DKGimkabL-w",
+    "title": "A Brand-New Series About The Holy Spirit",
+    "score": 10
+  },
+  {
+    "id": "2buBRWGrtbA",
+    "title": "Prayer Song",
+    "score": 10
+  },
+  {
+    "id": "4GL9qop_y24",
+    "title": "Steven Page at TEDxToronto",
+    "score": 10
+  },
+  {
+    "id": "krWe7Z-ZMs4",
+    "title": "Break Your Heart - Steven Page",
+    "score": 10
+  },
+  {
+    "id": "mxqDkh5Two8",
+    "title": "Steven Page and The Barenaked Ladies Break Up on Q TV",
+    "score": 10
+  },
+  {
+    "id": "saqglz3K6Sg",
+    "title": "Steven Page \\u0026 Ed Robertson | The Junos Pre-Show with Tom Power",
+    "score": 10
+  },
+  {
+    "id": "Frb6FaDfNxg",
+    "title": "Steven Page: \\\"I can't vote, so I used a song instead\\\"",
+    "score": 10
+  },
+  {
+    "id": "m9VkNtHyIP4",
+    "title": "ONE ON ONE: Steven Page - What A Good Boy March 1st, 2022 City Winery New York",
+    "score": 10
+  },
+  {
+    "id": "3dDVrQFn3RI",
+    "title": "Ed Robertson on the band's relationship to their hits",
+    "score": 10
+  },
+  {
+    "id": "5br5TJSj0ZU",
+    "title": "Pro Wakesurfer Tyler Stewart Shredding Lake Pleasant in Arizona",
+    "score": 10
+  },
+  {
+    "id": "XteBOYxNJ9U",
+    "title": "Geddy and Alex Send a Message to Rush Fans",
+    "score": 10
+  },
+  {
+    "id": "rmrtH66YDHk",
+    "title": "1. White Noise",
+    "score": 10
+  },
+  {
+    "id": "HvfMxPRURk0",
+    "title": "Steven Page - Brian Wilson - 9/25/2018 - Paste Studios - New York, NY",
+    "score": 10
+  },
+  {
+    "id": "6L3S65OBSjs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JLAaVWiadJo",
+    "title": "What Is The Role Of A Superintendent In Construction?",
+    "score": 10
+  },
+  {
+    "id": "SFiz6WQOteo",
+    "title": "Intro \\u0026 Summary",
+    "score": 10
+  },
+  {
+    "id": "uoNkHLjtrvQ",
+    "title": "Intro \\u0026 Summary",
+    "score": 10
+  },
+  {
+    "id": "4ijMeQBhmHU",
+    "title": "Intro \\u0026 Summary",
+    "score": 10
+  },
+  {
+    "id": "1pN7qmdKWQc",
+    "title": "Every Ted Hasting Tedism from Line of Duty (Updated)",
+    "score": 10
+  },
+  {
+    "id": "V8MlXpS2BVU",
+    "title": "2 Timothy 2:15 KJV  \\\"The Role of a Sunday School Superintendent\\\"",
+    "score": 10
+  },
+  {
+    "id": "wFK-AVvG97k",
+    "title": "Pre-Exam Duties as a Superintendent",
+    "score": 10
+  },
+  {
+    "id": "GNd0sx8mFjE",
+    "title": "Role Of the Centre Superintendent",
+    "score": 10
+  },
+  {
+    "id": "3fB8ljbPjLM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "us_lFnmVo4A",
+    "title": "Role of Assistant Superintendent",
+    "score": 10
+  },
+  {
+    "id": "CIlhGAqLrP8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "O8YxXJuMies",
+    "title": "ROLES AND RESPONSIBILITIES",
+    "score": 10
+  },
+  {
+    "id": "Xmx6Yr2X2O4",
+    "title": "NYC  Construction Superintendent Duty Change (2022)",
+    "score": 10
+  },
+  {
+    "id": "Yyf6zW3X0DY",
+    "title": "Medical Superintendent | Doc ALi",
+    "score": 10
+  },
+  {
+    "id": "SlpPckYUpG8",
+    "title": "Who is Superintendent",
+    "score": 10
+  },
+  {
+    "id": "BHzKlv2EELI",
+    "title": "Role of Centre Superintendent in Board Examination",
+    "score": 10
+  },
+  {
+    "id": "8HU0DhWiqkg",
+    "title": "Nursing Superintendent Kaam Kya Hota Hai? Nursing Superintendent Job Description",
+    "score": 10
+  },
+  {
+    "id": "o-bPS6g9mH8",
+    "title": "Examination Duty as Invigilator, Superintendent \\u0026 Paper Setter 2021",
+    "score": 10
+  },
+  {
+    "id": "O9y0X8b7DP0",
+    "title": "Chicopee Superintendent Relieved Of Duties After Being Indicted By Grand Jury",
+    "score": 10
+  },
+  {
+    "id": "CMTi308m-3A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bxMLidAQRek",
+    "title": "is being offline the new cool?",
+    "score": 10
+  },
+  {
+    "id": "KJ0sVddM7-Y",
+    "title": "Why Everybody is Going Offline Now",
+    "score": 10
+  },
+  {
+    "id": "y1RTs_9wwNY",
+    "title": "being chronically OFFline is the new cool",
+    "score": 10
+  },
+  {
+    "id": "DxxMPCeTYtY",
+    "title": "offline is a new luxury",
+    "score": 10
+  },
+  {
+    "id": "Y7rgJCTYN-E",
+    "title": "The New Social Currency is... Being Offline? | Digital Detox Core",
+    "score": 10
+  },
+  {
+    "id": "4cexsiAzgCU",
+    "title": "Cool Calm Pete - Offline (Prod. by Pre)",
+    "score": 10
+  },
+  {
+    "id": "UX9NnnJ3OoQ",
+    "title": "Why people are quitting social media in 2026 | Being chronically offline is the new flex",
+    "score": 10
+  },
+  {
+    "id": "ViApFfnO_sE",
+    "title": "Being offline is the new online trend",
+    "score": 10
+  },
+  {
+    "id": "wzmDIKrztUQ",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "m9TshyOO7eI",
+    "title": "Top 10 Best Offline Games for Android \\u0026 iOS 2026 (No Internet Needed!)",
+    "score": 10
+  },
+  {
+    "id": "KJA5OG29uSU",
+    "title": "Offline Games",
+    "score": 10
+  },
+  {
+    "id": "0VvK4ZrKTuI",
+    "title": "The starving artist no more",
+    "score": 10
+  },
+  {
+    "id": "Cu9h0DFbVxU",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "5VWc5_M2wQk",
+    "title": "18 BEST New offline Mobile Games of October 2025 | android \\u0026 iOS",
+    "score": 10
+  },
+  {
+    "id": "1GN9fLbDveE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "avw-ZWxPBdw",
+    "title": "Best fps games",
+    "score": 10
+  },
+  {
+    "id": "yJRjuhUkkqo",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "-3wGeqinPKI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HD3D-v5hfws",
+    "title": "Odeal - Gaslight 101 (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "c1B1a79Z6mQ",
+    "title": "Nessa Barrett -  gaslight (official lyric video)",
+    "score": 10
+  },
+  {
+    "id": "xe46mOYd0Mo",
+    "title": "Odeal - Gaslight 101 (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "N_5-pqIZ214",
+    "title": "The Gaslight Anthem - \\\"45\\\" (Lyric)",
+    "score": 10
+  },
+  {
+    "id": "r9lgdR9Kk_A",
+    "title": "Gaslight (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "rISWfym2RV0",
+    "title": "BLÜ EYES - gaslight (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "k1r7qY0kykU",
+    "title": "BoyWithUke - Gaslight (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "93yk6RoTc2Y",
+    "title": "The Gaslight Anthem - Biloxi Parish (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "o2RSKSYIXKY",
+    "title": "GASLIGHT - INJI Official Lyric Video",
+    "score": 10
+  },
+  {
+    "id": "tcY-JYQs0ZY",
+    "title": "INDEBTED - Greyson | LCY Uncut",
+    "score": 10
+  },
+  {
+    "id": "LsURcVSsIuQ",
+    "title": "Don't Keep Tellin' Me!  (Davie McFarlane and Rose Akerman) @daviemcf",
+    "score": 10
+  },
+  {
+    "id": "wxs6T40Wvjs",
+    "title": "Gaslight Anthem \\\"Mae\\\" Kinetic Typography",
+    "score": 10
+  },
+  {
+    "id": "eJDbaYeTCt0",
+    "title": "BB Cooper - Gaslight (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "P80mQJxCw5Q",
+    "title": "Gone Gone Gone (Parody Protest Song) | Anti-Trump EDM Resistance Anthem",
+    "score": 10
+  },
+  {
+    "id": "Ok0KwP2yEoA",
+    "title": "The Gaslight Anthem - Here Comes My Man",
+    "score": 10
+  },
+  {
+    "id": "nBkfHv6kc5o",
+    "title": "The Gaslight Anthem - \\\"45\\\"",
+    "score": 10
+  },
+  {
+    "id": "oST77VRHXt0",
+    "title": "The Gaslight Anthem- Boomboxes And Dictionaries LYRICS",
+    "score": 10
+  },
+  {
+    "id": "GJYt_p4Nf5k",
+    "title": "INJI - GASLIGHT (Lyrics) when I walked in the club everything changed when I walked in the club",
+    "score": 10
+  },
+  {
+    "id": "-DOQ7OIsiPk",
+    "title": "BoyWithUke - Gaslight (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "WxGJt-tfVPc",
+    "title": "Maggie Lindemann, Siiickbrain - GASLIGHT! (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "YCCoRJkRCa0",
+    "title": "The Gaslight Anthem - Old White Lincoln (with lyrics)",
+    "score": 10
+  },
+  {
+    "id": "n3NQt-wzkRo",
+    "title": "The Gaslight Anthem - Here's Looking At You Kid (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "kKN0HHyM3Hk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2WhT2NAUc7o",
+    "title": "Cab Ride - Hastings to Tonbridge",
+    "score": 10
+  },
+  {
+    "id": "buBtnsQQApU",
+    "title": "1066 Hastings to Tonbridge Line film",
+    "score": 10
+  },
+  {
+    "id": "jaTDhRGKEo8",
+    "title": "Tonbridge to Clapham Junction via Catford — Hastings DEMU cab ride",
+    "score": 10
+  },
+  {
+    "id": "RAnGvsJsb4w",
+    "title": "TONBRIDGE station",
+    "score": 10
+  },
+  {
+    "id": "SkU7BvEdXmk",
+    "title": "Tonbridge to Redhill – Hastings DEMU cab ride – 30 September 2017",
+    "score": 10
+  },
+  {
+    "id": "lyxQg_VS0g8",
+    "title": "TONBRIDGE station",
+    "score": 10
+  },
+  {
+    "id": "HhuEcc8HyFQ",
+    "title": "HS2 RIVER BLYTHE VIADUCT - JANUARY 2026 BIG UPDATE - AMAZING PROGRESS SEEN TODAY - COME TAKE A LOOK",
+    "score": 10
+  },
+  {
+    "id": "R1a7KHPcqMg",
+    "title": "Hastings DEMU 1013 honours Rosemary with a tour to Windsor | 17/01/26",
+    "score": 10
+  },
+  {
+    "id": "4DSfp0zYCC4",
+    "title": "ASHFORD INTERNATIONAL station",
+    "score": 10
+  },
+  {
+    "id": "BrfPhIo9cX4",
+    "title": "Hurst Green to Uckfield, cab view - Hastings DEMU - 7 May 2016 - \\\"Hastings Blue Belle\\\" railtour",
+    "score": 10
+  },
+  {
+    "id": "1mTSy04R0sI",
+    "title": "HURST GREEN station (at 18:04:45)",
+    "score": 10
+  },
+  {
+    "id": "-WIYUJd4q80",
+    "title": "CROMER station",
+    "score": 10
+  },
+  {
+    "id": "JwBrC7joNCQ",
+    "title": "DOVER PRIORY station",
+    "score": 10
+  },
+  {
+    "id": "4HZw9IFNPrg",
+    "title": "British Rail-Hastings+DEMUs February 1986",
+    "score": 10
+  },
+  {
+    "id": "bcWb7M9B7F0",
+    "title": "Charing Cross to Ashford (via Tonbridge) Drivers Eye View 2004",
+    "score": 10
+  },
+  {
+    "id": "_BnHA0WuJsI",
+    "title": "73119 at Hastings with 0Y22 Tonbridge West Yard to St. Leonard's Depot 26/10/2020",
+    "score": 10
+  },
+  {
+    "id": "wdeLNggcdzQ",
+    "title": "73128 passes Hastings with 0Y22 Tonbridge West Yard to St. Leonard's Depot via Rye 23/6/2021",
+    "score": 10
+  },
+  {
+    "id": "69X-JaYzPVw",
+    "title": "Tunbridge To Hastings and Bexhill",
+    "score": 10
+  },
+  {
+    "id": "Ez7uTmDcCRw",
+    "title": "Class 73's at Hastings with 0Y22 Tonbridge West Yard to St. Leonard's Depot 23/11/2020",
+    "score": 10
+  },
+  {
+    "id": "OUV8yLBZVhg",
+    "title": "TS2019 1066 line Hastings - Tonbridge 423 EMU NSE",
+    "score": 10
+  },
+  {
+    "id": "otm1VFbRPtE",
+    "title": "The Hastings Line : Journeys #7 : Linking London to the Coast",
+    "score": 10
+  },
+  {
+    "id": "0peqpsILVWY",
+    "title": "Hastings Diesels '100 Not Out' Railtour at Tonbridge",
+    "score": 10
+  },
+  {
+    "id": "zEP6mPcdEfc",
+    "title": "TS2020: Hastings - Tonbridge: Class 375",
+    "score": 10
+  },
+  {
+    "id": "EQIqEzIljjw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FiD-MLKt-AY",
+    "title": "LETTER TO ARMSTRONG",
+    "score": 10
+  },
+  {
+    "id": "5KfKfxGL8yc",
+    "title": "Fresh Florida Produce",
+    "score": 10
+  },
+  {
+    "id": "wo9CwzSGIAQ",
+    "title": "Fresh Catch \\\"Florida\\\"",
+    "score": 10
+  },
+  {
+    "id": "kvtyWkRf7SA",
+    "title": "Armstrong says STOP the Violence rip Florida fresh",
+    "score": 10
+  },
+  {
+    "id": "vAfuod2S6Vg",
+    "title": "Egg Rolls",
+    "score": 10
+  },
+  {
+    "id": "pB8LHtCNQXg",
+    "title": "Footage From Florida Lowering Lake Okeechobee Reveals Something Moving Below Nobody Expected!",
+    "score": 10
+  },
+  {
+    "id": "p3AsR27tRI0",
+    "title": "2025 28th Annual Amish and Mennonite Haiti Benefit Auction | Sarasota Florida | Quilts | Food",
+    "score": 10
+  },
+  {
+    "id": "Bd4CaCWEwxU",
+    "title": "Day in My Truck: Solo Female Driver's Exhausting Reality",
+    "score": 10
+  },
+  {
+    "id": "U-6OSi4HPwY",
+    "title": "full video 30 day Fishing on a Bamboo Raft – Simple Tools, Big River Catch",
+    "score": 10
+  },
+  {
+    "id": "Dt2oQg8qi2E",
+    "title": "Alaska's Relentless Cold -60°F | Day to Day Life, Repairs \\u0026 Winter Canning",
+    "score": 10
+  },
+  {
+    "id": "OlqexwQ0OqU",
+    "title": "Footage From Florida Lowering Lake Okeechobee Reveals Something Moving Below Nobody Expected!",
+    "score": 10
+  },
+  {
+    "id": "1Od4Kch_QAo",
+    "title": "Are the animals struggling with the weather",
+    "score": 10
+  },
+  {
+    "id": "g_H2L3ELr-U",
+    "title": "Footage From Florida Lowering Lake Okeechobee Reveals Something Moving Below No One Expected",
+    "score": 10
+  },
+  {
+    "id": "_mIx-iGb-Gk",
+    "title": "Why Goggle-Eyes Are the Deadliest Bait in the Florida Keys | Solo Fishing",
+    "score": 10
+  },
+  {
+    "id": "_w9zXkZ-Zek",
+    "title": "Inside Florida’s Forgotten Middle",
+    "score": 10
+  },
+  {
+    "id": "2bcAg8oykZk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uf51RJRTgd0",
+    "title": "floda fresh truth about Armstrong",
+    "score": 10
+  },
+  {
+    "id": "8JIyy1PVOq4",
+    "title": "Florida Fresh Dining Presents: PowerFul",
+    "score": 10
+  },
+  {
+    "id": "9uHecM6xWno",
+    "title": "The Florida Fresh Market \\u0026 Cafe",
+    "score": 10
+  },
+  {
+    "id": "N5_ELYA6v74",
+    "title": "Florida Fresh Feast at EPCOT! 🌺 Conch Fritters, Cubanito \\u0026 Watermelon Slushie!",
+    "score": 10
+  },
+  {
+    "id": "U6nYw4z23P0",
+    "title": "Fresh From Florida Farmer Commercial - Choose Fresh",
+    "score": 10
+  },
+  {
+    "id": "Ep5YIK7nlIs",
+    "title": "FRESH PICKED FLORIDA PRODUCE AT BEDNER'S MARKET| BOYNTON BEACH, FLORIDA",
+    "score": 10
+  },
+  {
+    "id": "_Mz4BlZRmDQ",
+    "title": "Breaking out of Florida State Prison - Part 2 - Bounce Back B - Fresh Out Interviews",
+    "score": 10
+  },
+  {
+    "id": "4fPydg5SjaE",
+    "title": "Clear Kayaking and Underwater Views of Florida Fresh Water Spring Near Gainesville Gilchrist Blue",
+    "score": 10
+  },
+  {
+    "id": "0TxwFc4pFA8",
+    "title": "Florida Fresh Fruit Fun",
+    "score": 10
+  },
+  {
+    "id": "DtZ_N5QLBiM",
+    "title": "Fresh sugarcane juice from Naga Garden Loxahatchee Florida #fresh #florida",
+    "score": 10
+  },
+  {
+    "id": "cOYQzh2lbBA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FCRZbg-gAXs",
+    "title": "Line of Duty: Season 1, Episode 1",
+    "score": 10
+  },
+  {
+    "id": "S4or5HBOtsg",
+    "title": "In the Line of Duty: Hunt for Justice (1995) | Full Movie",
+    "score": 10
+  },
+  {
+    "id": "7A-6rTSl53I",
+    "title": "Line of Duty - Series 1, Episode 3",
+    "score": 10
+  },
+  {
+    "id": "F543QOy9qh0",
+    "title": "OUR TOP 10 LINE OF DUTY MOMENTS! - BBC",
+    "score": 10
+  },
+  {
+    "id": "LbKIzP4bmFA",
+    "title": "In the Line of Duty: Manhunt in the Dakotas | Full Movie | Rod Steiger | Michael Gross",
+    "score": 10
+  },
+  {
+    "id": "PtDQbbLj5t0",
+    "title": "⚡ A movie that won’t let you sleep! 💥 Action-adventure, goosebumps guaranteed | Full Movie HD",
+    "score": 10
+  },
+  {
+    "id": "2rKtEYpCye4",
+    "title": "Episode Recap Marathon: Lt. Joe Kenda's Most Compelling Cases | Homicide Hunter | ID",
+    "score": 10
+  },
+  {
+    "id": "In2QBROL3-Q",
+    "title": "Top 10 Most Insane Police Pursuits Caught on Bodycam",
+    "score": 10
+  },
+  {
+    "id": "2gGgqqkXfKw",
+    "title": "How they built Ford Super Duty Pickup Trucks in the US Factory",
+    "score": 10
+  },
+  {
+    "id": "5u1ZN7d457o",
+    "title": "Line of Duty - Urgent Exit Required Full [HD]",
+    "score": 10
+  },
+  {
+    "id": "Np69gOzg5e4",
+    "title": "Israel and Arab Nations Ask Trump to Refrain From Attacking Iran",
+    "score": 10
+  },
+  {
+    "id": "WWVWKfpiG0o",
+    "title": "IN THE LINE OF DUTY II - THE SUPER COPS | Michelle Yeoh's 1980s Martial Arts Classic | Full Movie HD",
+    "score": 10
+  },
+  {
+    "id": "QsVEY4f_qSM",
+    "title": "Off-Duty Officer Ran Into Uvalde School When Police Wouldn't",
+    "score": 10
+  },
+  {
+    "id": "PvRfJW8gS48",
+    "title": "BBC Line of Duty - Series 4, Episode 6 | Final Scene - Shootout.",
+    "score": 10
+  },
+  {
+    "id": "OiKzf4EF7xk",
+    "title": "Line of Duty - Lee Mack's Hilarious 'Deleted' Scene | Sport Relief",
+    "score": 10
+  },
+  {
+    "id": "9l73WqnhMoE",
+    "title": "In the Line of Duty: Hunt for Justice | Full Crime Drama Movie",
+    "score": 10
+  },
+  {
+    "id": "7XFeOrc87mQ",
+    "title": "Rescuing a Carjacker - Line of Duty Sacramento PD",
+    "score": 10
+  },
+  {
+    "id": "XZhud323JPk",
+    "title": "Chinese Cops Fight the CIA | In the Line of Duty 4 | CLIP",
+    "score": 10
+  },
+  {
+    "id": "hP1bQmuLsWk",
+    "title": "The opening of Line of Duty had us HOOKED from the off ❤️‍🔥 BBC",
+    "score": 10
+  },
+  {
+    "id": "TcPwAf2Kuqo",
+    "title": "Sign in to YouTube",
+    "score": 10
+  }
+]

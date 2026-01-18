@@ -1,1 +1,3192 @@
-[]
+[
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 37  - סטים",
+    "score": 110
+  },
+  {
+    "id": "nAApXVKkroE",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "Zp16Ro6toNA",
+    "title": "שיפוץ רהיטים עתיקים - תיקון כסא בן 60 שנה",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "Gil0DVGv69I",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "קורס אקסל למתחילים - שיעור 20 - פונקציות נפוצות - COUNT, AVERAGE, MAX, MIN",
+    "score": 110
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "לימוד אקסל שיעור 5 - תאים עמודות ושורות.",
+    "score": 110
+  },
+  {
+    "id": "CX1b_75_98Y",
+    "title": "VLOOKUP - לימוד אקסל- שיעור 5 - נוסחת / פונקציית VLOOKUP ,הצלבת נתונים בין שתי טבלאות",
+    "score": 110
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "לימוד אקסל שיעור 40 - נוסחת EDATE",
+    "score": 110
+  },
+  {
+    "id": "RzZRgLPwelU",
+    "title": "קורס אקסל למתחילים - שיעור 5 - הזנה של טקסט",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "קורס אקסל למתחילים | שיעור גליונות ותאים",
+    "score": 110
+  },
+  {
+    "id": "SRtMQM-V2hs",
+    "title": "קורס אקסל למתחילים - שיעור 40 - פונקציית חיפוש VLOOKUP",
+    "score": 110
+  },
+  {
+    "id": "SuqVTmS7CrY",
+    "title": "מסלול מכשולים באקסל. הורדה חינם לזמן מוגבל באתר excelobstaclecourse.com! #ריצהמהידית",
+    "score": 110
+  },
+  {
+    "id": "uA8wcQAib2o",
+    "title": "אפו את לחם המחמצת המושלם: מדריך שלב אחר שלב",
+    "score": 110
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "y-vtJrirvX0",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "להשמיע צליל עם פייתון",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "hQFKsAQkicY",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "4OSVLm19Uho",
+    "title": "חידוש רהיטים - שיפוץ רהיטים",
+    "score": 60
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל VLOOKUP למתחילים",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "אקסל - EXCEL | 1 - מהי תוכנת אקסל",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "ifjvZrtowjE",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "bzHC8Op4YW8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "9PlNCO1wRWc",
+    "title": "2 פונקציות חדשות באקסל לייבוא ​​קבצי CSV וטקסט!",
+    "score": 60
+  },
+  {
+    "id": "6OBhiguJnMo",
+    "title": "איך להכין לחם מחמצת ביתי",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "3tvEFE-2m4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "אבירי המחמצת: האנשים שעזבו את הכול והתמסרו לאפיית לחם",
+    "score": 60
+  },
+  {
+    "id": "vzPhkPwt43E",
+    "title": "לחם מחמצת שאור בסיסי (יחסית) למתחילים",
+    "score": 60
+  },
+  {
+    "id": "ePsNWXGz9Zw",
+    "title": "איך להכין מחמצת ביתית! 😍",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "אליאל רוטנמר - הכנת לחם מחמצת שאור בבית (מקמח מלא כמובן!!)",
+    "score": 60
+  },
+  {
+    "id": "TYXMYsebS5c",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "EshwlLrGvFY",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "הכנת לחם מחמצת - לחובבנים",
+    "score": 60
+  },
+  {
+    "id": "VRs7hu8Nbj0",
+    "title": "אפיית לחם מחמצת בסיר - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "JcAlyfcw3eE",
+    "title": "לחם הכי קל להכין בבית 🍞",
+    "score": 60
+  },
+  {
+    "id": "GUW_nCnrnyw",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "Yuval Dax - Wildlife Israel / יובל דקס צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "dL8VLQIXzTk",
+    "title": "תחרות צילום טבע 2018",
+    "score": 60
+  },
+  {
+    "id": "7au4fNCRMJ0",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "צילום טבע - מפגש עם אבי מאיר",
+    "score": 60
+  },
+  {
+    "id": "ptKjEQUUFsk",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "תרגול דיבור קל באנגלית למתחילים | למד שיחה באנגלית מדי יום כדי להשתפר ✨",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yx5mEXCYlNs",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "אנגלית בחו\\\"ל - המילים שחובה עליכם לדעת | אנגלית למתחילים | לומדים לדבר בביטחון עם ספיזי",
+    "score": 60
+  },
+  {
+    "id": "ESTV1UncsDA",
+    "title": "שפר את האנגלית שלך || 50 הפעלים הנפוצים ביותר בשפה האנגלית !",
+    "score": 60
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "Ap3K_mVolw4",
+    "title": "Can you paint kitchen cabinets without sanding or priming? How to paint cabinets. Cabinet painting.",
+    "score": 50
+  },
+  {
+    "id": "WrJqVXDq1Jk",
+    "title": "Trash Picked FURNITURE FLIP! #diy #furnituremakeover",
+    "score": 50
+  },
+  {
+    "id": "1fjOozezdMA",
+    "title": "HOW TO STRIP FURNITURE- Full details on my IG. #diy #renovation #woodworking",
+    "score": 50
+  },
+  {
+    "id": "lmiHbejBbrE",
+    "title": "Three Secrets Everyone Should Know! Easy Wood Furniture Repair Restoration Tricks for Veneer #diy",
+    "score": 50
+  },
+  {
+    "id": "gTHKEOTF5nA",
+    "title": "How to Make Ballerina Farm Sourdough Loaves",
+    "score": 50
+  },
+  {
+    "id": "yh7tO-xrswE",
+    "title": "Wholemeal sourdough bread made from rye flour - quick and easy to make!",
+    "score": 50
+  },
+  {
+    "id": "-Kq2Cndht6w",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "Underground Stone Cave Makeover – Survival Shelter with Fireplace \\u0026 Wild Cooking",
+    "score": 50
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "Free Documentary Of Mega Construction Projects. 50+Construction Technology \\u0026 Heavy Equipment At Work",
+    "score": 50
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "The Entire History of Physics Explained — From Aristotle to Quantum Reality",
+    "score": 50
+  },
+  {
+    "id": "6Dd48Z0jZdw",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "50 Useful English Phrases Everyone Must Know | Learn 50 Useful English Phrases for Daily Life |",
+    "score": 50
+  },
+  {
+    "id": "fLOUBDbSSno",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "jJYRehW2z_s",
+    "title": "Great Pyramid Discoveries BANNED From History",
+    "score": 50
+  },
+  {
+    "id": "tHUx6P1c56E",
+    "title": "MegaStructures - Super Copters (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "Megastructures - Airbus A380 Mega Plain Documentary National Geographic.",
+    "score": 50
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "The Vatican: Building a Sacred Megastructure - Full Easy Documentary",
+    "score": 50
+  },
+  {
+    "id": "dbX6Catrh6E",
+    "title": "HOW TO CROCHET AN ASYMMETRICAL BLOUSE - EASY AND FAST - BY LAURA CEPEDA",
+    "score": 50
+  },
+  {
+    "id": "3DlSYmKHaiY",
+    "title": "START LEARNING SPANISH with Easy Story (A1-A2) – Un pequeño Paso",
+    "score": 50
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "Learn Spanish in 4 Hours | All the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Learn Once, Use Forever: 300 Spanish Phrases for Life",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish: Use this 8 Word Frame Until Fluent",
+    "score": 50
+  },
+  {
+    "id": "eZHHQfdNwtA",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "245RCAuFACg",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "3zaxc9vtfmQ",
+    "title": "Just 2 measurements, 1 hr and 1 yd of fabric to make this EASY linen top for summer!",
+    "score": 50
+  },
+  {
+    "id": "huKdF9wZ1uo",
+    "title": "HOW TO SEW and draft a placket. EASY and detailed STEP-BY-STEP with extra tips!",
+    "score": 50
+  },
+  {
+    "id": "yN_2-G5qUvI",
+    "title": "EASIEST TOP to make - just 2 measurements! Trendy cutting and stitching tutorial 2021",
+    "score": 50
+  },
+  {
+    "id": "VaQ5OO80Nzw",
+    "title": "How Wearable Tech Will Heighten Our Senses and Abilities, with Pedro Lopes",
+    "score": 50
+  },
+  {
+    "id": "R-iTnlFQzoQ",
+    "title": "How to tell if a sneaker is wearable (will they crumble?)",
+    "score": 50
+  },
+  {
+    "id": "hz2MPcsZJcM",
+    "title": "Sleep, Wearable Tech \\u0026 Micro Nutrition: Will It Actually Make You Fitter? | GTN Talks Science",
+    "score": 50
+  },
+  {
+    "id": "Y4qrOF7E-5Y",
+    "title": "Misfit CEO on the 'Impossible' Problems Wearable Tech will Solve | Health | WIRED",
+    "score": 50
+  },
+  {
+    "id": "lNKNCY72Ilc",
+    "title": "Wearable technology will “transform the doctor-patient relationship”",
+    "score": 50
+  },
+  {
+    "id": "vMTAvFn619g",
+    "title": "Will Wearable Technology Succeed?",
+    "score": 50
+  },
+  {
+    "id": "uZK5TV8sDM8",
+    "title": "How Wearable Smart Tech Will Control Your Life",
+    "score": 50
+  },
+  {
+    "id": "3BpGQ1oCATQ",
+    "title": "‘Wearable technology’ is BEYOND DANGEROUS to YOUR free will",
+    "score": 50
+  },
+  {
+    "id": "h9QpSRa47-g",
+    "title": "Wearable Tech That Will Predict Your Health Before You Get Sick",
+    "score": 50
+  },
+  {
+    "id": "wZ4KhfX_HEs",
+    "title": "Zentangle pattern ✨ #art #drawing #zentagle #mandala #zentanglelovers #zentanglepatterntutorials",
+    "score": 50
+  },
+  {
+    "id": "ArLx1TYGKjw",
+    "title": "Crochet Turkish Tutorial  beautiful For blankets #crochet/Easy Design For Beginners ",
+    "score": 50
+  },
+  {
+    "id": "4Xm8G5q5kGA",
+    "title": "ONCE YOU LEARN THIS STITCH, YOU’LL NEVER RUN OUT OF IDEAS / CROCHET PATTERN",
+    "score": 50
+  },
+  {
+    "id": "gTgsnkKagm8",
+    "title": "🧵✂️ Top Pro Tips: How to Make the Best Scrappy Quilt",
+    "score": 50
+  },
+  {
+    "id": "7LjbC21Yh0g",
+    "title": "Make this Easy Quilt Pattern Without Cutting Tiny Squares!",
+    "score": 50
+  },
+  {
+    "id": "zAWqMYsDOTU",
+    "title": "How to understand sewing patterns (for beginners!)",
+    "score": 50
+  },
+  {
+    "id": "RyOtT2bxc4Y",
+    "title": "New Easy Crochet Pattern Tutorial - Summer House Crochet Top or Dress Pattern",
+    "score": 50
+  },
+  {
+    "id": "V05sueGYs3Y",
+    "title": "February Expansion Update: Covenant Learning Center",
+    "score": 50
+  },
+  {
+    "id": "5r5-MPLKrIk",
+    "title": "The Last of the Star Makers intro",
+    "score": 50
+  },
+  {
+    "id": "V2MjQKgtJTk",
+    "title": "Courage The Cowardly Dog - Last Of The Starmakers - cover",
+    "score": 50
+  },
+  {
+    "id": "NxcOFZGy_8o",
+    "title": "90s FASHION IS BACK: Here’s How to Wear It in 2025 (For Women Over 40!)",
+    "score": 50
+  },
+  {
+    "id": "5mlDa39ezpU",
+    "title": "Bra Hack For Open Back Tops With Support 💫 #grwm #ootd #fashion #outfit #style #beauty #tutorial",
+    "score": 50
+  },
+  {
+    "id": "lwvF21DhIY8",
+    "title": "How to Make the Shift Quilt Block | Project Jelly Roll with Chrissy Lux of Branch \\u0026 Blume",
+    "score": 50
+  },
+  {
+    "id": "2N7geWlvaOw",
+    "title": "Hand Quilting Basics with Jen Kingwell | A Week of Jen-spiration | Quilting Tutorial",
+    "score": 50
+  },
+  {
+    "id": "cHp6dNG1SXM",
+    "title": "One Charm Pack Nantucket Summer Quilt Tutorial (Free Pattern)!",
+    "score": 50
+  },
+  {
+    "id": "K4RbMV8dz9U",
+    "title": "Quilt Tutorial for Beginners / Picket Fences Quilt with Moda Fabric / My Fabric Addiction",
+    "score": 50
+  },
+  {
+    "id": "Kj4-OZiEWDE",
+    "title": "Miss World Philippines 2024 beach beauty swimsuit competition preview",
+    "score": 50
+  },
+  {
+    "id": "_U3FXGIzC7g",
+    "title": "Fashion 2025-26 OUTFITS How to Dress with Fall Winter Clothes",
+    "score": 50
+  },
+  {
+    "id": "iAm_ZhJQPlA",
+    "title": "Ukrainian Soldiers Found a GENIUS Way to Build a Robot Army",
+    "score": 50
+  },
+  {
+    "id": "egiOSOoPoi8",
+    "title": "Trump Ushers in Technoligarchy | Molly White | TMR",
+    "score": 50
+  },
+  {
+    "id": "ENoFeUD_QJs",
+    "title": "SPRING-SUMMER 2025 FASHION TRENDS 😎⛱️ Learn about this season's colors and styles",
+    "score": 50
+  },
+  {
+    "id": "4dlq95UmCD0",
+    "title": "2024 Year in Review 😄 Best Funny Videos of the Year",
+    "score": 50
+  },
+  {
+    "id": "-DGY9HvChXk",
+    "title": "2025 Year in Review 😄 Best Funny Videos of the Year",
+    "score": 50
+  },
+  {
+    "id": "g2Efymm4ZDU",
+    "title": "2025 Year in Review 😄 Best Funny Videos of the Year",
+    "score": 50
+  },
+  {
+    "id": "gJdNaFNQzh0",
+    "title": "How to Give Welcome Remarks",
+    "score": 50
+  },
+  {
+    "id": "nWyi1fbSalo",
+    "title": "How to Give Welcome Remarks",
+    "score": 50
+  },
+  {
+    "id": "VahJchoUpFc",
+    "title": "How to Start a Speech",
+    "score": 50
+  },
+  {
+    "id": "PTlxRmLo9Xw",
+    "title": "How To Write A Professional Emcee Opening Script",
+    "score": 50
+  },
+  {
+    "id": "SA7bKo4HRTg",
+    "title": "Public Speaking: How To Make An Audience Love You In 90 Seconds",
+    "score": 50
+  },
+  {
+    "id": "7MWDv683YQQ",
+    "title": "How to Start a Speech",
+    "score": 50
+  },
+  {
+    "id": "w82a1FT5o88",
+    "title": "How to write a speech opening: Example",
+    "score": 50
+  },
+  {
+    "id": "4OjzWz-H4xM",
+    "title": "Building an Emcee Opening",
+    "score": 50
+  },
+  {
+    "id": "HpNVcRpja2E",
+    "title": "Have you ever seen this technique to sew perfect quilt pattern?",
+    "score": 50
+  },
+  {
+    "id": "IlkI9KlxYNA",
+    "title": "SHOCKINGLY Easy Free Motion Quilting Tutorial! Domestic Sewing Machine Approved!",
+    "score": 50
+  },
+  {
+    "id": "ZFUOC-y4i0s",
+    "title": "How To Use Search Filters In WhatsApp (Updated)",
+    "score": 50
+  },
+  {
+    "id": "JScYRTaNMuc",
+    "title": "Designing UX for search filters #figma #prototype #tutorial #beginners #uidesign #ux #filter",
+    "score": 50
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "How To Use LinkedIn Sales Navigator Search Filters To Find Decision Makers",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Use Search Filters",
+    "score": 50
+  },
+  {
+    "id": "XL2ruHaW3GM",
+    "title": "How to Upcycle VHS Tape Drawers (Storage Cases) into Industrial Metal Card Catalog Table",
+    "score": 50
+  },
+  {
+    "id": "Acfda2ZE948",
+    "title": "how to turn fabric scraps into birds",
+    "score": 50
+  },
+  {
+    "id": "oUWcw0FKKW8",
+    "title": "Fabric Scrap Projects - Some Ideas How To Use Up Fabric Scraps",
+    "score": 50
+  },
+  {
+    "id": "vA9Xh3qo-Y4",
+    "title": "Curtain Bang Tutorial🔥 #hairstyleinspo #hairstyle #hairtok #haircuttingstyle #fypシ゚viral",
+    "score": 50
+  },
+  {
+    "id": "IpkQ20i5qhs",
+    "title": "Twist Fringe / Twist Bang Technique - An update to your favorite technique!",
+    "score": 50
+  },
+  {
+    "id": "pe68TH7R_vM",
+    "title": "HOW TO CUT ✂ CHUNKY BANGS 💇‍♀️",
+    "score": 50
+  },
+  {
+    "id": "DZWXgjdxSZ0",
+    "title": "I just cut my own fringes/bangs. How to cut your own bangs",
+    "score": 50
+  },
+  {
+    "id": "R0jxL3AmHFM",
+    "title": "YouTube Short. Easy hair cutting Hacks. how to cut front Hair",
+    "score": 50
+  },
+  {
+    "id": "5r3GDwVgOoQ",
+    "title": "How to cut front layer hair cut 💇💇",
+    "score": 50
+  },
+  {
+    "id": "gBvDIv48Rms",
+    "title": "baby girl hair cut tutorial tranding Viral video front hair cut kaise kare//girl hair cut front//",
+    "score": 50
+  },
+  {
+    "id": "-Vj0gVpFCGc",
+    "title": "Yarn - Make 3 strands from 1 ball Navajo technique (CC)",
+    "score": 50
+  },
+  {
+    "id": "tieArIwQ9Vk",
+    "title": "Chain Ply Yarn - Beginner Spinning Tutorial to Create 3-Ply Yarn",
+    "score": 50
+  },
+  {
+    "id": "GdrDx_kRjSg",
+    "title": "How to Substitute Yarn in Three Simple Steps + FREE PRINTABLE CHART",
+    "score": 50
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hyt5EPbrNeI",
+    "title": "Secret way to fix your scuffed furniture with lacquer instead of refinishing 🤫",
+    "score": 10
+  },
+  {
+    "id": "pXC8E14DfXY",
+    "title": "Painting Vintage Furniture 😈 | Refinishing Dixie Dresser",
+    "score": 10
+  },
+  {
+    "id": "OHc8E4yYM6g",
+    "title": "8 AFFORDABLE WAYS TO UPDATE A DATED HOME WITHOUT REMODELING",
+    "score": 10
+  },
+  {
+    "id": "qOeDjOeH2Qk",
+    "title": "Wall Wallpaper Marble Look Wardrobe Design Furniture Renovation Decoration Medium Removable Sticker",
+    "score": 10
+  },
+  {
+    "id": "Xtgc0FleSec",
+    "title": "Day 2 of our office renovation! The IKEA Billy Bookcases are built and ready for painting #diyhome",
+    "score": 10
+  },
+  {
+    "id": "1RYzM_Z7ROE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IvV8GoQmYdQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4gEoh3sk2AE",
+    "title": "Intro \\u0026 Sourdough Starter feeding",
+    "score": 10
+  },
+  {
+    "id": "DiI-1PF_Mr0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nGWFLjSn-6g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "✅ The guy shows SURVIVAL skills in the wilderness 💦 #camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "KMO371fCkNM",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "36E28cSEDRs",
+    "title": "7 Days Surviving Alone in the Amazon",
+    "score": 10
+  },
+  {
+    "id": "f7As0yBCppU",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "O5NoWCsZMS4",
+    "title": "15 Genius Medieval Survival Skills Modern Preppers Have Forgotten",
+    "score": 10
+  },
+  {
+    "id": "2xGrnfEsjoU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gtozrKzv4to",
+    "title": "✅ SURVIVAL Bushcraft Skills: Soap for Survival in the wild ⛺️#camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "YBWIU7acf_Y",
+    "title": "Bushcraft Winter Shelter: Hidden Refuge, Fire Cooking \\u0026 Survival Skills",
+    "score": 10
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "dMIqr6YlR_w",
+    "title": "Survival Skills: Amazing DIY heater for Extreme Conditions. #survival #camping #skills #lifehacks",
+    "score": 10
+  },
+  {
+    "id": "-bkiQCQ3W2Y",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "BFheNvvJGoQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Wildlife photography। Bird photography। Paradise। #birds #nikonwildlife #nature #short #vairalshort",
+    "score": 10
+  },
+  {
+    "id": "WK5Yr6t91EU",
+    "title": "Macro Photography Lighting #litbylume | Miniature Nature Studio",
+    "score": 10
+  },
+  {
+    "id": "F_22M8wNOhI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "zUTsQH5MMCY",
+    "title": "Effort, Dedication,Timing    - Indian paradise flycatcher",
+    "score": 10
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "Nikon Z8 is Awesome 🥵 #wildlifephotoghraphy #photography #elephant #nikonz8",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZawOeUSzmY4",
+    "title": "Why Do We ACTUALLY Believe Atoms Exist?",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "Classical Mechanics",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "The One Principle That Explains All of Physics",
+    "score": 10
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "This Particle Spins at 300× the Speed of Light",
+    "score": 10
+  },
+  {
+    "id": "piC8T2HnzrU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "Level 1 to 100 Physics Concepts to Fall Asleep to",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "Does the Universe Have a Maximum Temperature? The Planck Temperature Explained",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "How Physicists Proved Everything is Quantum - Nobel Physics Prize 2025 Explained",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "kGBv_vZFnvw",
+    "title": "Nobel Winners PROVED \\\"The Universe Is Quantum\\\" Nobel Physics Prize 2025 Explained!",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "Physics - Basic Introduction",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "Physicist Brian Cox explains quantum physics in 22 minutes",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "t06aTX9jM34",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "The Laws of Physics, Explained Slowly",
+    "score": 10
+  },
+  {
+    "id": "W8y54Zw3zf0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YfiDyBk94jo",
+    "title": "Easy English Speaking",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "brORjF9UTIU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-3VVVLZT8y8",
+    "title": "Very Easy Blouse cutting and sewing No-brainer",
+    "score": 10
+  },
+  {
+    "id": "z1rDhARw7jI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "G4weYuQ7R0A",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "0iXKk7i8iiw",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "Superstructures: Largest Structures in the World | MEGA EPISODE | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "9mrMT7-eUoc",
+    "title": "Rare Hieroglyphs Discovered in Egypt — Scientists Are Shocked",
+    "score": 10
+  },
+  {
+    "id": "eBckAi4moQE",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "55fWSTUBMD4",
+    "title": "Blouse designs/Letest blouse designs/new trending blouse design",
+    "score": 10
+  },
+  {
+    "id": "v1ckS1X9OMg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ZGo-G7xpS1Q",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SOF5uvRXdKw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y5299jOaKQ4",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "pLmksyMzb9U",
+    "title": "Model🎉🎉 blouse designs new model back neck designblouse sleeves design बाजू मैं beautiful डिजाइन/yt",
+    "score": 10
+  },
+  {
+    "id": "4C1jh8ND3DA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "p1WdGmMiWCc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "gNbrGVJfHZY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "5dwxPypHhfM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "P5U1sqw16ks",
+    "title": "Living In An Airplane In The Woods For $370 A Month | Unlocked",
+    "score": 10
+  },
+  {
+    "id": "eLo7GwiGdWE",
+    "title": "Bruce \\u0026 The Bear: #9 Oregon at #20 Iowa, #3 Texas A\\u0026M at #22 Missouri + Who Will Be LSU's HC?",
+    "score": 10
+  },
+  {
+    "id": "S3ks8g6U6Jo",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "WeoshtLeF24",
+    "title": "KATHERINE WILSON",
+    "score": 10
+  },
+  {
+    "id": "vqif2gL9OLc",
+    "title": "Oregon's Special Session - Bruce Starr",
+    "score": 10
+  },
+  {
+    "id": "3Rp07QwF7q4",
+    "title": "Rep. Ed Diehl \\u0026 Sen. Bruce Starr on The Lars Larson Show 10-3-25",
+    "score": 10
+  },
+  {
+    "id": "CEGeXHrWN94",
+    "title": "Oregon - Bruce Erickson",
+    "score": 10
+  },
+  {
+    "id": "yAWdPCyLmws",
+    "title": "Bruce Starr for Oregon Senate",
+    "score": 10
+  },
+  {
+    "id": "E1Gc7NGTOsI",
+    "title": "CEO Of Shell Finally RESPONDS After Oregon Governor BEGS To Return!",
+    "score": 10
+  },
+  {
+    "id": "g-64RxQ9cMg",
+    "title": "Gang Ties, Suspicious activity, and Stonewalling: What Oregon Isn’t Telling You",
+    "score": 10
+  },
+  {
+    "id": "SGWjDtX7JV4",
+    "title": "Introductions and episode focus",
+    "score": 10
+  },
+  {
+    "id": "jIYNGBK8nB8",
+    "title": "Places to Avoid Moving to in Oregon in 2025",
+    "score": 10
+  },
+  {
+    "id": "nYGa2t7JZxk",
+    "title": "Oregon City now enforcing Civil Exclusion Zone downtown",
+    "score": 10
+  },
+  {
+    "id": "5yobHKJjdS8",
+    "title": "Living Alone in the Wild Siberian Forest for 20 years (-71°C, -96°F) Yakutia",
+    "score": 10
+  },
+  {
+    "id": "IOltGIaDPlY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "O1p4mJmxwh0",
+    "title": "Dry conditions continue as fog rolls through the Willamette Valley",
+    "score": 10
+  },
+  {
+    "id": "tB4ZxHSznZo",
+    "title": "Oregon compensates exonerated man wrongfully imprisoned for murdering 3",
+    "score": 10
+  },
+  {
+    "id": "EVm55WCVBB0",
+    "title": "Great model train, Sunset Valley Oregon System from Bruce Chubb \\u0026 Team, Part 1, great layout",
+    "score": 10
+  },
+  {
+    "id": "Iy-7zM78c3g",
+    "title": "Operation Days, february 2016",
+    "score": 10
+  },
+  {
+    "id": "kdwZxYWzhr0",
+    "title": "Bruce \\u0026 The Bear: #6 Oregon at #3 Penn State, Why The Sharps Love Bama, John Mateer Update \\u0026 More!",
+    "score": 10
+  },
+  {
+    "id": "Qmkh9rHxFtg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "jtVS6FrZcEw",
+    "title": "Bruce \\u0026 The Bear: #15 USC at #7 Oregon, #22 Missouri at #8 Oklahoma + Miami \\u0026 Notre Dame's Resumes",
+    "score": 10
+  },
+  {
+    "id": "WQxuNhSM0EA",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "OpDGZ2OECwM",
+    "title": "Meet The Beavers: Derrick Bruce",
+    "score": 10
+  },
+  {
+    "id": "eKk15QXiHC0",
+    "title": "Parents of Larnell Bruce pushing to change Oregon’s hate crime laws",
+    "score": 10
+  },
+  {
+    "id": "G4cYks7VZY4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NI-nhqRd7Yo",
+    "title": "EASY way to draft a SIMPLE summer top! NON traditional method pattern making",
+    "score": 10
+  },
+  {
+    "id": "0Mrh51ITvM0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "nJDFD7o6KxE",
+    "title": "Will This Wearable Airbag Vest Protect You During A Fall?",
+    "score": 10
+  },
+  {
+    "id": "l3PHnPtNBHM",
+    "title": "RFK Jr: \\\"Every American Will Wear a Wearable in 4 Years\\\"",
+    "score": 10
+  },
+  {
+    "id": "Tys906jqmyI",
+    "title": "Sole Materials",
+    "score": 10
+  },
+  {
+    "id": "MWVIl4gVbwY",
+    "title": "How Many People Are Wearing a Wearable Device Right Now",
+    "score": 10
+  },
+  {
+    "id": "TtJqP0fLe-k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "izSBI0v9_Yk",
+    "title": "will.i.am - wearable power source / i.am #FASHIONOLOGY",
+    "score": 10
+  },
+  {
+    "id": "u8tnYt30L-A",
+    "title": "Apple Ring - Will APPLE Launch a Wearable RING?!",
+    "score": 10
+  },
+  {
+    "id": "XXs50LNinL0",
+    "title": "The Dark Side Of Fitness Trackers",
+    "score": 10
+  },
+  {
+    "id": "pBo5kF8j_vk",
+    "title": "Does the Apollo wearable really work? How long will it take to feel the benefits from it?",
+    "score": 10
+  },
+  {
+    "id": "ZBE5XgJ_f9A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4A57TFK65Tw",
+    "title": "The Patterns Practice Song | Math Songs | Scratch Garden",
+    "score": 10
+  },
+  {
+    "id": "MBjjxSx45-Q",
+    "title": "Patterns for Kids",
+    "score": 10
+  },
+  {
+    "id": "CzFLDtvN_Xk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9UZ_VuJsbO8",
+    "title": "A Blanket in 3 Days! You've Never Seen Such an Easy and Beautiful Crochet Pattern",
+    "score": 10
+  },
+  {
+    "id": "l7g7Rk6hUAI",
+    "title": "Are Modern Knitting Patterns TOO Helpful?",
+    "score": 10
+  },
+  {
+    "id": "PIoXxAF8Yvw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KcsVC9X5DKA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NQGMtwIOBEw",
+    "title": "VERY EASY \\u0026 UNUSUAL Crochet Pattern for Beginners! 👍⚡️Crochet Stitch for Baby Blanket \\u0026 Bag",
+    "score": 10
+  },
+  {
+    "id": "VAeyY0aoffo",
+    "title": "I Can’t Stop Crocheting This Stitch! (Mixed Cluster Blanket)",
+    "score": 10
+  },
+  {
+    "id": "ByCmbI6Rxng",
+    "title": "Best Scrappy Quilt for 2025: Potato Chip Block",
+    "score": 10
+  },
+  {
+    "id": "1vz5ykwxXdE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ktBWP_845KM",
+    "title": "Checkered Brick | Fat Quarter Pattern | Quick and Easy Quilt Pattern!",
+    "score": 10
+  },
+  {
+    "id": "i42R0gRwJ3g",
+    "title": "best pattern lock... S.           subscribe my YouTube channel",
+    "score": 10
+  },
+  {
+    "id": "f-xk_bCfUuk",
+    "title": "Easy And  🧶👌 Beautiful knitting pattern",
+    "score": 10
+  },
+  {
+    "id": "KvZ1WH-5Syw",
+    "title": "Simple Geometrical Circle Design || Easy Geometry Pattern",
+    "score": 10
+  },
+  {
+    "id": "hMOIVw9yu-Y",
+    "title": "simple screen pattern lock 🔒🔐🔒#patternlock #pattern #screen",
+    "score": 10
+  },
+  {
+    "id": "IBPHj_a-cJo",
+    "title": "Zentangle pattern practice book #mindfulart #art #mandalapracticebook",
+    "score": 10
+  },
+  {
+    "id": "9bebxLInzuQ",
+    "title": "Zentangle pattern ✨ #zentagle #art #drawing #mandala #zentanglepatterns #drawingmandala #zenpattern",
+    "score": 10
+  },
+  {
+    "id": "T-BqlEip_08",
+    "title": "A simple pattern is all you need! | Linear drum grooves",
+    "score": 10
+  },
+  {
+    "id": "JMQc4diV0_M",
+    "title": "3d Pattern | Doodle | Zentangle Pattern",
+    "score": 10
+  },
+  {
+    "id": "Hu6DGSnQQVA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aNPi7NYN-bo",
+    "title": "🔴The 70’s Are BACK: Fashion Trends Returning in 2026 | Mia Moda",
+    "score": 10
+  },
+  {
+    "id": "lEGgaSmG6ZI",
+    "title": "Back to Black - Amy Winehouse (Cover) Joana Castanheira - Música e Moda",
+    "score": 10
+  },
+  {
+    "id": "XMqr16ZMbO0",
+    "title": "10 Wearable Fashion Trends That Will Be Huge in 2026!",
+    "score": 10
+  },
+  {
+    "id": "gO3ig-fjc6M",
+    "title": "💚Desfile infantil It Child en la Semana de la Moda Baño de Gran Canaria #GranCanariaSFW 2018💚",
+    "score": 10
+  },
+  {
+    "id": "CySaunYROms",
+    "title": "A Cozy Winter Reset in my Cottage ❄️🧹 #60",
+    "score": 10
+  },
+  {
+    "id": "ghZ2FKYVGWc",
+    "title": "2026 FASHION TRENDS! *It's the end of an ERA!*",
+    "score": 10
+  },
+  {
+    "id": "TTl3wtfcMUE",
+    "title": "Tumblr Fashion Was INSANE",
+    "score": 10
+  },
+  {
+    "id": "-Xky6zD1xSk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JPWiFyiSV-U",
+    "title": "Back moda abrigos Vanidades",
+    "score": 10
+  },
+  {
+    "id": "wWkx-wP6rAE",
+    "title": "Chris Thile at the Green Music Center – February 26, 2026",
+    "score": 10
+  },
+  {
+    "id": "3CgU5yBeQSQ",
+    "title": "Opernpassage",
+    "score": 10
+  },
+  {
+    "id": "QOLS2DBJeZY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sQRfp2Xp6U0",
+    "title": "February 20, 2025 – Multi-Generational Recreation Center Construction Update",
+    "score": 10
+  },
+  {
+    "id": "FJ8iV0s9Y_c",
+    "title": "February Footing | World Barefoot Center",
+    "score": 10
+  },
+  {
+    "id": "15UXHQPrcBg",
+    "title": "Music @ The Interchurch Center February 12th, 2025",
+    "score": 10
+  },
+  {
+    "id": "liXOmTp2KRA",
+    "title": "Best Places To Visit In February | February Holiday Destinations | Travel Center",
+    "score": 10
+  },
+  {
+    "id": "7LGMu-9vZxQ",
+    "title": "Music @ The Interchurch Center February 23, 2022",
+    "score": 10
+  },
+  {
+    "id": "HSEeYopUz18",
+    "title": "February 2025 Meet and Greet - Bruce Springsteen Archives and Center for American Music",
+    "score": 10
+  },
+  {
+    "id": "I1c9b-irIhg",
+    "title": "Center Parcs | Whinfell Forest | February 2025 | Arrival Day | Lakeside Inn",
+    "score": 10
+  },
+  {
+    "id": "InMxPm67NdM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TbD7UHvb248",
+    "title": "Sphere Ensemble Performance - Stout Street Recuperative Care Center - February 2024",
+    "score": 10
+  },
+  {
+    "id": "0oJdAn0OKGU",
+    "title": "The Center Spread Magazine February 2020",
+    "score": 10
+  },
+  {
+    "id": "kEgEqG7YxBc",
+    "title": "February 2025 Updates From The Center Within",
+    "score": 10
+  },
+  {
+    "id": "NIw66afAUfo",
+    "title": "TINA at the King Center February 24-25, 2026",
+    "score": 10
+  },
+  {
+    "id": "ZpVqx572a6M",
+    "title": "MJ THE MUSICAL coming to the Kravis Center February 2026",
+    "score": 10
+  },
+  {
+    "id": "wfCzfLh5oSA",
+    "title": "February Late Winter Walk at the Nature Center",
+    "score": 10
+  },
+  {
+    "id": "QvlBLn1-aMo",
+    "title": "Evergreen Plants and Trees",
+    "score": 10
+  },
+  {
+    "id": "FtDLcqphxik",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fGTKw1l6L_o",
+    "title": "Giant Space-Squid",
+    "score": 10
+  },
+  {
+    "id": "xFdF5js601E",
+    "title": "Space Squids",
+    "score": 10
+  },
+  {
+    "id": "n5uVUFPzy4Y",
+    "title": "The Space Squid Kid - 🐾Kit^n^Kate🐾 - Cartoons for children",
+    "score": 10
+  },
+  {
+    "id": "iab-OHWEKUM",
+    "title": "The Space Squid Kid",
+    "score": 10
+  },
+  {
+    "id": "3Q_5pnxckms",
+    "title": "They're simpler and the associations",
+    "score": 10
+  },
+  {
+    "id": "83wHzUM59FU",
+    "title": "Squid in Space: How Research Could Help Bolster Human Health",
+    "score": 10
+  },
+  {
+    "id": "qpeLcjfYDYY",
+    "title": "Space squid screws up the ISS | Life | CLIP",
+    "score": 10
+  },
+  {
+    "id": "ECo1eHPSwg0",
+    "title": "The Space Squid Puppet",
+    "score": 10
+  },
+  {
+    "id": "jN-JNtt531g",
+    "title": "Space Squid (feat. Bill Carrothers, Seamus Blake, Ben Street)",
+    "score": 10
+  },
+  {
+    "id": "xYRM8cvo4bU",
+    "title": "Space Squid",
+    "score": 10
+  },
+  {
+    "id": "plQkoL8Zxys",
+    "title": "Space Squid",
+    "score": 10
+  },
+  {
+    "id": "KciTJUKTjU4",
+    "title": "Cartoons For Kids - Kit^n^Kate: Gone Wishing / The Space Squid Kid",
+    "score": 10
+  },
+  {
+    "id": "P_LQKA7JbCo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JpSwb5zilBo",
+    "title": "Sew No-brainer Pattern Blouse for size S-5XL",
+    "score": 10
+  },
+  {
+    "id": "kxloC1MKTpg",
+    "title": "Sew No-brainer Pattern Blouse for size S-5XL",
+    "score": 10
+  },
+  {
+    "id": "HQY7nDBKbYo",
+    "title": "Very Easy Blouse cutting and sewing No-brainer",
+    "score": 10
+  },
+  {
+    "id": "Fc_ewZm80dg",
+    "title": "Very Easy Blouse cutting and sewing No-brainer",
+    "score": 10
+  },
+  {
+    "id": "6iPL0fMZk9w",
+    "title": "Very Blouse cutting and sewing No-brainer",
+    "score": 10
+  },
+  {
+    "id": "fnDXZ_yIIQ8",
+    "title": "BEST PURCHASE in Steal a Brainrot!",
+    "score": 10
+  },
+  {
+    "id": "nmmfxskBu0M",
+    "title": "9999 AURA MOMENT in Steal a Brainrot..",
+    "score": 10
+  },
+  {
+    "id": "YORlU1TgOhI",
+    "title": "My brain…. Its out again…",
+    "score": 10
+  },
+  {
+    "id": "qJE-1A07lKU",
+    "title": "Tallest Brainrots in Steal a Brainrot..",
+    "score": 10
+  },
+  {
+    "id": "VwoiNN_o2eI",
+    "title": "Very Easy Blouse cutting and sewing No-brainer#sewing #DIY",
+    "score": 10
+  },
+  {
+    "id": "UHXGiIEvzZQ",
+    "title": "✅️️ Very Easy Blouse Pattern Cutting and Sewing No-brainer! Available in sizes XS to XXL",
+    "score": 10
+  },
+  {
+    "id": "vjbn7MAYQaM",
+    "title": "Blouse cutting and sewing No-brainer",
+    "score": 10
+  },
+  {
+    "id": "jLs_MahZkL4",
+    "title": "INSANE Steal In Steal A BRAINROT 🤑🤑🤑",
+    "score": 10
+  },
+  {
+    "id": "AC4A_0R_EMw",
+    "title": "Very Easy Blouse cutting and sewing No-brainer#sewing",
+    "score": 10
+  },
+  {
+    "id": "Knbq-vltBHs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Vdp3XJnIX5c",
+    "title": "Nota Priscila Carello - Vox Populi TV 2016",
+    "score": 10
+  },
+  {
+    "id": "mNp0boavqHY",
+    "title": "Entrevista Priscila Carello - Vox Populi TV 2017",
+    "score": 10
+  },
+  {
+    "id": "TMeVDOzTpEg",
+    "title": "participante Priscila Carello- San Miguel de Tucumán",
+    "score": 10
+  },
+  {
+    "id": "joHHePjg6Ek",
+    "title": "Priscila Carello 1ra  princesa del concurso \\\"Miss Universo Argentina 2016\\\"",
+    "score": 10
+  },
+  {
+    "id": "Dzq0fsd64rU",
+    "title": "9NO PROGRAMA",
+    "score": 10
+  },
+  {
+    "id": "fxiV6awEmC8",
+    "title": "Paraiso Miami Swim Week 2025",
+    "score": 10
+  },
+  {
+    "id": "SkJnUDeDouY",
+    "title": "TV GP - 2 temp - Ep 24: Priscila Bezerra da Isobar",
+    "score": 10
+  },
+  {
+    "id": "WjjOxmFeU2w",
+    "title": "Priscila Tv capitulo 4",
+    "score": 10
+  },
+  {
+    "id": "vVcqXD0ahwI",
+    "title": "clean with me+ loads of laundry+ cleaning motivation+ exercising+ work after work| CleoshaaaJ",
+    "score": 10
+  },
+  {
+    "id": "3ILrnx-uXpM",
+    "title": "JULIET PROWSE,DANCING",
+    "score": 10
+  },
+  {
+    "id": "s0eHBLJiexY",
+    "title": "Presentación de LUISINA PILLET- Cruz alta, Córdoba",
+    "score": 10
+  },
+  {
+    "id": "4UjhpE5Yoxo",
+    "title": "¿Qué significa ser bella?",
+    "score": 10
+  },
+  {
+    "id": "KTLmg-ui5Ig",
+    "title": "Valentina Ferrer Miss Universe Argentina 2015 Preliminary Competition",
+    "score": 10
+  },
+  {
+    "id": "FO3_jjmAu2A",
+    "title": "Tinelli felicitó en vivo a la bailarina que se consagró Miss Universo",
+    "score": 10
+  },
+  {
+    "id": "Hyr7NSH4xLU",
+    "title": "Elección miss universo tucuman DIRIGIDO POR ANDREA GARCIA",
+    "score": 10
+  },
+  {
+    "id": "WMhpt065O_Q",
+    "title": "Gabriel Viviani - Denice Gomez Veliz - Miss Mundo Tucuman",
+    "score": 10
+  },
+  {
+    "id": "dbqGpy7ODaY",
+    "title": "TV GP - 2 temp - Ep 14: Denis Chamas da Unilever",
+    "score": 10
+  },
+  {
+    "id": "AJOLdxNclZU",
+    "title": "TV GP - 2 temp - Ep 11: Denis Gustavo da Leo Burnett",
+    "score": 10
+  },
+  {
+    "id": "CSa-QJ21wpc",
+    "title": "MISS UNIVERSO ARGENTINA",
+    "score": 10
+  },
+  {
+    "id": "WVvQZsunkYw",
+    "title": "Neena Swimwear at PARAISO Miami Swim Week 2023 Part 2.",
+    "score": 10
+  },
+  {
+    "id": "ZXWblSR9cZE",
+    "title": "Saludos para Priscilla \\u0026 Jessenia Paparazzi - Club Evolution - 12/9/2013",
+    "score": 10
+  },
+  {
+    "id": "8LLNWuALWzI",
+    "title": "Finalista - Priscila Casimiro",
+    "score": 10
+  },
+  {
+    "id": "_Jwo92qfmxI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iOvyNaKxbj8",
+    "title": "2026 Fashion Trend Predictions: Glamour Is Back \\u0026 Quiet Luxury Is Over | SheerLuxe Fashion",
+    "score": 10
+  },
+  {
+    "id": "ShQksd0Zxeo",
+    "title": "hiii",
+    "score": 10
+  },
+  {
+    "id": "FvrDtnA6NCE",
+    "title": "🏆Award Winning🏆 CGI 3D Animated Short Film: \\\"Back In Fashion\\\" - by Most Wanted Studio | TheCGBros",
+    "score": 10
+  },
+  {
+    "id": "rYYYLn1-7EE",
+    "title": "The Top Most Wearable AUTUMN 2025 FASHION TRENDS | + Back to School outfit inspo",
+    "score": 10
+  },
+  {
+    "id": "hN1ZZgA94vc",
+    "title": "01:26: Intro",
+    "score": 10
+  },
+  {
+    "id": "R7EkX9n_o_o",
+    "title": "Celebs Bringing Back Fashion From Back In The Day",
+    "score": 10
+  },
+  {
+    "id": "X_Ok_oujhkI",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "0ZW9COvwwaI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YdC0HHa3qBo",
+    "title": "Simple Moda Love Charm Quilt using 5\\\" CHARM SQUARES! 1st in our series to use 5\\\" squares or charms!",
+    "score": 10
+  },
+  {
+    "id": "skTDNIDjFCA",
+    "title": "Raspberry Summer Quilts | Trunk Show | Sherri \\u0026 Chelsi",
+    "score": 10
+  },
+  {
+    "id": "xX-4oIocV6w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ND_wZeC6LBs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GmJF_8j2cyY",
+    "title": "MAKING A BEAUTIFUL \\\"BEACH CITY BLOOMS\\\" QUILT!",
+    "score": 10
+  },
+  {
+    "id": "A2fYxQqTuPw",
+    "title": "Emmitt and Ivy Collection | Trunk Show | Karla Eisenach of Sweetwater",
+    "score": 10
+  },
+  {
+    "id": "wW1ofwrDO5w",
+    "title": "Moda Cake Mix Recipe Tips and Tricks",
+    "score": 10
+  },
+  {
+    "id": "D3cDD8KM8qI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Fl9NAz61hjA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rg6VT9Dg3PU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4LSPjC0V_xk",
+    "title": "Layout",
+    "score": 10
+  },
+  {
+    "id": "5oXL5Wia-ms",
+    "title": "EASY LOG CABIN QUILT! Jelly Roll Cabin 🏠 Shortcut Quilt 📌Save this Jelly Roll Log Cabin Variation!",
+    "score": 10
+  },
+  {
+    "id": "CyIXcMAHWTY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OzMKi4Pko1k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YaM8TzDr1tg",
+    "title": "Beautiful dress to impress this Friday Fashion idea #fashion #style #dress #weekendoutfit",
+    "score": 10
+  },
+  {
+    "id": "iSweuMSV8p0",
+    "title": "Chanel | Fall/Winter 2025/26 | Paris Fashion Week",
+    "score": 10
+  },
+  {
+    "id": "wvqrZYXH_X4",
+    "title": "Dolce \\u0026 Gabbana | Alta Moda Fashion Show 2025 | Rome - 4K",
+    "score": 10
+  },
+  {
+    "id": "ii-W4YbMChU",
+    "title": "GEORGES HOBEIKA Spring 2022 Paris - Fashion Channel",
+    "score": 10
+  },
+  {
+    "id": "flO4l0rk2_o",
+    "title": "Beautiful smile stunning style to Friday #fashionstyle #beauty #fashion #dress",
+    "score": 10
+  },
+  {
+    "id": "OUscQieiM7w",
+    "title": "MODA FASHION 2024 / ROPA CASUAL  DE MODA PARA MUJER / TRENDS 2024",
+    "score": 10
+  },
+  {
+    "id": "IMtBvPyNy4g",
+    "title": "Sherri Hill | Spring/Summer 2026 | New York Fashion Week",
+    "score": 10
+  },
+  {
+    "id": "ZukboSBHZJk",
+    "title": "Isis Fashion Show 2025 | Zuhair Murad Spring–Summer vs Isis Fashion Awards | Runway Transformation",
+    "score": 10
+  },
+  {
+    "id": "CEmkaD5v2K4",
+    "title": "Basic Jeans / Casual Fashion Combinations / Summer Fashion",
+    "score": 10
+  },
+  {
+    "id": "vgVe2nuFmNw",
+    "title": "FALL OUTFIT IDEAS 🍂 2026 FASHIONABLE FALL WINTER CLOTHES FOR WOMEN",
+    "score": 10
+  },
+  {
+    "id": "DhM0fMTmleQ",
+    "title": "FALL WINTER 2025-2026 WOMEN'S FASHION * FASHION LOOKS / THE BEST SEASONAL OUTFITS",
+    "score": 10
+  },
+  {
+    "id": "fu8QPww58UA",
+    "title": "Outfits with Modern Jeans Casual Fashion September 2025 Fashion Love",
+    "score": 10
+  },
+  {
+    "id": "QpLcGe91Ny0",
+    "title": "Ralph Lauren | Fall/Winter 2025/26 | New York",
+    "score": 10
+  },
+  {
+    "id": "fR-kXABXR3A",
+    "title": "Rethink Fashion 2025–2026: What No One’s Telling You About This Year’s Trends",
+    "score": 10
+  },
+  {
+    "id": "dt1ZPgLnmGA",
+    "title": "DOLCE \\u0026 GABBANA 2025 Alta Moda Roma Fashion Show in Rome, Italy #luxuryfashion #dolceandgabbana",
+    "score": 10
+  },
+  {
+    "id": "iPl2KLgtGHM",
+    "title": "Giorgio Armani | Fall/Winter 2025/26 | Milan Fashion Week",
+    "score": 10
+  },
+  {
+    "id": "E_CqDUcOpjQ",
+    "title": "Versace | Spring/Summer 2025 | Milan Fashion Week - 4K",
+    "score": 10
+  },
+  {
+    "id": "BFNNHSTE_Io",
+    "title": "Outfit for Summer Fashion style 23 #fashion #model #style #beauty #outfit",
+    "score": 10
+  },
+  {
+    "id": "N30qsAHjC0U",
+    "title": "Moda Fashion",
+    "score": 10
+  },
+  {
+    "id": "8hv2RtLNcUQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RIJjQIxu_aM",
+    "title": "【ENG DUB】The woman came back to life after dying, Return powerfully to revenge! #251002qlB2",
+    "score": 10
+  },
+  {
+    "id": "9wtpz2NUzbI",
+    "title": "Tested and Trusted Ruqyah to return Black Magic Back To the Sender | RETURN TO SENDER | ruqyah sihir",
+    "score": 10
+  },
+  {
+    "id": "BjwdbrRmynA",
+    "title": "Tested and Trusted Ruqyah to return Black Magic Back To the Sender | RETURN TO SENDER",
+    "score": 10
+  },
+  {
+    "id": "NHy7kbE_gy0",
+    "title": "295 Returns / Back | sidhu moose wala | krish rao | latest punjabi song 2022",
+    "score": 10
+  },
+  {
+    "id": "QacrT0UWpKs",
+    "title": "Powerful Return to Sender Prayer: Double Back every Witchcraft, Evil Attacks \\u0026 Demonic Forces",
+    "score": 10
+  },
+  {
+    "id": "5NXzRQHFM4s",
+    "title": "🔴 BEN IS BACK! GHOST AT HOME RETURNS",
+    "score": 10
+  },
+  {
+    "id": "Nid9YcxUi34",
+    "title": "👑 The Heiress Returns:The Day I Fought Back Movie Clip | They Used Her Baby… She Fought Back 💥",
+    "score": 10
+  },
+  {
+    "id": "9k7d_y7DGDQ",
+    "title": "Back-to-Back Returns! Dolphins and Patriots score on kick returns in sequential order",
+    "score": 10
+  },
+  {
+    "id": "N5FwinxjSPc",
+    "title": "BIllionaire On his Way Back Returning Home To Met The Most Beaetiful Girl That Was Kind To Him",
+    "score": 10
+  },
+  {
+    "id": "3-KmWnxsqL0",
+    "title": "REBRANDING \\u0026 MAKING MAJOR CHANGES FOR 2026!",
+    "score": 10
+  },
+  {
+    "id": "jw8Tf9AzJms",
+    "title": "Cabinet Meeting Cold Open - SNL",
+    "score": 10
+  },
+  {
+    "id": "RnEHuDuK0U8",
+    "title": "Let’s get into a minute!",
+    "score": 10
+  },
+  {
+    "id": "dQFYRsPG46s",
+    "title": "🕋🛐𝐏𝐨𝐰𝐞𝐫𝐟𝐮𝐥 𝐑𝐮𝐪𝐲𝐚 𝐭𝐨 𝐑𝐞𝐦𝐨𝐯𝐞 𝐄𝐯𝐢𝐥𝐞𝐲𝐞, 𝐁𝐥𝐚𝐜𝐤𝐌𝐚𝐠𝐢𝐜,𝐏𝐚𝐢𝐧 𝐜𝐚𝐮𝐬𝐞 𝐛𝐲 𝐭𝐡𝐞 𝐣𝐢𝐧𝐧, 𝐁𝐥𝐨𝐜𝐤𝐚𝐠𝐞𝐬,𝐁𝐚𝐝 𝐃𝐫𝐞𝐚𝐦𝐬,𝐚𝐧𝐝 𝐄𝐧𝐯𝐲",
+    "score": 10
+  },
+  {
+    "id": "5Uz5MRKnOgQ",
+    "title": "Ruby Plays the Bingo Frenzy Stampede Slot in Las Vegas!",
+    "score": 10
+  },
+  {
+    "id": "VAdcryD_aX4",
+    "title": "Nene Leakes’ Bravo Return EXPLAINED | Lawsuit Timeline, Settlement Tea \\u0026 Bethenny Frankel Side-Eye",
+    "score": 10
+  },
+  {
+    "id": "XDnA9ZJ1VTA",
+    "title": "Nene Leakes Returns to Bravo: What’s Really Going On",
+    "score": 10
+  },
+  {
+    "id": "woJsPDfMB38",
+    "title": "Stop Back Pain From Returning With This Trick",
+    "score": 10
+  },
+  {
+    "id": "E1Dilr2EHJE",
+    "title": "F1 Is Back: Returning to Action in Zandvoort 👏 #f1 #formula1 #mercedesamgf1",
+    "score": 10
+  },
+  {
+    "id": "bTLH6vt7MEg",
+    "title": "Jon Moxley Returning to WWE Would You Want Him Back in The Shield #JonMoxley #WWE #AEW",
+    "score": 10
+  },
+  {
+    "id": "ssgqu11HXYM",
+    "title": "UPDATED [1-25] The Mage of the Back Alley Returns | Explained in Hindi l",
+    "score": 10
+  },
+  {
+    "id": "UOqjEtyiHqA",
+    "title": "Part 1 , 2 ,3 and 4",
+    "score": 10
+  },
+  {
+    "id": "HZU9ZbQ6x50",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OMOGaugKpzs",
+    "title": "Everybody in New York has rich parents or is selling drugs 😂😂😂  Agree or disagree? #subwaytakes",
+    "score": 10
+  },
+  {
+    "id": "xFbAjbx1sec",
+    "title": "The Police - Every Breath You Take (Visualiser)",
+    "score": 10
+  },
+  {
+    "id": "iOT_zuDHvVk",
+    "title": "Every Breath You Take",
+    "score": 10
+  },
+  {
+    "id": "iXi6IHFHeIA",
+    "title": "THIS LONDONER HAS A LOT OF OPINIONS",
+    "score": 10
+  },
+  {
+    "id": "ILfn02bzoLY",
+    "title": "Ghosting is FINE!! #dating #relationships #nyc #podcast #interviews #alexachung",
+    "score": 10
+  },
+  {
+    "id": "N0I5bZYUYUk",
+    "title": "Hudson Westbrook - Take Your Time (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "y6swzGpJDdQ",
+    "title": "Former Iranian political prisoner wants Trump to hear this",
+    "score": 10
+  },
+  {
+    "id": "Lds3NYv1fLc",
+    "title": "Fracasa celebracion del fmln por aniversario de Acuerdos de Paz",
+    "score": 10
+  },
+  {
+    "id": "EBi-dprdEIQ",
+    "title": "RASHID SHAHEED OPENING KICKOFF TOUCHDOWN!",
+    "score": 10
+  },
+  {
+    "id": "yp-Wpg5irbw",
+    "title": "Jon on MAGA's Renee Good Hypocrisy \\u0026 Klepper on Minnesotans' Response to ICE | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "aSldYQ6cbdE",
+    "title": "wow. (again).",
+    "score": 10
+  },
+  {
+    "id": "EATVM80rxSw",
+    "title": "The one with all the bathrooms.",
+    "score": 10
+  },
+  {
+    "id": "K9gu-VJWERs",
+    "title": "Weekend Update: Harry Styles Announces New Album, Zohran Mamdani's Free Childcare Plan - SNL",
+    "score": 10
+  },
+  {
+    "id": "r0H-MNiXP84",
+    "title": "DONALD, MAWELELE \\u0026 MAKHOSI - TAKE YOUR TIME (OFFICIAL VISUALIZER VIDEO)",
+    "score": 10
+  },
+  {
+    "id": "qVgDJ_wFT_w",
+    "title": "Venjent - Take Your Own Advice",
+    "score": 10
+  },
+  {
+    "id": "YAtYG-yHIJ4",
+    "title": "P.M Quinns - Let Me Take Your Pains Away",
+    "score": 10
+  },
+  {
+    "id": "-GWY_iwnDds",
+    "title": "Ruby Don't Take Your Love to Town (Re-Recorded)",
+    "score": 10
+  },
+  {
+    "id": "SVeX5gOFeYs",
+    "title": "Take Your Place",
+    "score": 10
+  },
+  {
+    "id": "TZ8lWZMCOZk",
+    "title": "Westend \\u0026 SIDEPIECE - Take Your Places (Extended Mix)",
+    "score": 10
+  },
+  {
+    "id": "oOswIwzAZNo",
+    "title": "Every Breath You Take but she kinda took your breath away",
+    "score": 10
+  },
+  {
+    "id": "gvSudWRv3TA",
+    "title": "New Yorkers who hate LA are EMBARRASSING themselves! #funnypodcast #nyc #newyorkcity #la #interview",
+    "score": 10
+  },
+  {
+    "id": "km9p5Gdco_U",
+    "title": "Samm, Ajna - Yours to Take",
+    "score": 10
+  },
+  {
+    "id": "BdRLoo4jkFc",
+    "title": "Scissor Sisters - Take Your Mama",
+    "score": 10
+  },
+  {
+    "id": "od7-fyGa9DQ",
+    "title": "This Guy Supports Crime On The Subway LMAO #nyc #podcast #interview #funnyinterview",
+    "score": 10
+  },
+  {
+    "id": "gcNzKzY6jNI",
+    "title": "Take Back Your Money in 2026",
+    "score": 10
+  },
+  {
+    "id": "DGN8OB6QZFg",
+    "title": "the morning after you take your life",
+    "score": 10
+  },
+  {
+    "id": "SVupGAovwh8",
+    "title": "Cody Carnes - Take You At Your Word (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "HDrPjtkowpI",
+    "title": "Take Your Mask Off",
+    "score": 10
+  },
+  {
+    "id": "JPOjiXoPmOk",
+    "title": "What's Your Take Season 2 Ep 1!!",
+    "score": 10
+  },
+  {
+    "id": "0bawN99WU0s",
+    "title": "Justin Heights",
+    "score": 10
+  },
+  {
+    "id": "SdpGG0V93Eo",
+    "title": "La M.O.D.A. - 'PRMVR'",
+    "score": 10
+  },
+  {
+    "id": "G1FGLge7cyc",
+    "title": "The 10 strongest trends for Spring 2026",
+    "score": 10
+  },
+  {
+    "id": "JOZVgabq2xo",
+    "title": "Inverno a primavera (con testo) - Modà",
+    "score": 10
+  },
+  {
+    "id": "n3HfCTN8RNg",
+    "title": "The Biggest Spring Summer 2026 Fashion Trends",
+    "score": 10
+  },
+  {
+    "id": "2as2Owej9E8",
+    "title": "Spring Summer 2025 Fashion for Ladies 50+60+70+ Modern and Stylish Outfits",
+    "score": 10
+  },
+  {
+    "id": "Mqu9TC0mauA",
+    "title": "👗✨ CATÁLOGO CKLASS FASHION LINE | PRIMAVERA VERANO 2026 ✨💖",
+    "score": 10
+  },
+  {
+    "id": "hsfO9uiXQ2M",
+    "title": "15 garments that will rock this spring-summer 2025 (your image and fashion consultant)",
+    "score": 10
+  },
+  {
+    "id": "7KUVwBuH-fw",
+    "title": "SPRING SUMMER 2026 TRENDS",
+    "score": 10
+  },
+  {
+    "id": "b3Ok9j5udj0",
+    "title": "Inicio",
+    "score": 10
+  },
+  {
+    "id": "niWm4lcNHNc",
+    "title": "10 Cores que vão Bombar!! Primavera/ verão 2025!!.bora ficar de olho nas tendências de Cores!!.",
+    "score": 10
+  },
+  {
+    "id": "jwEkDliOXo0",
+    "title": "Fashion 2025 | Spring Summer Trends🌞🤎🤍The latest in fashion clothing",
+    "score": 10
+  },
+  {
+    "id": "ArZLZ3wX7Rs",
+    "title": "SPRING SUMMER 2025 FASHION TRENDS - What's in, Part 2",
+    "score": 10
+  },
+  {
+    "id": "2fnbhlxQApM",
+    "title": "COMBINACIONES PRIMAVERA VERANO 2026 ✨🌸🌿",
+    "score": 10
+  },
+  {
+    "id": "VuCXw2AlSJc",
+    "title": "“Spring Summer 2026 Fashion Trends 👗 | Colors and Styles That Will Be a Hit”",
+    "score": 10
+  },
+  {
+    "id": "vWKvrP48O8U",
+    "title": "“TOP Skirts Spring-Summer 2026 💃 | The latest in women's fashion”",
+    "score": 10
+  },
+  {
+    "id": "ZhADmxL1ayo",
+    "title": "2026 SPRING \\u0026 SUMMER FASHION TRENDS: RUNWAY RECAP",
+    "score": 10
+  },
+  {
+    "id": "7nPry_3sCfk",
+    "title": "Looks con con jeans para primavera 2025  - Moda MUY TRENDY #Looks2025 #Tendencias #Outfits",
+    "score": 10
+  },
+  {
+    "id": "E8tQYPRqc_Y",
+    "title": "Tendencias de Primavera 2025 que Elevarán tu Estilo | Desirée Lowry",
+    "score": 10
+  },
+  {
+    "id": "WlOUuzROfDQ",
+    "title": "LOOKS DE ENTRETIEMPO PEE PRIMAVERA #outfitstyle #fashionlook #outfit #outfitlook #estilo #fashion",
+    "score": 10
+  },
+  {
+    "id": "aOi4QN8K6iY",
+    "title": "33 SPRING 2025 TRENDS | The ones that will dominate the streets",
+    "score": 10
+  },
+  {
+    "id": "lBEC0N27g34",
+    "title": "Lo NUEVO DE LODI / primavera-verano 2025( tu asesora de imagen)",
+    "score": 10
+  },
+  {
+    "id": "Jc4x6XOpdDY",
+    "title": "AKINOLAUDE DESFILE COLECCIÓN PRIMAVERA - VERANO 2020",
+    "score": 10
+  },
+  {
+    "id": "5ZpCvh6dEbw",
+    "title": "SPRING 2026 CAPSULE WARDROBE | SPRING ESSENTIALS",
+    "score": 10
+  },
+  {
+    "id": "6yZChREEE3o",
+    "title": "Inicio",
+    "score": 10
+  },
+  {
+    "id": "Z75JfgOo5RM",
+    "title": "Weird Year – The Saddest and Happiest Days Mixed Together || by Relatone (Official Lyrics Video)",
+    "score": 10
+  },
+  {
+    "id": "PrkNgTzvkdI",
+    "title": "Best Fails of the Week | Fails That Got Out of Control FAST 😂🔥",
+    "score": 10
+  },
+  {
+    "id": "RabiJj4qU2U",
+    "title": "BEST of STRANGE \\u0026 SCARY Mysteries of The Year - 2025",
+    "score": 10
+  },
+  {
+    "id": "EkXKfa3xQSc",
+    "title": "The Worthless - Weird Year",
+    "score": 10
+  },
+  {
+    "id": "1SEE8ZlK6yY",
+    "title": "MOOJ POACHES A CUSTOMER - THE 40 YEAR OLD VIRGIN - FUNNY SCENE",
+    "score": 10
+  },
+  {
+    "id": "NC_ZCbj3C2Y",
+    "title": "Weird Year || by Relatone (Official Reimagined Version)",
+    "score": 10
+  },
+  {
+    "id": "94-akLINxdU",
+    "title": "2025 was a weird year for cars",
+    "score": 10
+  },
+  {
+    "id": "KldVQBAkjuo",
+    "title": "[1 HOUR] TRY NOT TO LAUGH - Best Funny Vines of The YEAR! | RIP Vines 2018",
+    "score": 10
+  },
+  {
+    "id": "EoLjddNcnYU",
+    "title": "“Don’t Come To Christmas This Year, It’ll Be Weird,” My Mom Said. My Brother Added “Yeah, You’d Ruin",
+    "score": 10
+  },
+  {
+    "id": "EKGVON7hkfI",
+    "title": "Funny Time Of Year",
+    "score": 10
+  },
+  {
+    "id": "MCMNyzT5TPM",
+    "title": "Kinda Funny's Game of the Year 2025",
+    "score": 10
+  },
+  {
+    "id": "F_MGHXq6Pws",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "DjZ4VfDDlyg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "l2CDwd27FBs",
+    "title": "🎊💕boutique style matching blouse designs/latest blouse design Ideas/trending Blouse neck with sleeve",
+    "score": 10
+  },
+  {
+    "id": "nZ-xuH6Xi_s",
+    "title": "Suit Jacket vs. Sport Coat vs. Blazer | What's The Difference?",
+    "score": 10
+  },
+  {
+    "id": "e3FOFu79M3U",
+    "title": "Welcome speech by Ms. Villa Kulild, Director General, Norad",
+    "score": 10
+  },
+  {
+    "id": "SAOF8P81ZPo",
+    "title": "Opening Remarks",
+    "score": 10
+  },
+  {
+    "id": "hN7vsXAUCgk",
+    "title": "Opening Remarks - Connie's 65th Birthday Party",
+    "score": 10
+  },
+  {
+    "id": "cHgghiHVASk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oVaJ9RsvYS8",
+    "title": "Cabinet Meeting Cold Open - SNL",
+    "score": 10
+  },
+  {
+    "id": "CUbz_jKCbTQ",
+    "title": "Funniest Leadership Speech ever!",
+    "score": 10
+  },
+  {
+    "id": "k8GvTgWtR7o",
+    "title": "start off his speech",
+    "score": 10
+  },
+  {
+    "id": "fTaQPCQOu_Q",
+    "title": "Hannity GOES AFTER Dem on immigration: 'YOU SAT ON YOUR ASS!'",
+    "score": 10
+  },
+  {
+    "id": "XAaSZ64P8pA",
+    "title": "Trump announces Europe tariffs unless Greenland sold to US",
+    "score": 10
+  },
+  {
+    "id": "5Negw4ffK_4",
+    "title": "Trump says he will impose new tariffs on Europe unless Greenland deal reached",
+    "score": 10
+  },
+  {
+    "id": "_B5fF_-BVi4",
+    "title": "Opening Remarks",
+    "score": 10
+  },
+  {
+    "id": "UDdMxLO-MbA",
+    "title": "How Executives Can Give Powerful Opening Remarks | Speak with Impact in 3 Minutes",
+    "score": 10
+  },
+  {
+    "id": "FnEL7cZt1XY",
+    "title": "Conference Opening \\u0026 Welcome Remarks",
+    "score": 10
+  },
+  {
+    "id": "sWIjXKFqlBg",
+    "title": "Opening Remarks",
+    "score": 10
+  },
+  {
+    "id": "BKi-YOMb4FU",
+    "title": "MC Opening: Script and Vocal Expression #masterofceremony #publicspeaking #mcbali",
+    "score": 10
+  },
+  {
+    "id": "HdIZpQLf05s",
+    "title": "Opening Remarks: Why this workshop?",
+    "score": 10
+  },
+  {
+    "id": "2DvbysGw9M8",
+    "title": "Ann Marie Lipinski Curator, Nieman Foundation",
+    "score": 10
+  },
+  {
+    "id": "6tAa6m3O5bA",
+    "title": "Master of Ceremony Opening Speech",
+    "score": 10
+  },
+  {
+    "id": "wbl7TgacF04",
+    "title": "Introduction to Opening Speech",
+    "score": 10
+  },
+  {
+    "id": "T5Qj5eLqZUM",
+    "title": "Nikki Glaser Opening Monologue | 83rd Annual Golden Globes",
+    "score": 10
+  },
+  {
+    "id": "RyQS3X9wZDg",
+    "title": "The Wearable Fashion Trends for 2026 I'd Actually Wear!",
+    "score": 10
+  },
+  {
+    "id": "ATvi-cFtRKA",
+    "title": "10 Wearable Fashion Trends That Will Be Huge in 2026!",
+    "score": 10
+  },
+  {
+    "id": "AoNdSWJeyYE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gdt9go8oCHg",
+    "title": "Stevie nicks \\\"Stand Back\\\" @ Moda Center in Portland, OR! February 28th, 2017",
+    "score": 10
+  },
+  {
+    "id": "mTIpa4wW_sc",
+    "title": "Fashion Extra  Boho Is Back",
+    "score": 10
+  },
+  {
+    "id": "anb_fENXdHM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mRmTZZ644sM",
+    "title": "India Mein Aayi Future Scooty 😱 Roof Top Ke Saath | Car Jaisa Comfort Scooty Mein",
+    "score": 10
+  },
+  {
+    "id": "Fuoq8IDMr90",
+    "title": "15+New🎉🎉🔥 Trendy blouse neck designs ब्लाउज back neck design खूबसूरत बाजू ke design bahi diain",
+    "score": 10
+  },
+  {
+    "id": "qkb5LPs37WA",
+    "title": "Top 5 Best Mattress in India 2025 #viral #mattress #viral #bestmattress2025 #amazon #flipkart",
+    "score": 10
+  },
+  {
+    "id": "R3cKZKYVhpU",
+    "title": "Blouse Back Neck Design New💝 #viralvideo #blouse #fashion #india #letest#uttarpradesh #viralreels",
+    "score": 10
+  },
+  {
+    "id": "QPtP8HapwqE",
+    "title": "Top 10 Largest Suv Car In India 2025",
+    "score": 10
+  },
+  {
+    "id": "l41aKj51C3g",
+    "title": "Littlebox India haul🎀 #shirts #top #skirt #haul #viralvideo #trending #ootd",
+    "score": 10
+  },
+  {
+    "id": "hUSJw7xU3Tk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "We-MOWppjv4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2vm9--dwMAQ",
+    "title": "DIY Reusable Flannel Hand Warmers by Sadie Seasongoods",
+    "score": 10
+  },
+  {
+    "id": "0DsP2J2GyBk",
+    "title": "Recycled Glass Bottle Pumpkins and Gourds for Autumn / Fall Decor by Sadie Seasongoods",
+    "score": 10
+  },
+  {
+    "id": "tFJbIFfFpQ4",
+    "title": "Gather a variety of craft paints in autumn colors",
+    "score": 10
+  },
+  {
+    "id": "iskQMKHReOY",
+    "title": "DIY Vintage Bandana Bowl Covers",
+    "score": 10
+  },
+  {
+    "id": "28qcEhgLCcg",
+    "title": "Got a bowl with no lid? Here's a DIY fix for you!",
+    "score": 10
+  },
+  {
+    "id": "5679jueIbhE",
+    "title": "Intro: High End Style for Less",
+    "score": 10
+  },
+  {
+    "id": "-LN02tX5uHA",
+    "title": "DIY Repurposed Vintage Tart Tin Oversized Bottle Cap Coasters",
+    "score": 10
+  },
+  {
+    "id": "o2sJ4B3LNVY",
+    "title": "DIY Ring Holder from a Repurposed Vintage Cigar Box",
+    "score": 10
+  },
+  {
+    "id": "LPV6lIvfkiY",
+    "title": "20 Thrifted Items You Can Repurpose for Plants! Easy Plant Styling Ideas",
+    "score": 10
+  },
+  {
+    "id": "70WSKRyuzoM",
+    "title": "Easy Valentine DIY's ~ 2x4 Wood Scrap",
+    "score": 10
+  },
+  {
+    "id": "sq9-D6dRVMU",
+    "title": "DIY Mason Jar Lid Wreath Ornaments by Sadie Seasongoods",
+    "score": 10
+  },
+  {
+    "id": "5k_YLn29wA4",
+    "title": "DIY Hanging Flower Basket with a Repurposed Vintage Colander",
+    "score": 10
+  },
+  {
+    "id": "M7ZDj0VLfdA",
+    "title": "DIY Nesting Material Holder using a Repurposed Vintage Bed Spring",
+    "score": 10
+  },
+  {
+    "id": "aSzwny9J8_M",
+    "title": "DIY Repurposed \\u0026 Upcycled Project Ideas for Birds",
+    "score": 10
+  },
+  {
+    "id": "ZJqax51LzCE",
+    "title": "Shabby Saturday #38",
+    "score": 10
+  },
+  {
+    "id": "yZEhspZLyho",
+    "title": "DIY Repurposed Patriotic Necktie Wreath for July 4th Door Decor",
+    "score": 10
+  },
+  {
+    "id": "e9xVyYzJFCE",
+    "title": "DIY Vintage Rhinestone Button Charm Bracelet",
+    "score": 10
+  },
+  {
+    "id": "wrN2Blr9HQ0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BKym5aBeOwk",
+    "title": "Fabric Scrap Management From a Prolific Quilter.",
+    "score": 10
+  },
+  {
+    "id": "jcfdPfebs9s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YHseIuWuvsY",
+    "title": "Scrap Quilting 101",
+    "score": 10
+  },
+  {
+    "id": "Q3GJrW0KUHo",
+    "title": "20 Ideas for Sewing Scraps Fabric to Create Beautiful Items (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "jxeNnF8OxDY",
+    "title": "Scrapbusting Mastery: Organize Your Fabric Chaos!",
+    "score": 10
+  },
+  {
+    "id": "Tv6lKMD52bw",
+    "title": "Scrapbusting: Just 10 Minutes Per Day",
+    "score": 10
+  },
+  {
+    "id": "nZ0ruLXz1k8",
+    "title": "I Made Fabric Out of Trash",
+    "score": 10
+  },
+  {
+    "id": "72THGdjH3n4",
+    "title": "Tissue Holders",
+    "score": 10
+  },
+  {
+    "id": "4jLJTgMctUo",
+    "title": "No Mess Fabric Scrap Management - How I organize fabric scraps to prevent overwhelm!",
+    "score": 10
+  },
+  {
+    "id": "BhICTd-nbUU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Z3R7hPHhQ6c",
+    "title": "💚♥️  MANAGE YOUR SCRAPS - My Top 10 Tips for using and keeping them under control",
+    "score": 10
+  },
+  {
+    "id": "bkPEchkhhQ0",
+    "title": "Use ALL of Your FABRIC SCRAPS with this NEW 3-Yard Quilt Book!",
+    "score": 10
+  },
+  {
+    "id": "x_QbOKO00MQ",
+    "title": "Fabric Scraps Made Simple",
+    "score": 10
+  },
+  {
+    "id": "i-ilJiUJCLg",
+    "title": "♻️ v24.08 | TAME YOUR SCRAPS! | FABRIC BOLT 2 From SCRAPS! | 8 YARDS (x16\\\") OF SCRAP FABRIC!",
+    "score": 10
+  },
+  {
+    "id": "kXW5A2aAtX4",
+    "title": "Master Fabric Scrap Organization in 2025: The Ultimate Scrapbusting System!",
+    "score": 10
+  },
+  {
+    "id": "-kTv0OHArfE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ze5L4a_LUy0",
+    "title": "Cut curtain bangs with me",
+    "score": 10
+  },
+  {
+    "id": "265E7NcV-DQ",
+    "title": "Is This Clean-Cut Athlete Actually A Dr*g Courier? | S7 E3 FULL EPISODE | Border Security Australia",
+    "score": 10
+  },
+  {
+    "id": "Sifs_u7Cadg",
+    "title": "Suspicious Statues",
+    "score": 10
+  },
+  {
+    "id": "i1ebQGr2JkQ",
+    "title": "5 Tips to Trim Your Bangs at Home with Stylist Courtney Ragan",
+    "score": 10
+  },
+  {
+    "id": "sJLxjLZVqN4",
+    "title": "FIND THE EXISTING SECTION FOR YOUR BANGS",
+    "score": 10
+  },
+  {
+    "id": "gftOESv0bP0",
+    "title": "Stop at the market, giant taco, some things don't change and new aesthetics",
+    "score": 10
+  },
+  {
+    "id": "sHp8SjfhE10",
+    "title": "Finding People with No Customers, Then Buying Them Out",
+    "score": 10
+  },
+  {
+    "id": "8dOxqskmHL0",
+    "title": "“Archangel Michael \\u0026 The White Eagle #angel #aiart #michael",
+    "score": 10
+  },
+  {
+    "id": "gSOLyXinssQ",
+    "title": "College Girl front cut (bangs)|front hair cut|",
+    "score": 10
+  },
+  {
+    "id": "rYtl-YbEug8",
+    "title": "Front Hairstyle Cutting For Girls | Simple haircut | Hair Cutting For Girls | Sumansi Sahgal",
+    "score": 10
+  },
+  {
+    "id": "zVpdjHfzECs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ecLU66lisG8",
+    "title": "देसी तरीके से प्रिंस कट ब्लाउज सिलना सीख #blouse #blousedesign #princesscutblousecuttingandstitchi",
+    "score": 10
+  },
+  {
+    "id": "0f-pTjlqG3s",
+    "title": "देसी तरीके से प्रिंस कट ब्लाउज सिलना सीख #blouse #blousedesign #princesscutblousecuttingandstitchi",
+    "score": 10
+  },
+  {
+    "id": "OAFADBbtA8M",
+    "title": "34 size princesscut blouse cutting #princesscutblousecuttingandstitching #howtocutprincesscutblouse",
+    "score": 10
+  },
+  {
+    "id": "oPV_QYKflSs",
+    "title": "Seamless princesscutblouse🪡#princesscutblousecuttingandstitching#blouse#fashion#cuttingandstitching",
+    "score": 10
+  },
+  {
+    "id": "kdXgpppxTBI",
+    "title": "#fashion #blousedesign #princess #princesscutblousecuttingandstitching #stitching #blouse",
+    "score": 10
+  },
+  {
+    "id": "tQS2vt1oQjo",
+    "title": "Princess cut blouse stitching #princesscutblousecuttingandstitching #shortfeed",
+    "score": 10
+  },
+  {
+    "id": "pJjFGCIeHlU",
+    "title": "One Tucks Blouse Stitching।#4tucksblousecutting #princesscutblousecuttingandstitching",
+    "score": 10
+  },
+  {
+    "id": "R2bxOnnEXE4",
+    "title": "Netblouseprincess #princesscutblouse  #blousecuttingstitching #princesscutblousecuttingandstitchi",
+    "score": 10
+  },
+  {
+    "id": "XqE5wL9ni3g",
+    "title": "latest Princess cut blouse cutting and stitching #blousecutting #princesscutblousecuttingandstitchi",
+    "score": 10
+  },
+  {
+    "id": "GQD5j2Z-4II",
+    "title": "#blouse #কাটিং #princesscutblousecuttingandstitching",
+    "score": 10
+  },
+  {
+    "id": "JP6Iiqd8xkk",
+    "title": "princess cut blouse #princesscutblousecuttingandstitching #blousedesign #trendingsong #trending",
+    "score": 10
+  },
+  {
+    "id": "LijaIvGTbMk",
+    "title": "Princess cut blouse #blouse #fashion #princesscutblousecuttingandstitching",
+    "score": 10
+  },
+  {
+    "id": "gZCYQ2X9Mho",
+    "title": "Princess Cut Blouse without Cutting।#princesscutblousecuttingandstitching #princesscutblousedesign",
+    "score": 10
+  },
+  {
+    "id": "sNzyJa7l5yg",
+    "title": "#princesscutblousecuttingandstitching/blouse🦋💙",
+    "score": 10
+  },
+  {
+    "id": "EHeu_LKerdI",
+    "title": "Princess cut blouse cutting || ✂️ ✂️#princesscutblousecuttingandstitching",
+    "score": 10
+  },
+  {
+    "id": "ewKYrev4FIw",
+    "title": "#princesscutblousecuttingandstitching #princesscutblousecutting #princesscutblouse #blouse #tricks",
+    "score": 10
+  },
+  {
+    "id": "FEPlzup9jk8",
+    "title": "Upcoming soon all blouse  #blouse #princesscutblousecuttingandstitching #blousecuttingstitching",
+    "score": 10
+  },
+  {
+    "id": "YXLzobYOS38",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "s3gbuXQu8G8",
+    "title": "Creating Bulky Yarn from One Light Weight Skein",
+    "score": 10
+  },
+  {
+    "id": "zuOE9IdP2o4",
+    "title": "What is three ply yarn?",
+    "score": 10
+  },
+  {
+    "id": "l_cwgAASdWI",
+    "title": "work your stitches in sets of three one for each layer",
+    "score": 10
+  },
+  {
+    "id": "TIgKFWzASDo",
+    "title": "Don’t Waste Your Money on These BRAND NEW YARNS [+ Surprise Favorites]",
+    "score": 10
+  },
+  {
+    "id": "Mj6OB1QDia0",
+    "title": "Demonstration of 3 Yarn Overs in a Row (Triple Yarn Over)",
+    "score": 10
+  },
+  {
+    "id": "P2fV0t0bhX4",
+    "title": "60% superwash merino 40% acrylic",
+    "score": 10
+  },
+  {
+    "id": "4ruHY2XMWjY",
+    "title": "Three amazing yarn stores in Northern Norway!",
+    "score": 10
+  },
+  {
+    "id": "6tZTcZf0Cqg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ieRCqG4EbNs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fzhT-Y_9sgU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-a6WYX1x0wQ",
+    "title": "Yarn Weights EXPLAINED: Stop Guessing and Start Knitting Right",
+    "score": 10
+  },
+  {
+    "id": "44Wj6fP2gW8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mlux75AOVM8",
+    "title": "i tried using these 3 yarn holders ❤️ mi luvvv",
+    "score": 10
+  },
+  {
+    "id": "lNbnLlPrsiE",
+    "title": "Turn thin yarn into thicker yarn. Use thin yarn triple",
+    "score": 10
+  },
+  {
+    "id": "m8hto-uUAhI",
+    "title": "Slip Three with Yarn in Front",
+    "score": 10
+  },
+  {
+    "id": "ocN4vVnn-PI",
+    "title": "Search filters",
+    "score": 10
+  }
+]

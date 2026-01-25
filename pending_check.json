@@ -1,1 +1,2897 @@
-[]
+[
+  {
+    "id": "yBCNY__d4ic",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "מדריך Microsoft Excel למתחילים - קורס מלא",
+    "score": 110
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "4svmQ7q2JYE",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "לימוד אקסל שיעור 2 - מושגי בסיס - חלק א' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "לימוד אקסל שיעור 67 - טבלת ציר אקסל פיבוט PIVOT TABLE",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "0bbvJixWtuQ",
+    "title": "Building the World's Largest Airport in Record Time | Blueprint",
+    "score": 50
+  },
+  {
+    "id": "grOwiBDM1Yk",
+    "title": "The Summit at Pan Pacific in Hanoi - Review",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "Y7Iyuhwz1f4",
+    "title": "Essential Home Repair Tips: Your DIY Guide",
+    "score": 50
+  },
+  {
+    "id": "lOiAPkUXk-Q",
+    "title": "THIS Is Why I Teach Homeowners How to Renovate!",
+    "score": 50
+  },
+  {
+    "id": "L4u5ZY_-htw",
+    "title": "How to Repair Your Drywall Before You Paint",
+    "score": 50
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "ak7UEpmOfUA",
+    "title": "The Extreme Engineering Behind the Panama Canal’s Modern Makeover | Blueprint",
+    "score": 50
+  },
+  {
+    "id": "lAYl-qp6Ngc",
+    "title": "Building the Eiffel Tower | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "YZiCS6WAXpw",
+    "title": "How the Building Blocks of a Home are Made | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "mplRtR7NMtg",
+    "title": "Best Mother's Day Gifts | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "wI50rUBqodw",
+    "title": "How to navigate Grow | Collective FB page",
+    "score": 50
+  },
+  {
+    "id": "SUBn5hw1RlU",
+    "title": "How to Pollinate Plants with Om Grown Collective",
+    "score": 50
+  },
+  {
+    "id": "6PmgZzMEslc",
+    "title": "Late Night Jazz Lounge🍷Relaxing Jazz Bar Classics for Working, Relaxing, Studying",
+    "score": 50
+  },
+  {
+    "id": "ba3brSO1Zao",
+    "title": "AFFORDABLE AIRPORT LOUNGE IN NAIA T3 FOR ONLY 1050 PHP ✈️ REVIEW \\u0026 IMPRESSION",
+    "score": 50
+  },
+  {
+    "id": "dVL2O0QVToI",
+    "title": "PAGSS Airport Lounge Review | NAIA Terminal 3 (Manila)",
+    "score": 50
+  },
+  {
+    "id": "9kiIXSdGKb0",
+    "title": "PAGSS Premier Lounge | Manila Airport | NAIA Terminal 1 | Lounge Review",
+    "score": 50
+  },
+  {
+    "id": "CWsWNiasuDM",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "ek_YMru2W7U",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "JHeakz4IIbg",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "tGyAq0m0HWo",
+    "title": "MARHABA LOUUNGE | Manila Airport | NAIA Terminal 1 | Lounge Review",
+    "score": 50
+  },
+  {
+    "id": "Z0dmlReBbHc",
+    "title": "The Most Incredible Retreat in Ancient History (Anabasis, or the 10,000)",
+    "score": 50
+  },
+  {
+    "id": "J927V8dJOX0",
+    "title": "How to Manage a Stressful Homelife",
+    "score": 50
+  },
+  {
+    "id": "g2i-u-9A7UA",
+    "title": "20 Minute Guided Meditation for Reducing Anxiety and Stress--Clear the Clutter to Calm Down",
+    "score": 50
+  },
+  {
+    "id": "DuY3rGD9LLE",
+    "title": "How To | Remove \\\"Protect Error\\\" on a Sony receiver",
+    "score": 50
+  },
+  {
+    "id": "MIFu_v-tJYM",
+    "title": "Princess Protection Program doesn't make any sense",
+    "score": 50
+  },
+  {
+    "id": "kNEt0d8QAxQ",
+    "title": "Roger Deakins on Location Scouting for Film — Cinematography Techniques Ep. 5",
+    "score": 50
+  },
+  {
+    "id": "UKL5AsNs0X4",
+    "title": "English To Bangla Translation: 3 Tricks 6 MIN Make Millions Sentence",
+    "score": 50
+  },
+  {
+    "id": "0-hMAfNC1A0",
+    "title": "English to Bangla Translation: 5 Tricks 5 MIN Make Millions Sentence",
+    "score": 50
+  },
+  {
+    "id": "MX98Y87scP8",
+    "title": "History Colorado Center reopens with new John Denver exhibit",
+    "score": 50
+  },
+  {
+    "id": "B3i_MqqYSjg",
+    "title": "History Colorado remembers John Fielder",
+    "score": 50
+  },
+  {
+    "id": "Kq2d4UB6POA",
+    "title": "CEO of History Colorado discusses death of John Fielder",
+    "score": 50
+  },
+  {
+    "id": "IybpDsQCwFU",
+    "title": "Photographer John Fielder sharing his iconic work with History Colorado",
+    "score": 50
+  },
+  {
+    "id": "9mYuXyzePQ8",
+    "title": "Preview of 'Pilgrimage to the Peaks': Pope John Paul II visited Colorado 30 years ago",
+    "score": 50
+  },
+  {
+    "id": "yibf6QNjgGU",
+    "title": "How To Heal From Childhood Emotional Neglect",
+    "score": 50
+  },
+  {
+    "id": "FNKeNUuQ4jg",
+    "title": "5 Most Terrifying Abandoned Building Discoveries",
+    "score": 50
+  },
+  {
+    "id": "A3V5f8aVwcA",
+    "title": "They Went Exploring In a Abandoned Building... What The Camera Caught Will Shock You",
+    "score": 50
+  },
+  {
+    "id": "OSmU_-FDkek",
+    "title": "6 Most Disturbing Abandoned Building Encounters Caught On Camera",
+    "score": 50
+  },
+  {
+    "id": "MWJLLCwI8Ss",
+    "title": "When Exploring Abandoned Buildings Goes Wrong Vol. 4",
+    "score": 50
+  },
+  {
+    "id": "2mdBTeE875A",
+    "title": "Animals I’ve found while exploring abandoned buildings 🐶",
+    "score": 50
+  },
+  {
+    "id": "fEamgF2rGbc",
+    "title": "I found the backrooms in this abandoned building #abandoned #urbex #abandonedplaces",
+    "score": 50
+  },
+  {
+    "id": "QA2esslSRiU",
+    "title": "Alternate History of Korea 🇰🇷🇰🇵 (in Hungary 🇭🇺)",
+    "score": 50
+  },
+  {
+    "id": "gZKtgTEZCso",
+    "title": "History Lounge Introduction",
+    "score": 50
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "How To Use Search Filters In WhatsApp (Updated)",
+    "score": 50
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "SEYJ5UlK3E4",
+    "title": "How To Use Excel FILTER Function With Multiple Criteria \\u0026 Return Only the Columns You Need",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "72X55xTuV9I",
+    "title": "Celebrity Beyond Retreat Review: We Got The Celebrity Suite!",
+    "score": 50
+  },
+  {
+    "id": "BeUS6jDRvYQ",
+    "title": "Celebrity XCEL: The Truth No One Tells You (Honest Review)",
+    "score": 50
+  },
+  {
+    "id": "8_ddmiB9OYQ",
+    "title": "Effective Today! Trump Makes History - He Is Leaving",
+    "score": 50
+  },
+  {
+    "id": "TyIiyGZ3x5o",
+    "title": "Geothermal 101 - How to Heat Your Home with 400% Efficiency",
+    "score": 50
+  },
+  {
+    "id": "_sFwuopVr14",
+    "title": "5 RECENT Heating Saving Technologies for Homes!",
+    "score": 50
+  },
+  {
+    "id": "BWs6VVRxe_A",
+    "title": "5 top heating technologies",
+    "score": 50
+  },
+  {
+    "id": "84mt3RxMJH4",
+    "title": "World's Scariest Drug (Documentary Exclusive)",
+    "score": 50
+  },
+  {
+    "id": "5We9W86_Mz8",
+    "title": "CEO Spotlight: Building the Future of Money - State of Crypto Summit 2024",
+    "score": 50
+  },
+  {
+    "id": "h80TP49Ot94",
+    "title": "How School Isolation Affects Autistic Children | Parent’s Guide",
+    "score": 50
+  },
+  {
+    "id": "OKBapkJbB8c",
+    "title": "warnings \\u0026 disclaimers",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uIU4uoeNxnI",
+    "title": "Newton's First Law of Motion",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "How Many Neutrons Can You Stack Before Reality Breaks?",
+    "score": 10
+  },
+  {
+    "id": "LEyS7-OK57I",
+    "title": "Quantum Physics, Explained Slowly | The Sleepy Scientist",
+    "score": 10
+  },
+  {
+    "id": "D89ngRr4uZg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TAhbFRMURtg",
+    "title": "String Theory Explained – What is The True Nature of Reality?",
+    "score": 10
+  },
+  {
+    "id": "Da-2h2B4faU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jqLKiQfuWtk",
+    "title": "NEW Atmos Summit Visa Infinite: S-Tier?! | Gamechanger",
+    "score": 10
+  },
+  {
+    "id": "_nPQOMZmIk8",
+    "title": "If I started drawing TODAY, this is what I would do.",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2xGrnfEsjoU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "Survival Skills That Will Be Mandatory In 10 Years",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "seLwyDN2wpQ",
+    "title": "3 Survival Skills Every Man Should Know",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "60+ Bushcraft Skills \\u0026 Survival Tips",
+    "score": 10
+  },
+  {
+    "id": "qbETGQUOMZk",
+    "title": "Hunting giant wild boars, homemade guns work surprisingly effectively, survival skills",
+    "score": 10
+  },
+  {
+    "id": "0wIH86xuZ-c",
+    "title": "Survival Skills: SMART ideas and USEFUL In Forest With Single Mom #survival #outdoors #camping #fyp",
+    "score": 10
+  },
+  {
+    "id": "t9WYXRBJ9wE",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "6e0KVt8Dl6w",
+    "title": "Inside The Exclusive Club For The World's Wealthiest People",
+    "score": 10
+  },
+  {
+    "id": "UBDREqlv4sM",
+    "title": "Seriously Stoned S1E15 \\\"The Summit Lounge\\\"",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Introduction to the Deep Ocean",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "XDZ39JJsSp0",
+    "title": "The Monterey Submarine Canyon",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "Inside the Sub That Reached Earth's Deepest Point | Bathyscaphe Trieste",
+    "score": 10
+  },
+  {
+    "id": "p0G68ORc8uQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "khU9e86ovas",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "\\\"NASA Stopped Exploring The Ocean And I'm Going To Show You Why\\\"",
+    "score": 10
+  },
+  {
+    "id": "elhlCZ7EEIo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "X01aUoLm8lE",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "🔧 Handyman Hacks for DIY Home Repairs | Fix Anything Like a Pro",
+    "score": 10
+  },
+  {
+    "id": "PTzkSCnC5Ck",
+    "title": "Easy DIY Drywall Repair #diy #drywall #home",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Top 6 Tools for any DIY Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "YxbkoTlwjz8",
+    "title": "More drywall removal! 2 small bedrooms into 1 🤔 #home #homerenovation #diy #friday #2024 #drywall",
+    "score": 10
+  },
+  {
+    "id": "uB7xebgV-yA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2QC4eyDIDEk",
+    "title": "Stress Test At Summit House - Bar Rescue, Season 5",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RzPb3yk22fM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vrcG_iIXvn8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ae1LSz1F-xk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "BGqEZgzuzD0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "lLtOhGdOz7A",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "cul-tq340Lc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "9Ka7-lIbGmY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "J7QAE528AEo",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Massive Power Station Valve Replacement | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "Transforming a Supertanker Into a Giant Facility | Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "VI4CPe2I8WI",
+    "title": "Pet Food Superplant: Inside a Million-Meals-a-Day Operation | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "yHUgXrKmYJ0",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "V6E7eSTBcg8",
+    "title": "Behemoth of Steel: The Largest Vehicle Ever Built | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Mechanical Batteries: The Future of Energy Storage? | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "trA5s2iGj2A",
+    "title": "Austin's Impossible Skyscraper: How Engineers Built This Gravity-Defying Tower | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "6XHHptPsx2U",
+    "title": "The Largest Hall on Earth: Maintaining the Ultimate Megastructure | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "NZ0zU5oqFK0",
+    "title": "Introduction: The Price of Progress",
+    "score": 10
+  },
+  {
+    "id": "BV0rKfc9XzI",
+    "title": "Bankzitters World Tour - einde show incl Boevenpad @Ziggodome",
+    "score": 10
+  },
+  {
+    "id": "g1XcB-DSxgc",
+    "title": "This One Sentence Triggered Millions of Women Online",
+    "score": 10
+  },
+  {
+    "id": "nOk34cn_WfY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "gKEP9ZfzEzY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "yo1r_pbDVXk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "cw45mH8EeWg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "4wgUpH03aVo",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ck2nZVzGmaA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "6woMoRzOSac",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "g83ff8F27kU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vYo_Gef2W7k",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Nj2IyrQLfZQ",
+    "title": "Square Spotlight: The Summit Bar",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "u0JyBP1m9HI",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "Op2ba2b3FgQ",
+    "title": "[爾灣房產] 🔑🏡✨ 門禁警衛⛰️🏞️ 山景水景🎓 頂級學區💎 傳承保值🏠 盡在「花四\"},{\"text\":\"#尔湾\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CI0DENbKAxgJIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/%E5%B0%94%E6%B9%BE\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgblsJTmub4YAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CI0DENbKAxgJIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#irvine\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CIwDENbKAxgLIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/irvine\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZpcnZpbmUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CIwDENbKAxgLIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\"#iorchardhill\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CIsDENbKAxgMIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/iorchardhill\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUQCgxpb3JjaGFyZGhpbGwYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CIsDENbKAxgMIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#花果山第四期\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CIoDENbKAxgOIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/%E8%8A%B1%E6%9E%9C%E5%B1%B1%E7%AC%AC%E5%9B%9B%E6%9C%9F\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChLoirHmnpzlsbHnrKzlm5vmnJ8YAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CIoDENbKAxgOIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\"#tollbrothers\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CIkDENbKAxgPIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/tollbrothers\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUQCgx0b2xsYnJvdGhlcnMYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CIkDENbKAxgPIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#pinnacle\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CIgDENbKAxgRIhMIk7XXs9WlkgMVg1VCBx1ldx7QygEEnFphmQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinnacle\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUMCghwaW5uYWNsZRgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CIgDENbKAxgRIhMIk7XXs9WlkgMVg1VCBx1ldx7Q\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"236 views\"},\"shortViewCount\":{\"simpleText\":\"236 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "9hDvLITjSfM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "vWWyx5oQegs",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "CQeKhqr7SXw",
+    "title": "Kim Youngkwang's Home: Detached House in Korea (+Kim Jae-joong, Kim Yoo-jung, and Hwang Hee-chan)",
+    "score": 10
+  },
+  {
+    "id": "IpUodYF5LH0",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "UOwr6GnUc-A",
+    "title": "24 Hours in the Coldest City on Earth Yakutsk –64°C (−83°F)",
+    "score": 10
+  },
+  {
+    "id": "_CG1dR8tJL4",
+    "title": "Time to Grow",
+    "score": 10
+  },
+  {
+    "id": "ZnfH_ZVXMdg",
+    "title": "Inside California's All Female Grow Collective",
+    "score": 10
+  },
+  {
+    "id": "AZF2UyipcxY",
+    "title": "Urban Growers Collective: The Importance of Composting",
+    "score": 10
+  },
+  {
+    "id": "daKjLVRsPLE",
+    "title": "GROW COLLECTIVE",
+    "score": 10
+  },
+  {
+    "id": "aEjFMnB3D-g",
+    "title": "Grow Collective Modular Vertical Garden",
+    "score": 10
+  },
+  {
+    "id": "8KAtw0tXJIY",
+    "title": "The Growing Collective at Central Rivers Farmshed",
+    "score": 10
+  },
+  {
+    "id": "kh_RUMT7XBs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tzxR08c0NLo",
+    "title": "Grows Music Collective - We Need Love",
+    "score": 10
+  },
+  {
+    "id": "Cn4nFtyoXQQ",
+    "title": "Grows Music Collective - Micelio",
+    "score": 10
+  },
+  {
+    "id": "YaUjt5WUjxI",
+    "title": "Inside Collective Elevation, Montana's largest licenced facility: Living Soil Secrets Revealed",
+    "score": 10
+  },
+  {
+    "id": "f_fOeVS6f88",
+    "title": "One Of The Winners of The XO Gold Cup - Sun Grow Collective",
+    "score": 10
+  },
+  {
+    "id": "aOhS48aGPnw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WBBSqJp1YtA",
+    "title": "The Summit 2026 | Saturday Gala | Part 5",
+    "score": 10
+  },
+  {
+    "id": "KEXzYs9Bdog",
+    "title": "The Summit 2026 | Saturday Gala | Part 1",
+    "score": 10
+  },
+  {
+    "id": "2KDM_0KD9vM",
+    "title": "NEW Atmos Summit Visa Infinite: S-Tier?! | Gamechanger",
+    "score": 10
+  },
+  {
+    "id": "I_P6q_s7roo",
+    "title": "The Summit 2026 | Saturday | Day 7",
+    "score": 10
+  },
+  {
+    "id": "_bXYBom-ikI",
+    "title": "The Summit 2026 | Saturday Gala | Part 3",
+    "score": 10
+  },
+  {
+    "id": "bSEnGdfbyX0",
+    "title": "The Summit 2026 | Saturday | Day 7 | Part 2",
+    "score": 10
+  },
+  {
+    "id": "ndCTGOUuA3M",
+    "title": "The Summit 2026 | Saturday | Day 1 | Part 2",
+    "score": 10
+  },
+  {
+    "id": "Ml6lKDTiRzo",
+    "title": "Saturday Morning | Summit 2025",
+    "score": 10
+  },
+  {
+    "id": "PDVyCnwnv1U",
+    "title": "The Summit 2026 | Saturday Gala",
+    "score": 10
+  },
+  {
+    "id": "i38t557HHVM",
+    "title": "The Summit 2026 | Saturday | Day 1 | Part 1",
+    "score": 10
+  },
+  {
+    "id": "sVnCSAfTjBY",
+    "title": "The Summit 2026 | Saturday Gala | Part 4",
+    "score": 10
+  },
+  {
+    "id": "ZyccOWPLv60",
+    "title": "Leadership Summit - SNL",
+    "score": 10
+  },
+  {
+    "id": "tLKBFwJCumY",
+    "title": "20240518 OWV 佐野文哉-Saturday Summit(ゲスト:BALLISTIK BOYZ 日髙竜太 砂田将宏)",
+    "score": 10
+  },
+  {
+    "id": "9TdS7YcnpZ4",
+    "title": "Lando's Summit - SNL",
+    "score": 10
+  },
+  {
+    "id": "5Hez4laAkGw",
+    "title": "The Summit 2022 - Saturday",
+    "score": 10
+  },
+  {
+    "id": "y2w5wRulCXk",
+    "title": "The Summit 2026 | Sunday | Day 2 | Part 1",
+    "score": 10
+  },
+  {
+    "id": "dXjKeaYGKpE",
+    "title": "The Summit | 2025 | Saturday Gala | Part 1",
+    "score": 10
+  },
+  {
+    "id": "B4PmgbSFlN4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6ysKXydT8xY",
+    "title": "ROOFTOP LOUNGE - Cool Music",
+    "score": 10
+  },
+  {
+    "id": "1tk1ss5CJ-4",
+    "title": "ＳＭＯＫＥ ＆ ＣＨＩＬＬ",
+    "score": 10
+  },
+  {
+    "id": "N8VHBJooRwg",
+    "title": "DLJ - Answer",
+    "score": 10
+  },
+  {
+    "id": "Qh-RV94jzVg",
+    "title": "Summit Lounge Sesh",
+    "score": 10
+  },
+  {
+    "id": "AnASU78dzAU",
+    "title": "Stress Test At Summit House - Bar Rescue, Season 5",
+    "score": 10
+  },
+  {
+    "id": "ag2JJSOhgZA",
+    "title": "Chill Lounge Sesh",
+    "score": 10
+  },
+  {
+    "id": "KmHefaU7ab4",
+    "title": "Reality Club - Heartbreak Sesh (A Sorrowful Reunion, 2112)",
+    "score": 10
+  },
+  {
+    "id": "q-jnMrkKVhM",
+    "title": "Mal Beveridge Lounge sesh 10/9/21",
+    "score": 10
+  },
+  {
+    "id": "b8xiwTz666M",
+    "title": "Los Yanez @ The Air Conditioned Lounge for Obsidian Social Mix Sesh",
+    "score": 10
+  },
+  {
+    "id": "UK6xOrMeGvs",
+    "title": "Sesh at the lounge",
+    "score": 10
+  },
+  {
+    "id": "SShieHr5GvM",
+    "title": "Dolan's pub (Limerick, Ireland) - Irish Traditional Music Session",
+    "score": 10
+  },
+  {
+    "id": "kiAeF2K6WB0",
+    "title": "Smoke Sesh The Artist Tree Studio Lounge!",
+    "score": 10
+  },
+  {
+    "id": "PLYms4UrGmc",
+    "title": "Gabber sesh with security guard at Defqon",
+    "score": 10
+  },
+  {
+    "id": "Iq_9mqZLYzo",
+    "title": "Sesh lounge Ep. 1 W/ YouKnowFresh and CM Mcduff",
+    "score": 10
+  },
+  {
+    "id": "UXUmtTxQBz8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CpsfhfdrSDk",
+    "title": "A Lounge NAIA (MNL) Terminal 1, Manila Airport | SEAsian Flyer",
+    "score": 10
+  },
+  {
+    "id": "wQm3dv3Qeeo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7W8zAJE-1vI",
+    "title": "Recap",
+    "score": 10
+  },
+  {
+    "id": "qo3ZWpGz3iU",
+    "title": "Arrival At Hotel",
+    "score": 10
+  },
+  {
+    "id": "hgdxZzXS_q0",
+    "title": "MABUHAY LOUNGE | Manila International Airport Terminal 2",
+    "score": 10
+  },
+  {
+    "id": "a3cxOD5jyq4",
+    "title": "LET'S COMPARE NAIA TERMINAL 3 AIRPORT LOUNGES | A-LOUNGE + MARHABA LOUNGE + PAGSS",
+    "score": 10
+  },
+  {
+    "id": "pMm4ebUkg2U",
+    "title": "Luxury Hotel Lounge Music - Relaxing Jazz Saxophone Instrumental Music - Soft Jazz Background Music",
+    "score": 10
+  },
+  {
+    "id": "I_2sAr9hIuc",
+    "title": "【超円安1バーツ5円突入】限界おじさんの年末年始バンコク滞在記まとめ",
+    "score": 10
+  },
+  {
+    "id": "hhmmu8p7F-4",
+    "title": "1990s Lofi City 🌂A Cozy Balcony Between Two Times 🎼 Lofi Rain Playlist",
+    "score": 10
+  },
+  {
+    "id": "TfWotiyXGfI",
+    "title": "Philippine Airlines Business Class Mabuhay Lounge (Manila Airport Terminal 1) tour  + food overview.",
+    "score": 10
+  },
+  {
+    "id": "guy6-TXUWdQ",
+    "title": "Has NAIA TERMINAL 2 Finally Improved? | Tour of the LATEST Airport Developments under NEW NAIA",
+    "score": 10
+  },
+  {
+    "id": "smrbO4WxiqE",
+    "title": "What’s NEW at NAIA Terminal 3?! | 2026 Walk Tour at Ninoy Aquino International Airport | Philippines",
+    "score": 10
+  },
+  {
+    "id": "oRQI5FTXFNM",
+    "title": "Dignitaries Lounge",
+    "score": 10
+  },
+  {
+    "id": "BICMNa6A8rg",
+    "title": "MANILA AIRPORT PAID LOUNGE T3 - A-LOUNGE",
+    "score": 10
+  },
+  {
+    "id": "3jryZgVPBbw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pegOlUxixko",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "popbL1JuGqM",
+    "title": "Royal Marines Beating Retreat 2018",
+    "score": 10
+  },
+  {
+    "id": "5xluS7QvUQI",
+    "title": "The Rifles Sounding Retreat 2016 05",
+    "score": 10
+  },
+  {
+    "id": "OLGrYiMmC40",
+    "title": "Massed Bands Of The Household Division March To Beating Retreat 2019",
+    "score": 10
+  },
+  {
+    "id": "Hx0yVnMkUeI",
+    "title": "The Massed Bands of the Royal Marines Beating Retreat 2024 - March to Horse Guards Parade",
+    "score": 10
+  },
+  {
+    "id": "ekCVf9m8z9A",
+    "title": "Beating Retreat 2018 Massed Bands March",
+    "score": 10
+  },
+  {
+    "id": "vZ1sHaAQlUQ",
+    "title": "The Massed Bands of the Guards Division, Beating Retreat 2015",
+    "score": 10
+  },
+  {
+    "id": "573mSX7zAZg",
+    "title": "March From Wellington Barracks To Horse Guards Parade - Beating Retreat 2024",
+    "score": 10
+  },
+  {
+    "id": "S25gjaetNfA",
+    "title": "SUNSET (Retreat) - [Bugle Calls] on Trumpet - Military Cadence",
+    "score": 10
+  },
+  {
+    "id": "TAw39iaUYno",
+    "title": "March to Beating Retreat Rehearsal - June 2013",
+    "score": 10
+  },
+  {
+    "id": "V1FyiYL7Els",
+    "title": "Beating retreat  2015 massed bands birdcage walk",
+    "score": 10
+  },
+  {
+    "id": "jrH8fEM6_d0",
+    "title": "Beyond 5-Star: The Best Affordable Wellness Retreats",
+    "score": 10
+  },
+  {
+    "id": "8O52D7bBT5Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lNReCCShKJQ",
+    "title": "Massed Bands of HM Royal Marines - Beating Retreat 2024",
+    "score": 10
+  },
+  {
+    "id": "0vl-JlkGZhc",
+    "title": "Beating Retreat on Horse Guards Parade 2024 | The Bands of HM Royal Marines",
+    "score": 10
+  },
+  {
+    "id": "FZz_7cIKMKQ",
+    "title": "Bonaparte's Retreat/ Bonaparte's Charge/ Bonaparte's March",
+    "score": 10
+  },
+  {
+    "id": "bEGBTZWpKKw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KIVtR0cuqz0",
+    "title": "Guards Massed Bands March To Beating Retreat 2016",
+    "score": 10
+  },
+  {
+    "id": "i0HOL_ZZ4vg",
+    "title": "A military Musical Spectacular (Beating Retreat 2022): March to Horse Guards Parade",
+    "score": 10
+  },
+  {
+    "id": "wIuJMTY464I",
+    "title": "Balmoral (3/4 Retreat March) - Performed by Matt Willis Bagpiper on the Great Highland Bagpipes",
+    "score": 10
+  },
+  {
+    "id": "DkmfvKxFth4",
+    "title": "The Massed Bands of HM Royal Marines Beating Retreat Rehearsal 2024",
+    "score": 10
+  },
+  {
+    "id": "oMQFfmJF19U",
+    "title": "Royal Bugler's",
+    "score": 10
+  },
+  {
+    "id": "A6WO7nUt5qo",
+    "title": "The Massed Bands of HM Royal Marines \\\"Beating Retreat 2022\\\"",
+    "score": 10
+  },
+  {
+    "id": "vM8gdBuO3lY",
+    "title": "Frosty Morning/Santa Anna's Retreat/Santa Anna's March",
+    "score": 10
+  },
+  {
+    "id": "ioDd1ERhd3Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Nz9eAaXRzGg",
+    "title": "Deep Work Music — Calm and Stress Relief Mix",
+    "score": 10
+  },
+  {
+    "id": "02Hm2nCkqX8",
+    "title": "Deep Work Music — Focus and Stress Relief Mix",
+    "score": 10
+  },
+  {
+    "id": "F5lPywAN5cw",
+    "title": "Smoke Mood — Just Relax | Deep House Mix 2025 • Chill / Night Vibes / Stress Relief #4",
+    "score": 10
+  },
+  {
+    "id": "t0dNbJWn8iw",
+    "title": "Smoke Mood - Silver Night",
+    "score": 10
+  },
+  {
+    "id": "5KwbRh48ztg",
+    "title": "Smoke Mood - Whisper me Closer",
+    "score": 10
+  },
+  {
+    "id": "pXRviuL6vMY",
+    "title": "Smoke Mood — Just Relax | Deep House Mix 2025 • Chill / Night Vibes / Stress Relief #6",
+    "score": 10
+  },
+  {
+    "id": "rEoSSJOOywM",
+    "title": "Smoke Mood - Whisper Me Closer",
+    "score": 10
+  },
+  {
+    "id": "iE1uUYaweF0",
+    "title": "Soulful Afro Deep House 2025  Stress Relief Warm Mix 30",
+    "score": 10
+  },
+  {
+    "id": "MydLNTN2rZU",
+    "title": "Deep Chillout Music — Focus and Stress Relief Mix",
+    "score": 10
+  },
+  {
+    "id": "J-BKM2ig744",
+    "title": "Arnyd - Singularity",
+    "score": 10
+  },
+  {
+    "id": "QxUA2upkIiU",
+    "title": "Ptr. - Taiga",
+    "score": 10
+  },
+  {
+    "id": "z4Spi_cjCdw",
+    "title": "Smoke Mood — Just Relax | Deep House Mix 2026 • Chill / Night Vibes / Stress Relief #28",
+    "score": 10
+  },
+  {
+    "id": "8tPp28E0wlk",
+    "title": "Feels Like Home [relaxing piano music - mind, focus, chill, calming, anxiety, stress relief music]",
+    "score": 10
+  },
+  {
+    "id": "MIr3RsUWrdo",
+    "title": "begin to count your breath",
+    "score": 10
+  },
+  {
+    "id": "R9y_OcaNCUk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XARvKxVDBB0",
+    "title": "The Emperor Doesn't Protect \\\"You\\\".",
+    "score": 10
+  },
+  {
+    "id": "PPAHHQf4las",
+    "title": "to The Sermon",
+    "score": 10
+  },
+  {
+    "id": "Qc3cVaPnhSc",
+    "title": "\\\"Hit the Bar\\\" Episode 81: \\\"Bethel Doesn't Protect People!\\\"",
+    "score": 10
+  },
+  {
+    "id": "XL75yceQJZU",
+    "title": "UniFi Protect: From Underdog to Industry Leader",
+    "score": 10
+  },
+  {
+    "id": "RIXp4cHC-WE",
+    "title": "UniFi Protect Camera System",
+    "score": 10
+  },
+  {
+    "id": "MSfEWxbGcVo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EcpXwHLOh9E",
+    "title": "Mother Cow Doesn’t Hesitate to Protect Her Baby",
+    "score": 10
+  },
+  {
+    "id": "Jh84jfogYlA",
+    "title": "Should you buy an antivirus or does Defender protect you?",
+    "score": 10
+  },
+  {
+    "id": "kV8sLvHYEEo",
+    "title": "Should you buy an antivirus or is Defender good enough",
+    "score": 10
+  },
+  {
+    "id": "vLsmHrwseHE",
+    "title": "Valvoline Restore and Protect - Does it work?  Best oil change ever? We'll lab test it to see!!",
+    "score": 10
+  },
+  {
+    "id": "DXSrmav5Nh0",
+    "title": "Why doesn't God protect me from suffering? | Pastor Reacts",
+    "score": 10
+  },
+  {
+    "id": "ggh9q3PaaN4",
+    "title": "Why NATO doesn't protect members everywhere",
+    "score": 10
+  },
+  {
+    "id": "5omP7uWXovc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "AwbXB5e_VWI",
+    "title": "The Self You Protect Doesn’t Exist – Ibn Arabi’s Hidden Revelation",
+    "score": 10
+  },
+  {
+    "id": "keXj4d7Jack",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FMaUmdnUVz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Q7L2bfTcTaU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SE9cpR7OB_0",
+    "title": "Introduction and Titles",
+    "score": 10
+  },
+  {
+    "id": "bjTMKJY5mYc",
+    "title": "Fromville - Real Location 🫣",
+    "score": 10
+  },
+  {
+    "id": "H3AoAra72rU",
+    "title": "Sample video from locations",
+    "score": 10
+  },
+  {
+    "id": "gq_17ohAnIc",
+    "title": "From Russia with Love Locations Explored",
+    "score": 10
+  },
+  {
+    "id": "by3yRdlQvzs",
+    "title": "From Dusk Till Dawn (1996) Filming Locations - Then and NOW   4K",
+    "score": 10
+  },
+  {
+    "id": "xqzw2pVeVZ0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "itBy_A2ZD-E",
+    "title": "5 Secret Locations Billionaires Are Fleeing To - What They're Not Telling You",
+    "score": 10
+  },
+  {
+    "id": "I_H-lor3RwQ",
+    "title": "Amazing Drone Footage From Locations Around Oregon - Visit Oregon",
+    "score": 10
+  },
+  {
+    "id": "-9Vi-0BTgqY",
+    "title": "30 Incredible Filming Locations From Popular Movies, Hit Movie Locations Then And Now - VDoc",
+    "score": 10
+  },
+  {
+    "id": "KxD4pHoBrRU",
+    "title": "Brooklyn, New York.",
+    "score": 10
+  },
+  {
+    "id": "AlcGNDvzs7k",
+    "title": "Outdoor Photography: Getting the Most From Locations",
+    "score": 10
+  },
+  {
+    "id": "IX-gQSyXSU4",
+    "title": "Intro — Location Scouting Like Roger Deakins",
+    "score": 10
+  },
+  {
+    "id": "7Ol_gmmUxkQ",
+    "title": "\\\"From Dusk till Dawn\\\" Filming Locations: Liquor Shop \\u0026 Motel #FilmTour #MovieLocations #DuskTillDawn",
+    "score": 10
+  },
+  {
+    "id": "UGbkQhpnRSs",
+    "title": "All Aurylene Locations in Valley Pass - Valley IV |【Arknights: Endfield】",
+    "score": 10
+  },
+  {
+    "id": "OFY-SXDtAIc",
+    "title": "PARENTHOOD (1989) Filming Locations | Then \\u0026 Now Photo Comparisons",
+    "score": 10
+  },
+  {
+    "id": "K-yg66ODbz8",
+    "title": "2023 Milkyway from locations in Colorado, Hawaii, California",
+    "score": 10
+  },
+  {
+    "id": "eYnYC1T3v4Y",
+    "title": "Read aloud stories for parents and teachers from locations around the World.",
+    "score": 10
+  },
+  {
+    "id": "Hax7ccw2JKM",
+    "title": "Vintage Film from locations around the World Subscribe; Like; Hit the Bell. @MTClassicMovieChannel",
+    "score": 10
+  },
+  {
+    "id": "OCR11937Ol0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "A3zCGEF1L38",
+    "title": "7 EXECUTIVES FAILED —UNTIL THE COFFEE GIRL SAID ONE SENTENCE THAT SAVED THE BILLIONAIRE $200 MILLION",
+    "score": 10
+  },
+  {
+    "id": "qNWyfMSRFG4",
+    "title": "The 2-Sentence Pitch That Made $50 Million",
+    "score": 10
+  },
+  {
+    "id": "qWK_w73UF28",
+    "title": "Millions of Good Deeds in Just One Sentence",
+    "score": 10
+  },
+  {
+    "id": "eU0kJun7wNI",
+    "title": "WHOEVER ASKS FORGIVENESS...",
+    "score": 10
+  },
+  {
+    "id": "Gtv3qY_AbpU",
+    "title": "Judge has change of heart after handing down 60-year sentence",
+    "score": 10
+  },
+  {
+    "id": "xh-ugcTcnwQ",
+    "title": "Woman arrested in multi-million dollar credit repair scheme",
+    "score": 10
+  },
+  {
+    "id": "tzBPBF_ZlKU",
+    "title": "Gas +$0.70? Canada JUST Joined China ($30B Pivot) | The Cost of Trump’s Trade War",
+    "score": 10
+  },
+  {
+    "id": "uYafqnA0J7I",
+    "title": "She Had To Protect Her Career And Her Heart, But When She Finds Out It Was Her Boss Who...",
+    "score": 10
+  },
+  {
+    "id": "L20ByOnzTNA",
+    "title": "Millionaire CEO Found a Resume Hidden Inside a Coffee Cup — And Walked Away",
+    "score": 10
+  },
+  {
+    "id": "sx50a89GDf4",
+    "title": "$540M Judgment Enforcement: Marshals at Trump Property | Legal Process Breakdown",
+    "score": 10
+  },
+  {
+    "id": "Ileg5tP_qSk",
+    "title": "ARE YOU LOST, PUPPY?\\\" I Patted The Alpha King’s Head — The Entire Pack Went Silent",
+    "score": 10
+  },
+  {
+    "id": "dWEyGl-usHg",
+    "title": "Billionaire’s Son Kept Crying in the Restaurant — Until the Waitress Said: ‘He Just Needs a Mom...",
+    "score": 10
+  },
+  {
+    "id": "roepa75OC7c",
+    "title": "How This 31 Year Old Woman Scammed JP Morgan",
+    "score": 10
+  },
+  {
+    "id": "Kfdj3AfDD74",
+    "title": "Boy Raised by Mom Working 3 Jobs Is Secret Tycoon—One Code Blew Dad’s $100M!",
+    "score": 10
+  },
+  {
+    "id": "VuoAcjxKVzc",
+    "title": "Swift backlash in Minneapolis after federal agent shoots, kills U.S. citizen",
+    "score": 10
+  },
+  {
+    "id": "S1HoJjYjRyU",
+    "title": "Millions support reducing trucker's prison sentence",
+    "score": 10
+  },
+  {
+    "id": "d7-JLGBvElQ",
+    "title": "Gillie Corrected Wack100 About Wallo’s Prison Sentence",
+    "score": 10
+  },
+  {
+    "id": "_3hrvefnIn8",
+    "title": "Life Sentence to Millions in Grants: RIchard Mireles (3-13-22)",
+    "score": 10
+  },
+  {
+    "id": "Esn7lCF-eks",
+    "title": "“This One Sentence Changed Millions 😢”",
+    "score": 10
+  },
+  {
+    "id": "hpAMlu8FkEo",
+    "title": "Judge sentence a man to 1,000 years in prison and 200 years afterlife",
+    "score": 10
+  },
+  {
+    "id": "c9zX1CS2a8I",
+    "title": "FBI Finally Solve The $1.6 Billion Instagram Scam",
+    "score": 10
+  },
+  {
+    "id": "ofgPzgN5kwQ",
+    "title": "1.6 BILLION AED",
+    "score": 10
+  },
+  {
+    "id": "4LWQ2MHuGvI",
+    "title": "TRANSFORMATION MASTER VIDEO | Complete Topic in a Single Video |",
+    "score": 10
+  },
+  {
+    "id": "nYJO1U3fHfg",
+    "title": "English to Bangla Sentence Translation",
+    "score": 10
+  },
+  {
+    "id": "43Aup7mSSN0",
+    "title": "John Denver - I Guess He'd Rather Be In Colorado (from The Wildlife Concert)",
+    "score": 10
+  },
+  {
+    "id": "eOB4VdlkzO4",
+    "title": "I Guess He'd Rather Be in Colorado",
+    "score": 10
+  },
+  {
+    "id": "Fs2UFJ_7nqw",
+    "title": "John Denver's musical legacy and its impact on Colorado",
+    "score": 10
+  },
+  {
+    "id": "A61DeyTbG_M",
+    "title": "JOHN DENVER SANCTUARY IN ASPEN,COLORADO| JOHN DENVER STORY",
+    "score": 10
+  },
+  {
+    "id": "105QJTliQlw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iBGksGTb90c",
+    "title": "John Denver Sanctuary \\u0026 Botanical Gardens Tour - Aspen | Colorado",
+    "score": 10
+  },
+  {
+    "id": "Bo5ulpCgvVA",
+    "title": "John (Colorado)",
+    "score": 10
+  },
+  {
+    "id": "UNsxWxgwM3o",
+    "title": "Colorado    John Bassette",
+    "score": 10
+  },
+  {
+    "id": "4fa-pRGJzFE",
+    "title": "\\\"언제까지 계속할 거예요?\\\" '막장짓' 보다못해 묻자.. [뉴스.zip/MBC뉴스]",
+    "score": 10
+  },
+  {
+    "id": "Fzf7yJ38ZqU",
+    "title": "경찰 비웃는 '소녀상 철거' 집회‥허점 노린 '모욕' (2026.01.20/뉴스데스크/MBC)",
+    "score": 10
+  },
+  {
+    "id": "tdnKwEiQCzY",
+    "title": "Doctors warn of frostbite risk as Broncos fans prepare for bitter‑cold AFC Championship",
+    "score": 10
+  },
+  {
+    "id": "tPIeylX29s0",
+    "title": "How Broncos fans are preparing to brave the cold on game day",
+    "score": 10
+  },
+  {
+    "id": "bhlUYyo9gDI",
+    "title": "Hulk statue vandalism has Southern California gym owner seeing red",
+    "score": 10
+  },
+  {
+    "id": "laGfwHbVZXU",
+    "title": "A RARE Winter Event Is Developing Now...",
+    "score": 10
+  },
+  {
+    "id": "loX7sxG3SR4",
+    "title": "Aurora police drone program draws community concern",
+    "score": 10
+  },
+  {
+    "id": "hTPIX2FkoaM",
+    "title": "Trump Announces Plot to Cancel the 2026 Elections",
+    "score": 10
+  },
+  {
+    "id": "DK8A8gTmD1I",
+    "title": "City Officials dedicate John Denver Sanctuary expansion at Rio Grande Park in Aspen",
+    "score": 10
+  },
+  {
+    "id": "TcAJiN6TYvo",
+    "title": "Landing in a snowstorm at Aspen",
+    "score": 10
+  },
+  {
+    "id": "lmT1lLILS98",
+    "title": "Free Market in Blue Colorado? Democratic Gov Jared Polis Argues for Economic Freedom",
+    "score": 10
+  },
+  {
+    "id": "Oc9KAQtKebM",
+    "title": "Jared Polis",
+    "score": 10
+  },
+  {
+    "id": "W5LXF5w5RMQ",
+    "title": "USA: COLORADO: MEMORIAL SERVICE HELD FOR SINGER JOHN DENVER",
+    "score": 10
+  },
+  {
+    "id": "DE1oYq-FQD8",
+    "title": "John Denver Sanctuary in Aspen, Colorado",
+    "score": 10
+  },
+  {
+    "id": "00aBDeq0MA4",
+    "title": "Fishing at Lake John colorado 18 \\\" Rainbow trout",
+    "score": 10
+  },
+  {
+    "id": "IUM-PKH2R_U",
+    "title": "John Denver - I Guess He'd Rather Be In Colorado (Lyrics)  [HD]",
+    "score": 10
+  },
+  {
+    "id": "X4tQVI8WUG0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lcebAbEzLi0",
+    "title": "From Childhood",
+    "score": 10
+  },
+  {
+    "id": "H5Cle2JMtHQ",
+    "title": "Cute Romantic Love Story 💜💜💜 From Childhood to Adulthood 💕💕💕 2019",
+    "score": 10
+  },
+  {
+    "id": "PFTZYpvCbVI",
+    "title": "12 Common Symptoms of CPTSD From Childhood",
+    "score": 10
+  },
+  {
+    "id": "2DeFHOEEgrM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "puQEcN_iI9o",
+    "title": "Annoying Characters From Childhood Shows",
+    "score": 10
+  },
+  {
+    "id": "K2dgV4ADZfI",
+    "title": "I Healed From Childhood Trauma As Fast As I Could - HERE'S HOW",
+    "score": 10
+  },
+  {
+    "id": "vC4x3Jts5N0",
+    "title": "[ENG DUB] From Childhood Friends To Secret Lovers | And The Misunderstanding That Tore Us Apart",
+    "score": 10
+  },
+  {
+    "id": "w58nYqEs_ww",
+    "title": "Why Trauma From Childhood Causes Loneliness",
+    "score": 10
+  },
+  {
+    "id": "e87_cOaARF8",
+    "title": "The Loss of Connectivity",
+    "score": 10
+  },
+  {
+    "id": "lKT-cB_yOys",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "4DUkpWgcR8s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3N_t0ZSvn_Y",
+    "title": "Schumann: Kinderszenen (Scenes from Childhood) - FULL - Vladimir Horowitz",
+    "score": 10
+  },
+  {
+    "id": "jeoFfK0iAAI",
+    "title": "One Key Question to Liberate Yourself From Childhood",
+    "score": 10
+  },
+  {
+    "id": "SqoxrP_tqYs",
+    "title": "Jungkook (BTS) evolution from childhood to 2024",
+    "score": 10
+  },
+  {
+    "id": "UzHNo7yMuXI",
+    "title": "Schumann - Träumerei, \\\"Kinderszenen\\\" No. 7, Scenes from Childhood | Vladimir Horowitz",
+    "score": 10
+  },
+  {
+    "id": "6z82w0l6kwE",
+    "title": "How School Destroys Your Mind From Childhood – Schopenhauer \\u0026 Nietzsche",
+    "score": 10
+  },
+  {
+    "id": "_myoVkb_XIo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "f4sEl3zhH70",
+    "title": "Affidavit of Support: what are my obligations?",
+    "score": 10
+  },
+  {
+    "id": "JqRtK5lXYQs",
+    "title": "Disclaimer + Intro",
+    "score": 10
+  },
+  {
+    "id": "U3NPU9GVFgE",
+    "title": "Exploring abandoned places is no joke 💀",
+    "score": 10
+  },
+  {
+    "id": "CgNaefW2mao",
+    "title": "Exploring this abandoned mansion was fun until…. #abandoned #urbex #abandoned",
+    "score": 10
+  },
+  {
+    "id": "_PMpzdcpyEw",
+    "title": "American Billionaire's ABANDONED Mega Mansion with Ferrari F40 Left Behind!!",
+    "score": 10
+  },
+  {
+    "id": "GOR1wb3dyoM",
+    "title": "12 Most Disturbing Things Caught on Security Camera Footage",
+    "score": 10
+  },
+  {
+    "id": "m_u1n1DAjGk",
+    "title": "We Found Dozens of Vintage Luxury Cars Inside Abandoned Warehouse….",
+    "score": 10
+  },
+  {
+    "id": "W4x9vjeFRIw",
+    "title": "I Explored 3 Abandoned Murder Houses in 72 Hours (Extremely Disturbing True Crime)",
+    "score": 10
+  },
+  {
+    "id": "Vr_bxAAMng4",
+    "title": "The Paranormal Archive: Scary Ghost Videos | V4",
+    "score": 10
+  },
+  {
+    "id": "1D2RpzJ2brs",
+    "title": "America’s Most Controversial Abandoned Theme Park",
+    "score": 10
+  },
+  {
+    "id": "IvGFQ2Ujhjs",
+    "title": "Inside America’s Largest Abandoned Ghost Town | Decaying Since the Early 2000s",
+    "score": 10
+  },
+  {
+    "id": "9Xs418q7u9I",
+    "title": "Let’s go explore an abandoned hospital!!",
+    "score": 10
+  },
+  {
+    "id": "RrOy6VHsVtk",
+    "title": "Things I found in Exploring Abandoned Places",
+    "score": 10
+  },
+  {
+    "id": "QJrKyF15Xr8",
+    "title": "Exploring the Abandoned Mall where the Homeless Created a Society..",
+    "score": 10
+  },
+  {
+    "id": "6wPnmwzO1i4",
+    "title": "Let’s go explore an abandoned school!",
+    "score": 10
+  },
+  {
+    "id": "_KBFdMRnQkk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LYeE2SxNnU8",
+    "title": "Choong Jang performed by Joel Denis",
+    "score": 10
+  },
+  {
+    "id": "cWZL2LErGTg",
+    "title": "Meeting Gary's favourite economist: Ha-Joon Chang",
+    "score": 10
+  },
+  {
+    "id": "MGt7swnEb3g",
+    "title": "Introduction to the Guest and the Channel's Focus",
+    "score": 10
+  },
+  {
+    "id": "RnzmCno1vlA",
+    "title": "Director Park Chan-wook - Satirizing Capitalism in “No Other Choice” | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "Jj0N63qglbI",
+    "title": "知足常樂 ｜有得搭升降機 🛗 已經好開心 ｜外賣佬系列",
+    "score": 10
+  },
+  {
+    "id": "EpvCxR-alwc",
+    "title": "玉林街头的柴火大肉云吞，9元一碗有10个！皮薄馅大超脆弹！再搭配上广西特有的芋头蒸饺，人间烟火气也不过如此啊！唯一的缺点：只有玉林有！",
+    "score": 10
+  },
+  {
+    "id": "zulqiGY1eg8",
+    "title": "Official Announcement: Zhang Youxia and Liu Zhenli Arrested! The Coup Was Shocking, A Turbulent E...",
+    "score": 10
+  },
+  {
+    "id": "sF-gBeLT-RI",
+    "title": "Kim Youngkwang's Home: Detached House in Korea (+Kim Jae-joong, Kim Yoo-jung, and Hwang Hee-chan)",
+    "score": 10
+  },
+  {
+    "id": "bQDS0CrfIDU",
+    "title": "Early receipt of the National Pension in 2026 vs. deferred receipt: What's the best time for me?",
+    "score": 10
+  },
+  {
+    "id": "hC6DumY5MUo",
+    "title": "7,700만 원 차이를 만드는 결정적 순간",
+    "score": 10
+  },
+  {
+    "id": "G8dD8HlsuKc",
+    "title": "SEXBOMB CONCERT TICKET SELLING, MAY ISSUE! 🔴 JEROME PONCE, DEADMA! 🔴 WILL AT MIKA, CONFIRMED!",
+    "score": 10
+  },
+  {
+    "id": "VKeh6NMjnC4",
+    "title": "「しんいちの庭仕事（山口県下関市）」【Shin's Japanese Garden Work \\\"Shimonoseki City, Yamaguchi Prefecture\\\"】",
+    "score": 10
+  },
+  {
+    "id": "uII0PhxoGZc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Oc_BKYtrJlE",
+    "title": "Bankzitters - Boevenpad",
+    "score": 10
+  },
+  {
+    "id": "WnPAb4saUcs",
+    "title": "Boevenpad",
+    "score": 10
+  },
+  {
+    "id": "soiM7-rICsU",
+    "title": "min. iedereen zakt door zijn/haar knieën",
+    "score": 10
+  },
+  {
+    "id": "R8joJ1VTIds",
+    "title": "Bankzitters - Boevenpad (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "hKAVXA1Vd2c",
+    "title": "Boevenpad - Entourage - Huisfeestje Bankzitters - Roxy Dekker 29 november 2025",
+    "score": 10
+  },
+  {
+    "id": "__vkoWasexQ",
+    "title": "Boevenpad",
+    "score": 10
+  },
+  {
+    "id": "UJK_4OwgpxQ",
+    "title": "Bankzitters - Boevenpad (zing als koen en Milo)",
+    "score": 10
+  },
+  {
+    "id": "Zwv-vXJmY04",
+    "title": "Boevenpad",
+    "score": 10
+  },
+  {
+    "id": "K21agDUXrb4",
+    "title": "BANKZITTERS zingen TIJDMACHINE | Bankzitters: Vrienden voor Altijd",
+    "score": 10
+  },
+  {
+    "id": "yqX_ERNPEnk",
+    "title": "PRIME TIME ⭐️ #bankzitters #casadelhuts #boevenpad",
+    "score": 10
+  },
+  {
+    "id": "hN_g-CpVntc",
+    "title": "Boevenpad",
+    "score": 10
+  },
+  {
+    "id": "pyiOcoj_rSw",
+    "title": "Bankzitters - Boevenpad HARDSTYLE REMIX",
+    "score": 10
+  },
+  {
+    "id": "OuHfto2D1Xs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XW8F81JkDt0",
+    "title": "Lounge Fm - INTRODUCTiON",
+    "score": 10
+  },
+  {
+    "id": "9aLEd_G9dG8",
+    "title": "The ASMR Lounge #1 - Introduction - Whispered binaural session for relaxation, meditation \\u0026 sleep",
+    "score": 10
+  },
+  {
+    "id": "UiwRz1Ig11M",
+    "title": "PMC Lounge - An Introduction",
+    "score": 10
+  },
+  {
+    "id": "L-eYBHHddxU",
+    "title": "Introduction of The \\\"VOID Lounge\\\"",
+    "score": 10
+  },
+  {
+    "id": "lL-uM7Ldwwo",
+    "title": "VEX Introduction - The Cape Lounge",
+    "score": 10
+  },
+  {
+    "id": "fgIBfFLnZuk",
+    "title": "Virtual Lounge Introduction",
+    "score": 10
+  },
+  {
+    "id": "SnAncozGrHY",
+    "title": "Introduction To My Games Lounge",
+    "score": 10
+  },
+  {
+    "id": "1ILD-l1oMMM",
+    "title": "Introduction to Sylk HiFi Lounge",
+    "score": 10
+  },
+  {
+    "id": "tlvW1WXQmfA",
+    "title": "Introduction To Petrol Lounge | More Than Just Car Storage In Austin",
+    "score": 10
+  },
+  {
+    "id": "uOjQswARbHI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GG0jbRnFqAw",
+    "title": "Introduction to Club Avenue Lounge",
+    "score": 10
+  },
+  {
+    "id": "7r4tsxXJL7A",
+    "title": "Introducing The Business Lounge",
+    "score": 10
+  },
+  {
+    "id": "OskQFuSMhvM",
+    "title": "British Airways | Introducing Our New Miami Airport Lounge",
+    "score": 10
+  },
+  {
+    "id": "a1zb2O-Cyko",
+    "title": "An introduction to me \\u0026 The Relationship Lounge",
+    "score": 10
+  },
+  {
+    "id": "d-iok5LTu9E",
+    "title": "Introduction TVC - Air 360 Sky Lounge",
+    "score": 10
+  },
+  {
+    "id": "-oXxHuCM1-k",
+    "title": "Introduction to The Hideout Lounge",
+    "score": 10
+  },
+  {
+    "id": "zMISYWJ0LCM",
+    "title": "Introducing The Culinary Collective by The Centurion Lounge | American Express",
+    "score": 10
+  },
+  {
+    "id": "zH2j1CdtNgk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "HHJDXoewU3M",
+    "title": "Search Jira",
+    "score": 10
+  },
+  {
+    "id": "1mHAVptUKAk",
+    "title": "Using Multiple Criteria within the Excel FILTER Function",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "lYi24okXDPs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tmM4K34amkA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pbi_V2s4EcA",
+    "title": "Summit Lounge Sesh",
+    "score": 10
+  },
+  {
+    "id": "xIJuSJSH6Xo",
+    "title": "Seriously Stoned S1E15 \\\"The Summit Lounge\\\"",
+    "score": 10
+  },
+  {
+    "id": "tWRelvSq2eM",
+    "title": "Summit Cigar Lounge",
+    "score": 10
+  },
+  {
+    "id": "fMBPmLLZFxE",
+    "title": "Summit Titan SD - Fat Boys Deer Lounge",
+    "score": 10
+  },
+  {
+    "id": "KPLcTnJi6T4",
+    "title": "Summit Lounge at Lone Peak",
+    "score": 10
+  },
+  {
+    "id": "l_aMVBlouWg",
+    "title": "Celebrity Summit Tour 2 Retreat Lounge",
+    "score": 10
+  },
+  {
+    "id": "LBAbufOhcS0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0GcU-9IS8Iw",
+    "title": "First Experience of The Retreat on Celebrity Cruises - Here's What Happened",
+    "score": 10
+  },
+  {
+    "id": "RCl8TQ-hmes",
+    "title": "Types of Perks",
+    "score": 10
+  },
+  {
+    "id": "DfWL1MthLJc",
+    "title": "Celebrity Xcel Retreat Overview",
+    "score": 10
+  },
+  {
+    "id": "ldXC5J8GXrs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fAU0Q17P_Ps",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "V21EOy-yUDM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CPN72oh5ESA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yRthVu_pEhA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s2Rk68CTNzQ",
+    "title": "I Put The 5 Leading First Class \\\"Ship-In-Ships\\\" To The Test",
+    "score": 10
+  },
+  {
+    "id": "mkjYudRboVQ",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "IEfHe_Nk9ZU",
+    "title": "Beware! The Disappointing Retreat Experience On Celebrity Cruises",
+    "score": 10
+  },
+  {
+    "id": "isbF1w_kFt0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oHh8JOzQrc4",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "Y93hdvcfiSY",
+    "title": "What I Wish I'd Known Before I Sailed Celebrity Cruises",
+    "score": 10
+  },
+  {
+    "id": "T16EzwkfBhw",
+    "title": "First Impressions of Celebrity Beyond! Embarkation, Exploring, and Dining in AquaClass Style!",
+    "score": 10
+  },
+  {
+    "id": "Q7Qgn-804LM",
+    "title": "Day 3~Sea Day! Celebrity Beyond. Fun Day in the Retreat Sundeck, Dinner in EDEN \\u0026 Martini bar show!",
+    "score": 10
+  },
+  {
+    "id": "N_IxLrI9MzE",
+    "title": "The Retreat on Celebrity Edge",
+    "score": 10
+  },
+  {
+    "id": "JbE08p-kfnQ",
+    "title": "The Iconic Suite",
+    "score": 10
+  },
+  {
+    "id": "bqfI2klj31I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N-qhtFCfHlI",
+    "title": "Intro \\u0026 expectations",
+    "score": 10
+  },
+  {
+    "id": "LRyVxZ9p56w",
+    "title": "Celebrity Cruises \\\"The Retreat\\\"  vs  Virgin Voyages \\\"Rockstar\\\" | Which One Is Worth The Splurge?",
+    "score": 10
+  },
+  {
+    "id": "lIkp-CICtfM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "w3OyBkq-9zU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eaRUqqgAqog",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-4nRcdd8OKU",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "o5ajWT2SMMY",
+    "title": "What to Know Before Switching to Whole House Heat Pumps | Ask This Old House",
+    "score": 10
+  },
+  {
+    "id": "5wNfMHSI1Ug",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lAx6jbNxMBM",
+    "title": "Passive House",
+    "score": 10
+  },
+  {
+    "id": "W0hCA43bywA",
+    "title": "How Amish Heat Their Living Room Without Gas/Electricity",
+    "score": 10
+  },
+  {
+    "id": "SrC3wms8pQ8",
+    "title": "Grandpa’s 42 Hacks ENDLESS Heat for Your Home WITHOUT Electricity",
+    "score": 10
+  },
+  {
+    "id": "MWwMzLC418M",
+    "title": "6 Lifesaving Tips to Keep Warm During a Winter Power Outage",
+    "score": 10
+  },
+  {
+    "id": "erq-QuCN0G0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zKQi5vavSpw",
+    "title": "No Gas No Electricity Heat your Entire Home for Free. #diy",
+    "score": 10
+  },
+  {
+    "id": "tTkYcVH48Ho",
+    "title": "SHE STOLE YOUR IDENTITY...",
+    "score": 10
+  },
+  {
+    "id": "INWc5sKtwa0",
+    "title": "Crisco candle room heating | Power Outage Room Heating | 9 hour test",
+    "score": 10
+  },
+  {
+    "id": "0vwONToPGXg",
+    "title": "My DIY Geothermal System Was So CHEAP!!!",
+    "score": 10
+  },
+  {
+    "id": "MUWjjjFgXdg",
+    "title": "$26,366",
+    "score": 10
+  },
+  {
+    "id": "AWU_XXkLpbc",
+    "title": "Mason Heaters",
+    "score": 10
+  },
+  {
+    "id": "iOn6ctZrZmI",
+    "title": "Can you heat your home without power?  Gas Fireplace!! ( The power went out! what do I do?)",
+    "score": 10
+  },
+  {
+    "id": "XrO8xmL-w7k",
+    "title": "How Do You Heat Your House without Power",
+    "score": 10
+  },
+  {
+    "id": "iQaycSD5GWE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IDmkgAqr_8s",
+    "title": "Data Logger",
+    "score": 10
+  },
+  {
+    "id": "pPziS7RHoBM",
+    "title": "STELR Sustainable Housing - Heat loss and gain in houses",
+    "score": 10
+  },
+  {
+    "id": "wLJRSP9utoI",
+    "title": "Source of Radiant Heat",
+    "score": 10
+  },
+  {
+    "id": "7J52mDjZzto",
+    "title": "10 Ways We Heated Our Homes BEFORE Central Heating",
+    "score": 10
+  },
+  {
+    "id": "5gmFk_TgLrw",
+    "title": "What are the Pros and Cons of Heat Pumps?",
+    "score": 10
+  },
+  {
+    "id": "rcI-xVNGdCQ",
+    "title": "What are the Pros and Cons of Heat Pumps",
+    "score": 10
+  },
+  {
+    "id": "0guulsNSQXU",
+    "title": "Genius Heat Pump could change how we heat our homes forever",
+    "score": 10
+  },
+  {
+    "id": "KQNc4VnTOis",
+    "title": "Heat Pump vs Furnace | Which Is Better for Your Home?",
+    "score": 10
+  },
+  {
+    "id": "9N3msz4tY7I",
+    "title": "HOW THE CHINESE HEAT THEIR HOMES WITHOUT GAS/ELECTRICITY",
+    "score": 10
+  },
+  {
+    "id": "hkv7ryIcNys",
+    "title": "AC vs. Heat Pump: Which is Better for Your Home? | Comprehensive Comparison",
+    "score": 10
+  },
+  {
+    "id": "2-29z0yFDL4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "onmLrUh2cHU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OO1x_AG0f18",
+    "title": "Exploring Disappearing Stores From My Childhood!",
+    "score": 10
+  },
+  {
+    "id": "wbugblWk1LE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tIB_HLbJoss",
+    "title": "I Explored Every Abandoned Store From Your Childhood... 1 Year Later (Toys R Us, Kmart, etc.)",
+    "score": 10
+  },
+  {
+    "id": "2-DEYL0euq8",
+    "title": "Toxic ABANDONED Shopping Mall - Exploration",
+    "score": 10
+  },
+  {
+    "id": "vDoIuSe4Pf8",
+    "title": "Exploring America’s Most Toxic Abandoned Grocery Store (BIOHAZARD)",
+    "score": 10
+  },
+  {
+    "id": "EHE8Z_jWbwQ",
+    "title": "Exploring Childhood Stores That Are Disappearing!",
+    "score": 10
+  },
+  {
+    "id": "9cH2BKjge-E",
+    "title": "Exploring Abandoned Restaurants From My Childhood",
+    "score": 10
+  },
+  {
+    "id": "WAPGPkgSfvg",
+    "title": "Exploring a Forgotten 1920s Appalachian Store After Decades of Being Closed!",
+    "score": 10
+  },
+  {
+    "id": "3dhYzl0bcwE",
+    "title": "Heading to the store",
+    "score": 10
+  },
+  {
+    "id": "zyN52l-1Kb0",
+    "title": "I Explored an ABANDONED Pokemon Card Shop",
+    "score": 10
+  },
+  {
+    "id": "hnE6sx12lp0",
+    "title": "Exploring DISAPPEARING Stores From My Childhood!",
+    "score": 10
+  },
+  {
+    "id": "hqi4innS3aQ",
+    "title": "I Explored the Strangest Themed Shopping Malls",
+    "score": 10
+  },
+  {
+    "id": "K39lhcRz6-A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "d2SRa63_FEs",
+    "title": "Exclusive World",
+    "score": 10
+  },
+  {
+    "id": "XFkOZ6wuZRc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RezOEn0daNU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9lQLXArjNs8",
+    "title": "Exclusive World Premiere Release Of Kanthari Telugu Horror Full Movie",
+    "score": 10
+  },
+  {
+    "id": "LETxxOGpsrg",
+    "title": "WORLD EXCLUSIVE: Kidnapped Aussie child's miracle outback rescue | 60 Minutes Australia",
+    "score": 10
+  },
+  {
+    "id": "uZANGTKgBbw",
+    "title": "$5,000 Gold, $100 Silver, Metals Soar in “New World Order” - Giustra \\u0026 Rule Exclusive",
+    "score": 10
+  },
+  {
+    "id": "UzJEXD7lr1E",
+    "title": "A look inside the exclusive world of members-only social clubs",
+    "score": 10
+  },
+  {
+    "id": "vK16HLHEGz0",
+    "title": "Inside The Exclusive Club For The World's Wealthiest People",
+    "score": 10
+  },
+  {
+    "id": "lpjB-kiZqjE",
+    "title": "WORLD EXCLUSIVE | $4M MANSORY KOENIGSEGG JESKO REVEALED",
+    "score": 10
+  },
+  {
+    "id": "iDk30stUZGo",
+    "title": "EXCLUSIVE WORLD PREMIERE XBOX ONE 4K SUPER FULL HD SUPERCUT",
+    "score": 10
+  },
+  {
+    "id": "aSxcQ5IGT1s",
+    "title": "A look inside the exclusive world of members-only social clubs",
+    "score": 10
+  },
+  {
+    "id": "QuP0NmBAsoY",
+    "title": "David Banner- Magnolia ft. CeeLo Green | REVOLT Exclusive World Premiere",
+    "score": 10
+  },
+  {
+    "id": "BLMZm-VpbOk",
+    "title": "Exclusive World Premiere - Only For True Horologists",
+    "score": 10
+  },
+  {
+    "id": "cT46vxod-xE",
+    "title": "Touring the Most Exclusive Car Dealership in The World!",
+    "score": 10
+  },
+  {
+    "id": "p-EH3RVzCSg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "TsYwr_ZnrBc",
+    "title": "CEA Spotlight Summit Finals 2023",
+    "score": 10
+  },
+  {
+    "id": "siZETfHtGpo",
+    "title": "Customer Spotlight: Summit Materials",
+    "score": 10
+  },
+  {
+    "id": "XIMQLfgEzvs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sHpj_W-v5Ts",
+    "title": "SPOTLIGHT SUMMIT 2018 EZWAYNETWORK.COM",
+    "score": 10
+  },
+  {
+    "id": "f_R8gbGxp6U",
+    "title": "6 Teams Get Summit Bids - Spotlight Summit Bound 2019",
+    "score": 10
+  },
+  {
+    "id": "1LYwXnQ9oaY",
+    "title": "New Business Spotlight: Summit Dental",
+    "score": 10
+  },
+  {
+    "id": "I7umdxPU1Ck",
+    "title": "6'4 QB Cade Sparks '16 : Summit High (CA) Senior Year Spotlight 2015",
+    "score": 10
+  },
+  {
+    "id": "kMzh1zfLK14",
+    "title": "Spotlight - The Summit 2021 Winner",
+    "score": 10
+  },
+  {
+    "id": "yjxmqHuczIY",
+    "title": "Summit Spotlight",
+    "score": 10
+  },
+  {
+    "id": "5H_bMYTkkHc",
+    "title": "Summit Spotlight Episode Six",
+    "score": 10
+  },
+  {
+    "id": "g2qUdiw7N6I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZEZB28Ra6wU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qabQRpeOIto",
+    "title": "The HOLLYWOOD Summit Show's Spotlight on Undergound Florida",
+    "score": 10
+  },
+  {
+    "id": "vgASJ-mz1jI",
+    "title": "Lake TV Business Spotlight Summit Gas",
+    "score": 10
+  },
+  {
+    "id": "1UkcvkR6taE",
+    "title": "LAKE TV Business Spot Light",
+    "score": 10
+  },
+  {
+    "id": "gfAiDKezW9w",
+    "title": "Tamara Hunter Interview at the Spotlight Summit",
+    "score": 10
+  },
+  {
+    "id": "RuQSGLnA6xg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "c7_qmkmP-JM",
+    "title": "DR. TRACEY MARKS PSYCHIATRIST",
+    "score": 10
+  },
+  {
+    "id": "Izqbe2aFFHU",
+    "title": "What happens to your brain without any social contact? - Terry Kupers",
+    "score": 10
+  },
+  {
+    "id": "USW8yf4L-R4",
+    "title": "Social Isolation Effects On Children | Special Education Decoded",
+    "score": 10
+  },
+  {
+    "id": "fPdGmqC3Se4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-hbkEYaqUAY",
+    "title": "Intro: Why autistic kids are often left out and what this video will help you understand",
+    "score": 10
+  },
+  {
+    "id": "VcUqgOF1nmo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Hj1d8xJdPvU",
+    "title": "Neglect Theory",
+    "score": 10
+  },
+  {
+    "id": "E_Q4ZFyR8qg",
+    "title": "Inside look at Texas Children's Hospital's isolation units where adults can now be treated",
+    "score": 10
+  },
+  {
+    "id": "d1pExvQZBi8",
+    "title": "The Rebound Detroit: How isolation can affect children",
+    "score": 10
+  },
+  {
+    "id": "kTEdrBGGBBM",
+    "title": "Impact of social isolation on children 'devastating': parent",
+    "score": 10
+  },
+  {
+    "id": "DJhS35wGNqA",
+    "title": "How one year of isolation has impacted children",
+    "score": 10
+  },
+  {
+    "id": "ekixIeoCGm4",
+    "title": "Children's hospital housekeeper connects two patients who are in isolation",
+    "score": 10
+  },
+  {
+    "id": "zHzbIaz3QT4",
+    "title": "Children's it was their housekeeper",
+    "score": 10
+  },
+  {
+    "id": "Y2v7tSlgKW4",
+    "title": "The Three I’s of Coercive Control: Isolation, Intimidation, and Indoctrination: Over Our Children",
+    "score": 10
+  },
+  {
+    "id": "uJk3LnrF8VA",
+    "title": "Introduction: The Three I's of Abuse",
+    "score": 10
+  },
+  {
+    "id": "QQGQzXjX1I4",
+    "title": "How is Texas Children's uniquely prepared to care for patients with a communicable disease like COVID-19?",
+    "score": 10
+  },
+  {
+    "id": "4QjAZYOPK6U",
+    "title": "Many Children Struggling With Isolation",
+    "score": 10
+  },
+  {
+    "id": "-bXvLlAznJI",
+    "title": "Search filters",
+    "score": 10
+  }
+]

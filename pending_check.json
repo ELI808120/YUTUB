@@ -1,1 +1,2762 @@
-[]
+[
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 21 - העליה השלישית",
+    "score": 110
+  },
+  {
+    "id": "Vrtbxvefnjs",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 20 - העליה השניה",
+    "score": 110
+  },
+  {
+    "id": "9T3EDq3MemE",
+    "title": "היסטוריה עולמית - שיעור 1",
+    "score": 110
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "UNtCXPKcuNY",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "למד פייתון בפחות מ-10 דקות למתחילים (מהיר וקל)",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "סדר עולמי חדש: האם סין מכינה את עצמה למלחמה? \\\"מלחמת העולם השלישית כבר כאן\\\" | ניצן דוד פוקס",
+    "score": 60
+  },
+  {
+    "id": "PLmsfyR65zE",
+    "title": "סוף עידן \\\"קץ ההיסטוריה\\\"",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "WiJasqDJRow",
+    "title": "פלאי ישראל – היכן שההיסטוריה נחצבה באבן | אטרקציות מובילות ואבני חן נסתרות | סרטוני טיולים 4K",
+    "score": 60
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "מלחמת ששת הימים בקיצור",
+    "score": 60
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "חורבן בית ראשון בקיצור",
+    "score": 60
+  },
+  {
+    "id": "eZcNmuOHtoY",
+    "title": "האינטרס של ארצות הברית בישראל",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "איך להכין מחמצת ביתית! 😍",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "לחם מחמצת למתחילים - כולל מושגים בסיסיים בעולם האפיה",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "כך תכינו מחמצת שעור מי קמח לבן או קמח מלא .חלק א באהבה לכולם תומר תומס 💚",
+    "score": 60
+  },
+  {
+    "id": "ssPg5k4UhVQ",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "אפיית לחם מחמצת בסיר - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "Jiqkmg8jl1M",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "Dirtiest Waffle Maker Restoration Ever",
+    "score": 50
+  },
+  {
+    "id": "luZLZrE01Vo",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "1965 Austin-Healey MK III - Car Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "WUxAtk8Q_LE",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "5TXYl9-lnv4",
+    "title": "Classic Toyota Camry Restoration | Complete Rebuild \\u0026 Transformation!",
+    "score": 50
+  },
+  {
+    "id": "_NFiWgcWr-8",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "rhgDGjSN13g",
+    "title": "Advances in Space Technology: Everything You Need to Know | Complete Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "The Extreme Engineering Behind the Panama Canal’s Modern Makeover | Blueprint",
+    "score": 50
+  },
+  {
+    "id": "HqVJQxgVdU8",
+    "title": "The World in 2030: Top 20 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "pAnGwRiQ4-4",
+    "title": "Future Technology | 60 Minutes Marathon",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "The Year 3000 \\u0026 Beyond: 300 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "The World in 2070: Top 15 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "b0HfmY64eSE",
+    "title": "Top 17 New Technology Trends That Will Define 2026",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "f0RX4rYySh8",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "yBCNY__d4ic",
+    "title": "Python Για Αρχάριους | FULL COURSE Ελληνικά",
+    "score": 50
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "oT1l7U_tZeE",
+    "title": "Antarctica (2026) The Forbidden Continent That Holds Earth's True History",
+    "score": 50
+  },
+  {
+    "id": "J1D4sCcFv_4",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "IkFB4VM3zeg",
+    "title": "Impossible Project | 10 Incredible World Projects You’ve Never Seen Before | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "CDTu9md6ukM",
+    "title": "Great Pyramid Discoveries BANNED From History",
+    "score": 50
+  },
+  {
+    "id": "DtDw9qV_wmI",
+    "title": "Constructing The Scorpion Tower | Impossible Builds | Full Episode | PBS",
+    "score": 50
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "Bake the Perfect Sourdough Bread: A Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "JGosCphlH0I",
+    "title": "The Truth Buried Beneath Egypt and Beyond *Marathon* | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "40nBEj4eqAs",
+    "title": "The ENTIRE History of Egypt | Ancient Civilizations Documentary",
+    "score": 50
+  },
+  {
+    "id": "g9L6_pOMFn8",
+    "title": "How to prune roses! #gardening #tips #rose #flowers #spring",
+    "score": 50
+  },
+  {
+    "id": "FP3uu8vH8fo",
+    "title": "Analysis of the Mexican Boxing Style",
+    "score": 50
+  },
+  {
+    "id": "oZnqokQe_ow",
+    "title": "This Technoblade Drama Is SAD...",
+    "score": 50
+  },
+  {
+    "id": "CnHbk6Mqu5Q",
+    "title": "This Does NOT Make Him Look Better!",
+    "score": 50
+  },
+  {
+    "id": "enBmFYKbUwU",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "90vA9NKLVWQ",
+    "title": "Music That Make You Feel BADASS 🎧 EDM Remixes of Popular Songs 🎧 EDM Music Mix ​| Bass Boosted",
+    "score": 50
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "We're restoring a dying coral reef - here's how",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "e7CbYSXuRUE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "How Did One Equation Predict Antimatter (…and Spin)?",
+    "score": 10
+  },
+  {
+    "id": "CF2YDfQgnVg",
+    "title": "Bridges That Defined Modern Engineering | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Steel Giants: Pushing the Limits of Bridge Design | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "68PlPkeOwng",
+    "title": "The Launchers",
+    "score": 10
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Vehicles of the Future: Reinventing Air, Sea and Land | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "COlwe37E7o4",
+    "title": "Planes of the Future",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "1gsjRfa5yck",
+    "title": "Catastrophic Bridge Collapse in Sweden",
+    "score": 10
+  },
+  {
+    "id": "trA5s2iGj2A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "83TiUbFY6fY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "NEW INVENTIONS OF 2025 YOU SHOULD SEE",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "Ujcj8inqkOs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DRSFoP24jLM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-_Pn-_Ieuf4",
+    "title": "How Are Tunnels Built Deep Underground?",
+    "score": 10
+  },
+  {
+    "id": "eBckAi4moQE",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "Simple Sourdough Bread: Step by Step 🍞🍞75% Hydration",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "JcAlyfcw3eE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XV46JHd67cM",
+    "title": "The Hidden Structure Linking Every Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "Dpu3XoY3wQw",
+    "title": "Why So Many Ancient Civilizations Collapsed At The Same Time",
+    "score": 10
+  },
+  {
+    "id": "1l8YQuyjWks",
+    "title": "100 Unexplained Archaeological Mysteries That Ancient Civilizations Left Behind",
+    "score": 10
+  },
+  {
+    "id": "TuCk4NDsihE",
+    "title": "13. The Assyrians - Empire of Iron",
+    "score": 10
+  },
+  {
+    "id": "Z-66Za87r-c",
+    "title": "Origins of a Suppressed Human Story",
+    "score": 10
+  },
+  {
+    "id": "NKsQfckKuwY",
+    "title": "Chichen Itza And El Castillo",
+    "score": 10
+  },
+  {
+    "id": "qZ7HPhFAJc0",
+    "title": "Arrival and Adaptation of Paleo-Indians",
+    "score": 10
+  },
+  {
+    "id": "tTTzgrZkyJw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b6kJRGoVaOA",
+    "title": "Exploring Egypt's Pyramids \\u0026 Sphinx",
+    "score": 10
+  },
+  {
+    "id": "FgSkjhQ-fCs",
+    "title": "3+ Hours Of Lost Civilizations And Ancient Megapolis Facts",
+    "score": 10
+  },
+  {
+    "id": "zrq0wMoggI8",
+    "title": "The 1 Thing That All Ancient Civilizations Built EXACTLY the Same.. | Matt LaCroix",
+    "score": 10
+  },
+  {
+    "id": "CskfvgEItPA",
+    "title": "The Beginning of Ancient Egypt",
+    "score": 10
+  },
+  {
+    "id": "Wk4yqLEQTSM",
+    "title": "4+ HOURS of Ancient Civilisations That Vanished",
+    "score": 10
+  },
+  {
+    "id": "X8Py63FH5Dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6dbdVhVSat8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PSBwp63FUhc",
+    "title": "The Anunnaki and Human Origins",
+    "score": 10
+  },
+  {
+    "id": "CGP1Q25z46E",
+    "title": "20. Persia - An Empire in Ashes",
+    "score": 10
+  },
+  {
+    "id": "CAsKpXoxZAQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wKUzjton2TM",
+    "title": "Top 10 Free Vegetable Gardening Hacks",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "Never plant tomatoes without this. For large fruits and more tomatoes, follow this",
+    "score": 10
+  },
+  {
+    "id": "EjJh6oznkBo",
+    "title": "1/8 Acre Abundance: FULL TOUR + BEST TIPS for Growing",
+    "score": 10
+  },
+  {
+    "id": "98_2H9nJSV4",
+    "title": "Tomato Planting Tips",
+    "score": 10
+  },
+  {
+    "id": "NjANmwxkp9A",
+    "title": "Garden Center Shopping Like a Pro! 🌿 Expert Tips to Pick the Best Plants \\u0026 Shrubs",
+    "score": 10
+  },
+  {
+    "id": "iYCfW42Tek0",
+    "title": "Potato Growing Masterclass: My Tips for a Bigger, Better Harvest",
+    "score": 10
+  },
+  {
+    "id": "A6zhvmVuPZc",
+    "title": "8 Of My BEST Raised Bed Gardening Tips",
+    "score": 10
+  },
+  {
+    "id": "0jRj8yKpkhw",
+    "title": "9 Tomato Growing Tips (That Actually Work)",
+    "score": 10
+  },
+  {
+    "id": "njXfBIvDT2k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "woYtFA6YJa0",
+    "title": "Bryan Adams - Here I Am (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "CxQIOhzi4gQ",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "WtkPkq_08lQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "lP4Nnek6DCo",
+    "title": "Bryan Adams - Back To You (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "gyFUOrUAq8Y",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Zoj3uGGqeV4",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "BP3WDMmtTmk",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "JAIThyqJhOY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "krMwB2Mw7DQ",
+    "title": "Bryan Adams - (Everything I Do) I Do It For You",
+    "score": 10
+  },
+  {
+    "id": "TJpcYf662QA",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "9BfwSOgzSpA",
+    "title": "Bryan Adams - Can't Stop This Thing We Started (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "Fw4M1MvPJaU",
+    "title": "Bryan Adams - Please Forgive Me (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "QRxpnqPlV0Y",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "RhnqF2L9dZQ",
+    "title": "Bryan Adams - Run To You (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "iB71nFr5yIo",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "lvEbUsS4LiQ",
+    "title": "Bryan Adams - Run To You",
+    "score": 10
+  },
+  {
+    "id": "fp7kCiNazj0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "BTsCKYLbg1Y",
+    "title": "DJ ADAMS CLASSIC HANDS UP MIX 2019",
+    "score": 10
+  },
+  {
+    "id": "3w59UEigmT8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "tno-LL8tI9c",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "_SyYS8Ejk70",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "MNmc_XJp5rI",
+    "title": "Pasión",
+    "score": 10
+  },
+  {
+    "id": "S8Ss4cSCa18",
+    "title": "Daddy Yankee ft Arcangel - Pasion",
+    "score": 10
+  },
+  {
+    "id": "LfzpfqrPUDo",
+    "title": "Juan Ingaramo - Fuego y Pasión (feat. Elsa y Elmar)",
+    "score": 10
+  },
+  {
+    "id": "W4ugvM0MXG0",
+    "title": "LA PASION - ENZO LA MELODIA SECRETA , AMILKELE EL MINISTRO Ft FRANNY, ONDURE (OFICIAL VIDEO)",
+    "score": 10
+  },
+  {
+    "id": "HvKDLAnpVBg",
+    "title": "Passionfruit",
+    "score": 10
+  },
+  {
+    "id": "EgfsXTOn_pI",
+    "title": "Passion - God's Great Dance Floor (feat. Chris Tomlin) ft. Chris Tomlin",
+    "score": 10
+  },
+  {
+    "id": "R-WOneEXr00",
+    "title": "фрози (frozy) - kompa pasión [Ultra Records]",
+    "score": 10
+  },
+  {
+    "id": "-w5K08th9OA",
+    "title": "Noticias Emisión Matutina - 26 de enero de 2026",
+    "score": 10
+  },
+  {
+    "id": "BGTF_c_XNvM",
+    "title": "MONDAY, January 26, 2026 — ATOMIC PRAYER TO BEGIN YOUR WEEK WITH STRENGTH \\u0026 RENEWED FOCUS | Dr Cindy",
+    "score": 10
+  },
+  {
+    "id": "a7WzlAKF8Q4",
+    "title": "Top Praise and Worship Songs 2026 Playlist - Nonstop Christian Gospel Songs",
+    "score": 10
+  },
+  {
+    "id": "rOmTINlRhxM",
+    "title": "1. Goodness of God",
+    "score": 10
+  },
+  {
+    "id": "H5xH9ZUTLsM",
+    "title": "Pasión",
+    "score": 10
+  },
+  {
+    "id": "rl3zt0ps1Y0",
+    "title": "JESUS - Soaking worship instrumental | Prayer and Devotional",
+    "score": 10
+  },
+  {
+    "id": "M_xgXp9a-p0",
+    "title": "Aries🔥 el miedo a perder esta oportunidad remueve tus emociones ⚡ tarot amor diario",
+    "score": 10
+  },
+  {
+    "id": "LCQCVwafr4U",
+    "title": "A decisão que muda tudo | Deive Leonardo",
+    "score": 10
+  },
+  {
+    "id": "zHNrcNBMXOE",
+    "title": "Cristian Castro Exitos Sus Mejores Canciones | Cristian Castro Sus Grandes Exitos",
+    "score": 10
+  },
+  {
+    "id": "FAXYwMUXfNQ",
+    "title": "Addictive Elements \\u0026 Shyana - Pasion (ft. Mr.Sax)",
+    "score": 10
+  },
+  {
+    "id": "phVebVibvyw",
+    "title": "Pasión",
+    "score": 10
+  },
+  {
+    "id": "7IIZIPtQuW8",
+    "title": "pasion s e letra   arcangel feat daddy yankee",
+    "score": 10
+  },
+  {
+    "id": "mXbRa5Nm6mM",
+    "title": "CRISTIAN CASTRO ft  ALICIA VILLAREAL   -  PASION",
+    "score": 10
+  },
+  {
+    "id": "SMBdQyc4Y-Y",
+    "title": "Olly James \\u0026 LoaX feat. Christina Pasion - Love Again [OUT NOW!]",
+    "score": 10
+  },
+  {
+    "id": "gQS72ts_qJE",
+    "title": "Marco Antonio Solís, Pasión Vega - Como Tu Mujer",
+    "score": 10
+  },
+  {
+    "id": "wAuGk6ej-lU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "X7VuqVd6b-s",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "GS8dii7wTws",
+    "title": "13. ESTILO MEXICANO - Doble ONE ft. @ElKanoOfficial #TALENTODEVIDA",
+    "score": 10
+  },
+  {
+    "id": "WhnSvijDu7A",
+    "title": "Al Estilo Mexicana",
+    "score": 10
+  },
+  {
+    "id": "mnrrgAnP5u8",
+    "title": "Al Estilo Mexicano",
+    "score": 10
+  },
+  {
+    "id": "7JUQLIOz3NU",
+    "title": "Los Viejones de Linares Al Estilo Mexicano",
+    "score": 10
+  },
+  {
+    "id": "kFfRfpkhmTw",
+    "title": "Elmer y Diano (Los Tuexi) - Mexican Style En Vivo (Versión extendida)",
+    "score": 10
+  },
+  {
+    "id": "WSlMQ3ftmuE",
+    "title": "El Estilo Mexicano de Boxeo.",
+    "score": 10
+  },
+  {
+    "id": "6-5BgEdaIzw",
+    "title": "Santa Fe Klan x Cartel de Santa x Aleman x C-Kan – ESTILO MEXICANO Mashup 2026",
+    "score": 10
+  },
+  {
+    "id": "D0O6tA3uXyI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9lgovZ1XdXo",
+    "title": "Estilo Mexicano-Los Amantes De Lo Bueno ft La Herencia",
+    "score": 10
+  },
+  {
+    "id": "w3bAdbL7m5c",
+    "title": "CHAVEZ JR Y OMAR CHAVEZ GANAN Y ESTÁN LISTOS PARA EL TITULO MUNDIAL \\\"PELEAR CONTRA LOS MEJORES\\\"",
+    "score": 10
+  },
+  {
+    "id": "_SsxYguNaX8",
+    "title": "¡TENER TODO ESTO EN CUBA🇨🇺 ES UN MILAGRO😭! CAJA📦 DE PRODUCTOS MEXICANOS🇲🇽 NOS CAMBIA la VIDA😭❤️",
+    "score": 10
+  },
+  {
+    "id": "VBDPcDVJa1M",
+    "title": "January 24, 2026",
+    "score": 10
+  },
+  {
+    "id": "yDTz5sPASqY",
+    "title": "Aquí laten qué laten los ❤️❤️❤️ bailando en Chihuahua ❤️",
+    "score": 10
+  },
+  {
+    "id": "3IuGxbeLjSo",
+    "title": "🚨ULTIMA HORA💥Sorpresa👉CHAVEZ al Borde del RIDICULO👈sacude el mundo del boxeo!🧨noticias de boxeohoy",
+    "score": 10
+  },
+  {
+    "id": "0xbP4d4-ieI",
+    "title": "🔴 TRUMP PROVOCA a CANADÁ Y AMENAZA con INVASION!",
+    "score": 10
+  },
+  {
+    "id": "VatpLQ12FeA",
+    "title": "Las Mejores Recetas con Pollo Para Consentir a la Familia",
+    "score": 10
+  },
+  {
+    "id": "ktyhj4qJsZg",
+    "title": "Al Estilo Mexicano Los Viejones de Linares",
+    "score": 10
+  },
+  {
+    "id": "MwkKtmJgZZw",
+    "title": "Estilo Mexicano",
+    "score": 10
+  },
+  {
+    "id": "x0uOMDH3Zvs",
+    "title": "STYLO MEXICANO (feat. 187 RicKy)",
+    "score": 10
+  },
+  {
+    "id": "u6xOex6hXrQ",
+    "title": "Por Mi Mexico Remix 🇲🇽 - Lefty SM, Santa Fe Klan, Dharius, C-Kan, MC Davo \\u0026 Neto Peña",
+    "score": 10
+  },
+  {
+    "id": "HEi7DYfYIXg",
+    "title": "Al Estilo Mexicano (feat. Big Pokes \\u0026 Talento)",
+    "score": 10
+  },
+  {
+    "id": "fcg_82KgBiM",
+    "title": "Al Estilo Mexicano__Los Tigres del Norte Album Historias que Contar (Año 2006)",
+    "score": 10
+  },
+  {
+    "id": "yeQY_NyuT3E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9zydQSe2erI",
+    "title": "RODOLFO CHANGO CASANOVA",
+    "score": 10
+  },
+  {
+    "id": "u9q73-lE2DE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aQh8Bi3aEm8",
+    "title": "Bryan Adams - Summer of 69 (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "dFLLM_L1hTI",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "1jwq7aSJfd4",
+    "title": "Bryan Adams - Straight From The Heart (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "etlbqxeT6B4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "F9twDtGDBPE",
+    "title": "Tóxica (VIDEO NUEVO) - La India Yuridia #PorqueAsiSoy",
+    "score": 10
+  },
+  {
+    "id": "1f2ZQSjdX5w",
+    "title": "MIS HIJAS vs NIÑA POPULAR! *quien gane será mi hija!*",
+    "score": 10
+  },
+  {
+    "id": "BgMU9Vuj17Y",
+    "title": "EL NUEVO TRABAJO DE PAPÁ LARIN MEJORES VIDEO ALFREDO LARIN HUMOR ",
+    "score": 10
+  },
+  {
+    "id": "irKj2F3Xeq4",
+    "title": "Yailin La Mas Viral - Todos Mienten (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "WjL0sp18T9c",
+    "title": "Jacob Forever - Mi Prioridad (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "zNG_cgZs-FI",
+    "title": "LUNAY X YOVNGCHIMI - NUEVO (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "V-mMFzRpNMY",
+    "title": "JUGAMOS ESCAPA DEL TSUNAMI CON ABRAHAM",
+    "score": 10
+  },
+  {
+    "id": "DzxRajvKfE8",
+    "title": "LOMIIEL, YAILIN LA MAS VIRAL - TU BANDA - ( VIDEO OFICIAL 4K )",
+    "score": 10
+  },
+  {
+    "id": "FmeKvj9ZshA",
+    "title": "LA POLICIA LLEGÓ A MI CASA",
+    "score": 10
+  },
+  {
+    "id": "eX91YpYGxfU",
+    "title": "Circula nuevo video del secuestro de la influencer “La Nicholette\\\" | Noticias con Francisco Zea",
+    "score": 10
+  },
+  {
+    "id": "9kou-GFc26s",
+    "title": "EL ÚLTIMO EN GRITAR GANA! *retos extremos*",
+    "score": 10
+  },
+  {
+    "id": "GdG4EoOAhAs",
+    "title": "EL NIÑO MILLONARIO LE PONE LOS CUERNOS A MI HERMANA! **venganza!**",
+    "score": 10
+  },
+  {
+    "id": "P2rGIFrKRyg",
+    "title": "Abogada argentina DETENIDA en BRASIL: el nuevo VIDEO que podría CAMBIAR EL CASO y complicar al mozo",
+    "score": 10
+  },
+  {
+    "id": "9J64dfnnppI",
+    "title": "MRBEAST ME INVITÓ A UN VIDEO SECRETO ",
+    "score": 10
+  },
+  {
+    "id": "xWOtLHqUWd4",
+    "title": "¡Nuevo video prueba que el asesinato de un manifestante liberal de Minneapolis por parte de un ag...",
+    "score": 10
+  },
+  {
+    "id": "YrzT6tYpK0Q",
+    "title": "HABLÉ CON 404",
+    "score": 10
+  },
+  {
+    "id": "Hm-lBEDrJEc",
+    "title": "Nuevo video El Pato Leo 🔵Videos para niños 🔵 Canciones Infantiles 2024",
+    "score": 10
+  },
+  {
+    "id": "x8ZcZpf54C4",
+    "title": "Los Invasores de Nuevo León - Tal Vez Quiere (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "AsH3yFFmjk0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gU7uQYt87Vo",
+    "title": "Noah - Flaquita (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "ZkhF7T-T4jI",
+    "title": "SI YA NO ME QUIERES \\\"MAGALY TU FLAKITA DEL AMOR\\\" (Video Oficial) 2024",
+    "score": 10
+  },
+  {
+    "id": "KWr8AF6GGLk",
+    "title": "KALAKO PARGA - Mi FLAKITA (El negro)",
+    "score": 10
+  },
+  {
+    "id": "0gIRKd2Rwic",
+    "title": "Marco Mares - Flaquita (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "Oau8iMsI_3U",
+    "title": "NO ERES FELÍZ \\\"MAGALY TU FLAKITA DEL AMOR\\\" (Video Oficial) 2024",
+    "score": 10
+  },
+  {
+    "id": "zh7Fi-gj-fI",
+    "title": "MI FLAQUITA - Diego Villacis DVM (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "YdCfJSEOhw8",
+    "title": "What happened here? The Chinese guy was harassed by another woman during a dance 😳😤‼️",
+    "score": 10
+  },
+  {
+    "id": "lMMzdYlCjW8",
+    "title": "De tal palo tal astilla par de bandidas @quechilero@lucilaylossinar#chapines",
+    "score": 10
+  },
+  {
+    "id": "Z9Vt2OcBeqk",
+    "title": "El marido pateó a su esposa embarazada a la piscina por su amante. Al saber la verdad, se derrumbó.",
+    "score": 10
+  },
+  {
+    "id": "MX86V241zaQ",
+    "title": "Hago ayuda social pero hay gente que ABUSA @BorisJr.1",
+    "score": 10
+  },
+  {
+    "id": "RqAalrjN-mY",
+    "title": "Dos “monjas” robaban en secreto… y la razón te hará llorar",
+    "score": 10
+  },
+  {
+    "id": "7b_9T3aP3-s",
+    "title": "PINKY SHOW - LO HACEN CACHUD0 en SU CUMPLEAÑOS🔥 EXPONIENDO INFIELES",
+    "score": 10
+  },
+  {
+    "id": "FLA4k-5ris8",
+    "title": "The Colocha got mad and left in the middle of the party 😳😱‼️",
+    "score": 10
+  },
+  {
+    "id": "t5D_BZlMfEI",
+    "title": "Her boss fired her for arriving without a shoe, and her life changed forever.",
+    "score": 10
+  },
+  {
+    "id": "_hEoXpaLL5A",
+    "title": "🚨 AHORA SE UNEN TODAS LAS REGIONES RUMBO A LA PLAZA SAN VICENTE DE CAÑETE ",
+    "score": 10
+  },
+  {
+    "id": "QUialgMh2Zo",
+    "title": "🇨🇺Mi Familia estalla de emoción al conocer el TREN MAYA😱México un país del PRIMER MUNDO 🌍 ",
+    "score": 10
+  },
+  {
+    "id": "SxLZapjnDMk",
+    "title": "Kalako - Mi Flakita (Letra)",
+    "score": 10
+  },
+  {
+    "id": "fjMbH_L5FRs",
+    "title": "Cyklon Lara ft. Lokotlan - Flakita (Audio Oficial)",
+    "score": 10
+  },
+  {
+    "id": "Q0eKEW56hs8",
+    "title": "Amor de Casados \\\"MAGALY TU FLAKITA DEL AMOR\\\" (Video Oficial) 2025",
+    "score": 10
+  },
+  {
+    "id": "w7dF2RjFNz8",
+    "title": "No Me Creo La Santa \\\"MAGALY TU FLAKITA DEL AMOR\\\" (Video Oficial) 2025",
+    "score": 10
+  },
+  {
+    "id": "24czxDpTid4",
+    "title": "Flaquita - Maykol , @Wing16 (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "oL_uxn8XaS4",
+    "title": "Te Perdí \\\"MAGALY TU FLAKITA DEL AMOR\\\" (Video Oficial) 2025",
+    "score": 10
+  },
+  {
+    "id": "yxlbaA2Ml3c",
+    "title": "La flaca y la condesa con sus trens",
+    "score": 10
+  },
+  {
+    "id": "wgUyJzYzWuY",
+    "title": "La Flaquita",
+    "score": 10
+  },
+  {
+    "id": "xqv1kt0jSvg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5U0qhg1YtoQ",
+    "title": "Zach Bryan - I Remember Everything (feat. Kacey Musgraves)",
+    "score": 10
+  },
+  {
+    "id": "9EHAo6rEuas",
+    "title": "Bryan Adams - Heaven (Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "mSeaGRL4KOo",
+    "title": "Bryan Adams \\u0026 Friends - California Christmas",
+    "score": 10
+  },
+  {
+    "id": "-hs5Y0IhAeo",
+    "title": "Bryan Adams - Shine A Light",
+    "score": 10
+  },
+  {
+    "id": "h7JmInA5n_s",
+    "title": "Bryan Adams - Run To You",
+    "score": 10
+  },
+  {
+    "id": "0e5U9Jsr6Yw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "W8tSSdSlcCE",
+    "title": "AND MAKING YOU BELIEVE IN",
+    "score": 10
+  },
+  {
+    "id": "ZVVvJjwzl6c",
+    "title": "Zach Bryan - If They Come Lookin'",
+    "score": 10
+  },
+  {
+    "id": "UIjvqFjWVwk",
+    "title": "Bryan Adams and Melanie C - When You're Gone (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "1GVICcxlFZY",
+    "title": "Bryan Adams - When You're Gone ft. Melanie C",
+    "score": 10
+  },
+  {
+    "id": "ALV-QtDFpSw",
+    "title": "Zach Bryan - With Heaven On Top",
+    "score": 10
+  },
+  {
+    "id": "gWezu2yffpE",
+    "title": "🚨NEW! Spatter Expert Report Lays out Kaylee Goncalves and Maddie Mogen's Positions at 1122 King Road",
+    "score": 10
+  },
+  {
+    "id": "WP_80fYMaJY",
+    "title": "Zach Bryan - Something In The Orange",
+    "score": 10
+  },
+  {
+    "id": "lA8F9sIhGdg",
+    "title": "Luke Bryan - Country Song Came On (Official Audio Video)",
+    "score": 10
+  },
+  {
+    "id": "WOCCashLi4Q",
+    "title": "Bryan Adams - When The Night Comes",
+    "score": 10
+  },
+  {
+    "id": "j5GVa1yWYZM",
+    "title": "Bryan Martin - We Ride (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "QlsiUeE8CQc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RqcyqMkb0-c",
+    "title": "Bryan Adams - Summer Of '69 (Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "WujbVB9raAQ",
+    "title": "Heaven - Bryan Adams (Karaoke version)",
+    "score": 10
+  },
+  {
+    "id": "9f06QZCVUHg",
+    "title": "Bryan Adams - Cuts Like A Knife",
+    "score": 10
+  },
+  {
+    "id": "VqhELBUdYqM",
+    "title": "Bryan Adams - When You Love Someone (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "XqxLt5KWDik",
+    "title": "Bryan Adams - Heaven (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "IGVZOLV9SPo",
+    "title": "Bryan Adams - Here I Am (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "W3SwEZ2WoUA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bn3u95kxZ5s",
+    "title": "Omar Apollo covers Sabrina Carpenter’s ‘Please Please Please’ for Like A Version",
+    "score": 10
+  },
+  {
+    "id": "3hc24MkUdhM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Bo-haQPYFYA",
+    "title": "Payphone - Maroon 5 / No Rap Version (Lyrics) \\\"Please don't go so i can tell you what you need\\\"",
+    "score": 10
+  },
+  {
+    "id": "d-9JdkLLIGA",
+    "title": "Bryan Adams - Please Forgive Me (Radio Version)",
+    "score": 10
+  },
+  {
+    "id": "7x8wPt8xarE",
+    "title": "Cool Cut - Please Let Me Know (long version)",
+    "score": 10
+  },
+  {
+    "id": "MCUg05HHHkU",
+    "title": "Please, Please, Please | Epic Version | OC ANIMATIC",
+    "score": 10
+  },
+  {
+    "id": "LIxcrJFZEQg",
+    "title": "Please Forgive Me - Bryan Adams ft DJ John Paul REGGAE Version",
+    "score": 10
+  },
+  {
+    "id": "CAAvPYwG65w",
+    "title": "Eagles - Please Come Home For Christmas (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "7SijJ1RaElo",
+    "title": "INDONESIAN NAKATIRA SA LUMANG LANSTA ",
+    "score": 10
+  },
+  {
+    "id": "BopdDKhAj0k",
+    "title": "URGENT! RIGATHI ISSUES STATEMENT AFTER RUTO'S ASSASINATION ATEMPT ON HIS PERSON!",
+    "score": 10
+  },
+  {
+    "id": "3C-U6jIMSPs",
+    "title": "【R\\u0026B Soul】Relaxing Chill Playlist – Soulful Vocals \\u0026 Deep Grooves | Groove Engine",
+    "score": 10
+  },
+  {
+    "id": "7ZdXXK08H8E",
+    "title": "JORNAL DA MANHÃ  - 2° EDIÇÃO - 26/01/26",
+    "score": 10
+  },
+  {
+    "id": "8PWSUQrL_0Y",
+    "title": "Nagpanggap na katulong ang CEO para protektahan siya 🛡️",
+    "score": 10
+  },
+  {
+    "id": "gyS4PtsfAe4",
+    "title": "MARCOLETA HINAMON SI LACSON NG DEBATE SA PAGBASURA SA MINORITY REPORT",
+    "score": 10
+  },
+  {
+    "id": "ZJnz1yKK1OE",
+    "title": "Agenda | January 26, 2026",
+    "score": 10
+  },
+  {
+    "id": "IjogA5ZNr-M",
+    "title": "'Pinaka kontrabida!' Hontiveros blasts China anew over WPS claims | ABS-CBN News",
+    "score": 10
+  },
+  {
+    "id": "f2csgUbbl2A",
+    "title": "WALA KAMING KA PERA PERA SIR ",
+    "score": 10
+  },
+  {
+    "id": "JJNitYmF0vs",
+    "title": "Please Please Please (Clean Version) - Sabrina Carpenter (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "z9QJISTsUjI",
+    "title": "PLEASE LOVE ME NOW [ karaoke version ] popularized by EDDIE PEREGRINA",
+    "score": 10
+  },
+  {
+    "id": "o0X1IdKGAX0",
+    "title": "Dengarkan Curhatku - Vierra Cover (English Version - Please listen to my words)",
+    "score": 10
+  },
+  {
+    "id": "LQJ6tWABY8Y",
+    "title": "Crossover stampede green screen katraja version please @Katraja ",
+    "score": 10
+  },
+  {
+    "id": "kSRNpFP7MBM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HOry6uFWLW0",
+    "title": "Morí - Tranzas (Letra)",
+    "score": 10
+  },
+  {
+    "id": "Qk99GhtyqpE",
+    "title": "Morí",
+    "score": 10
+  },
+  {
+    "id": "dFhf8Qa2aC0",
+    "title": "El juego del amor (con letra) tranzas",
+    "score": 10
+  },
+  {
+    "id": "LVPv0j4jULA",
+    "title": "Dile | Tranzas (Letra)",
+    "score": 10
+  },
+  {
+    "id": "NIQA5XYZm-E",
+    "title": "Y Preguntas Por Mi   ( Tranzas )",
+    "score": 10
+  },
+  {
+    "id": "8uwG159QRPY",
+    "title": "Si volvieras",
+    "score": 10
+  },
+  {
+    "id": "jVIm_Qc1QCM",
+    "title": "El juego - Tranzas",
+    "score": 10
+  },
+  {
+    "id": "dLsjZFrdNW0",
+    "title": "La Cafeteria Bolivia - 26 de Enero 2026",
+    "score": 10
+  },
+  {
+    "id": "EfLr-iK5Qek",
+    "title": "#Desayuno EN VIVO",
+    "score": 10
+  },
+  {
+    "id": "pw0_v5MOyxo",
+    "title": "Un Nuevo Amor- Tranzas- Letra",
+    "score": 10
+  },
+  {
+    "id": "THW4dTNWuus",
+    "title": "Un Nuevo Amor (Concierto)",
+    "score": 10
+  },
+  {
+    "id": "5qLTJkNNdQA",
+    "title": "Morí",
+    "score": 10
+  },
+  {
+    "id": "Nx3-l9cVxwc",
+    "title": "Gianluca Grignani - Mi Historia Entre Tus Dedos (1995) [ESP/ITA/CHI/ENG - CC]",
+    "score": 10
+  },
+  {
+    "id": "F-4-IbK5-p4",
+    "title": "Dime si recuerdas - Tranzas (letra)",
+    "score": 10
+  },
+  {
+    "id": "B0awRKJfCV0",
+    "title": "Por siempre. Tranzas. Letra.",
+    "score": 10
+  },
+  {
+    "id": "H9Ylonqs0y8",
+    "title": "Ella Se Fue - Tranzas (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "FfZtbTTqfrI",
+    "title": "Por siempre",
+    "score": 10
+  },
+  {
+    "id": "_liLyrZY3es",
+    "title": "Dime si recuerdas | Tranzas [Letra]",
+    "score": 10
+  },
+  {
+    "id": "iZs3NrDvYCg",
+    "title": "Un NUEVO Amor / Mori 🥰 - Tranzas [Video Oficial]",
+    "score": 10
+  },
+  {
+    "id": "qvWYh0mf4gU",
+    "title": "Por siempre",
+    "score": 10
+  },
+  {
+    "id": "cMmy66uJwtY",
+    "title": "Tranzas - Mori (Letra)",
+    "score": 10
+  },
+  {
+    "id": "uLkUEZrT23w",
+    "title": "Seguir de Pie - Tranzas",
+    "score": 10
+  },
+  {
+    "id": "xURxGWLffzM",
+    "title": "Tranzas - Parte de ti",
+    "score": 10
+  },
+  {
+    "id": "gUFtTPPVX54",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cE-Ic-q5cpo",
+    "title": "This trash-picked Bose radio has a NASTY surprise",
+    "score": 10
+  },
+  {
+    "id": "6dgzHIdx25w",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "u-SC8I0HE_g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "LUEUExmbEl4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "a_NyV5jsUsw",
+    "title": "I bought the CHEAPEST Game Boy screen from AliExpress...",
+    "score": 10
+  },
+  {
+    "id": "AhZaKGe7snk",
+    "title": "Fixing this JBL speaker's one STUPID design flaw",
+    "score": 10
+  },
+  {
+    "id": "mTApvqVAlw4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "IE-yWfkWv_A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KMWHCQaZm8Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HlUHWt1OQv4",
+    "title": "A big-ass, beautiful monitor",
+    "score": 10
+  },
+  {
+    "id": "zho0Vm7dnb8",
+    "title": "I can’t take it off…😳💎 literally how I felt after spending 15 hours on this look😅",
+    "score": 10
+  },
+  {
+    "id": "T2rcG1bKjmE",
+    "title": "this does not mama the mia",
+    "score": 10
+  },
+  {
+    "id": "nD5bPg2zRf4",
+    "title": "This does not mama the mia #silly #animation #animationmeme #meme",
+    "score": 10
+  },
+  {
+    "id": "-YdmeluCorE",
+    "title": "I bought the CHEAPEST Game Boy screen from AliExpress...",
+    "score": 10
+  },
+  {
+    "id": "mAIec1Z-2Hw",
+    "title": "This Does Not Go Together  // Detox Part. 5 // Dr. Dharius Daniels",
+    "score": 10
+  },
+  {
+    "id": "kcpYY9DR060",
+    "title": "WARNING: THIS CONTAINS FLASHING IMAGES AND LIGHTS Another Sneakpeek",
+    "score": 10
+  },
+  {
+    "id": "X6KREDfq2pI",
+    "title": "This Winter Pattern Is About To Get WAY Worse...",
+    "score": 10
+  },
+  {
+    "id": "Dky-83PiTgA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b_37yiSi9k0",
+    "title": "He Exposed Me...",
+    "score": 10
+  },
+  {
+    "id": "ufkmP1MoMNY",
+    "title": "Escape Tsunami For Brianrots But Its MODDED..",
+    "score": 10
+  },
+  {
+    "id": "EbzMs0BrRTk",
+    "title": "Undertale, but Every Boss Chases You",
+    "score": 10
+  },
+  {
+    "id": "p3cVDDNK4QI",
+    "title": "Which part do you like?😂😂😂New Meme Remix",
+    "score": 10
+  },
+  {
+    "id": "7hRSzk8jPR4",
+    "title": "We Just Discovered Why Light Does This",
+    "score": 10
+  },
+  {
+    "id": "CZ-Z2oebuAY",
+    "title": "Daddy Always Does This!",
+    "score": 10
+  },
+  {
+    "id": "-wkD9eDceqo",
+    "title": "New Constellations - Does It Feel Like This? (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "MalWfpG5o8w",
+    "title": "[Vinesauce] Vinny - This Does Not Exist",
+    "score": 10
+  },
+  {
+    "id": "vSFpTDodN_g",
+    "title": "This Person Does Not Exist",
+    "score": 10
+  },
+  {
+    "id": "NNxoJA9Hvqo",
+    "title": "This Cat Does Not Exist",
+    "score": 10
+  },
+  {
+    "id": "BkdbDoqCwoc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QeVJM_c27sY",
+    "title": "Alan walker, ke personajes,Grupo Sagrado Amor Nuevo (Style Walker Rwmix 2026) LYRIC-LETRAS",
+    "score": 10
+  },
+  {
+    "id": "gfwbwradl_o",
+    "title": "Amor Nuevo",
+    "score": 10
+  },
+  {
+    "id": "V7onIkU8u68",
+    "title": "Banda Pequeños Musical - Nuevo Amor (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "fS9TL4_1Trc",
+    "title": "Pequeños Musical - Nuevo Amor ft. Cuitla Vega",
+    "score": 10
+  },
+  {
+    "id": "OmKAn8rNbKg",
+    "title": "Los Cardenales de Nuevo Leon - Mi nuevo amor",
+    "score": 10
+  },
+  {
+    "id": "K3G0fSAlFqA",
+    "title": "Un Amor Nuevo - Arelys Henao (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "i-8qaURPles",
+    "title": "Imposible Amor",
+    "score": 10
+  },
+  {
+    "id": "aWC60XGOtAI",
+    "title": "Amor Imposible (Style Alan Walker x Ava Max) Feat. Grupo Amor y Pasion 2026",
+    "score": 10
+  },
+  {
+    "id": "UOI7qUphagw",
+    "title": "Imposible Amor - Frankie ruiz",
+    "score": 10
+  },
+  {
+    "id": "YncdB272oM0",
+    "title": "Imposible Amor. Frankie Ruiz",
+    "score": 10
+  },
+  {
+    "id": "fg6RYvhNJ5E",
+    "title": "“Amor Imposible 💔 La balada que te hará recordar lo que nunca pudo ser”",
+    "score": 10
+  },
+  {
+    "id": "wDmPCM93jeE",
+    "title": "Jory Boy  - Imposible Amor [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "2KP-70_fCv4",
+    "title": "Adrián y Anita bailan⁠ Imposible Amor - Frankie Ruiz",
+    "score": 10
+  },
+  {
+    "id": "ZaGzeJ_mIEc",
+    "title": "Matisse - \\\"Imposible Amor\\\" (Auditorio Nacional, México)",
+    "score": 10
+  },
+  {
+    "id": "THvQcDpJYLA",
+    "title": "Imposible Amor - Josefina Ñahuis",
+    "score": 10
+  },
+  {
+    "id": "BSC8QEwQv3Y",
+    "title": "IMPOSIBLE AMOR - Frankie Ruiz vídeo inédito  #lomejordelasalsaromantica #salsa #salsadesiempre",
+    "score": 10
+  },
+  {
+    "id": "zMjJw3edV9w",
+    "title": "Matisse, Guaynaa - Imposible Amor (Letra/Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "GrZHsjk43k4",
+    "title": "Amor Imposible",
+    "score": 10
+  },
+  {
+    "id": "ae56ooVbCEg",
+    "title": "Amor Imposible – Alan Walker Style | Emotional EDM Cover",
+    "score": 10
+  },
+  {
+    "id": "IrBFEG4UjnA",
+    "title": "Amor Imposible – Alan Walker Style | Emotional EDM Cover",
+    "score": 10
+  },
+  {
+    "id": "oe9AtiP1sSw",
+    "title": "Capítulo 1",
+    "score": 10
+  },
+  {
+    "id": "XMTa8DoDuMw",
+    "title": "Alan Walker _Noche Sin Fin_ (Style Walker Remix 2026)",
+    "score": 10
+  },
+  {
+    "id": "18k2mw6Ljls",
+    "title": "Amor Imposible",
+    "score": 10
+  },
+  {
+    "id": "rpDt2Wuox3c",
+    "title": "Yiyo Sarante - Corazòn de Acero (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "RUV55lGPGaY",
+    "title": "Alan Walker Style - Porque seras asi | Maya Valente - Clavito y su Chela",
+    "score": 10
+  },
+  {
+    "id": "JptHlwUk9wc",
+    "title": "Star x Marco - Imposible - (Spanish version) - AMV (Starco)♥",
+    "score": 10
+  },
+  {
+    "id": "7jS4GdPQefQ",
+    "title": "Matisse, Cristian Castro - Conmigo Sin Ti (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "ogWtQHpUheQ",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How Do I Use Advanced Search Filters?",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Power Apps Search and Filter Function with SharePoint + Workarounds",
+    "score": 10
+  },
+  {
+    "id": "lYi24okXDPs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lWmYkZz946Y",
+    "title": "Starting soon",
+    "score": 10
+  },
+  {
+    "id": "jlGxxbwuGE0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "p0sc1M7FDww",
+    "title": "ESE AMOR - Dj Pax Remix - AFRO 2016",
+    "score": 10
+  },
+  {
+    "id": "pvSwjsgfJYA",
+    "title": "Dylan Linde - More Amor Por Favor (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "Pc00Ll45nJU",
+    "title": "Fercho Pargas, YilberKing, Nico Parga - Samba É Amor (Original Intro Mix)",
+    "score": 10
+  },
+  {
+    "id": "Re9cTaNmBlY",
+    "title": "El Afro Es Vida Set ❤️💊(@DjAlejandroElKING ) #afrohouse #venezuela #ElAfroesvida",
+    "score": 10
+  },
+  {
+    "id": "ioxDuCZRsLs",
+    "title": "Afro Lloraras Por Mi (Amor Amor)",
+    "score": 10
+  },
+  {
+    "id": "pdTP7kfY0WU",
+    "title": "AfroHouse /‪‪‪ Amor - ‪@AaronSevilla  ‪@TOMENZY ‬ Alba Dreid (Radio Edit)",
+    "score": 10
+  },
+  {
+    "id": "c4lt--N-5Ao",
+    "title": "Yamore",
+    "score": 10
+  },
+  {
+    "id": "k0VTlGucows",
+    "title": "Melody Mecca - Amor",
+    "score": 10
+  },
+  {
+    "id": "frHVcDxMUEk",
+    "title": "KÖNI, LIONS IN THE WILD, AVILLA - OTRO AMOR [Afro House / Latin House]",
+    "score": 10
+  },
+  {
+    "id": "7jlyJ2bvfWQ",
+    "title": "Zeia - Meu Amor  (Afro House \\u0026 Tropical Love)",
+    "score": 10
+  },
+  {
+    "id": "s50guB0Bez8",
+    "title": "(SOLD) Afro Drill x Brazilian Funk Type Beat 2024 - \\\"AMOR\\\"",
+    "score": 10
+  },
+  {
+    "id": "YDR7K-m81KI",
+    "title": "Afro 2025 《Samba E amor》Afro 2.0... Dj Daniel Márquez producen",
+    "score": 10
+  },
+  {
+    "id": "DPLLrqvq3Fs",
+    "title": "Juan Montaño-por AMOR AL AFRO 🔥",
+    "score": 10
+  },
+  {
+    "id": "FpApStelAUc",
+    "title": "AFRO 2015 - AMOR E' AMOR - Dj Pax Remix",
+    "score": 10
+  },
+  {
+    "id": "LWV2O8Hy8hA",
+    "title": "El Amor - Benedetti Version DJ CHEKO507",
+    "score": 10
+  },
+  {
+    "id": "5cVs0HsWOaA",
+    "title": "Sef Kombo \\u0026 Kitty Amor afro house set @ Grow, east London",
+    "score": 10
+  },
+  {
+    "id": "L6kcSY2XKUo",
+    "title": "Bad Bunny, Chencho Corleone - Me Porto Bonito (AMOR Remix) [Afro House]",
+    "score": 10
+  },
+  {
+    "id": "gct5ZWyT_8E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PMOZsMkc0ug",
+    "title": "Los Palominos - Te Seguire (Video)",
+    "score": 10
+  },
+  {
+    "id": "bzvp_C13Las",
+    "title": "Grupo Seguire - Mi Nuevo Amor (Video Oficial - Cover)",
+    "score": 10
+  },
+  {
+    "id": "Y84mBv_zQGY",
+    "title": "Te seguiré (Llamado al corazón) | Adveniat Banda Católica",
+    "score": 10
+  },
+  {
+    "id": "DaS_TN1qygg",
+    "title": "Nueva Vida - Grupo Seguire (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "6Ri2Z8h0cx8",
+    "title": "ZONA GANJAH - SEGUIRÉ AVANZANDO | Video Clip 2018",
+    "score": 10
+  },
+  {
+    "id": "n89yOVH2pvE",
+    "title": "Grupo Seguire - Heme Aqui - (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "1-hjiwuZKBs",
+    "title": "Lani Hall - Te seguiré",
+    "score": 10
+  },
+  {
+    "id": "ZKM7pkfHcKE",
+    "title": "YO TE SEGUIRE - Video Lyrics",
+    "score": 10
+  },
+  {
+    "id": "u_nu0Szgl0E",
+    "title": "YO TE SEGUIRE Video Oficial - Maria de Ailon",
+    "score": 10
+  },
+  {
+    "id": "jW6xSQRcvEE",
+    "title": "Yo Te Seguire - Grupo Seguire - (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "aUFm5wrh53Q",
+    "title": "TE SEGUIRÉ // FERNANDA SABINA  FT MAYNOR MORALES //VIDEO  OFICIAL",
+    "score": 10
+  },
+  {
+    "id": "BWApdtOJ6-I",
+    "title": "La canción más emotiva | Seguiré por tí",
+    "score": 10
+  },
+  {
+    "id": "FwOqf5i8KiU",
+    "title": "Carin Leon Ft. Oscar Hurtado - Te Seguire Queriendo (2 plebes y tuba de oro) [PALOMAZO TIME]",
+    "score": 10
+  },
+  {
+    "id": "HpxXIOLiIDs",
+    "title": "Julio Iglesias - Seguire Mi Camino",
+    "score": 10
+  },
+  {
+    "id": "5mqadLTSkRI",
+    "title": "Athenas - Te Seguiré (Video Lyric Oficial) - MÚSICA CATÓLICA",
+    "score": 10
+  },
+  {
+    "id": "8Vs56VrmRRk",
+    "title": "Intocable -Yo Seguire ( Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "vpUKhO1VPfk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GB2yiIoEtXw",
+    "title": "Disco Music 70s - Video Mix",
+    "score": 10
+  },
+  {
+    "id": "TsuVAQkfCes",
+    "title": "Mamma Mia - Abba",
+    "score": 10
+  },
+  {
+    "id": "y4lbxocj0Cg",
+    "title": "Old school R\\u0026B VIDEO MIX 2024| BEST HITS 90s  \\u0026 2000 DJ LISNEY Akon, Rihanna, Usher, Ne YO, Nelly,",
+    "score": 10
+  },
+  {
+    "id": "Ra1yHDcJygY",
+    "title": "OLD CLASSIC SLOWS NON STOP VIDEOMIX BY DJ Zero Pro UG",
+    "score": 10
+  },
+  {
+    "id": "CQIYbytAyVQ",
+    "title": "High School Musical Cast - We're All In This Together (From \\\"High School Musical\\\")",
+    "score": 10
+  },
+  {
+    "id": "1O9Q78GiAxY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "U4aduF-LccM",
+    "title": "Alan Walker - Amor Inmenso _ (Oficial Video)",
+    "score": 10
+  },
+  {
+    "id": "VNqF5REZnYo",
+    "title": "Alan walker, ke personajes,Grupo Sagrado Amor Nuevo (Style Walker Rwmix 2026) LYRIC-LETRAS",
+    "score": 10
+  },
+  {
+    "id": "Y_2Du-4uS1s",
+    "title": "AMOR IMPOSIBLE - ALAN WALKER Feat. GRUPO AMOR Y PASION (Style Alan Walker Version II )",
+    "score": 10
+  },
+  {
+    "id": "dhYOPzcsbGM",
+    "title": "Alan Walker - Amor Nuevo Ft.Ke Personajes \\u0026 Grupo Sagrado (Style Walker Remix 2026)",
+    "score": 10
+  },
+  {
+    "id": "LBmDcxmj4FY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1KKy7V5dmJU",
+    "title": "Bryan Adams - Please Forgive Me (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "iGRcQPpoBy8",
+    "title": "Angels And Alcohol",
+    "score": 10
+  },
+  {
+    "id": "OTGLqIdgHdM",
+    "title": "Alan Walker _Noche Sin Fin_ (Style Walker Remix 2026)",
+    "score": 10
+  },
+  {
+    "id": "yAJYbZiLDdE",
+    "title": "ALZATE \\u0026 DARÍO GÓMEZ - Copita de Licor (Video Oficial) 🥃",
+    "score": 10
+  },
+  {
+    "id": "01lftK-dH20",
+    "title": "DÚO ENCANTOS - Maldito Licor - vídeo oficial - Tarpuy producciones",
+    "score": 10
+  },
+  {
+    "id": "d5EH2mXcxCg",
+    "title": "Sauceda SM x Lefty SM - Señorita Licor",
+    "score": 10
+  },
+  {
+    "id": "n2SxOlf1wNI",
+    "title": "Alan Walker, Dúo Encantos - Maldito Licor (Style Walker Remix 2026)",
+    "score": 10
+  },
+  {
+    "id": "TnmVBCX8FDk",
+    "title": "Mix Alan Walker, Amor Nuevo, Maldito Licor, Quisiera irme Lejos, Quiero ser tu corazon, (Dj Naldo)",
+    "score": 10
+  },
+  {
+    "id": "zFj2fu-tBmg",
+    "title": "Alan Walker Style Maldito Licor Remix 2026 | #remix #alanwalker #electronic",
+    "score": 10
+  },
+  {
+    "id": "PD6IsXSgd00",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZwDf-NMnUPA",
+    "title": "Bryan Adams - Heaven (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "ofA3URC1wyk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8inug0w8sXI",
+    "title": "Music Mix 2026 #11 Party Club Dance 2026 | Best Remixes Of Popular Songs 2025 MEGAMIX (DJ Silviu M)",
+    "score": 10
+  },
+  {
+    "id": "Q_wZoPerKWI",
+    "title": "Mega Hits 2025 🌱 The Best Of Vocal Deep House Music Mix 2025 🌱 Summer Music Mix 2025 #4",
+    "score": 10
+  },
+  {
+    "id": "N6DW31S_oyI",
+    "title": "1. Avicii ft Aloe Blacc - SOS (Pascal Junior Remix)",
+    "score": 10
+  },
+  {
+    "id": "grVo2HQiMlM",
+    "title": "Top EDM Music Mix 2026 🎧EDM Mix of Popular Songs 2026 🎧Top EDM Tracks of 2026 #4",
+    "score": 10
+  },
+  {
+    "id": "Un7-nxYiCrI",
+    "title": "BASS BOOSTED SONGS 2026 🔈 CAR MUSIC 2026 🔈 BASS MUSIC",
+    "score": 10
+  },
+  {
+    "id": "-nHC8jYLTAQ",
+    "title": "Stereo Love (Coopex \\u0026 Donovan's Playground \\u0026 Lujavo \\u0026 Britt Lari Cover)",
+    "score": 10
+  },
+  {
+    "id": "sBJT1BpOcvg",
+    "title": "Its feining for more 😩😩😩💀 #dj #djmashup #djtransition #remix #fein #travisscott",
+    "score": 10
+  },
+  {
+    "id": "bJOcbV9YuqI",
+    "title": "26 January Full Songs 💞 Dj Remix Songs 💞26 January Special Dj Song💞 Desh Bhakti All Dj Song 💞Vishal",
+    "score": 10
+  },
+  {
+    "id": "oJoHqP-YBNI",
+    "title": "Maa Tujhe SalamDj Remx",
+    "score": 10
+  },
+  {
+    "id": "mFPur_EP8j4",
+    "title": "Music Mix 2026 #9 Party Club Dance 2026 | Best Remixes Of Popular Songs 2025 MEGAMIX (DJ Silviu M)",
+    "score": 10
+  },
+  {
+    "id": "loeRzRrMwLM",
+    "title": "DJ Music Mix 2025 | PARTY REMIX NEW YEAR COUNTDOWN NONSTOP Best Party Songs Club Mashup DJ Jesstony",
+    "score": 10
+  },
+  {
+    "id": "K_F9gkBYAFk",
+    "title": "NEW YEAR MIX 2026",
+    "score": 10
+  },
+  {
+    "id": "ZyzAVY2cZgQ",
+    "title": "DJ SONG 2026 – Disco Remix Nonstop New Songs | DJ Party Music 2025",
+    "score": 10
+  },
+  {
+    "id": "sTmgaP2gYsk",
+    "title": "EQRIC \\u0026 JOZUA \\u0026 Robbe - Tik Tok",
+    "score": 10
+  },
+  {
+    "id": "ix2g4h139Fs",
+    "title": "Bryan Adams - Straight From The Heart (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "jbm8o03novk",
+    "title": "MKTO - Classic (Acoustic Version)",
+    "score": 10
+  },
+  {
+    "id": "Dmts2jxBlnQ",
+    "title": "Bryan Adams - Please Forgive Me (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "g7ULu0wCHt4",
+    "title": "Classic WoW In 2026 - CHANGES Are Coming! | World of Warcraft",
+    "score": 10
+  },
+  {
+    "id": "gprg0RCHJao",
+    "title": "What Version of Classic WoW Should YOU Play in 2025?",
+    "score": 10
+  },
+  {
+    "id": "hcDlSdxmV8w",
+    "title": "Bryan Adams and Melanie C - When You're Gone (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "wB4fLBULvdE",
+    "title": "Blizzard NEVER Gave Us The BEST Version of Classic WoW",
+    "score": 10
+  },
+  {
+    "id": "5aV38sXV3xg",
+    "title": "Bryan Adams - Here I Am (Classic Version)",
+    "score": 10
+  },
+  {
+    "id": "PwjwthQsQkw",
+    "title": "Sugar Sugar (2026 Cover Version) – Classic Pop Revival",
+    "score": 10
+  },
+  {
+    "id": "gwhPz949Cx0",
+    "title": "20 Classic Cars Up for Sale cheaply by Owners !!",
+    "score": 10
+  },
+  {
+    "id": "KBlTLf2jdzE",
+    "title": "Survivor - Eye of the Tiger ( Classical Rock AI Cover) [BEST VERSION]",
+    "score": 10
+  },
+  {
+    "id": "II9vr9HT9jQ",
+    "title": "HQ FLAC   RUSH  -  TREES   BEST VERSION CLASSIC ROCK SUPER ENHANCED AUDIO \\u0026 LYRICS",
+    "score": 10
+  },
+  {
+    "id": "q5VuEdyeM1M",
+    "title": "The Return of Mr Bean | Episode 2 | Widescreen Version | Classic Mr Bean",
+    "score": 10
+  },
+  {
+    "id": "RyHo15EyGcE",
+    "title": "HQ FLAC  CHRISTOPHER CROSS  - SAILING  Best Version SUPER ENHANCED AUDIO CLASSIC ROCK LYRICS",
+    "score": 10
+  },
+  {
+    "id": "EOncCn4313E",
+    "title": "Retail VS Classic | which version of WoW should you play in 2025?",
+    "score": 10
+  },
+  {
+    "id": "qFkCHQaVhOE",
+    "title": "the two versions of WoW",
+    "score": 10
+  },
+  {
+    "id": "LhfEyv7_etY",
+    "title": "Un Nuevo Amor - Douglas Bastidas - Autores en Vivo",
+    "score": 10
+  },
+  {
+    "id": "I1tnJBD218I",
+    "title": "Tranzas - Un nuevo amor (Audio) (Remasterizado)",
+    "score": 10
+  },
+  {
+    "id": "pB4ls9XaSc0",
+    "title": "tranzas - el juego del amor",
+    "score": 10
+  },
+  {
+    "id": "bgfzP51ufv4",
+    "title": "Tranzas - lo que no pude decir",
+    "score": 10
+  },
+  {
+    "id": "gI51dlvt5jM",
+    "title": "dile - TRANZAS - dile",
+    "score": 10
+  },
+  {
+    "id": "fp16CKQqMAA",
+    "title": "Debes Buscarte Un Nuevo Amor - Tranzas (con letra)",
+    "score": 10
+  },
+  {
+    "id": "xUg2gipER2I",
+    "title": "Reyli Barba - Amor del Bueno (Video)",
+    "score": 10
+  },
+  {
+    "id": "FUinZg5MC5U",
+    "title": "Juanes - Para Tu Amor",
+    "score": 10
+  },
+  {
+    "id": "yWkQbrfSvfs",
+    "title": "Dime si recuerdas - Tranzas (letra)",
+    "score": 10
+  },
+  {
+    "id": "SLKa-q2onxs",
+    "title": "Tranzas - Dime si recuerdas   [  HD  ]",
+    "score": 10
+  },
+  {
+    "id": "57knlBKAlDY",
+    "title": "Debes buscarte un nuevo amor : Tranzas (audio original)",
+    "score": 10
+  },
+  {
+    "id": "oaMZn9EovxU",
+    "title": "Tranzas - Un Nuevo Amor (Versión Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "n3bUNtdSKjo",
+    "title": "Tranzas - Juego (Version Balada)",
+    "score": 10
+  },
+  {
+    "id": "rAATsr0x2ic",
+    "title": "Debes Buscarte un Nuevo Amor - Tranzas (Cover)",
+    "score": 10
+  },
+  {
+    "id": "a0exHK08Pq0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JRB375xLSfQ",
+    "title": "Rauw Alejandro - Amar De Nuevo (Reggaeton Versión)",
+    "score": 10
+  },
+  {
+    "id": "8_RJqkS1hkY",
+    "title": "Rauw Alejandro - Amar de Nuevo | Letra",
+    "score": 10
+  },
+  {
+    "id": "XtATeN4-f88",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra/Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "MCvpZBn4Cjk",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra)",
+    "score": 10
+  },
+  {
+    "id": "dPNimpZfAvY",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra)",
+    "score": 10
+  },
+  {
+    "id": "SWuX-YLfr8g",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra/Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rYfvsfFEw-Y",
+    "title": "Rauw Alejandro – Amar De Nuevo [Letra]",
+    "score": 10
+  },
+  {
+    "id": "x6Ahmohimns",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra/Lyrics) | cuando tú estás cerca de mí se siente bien",
+    "score": 10
+  },
+  {
+    "id": "ulgDtkwnKtc",
+    "title": "Rauw Alejandro - Aquel Nap ZzZz - 432 hertz",
+    "score": 10
+  },
+  {
+    "id": "dlF2TFEtFD8",
+    "title": "Marc Seguí - Tiroteo Remix ft. Rauw Alejandro y Pol Granch (letra)",
+    "score": 10
+  },
+  {
+    "id": "_oELcBpH1gg",
+    "title": "Rauw Alejandro - Desenfocao'",
+    "score": 10
+  },
+  {
+    "id": "9wzl8J91BSA",
+    "title": "Al Mismo Tiempo",
+    "score": 10
+  },
+  {
+    "id": "WZQf4c3F3kA",
+    "title": "Marc Seguí - Tiroteo Remix ft. Rauw Alejandro y Pol Granch (Videoclip Oficial)",
+    "score": 10
+  },
+  {
+    "id": "OajhPIFvusk",
+    "title": "Rauw Alejandro - Amar de Nuevo ( Cosa Nuestra Tour Studio Version )",
+    "score": 10
+  },
+  {
+    "id": "_u0SwSgN52A",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra/Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "Y-powGVgUXU",
+    "title": "Rauw Alejandro - Amar De Nuevo (slowed + reverb)",
+    "score": 10
+  },
+  {
+    "id": "lsKwDJmZfjA",
+    "title": "Rauw Alejandro - Amar De Nuevo (LETRA)",
+    "score": 10
+  },
+  {
+    "id": "lDMDjxH0vsg",
+    "title": "Rauw Alejandro - Amar De Nuevo (Letra)",
+    "score": 10
+  },
+  {
+    "id": "oQ8QhbLV0AA",
+    "title": "Rauw Alejandro - Amar de nuevo (Reverb + Slowed To Perfection)",
+    "score": 10
+  },
+  {
+    "id": "tPpgroEsL8g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Y0Z4MNyCbwY",
+    "title": "Neton Vega Mix 2025 | BEST OF NETON VEGA MIX",
+    "score": 10
+  },
+  {
+    "id": "BCC6ov1pwao",
+    "title": "Morena – Neton Vega, Peso Pluma",
+    "score": 10
+  },
+  {
+    "id": "AADQ9gRTFJc",
+    "title": "Neton Vega - Montate (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "9KwEirLMefU",
+    "title": "Neton Vega - Lentes (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "FENtQJ7Pwl0",
+    "title": "Neton Vega - Desvelaos (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "PRCjAvZj8SA",
+    "title": "Neton Vega - 3 Dias + (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "MSW2goumi28",
+    "title": "Neton Vega - Que Motor (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "fle1bEo0TyY",
+    "title": "Neton Vega, Peso Pluma - Morena (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "O0DgxEW0vGQ",
+    "title": "Neton Vega - Pvta Luna (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "jbmEJxPMnR4",
+    "title": "Neton Vega - 3 (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "2_IsXL2SzDY",
+    "title": "Neton Vega - Mi Vida Mi Muerte (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "Xs31-zaz5dc",
+    "title": "Luis Vega - INSUPERABLE (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "B0ktT_n7oUg",
+    "title": "Neton Vega - Pvta Luna",
+    "score": 10
+  },
+  {
+    "id": "zVVMeer_WYk",
+    "title": "Neton Vega - Loco (Video Lyric)",
+    "score": 10
+  },
+  {
+    "id": "HDl0r2xJ7uE",
+    "title": "Chino Pacas, Neton Vega - FLOTA [Video Oficial]",
+    "score": 10
+  },
+  {
+    "id": "1mp985NCQ54",
+    "title": "Quiero Cantarte A Ti - Chuy Vega Ft. Miguel Vega \\\"En Vivo\\\"",
+    "score": 10
+  },
+  {
+    "id": "DQ0gmaQ0SMM",
+    "title": "El Michoacano - Neton Vega Ft Luis R Conriquez ( 2025 )",
+    "score": 10
+  },
+  {
+    "id": "8H9qI27ThD8",
+    "title": "Neton Vega - M\\u0026M (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "FkJQf0q2Ae8",
+    "title": "Search filters",
+    "score": 10
+  }
+]

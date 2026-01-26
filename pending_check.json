@@ -1,1 +1,3117 @@
-[]
+[
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "מדריך פייתון - 19 - לולאות while",
+    "score": 110
+  },
+  {
+    "id": "yBCNY__d4ic",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "GUW_nCnrnyw",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "liBRL6Hov-Y",
+    "title": "כיצד פועלים מנועי מכוניות? מבט מקרוב על הפרטים המורכבים של מנוע",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך פועל מנוע דיזל (4 פעימות)",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "K9rUv7YMaqM",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "nt09P1sDVb8",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "v62jMY6-CqQ",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "h1fQY3v4mKk",
+    "title": "4+ HOURS of Ancient Mysteries Science Can’t Explain",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "World War II Part 1: Crash Course US History #35",
+    "score": 50
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "The ENTIRE History of WORLD WAR 2 |  Full WWII Documentary | Fall Asleep To",
+    "score": 50
+  },
+  {
+    "id": "TzOwDjygbYk",
+    "title": "How to Scrap small Copper Transformers  \"},{\"text\":\"#scrapping\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CL0CENbKAxgHIhMIh-yl97-pkgMVN1JCBx1teQ3EygEEIuVYFw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/scrapping\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUNCglzY3JhcHBpbmcYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CL0CENbKAxgHIhMIh-yl97-pkgMVN1JCBx1teQ3E\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#scrapmetal\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLwCENbKAxgJIhMIh-yl97-pkgMVN1JCBx1teQ3EygEEIuVYFw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/scrapmetal\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUOCgpzY3JhcG1ldGFsGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLwCENbKAxgJIhMIh-yl97-pkgMVN1JCBx1teQ3E\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#copperscrap\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLsCENbKAxgLIhMIh-yl97-pkgMVN1JCBx1teQ3EygEEIuVYFw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/copperscrap\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgtjb3BwZXJzY3JhcBgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLsCENbKAxgLIhMIh-yl97-pkgMVN1JCBx1teQ3E\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"90,323 views\"},\"shortViewCount\":{\"simpleText\":\"90K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 50
+  },
+  {
+    "id": "vrtiLdRXUs0",
+    "title": "How money 🤑 can you make from \"},{\"text\":\"#scrap\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLwCENbKAxgJIhMI7-aj97-pkgMVFZs1AR0ckgOKygEEEwyqKw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/scrap\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUJCgVzY3JhcBgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLwCENbKAxgJIhMI7-aj97-pkgMVFZs1AR0ckgOK\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#hvac\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLsCENbKAxgLIhMI7-aj97-pkgMVFZs1AR0ckgOKygEEEwyqKw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/hvac\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUICgRodmFjGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLsCENbKAxgLIhMI7-aj97-pkgMVFZs1AR0ckgOK\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#sidehustle\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLoCENbKAxgNIhMI7-aj97-pkgMVFZs1AR0ckgOKygEEEwyqKw==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/sidehustle\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUOCgpzaWRlaHVzdGxlGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLoCENbKAxgNIhMI7-aj97-pkgMVFZs1AR0ckgOK\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"1,093,888 views\"},\"shortViewCount\":{\"simpleText\":\"1M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 50
+  },
+  {
+    "id": "k8mdltWUWWY",
+    "title": "How to Calculate Faster than a Calculator - Mental Math #1",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "Python Tutorial: The Second Collection - Tuple | Lesson 30",
+    "score": 50
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "RCFUhvOxDWA",
+    "title": "How to Scrap a Computer",
+    "score": 50
+  },
+  {
+    "id": "O1ILLxs0cDc",
+    "title": "Scrap Yard Secret! How to Determine the Copper Recovery of Insulated Copper Wire!",
+    "score": 50
+  },
+  {
+    "id": "9Sv9gxlOS28",
+    "title": "Scrapbook Tips 15 | Month in Review February 2024 Planning | MIWMM Prep | Simple Stories Noteworthy",
+    "score": 50
+  },
+  {
+    "id": "2p7QBrusuag",
+    "title": "Scrapbook Tips 14 | Behind the Scenes Month in Review Planning | Simple Stories Noteworthy",
+    "score": 50
+  },
+  {
+    "id": "MuJsaj8jvU4",
+    "title": "Why You Shouldn't Make Scrap Ingots - Why Scrap Yards Will Say No To Buying Them",
+    "score": 50
+  },
+  {
+    "id": "vriBcX3AAqQ",
+    "title": "How To Build Your Card Stash Fast (Especially For Craft Shows) Using Dollarstore Supplies and Scraps",
+    "score": 50
+  },
+  {
+    "id": "Uk0aIe8RmXs",
+    "title": "Let's Make Braid From Fabric Scrap's.",
+    "score": 50
+  },
+  {
+    "id": "wB_rOYxIiUw",
+    "title": "How to Turn Pennies Into Dollars $$$ - Penny Melting Coin Casting copper \\u0026 Zinc",
+    "score": 50
+  },
+  {
+    "id": "a6LZkRHPN8g",
+    "title": "10 Tools for Cutting Metal: How to Cut Metal for Welding Projects",
+    "score": 50
+  },
+  {
+    "id": "6vKge28T7u8",
+    "title": "how to quickly cut four types of metal using a hand grinder | welding tricks",
+    "score": 50
+  },
+  {
+    "id": "c8qjgmJzNl8",
+    "title": "How to use a Cutting Disc with an Angle Grinder",
+    "score": 50
+  },
+  {
+    "id": "CRvI_Q2apJo",
+    "title": "Build a Fire wood Stove from metal paint bucket and Cement",
+    "score": 50
+  },
+  {
+    "id": "m2c5PEk27i0",
+    "title": "I make an Industrial Style Wall Key Holder made from metal Rebar - MIG Welding Project",
+    "score": 50
+  },
+  {
+    "id": "0Ds0l9DPTUg",
+    "title": "Inside Tesla’s Secret Optimus Factory: The Full Build From Metal to AI Humanoid (Full Process)",
+    "score": 50
+  },
+  {
+    "id": "2AYB-Gjo6cU",
+    "title": "HISTORY OF METAL",
+    "score": 50
+  },
+  {
+    "id": "z7QCvjH-sqQ",
+    "title": "\\\"I'll Make a Man Out of You\\\" METAL COVER - Mulan",
+    "score": 50
+  },
+  {
+    "id": "JwniSuOQh7g",
+    "title": "How To Make Extra Money In America Recycling Scrap Metal! Anyone Could Do This..",
+    "score": 50
+  },
+  {
+    "id": "PLsbQAjCKTY",
+    "title": "How to Sort \\u0026 Sell Scrap Metal [Beginner's Step-by-Step Guide]",
+    "score": 50
+  },
+  {
+    "id": "oIqxviofvA8",
+    "title": "How to Scrap a Furnace - Was it Worth it?",
+    "score": 50
+  },
+  {
+    "id": "xUy9VofpotU",
+    "title": "How to Scrap a Stereo Receiver for LOADS of Copper ",
+    "score": 50
+  },
+  {
+    "id": "F4lL2erV_8Y",
+    "title": "How to Scrap Lighting Ballasts for Copper! | Fastest Way Known to Man!",
+    "score": 50
+  },
+  {
+    "id": "hNFCFfm0Ow8",
+    "title": "Everything You Need to Know to Make Money Recycling Scrap Metal",
+    "score": 50
+  },
+  {
+    "id": "GBuTAuigUl8",
+    "title": "A scrappers guide to micro scrapping - precious metals from ewaste",
+    "score": 50
+  },
+  {
+    "id": "HtlXtnVpP6o",
+    "title": "How to Scrap small Copper Transformers  #scrapping #scrapmetal #copperscrap",
+    "score": 50
+  },
+  {
+    "id": "D748Tjqjiy8",
+    "title": "Do These 4 Things When You Hug a Woman to Make Her Want You More | Female Psychology EXPOSED",
+    "score": 50
+  },
+  {
+    "id": "imb4X2mnJbo",
+    "title": "Watch me manifest 1 million dollars....with proof! | Ultimate Manifestation Experiment, Real Results",
+    "score": 50
+  },
+  {
+    "id": "0x_bs0foNN0",
+    "title": "How To Make Your First Million In 2025 - Social Proof Podcast #484",
+    "score": 50
+  },
+  {
+    "id": "XaHGxIbS-N8",
+    "title": "Electric Motor Recycling Machine Motor Stator Cutting Machine | How To Get Copper Coil From Motor",
+    "score": 50
+  },
+  {
+    "id": "KS82Z-mrguM",
+    "title": "How I make $$$ THOUSANDS selling scrap metal #scrap #smallbusiness #hvac",
+    "score": 50
+  },
+  {
+    "id": "LvVWQi0hHKU",
+    "title": "How to Sort \\u0026 Sell Scrap Metal [Beginner's Step-by-Step Guide]",
+    "score": 50
+  },
+  {
+    "id": "SA60ZpjcNCI",
+    "title": "Scrap Metal Identification Guide - How To Make Money Scrapping",
+    "score": 50
+  },
+  {
+    "id": "-CqVH64A18I",
+    "title": "How To Make The Most Money From Scrap Metal! Beginners Guide to Getting Paid",
+    "score": 50
+  },
+  {
+    "id": "fi38CNfHXEc",
+    "title": "How to make the Most Money From Scrap Metal",
+    "score": 50
+  },
+  {
+    "id": "u32INauWjEg",
+    "title": "The First Years Bottle Warmer | Tutorial",
+    "score": 50
+  },
+  {
+    "id": "ivpOTb-Z71A",
+    "title": "The First Years Modular Electric Steam Sterilizer Review",
+    "score": 50
+  },
+  {
+    "id": "hdwq696mjRs",
+    "title": "Simple Dad Reviews",
+    "score": 50
+  },
+  {
+    "id": "6nkHmH81ZX8",
+    "title": "How to Sort and Separate Brass for More Money | Scrap Metal Tips",
+    "score": 50
+  },
+  {
+    "id": "DREwlrGsgMw",
+    "title": "How to Sort \\u0026 Sell Scrap Metal [Beginner's Step-by-Step Guide]",
+    "score": 50
+  },
+  {
+    "id": "FumqNCBnwe8",
+    "title": "5 Things You Didn't Know You Could Make Good Money Scrapping!",
+    "score": 50
+  },
+  {
+    "id": "z0IMKDEdFFE",
+    "title": "How to trade Asia session liquidity ℹ️",
+    "score": 50
+  },
+  {
+    "id": "14XEQKxDZEs",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "04QZ9oiWHcs",
+    "title": "How To Search For Filters On Instagram Story",
+    "score": 50
+  },
+  {
+    "id": "4gaaGDldQwY",
+    "title": "How Much Money Do Traders Make? (The Raw Truth after 6 Years of Trading)",
+    "score": 50
+  },
+  {
+    "id": "A96tGbtutYM",
+    "title": "How to Get the Most Out of Studying: Part 1 of 5, \\\"Beliefs That Make You Fail... Or Succeed\\\"",
+    "score": 50
+  },
+  {
+    "id": "wdA5y0k7CRA",
+    "title": "Your 20s are the tutorial phase",
+    "score": 50
+  },
+  {
+    "id": "J_ANIVTZ6n0",
+    "title": "how to get the most candy on Halloween",
+    "score": 50
+  },
+  {
+    "id": "WVlPrEK3OQo",
+    "title": "How To Get the Most out of Therapy",
+    "score": 50
+  },
+  {
+    "id": "dD1YtPSFdVw",
+    "title": "The Only 25 Ways to Make Money in 2026",
+    "score": 50
+  },
+  {
+    "id": "bI6BSh5Z0V4",
+    "title": "A Guide to Building Your First Chopper - Harley Davidson - 1200cc",
+    "score": 50
+  },
+  {
+    "id": "jfb8gIFSULA",
+    "title": "Intro How I did it - introduction to building a chopper and the skills required - mechanical, electrical, metal fabrication, welding",
+    "score": 50
+  },
+  {
+    "id": "YDmw1ld3C_o",
+    "title": "25 Minute Chopper Build!",
+    "score": 50
+  },
+  {
+    "id": "d59rE476QOs",
+    "title": "Making a Chopper Knife - Complete build",
+    "score": 50
+  },
+  {
+    "id": "o2IR3NM-bbE",
+    "title": "A Guide to Choppers - Facts, Build, Info - Harley Davidson - Chopper - 1200cc - Ride On",
+    "score": 50
+  },
+  {
+    "id": "_XW-mVnQXD0",
+    "title": "Can We Build a Chopper in a Day? PART 1",
+    "score": 50
+  },
+  {
+    "id": "uungtAFCrZc",
+    "title": "Choose The RIGHT Bike For Your FIRST Chopper Build",
+    "score": 50
+  },
+  {
+    "id": "qPPsRZdXfl4",
+    "title": "Building a Big Twin EVO Chopper in 15 Minutes",
+    "score": 50
+  },
+  {
+    "id": "LikjS_y4n5Y",
+    "title": "Computer Science Basics: Hardware and Software",
+    "score": 50
+  },
+  {
+    "id": "m0tqocS0EsQ",
+    "title": "\\\"What do I do now?\\\" - [Buildershed angst]",
+    "score": 50
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "1.Double-end grains joint",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "5 Woodworking Joints For Beginners",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "Making Strong Screw Joints",
+    "score": 10
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "9 Essential Woodworking Joints - WOOD magazine",
+    "score": 10
+  },
+  {
+    "id": "pWohJHPdD8o",
+    "title": "Screw Joint",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "21 Wood Joinery with Tool Hacks | Japanese Woodworking",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "The Joinery Trick No One Teaches. #carpentry #diy #woodwork #wood #woodworking #tips #diywoodworking",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MOB3DyZp1yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "chw8GxuW6N4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "J8lju2oC9xE",
+    "title": "The Hidden Structure Linking Every Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "zrq0wMoggI8",
+    "title": "The Race That Came Before - Ancient Civilizations Part 2",
+    "score": 10
+  },
+  {
+    "id": "5ZYb5jPtG9Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CAsKpXoxZAQ",
+    "title": "100 Unexplained Archaeological Mysteries That Ancient Civilizations Left Behind",
+    "score": 10
+  },
+  {
+    "id": "Wk4yqLEQTSM",
+    "title": "4+ HOURS of Ancient Civilisations That Vanished",
+    "score": 10
+  },
+  {
+    "id": "X8Py63FH5Dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CGP1Q25z46E",
+    "title": "The Lost Civilization They Don’t Want You To Remember",
+    "score": 10
+  },
+  {
+    "id": "PmnrMVw9ooE",
+    "title": "50 Civilizations That Vanished...",
+    "score": 10
+  },
+  {
+    "id": "2-TPpCwmb_c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SSpaxhbepOE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How does an Electric Motor work?  (DC Motor)",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "The Only Video You'll Ever Need to Watch to Know how 4 Stroke and 2 Stroke Engines Work and Differ",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3zRIndR9j40",
+    "title": "Combustion Cycle",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uHucYAEhY0Y",
+    "title": "#Steam Engine- How does it Work | Steam Engine Working Function Explain | How Locomotive Engine Work",
+    "score": 10
+  },
+  {
+    "id": "9mhYnQGZJuM",
+    "title": "What Is Steam Engine",
+    "score": 10
+  },
+  {
+    "id": "gkTADRpBklQ",
+    "title": "Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Car Engine Works Animation | Car Engine Explained | Engine Animation 4 stroke",
+    "score": 10
+  },
+  {
+    "id": "Z_V_Qd89Jg8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "JfOMZfxH4ME",
+    "title": "INTERNAL COMBUSTION ENGINE",
+    "score": 10
+  },
+  {
+    "id": "DKF5dKo_r_Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "WORLD WAR 2 Full Movie (1930s - 1945) - A Complete Overview",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "3 Hours Of WW2 Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Q78COTwT7nE",
+    "title": "World War Two Explained: The Key Battles and Dates",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8pE04G99oT4",
+    "title": "Assault on the Siegfried Line",
+    "score": 10
+  },
+  {
+    "id": "0FkXi-ecngI",
+    "title": "Hydraulic Scrap Shear: Metal Cutting Machine for the Recycling Industry",
+    "score": 10
+  },
+  {
+    "id": "1zNcLiEGUco",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "DraM3FtMPi4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "k0_-qM-agpk",
+    "title": "Top 10 things to ALWAYS get when scrapping!!",
+    "score": 10
+  },
+  {
+    "id": "q2pgkX8StaM",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "eu2gAqn4I2A",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Mental Math Tricks",
+    "score": 10
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LERb-94P8po",
+    "title": "Adding fractions",
+    "score": 10
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "Awesome Math Trick with Mr. Bean.",
+    "score": 10
+  },
+  {
+    "id": "2DQgKrRxV9k",
+    "title": "This Math Trick is Black Magic",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mO01HHe-k2s",
+    "title": "Easy Math Tricks Never Taught in School!  #maths  #mathstricks  #mathematics",
+    "score": 10
+  },
+  {
+    "id": "D6IqViNgGbk",
+    "title": "Calculator - Fractions",
+    "score": 10
+  },
+  {
+    "id": "cYKVTbdyxQ8",
+    "title": "PHOTOMATH",
+    "score": 10
+  },
+  {
+    "id": "XlbVB50mIh4",
+    "title": "Can You Pass This Maths Quiz...? ➗✖️🧠 | Easy, Medium, Hard, Impossible | Quiz Blitz",
+    "score": 10
+  },
+  {
+    "id": "Calc3x13m-M",
+    "title": "5 Fast Math Tricks for Multiplication - Mental Math",
+    "score": 10
+  },
+  {
+    "id": "aiPDdd8OD6U",
+    "title": "Multiplication by 11",
+    "score": 10
+  },
+  {
+    "id": "VLOou59juGo",
+    "title": "10 Math Tricks School Didn't Teach You But Should Have",
+    "score": 10
+  },
+  {
+    "id": "itW2Eie2eQ8",
+    "title": "Multiply by 9",
+    "score": 10
+  },
+  {
+    "id": "v4U4b7UP5xc",
+    "title": "Math Magic",
+    "score": 10
+  },
+  {
+    "id": "ObiqJzfyACM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "mejvVvOZsdM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "C3iHAgwIYtI",
+    "title": "Starship | Second Flight Test",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "zctTKdQcmVA",
+    "title": "See SpaceX Starship's 10th launch in epic 4K slow motion",
+    "score": 10
+  },
+  {
+    "id": "PaPm0a8SIUM",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "6na40SqzYnU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8VESowgMbjA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "h-cDKLX1v14",
+    "title": "Blastoff! SpaceX Starship launches on 5th flight, nails 'chopsticks' booster catch!",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "4K Footage | SpaceX Launches",
+    "score": 10
+  },
+  {
+    "id": "gmJgW-yMAIg",
+    "title": "Starship | Tenth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "rcd_SQZDlnk",
+    "title": "Time lapse of the SpaceX Falcon 9 rocket launch from Huntington Beach, CA - 4K version",
+    "score": 10
+  },
+  {
+    "id": "-x7ruR5Vygc",
+    "title": "SpaceX is Facing Big Problems For the Upcoming Starship Flight 12!",
+    "score": 10
+  },
+  {
+    "id": "sSNT7kRT1Qg",
+    "title": "Driving forward with Pad 1's conversion | SpaceX Starbase",
+    "score": 10
+  },
+  {
+    "id": "-kfdBWSxd-0",
+    "title": "B18.3 Test Tank",
+    "score": 10
+  },
+  {
+    "id": "mhJRzQsLZGg",
+    "title": "Blue Origin to do Something SpaceX Starship Impossible with New Glenn! Elon Musk Laughs",
+    "score": 10
+  },
+  {
+    "id": "-jLLnGBgzIM",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "ZEYehK8fU4c",
+    "title": "SpaceX found Brilliant Solution to send Human to Mars: Starship Mars Cycler!",
+    "score": 10
+  },
+  {
+    "id": "H59x0ycdZws",
+    "title": "Starship Mars Cycler",
+    "score": 10
+  },
+  {
+    "id": "A-0AV8ZFEAw",
+    "title": "intro.",
+    "score": 10
+  },
+  {
+    "id": "4RQecr9P2AY",
+    "title": "Starship V3 unexpectedly Exploded during test, Why? Flight 12 Launching in Days…",
+    "score": 10
+  },
+  {
+    "id": "o3r0tFRcrM0",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "MgMNo7q5P0U",
+    "title": "Starship | Fifth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "hI9HQfCAw64",
+    "title": "Starship | Seventh Flight Test",
+    "score": 10
+  },
+  {
+    "id": "Pn6e1O5bEyA",
+    "title": "FULL LAUNCH! SpaceX Starship 11th Flight Test",
+    "score": 10
+  },
+  {
+    "id": "K0NOSJF1RrA",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "BtUMt0gsqrs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "wS_8WOQJUu8",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "-4qlPXOuDaI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "x8cKpd7BlJU",
+    "title": "Getting the most scrap from a sky box ",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "The deep ocean is the final frontier on planet Earth",
+    "score": 10
+  },
+  {
+    "id": "p0G68ORc8uQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "myGGS1FBsk4",
+    "title": "20 New Deep Sea Creature Encounters Caught on Camera in Hawaii 2025 | Mega ROV Countdown № 2",
+    "score": 10
+  },
+  {
+    "id": "Jc7ogKSFs_4",
+    "title": "The Bridge at Dusk - Alternate Version by Jim Gifford [from Waterwick: Prologue Short Film Soundtrack]",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "Deep Sea Gigantism | Why the Ocean Breeds Giants",
+    "score": 10
+  },
+  {
+    "id": "FmR14Yng9kI",
+    "title": "Introduction to Deep Sea Gigantism",
+    "score": 10
+  },
+  {
+    "id": "0KKHYtSLI1g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OQpCcQhNfxM",
+    "title": "The Greatest Mysteries of the Pacific Ocean | Drain the Oceans | MEGA EPISODE | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "bxIV_itPWkU",
+    "title": "Deep Sea Exploration - 360 | Into Water",
+    "score": 10
+  },
+  {
+    "id": "XDZ39JJsSp0",
+    "title": "The Monterey Submarine Canyon",
+    "score": 10
+  },
+  {
+    "id": "o_Zs8UdCArM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QIn61GaWeqI",
+    "title": "They Thought This Was Junk… I Didn’t",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "Never plant tomatoes without this. For large fruits and more tomatoes, follow this",
+    "score": 10
+  },
+  {
+    "id": "98_2H9nJSV4",
+    "title": "Tomato Planting Tips",
+    "score": 10
+  },
+  {
+    "id": "NjANmwxkp9A",
+    "title": "15 Beginner Raised Bed Gardening Mistakes That Nobody Talks About",
+    "score": 10
+  },
+  {
+    "id": "9fOe2bnZHrY",
+    "title": "it’s that time!🌱 #gardeningtips #gardening #vegetablegarden #homegardening #backyardgardening #diy",
+    "score": 10
+  },
+  {
+    "id": "iYCfW42Tek0",
+    "title": "8 Of My BEST Raised Bed Gardening Tips",
+    "score": 10
+  },
+  {
+    "id": "kB-UL4XbquY",
+    "title": "The Best Countries for Importing Metal Scrap | Metal scrap Import",
+    "score": 10
+  },
+  {
+    "id": "6_nxitWixvk",
+    "title": "Dumpster Diving Street Scrapping - Scrap Prices Are Up and So are We!",
+    "score": 10
+  },
+  {
+    "id": "vR1eaSaytGk",
+    "title": "Scrapbook Tips 16 | British Isles Travel Album Planning | Echo Park Born to Travel + Go.See.Explore.",
+    "score": 10
+  },
+  {
+    "id": "Ak1ZVFgBHpE",
+    "title": "Scrapbook Process | Single Page | “Best Bits of 2025” | Peartree Cutfiles+Simple Stories | Layout 79",
+    "score": 10
+  },
+  {
+    "id": "Xdfr6Fe7ufk",
+    "title": "Scrapbook Process | Single Page | “Life” | Traci Reed Story Foundations: Routines YT Hop | Layout 78",
+    "score": 10
+  },
+  {
+    "id": "IJP7A86FGfM",
+    "title": "Scrapbook Process | Double Page | “Good Puppy” | Bella Blvd Bow Wow | Layout 77",
+    "score": 10
+  },
+  {
+    "id": "sU5lz0rTWOA",
+    "title": "Layout Share 19 | Process → Pages | Oct-Dec 2025 | Layouts 41-72",
+    "score": 10
+  },
+  {
+    "id": "kP9m9SjImJU",
+    "title": "Scrapbook Process | Single Page | Hello 2026 | Stash Busting Saturdays+Peartree Cutfiles | Layout 75",
+    "score": 10
+  },
+  {
+    "id": "2HoUWgaEh7U",
+    "title": "Goob when he found scraps and penny twisted#goob #scraps #dandysworld #dandy #penny #animation #meme",
+    "score": 10
+  },
+  {
+    "id": "6R7DGOYDH34",
+    "title": "These RARE Wheat Pennies Are Worth a FORTUNE | MOST Valuable Wheat Pennies Found in Pocket Change!",
+    "score": 10
+  },
+  {
+    "id": "dbDBJ2mNQc8",
+    "title": "US Mint Presses its Final Penny as Production Comes to an End",
+    "score": 10
+  },
+  {
+    "id": "TPO7EEc0Ii4",
+    "title": "Melting down your copper pennies - total process and cost involved - Is it worth it? Let's find out!",
+    "score": 10
+  },
+  {
+    "id": "YPQDkKA4MLE",
+    "title": "Scrapbook Tips 1 | Organizing Cardstock Scraps with Style",
+    "score": 10
+  },
+  {
+    "id": "f6M93kPg0NI",
+    "title": "Scrapbook Process | Single Page | “Best Bits of 2025” | Peartree Cutfiles+Simple Stories | Layout 79",
+    "score": 10
+  },
+  {
+    "id": "KyCkxkRWs3c",
+    "title": "Can copper pennies be sold for scrap?",
+    "score": 10
+  },
+  {
+    "id": "KuIMrbJZZu8",
+    "title": "THE LAST PENNY! WHAT SHOULD YOU DO WITH YOUR PENNIES?",
+    "score": 10
+  },
+  {
+    "id": "TejmwztFJJM",
+    "title": "Making a lot of cards fast with scraps",
+    "score": 10
+  },
+  {
+    "id": "33hoCDcjzPk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0yXkEFba2CE",
+    "title": "10 Best Places to Find Scrap Copper",
+    "score": 10
+  },
+  {
+    "id": "K2IApTCFjE4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "yCQS3eXhg_4",
+    "title": "Nibblers vs Single Cut Shears vs Double Cut Shears - Cutting Sheet Metal - Right Tool For the Job",
+    "score": 10
+  },
+  {
+    "id": "mYpVoYTdbxY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3zu0zNGmvLU",
+    "title": "Why There Are 11+ Ways to Cut Steel",
+    "score": 10
+  },
+  {
+    "id": "KkCDoQbjBLo",
+    "title": "What's the Best Way to Cut Thick Steel?",
+    "score": 10
+  },
+  {
+    "id": "XMXa1QImM54",
+    "title": "Grinder",
+    "score": 10
+  },
+  {
+    "id": "wt8GyI0DNFs",
+    "title": "Three Ways to Cut Sheet Metal for any Budget!",
+    "score": 10
+  },
+  {
+    "id": "NEeS5nCh5e8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Db015vRL444",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fB0J85_4JFs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Z7kX7pqaFmI",
+    "title": "Diablo",
+    "score": 10
+  },
+  {
+    "id": "R2_2VT1Z1Ek",
+    "title": "Toolsday: The Last Metal Cutting Tool You'll Ever Need???",
+    "score": 10
+  },
+  {
+    "id": "dZ9qO11UeLQ",
+    "title": "Metal Cutting Portable Tablesaw",
+    "score": 10
+  },
+  {
+    "id": "ToB2UnT0Bc4",
+    "title": "How I Built My Own Metal Cutting Machine – Step by Step",
+    "score": 10
+  },
+  {
+    "id": "lsEYRPMg_r4",
+    "title": "Cutting Steel with Circular Saws | Metal Cutting vs. Standard Sidewinder",
+    "score": 10
+  },
+  {
+    "id": "-nw-0-6OSMI",
+    "title": "Cutting Metal Roofing With Circular Saw",
+    "score": 10
+  },
+  {
+    "id": "icit0TdkaZc",
+    "title": "Torch Cutting Basics Everyone Should Know | Oxygen \\u0026 Acetylene Fuel",
+    "score": 10
+  },
+  {
+    "id": "gBeQHoQH70Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bGFTGvdB17I",
+    "title": "People Who Thought They Had 900 IQ ...",
+    "score": 10
+  },
+  {
+    "id": "qdceW-cZ1es",
+    "title": "She thought they forgot about the MURDER! (they didn't)",
+    "score": 10
+  },
+  {
+    "id": "NJ-6hDZ1bIc",
+    "title": "THEY THOUGHT THEY DESTINY SWAPPED WITH YOU ‼️ BIG MISTAKE",
+    "score": 10
+  },
+  {
+    "id": "agUQak5JWTM",
+    "title": "They Thought They Got Away With Murder (They Didn’t)",
+    "score": 10
+  },
+  {
+    "id": "-rJABs9fnDM",
+    "title": "They Thought They’d WOW the Judges… It Went So WRONG! (HILARIOUS!!)",
+    "score": 10
+  },
+  {
+    "id": "rabZaUW6BUs",
+    "title": "Jonny Rogers The X Factor USA",
+    "score": 10
+  },
+  {
+    "id": "Vu71ll_p8JQ",
+    "title": "THEY THOUGHT IT WAS A MONSTER!",
+    "score": 10
+  },
+  {
+    "id": "h6rQfah6jTE",
+    "title": "They thought they were STOLEN…",
+    "score": 10
+  },
+  {
+    "id": "LLIBproVHHg",
+    "title": "They thought they're bullying him 💀🥵☠️ #anime #guessthesong",
+    "score": 10
+  },
+  {
+    "id": "hdk8ln7bfG0",
+    "title": "They thought they'd got rid of me but I'm back, in parliament, in London",
+    "score": 10
+  },
+  {
+    "id": "KPI7n1PBKIk",
+    "title": "She thought they FORGOT about the MURDER!! (they didn't!)",
+    "score": 10
+  },
+  {
+    "id": "XDPJnkNERLg",
+    "title": "They Thought They Were Free: A Warning for America in 2025",
+    "score": 10
+  },
+  {
+    "id": "qxZfSlkC_wo",
+    "title": "They Thought You Were Easy To Replace",
+    "score": 10
+  },
+  {
+    "id": "xLOOO0jigJE",
+    "title": "I thought they are babies😭 #funny #memes",
+    "score": 10
+  },
+  {
+    "id": "-9MaKr17jOs",
+    "title": "Tyler THOUGHT they got away with it | The Darian Sather True Crime Case",
+    "score": 10
+  },
+  {
+    "id": "z5MWi0sEWZY",
+    "title": "Introduction to the case",
+    "score": 10
+  },
+  {
+    "id": "oOhBm3sJSiQ",
+    "title": "They Thought They Found Their Lost Friend 😭",
+    "score": 10
+  },
+  {
+    "id": "gMTwZQVx6DE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wIeYqqXcgtU",
+    "title": "Buy or Sell? Price Action Strategy",
+    "score": 10
+  },
+  {
+    "id": "lwo7TXEl96I",
+    "title": "Impossibly True Stories From Metal Legends",
+    "score": 10
+  },
+  {
+    "id": "v5yYMjU8xDg",
+    "title": "Paramore - Decode (Metal Cover by From Ashes to New ft. Caitlin De Ville)",
+    "score": 10
+  },
+  {
+    "id": "Q7iCHs_AZuQ",
+    "title": "Heavy Metal (Take a Ride) (Soundtrack Version)",
+    "score": 10
+  },
+  {
+    "id": "DL-HvfVwZKM",
+    "title": "The Last of the Mohicans TURNS METAL",
+    "score": 10
+  },
+  {
+    "id": "BrfuoHhw4gQ",
+    "title": "From the Fields of Gallia (Epic Celtic Metal)",
+    "score": 10
+  },
+  {
+    "id": "TjjkeCdue8s",
+    "title": "Where does metal come from?",
+    "score": 10
+  },
+  {
+    "id": "B7h71Oo9SoY",
+    "title": "Money for Nothing (metal cover by Leo Moracchioli)",
+    "score": 10
+  },
+  {
+    "id": "0Gd-jNKhTC8",
+    "title": "MARSHALL JVM410H - from metal to clean and everything in between",
+    "score": 10
+  },
+  {
+    "id": "ztS2oDbbnA8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BYWkJmtm3b0",
+    "title": "Heavy Metal",
+    "score": 10
+  },
+  {
+    "id": "kbk7ThCAApk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AniQMR82q-U",
+    "title": "Kiss From A Rose - Seal METAL COVER  with Violet Orlandi",
+    "score": 10
+  },
+  {
+    "id": "js7mx3EgiDU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wjZofJX0v4M",
+    "title": "How I Develop Trading Strategies | Permutation Tests and Trading Strategy Development with Python",
+    "score": 10
+  },
+  {
+    "id": "ncJKep-6vU8",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "9Mv5zQz_zXw",
+    "title": "HOW NOT TO KNOCK DOWN A WALL | Scrap King Diaries #S07E06",
+    "score": 10
+  },
+  {
+    "id": "ZaJ3nDRYZSg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y-Mg7JCDn3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fbflcB6bgUw",
+    "title": "SCRAPPING, Scrap water heater, Copper and brass Easy Way from Water Heater Pressure Relief Valves!!",
+    "score": 10
+  },
+  {
+    "id": "f3ZvTWXpjTE",
+    "title": "Scrapping Microwave Transformers | Unbelievable Money \\u0026 Fast!",
+    "score": 10
+  },
+  {
+    "id": "TYyEJVyrxns",
+    "title": "Even scrap yards separate. #scrap #scrapmetal #scrapping",
+    "score": 10
+  },
+  {
+    "id": "tobPHkC7MOI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WHZSTP5m8g8",
+    "title": "Moments When Things Went Wrong | Incredible Moments (P89)",
+    "score": 10
+  },
+  {
+    "id": "ElanpLt0xfw",
+    "title": "Easy fun things to do when you're bored 🐥🍄🍳 { Aesthetic_girl }",
+    "score": 10
+  },
+  {
+    "id": "5b4w3ln4mug",
+    "title": "Things we all did as kids #relatable #comedy #funny #pov",
+    "score": 10
+  },
+  {
+    "id": "G1ak5QFoAYA",
+    "title": "Probability Comparison: Scariest Things When You're Home Alone",
+    "score": 10
+  },
+  {
+    "id": "YCVYWY2y66c",
+    "title": "Moments When Things Went Wrong (P124)",
+    "score": 10
+  },
+  {
+    "id": "h3yiZX2Vcpc",
+    "title": "Highlight",
+    "score": 10
+  },
+  {
+    "id": "hMAi0AO87GA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s4jZ6ZHxBzA",
+    "title": "A Man Only Does These 4 Things When He Sees You as His Future | Matthew Hussey ",
+    "score": 10
+  },
+  {
+    "id": "gwCjVwjEdqM",
+    "title": "Times Stranger Things 5 Actors Went Offscript!",
+    "score": 10
+  },
+  {
+    "id": "sunH8fVW18A",
+    "title": "Interesting Things To Do When You're Bored 😎 | Fun \\u0026 Creative Ideas\\\"#diy #aesthetic #creativemano",
+    "score": 10
+  },
+  {
+    "id": "VMinTXs-r8k",
+    "title": "WHEN THINGS GET TOO HARD - Motivational Speech",
+    "score": 10
+  },
+  {
+    "id": "IJYE7NXhsi8",
+    "title": "Stranger Things When It Comes To Aging There Characters 😭",
+    "score": 10
+  },
+  {
+    "id": "10eFFQYfWxg",
+    "title": "Japanese Girls Do This Things When She Likes You! 🇯🇵💖",
+    "score": 10
+  },
+  {
+    "id": "89WOdaXmclQ",
+    "title": "Top 10 Things When They See Us Got Factually Right \\u0026 Wrong",
+    "score": 10
+  },
+  {
+    "id": "Hh0DnB2yRyU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8pbC5Fiy2lY",
+    "title": "How She Turned Healing Into a Million-Dollar Business | Jessica Divine | Social Proof Podcast",
+    "score": 10
+  },
+  {
+    "id": "CeElMcoAdmM",
+    "title": "Proof of truth \\\"Cynthia Stafford\\\"... $112 Million Dollar Lotto winner",
+    "score": 10
+  },
+  {
+    "id": "xo3UF3zkOAU",
+    "title": "The most honest Web3 launch? Zero Knowledge Proof + Giveaway",
+    "score": 10
+  },
+  {
+    "id": "06kCM5dpuCg",
+    "title": "I Got a Million Subscribers To Prove It’s Not Luck",
+    "score": 10
+  },
+  {
+    "id": "vfokLxawAcU",
+    "title": "I've Gotta Prove I'm One In A Million - Cloverdale Bibleway",
+    "score": 10
+  },
+  {
+    "id": "STSHlRzDEcM",
+    "title": "The FASTEST WAY To Manifest 1 Million Dollars! With Proof",
+    "score": 10
+  },
+  {
+    "id": "UHYJjls8b4Y",
+    "title": "From a 426 Credit Score to Millions - Dub Washington | Social Proof Podcast #544",
+    "score": 10
+  },
+  {
+    "id": "ieOVqZOA1uM",
+    "title": "$1 Million Is STILL a Lot of Money: Why the Numbers Prove It",
+    "score": 10
+  },
+  {
+    "id": "VKJHOsAooow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I6Xv-PxSRPc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oojf1WLUyJM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zAYZ7m5ehSs",
+    "title": "Shedeur Sanders DEBUT Breaks NFL Records – 4.6 Million Viewers Prove He’s the Real QB1",
+    "score": 10
+  },
+  {
+    "id": "rOeyqgiFQdY",
+    "title": "27 Million TL Reward to Prove a+b=c, Unsolved by Scientists for 350 Years!",
+    "score": 10
+  },
+  {
+    "id": "8MhpuMMcqq4",
+    "title": "Proof you don't need a million dollar boat! | Wavy Boats",
+    "score": 10
+  },
+  {
+    "id": "78VRaipRRZQ",
+    "title": "How did Iran shoot down a 220 million dollar US drone?",
+    "score": 10
+  },
+  {
+    "id": "9lY2TevNpXk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Vq03g0dfLhU",
+    "title": "The System Tester - Difference between Test Strategy and Test Plan",
+    "score": 10
+  },
+  {
+    "id": "L08Ir69JdNw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lPVhfRyLD1A",
+    "title": "What is a test plan? - in 1 minute.",
+    "score": 10
+  },
+  {
+    "id": "lKw1ITz_z8g",
+    "title": "Used to manage the project",
+    "score": 10
+  },
+  {
+    "id": "Vdm1Lh540LM",
+    "title": "Risk",
+    "score": 10
+  },
+  {
+    "id": "M1_A8eA3QTs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7KLUw5xwm20",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "65SPZFmImZU",
+    "title": "What is an Inspection And Test Plan (ITP)?",
+    "score": 10
+  },
+  {
+    "id": "y76wkec9lUY",
+    "title": "Introduction to Inspection and Test Plan (ITP)",
+    "score": 10
+  },
+  {
+    "id": "Bs2NIJZGNTQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "buspqspq6DU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "03sS4NsVTko",
+    "title": "Program Office Develops the TEMP",
+    "score": 10
+  },
+  {
+    "id": "2m35Xoo2TCg",
+    "title": "Automated and Manual Testing with Azure Test Plan",
+    "score": 10
+  },
+  {
+    "id": "LF0hmSysWCg",
+    "title": "create a test plan",
+    "score": 10
+  },
+  {
+    "id": "S2_AJP9Oeg0",
+    "title": "Software Testing Documentation",
+    "score": 10
+  },
+  {
+    "id": "T0CxzA2kZFM",
+    "title": "One-Page Test Plan | Write Your Plan in Minutes",
+    "score": 10
+  },
+  {
+    "id": "BYN6AFhR4GE",
+    "title": "Test Plan in Software Testing | Software Testing | SoftwaretestingbyMKT",
+    "score": 10
+  },
+  {
+    "id": "NiDe8lj-wGs",
+    "title": "SOFTWARE TESTING : What is a Test Plan? SDET Automation Testing Interview Questions \\u0026 Answers",
+    "score": 10
+  },
+  {
+    "id": "2X8cz_ysJGU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "hO3e5voC6fU",
+    "title": "Electric Motor Pulling Machine | Motor Copper Winding Removing Machine",
+    "score": 10
+  },
+  {
+    "id": "sZHnZ7mvkrM",
+    "title": "90kW Motor Pulley Removal Machine | High-Efficiency Motor Recycling for Copper Recovery",
+    "score": 10
+  },
+  {
+    "id": "Kh7i4HoY9-4",
+    "title": "Amazing Extraction Process of HIGH-VALUE Copper from SCRAP Motors is Easier",
+    "score": 10
+  },
+  {
+    "id": "e_WJ9DRAVRU",
+    "title": "Incredible Scale! Pure Silver Extraction Process from AC Motor Compressors | How it's Made Recycling",
+    "score": 10
+  },
+  {
+    "id": "QrL7sGftYho",
+    "title": "I Spent $6 On This CHEAP DIY Oil Extractor.  Would You Try It?",
+    "score": 10
+  },
+  {
+    "id": "HOXWHwnPeD0",
+    "title": "Newly Electric Motor Pulling Machine for Extracting Stator Copper Windings From 3T #motorrecycling",
+    "score": 10
+  },
+  {
+    "id": "adLsmwK-cVw",
+    "title": "Amazing Process of Pure Silver Extraction from Old Electric Motor! 🔧💎 By Talented Hands.",
+    "score": 10
+  },
+  {
+    "id": "7YkusY93b6E",
+    "title": "Pure Silver Extraction From Old Motor Rotor | Scrap to Precious Metal",
+    "score": 10
+  },
+  {
+    "id": "VGZRgLR00Vg",
+    "title": "Easy Copper Extraction Turning Junk Motors into Recycled Treasures",
+    "score": 10
+  },
+  {
+    "id": "YrgXm3LEx2U",
+    "title": "Global Smoke Extraction Motors Market 2021 –New Research Report",
+    "score": 10
+  },
+  {
+    "id": "nk-0oNO_wEs",
+    "title": "Dismantling Motor Scrap #motorrecycling #motordismantling",
+    "score": 10
+  },
+  {
+    "id": "69zY59BLbYg",
+    "title": "How do I replace the motor of my extractor hood? - FixPart",
+    "score": 10
+  },
+  {
+    "id": "khcIzHwCQJE",
+    "title": "Extractor hood motor replacement",
+    "score": 10
+  },
+  {
+    "id": "M4NMH-Vklrw",
+    "title": "Smoke Extraction Motors",
+    "score": 10
+  },
+  {
+    "id": "AMehjstXm7I",
+    "title": "extracting copper from a compressor motor (ultimate hack) #scrapping #copper",
+    "score": 10
+  },
+  {
+    "id": "bQXJ6empzlw",
+    "title": "Motor disassembly #Copper extraction equipment #Ejector",
+    "score": 10
+  },
+  {
+    "id": "ZIkutIwY3h8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m3kwyOXB690",
+    "title": "Amazing Metal Recycling Process: Producing Rebar from Metal scrap",
+    "score": 10
+  },
+  {
+    "id": "xN3Irwq-WjY",
+    "title": "Top 5 Huge Scale!Metal Melting Scrap \\u0026 Recycling And Manufacturing Process \\u0026 Mass Production Factory",
+    "score": 10
+  },
+  {
+    "id": "n_cnmEkxOgc",
+    "title": "Steel",
+    "score": 10
+  },
+  {
+    "id": "8sz-7-pv92E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VqyozoatUmg",
+    "title": "Process of Melting Tons of Scrap Metal and Manufacture High Quality Rebar",
+    "score": 10
+  },
+  {
+    "id": "LeNvP7209wA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2cXDgFwE13g",
+    "title": "Skrillex - First Of The Year (Equinox) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "TYYyMu3pzL4",
+    "title": "Cuco - First Of The Year (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "TU5iwnQsO-k",
+    "title": "Cuco - First Of The Year",
+    "score": 10
+  },
+  {
+    "id": "zGVoIV5Vex8",
+    "title": "Warming Up Two Ounces",
+    "score": 10
+  },
+  {
+    "id": "RTcDDPja32w",
+    "title": "Skrillex - First of the Year (Equinox) Extended",
+    "score": 10
+  },
+  {
+    "id": "KTXCm4YWTxE",
+    "title": "Why was Hitler so successful in the first years of World War 2?",
+    "score": 10
+  },
+  {
+    "id": "qMaAzjMuUf8",
+    "title": "Life Under Adolf Hitler: The First Years Of Nazi Germany",
+    "score": 10
+  },
+  {
+    "id": "NTw5wkS29Sc",
+    "title": "Nev Plays: Skrillex - First of the Year (Equinox) Launchpad Cover",
+    "score": 10
+  },
+  {
+    "id": "SAXpBgkXt60",
+    "title": "'Skrillex Punch' First of the Year (Equinox) HD by TheMashupArtist",
+    "score": 10
+  },
+  {
+    "id": "73sNfrCuAjA",
+    "title": "Dylan Wood - Skrillex - First of the Year Equinox (Drum Cover)",
+    "score": 10
+  },
+  {
+    "id": "79ukBRpCqkk",
+    "title": "Pruning Grapevine after First Year",
+    "score": 10
+  },
+  {
+    "id": "zz0fMlYvZ2U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qgc89GEO_nE",
+    "title": "Intro to video",
+    "score": 10
+  },
+  {
+    "id": "7N5tSqByRxo",
+    "title": "Paris-Dakar first years. 1979 to 1997. The beginning.",
+    "score": 10
+  },
+  {
+    "id": "bhes1y9nU2g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cHmtluKl2Gw",
+    "title": "Cosmo's OVERPROTECTIVE Of His Sister... 😱🍫 | Dandy's World Comic Dub | #dandysworld #comicdub",
+    "score": 10
+  },
+  {
+    "id": "2HL9oIcyYOc",
+    "title": "The Dandy Warhols – Sister Golden Hair",
+    "score": 10
+  },
+  {
+    "id": "xrIT4Jgt8Cg",
+    "title": "my sister's is annoying#dandy's world#edit#art#animation",
+    "score": 10
+  },
+  {
+    "id": "CGAGjb3Rxlg",
+    "title": "we voiced a dandy's world comic #dandysword #comicdub",
+    "score": 10
+  },
+  {
+    "id": "7wAVsZ_ZTxQ",
+    "title": "SURVIVING Dandy's World with my Siblings...💀💀",
+    "score": 10
+  },
+  {
+    "id": "BQTjM_b7egU",
+    "title": "HOW I CAUSED MY CO-WORKER’S DIVORCE! r/amithejerk? - Reddit Stories",
+    "score": 10
+  },
+  {
+    "id": "Fq8SiJxhqt4",
+    "title": "Story 1",
+    "score": 10
+  },
+  {
+    "id": "SccXbndOUnI",
+    "title": "THE BABYSITTER'S A VAMPIRE ~ Dandy's World Animation",
+    "score": 10
+  },
+  {
+    "id": "Eac50u9j0-w",
+    "title": "The Dandy Warhols - \\\"She Sells Sanctuary\\\" (The Cult cover)",
+    "score": 10
+  },
+  {
+    "id": "OTPh47eVowk",
+    "title": "Sister Golden Hair - The Sligh Brothers (America cover)",
+    "score": 10
+  },
+  {
+    "id": "rsemPNDkKGg",
+    "title": "The Dandy Warhols - Hells Bells",
+    "score": 10
+  },
+  {
+    "id": "3SYjR-L1Mzk",
+    "title": "America - Sister Golden Hair (HQ Original)",
+    "score": 10
+  },
+  {
+    "id": "XIycEe59Auc",
+    "title": "Alan Cumming \\u0026 Kelly Clarkson Reveal if They Would Be A Good Traitor",
+    "score": 10
+  },
+  {
+    "id": "6l6dGzIOi1Y",
+    "title": "Alan Cumming Joins The Kelly Clarkson Show",
+    "score": 10
+  },
+  {
+    "id": "icNG2debMcs",
+    "title": "My sister names Dandy's world characters 😭 sound by:@Quetzy_coatlus",
+    "score": 10
+  },
+  {
+    "id": "oqeIpU_m_3I",
+    "title": "Astro Was Meant To Have A Sibling... 💔🌘 | Dandy's World Comic Dub | #dandysworld #comicdub",
+    "score": 10
+  },
+  {
+    "id": "ya58ToPWiFk",
+    "title": "Cosmo FINALLY Finds Out His Sister’s HERE?! 😱🍫 | Dandy’s World Comic Dub | #dandysworld #comicdub",
+    "score": 10
+  },
+  {
+    "id": "i9pgaDTnZSo",
+    "title": "\\\"What If Dandy Had A Sister?\\\" || DW 🌻🌈 (OC) #dandysworld #art #trend",
+    "score": 10
+  },
+  {
+    "id": "5md96aLPU8Q",
+    "title": "Looey Comforts Cosmos Sister... 💔🎈🍫 | Dandy's World Comic Dub | #dandysworld #comicdub #comic",
+    "score": 10
+  },
+  {
+    "id": "7ExcxgbP120",
+    "title": "Cosmos Sister Wants To Be Like Dandy! 💔🍫 | Dandy's World Comic Dub | #dandysworld #comicdub",
+    "score": 10
+  },
+  {
+    "id": "q8xes2-Krvo",
+    "title": "Dandy's world oc part 2!! #dandysworld",
+    "score": 10
+  },
+  {
+    "id": "pt1rbs6vj-I",
+    "title": "I Can’t Talk to Them… 🍫💔 | Dandy’s World Comic Dub | Cosmos Sister Comic Dub | #dandysworld #comic",
+    "score": 10
+  },
+  {
+    "id": "GJGRTGKtO0s",
+    "title": "If dandy had a sister #dandysworld #dandy #dandicusdancifer",
+    "score": 10
+  },
+  {
+    "id": "BZyiZ1gE5fU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nww_5NcNGdY",
+    "title": "Best of Scrap | CDL 2024",
+    "score": 10
+  },
+  {
+    "id": "J5AGl6-5aT0",
+    "title": "The Must-Know Basics of Copper Scrap To Maximize Profits: #1 Wire, #2 Tubing, \\u0026 Roofing Copper",
+    "score": 10
+  },
+  {
+    "id": "ACohWAxLp9U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_2Q2bM2vKg4",
+    "title": "10 Best Places to Find Scrap Copper",
+    "score": 10
+  },
+  {
+    "id": "5l6USOX9fpg",
+    "title": "Top 10 things to ALWAYS get when scrapping!!",
+    "score": 10
+  },
+  {
+    "id": "UWZ_fw8rgWo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GeKV8AESZeA",
+    "title": "Top 10  Super Finds at Scrap Metal # 295  I'M IN SHOCK 😱",
+    "score": 10
+  },
+  {
+    "id": "MrjkoAJvvIY",
+    "title": "Dumpster Diving Street Scrapping - Scrap Prices Are Up and So are We!",
+    "score": 10
+  },
+  {
+    "id": "ZmwAY4V94h4",
+    "title": "I forged Scrap into Knife",
+    "score": 10
+  },
+  {
+    "id": "VaP7c3G-fsA",
+    "title": "Listen to THESE Major NEWS Stories - Big FACTS - COMEX, LBMA",
+    "score": 10
+  },
+  {
+    "id": "7NM7IxuQF8w",
+    "title": "Scrap Yard Save! $500 DDEC 8v92",
+    "score": 10
+  },
+  {
+    "id": "G72LzILA-1U",
+    "title": "The Best Way To Use Old Wood // The Perfect Wood Recycling Project",
+    "score": 10
+  },
+  {
+    "id": "m-DjPYBfDmQ",
+    "title": "Scrapping Copper From A Microwave And Smelting A Copper Bar - How Much?",
+    "score": 10
+  },
+  {
+    "id": "HescvwJeKu4",
+    "title": "Scrapping 2,640 lbs of electric motors for #Copper (22 total) $$",
+    "score": 10
+  },
+  {
+    "id": "Zq40NPl0ILY",
+    "title": "Top 4 Sources of Scrap Copper | Price is Soaring in 2026",
+    "score": 10
+  },
+  {
+    "id": "IcQdqxMR3uQ",
+    "title": "My Top 10 Places to Find Scrap! ",
+    "score": 10
+  },
+  {
+    "id": "rgqE3RBrVIE",
+    "title": "What To Do With Scrap Car Parts [Top Tips to Cash In Fast]",
+    "score": 10
+  },
+  {
+    "id": "cbHPPuWmqP8",
+    "title": "Top 8 Tips For Making Money Selling Scrap Metal",
+    "score": 10
+  },
+  {
+    "id": "-yCu3IHSPfM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3xF9oa32P70",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yuJUOxBScb0",
+    "title": "Dan Hooker Hosts $50,000 Backyard Fights (FULL) - Dr. Social's Minute Fights II",
+    "score": 10
+  },
+  {
+    "id": "rzgCYINFnuk",
+    "title": "Dan Hooker Hosts $50,000 Backyard Tournament (FULL) - 1 Minute Fights",
+    "score": 10
+  },
+  {
+    "id": "1q0mktD1cGg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tl8fTxZDDkA",
+    "title": "Dan Hooker vs Hells Angels Antz Nansen",
+    "score": 10
+  },
+  {
+    "id": "rWLPUPc3_1I",
+    "title": "“Trash Talk Turns Personal!\\\" Paddy Pimblett and Dan Hooker’s Social Media War Gets Messy",
+    "score": 10
+  },
+  {
+    "id": "AWSEOLET2pQ",
+    "title": "Bellevue pimp sentenced to 35 years for human trafficking after boasting on social media",
+    "score": 10
+  },
+  {
+    "id": "z30kiLqJbAg",
+    "title": "$50,000 DADS ONLY SPECIAL - Dan Hooker's 1 Minute Scraps",
+    "score": 10
+  },
+  {
+    "id": "hQqbWQdY_Rc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eVTq9yshtP0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AKNXkoDej9I",
+    "title": "#4 - Dare to Be Annoying on Social Media with Heidi Hooker",
+    "score": 10
+  },
+  {
+    "id": "ZmXTmEVAugc",
+    "title": "I approached a Turkish girl, this was her response... #dating #dateme #turkish",
+    "score": 10
+  },
+  {
+    "id": "A3InNRpiFvQ",
+    "title": "🚨 “He Genuinely Got Under My Skin” 👀 Hooker and Paddy are beefing on Social Media…",
+    "score": 10
+  },
+  {
+    "id": "Ds1HvG7x_GI",
+    "title": "Young homeless girl likes living in the streets",
+    "score": 10
+  },
+  {
+    "id": "QUHcIl4GmCo",
+    "title": "UFC 325 Predictions Volkanovski vs Lopes 2 Full Card Betting Breakdown",
+    "score": 10
+  },
+  {
+    "id": "noYw9g-zOUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hR8N8wcplbU",
+    "title": "19 years old and homeless",
+    "score": 10
+  },
+  {
+    "id": "kAbKCg9_sz4",
+    "title": "Why so many Filipinas are scammers?    #datingfilipinas #filipina #filipinas",
+    "score": 10
+  },
+  {
+    "id": "J7KlkA0ISaQ",
+    "title": "Dan Hooker's ANATOMY: A BOULEVARD for Benoit Saint-Denis?",
+    "score": 10
+  },
+  {
+    "id": "ksqdT93i2Mk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oNUABGmj334",
+    "title": "Epic Record Smashing Gold Nugget Found!!!",
+    "score": 10
+  },
+  {
+    "id": "KCJXR1ElOYQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LHoTHpW0J5M",
+    "title": "Timing your trades matters more than you think (here's why)",
+    "score": 10
+  },
+  {
+    "id": "sW4-SJRTRK4",
+    "title": "Why timing matters",
+    "score": 10
+  },
+  {
+    "id": "1ByrNF9IF0Y",
+    "title": "Forex Trading Sessions: Best Pairs \\u0026 Strategies for Asian, London \\u0026 NY!",
+    "score": 10
+  },
+  {
+    "id": "hsTka9Hmwrs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FHyVT6Ql6Pw",
+    "title": "Forex Trading Sessions Explained!",
+    "score": 10
+  },
+  {
+    "id": "znpD7T_9fMQ",
+    "title": "How I Prepare For NY Session (Morning Routine) - ICT Concepts",
+    "score": 10
+  },
+  {
+    "id": "Zm2oKad3Tb8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "X3rZml26CIM",
+    "title": "Trading Sessions Explained",
+    "score": 10
+  },
+  {
+    "id": "1JPDMdP0jCY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gs_g60ZkhFE",
+    "title": "Nasdaq Trade",
+    "score": 10
+  },
+  {
+    "id": "jn7QvkOh-Cc",
+    "title": "The ONLY Day Trading Model You Will Ever Need (Asian Session Liquidity)",
+    "score": 10
+  },
+  {
+    "id": "1J7cZZFmfiM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t8ISle_oe0A",
+    "title": "I Reveal My Day Trading Strategy",
+    "score": 10
+  },
+  {
+    "id": "H-j7xjrwIio",
+    "title": "Time \\u0026 Price in Forex",
+    "score": 10
+  },
+  {
+    "id": "UbRUMHseK5I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kZpLlMJ5QXI",
+    "title": "Why New York Session is the Best Trading Session",
+    "score": 10
+  },
+  {
+    "id": "WYRQAAgMtBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dP2m2NVUDfI",
+    "title": "How I trade London Session (84% WR Strategy)",
+    "score": 10
+  },
+  {
+    "id": "HtjHo8W1i0Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qbUP-BkukUY",
+    "title": "What's the Best Time to Trade? Major Market Sessions Explained!",
+    "score": 10
+  },
+  {
+    "id": "6rBumkbDi5M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "o7Ik1OB4TaE",
+    "title": "What Is Strategy? It’s a Lot Simpler Than You Think",
+    "score": 10
+  },
+  {
+    "id": "iuYlGRnC7J8",
+    "title": "Most strategic planning has nothing to do with strategy.",
+    "score": 10
+  },
+  {
+    "id": "oA-3pJjoIWA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wDJIQPJvuXg",
+    "title": "What is Strategy? by Michael Porter - A Visual Summary",
+    "score": 10
+  },
+  {
+    "id": "NO-RCuqp8IA",
+    "title": "Introduction To Marketing | Marketing 101",
+    "score": 10
+  },
+  {
+    "id": "8Sj2tbh-ozE",
+    "title": "Marketing Is Not Advertising (But Advertising Is Marketing)",
+    "score": 10
+  },
+  {
+    "id": "aGEFtRwPhE4",
+    "title": "Your Hook",
+    "score": 10
+  },
+  {
+    "id": "ZcPNcoTbkIU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3Y1WpytiHKE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0yHwUp87xcI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sF6AMj3H0jg",
+    "title": "The 6 Disciplines of Strategic Thinking | Michael Watkins",
+    "score": 10
+  },
+  {
+    "id": "hItU33fFNGw",
+    "title": "Introduction to strategy - what is strategy?",
+    "score": 10
+  },
+  {
+    "id": "IcqaeGgOAgc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pmx2cbLGzzo",
+    "title": "What Is Strategic Thinking",
+    "score": 10
+  },
+  {
+    "id": "IDqZbwjgvFg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0uOgH8gsZdY",
+    "title": "YouTube's New Search Filter Sucks...",
+    "score": 10
+  },
+  {
+    "id": "ViOosw7Otsw",
+    "title": "Use THESE LinkedIn filters to help your job search 🔎",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "The Easiest Way to Manage Filters \\u0026 Search in React",
+    "score": 10
+  },
+  {
+    "id": "HHJDXoewU3M",
+    "title": "Search Jira",
+    "score": 10
+  },
+  {
+    "id": "qXKMmhPMeNo",
+    "title": "After years of failure this is what i switched for success in trading",
+    "score": 10
+  },
+  {
+    "id": "iq0ckqtG7kY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hM0g15ifYU4",
+    "title": "What Does It Take to Be a Successful Trader?",
+    "score": 10
+  },
+  {
+    "id": "aqt8MOhfm20",
+    "title": "Successful Trader Affirmations | 2-HOUR POWER SESSION | World-Class Trading Affirmations",
+    "score": 10
+  },
+  {
+    "id": "orbUpTgP8xA",
+    "title": "The Secret to Becoming a Consistently Profitable Trader",
+    "score": 10
+  },
+  {
+    "id": "mI9xbOhghTw",
+    "title": "\\\"I AM A CONSISTENTLY PROFITABLE TRADER\\\" | Trading Affirmations | Listen Every Day!",
+    "score": 10
+  },
+  {
+    "id": "lyt22fda6VU",
+    "title": "How I Beat the Mental Game of Trading [After 5 Years of Failure]",
+    "score": 10
+  },
+  {
+    "id": "whBkFueRhAQ",
+    "title": "+4,638 First Day Trading PRO Accounts!",
+    "score": 10
+  },
+  {
+    "id": "Lpsx7vfJqXo",
+    "title": "A Winning Traders Mindset",
+    "score": 10
+  },
+  {
+    "id": "TTD5xiuOMi8",
+    "title": "6 Things I Stopped Doing To Become A Profitable Trader",
+    "score": 10
+  },
+  {
+    "id": "zXE_uVuNvhw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Mjs4NaZcnhA",
+    "title": "5 RULES that made him $200,000,000 from $400 | Richard Dennis Market Wizards Interview",
+    "score": 10
+  },
+  {
+    "id": "O0xnwQvGdDo",
+    "title": "How I Beat the Mental Game of Trading (After 4 Years of Failure)",
+    "score": 10
+  },
+  {
+    "id": "tkIAr9CxDEU",
+    "title": "$0 to $10,000,000: Don't Ever Give Up 🖤",
+    "score": 10
+  },
+  {
+    "id": "VRqmtvEsYo4",
+    "title": "Successful Trading Affirmations | Trading Meditation 2024",
+    "score": 10
+  },
+  {
+    "id": "DVkBJgEsMis",
+    "title": "The Mindset That Turns $100 Traders Into Millionaires",
+    "score": 10
+  },
+  {
+    "id": "EEhqyCs0sO4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cr_efT9pSV0",
+    "title": "WB Nutty ft. Rhalo Los \\u0026 Ponae - Get The Most (Prod. by LEE CHOPPN) (dir.  @nightrunner  )",
+    "score": 10
+  },
+  {
+    "id": "HCNqwKZY1Sk",
+    "title": "Getting the Most Out of Work – Daily Devotional",
+    "score": 10
+  },
+  {
+    "id": "RH95h36NChI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Uj4WX7GJY2w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "G-dEIcmfca4",
+    "title": "TACO BASE PROBLEM IN STEAL A BRAINROT 😭",
+    "score": 10
+  },
+  {
+    "id": "25HINZYvevE",
+    "title": "Leaked: Trump’s Metals Law - Most Investors Aren't Ready!",
+    "score": 10
+  },
+  {
+    "id": "b_fWN5XNfUw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OiEu_pdojr4",
+    "title": "The Key to Making Wise Decisions – Dr. Charles Stanley",
+    "score": 10
+  },
+  {
+    "id": "drjaOViUrdc",
+    "title": "They're About To SHUT OFF Your Credit Cards",
+    "score": 10
+  },
+  {
+    "id": "fkPAUUAS8xs",
+    "title": "ICE Chaos ERUPTS, Iran ON THE BRINK, Khamenei In Hiding + Trump's 100% Tariff THREAT | PBD 726",
+    "score": 10
+  },
+  {
+    "id": "HKAYL9DGpkI",
+    "title": "CHINA IN TURMOIL: Xi’s military shakeup sparks global ALARM",
+    "score": 10
+  },
+  {
+    "id": "YA8NRLAlaRo",
+    "title": "EMERGENCY: Silver $125 China / $110 US - WHAT'S NEXT?",
+    "score": 10
+  },
+  {
+    "id": "Rd-Qdk1ibAI",
+    "title": "Doing Less Actually Gets You More Jacked",
+    "score": 10
+  },
+  {
+    "id": "WtU66OYkJIE",
+    "title": "The World's Most Important Machine",
+    "score": 10
+  },
+  {
+    "id": "MiUHjLxm3V0",
+    "title": "The Machine That Saved Moore’s Law",
+    "score": 10
+  },
+  {
+    "id": "55g5nJmjGik",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "zvPPf4vUEKs",
+    "title": "Get the Most Out of Therapy!  | Kati Morton",
+    "score": 10
+  },
+  {
+    "id": "DhEMFeo_gL8",
+    "title": "Why Most People NEVER Get Rich... | Andrei Jikh",
+    "score": 10
+  },
+  {
+    "id": "LzmrcIyeZdc",
+    "title": "3 FAFSA secrets to help you get the most financial aid",
+    "score": 10
+  },
+  {
+    "id": "m1I6MH7AdR4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BEY39Ekth30",
+    "title": "RUFF RUFFMAN: Getting the Most Out of the Internet! | PBS KIDS",
+    "score": 10
+  },
+  {
+    "id": "nAU_MErMoDY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UwtoN5uoB8M",
+    "title": "Costume",
+    "score": 10
+  },
+  {
+    "id": "1hOvk9PZ89w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "COyNsayrRTA",
+    "title": "This Price Action Trading Strategy Exposes Every Trend Trap",
+    "score": 10
+  },
+  {
+    "id": "r3DtpFCQGgY",
+    "title": "The Secret to Price Action",
+    "score": 10
+  },
+  {
+    "id": "Qgx3t-pmzN8",
+    "title": "A Plan Is Not a Strategy",
+    "score": 10
+  },
+  {
+    "id": "IUTRLxS-THo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6nMqpn8O9NE",
+    "title": "Why Price Action Fails Most Traders",
+    "score": 10
+  },
+  {
+    "id": "VMn5MYeVRjo",
+    "title": "Intro: The Secret of Manipulation Candles",
+    "score": 10
+  },
+  {
+    "id": "63p-lzRBTf0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "asDBegQaupM",
+    "title": "10 year FX Scalping Strategy in 42 seconds! #trading",
+    "score": 10
+  },
+  {
+    "id": "I29peidTQxU",
+    "title": "The 3 step Price Action Trading Strategy ONLY Top 5% use...",
+    "score": 10
+  },
+  {
+    "id": "gcuQXj0zT2w",
+    "title": "What is Price Action?",
+    "score": 10
+  },
+  {
+    "id": "GEYCVmH5AbQ",
+    "title": "The ONLY Price Action Trading Strategy you will EVER need (Can’t unsee this…)",
+    "score": 10
+  },
+  {
+    "id": "VXahxp3hNQg",
+    "title": "SIMPLE Price Action trading strategy (MASTER THIS)",
+    "score": 10
+  },
+  {
+    "id": "IMwdnObZeWY",
+    "title": "React to the market (Price Action) #daytrading",
+    "score": 10
+  },
+  {
+    "id": "HkNTxDvNQ74",
+    "title": "Buy or Sell? Price Action Strategy",
+    "score": 10
+  },
+  {
+    "id": "FMsyh3mAn8g",
+    "title": "Price Action Trading Strategy Basics",
+    "score": 10
+  },
+  {
+    "id": "B2KaEzfk2Vg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "v-kd1RsehLA",
+    "title": "Making a forged Bushcraft Chopper",
+    "score": 10
+  },
+  {
+    "id": "rR7G24SB5Ek",
+    "title": "Forging the Profile",
+    "score": 10
+  },
+  {
+    "id": "0lnH2oYazVw",
+    "title": "making the knife",
+    "score": 10
+  },
+  {
+    "id": "UYK-9J37lj0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MgWRJOKdOPk",
+    "title": "grinding the bevels in as a flat grind",
+    "score": 10
+  },
+  {
+    "id": "mGB8JYnaDzk",
+    "title": "What is a Chopper?",
+    "score": 10
+  },
+  {
+    "id": "q9JUcC3Fvxw",
+    "title": "Making a Chopper Knife from a Truck Leaf Spring",
+    "score": 10
+  },
+  {
+    "id": "xm_JCmy3Q20",
+    "title": "The Chopper That's Killing Harleys",
+    "score": 10
+  },
+  {
+    "id": "mSGq2ftg58s",
+    "title": "I Built a Monster Chopper!",
+    "score": 10
+  },
+  {
+    "id": "I2VOD17l-M8",
+    "title": "Intro.",
+    "score": 10
+  },
+  {
+    "id": "FljUw9Huf8A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P6dyqPqIwDw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XgzwUrGi_nY",
+    "title": "What is Software? What's the Difference Between Software and Hardware?",
+    "score": 10
+  },
+  {
+    "id": "iIxZrYzJJ7I",
+    "title": "What Do Software Engineers Actually Do?",
+    "score": 10
+  },
+  {
+    "id": "vG_qmtdBPTU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PBDlbSAddAI",
+    "title": "Types of Software",
+    "score": 10
+  },
+  {
+    "id": "AlqTPomaSLA",
+    "title": "What is Software Engineering?",
+    "score": 10
+  },
+  {
+    "id": "yqeKRuiLpCI",
+    "title": "AI Agents vs  Traditional Software (What’s the Difference?)",
+    "score": 10
+  },
+  {
+    "id": "T94syr2od7Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bryrve9Ekxw",
+    "title": "Church Accounting Software: What to Look For",
+    "score": 10
+  },
+  {
+    "id": "09JifVpf5kE",
+    "title": "What is Computer Software and its types? | What is System Software? | What is Application Software?",
+    "score": 10
+  },
+  {
+    "id": "IcW0IzC-dnE",
+    "title": "ERP vs. CRM Software: What Is the Difference? [Sales Automation vs Enterprise Resource Planning]",
+    "score": 10
+  },
+  {
+    "id": "RN9G29BRTaA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PcPbLJoUvXM",
+    "title": "What is AnyLogic Simulation Software?",
+    "score": 10
+  },
+  {
+    "id": "9e0F4VtgoaQ",
+    "title": "Making Software: What Really Works, and Why We Believe It",
+    "score": 10
+  },
+  {
+    "id": "IrnpU-SgmGM",
+    "title": "Test-Driven Development",
+    "score": 10
+  },
+  {
+    "id": "ZJTc1etqK0s",
+    "title": "Structural Engineering Software: What software do you use as a structural engineer?",
+    "score": 10
+  },
+  {
+    "id": "GvfjjeRA3tk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sU2OLoDJMgU",
+    "title": "Welcome to the #AskIoT video series",
+    "score": 10
+  },
+  {
+    "id": "SaHb-hQjMdg",
+    "title": "EVERYBODY DANCE NOW 😎 @ninbeaa #goob #scraps #dandysworld #cosplay #dandysworldcosplay #comiccon",
+    "score": 10
+  },
+  {
+    "id": "f9HY_RWqnGA",
+    "title": "Poor Goob :( @sol.cosplays @ninbeaa #dandysworld #catnap #dogday #poppyplaytimechapter1 #cosplay",
+    "score": 10
+  },
+  {
+    "id": "JQKiFmrU8q0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6tpaabAV-KI",
+    "title": "They seem to prefer Shelly over Scraps cr:@kaiianimated #dandysworld#shelly#scraps",
+    "score": 10
+  },
+  {
+    "id": "f26TI24vED8",
+    "title": "💔 || My Sunshine Goob and Scraps  #dandysworld #goob #scraps #flipaclip #animation #art",
+    "score": 10
+  },
+  {
+    "id": "u7ZNJ0Be73o",
+    "title": "Wait... I LOVE SCRAPS!! | Dandy's World",
+    "score": 10
+  },
+  {
+    "id": "3BmZBZARtk0",
+    "title": "I.... luv this ship.... #dandysworld #animation #scraps #razzleanddazzle #edit",
+    "score": 10
+  },
+  {
+    "id": "y3dEKKaAkpg",
+    "title": "Original Idea by me ft Twisted Scraps \\u0026 Goob [Dandy's World] #dandysworldmemes",
+    "score": 10
+  },
+  {
+    "id": "_gpylfNT85A",
+    "title": "Dirty Scraps ",
+    "score": 10
+  },
+  {
+    "id": "-kwZOfyQ04s",
+    "title": "PLAYING WITH EVERY TDS SKIN IN FORSAKEN: SANDBOX",
+    "score": 10
+  },
+  {
+    "id": "TTl1sgsdGh4",
+    "title": "The Executioner",
+    "score": 10
+  },
+  {
+    "id": "NtbytX4-XH4",
+    "title": "You should play Dandy's World",
+    "score": 10
+  },
+  {
+    "id": "u9L0_w1HUqs",
+    "title": "5-STAR EXTRACTORS ONLY RUN (FLOOR 45+) | DANDY'S WORLD",
+    "score": 10
+  },
+  {
+    "id": "OgZSGcfQ2QQ",
+    "title": "Level 340 Guest 666 Tries COMPETITIVE Forsaken",
+    "score": 10
+  },
+  {
+    "id": "Sa6fqxIEZu0",
+    "title": "Game 1 (WIN).",
+    "score": 10
+  },
+  {
+    "id": "2TGLXzPHBg8",
+    "title": "Did Thomas \\u0026 Friends Just Use AI Art?",
+    "score": 10
+  },
+  {
+    "id": "0ccFq7w1yE8",
+    "title": "The 5th Anniversary Continues!",
+    "score": 10
+  },
+  {
+    "id": "h6Sb0Xm7rnY",
+    "title": "PLEAD / Dandy's World / Twisted Scraps / #dandysworld #scraps #dw #alightmotion #fyp #trend",
+    "score": 10
+  },
+  {
+    "id": "07naT8OsNf8",
+    "title": "SIBLING SONG :D [IB: fyp] #dandysworld #alightmotion #animationmeme #goob #scraps",
+    "score": 10
+  },
+  {
+    "id": "s-wQCT0KUuM",
+    "title": "Dame un Grrrrrrr || [Read desc] ||  [Dandy's World] meme || ft Twisted Scraps and Goob",
+    "score": 10
+  },
+  {
+    "id": "At9E7VmToMA",
+    "title": "redesigning dandy’s world characters part 3: Scraps #dandysworld #redesigning #scraps #art",
+    "score": 10
+  },
+  {
+    "id": "JMhVSuq-tlQ",
+    "title": "I voiced over @profession_jake ‘s Dandy’s World Animation Because Why not!!!",
+    "score": 10
+  },
+  {
+    "id": "UKdHzcbX61E",
+    "title": "Search filters",
+    "score": 10
+  }
+]

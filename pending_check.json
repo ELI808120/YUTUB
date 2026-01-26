@@ -1,1 +1,2957 @@
-[]
+[
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "מדריך פייתון - 19 - לולאות while",
+    "score": 110
+  },
+  {
+    "id": "yBCNY__d4ic",
+    "title": "למד פייתון - קורס מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "תרגול דיבור והאזנה באנגלית למתחילים | תרגול שיחות באנגלית",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "MAJLgj3_G7E",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "Vrtbxvefnjs",
+    "title": "פלאי ישראל – היכן שההיסטוריה נחצבה באבן | אטרקציות מובילות ואבני חן נסתרות | סרטוני טיולים 4K",
+    "score": 60
+  },
+  {
+    "id": "J1D4sCcFv_4",
+    "title": "האסלאם פולש גם לאירופה (שוב)",
+    "score": 60
+  },
+  {
+    "id": "jgGhlqP-8dA",
+    "title": "מצרים או כנען? מאין באו הישראלים הראשונים? עם ד״ר יגאל בן נון",
+    "score": 60
+  },
+  {
+    "id": "aWIbu7n1uBI",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "קיצור תולדות העם היהודי | פרק 2 – ממסע סנחריב עד חורבן בית ראשון",
+    "score": 60
+  },
+  {
+    "id": "PvUVAzIkxmw",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "cXZcd5PiZtA",
+    "title": "פתיחה",
+    "score": 60
+  },
+  {
+    "id": "K2wPt2FnlnQ",
+    "title": "צביעת רהיטי עץ בורנית ע\\\"ב מים - טמבור",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "שיקום \\\"אשפה לאוצר\\\" | שיקום רהיטים",
+    "score": 60
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "החייאת שידה נשכחת מעליית גג נטושה | שחזור רהיטים בסגנון אר דקו",
+    "score": 60
+  },
+  {
+    "id": "6UDum8diOfg",
+    "title": "הפיכת שידה משומשת בשווי 15 דולר ליצירת מופת",
+    "score": 60
+  },
+  {
+    "id": "dZEybM1x_VA",
+    "title": "שיפוץ רהיטים-לשדרג כיסא ישן",
+    "score": 60
+  },
+  {
+    "id": "W7hujH_fGTg",
+    "title": "שמשון מאור חידוש שיפוץ רהיטים ישנים רהיטים חידוש  עתיקים רסטורציה פוליטורה בשיטות מסורתיות",
+    "score": 60
+  },
+  {
+    "id": "-5SpkxyrkP4",
+    "title": "איך מחדשים רהיט עץ מלא",
+    "score": 60
+  },
+  {
+    "id": "GGZocUaWTwc",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "G5g5ROIz1c4",
+    "title": "חידוש רהיטים - שיפוץ רהיטים",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "BDEeTrhfmQY",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "i-5DGt9o3pk",
+    "title": "הצגת הנושאים",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "Antarctica (2026) The Forbidden Continent That Holds Earth's True History",
+    "score": 50
+  },
+  {
+    "id": "n4ba86ULy4Q",
+    "title": "Can you paint kitchen cabinets without sanding or priming? How to paint cabinets. Cabinet painting.",
+    "score": 50
+  },
+  {
+    "id": "R2lyycxgqEs",
+    "title": "$14 DRESSER MAKEOVER 😲😯🤭 #furniturerestoration #furnituremakeover #diy",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "cC6CCdg8fBs",
+    "title": "OIL PAINTING TIPS: How to Glaze, Scumble, and . . . GLUMBLE?",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "Man Fully Transforms His Backyard with DIY | Start to Finish by @buildersblueprint",
+    "score": 50
+  },
+  {
+    "id": "uUdDQSb5Jqo",
+    "title": "Top 15 New Technology Trends That Will Define 2027",
+    "score": 50
+  },
+  {
+    "id": "u-4omutbbh8",
+    "title": "15 INSANE Future Technologies That Will Change the World by 2030",
+    "score": 50
+  },
+  {
+    "id": "nD_-7HrHjZk",
+    "title": "How to Throw a Curveball [Beginner's Guide]",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "-qiMuTAnnlU",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "YO_cs_aLw7s",
+    "title": "How the Building Blocks of a Home are Made | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "5R1DRtRbu_E",
+    "title": "How To Hit A Curveball",
+    "score": 50
+  },
+  {
+    "id": "Ya46bmRa0os",
+    "title": "Havana Curveball (Extraordinary People Documentary)",
+    "score": 50
+  },
+  {
+    "id": "fxrMDZV0HWQ",
+    "title": "What makes a curveball curve?",
+    "score": 50
+  },
+  {
+    "id": "1mjBLwmeyvk",
+    "title": "HOW TO HIT A CURVEBALL!  - Baseball Hitting Tips",
+    "score": 50
+  },
+  {
+    "id": "ZHhGzGH-yHU",
+    "title": "How to hit a curveball - 4 Tips for being a better curveball hitter",
+    "score": 50
+  },
+  {
+    "id": "ANHhVqgECkE",
+    "title": "How to Throw a Curveball - Quick and To the Point",
+    "score": 50
+  },
+  {
+    "id": "onX2qOfJr0Q",
+    "title": "How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson",
+    "score": 50
+  },
+  {
+    "id": "eZvAQq27Cwc",
+    "title": "The Science of Setting \\u0026 Achieving Goals",
+    "score": 50
+  },
+  {
+    "id": "t1F7EEGPQwo",
+    "title": "The Neuroscience of Goals",
+    "score": 50
+  },
+  {
+    "id": "Kyjxcb1_v1s",
+    "title": "How to Build Systems to Actually Achieve Your Goals - Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "wjO2CnQxQQw",
+    "title": "How To Actually Achieve Your Goals in 2026",
+    "score": 50
+  },
+  {
+    "id": "Ld6p7xmyp1I",
+    "title": "Search the Building",
+    "score": 50
+  },
+  {
+    "id": "v-QRg7TFBhE",
+    "title": "Nomad Sculpt - Scales along curve - Just for fun - Snake - Repeater - Tutorial (V1.83 - 6.9.2023)",
+    "score": 50
+  },
+  {
+    "id": "XT6zGRyhK34",
+    "title": "How to Rig a Snake to Follow a Curve | Maya Tutorial",
+    "score": 50
+  },
+  {
+    "id": "qO0STgS-9RU",
+    "title": "How to Use Curves in Blender (Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "UAQcNo9yWbM",
+    "title": "How to sew curves for New York Beauty blocks",
+    "score": 50
+  },
+  {
+    "id": "925lc-W7MGk",
+    "title": "Curves \\u0026 Curve Modifier in Blender - Beginner Tutorial",
+    "score": 50
+  },
+  {
+    "id": "TdEzqgu9LfI",
+    "title": "Does the Laffer Curve Make Any Sense?",
+    "score": 50
+  },
+  {
+    "id": "Q2PZMW4sl3I",
+    "title": "How To Frame A Hip Roof - Including A Common Rafter Review",
+    "score": 50
+  },
+  {
+    "id": "Clxb5aPGiT4",
+    "title": "How to frame a hip roof. Full demonstration of layout, cuts, and assembling",
+    "score": 50
+  },
+  {
+    "id": "_TmXZ0cGNEI",
+    "title": "How to Find Roof Pitch in Less than a Minute",
+    "score": 50
+  },
+  {
+    "id": "N1UM7e115UQ",
+    "title": "How to Cut Hip Rafters",
+    "score": 50
+  },
+  {
+    "id": "zq1KBtmGZ70",
+    "title": "How to do Rafter Calculations -- Commons, Hips/Valleys, Jacks | Construction Master 5",
+    "score": 50
+  },
+  {
+    "id": "TRoZ9QZcVhQ",
+    "title": "What Is The History Of The Knickerbocker Baseball Club? - The Baseball Xpert",
+    "score": 50
+  },
+  {
+    "id": "WuYZnpDGf10",
+    "title": "Brain Breaks ♫ Action Songs for Children ♫ Dr. Knickerbocker ♫ Kids Songs by The Learning Station",
+    "score": 50
+  },
+  {
+    "id": "hvmoa_gz12g",
+    "title": "How I Set Goals That ACTUALLY MAKE MONEY",
+    "score": 50
+  },
+  {
+    "id": "y5pLtgbjlEU",
+    "title": "Kitchen Straight Out of the 1990s Gets a Jean Stoffer Makeover and Remodel | Magnolia Network",
+    "score": 50
+  },
+  {
+    "id": "Pj0cZqSCe4U",
+    "title": "Take Goal Kicks Like A Pro - How To Kick The Ball Far - Goalkeeper Tips \\u0026 Drills - Longball Tutorial",
+    "score": 50
+  },
+  {
+    "id": "egfkQV3TN6s",
+    "title": "Honest review of Moto Guzzi Stelvio 2025 #peterwithmotorcycle #motorbike ",
+    "score": 50
+  },
+  {
+    "id": "kEIlIB7Lqlk",
+    "title": "The History Of St. Peter, With David Suchet (Part One) | Our History",
+    "score": 50
+  },
+  {
+    "id": "4HZASVlyXAg",
+    "title": "The History Of St. Peter, With David Suchet (Part Two) | Our History",
+    "score": 50
+  },
+  {
+    "id": "ecl76xKgK2w",
+    "title": "Lower Quinton: The Village That Hid a Witch Murder? (Documentary)",
+    "score": 50
+  },
+  {
+    "id": "vKJfXN2nsSc",
+    "title": "How to Count Infinity",
+    "score": 50
+  },
+  {
+    "id": "FzuMSJTysmg",
+    "title": "How To Count Past Infinity",
+    "score": 50
+  },
+  {
+    "id": "XFDM1ip5HdU",
+    "title": "Math Debate: Real numbers and the infinite in analysis (NJ Wildberger) | Ep. 16",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How To Use Search Filters In WhatsApp (Updated)",
+    "score": 50
+  },
+  {
+    "id": "lhhFDISgobg",
+    "title": "How To Search For Filters On Instagram Story",
+    "score": 50
+  },
+  {
+    "id": "zf4aMlFgd6I",
+    "title": "How to Use Search Filters in YouTube App",
+    "score": 50
+  },
+  {
+    "id": "dneR1fSiS2Q",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "Sl0dcgd70Q4",
+    "title": "How To Use the Search Filters Web Part",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "TObWuXFz-68",
+    "title": "How to Throw a Curveball - Quick and To the Point",
+    "score": 50
+  },
+  {
+    "id": "xoQDSyCIPIc",
+    "title": "How To Use Spin in Pickleball (RESULTS GUARANTEED)",
+    "score": 50
+  },
+  {
+    "id": "kjOTu_Om0ZY",
+    "title": "How to SPIN your Serve in Pickleball (LEGALLY)",
+    "score": 50
+  },
+  {
+    "id": "Sqn0GWl-24Q",
+    "title": "How To Grip \\u0026 Throw A Curveball with Maximum Spin Rate! ⚾️⤵️",
+    "score": 50
+  },
+  {
+    "id": "d1U4S58XAW4",
+    "title": "How to throw a curveball",
+    "score": 50
+  },
+  {
+    "id": "QtcTHE44AJI",
+    "title": "How to Throw a Curveball - Quick and To the Point",
+    "score": 50
+  },
+  {
+    "id": "XJYH3M1Pxbc",
+    "title": "How to throw a curveball",
+    "score": 50
+  },
+  {
+    "id": "J_bOsj2i5Ag",
+    "title": "How to Throw a Curveball | Thumb Positions, Grips, and Cues | Driveline Baseball",
+    "score": 50
+  },
+  {
+    "id": "BXh9qCpsers",
+    "title": "The Quick Guide to Baseball Pitch Grips",
+    "score": 50
+  },
+  {
+    "id": "Exz7V3pxQAw",
+    "title": "How To Throw Trevor Bauer's Curveball",
+    "score": 50
+  },
+  {
+    "id": "cdr_CIIfml8",
+    "title": "The Day Zlatan Ibrahimovic Made History for Sweden",
+    "score": 50
+  },
+  {
+    "id": "vDZ1R2_EUqg",
+    "title": "How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson",
+    "score": 50
+  },
+  {
+    "id": "hj7Kw3fDNaw",
+    "title": "Setting SMART Goals - How To Properly Set a Goal (animated)",
+    "score": 50
+  },
+  {
+    "id": "rErQ9BPceDU",
+    "title": "How to Set Goals - Goal Setting and Achieving",
+    "score": 50
+  },
+  {
+    "id": "EYxHnsxvPoY",
+    "title": "How to achieve your goals with a single page | Sarah Glova | TEDxShawUniversity",
+    "score": 50
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "Why Everyone Keeps Fighting Over Jerusalem",
+    "score": 10
+  },
+  {
+    "id": "Ujcj8inqkOs",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DtYn7fixWcw",
+    "title": "CAN YOU REALLY",
+    "score": 10
+  },
+  {
+    "id": "BsoKzla089k",
+    "title": "Thrift store find",
+    "score": 10
+  },
+  {
+    "id": "Ta4AB09EM7U",
+    "title": "You can change the color of sealed wood with gel stain! No sanding necessary #diy #furniture",
+    "score": 10
+  },
+  {
+    "id": "5-xlNcwlhws",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dPw8J2G7cqI",
+    "title": "Oil Painting Basics",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "M7CkjjtRZTU",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "X01aUoLm8lE",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "Y7Iyuhwz1f4",
+    "title": "🔧 Handyman Hacks for DIY Home Repairs | Fix Anything Like a Pro",
+    "score": 10
+  },
+  {
+    "id": "PTzkSCnC5Ck",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "25 bizarre home hacks that work like magic!",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hfMJTcvzW3Y",
+    "title": "DIY Tips and Tricks for Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "L4u5ZY_-htw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Wzm2mNWT_ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "PlwmOgcEry8",
+    "title": "Bull Durham (1988) - What Crash Believes Scene (1/12) | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "kurs podstaw Pythona w godzinę",
+    "score": 10
+  },
+  {
+    "id": "I1uOp-e03rw",
+    "title": "wstęp",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "3reGgE5ox4o",
+    "title": "SpaceX is Finally Sending Starship To Mars This Year... Musk Just Said It!",
+    "score": 10
+  },
+  {
+    "id": "ntmssdzp_qY",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "ROlEtlldxqk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "R66LlRLtlIA",
+    "title": "What Should I Believe? ----Curveball: God and the Journey of Faith with Dr. Peter Enns",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "9hlKGcdytFQ",
+    "title": "Aluminum Pots and Pans.",
+    "score": 10
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Sandwich Cookies- Originally aired 2009",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "zL93IObiPbw",
+    "title": "Glass Paperweights - Originally aired 2010",
+    "score": 10
+  },
+  {
+    "id": "gJDKP8bpUoY",
+    "title": "Cultured Diamonds.",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "Hb4pYpTWJhg",
+    "title": "Playground Spring Riders",
+    "score": 10
+  },
+  {
+    "id": "5XFLpRN2tYc",
+    "title": "Pillows - Originally aired 2014",
+    "score": 10
+  },
+  {
+    "id": "4XIOyq67j1w",
+    "title": "USS Ronald Reagan: The World's Biggest Aircraft Carrier",
+    "score": 10
+  },
+  {
+    "id": "QbfoHy8MIWY",
+    "title": "MLB NASTIEST CURVEBALLS EVER😱",
+    "score": 10
+  },
+  {
+    "id": "Ekvazj0YA2w",
+    "title": "The Curveball - Wrist Action, Physics and Grips for Baseball Pitchers",
+    "score": 10
+  },
+  {
+    "id": "ciF1KJvgg1M",
+    "title": "Spinning the Curveball with Al Leiter",
+    "score": 10
+  },
+  {
+    "id": "Xq3-PnIkQCk",
+    "title": "Baseball's first curveball was thrown underhand and inspired by seashells",
+    "score": 10
+  },
+  {
+    "id": "UvdhI-F-P34",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "lrO9VpQCXZU",
+    "title": "Arthur Laffer and the birth of the Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "bu57G3ozgxc",
+    "title": "Last Minute Goals That Get Increasingly INSANE",
+    "score": 10
+  },
+  {
+    "id": "00kNtIE0LM0",
+    "title": "Lewandowski 5 Goals in 9 Minutes 🤯",
+    "score": 10
+  },
+  {
+    "id": "Pwpa9woFqdY",
+    "title": "Goals that are straight from anime",
+    "score": 10
+  },
+  {
+    "id": "jeMllgh7azw",
+    "title": "Mbappe Reached R9 Goals 😱👆",
+    "score": 10
+  },
+  {
+    "id": "FO-IvyaKvao",
+    "title": "Impossible goals that never won the Puskas 😯",
+    "score": 10
+  },
+  {
+    "id": "9bMXbFx95aA",
+    "title": "LEGENDARY CORNER GOALS THAT STUNNED ALL!",
+    "score": 10
+  },
+  {
+    "id": "ADNapgbnkuI",
+    "title": "Goals That Are Straight From Anime—Blue Lock Goals in Real Life FOOTBALL! (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "TQMbvJNRpLE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ribRKdsJX7A",
+    "title": "Benjamin Pavard tests his memory of *that* goal 🤤",
+    "score": 10
+  },
+  {
+    "id": "GRZhEvQ6ywY",
+    "title": "TOP 5 MESSI INTER MIAMI GOALS 🇺🇸🐐🔥",
+    "score": 10
+  },
+  {
+    "id": "I7G_IvVw4hs",
+    "title": "Most Goals in First 15 Seasons | #football #barcelona #realmadrid",
+    "score": 10
+  },
+  {
+    "id": "5nZHDRiy_xs",
+    "title": "Haaland's 🤩 BEST Ever Goal for BVB? ⚽💪",
+    "score": 10
+  },
+  {
+    "id": "Buxnlg1XEUA",
+    "title": "INCREDIBLE Long Range Goal! 🚀🤯",
+    "score": 10
+  },
+  {
+    "id": "iT-_7hjEw6M",
+    "title": "BLUELOCK VS JAPAN U-20! ALL GOALS IN REAL LIFE #футбол #bluelock #bluelockedit #isagiyoichi #anime",
+    "score": 10
+  },
+  {
+    "id": "YYqC-E4TzsM",
+    "title": "AMAZULU vs TS GALAXY ‣ ALL GOALS \\u0026 HIGHLIGHTS ‣ BETWAY PSL 2025/26",
+    "score": 10
+  },
+  {
+    "id": "SsDnlVSkU9w",
+    "title": "Real-Life Footballers Copying Blue Lock Goals",
+    "score": 10
+  },
+  {
+    "id": "Sho46qumEVQ",
+    "title": "Set and Achieve Goals",
+    "score": 10
+  },
+  {
+    "id": "_vkLn1Qve60",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CxmnU-s25Zs",
+    "title": "NFS:HP Remastered | Coast to Coast 3:43.79 | World Record",
+    "score": 10
+  },
+  {
+    "id": "-fGtcwOaHt0",
+    "title": "PMD2 - Craggy Coast (REMASTERED, Pokemon Mystery Dungeon 2 Remastering Project)",
+    "score": 10
+  },
+  {
+    "id": "3hMp4yMdUbA",
+    "title": "La Palma East Coast Mega Tsunami: Remastered",
+    "score": 10
+  },
+  {
+    "id": "tXJcJ4Kfu-0",
+    "title": "The Last of Us Part II Remastered : The Coast",
+    "score": 10
+  },
+  {
+    "id": "x7vkOvr5S90",
+    "title": "Japan Coastal",
+    "score": 10
+  },
+  {
+    "id": "UNiQf1M9-8U",
+    "title": "Hailee Steinfeld - Coast (feat. Anderson .Paak) [Instrumental w/Backing Vocals] (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "qIILx9INne0",
+    "title": "Blue Coast Collection Remastered - 13 - Tamalpais (Extended Version)",
+    "score": 10
+  },
+  {
+    "id": "gh_cRB4FW3Y",
+    "title": "Acceleracers OST: Clash on the Coast (m4lw4re remastered version) [visualizer]",
+    "score": 10
+  },
+  {
+    "id": "s5hgnMngxSw",
+    "title": "Lana Del Rey - West Coast",
+    "score": 10
+  },
+  {
+    "id": "oKxuiw3iMBE",
+    "title": "NFS Hot Pursuit Remastered - Coast To Coast | Racer Career",
+    "score": 10
+  },
+  {
+    "id": "USf0v_1RA8U",
+    "title": "Lana Del Rey - West Coast (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "o3SqUUoJjW8",
+    "title": "Need for Speed Hot Pursuit Remastered – Coast to Coast - Covette Grand Sport Gameplay",
+    "score": 10
+  },
+  {
+    "id": "68jAu1-7iAQ",
+    "title": "Cities Skylines Gets Audited",
+    "score": 10
+  },
+  {
+    "id": "QrEeng0i0Tg",
+    "title": "Coastal Village – All Secrets \\u0026 Pickups – Tomb Raider 3 Remastered",
+    "score": 10
+  },
+  {
+    "id": "KDa2ZaAuvgs",
+    "title": "Timestamps",
+    "score": 10
+  },
+  {
+    "id": "SXjDOSdk0jo",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "QtDFaGS9qWs",
+    "title": "True Facts: How Snakes Move",
+    "score": 10
+  },
+  {
+    "id": "zFNnx4UgkNI",
+    "title": "Strikes",
+    "score": 10
+  },
+  {
+    "id": "LwQ0OBIci68",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GA014K81atE",
+    "title": "078 ZBrush 2021.6 - Snake Curve Brushes: Quick Creative Concept Brushes for Exploring Organic Forms!",
+    "score": 10
+  },
+  {
+    "id": "7U1JMgdDJ2s",
+    "title": "Snake Curve Brushes",
+    "score": 10
+  },
+  {
+    "id": "7-AKPFiIEEw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FWLFeyOvHMM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2aXjzxI6kXY",
+    "title": "Blender | Snake trace curve | Move along path ( Lancerlot Game: Snake 3d in Making)",
+    "score": 10
+  },
+  {
+    "id": "Ads9gzpSSoo",
+    "title": "Realistic Snake Scales Modeling(use curve and array addon) in Blender 2.93",
+    "score": 10
+  },
+  {
+    "id": "U_lIYF4Q3fc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "58F15mLA6Uo",
+    "title": "Advanced Skeleton",
+    "score": 10
+  },
+  {
+    "id": "jtYQFMliQe4",
+    "title": "How Snake Charming Works 🤯",
+    "score": 10
+  },
+  {
+    "id": "_QWmCTF1eYg",
+    "title": "Trying Vibration Therapy on a Snake",
+    "score": 10
+  },
+  {
+    "id": "dN5EdjiDTeM",
+    "title": "minutes later...",
+    "score": 10
+  },
+  {
+    "id": "mDvFvUgB5ZQ",
+    "title": "Carving a Snake into a Pencil",
+    "score": 10
+  },
+  {
+    "id": "dGtmTzknFvo",
+    "title": "Hilbert Curve Snake",
+    "score": 10
+  },
+  {
+    "id": "KIj6SmzxP4E",
+    "title": "ZBrush 2021.6 Snake Curve brushes",
+    "score": 10
+  },
+  {
+    "id": "AHJ6n4MrzzU",
+    "title": "Symmetry",
+    "score": 10
+  },
+  {
+    "id": "Ve9h7-E8EuM",
+    "title": "use curves in blender",
+    "score": 10
+  },
+  {
+    "id": "q4-T6yg9-u8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Bil53mMzzDA",
+    "title": "Leticia Disher Vieira: Brazilian Beauty, Curves \\u0026 Confidence | Alluring Curve",
+    "score": 10
+  },
+  {
+    "id": "XW-ag6fhJJU",
+    "title": "Sana | Plus Size Beauty \\u0026 BBW Inspiration | Confidence, Curves \\u0026 Motivational Model Story",
+    "score": 10
+  },
+  {
+    "id": "AkLdwPl7sDw",
+    "title": "Introduction – The Essence of Sana",
+    "score": 10
+  },
+  {
+    "id": "Vtpeq7FZ7yA",
+    "title": "Introduction: Who is Rachel",
+    "score": 10
+  },
+  {
+    "id": "sZ1p6sVykKA",
+    "title": "Introduction to Karol Beauty",
+    "score": 10
+  },
+  {
+    "id": "iSMg0HR_9xE",
+    "title": "Introduction to Destiny",
+    "score": 10
+  },
+  {
+    "id": "kj4gKqAUgCg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5eKWz01cRrE",
+    "title": "Introduction: The Light Within Nova",
+    "score": 10
+  },
+  {
+    "id": "2bLKjQU6oDU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6OOW07UZA4M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Odg7acl3nIM",
+    "title": "MTV 120 Minutes Toni Halliday from Curve interview March 8 1992",
+    "score": 10
+  },
+  {
+    "id": "gxzWCH1Q4fM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8shIxZ4eBXQ",
+    "title": "Creating geometry from curve",
+    "score": 10
+  },
+  {
+    "id": "Z6ma_paEaC8",
+    "title": "The Demand Curve",
+    "score": 10
+  },
+  {
+    "id": "kUPm2tMCbGE",
+    "title": "The Demand Curve",
+    "score": 10
+  },
+  {
+    "id": "a4zMX6dDVXI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UBc7qBS1Ujo",
+    "title": "Alfred Binet",
+    "score": 10
+  },
+  {
+    "id": "FCk2-QVqCck",
+    "title": "Art Laffer explains the Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "fw5rp7MfD-Q",
+    "title": "The Story of the Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "j4IxG0CANt0",
+    "title": "Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "XuZg93Bm4_Y",
+    "title": "Who invented the Laffer curve?",
+    "score": 10
+  },
+  {
+    "id": "9ZLuJ51zL18",
+    "title": "Lower Taxes = More Revenue ???",
+    "score": 10
+  },
+  {
+    "id": "GZT_A7MEtJg",
+    "title": "Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "akehZkhJ-Ss",
+    "title": "The Dollar Is ‘Unhinged Paper Currency’, But We Can Still Save It | Arthur Laffer \\u0026 Michelle Makori",
+    "score": 10
+  },
+  {
+    "id": "1227Loqmsp4",
+    "title": "Coming Up",
+    "score": 10
+  },
+  {
+    "id": "rqv-jKSbdFs",
+    "title": "Are Trump's tax cuts using MMT style logic?  -  Modern Monetary Theory (MMT) and The Laffer Curve",
+    "score": 10
+  },
+  {
+    "id": "NfiyFTJHuzg",
+    "title": "Is Trump using MMT?",
+    "score": 10
+  },
+  {
+    "id": "H4OwLyzckzk",
+    "title": "The Most Persistent Economic Fallacy of All Time!",
+    "score": 10
+  },
+  {
+    "id": "Hrg1CArkuNc",
+    "title": "Topic 4: Optimal Taxation Part 1 | Economics 2450A: Public Economics",
+    "score": 10
+  },
+  {
+    "id": "IPlCtuB3B68",
+    "title": "Overview of Optimal Taxation",
+    "score": 10
+  },
+  {
+    "id": "6DXZMXZCY0I",
+    "title": "Capital Gains Taxes Destroy Wealth",
+    "score": 10
+  },
+  {
+    "id": "DIxxeOpCiT8",
+    "title": "Do the Rich Pay Their Fair Share? | 5 Minute Videos | PragerU",
+    "score": 10
+  },
+  {
+    "id": "DnEe4oaSC88",
+    "title": "PAYROLL TAX",
+    "score": 10
+  },
+  {
+    "id": "xyohSl2vH2w",
+    "title": "How Governments Try to Maximize Tax Revenue | The Laffer Curve Explained",
+    "score": 10
+  },
+  {
+    "id": "J0zcT_Sk9CI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "1gyobu3pd50",
+    "title": "Laffer's curve: the tax myth that promoted inequality",
+    "score": 10
+  },
+  {
+    "id": "n1IHlHmPta0",
+    "title": "Laffer Curve Explained and Debunked!",
+    "score": 10
+  },
+  {
+    "id": "bDHkpAACZOE",
+    "title": "The Laffer curve’s core assumptions",
+    "score": 10
+  },
+  {
+    "id": "36E1sUky41s",
+    "title": "FAT-CAT CORPORATIONS",
+    "score": 10
+  },
+  {
+    "id": "FqLjyA0hL1s",
+    "title": "Where Britain lies on the Laffer Curve according to the man himself ",
+    "score": 10
+  },
+  {
+    "id": "BrjyvQSQXls",
+    "title": "The Laffer Curve by Vidhi Kalra",
+    "score": 10
+  },
+  {
+    "id": "JH3JCu1XKpk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JROmCGUxyvI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TnFEDFqVJUQ",
+    "title": "\\\"It's the things we love most that destroy us.\\\" | The Hunger Games: Mockingjay — Part 1 (HDR)",
+    "score": 10
+  },
+  {
+    "id": "H_yuOyHIbQQ",
+    "title": "It's the things we love most, that destroy us.",
+    "score": 10
+  },
+  {
+    "id": "h0PygX9XGXk",
+    "title": "This is the Most Dangerous Snake on Earth",
+    "score": 10
+  },
+  {
+    "id": "0z4qQ4Envjk",
+    "title": "Dexter’s Most Intense Face-Offs 🫣",
+    "score": 10
+  },
+  {
+    "id": "vZXL3vvTODU",
+    "title": "The Most That Shows",
+    "score": 10
+  },
+  {
+    "id": "ghqHInvSPpA",
+    "title": "Most Investors Are About To Get Caught Off-Sides Again! [What This Means For Markets]",
+    "score": 10
+  },
+  {
+    "id": "_hw3ZG6UBLk",
+    "title": "Another US Goverment Shutdown Incoming?",
+    "score": 10
+  },
+  {
+    "id": "5VAF3ypMS84",
+    "title": "coriolanus snow : it's the things we love most that destroy us",
+    "score": 10
+  },
+  {
+    "id": "xdc6h1lks70",
+    "title": "The Most DRAMATIC Guests! (MEGA-Compilation) | Part 2 | Dance Moms | Lifetime",
+    "score": 10
+  },
+  {
+    "id": "JrD0q4oL0ZE",
+    "title": "The Part That Hurts The Most (Is Me)",
+    "score": 10
+  },
+  {
+    "id": "w-cqmP28YQc",
+    "title": "The Most That Anyone Has Ever Talked About Amarantha | ACOTAR Deep Dive | S2E5 | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "2feZK6ZmQCU",
+    "title": "02:59: Intro and listener messages",
+    "score": 10
+  },
+  {
+    "id": "Enxa6IwLMMo",
+    "title": "The 30 Most Popular Foods of the Year🤤 | Ultimate Food Compilation | That Little Puff",
+    "score": 10
+  },
+  {
+    "id": "nzdUZnzOWV0",
+    "title": "Glia Are Your Brain's Most Mysterious Cells",
+    "score": 10
+  },
+  {
+    "id": "ZVt3t5zmvT8",
+    "title": "The Man Who Betrayed the Most Dangerous Cartel",
+    "score": 10
+  },
+  {
+    "id": "0MHNtuWq1UE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yZGYThhOltM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AAIYR1bs-vQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P0USmxLAHtA",
+    "title": "7 Drills To Increase Hip To Shoulder Separation",
+    "score": 10
+  },
+  {
+    "id": "_5BEUF9XX_s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yCHvyc2VaA8",
+    "title": "Drawing Angles",
+    "score": 10
+  },
+  {
+    "id": "dMRyFyUcNEc",
+    "title": "Cutting Common AND Hip Rafters: Simple Solutions for Roof Framing",
+    "score": 10
+  },
+  {
+    "id": "B3wbHFeUrFs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2TWmeQ8R1A4",
+    "title": "External Rotation",
+    "score": 10
+  },
+  {
+    "id": "YsIj29jm3-U",
+    "title": "Pitchers: Fix Your Hips with This Drill",
+    "score": 10
+  },
+  {
+    "id": "Hy-ZQGj_G5Y",
+    "title": "Softball Pitching: Hips \\u0026 Shoulders",
+    "score": 10
+  },
+  {
+    "id": "XudG7usZZNE",
+    "title": "The Load",
+    "score": 10
+  },
+  {
+    "id": "gvTAaXiklGc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6p8lAQhm-eE",
+    "title": "1).Figure 4 Sciatica Stretch",
+    "score": 10
+  },
+  {
+    "id": "J7kFWE10qGE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PNZDe9lEUI4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0-vOceb1Cho",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CmKZoPmROn8",
+    "title": "Direct Measurement",
+    "score": 10
+  },
+  {
+    "id": "zhiU-TrMFYg",
+    "title": "Throw Harder By Mastering Hip-Shoulder Separation [Full Routine]",
+    "score": 10
+  },
+  {
+    "id": "KHenXJxkm3Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HiJFPA7JgSo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kFTw8B9KcxA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NAZ0kFeU-xY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oCJqe23IA6g",
+    "title": "Why Was The Knickerbocker Baseball Club Important? - The Baseball Xpert",
+    "score": 10
+  },
+  {
+    "id": "3dOUXxxHG7Y",
+    "title": "The Knickerbocker Rules",
+    "score": 10
+  },
+  {
+    "id": "o13DKJaSoBM",
+    "title": "Who Really Invented Baseball? - You Should Know",
+    "score": 10
+  },
+  {
+    "id": "jWnTkOVLL8k",
+    "title": "The signature of an original N.Y. Knickerbocker",
+    "score": 10
+  },
+  {
+    "id": "TJSWEcY4HyU",
+    "title": "When Was The Knickerbocker Baseball Club Founded? - The Baseball Xpert",
+    "score": 10
+  },
+  {
+    "id": "ckfIAXuI6W4",
+    "title": "Lesser known baseball rules",
+    "score": 10
+  },
+  {
+    "id": "nImWBREZe7E",
+    "title": "Unit 1   The Knickerbocker Baseball Club",
+    "score": 10
+  },
+  {
+    "id": "ytN8d1vmduw",
+    "title": "Who Invented Baseball? - The Baseball Xpert",
+    "score": 10
+  },
+  {
+    "id": "PEW0I3u15iA",
+    "title": "ONE OF THE OLDEST BASEBALL PLAYER SIGNATURES YOU WILL EVER SEE!!!",
+    "score": 10
+  },
+  {
+    "id": "5L40pXuNawY",
+    "title": "Why Was The Baseball Club Named Knickerbocker'? - The Baseball Xpert",
+    "score": 10
+  },
+  {
+    "id": "3Vhwu8O2HAw",
+    "title": "What Was The Knickerbocker Club's Connection To The Elysian Fields? - The Baseball Xpert",
+    "score": 10
+  },
+  {
+    "id": "OtCKY0L44AI",
+    "title": "A friendly game of baseball, 1861 style",
+    "score": 10
+  },
+  {
+    "id": "D8AwvFkz6cM",
+    "title": "Edward Baker Founder, Thames Base Ball Club",
+    "score": 10
+  },
+  {
+    "id": "OimgnwyD7ao",
+    "title": "Bizarre Rules In Baseball You Never Knew Existed",
+    "score": 10
+  },
+  {
+    "id": "D5bQUysmpJc",
+    "title": "Baseball: A 'New York Game Changers' Story",
+    "score": 10
+  },
+  {
+    "id": "jn_TDoPBSKI",
+    "title": "3 Rules For Your Deposition",
+    "score": 10
+  },
+  {
+    "id": "YQ38URiNDmM",
+    "title": "Answer Out Loud",
+    "score": 10
+  },
+  {
+    "id": "fE-VMVz-xuw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5WX9UEYZsR8",
+    "title": "The Pareto Distribution",
+    "score": 10
+  },
+  {
+    "id": "L4N1q4RNi9I",
+    "title": "Why the secret to success is setting the right goals | John Doerr | TED",
+    "score": 10
+  },
+  {
+    "id": "65yP7QaedIE",
+    "title": "Top 50 Magical Goals That SHOCKED The World!",
+    "score": 10
+  },
+  {
+    "id": "a20aMsJ756I",
+    "title": "Introduction \\u0026 The Decision to Change",
+    "score": 10
+  },
+  {
+    "id": "XpKvs-apvOs",
+    "title": "Diego Maradona Goals That SHOCKED The World",
+    "score": 10
+  },
+  {
+    "id": "LlyqTYVTy6o",
+    "title": "Mr Mich from Upnorth Family Back in Effect",
+    "score": 10
+  },
+  {
+    "id": "oypw1kIf24A",
+    "title": "II. Coro: Nach dir, Herr, verlanget mich from BWV 150 by JS Bach",
+    "score": 10
+  },
+  {
+    "id": "NQCkhgVExes",
+    "title": "Ew Mich from the Mascots #viralvideo",
+    "score": 10
+  },
+  {
+    "id": "p9iIb42iC0o",
+    "title": "Aaron Mich-From Gun-Ru With Love",
+    "score": 10
+  },
+  {
+    "id": "JxD3C0uPlpo",
+    "title": "G. PH. TELEMANN - \\\"Wappne mich\\\" from cantata \\\"Erwachet zum Kriegen\\\" - Tullia Pedersoli soprano",
+    "score": 10
+  },
+  {
+    "id": "vb5A8QTZu-s",
+    "title": "Mich from Big brother house 🏠 Mzansi season 4 😍😍😍😍Dancing for my song 🎧 😍😍😍🥹",
+    "score": 10
+  },
+  {
+    "id": "rUNI7Mbq02A",
+    "title": "My CEO Asked Me,”Why Are You Avoiding Me?”.I Replied,”Because Seeing You Hurts”",
+    "score": 10
+  },
+  {
+    "id": "W3xFnUn79E8",
+    "title": "McCarthy brings REAL authority! – Rex Ryan BLASTS doubters, says Steelers dominate late games",
+    "score": 10
+  },
+  {
+    "id": "qHCEHc937Ns",
+    "title": "Film Theory: Stranger Things is LYING to You! (ConformityGate)",
+    "score": 10
+  },
+  {
+    "id": "GMnhdGaGEz8",
+    "title": "A WORK DAY with me on Svalbard ︱New Office \\u0026 Routines in Longyearbyen",
+    "score": 10
+  },
+  {
+    "id": "cfmUR9TvqZU",
+    "title": "7 BEST Vintage Decor Trends Making a Comeback in 2026",
+    "score": 10
+  },
+  {
+    "id": "KeRKiKyIVOU",
+    "title": "Henking - Hoffman Transition Video (Spring 2021)",
+    "score": 10
+  },
+  {
+    "id": "ONaiZHQ9IsQ",
+    "title": "My husband left... (Here's to solo parenting)",
+    "score": 10
+  },
+  {
+    "id": "2RCMf12fddY",
+    "title": "Yield Basis - AMM without IL - Trading fees for BTC",
+    "score": 10
+  },
+  {
+    "id": "SC0tVRbbOFM",
+    "title": "Over 100 Vehicles Involved In I-196 Pileup During Dangerous Snowy Conditions In Michigan",
+    "score": 10
+  },
+  {
+    "id": "8P9IsZiCKbQ",
+    "title": "I Forced Grok vs Perplexity to Day Trade for Me",
+    "score": 10
+  },
+  {
+    "id": "gootXPrfTVw",
+    "title": "From Concussion to Comeback: Football Journey #fyp #mich #umich #bighouse",
+    "score": 10
+  },
+  {
+    "id": "3grYbeIPUiM",
+    "title": "Mich from down the street #fyp #viral",
+    "score": 10
+  },
+  {
+    "id": "Dw5BwyEVkLo",
+    "title": "Herr, lehre doch mich from Brahms Requiem",
+    "score": 10
+  },
+  {
+    "id": "cbtStsypNHg",
+    "title": "MICH FROM BIG BROTHER MZANSI TALK ABOUT DJ MAPHORISA",
+    "score": 10
+  },
+  {
+    "id": "4WMIz5SoRi8",
+    "title": "Nach dir, Herr, verlanget mich from Cantata No. 150 performed by LaGuardia's Senior Chorus",
+    "score": 10
+  },
+  {
+    "id": "_4_dxY6s6yc",
+    "title": "Dj Disspare Streetkillaz Ent's Interview with ''MICH FROM WONWAY ''",
+    "score": 10
+  },
+  {
+    "id": "UOnmzoJ_IU4",
+    "title": "YieldBasis Breakdown w/ Mich from Curve",
+    "score": 10
+  },
+  {
+    "id": "0dI6o-NpjCk",
+    "title": "Denk stets an mich (acoustin Version) (From coco, as Originally Performed By luis ángel gómez...",
+    "score": 10
+  },
+  {
+    "id": "Ugxzh9k7Xmk",
+    "title": "Samoan Rappers Street Sholars feat. Yac of Usoldiers and Mich from Da Kamp - Streets Of Cali",
+    "score": 10
+  },
+  {
+    "id": "aQg4KH6tVt8",
+    "title": "Movie \\\"Such Dreams\\\"  with Mich from Townsville Qld. Australia",
+    "score": 10
+  },
+  {
+    "id": "xKJYnJUPtOg",
+    "title": "Thank you to the staff of Children's Hospital of Mich. from Ms. Younce's 1st grade class at Oakman",
+    "score": 10
+  },
+  {
+    "id": "_YICyl_Y-Ok",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SKZmrmktYls",
+    "title": "We Took 4,108 Shots and Our Top 10 Goals are INSANE...",
+    "score": 10
+  },
+  {
+    "id": "GKufkYfdzPI",
+    "title": "Goal 3 Taking On The World 2010 English Football movie Sports film",
+    "score": 10
+  },
+  {
+    "id": "kNKFDmqYEl4",
+    "title": "Goals That Took Everyone by Surprise",
+    "score": 10
+  },
+  {
+    "id": "4aeTxeXamwA",
+    "title": "The Offspring – You’re Gonna Go Far Kid",
+    "score": 10
+  },
+  {
+    "id": "Xlak5F7SCRY",
+    "title": "I TOOK 100 SHOTS AGAINST YANITED BALLER LEAGUE GOALKEEPER AND SCORED ___ GOALS",
+    "score": 10
+  },
+  {
+    "id": "9buOXNyWUY8",
+    "title": "We Took 100 Shots vs a Premier League Keeper and Scored ___ Goals",
+    "score": 10
+  },
+  {
+    "id": "248Kjm9UMtg",
+    "title": "We Took 100 Shots vs a Women's Pro Keeper and Scored ___ Goals",
+    "score": 10
+  },
+  {
+    "id": "xCyYjtnfN4E",
+    "title": "Misery Business (Single Version) by Paramore",
+    "score": 10
+  },
+  {
+    "id": "Q_qaYfvU7Io",
+    "title": "I Took 1,526 Shots and My Top 10 Goals Are INSANE...",
+    "score": 10
+  },
+  {
+    "id": "R9nnKIfS9yY",
+    "title": "JUNE 28",
+    "score": 10
+  },
+  {
+    "id": "GdmpmVgGC-4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tnRxjduoNoI",
+    "title": "We Took 100 Shots vs an Amputee Keeper and Scored ___ Goals",
+    "score": 10
+  },
+  {
+    "id": "CX7O-yUs0Mw",
+    "title": "We Took 100 Shots vs a 50 Rated Keeper and Scored ___ Goals",
+    "score": 10
+  },
+  {
+    "id": "NQSgC2jKIoI",
+    "title": "Stocktaking | What it will take to achieve the Sustainable Development Goals? | United Nations",
+    "score": 10
+  },
+  {
+    "id": "enGJyhu6Xr0",
+    "title": "WE TOOK 50 SHOTS ON A PWHL GOALIE AND SCORED __ GOALS!",
+    "score": 10
+  },
+  {
+    "id": "5liNqNXzHTA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rFjZ7gGFCpA",
+    "title": "A Day in the Life | Coffee, Moto Guzzi, CrossFit \\u0026 Guest of the Year",
+    "score": 10
+  },
+  {
+    "id": "PBxaMUaqM-k",
+    "title": "60 | Book of 1 Peter | Read by  Alexander Scourby | The GREATEST VOICE Ever Recorded!",
+    "score": 10
+  },
+  {
+    "id": "1N5pjjzL8ik",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5qfBXFZXPoA",
+    "title": "Stephen Pfann University of the Holy Land, Jerusalem",
+    "score": 10
+  },
+  {
+    "id": "jAoF_u9ijMo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "G5XBdwp36pI",
+    "title": "Family Guy- Peter vs Hologram Peter with healthbars",
+    "score": 10
+  },
+  {
+    "id": "278SC3cOwIA",
+    "title": "Peter and Ernie's Top 5 Best Fights",
+    "score": 10
+  },
+  {
+    "id": "G1-Sz_Ga73E",
+    "title": "I Designed \\u0026 3D Printed My Own Creator Organization System",
+    "score": 10
+  },
+  {
+    "id": "ZGilCcn-LSA",
+    "title": "Jesus Lifts Peter from the Storm – A Miracle of Faith",
+    "score": 10
+  },
+  {
+    "id": "b7N669qV3II",
+    "title": "The Pitchfork Witch Murder: Charles Walton",
+    "score": 10
+  },
+  {
+    "id": "1PG40ekgcQ4",
+    "title": "Peter, Quagmire, and Cleveland vs Joe...with healthbars",
+    "score": 10
+  },
+  {
+    "id": "FrKErRNHESQ",
+    "title": "Peter Griffin fused with Homer Simpson.",
+    "score": 10
+  },
+  {
+    "id": "NmUz-bYWw7U",
+    "title": "Peter Parker vs. Harry Osborn WITH HEALTHBARS | HD | Spider-Man 3",
+    "score": 10
+  },
+  {
+    "id": "v41bWRzcegM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OxGsU8oIWjY",
+    "title": "Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED",
+    "score": 10
+  },
+  {
+    "id": "Vp570S6Plt8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A-QoutHCu4o",
+    "title": "How Infinity Works (And How It Breaks Math)",
+    "score": 10
+  },
+  {
+    "id": "SrU9YDoXE88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Uj3_KqkI9Zo",
+    "title": "When Geometry Meets Infinity",
+    "score": 10
+  },
+  {
+    "id": "UJ7_axynKeY",
+    "title": "Space-filling Curve - Hilbert's Curve",
+    "score": 10
+  },
+  {
+    "id": "CC2DG391HmA",
+    "title": "Epic Infinite Geometric Series in the Sphinx (visual proofs without words)",
+    "score": 10
+  },
+  {
+    "id": "KUaO5dnjGvI",
+    "title": "A Nice infinite fraction problem| Math olympiad convergence problem. ",
+    "score": 10
+  },
+  {
+    "id": "Y6Nhv_8Q3Gg",
+    "title": "Some Infinities are Bigger than Others",
+    "score": 10
+  },
+  {
+    "id": "sOLCccXYU1A",
+    "title": "John Green",
+    "score": 10
+  },
+  {
+    "id": "z0hxb5UVaNE",
+    "title": "Does God exist",
+    "score": 10
+  },
+  {
+    "id": "_cr46G2K5Fo",
+    "title": "What comes after one?",
+    "score": 10
+  },
+  {
+    "id": "31NXUy0CNic",
+    "title": "Brian Greene on Multiverse Theory",
+    "score": 10
+  },
+  {
+    "id": "3EtaP1HnBm4",
+    "title": "Infinity calculator.",
+    "score": 10
+  },
+  {
+    "id": "OBbBKHsVVdk",
+    "title": "What does it feel like to invent math?",
+    "score": 10
+  },
+  {
+    "id": "edh5bbgSKqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "YouTube's New Search Filter Sucks...",
+    "score": 10
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "How Do Amazon Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "PG5mBrM1QBA",
+    "title": "Introduction and overview",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "f7W4qIMBbBg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "dEP9PYZEVi4",
+    "title": "Curveball vs. Slider Release/Spin",
+    "score": 10
+  },
+  {
+    "id": "72i3D3bfgyI",
+    "title": "Dodger Drills - Curveball Spin With Two Baseballs",
+    "score": 10
+  },
+  {
+    "id": "sBuiIDshkwg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0k8bUlkjHMo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LRNrrQE2h_8",
+    "title": "MLB | Highest Spin Rates(3000+ RPM)",
+    "score": 10
+  },
+  {
+    "id": "G_UFZ_VL6tg",
+    "title": "Developing curve ball spin:  fastpitch softball pitching",
+    "score": 10
+  },
+  {
+    "id": "1dhi9tOtFAc",
+    "title": "The Fourth Seam",
+    "score": 10
+  },
+  {
+    "id": "mAKQtndtp5s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iLZzj0SRQTc",
+    "title": "Introducing Hector Berrios",
+    "score": 10
+  },
+  {
+    "id": "NfA8Xw5KhIk",
+    "title": "Knuckleballs! Splitters! The Lowest Spin Rate Ks of 2021.",
+    "score": 10
+  },
+  {
+    "id": "D2m9sRt3wqU",
+    "title": "Curveball Pitch Design Tips And Grips",
+    "score": 10
+  },
+  {
+    "id": "JFyuOEovTOE",
+    "title": "Nat King Cole - Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "CTFtOOh47oo",
+    "title": "Nat King Cole - \\\"Unforgettable\\\" (In Color)",
+    "score": 10
+  },
+  {
+    "id": "-u_j7UCtgzo",
+    "title": "Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "f2ogKOsIJng",
+    "title": "French Montana - Unforgettable (Lyrics) ft. Swae Lee",
+    "score": 10
+  },
+  {
+    "id": "MIcIza4sqaM",
+    "title": "Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "TXAmTg7a2uA",
+    "title": "PnB Rock - Unforgettable (Freestyle)",
+    "score": 10
+  },
+  {
+    "id": "NahQKl3z3mg",
+    "title": "French Montana ‒ Unforgettable (Lyrics) 🎤 ft. Swae Lee",
+    "score": 10
+  },
+  {
+    "id": "QG9cd521EOY",
+    "title": "Natalie Cole \\u0026 Nat King Cole \\\"Unforgettable\\\" 1991 (audio remastered)",
+    "score": 10
+  },
+  {
+    "id": "KTzmzrruHwc",
+    "title": "PnB Rock - Unforgettable (Freestyle) (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "tbvg5P_CFTg",
+    "title": "I Can't Trust Any Woman After Watching This Unforgettable \\u0026 Life-Changing Movie But Smile At the End",
+    "score": 10
+  },
+  {
+    "id": "azCGV9He-sU",
+    "title": "Unforgettable Goals that cannot be repeated",
+    "score": 10
+  },
+  {
+    "id": "vh8V5igciEw",
+    "title": "French Montana - Unforgettable (Lyrics) ft. Swae Lee",
+    "score": 10
+  },
+  {
+    "id": "rtahocXhfXI",
+    "title": "Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "iF7kOq0peAU",
+    "title": "Nat King Cole - Unforgettable (Lyrics HD)",
+    "score": 10
+  },
+  {
+    "id": "KUMoiU3h750",
+    "title": "American Football Coach REACTS to “Unforgettable Goals that CANNOT be repeated!”",
+    "score": 10
+  },
+  {
+    "id": "RTergPAxY5Y",
+    "title": "Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "JAz4yN6xZow",
+    "title": "NBA Fan Reacts to Unforgettable Goals that cannot be repeated",
+    "score": 10
+  },
+  {
+    "id": "ByeQ3ex9TSg",
+    "title": "Disturbing Information That Cannot Be Forgotten",
+    "score": 10
+  },
+  {
+    "id": "vuyfZA93XBk",
+    "title": "DARPA LifeLog",
+    "score": 10
+  },
+  {
+    "id": "vo6D_tp3DeE",
+    "title": "Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "-XDAnPvTQFo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yjUydBnviiw",
+    "title": "18 minutes of the best 2025 March Madness moments",
+    "score": 10
+  },
+  {
+    "id": "XpvCr4_mvmw",
+    "title": "Nanking Massacre",
+    "score": 10
+  },
+  {
+    "id": "-Ms1c1RhDPU",
+    "title": "Leg Curls",
+    "score": 10
+  },
+  {
+    "id": "XYdH2PHGq9o",
+    "title": "Power Walk March Hi Lo Aerobics At Home | 59 Minutes High Energy 150 BPM | Burn Off COV19 Weight!",
+    "score": 10
+  },
+  {
+    "id": "zMrN3x7BvE4",
+    "title": "Warm Up",
+    "score": 10
+  },
+  {
+    "id": "XWSyrQWI3OM",
+    "title": "15 minutes of the best 2024 March Madness moments",
+    "score": 10
+  },
+  {
+    "id": "CAenft9f8DQ",
+    "title": "Oscar's Oasis - MARCH COMPILATION [ 25 MINUTES ]",
+    "score": 10
+  },
+  {
+    "id": "tTUup0oJsWg",
+    "title": "4 BONUSES IN 5 MINUTES! High Limit Group Pull at Coushatta Casino",
+    "score": 10
+  },
+  {
+    "id": "QgrZsOfEnGo",
+    "title": "Lake Oroville RISES 23 Feet MYSTERIOUSLY — Seismic Activity SPIKES as Scientists SCRAMBLE!",
+    "score": 10
+  },
+  {
+    "id": "pAUmCLNSPCs",
+    "title": "Governor Tim Walz calls aftermath of Pretti killing ‘a moral debate’, peaceful protests",
+    "score": 10
+  },
+  {
+    "id": "qX_HQEbVX84",
+    "title": "The Tragic Life of Empress Elisabeth “Sisi” - And Her Four Children",
+    "score": 10
+  },
+  {
+    "id": "KwXg_zraw2A",
+    "title": "Mark Carney's full speech at the World Economic Forum in Davos",
+    "score": 10
+  },
+  {
+    "id": "btqHDhO4h10",
+    "title": "Surviving a Blizzard Overnight in My Minivan Without HEAT!",
+    "score": 10
+  },
+  {
+    "id": "eMmz2ygRprg",
+    "title": "Give Thanks Today in Every Circumstance | A Blessed Morning Prayer",
+    "score": 10
+  },
+  {
+    "id": "tlX6szGGwng",
+    "title": "St. Louis winter storm Sunday night update",
+    "score": 10
+  },
+  {
+    "id": "zvpzl1lMO1k",
+    "title": "Los Angeles Rams vs Seattle Seahawks Game Highlights | 2025 NFL Season NFC Championship",
+    "score": 10
+  },
+  {
+    "id": "151fGOS6ghk",
+    "title": "Fed's March minutes: Economy far from achieving employment goals",
+    "score": 10
+  },
+  {
+    "id": "56jBhMEqiOw",
+    "title": "Soviet Cosmonauts March \\\"I Believe, my Friends\\\" (\\\"14 minutes until Start\\\") / 14 минут до старта",
+    "score": 10
+  },
+  {
+    "id": "tdKDlpn5QT4",
+    "title": "Florida vs. UConn Ending - Final 3 Minutes | 2025 March Madness",
+    "score": 10
+  },
+  {
+    "id": "Y1ibMttqCFA",
+    "title": "5-Minute Post-Meal Walk/March: The Easiest Way to Drop Blood Sugar Fast",
+    "score": 10
+  },
+  {
+    "id": "YzvV6Om7TT0",
+    "title": "Walk March Tone with Dumbbells | 30 Minutes | Strengthen Your Body, Burn Fat and Lose Weight!",
+    "score": 10
+  },
+  {
+    "id": "kVcU29gxwuM",
+    "title": "Side Step Touch",
+    "score": 10
+  },
+  {
+    "id": "kWecO1i271g",
+    "title": "ss march 10 minutes",
+    "score": 10
+  },
+  {
+    "id": "bftkl9FydVI",
+    "title": "March of the New USSR's Space Forces (14 Minutes To Start, Extended Parade Instrumental)",
+    "score": 10
+  },
+  {
+    "id": "hKJSY2zosu0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wmj45-ztMPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1LR9sp6qutE",
+    "title": "Lance McCullers: Pitch Grips",
+    "score": 10
+  },
+  {
+    "id": "HI-eu_Qd8x0",
+    "title": "Zac Gallen's Pitch Grips! #mlb",
+    "score": 10
+  },
+  {
+    "id": "4QHi2a_NPXo",
+    "title": "PITCHERS VIEW",
+    "score": 10
+  },
+  {
+    "id": "aAif9SROmJE",
+    "title": "Clayton Kershaw Curveball Breakdown w/ Grip",
+    "score": 10
+  },
+  {
+    "id": "TC9OAO4_dAE",
+    "title": "These Pitches Should Be Illegal",
+    "score": 10
+  },
+  {
+    "id": "j8az4I8L-qU",
+    "title": "Pitch Grips for the Curveball, Slider, Changeup, Sinker \\u0026 Cutter",
+    "score": 10
+  },
+  {
+    "id": "CVi6zNFTTlE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "beMMTof0nnQ",
+    "title": "These Pitches Won Me The Cy Young",
+    "score": 10
+  },
+  {
+    "id": "xB5TFW189kc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yEQwgHrsYpA",
+    "title": "That world",
+    "score": 10
+  },
+  {
+    "id": "ZMjaEYxMnIY",
+    "title": "Jodi Benson - Part of Your World (From \\\"The Little Mermaid\\\")",
+    "score": 10
+  },
+  {
+    "id": "SXKlJuO07eM",
+    "title": "Halle - Part of Your World (From \\\"The Little Mermaid\\\")",
+    "score": 10
+  },
+  {
+    "id": "kf7Dss2gCe0",
+    "title": "To That World",
+    "score": 10
+  },
+  {
+    "id": "SJTCR7Sf_f4",
+    "title": "The Little Mermaid - Part Of Your World (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "wnWKoEATxh8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SoSrFZtbKt4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3V7Rvo4Gvic",
+    "title": "Earth, Wind \\u0026 Fire - That's the Way of the World (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "KII1ruAfvsg",
+    "title": "Halle Bailey - Part Of Your World - Lyrics (The Little Mermaid)",
+    "score": 10
+  },
+  {
+    "id": "KrPAkP5kWTg",
+    "title": "Halle Bailey - “Part of Your World” at Disneyland",
+    "score": 10
+  },
+  {
+    "id": "BCKna5ZoyN4",
+    "title": "Tim Hecker - That world",
+    "score": 10
+  },
+  {
+    "id": "zG1CwJADfMc",
+    "title": "Halle - Part Of Your World (Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "us6gm0jO_FY",
+    "title": "'Part Of Your World (Karaoke)' Intro",
+    "score": 10
+  },
+  {
+    "id": "mJtM7SRo6l8",
+    "title": "Third World - Now That We Found Love (1979)• TopPop",
+    "score": 10
+  },
+  {
+    "id": "_5sA8WKxyjQ",
+    "title": "\\\"I See Into That World\\\": The Shocking Spiritual World of Non-Speaking Autism | E285 Lila Rose Show",
+    "score": 10
+  },
+  {
+    "id": "fULfi6WaO8M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hcJ1lrllZ7o",
+    "title": "My Chemical Romance - The World is Ugly (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "g4sEl_sBZjU",
+    "title": "Take That - Rule The World (Band Version)",
+    "score": 10
+  },
+  {
+    "id": "1ghUQevRH4I",
+    "title": "That's the World of Warcraft That You Play!",
+    "score": 10
+  },
+  {
+    "id": "n4TyqYsC26g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ntohaMEcPL0",
+    "title": "Zlatan Ibrahimovic ● Top 30 Goals",
+    "score": 10
+  },
+  {
+    "id": "OfS5MI_3_WE",
+    "title": "20 IBRAHIMOVIC Goals That Shocked The World",
+    "score": 10
+  },
+  {
+    "id": "0_LIejl4RfA",
+    "title": "Top 5 Zlatan Ibrahimovic Goals for LA Galaxy",
+    "score": 10
+  },
+  {
+    "id": "310RMPov_24",
+    "title": "Is Ibrahimovic Crazy \\u0026 Needs A Doctor ?",
+    "score": 10
+  },
+  {
+    "id": "Ba6-6KmB3CQ",
+    "title": "Zlatan Ibrahimović: All 573 Career Goals (1999-2023) | Ultimate Goal Compilation",
+    "score": 10
+  },
+  {
+    "id": "bpRPaJw9VFM",
+    "title": "Zlatan Ibrahimovic goal for Malmö FF (1999-2001) – 18 Goals",
+    "score": 10
+  },
+  {
+    "id": "JwRud7zuAAk",
+    "title": "Zlatan Ibrahimovic's famous 30-yard bicycle kick vs England",
+    "score": 10
+  },
+  {
+    "id": "RM_5tJncHww",
+    "title": "Every Zlatan Ibrahimović Goal",
+    "score": 10
+  },
+  {
+    "id": "9s0ErlOT09c",
+    "title": "Džeko zu Schalke? Klopp tobt: „Das ist Wahnsinn!“",
+    "score": 10
+  },
+  {
+    "id": "t1SRk9XEQqE",
+    "title": "ZLATAN IBRAHIMOVIC | All of his 66 Inter goals 🇸🇪🖤💙",
+    "score": 10
+  },
+  {
+    "id": "Pv3oTpS6EXQ",
+    "title": "Shot",
+    "score": 10
+  },
+  {
+    "id": "e2s7WdwgG-w",
+    "title": "Arsenal v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 1/25/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "lMXIqECM0Rc",
+    "title": "The Day Lionel Messi Showed Ibrahimovic Who Is The Boss",
+    "score": 10
+  },
+  {
+    "id": "4LMaOc302Ks",
+    "title": "Most Humiliating Goals Ever",
+    "score": 10
+  },
+  {
+    "id": "Rz1uru_SfpA",
+    "title": "Shot",
+    "score": 10
+  },
+  {
+    "id": "r_lN52VwrBo",
+    "title": "Zlatan Ibrahimovic | Funny Moments | 2",
+    "score": 10
+  },
+  {
+    "id": "eF5Z4d9R3ZE",
+    "title": "Zlatan Ibrahimovic: Premier League Goals",
+    "score": 10
+  },
+  {
+    "id": "85ARmG9-Qy8",
+    "title": "Shot",
+    "score": 10
+  },
+  {
+    "id": "8fnzB6fxCOE",
+    "title": "Zlatan Ibrahimovic in his Prime",
+    "score": 10
+  },
+  {
+    "id": "g-l7_xpoOSk",
+    "title": "Zlatan Ibrahimovic 10 Ridiculous Tricks That No One Expected",
+    "score": 10
+  },
+  {
+    "id": "JPXhE-1bMiE",
+    "title": "All #UCL Goals: ZLATAN IBRAHIMOVIĆ",
+    "score": 10
+  },
+  {
+    "id": "OiwbKH0lfLY",
+    "title": "Zlatan Ibrahimovic scores FIRST EVER MLS goal for LA Galaxy",
+    "score": 10
+  },
+  {
+    "id": "J15vfXqnwWw",
+    "title": "ALL ZLATAN IBRAHIMOVIC'S GOALS WITH BARÇA ⚽",
+    "score": 10
+  },
+  {
+    "id": "pWfyqkMASZE",
+    "title": "Zlatan Ibrahimovic goals but they get increasingly more acrobatic",
+    "score": 10
+  },
+  {
+    "id": "oSaRefCH9IA",
+    "title": "Zlatan Ibrahimovic ● Craziest Skills Ever ● Impossible Goals",
+    "score": 10
+  },
+  {
+    "id": "YqMf5aBVjcg",
+    "title": "10 Impossible Things That Only Zlatan Ibrahimovic Did In Football HD",
+    "score": 10
+  },
+  {
+    "id": "a1e54af_DV0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F3jodfi3Jco",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3cb9fgDTbdw",
+    "title": "10 Ways Catholic Reverts Avoid Real Conversion",
+    "score": 10
+  },
+  {
+    "id": "A2lZAt11Yik",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZFOnXKGI8-0",
+    "title": "Should Converts Keep Quiet? with Guest Host Keith Nester",
+    "score": 10
+  },
+  {
+    "id": "fFQJIv68Uzw",
+    "title": "This Brand New Convert from Catholicism is Driving The \\\"Christian\\\" World Crazy",
+    "score": 10
+  },
+  {
+    "id": "9-D1MU0ZtIc",
+    "title": "The Problem with the Convert",
+    "score": 10
+  },
+  {
+    "id": "5ANTizLZj2M",
+    "title": "Avoiding Conversion Van Nightmares",
+    "score": 10
+  },
+  {
+    "id": "WNWQ6NNm8xo",
+    "title": "The Difference Between a “backslider” and a False Convert | WRETCHED",
+    "score": 10
+  },
+  {
+    "id": "0QSQXf87V10",
+    "title": "Definition of Backslider",
+    "score": 10
+  },
+  {
+    "id": "10b4pFqNLN0",
+    "title": "Early Year Roth Conversion Tax Requirements",
+    "score": 10
+  },
+  {
+    "id": "9wfL75HHX0w",
+    "title": "Avoiding the Pitfalls of New Converts",
+    "score": 10
+  },
+  {
+    "id": "6N5pZgKlfak",
+    "title": "Avoiding the Lowest-Cost Conversion Trap",
+    "score": 10
+  },
+  {
+    "id": "Pc3fjkWOXW0",
+    "title": "KENYA: PREVENTING RADICALS FROM REACHING CONVERTS",
+    "score": 10
+  },
+  {
+    "id": "efNjvUml4zU",
+    "title": "Change Negative SELF-TALK With This Little Word | Jim Kwik",
+    "score": 10
+  },
+  {
+    "id": "G_YY1IetAaI",
+    "title": "10 Reasons to NOT Convert to Catholic Church",
+    "score": 10
+  },
+  {
+    "id": "Bb74mdfArcE",
+    "title": "10 Reasons Not to Convert to Catholicism",
+    "score": 10
+  },
+  {
+    "id": "Z_9GWBKaT_Q",
+    "title": "How Far Can a Person Go As a False Convert? - Ask Pastor Tim",
+    "score": 10
+  },
+  {
+    "id": "bAKlpgNy4Fg",
+    "title": "Avoiding The Pitfalls: Converting Passive Voice To Active Voice Correctly",
+    "score": 10
+  },
+  {
+    "id": "Od-SGUKVHOs",
+    "title": "Introduction - Avoiding The Pitfalls: Converting Passive Voice To Active Voice Correctly",
+    "score": 10
+  },
+  {
+    "id": "M2OPEUjBYdw",
+    "title": "Every supervisor and employee should set goals.",
+    "score": 10
+  },
+  {
+    "id": "1-SvuFIQjK8",
+    "title": "S.M.A.R.T. GOALS",
+    "score": 10
+  },
+  {
+    "id": "H1bDIREguok",
+    "title": "Setting Employee Goals",
+    "score": 10
+  },
+  {
+    "id": "iwBhLr6_QC4",
+    "title": "OKRs | The Most Effective Way to Set the Right Goals",
+    "score": 10
+  },
+  {
+    "id": "Neu4aCB3378",
+    "title": "Setting Goals",
+    "score": 10
+  },
+  {
+    "id": "LmFdyn648UY",
+    "title": "Setting Goals for Employees",
+    "score": 10
+  },
+  {
+    "id": "CpqKiT0N2TA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oZT-obW7b6Q",
+    "title": "Introduction to Betterworks Goals",
+    "score": 10
+  },
+  {
+    "id": "PCRSVRD2EAk",
+    "title": "MEASURABLE",
+    "score": 10
+  },
+  {
+    "id": "4-vdzFTHN4U",
+    "title": "Employee Goal Management Software | Develop Aligned Goals with Quantum Workplace",
+    "score": 10
+  },
+  {
+    "id": "CrcParMGC_g",
+    "title": "Benefits of Creating Aligned, Shared Goals",
+    "score": 10
+  },
+  {
+    "id": "LeXSrEMXvQk",
+    "title": "Set employee performance improvement goals using the KSS method",
+    "score": 10
+  },
+  {
+    "id": "P8UheEeECzA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yA53yhiOe04",
+    "title": "Specific",
+    "score": 10
+  },
+  {
+    "id": "C5-TAjkHag0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L4Vv6MGvtZo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b9JBRhV73cQ",
+    "title": "Search filters",
+    "score": 10
+  }
+]

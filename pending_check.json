@@ -1,1 +1,3247 @@
-[]
+[
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "DNKpAZTXhhU",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "MAJLgj3_G7E",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 21 - העליה השלישית",
+    "score": 110
+  },
+  {
+    "id": "J1D4sCcFv_4",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 20 - העליה השניה",
+    "score": 110
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "F_22M8wNOhI",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "-I9m5RhmdMM",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "gVjei0pKhhQ",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "צילום טבע, עמוס נחום, זומינג סלבין קורן.",
+    "score": 60
+  },
+  {
+    "id": "oqptkCR5CB8",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "טיפים לצילום טבע - הצלם רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "VjKbtmSh6Dg",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "XrNDNOkBnS4",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "אלכסנדר פפקוב: \\\"מלחמת עולם בין ארה\\\"ב לסין קרובה מאי פעם!\\\"",
+    "score": 60
+  },
+  {
+    "id": "8uGn9K5L3j4",
+    "title": "סדר עולמי חדש: האם סין מכינה את עצמה למלחמה? \\\"מלחמת העולם השלישית כבר כאן\\\" | ניצן דוד פוקס",
+    "score": 60
+  },
+  {
+    "id": "PLmsfyR65zE",
+    "title": "סוף עידן \\\"קץ ההיסטוריה\\\"",
+    "score": 60
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "ixFKcRuXbqo",
+    "title": "פרופסור רחל אליאור בשיחה מרתקת על החשמונאים",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "מלחמת ששת הימים בקיצור",
+    "score": 60
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "קיצור תולדות העם היהודי | פרק 2 – ממסע סנחריב עד חורבן בית ראשון",
+    "score": 60
+  },
+  {
+    "id": "PvUVAzIkxmw",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "pHw8GNJuDU0",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "evmj5fklJdI",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כל חלק במנוע מוסבר (ב-15 דקות)",
+    "score": 60
+  },
+  {
+    "id": "gkTADRpBklQ",
+    "title": "איך מנוע 4 פעימות עובד",
+    "score": 60
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "Sg4GMVMdOPo",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Full Course 2026 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Learn Python for Data Science – Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "GfWRxr1OBm4",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "LmaPm5_pckU",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "xLJ7y25qE9A",
+    "title": "Extreme Construction: Impossible Mega Projects | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "BtpFV5IB7dQ",
+    "title": "Incredible Engineering: Enormous Construction | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "jJYRehW2z_s",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "IMPOSSIBLE CHINA | The Most Incredible Mountain Worlds Ever Seen | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "84wpH1UjpPY",
+    "title": "Impossible Project | 10 Incredible World Projects You’ve Never Seen Before | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "OiUr-1yNEaI",
+    "title": "Genius Inventions: Technical Marvels That Will Shape Tomorrow | Full Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "Megastructures - Airbus A380 Mega Plain Documentary National Geographic.",
+    "score": 50
+  },
+  {
+    "id": "KF1MzjVvKYE",
+    "title": "Products Exploding With Color! | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "hq9Al6LR2O4",
+    "title": "Introduction: How to unclog arteries naturally",
+    "score": 50
+  },
+  {
+    "id": "peN6Nq7QKD4",
+    "title": "Study #1",
+    "score": 50
+  },
+  {
+    "id": "cgSt2YkswZc",
+    "title": "How to Reduce The Side Effects of Aspirin for Stroke and Heart Disease",
+    "score": 50
+  },
+  {
+    "id": "Cf6ux-mRP2k",
+    "title": "Introduction: How to unclog your arteries naturally",
+    "score": 50
+  },
+  {
+    "id": "SfgtB427s2E",
+    "title": "The #1 Best Pill for Harder, Longer Erections (Backed by Science) | ED Medications",
+    "score": 50
+  },
+  {
+    "id": "KNsEHr-3QRE",
+    "title": "How to Properly Do Kegels for Men: Last Longer \\u0026 Improve Erection Strength",
+    "score": 50
+  },
+  {
+    "id": "B918xnkwJD8",
+    "title": "Urologist Reveals: The #1 Best Pill for Harder, Longer Erections (Backed by Science)",
+    "score": 50
+  },
+  {
+    "id": "u-09_mrJz0k",
+    "title": "How to Properly Do Kegels for Men: Last Longer \\u0026 Improve Erection Strength",
+    "score": 50
+  },
+  {
+    "id": "EjPd9SGwyZQ",
+    "title": "Why Erections Disappear With Age (And How to Stop It) | A Urologist Explains",
+    "score": 50
+  },
+  {
+    "id": "z56yoLi_mPU",
+    "title": "How to Get Stronger and Longer Lasting Erections Naturally with a Proven Male Supplement",
+    "score": 50
+  },
+  {
+    "id": "f2hZncj6LK8",
+    "title": "Unleashing the Flow: Urologist explains How to Relieve Yourself with an Erection",
+    "score": 50
+  },
+  {
+    "id": "2_cxG_G-gfQ",
+    "title": "How To Bold Text In WhatsApp?",
+    "score": 50
+  },
+  {
+    "id": "c_KSwRUt9t8",
+    "title": "How To Bold Text In Microsoft Word",
+    "score": 50
+  },
+  {
+    "id": "jWTbytJop7E",
+    "title": "Photoshop how to make text bold #photoshop #photoshoptutorial #graphicdesign",
+    "score": 50
+  },
+  {
+    "id": "iiIZjMEFsH4",
+    "title": "How to enable or disable bold text on iPhone",
+    "score": 50
+  },
+  {
+    "id": "PM5ovbcXzio",
+    "title": "How to Format Text in MS Word | Change Font, Size, Color, Bold, Italic, Underline (Beginner Guide)",
+    "score": 50
+  },
+  {
+    "id": "HaFV_saRLrk",
+    "title": "How to make text bold in Microsoft word",
+    "score": 50
+  },
+  {
+    "id": "SBuF-YseWjc",
+    "title": "How to BOLD Text in Adobe InDesign (Step by Step)",
+    "score": 50
+  },
+  {
+    "id": "sPs-p_B0Zrs",
+    "title": "How to Bold Text in Photoshop",
+    "score": 50
+  },
+  {
+    "id": "G0fukG6gtjI",
+    "title": "How to Bold Text in Facebook Post",
+    "score": 50
+  },
+  {
+    "id": "ihnyToLrgJM",
+    "title": "How To Format Text on LinkedIn using Bold, Italics, Underline, Emojis and Unicode Symbols 😀",
+    "score": 50
+  },
+  {
+    "id": "cgIK6s5w8v4",
+    "title": "How to BOLD Text in Photoshop",
+    "score": 50
+  },
+  {
+    "id": "GFGketGIf5s",
+    "title": "What Really Sank the Edmund Fitzgerald? A Full Analysis.",
+    "score": 50
+  },
+  {
+    "id": "_83KqwEEGw4",
+    "title": "What are the Surfaces of a Tooth? Learn the 5 Dental Surfaces Every Future Dentist Needs to Know",
+    "score": 50
+  },
+  {
+    "id": "rVhK2T9PfwM",
+    "title": "Layers of the Earth for Kids | Learn facts about the different layers of Earth",
+    "score": 50
+  },
+  {
+    "id": "Uc8eoJKfQUk",
+    "title": "Venipuncture How To Draw Blood IN ONE GO (Instantly improve your chances in 3 easy steps)",
+    "score": 50
+  },
+  {
+    "id": "bEM1wePflIQ",
+    "title": "Venipuncture - How to Position a Needle",
+    "score": 50
+  },
+  {
+    "id": "7vej8QhVUnU",
+    "title": "How to Anchor Veins | Venipuncture, IV Therapy, Blood Draw, Phlebotomy Rolling Veins",
+    "score": 50
+  },
+  {
+    "id": "2Ag2adsLh3Y",
+    "title": "How to do a blood draw: healthcare career training at Lincoln Tech.",
+    "score": 50
+  },
+  {
+    "id": "5KMUo7sCIuw",
+    "title": "Phlebotomy Procedure: Venipuncture with 21G Butterfly #education #phlebotomy #tutorials",
+    "score": 50
+  },
+  {
+    "id": "yHw1_zR8gcc",
+    "title": "How to draw blood using a tube holder",
+    "score": 50
+  },
+  {
+    "id": "nlyIdu7Wcuw",
+    "title": "European lawmakers suspend U.S. trade deal amid Greenland tariff tensions",
+    "score": 50
+  },
+  {
+    "id": "_QBelrCk5T8",
+    "title": "EU PLAN EXPOSED: $800 Billion Ukraine Rebuild Plan Leaked Amid Ukraine's Blackout  | World News",
+    "score": 50
+  },
+  {
+    "id": "uMcMUWa1iGY",
+    "title": "How To INCREASE DAILY PROTEIN INTAKE For Muscle Growth Or Fat Loss (Body Recomposition)",
+    "score": 50
+  },
+  {
+    "id": "kKMGRU-mhOU",
+    "title": "Increase Your Memory Fast: 7 Simple Techniques to Train Your Brain Daily 🔥 | Graded Reader ✅",
+    "score": 50
+  },
+  {
+    "id": "cVJbbJep0G4",
+    "title": "How To Unlock Your Mobility in 5 Minutes (DAILY STRETCH)",
+    "score": 50
+  },
+  {
+    "id": "_JUqWAxsSZM",
+    "title": "The Complete History of Penicillin: The \\\"Miracle Drug\\\" That Changed Medicine | History for Sleep",
+    "score": 50
+  },
+  {
+    "id": "fwYd1FeVtvc",
+    "title": "The History of Medicine - Historical Curiosities",
+    "score": 50
+  },
+  {
+    "id": "i22Kd5NLAKM",
+    "title": "How technology has changed medicine | Agastya Rekhi | TEDxTSIS",
+    "score": 50
+  },
+  {
+    "id": "cJMSDlWlfMM",
+    "title": "The Thalidomide Scandal That Changed Medicine Forever | HISTORY This Week",
+    "score": 50
+  },
+  {
+    "id": "QIwuRM-lu3o",
+    "title": "Police Make MAJOR Discovery During Bust | FULL EPISODE | Blue Light",
+    "score": 50
+  },
+  {
+    "id": "GHrgPQA_yWE",
+    "title": "Neil deGrasse Tyson and Richard Dawkins Discuss Science, Religion \\u0026 Evolution",
+    "score": 50
+  },
+  {
+    "id": "wxPo4kWqG5c",
+    "title": "The Science and History of Aspirin",
+    "score": 50
+  },
+  {
+    "id": "ZZmOzBNYlj0",
+    "title": "Erectile Dysfunction: What It Really Is And How To Treat It",
+    "score": 50
+  },
+  {
+    "id": "1FmmBi5bFxE",
+    "title": "How To Naturally Boost Testosterone \\u0026 Reverse Erectile Dysfunction",
+    "score": 50
+  },
+  {
+    "id": "E85CENxHq-Q",
+    "title": "How To Cure Erectile Dysfunction Naturally: Regain Confidence \\u0026 Control | Dr. Trish Leigh",
+    "score": 50
+  },
+  {
+    "id": "A14XRTUxlF8",
+    "title": "How To Keep Your Arteries Clean \\u0026 Unclogged!  Dr. Mandell",
+    "score": 50
+  },
+  {
+    "id": "tkmyZR1fv0E",
+    "title": "How to Unblock Your Ears | UNCLOG a CLOGGED Ear | How to Drain Your Fluid Filled Ear",
+    "score": 50
+  },
+  {
+    "id": "vbZ63tm54K0",
+    "title": "Widow Maker Blockage (DANGEROUS) #heartattack #heartattacksymptoms #widowmaker #surgeon #fyp #doctor",
+    "score": 50
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "Calm Your Mind With Beautiful Relaxing Music \\u0026 Beautiful Nature for Insomnia Relief and Meditation",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PXMJ6FS7llk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8DvywoWv6fI",
+    "title": "Computers want to be helpful...",
+    "score": 10
+  },
+  {
+    "id": "WGJJIrtnfpk",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DMw8jH0R6Fg",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "Superstructures: Largest Structures in the World | MEGA EPISODE | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "2prUjhNE_-E",
+    "title": "The most unbelievable megaprojects in the world",
+    "score": 10
+  },
+  {
+    "id": "P6KH70AwiXk",
+    "title": "WORLD MEGAPROJECTS | The Most Amazing Future Megastructures",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SaUVCSt2I58",
+    "title": "China’s Mega Machines Just Broke Every Rule of Physics — Experts Are Stunned",
+    "score": 10
+  },
+  {
+    "id": "IkFB4VM3zeg",
+    "title": "Construction of the Largest Container Ship Ever Built | Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "xTr39yYKFu0",
+    "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
+    "score": 10
+  },
+  {
+    "id": "X09S_DZyNUI",
+    "title": "How the World's Largest Warship Changes Naval Warfare Forever | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "CDTu9md6ukM",
+    "title": "UNKNOWN CHINA: Natural Wonders and Megaprojects",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "tEm_H280JLc",
+    "title": "World’s Biggest Tent",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HVoifbegJ5E",
+    "title": "Mega Bridges",
+    "score": 10
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "Real Madrid's $1 Billion Super Stadium Upgrade (Full Episode) | Megastructures | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "tHUx6P1c56E",
+    "title": "Impossible Engineering | Full Season 2 | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "uTSpdD6MswA",
+    "title": "Pasi Lautala Railway Engineer",
+    "score": 10
+  },
+  {
+    "id": "eBckAi4moQE",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "V_HYOpcknjU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "What will happen to Gaza after the war? The story of the Kaplanist leftists who established the s...",
+    "score": 10
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "6pgiXJsHb04",
+    "title": "Pinball Machines.",
+    "score": 10
+  },
+  {
+    "id": "5XFLpRN2tYc",
+    "title": "Pillows - Originally aired 2014",
+    "score": 10
+  },
+  {
+    "id": "9w2mfu0YOVE",
+    "title": "Induction Cooktops",
+    "score": 10
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "How a Manual Transmission and Clutch Works",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ASSsg8hcQjM",
+    "title": "Manual Transmission, How it works?",
+    "score": 10
+  },
+  {
+    "id": "wCu9W9xNwtI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "8dAbcbAJRw8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "uHucYAEhY0Y",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "The Only Video You'll Ever Need to Watch to Know how 4 Stroke and 2 Stroke Engines Work and Differ",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "DKF5dKo_r_Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "How Does YOUR Car's Engine Work?! | The Car Engine Song | KLT",
+    "score": 10
+  },
+  {
+    "id": "JfOMZfxH4ME",
+    "title": "INTERNAL COMBUSTION ENGINE",
+    "score": 10
+  },
+  {
+    "id": "Z_V_Qd89Jg8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XXkeknV0QY0",
+    "title": "Bayer aspirin commercial (1989)",
+    "score": 10
+  },
+  {
+    "id": "Z7MrZRInjvI",
+    "title": "Aspirin: Medical Minute with Family Physician Dr. Richard Honaker",
+    "score": 10
+  },
+  {
+    "id": "ze2rmsLiTfA",
+    "title": "Mayo Clinic Minute: Aspirin's role in preventing and stopping the spread of cancer",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "rCfPQLVzus4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sWqBbMZEXvw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "22 Wood Joints Made with Hand Tools",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "gyXL9YCg-rU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B1A3aiEHIzk",
+    "title": "Glue and Nails",
+    "score": 10
+  },
+  {
+    "id": "rFFTYXKqvws",
+    "title": "Where has all the aspirin gone?",
+    "score": 10
+  },
+  {
+    "id": "MOiaLhYt0MY",
+    "title": "Is the Secret to Stronger Erections Hiding in Your Daily Routine?",
+    "score": 10
+  },
+  {
+    "id": "1yldV0L1FiI",
+    "title": "Aspirin - who needs it anyways?",
+    "score": 10
+  },
+  {
+    "id": "rbuV8B7_rAs",
+    "title": "5 Simple Things to Reverse Erectile Dysfunction (ED)",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "xORuxQqzR_g",
+    "title": "Why Can't You Donate Platelets After Taking Aspirin?",
+    "score": 10
+  },
+  {
+    "id": "PHac3EVG-JI",
+    "title": "Why You Should Never Take Aspirin at Home During a Stroke | GoodRx",
+    "score": 10
+  },
+  {
+    "id": "1ZKBaRsP1gY",
+    "title": "You Don't Know How \\\"Fun\\\" Aspirin Can Be (yes, you!)...",
+    "score": 10
+  },
+  {
+    "id": "SiizLffFqyU",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "gutOF86rhgI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Qcy-OceYz2I",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "n01wAPHDeGA",
+    "title": "How I Use Aspirin to Help Prevent Artery Blockage (Doctor Explains)",
+    "score": 10
+  },
+  {
+    "id": "KHIAFMTp1Mk",
+    "title": "Taking aspirin at night isn't better than taking it during the day",
+    "score": 10
+  },
+  {
+    "id": "xYuE5ZkDkig",
+    "title": "Does a Daily Dose of Aspirin Increase Melanoma Risk in Men?",
+    "score": 10
+  },
+  {
+    "id": "jouwrfr7_S0",
+    "title": "Symptoms \\u0026 Signs of a Heart Attack in Women \\u0026 Men | Mass General Brigham",
+    "score": 10
+  },
+  {
+    "id": "1i58QD5aWRo",
+    "title": "Daily Aspirin - Should You Take It?  Cardiologist explains.",
+    "score": 10
+  },
+  {
+    "id": "Zf6NvgQecUE",
+    "title": "The SHOCKING Truth about Aspirin - What Your Doctor Isn’t Telling You",
+    "score": 10
+  },
+  {
+    "id": "-9NZSNWfOwo",
+    "title": "Is it safe to take aspirin every day?",
+    "score": 10
+  },
+  {
+    "id": "4QOMc6IU_Q0",
+    "title": "Controversial Debate. Is Baby Aspirin Beneficial for Heart Health?",
+    "score": 10
+  },
+  {
+    "id": "peLddcfnJHE",
+    "title": "Daily Aspirin - Should You Take It? Cardiologist Update",
+    "score": 10
+  },
+  {
+    "id": "TzqC-SgcPM8",
+    "title": "How Does Low-Dose Aspirin Work?",
+    "score": 10
+  },
+  {
+    "id": "q1e2bUJSbzs",
+    "title": "Aspirin Alert: The Hidden Risks Revealed",
+    "score": 10
+  },
+  {
+    "id": "gcR2k4Olhms",
+    "title": "How does aspirin work?",
+    "score": 10
+  },
+  {
+    "id": "aXS0rUj0qUs",
+    "title": "Daily Aspirin - Should You Take It?  Cardiologist explains.",
+    "score": 10
+  },
+  {
+    "id": "Py0C2ouWhR8",
+    "title": "Aspirin Vs Warfarin - Dr. Tom Gentles",
+    "score": 10
+  },
+  {
+    "id": "Gf4FwMsnpAk",
+    "title": "Top 5 HIDDEN Benefits of Aspirin",
+    "score": 10
+  },
+  {
+    "id": "zS3gFt576eA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xDeOtq-iFf8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TKbSxpYseAE",
+    "title": "PL VOICES - Debate over aspirin dose to prevent cardiovascular events",
+    "score": 10
+  },
+  {
+    "id": "zR2mqil5_UA",
+    "title": "Aspirin and cancer: the emerging evidence",
+    "score": 10
+  },
+  {
+    "id": "7mOvJbmpG6A",
+    "title": "Clinical evidence to be presented",
+    "score": 10
+  },
+  {
+    "id": "nc6abRN1TD8",
+    "title": "Daily Aspirin - Should You Take It?  Cardiologist explains.",
+    "score": 10
+  },
+  {
+    "id": "kNOTTkH5UiQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9VQtnHAakwQ",
+    "title": "The TRUTH About ASPIRIN: AMAZING or DEADLY? [PODCAST]",
+    "score": 10
+  },
+  {
+    "id": "AaedU-0_zPI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "dde9Czsr5MA",
+    "title": "Where has all the aspirin gone?",
+    "score": 10
+  },
+  {
+    "id": "IH-GECLCjCo",
+    "title": "Is Baby Aspirin Safe? - Pain Medicine Network",
+    "score": 10
+  },
+  {
+    "id": "0IfgYmDpHj4",
+    "title": "Does Aspirin Reduce Inflammation? - Pain Medicine Network",
+    "score": 10
+  },
+  {
+    "id": "tqvpum8ri1k",
+    "title": "How Aspirin Is Made 💊",
+    "score": 10
+  },
+  {
+    "id": "lTexmmk301U",
+    "title": "The Aspirin Alternative Your Doctor Never Told You About",
+    "score": 10
+  },
+  {
+    "id": "0KuOHYjctOg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CSBx2FB97Y4",
+    "title": "Treats Insect Bites",
+    "score": 10
+  },
+  {
+    "id": "H9bJG9_ohHg",
+    "title": "‘I don’t want thick blood’: Trump combats health rumours with aspirin claims",
+    "score": 10
+  },
+  {
+    "id": "9rZjEGPB60I",
+    "title": "THE TRUTH ABOUT ASPIRIN",
+    "score": 10
+  },
+  {
+    "id": "irbCndhoMhg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2atAia44BQg",
+    "title": "Coated Aspirin and Your Heart - Mayo Clinic",
+    "score": 10
+  },
+  {
+    "id": "R7uXQBjnTjk",
+    "title": "Introduction to Over-the-Counter Painkillers for Older Adults",
+    "score": 10
+  },
+  {
+    "id": "YyCxAjp5W7M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cEg6Xxg7mMM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9LijNfyuRys",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "ra0MqVImlno",
+    "title": "Taking a Low Dose of \"},{\"text\":\"Aspirin\",\"bold\":true},{\"text\":\" To Prevent Heart ...",
+    "score": 10
+  },
+  {
+    "id": "l3P2L6s_iZU",
+    "title": "Do You Need To Take Baby Aspirin or Blood Thinners?",
+    "score": 10
+  },
+  {
+    "id": "00zy0NERlYw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PRoO8GxNgKw",
+    "title": "STOP Taking Daily Baby Aspirin",
+    "score": 10
+  },
+  {
+    "id": "K-KLqiYWeCQ",
+    "title": "Should everyone over 50 take aspirin?",
+    "score": 10
+  },
+  {
+    "id": "w0qGW4vrGw8",
+    "title": "THIS WEEK IN MEDICINE",
+    "score": 10
+  },
+  {
+    "id": "WOWLsHldqwM",
+    "title": "Daily Aspirin - Should You Take It?  Cardiologist explains.",
+    "score": 10
+  },
+  {
+    "id": "yjXOX5TLpt0",
+    "title": "Taking aspirin at night isn't better than taking it during the day",
+    "score": 10
+  },
+  {
+    "id": "PIyHkONpH40",
+    "title": "Why do you take an aspirin during a heart attack?? #heartdoctor #doctor #surgeon #heartattack #fypツ",
+    "score": 10
+  },
+  {
+    "id": "qdljuExCm2g",
+    "title": "Does Aspirin Lower High Blood Pressure?",
+    "score": 10
+  },
+  {
+    "id": "hz4VrASqZW4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Qj09EXCInlQ",
+    "title": "Low Dose Baby Aspirin is Completely Safe, Right?",
+    "score": 10
+  },
+  {
+    "id": "hnuKcPgbd0A",
+    "title": "Should You Give Your Dog Aspirin? Vet-Advice on Pet Pain Relief",
+    "score": 10
+  },
+  {
+    "id": "pJ4hrVjwh8A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WJWNu-wMNTg",
+    "title": "Peeing with an erection?",
+    "score": 10
+  },
+  {
+    "id": "0Tks6bBoZW0",
+    "title": "Men Over 50: Take THIS Vitamin at Night for Harder Erections, Energy \\u0026 Deep Sleep | Dr. Amara Cruz",
+    "score": 10
+  },
+  {
+    "id": "RuncrPg_D20",
+    "title": "Intro: Which ED Pill is TRULY #1?",
+    "score": 10
+  },
+  {
+    "id": "JccDMyBf_BQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zZd3pzqSjOs",
+    "title": "Improving Heart Health for Long-Lasting Erections",
+    "score": 10
+  },
+  {
+    "id": "qQX35HOsx1U",
+    "title": "Intro: The 88-year-old who shocked Dr. Rena Malik",
+    "score": 10
+  },
+  {
+    "id": "NmBHO0fbxDI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nGx1lHJcaaU",
+    "title": "Urologist: The 5 Best Stretches for Harder Erections After 50",
+    "score": 10
+  },
+  {
+    "id": "B772mB_DsY0",
+    "title": "The Silence: Why This Is So Frustrating",
+    "score": 10
+  },
+  {
+    "id": "Hc6qOsd4ok4",
+    "title": "Seniors: Eat THIS Food Every Night for Rock-Hard Erections (Urologist Warning!)",
+    "score": 10
+  },
+  {
+    "id": "oFbKaKfR_J0",
+    "title": "Improve ERECTIONS By 306% (Just Eat Raw HONEY Like THIS!)",
+    "score": 10
+  },
+  {
+    "id": "-ikNpQjblMM",
+    "title": "“Put THIS in Your Coffee and ERECTIONS Come Back Even at 80 | Urologist Explains”",
+    "score": 10
+  },
+  {
+    "id": "GIaj-NscZcA",
+    "title": "New Over-the-Counter Gel for Instant Erections?! Urologist Reveals",
+    "score": 10
+  },
+  {
+    "id": "qCm-XOHDE4g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Qx3N0knn9gI",
+    "title": "100 000 Men FIXED Their Erections With THIS Diet! (WORKS FAST!)",
+    "score": 10
+  },
+  {
+    "id": "dDdVgqPwFMQ",
+    "title": "Urologist Reveals: 5 Best Stretches for Harder Erections After 50 - Most Men Don't Know",
+    "score": 10
+  },
+  {
+    "id": "4FSZAW6YSnk",
+    "title": "Urologist-Approved Morning Routine for Stronger, Lasting Erections | Men’s Health 2025",
+    "score": 10
+  },
+  {
+    "id": "p7oZClAlp08",
+    "title": "The 3 Pelvic Exercises Urologists Recommend for Better Erections and Stamina",
+    "score": 10
+  },
+  {
+    "id": "X7n8yBhyUkI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lObOe6quYVo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "e-wyLHZaqXg",
+    "title": "Trump instantly proves Jack Smith prediction right with prosecution threat",
+    "score": 10
+  },
+  {
+    "id": "5sXNjjSL628",
+    "title": "Trump ‘immediately’ angered by Fox News segment, threatens action in Nigeria",
+    "score": 10
+  },
+  {
+    "id": "BDlQay0u6ys",
+    "title": "Trump directs Pentagon to test nuclear weapons 'immediately'",
+    "score": 10
+  },
+  {
+    "id": "yQHreAzOKtk",
+    "title": "President Trump Calls for 'Immediate Negotiations' on Greenland",
+    "score": 10
+  },
+  {
+    "id": "E3FIqQJtMEE",
+    "title": "Trump CRUSHED As Board Of Peace Event Immediately Blows Up In His Face",
+    "score": 10
+  },
+  {
+    "id": "-GTvCHysjTA",
+    "title": "Trump PANIC as Congress DEMANDS END TERM Immediately",
+    "score": 10
+  },
+  {
+    "id": "mP02GsF86sg",
+    "title": "Trump Announces Full Scale Iran War: 24 Hours Ultimatum Rattles Khamenei, USS Abraham Begins Move",
+    "score": 10
+  },
+  {
+    "id": "ugT3GCLvI-c",
+    "title": "‘Do you have any regrets?’: Former Special Counsel Jack Smith brutally grilled over Trump probes",
+    "score": 10
+  },
+  {
+    "id": "sRzkfXSeSqE",
+    "title": "IHIP News: Trump IMMEDIATELY LOSES European Trade War!! He's DESPERATELY Trying To BACKPEDAL!!",
+    "score": 10
+  },
+  {
+    "id": "8ICCfymw-qM",
+    "title": "Sen. Schumer Says Trump Should Be Removed From Office ‘Immediately’",
+    "score": 10
+  },
+  {
+    "id": "gB2xeC-SJeY",
+    "title": "Schumer Calls For Trump To Be Removed",
+    "score": 10
+  },
+  {
+    "id": "1IjuXP8Bxm4",
+    "title": "Trump orders U.S. to begin testing nuclear weapons",
+    "score": 10
+  },
+  {
+    "id": "d57k36rMn6M",
+    "title": "Breaking News! Mid-Air scare forces President Trump back, Air Force One suffers ‘electrical glitch’",
+    "score": 10
+  },
+  {
+    "id": "EmDZ82Bfvi0",
+    "title": "Trump rolls out his Board of Peace, but it's not clear how many leaders will join him",
+    "score": 10
+  },
+  {
+    "id": "SAjjevdl2eg",
+    "title": "Carney SNAPS At Reporters - Mocks Trump, It BACKFIRES IMMEDIATELY As He's Caught Lying!!",
+    "score": 10
+  },
+  {
+    "id": "Yn50G_CdCzc",
+    "title": "Joy Behar on Trump Remark Instant Regret #news #hollywoodbuzz #theview #donaldtrump #foxnews",
+    "score": 10
+  },
+  {
+    "id": "iGsn4fDS0eg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MizItLwaidc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RW9dmUjll1w",
+    "title": "Google Keep Bold Text",
+    "score": 10
+  },
+  {
+    "id": "I3ubI2wkJNk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qytKXQRTjhE",
+    "title": "Text features - Bold print and glossary",
+    "score": 10
+  },
+  {
+    "id": "hm-_yRy8xfY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tQW6NwLIaGc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "vtPk5IUbdH0",
+    "title": "Hugh Grant Tells the Absurd True Story Behind A Very English Scandal",
+    "score": 10
+  },
+  {
+    "id": "Mq-LMJkYogw",
+    "title": "25 Years Of Anjuna Mixed By James Grant",
+    "score": 10
+  },
+  {
+    "id": "j4b9rWH7kgE",
+    "title": "1. Cubicolor - Got This Feeling",
+    "score": 10
+  },
+  {
+    "id": "ggDTJc470Co",
+    "title": "What is a very English scandal about?",
+    "score": 10
+  },
+  {
+    "id": "wC6ErksIGbc",
+    "title": "James Grant pres. Movement Vol. 1 | Sunset DJ Mix from Goa, India (4K)",
+    "score": 10
+  },
+  {
+    "id": "-LZzf4VR1rk",
+    "title": "Alex Hoevelmann - 37",
+    "score": 10
+  },
+  {
+    "id": "4_5XRWdtb7Y",
+    "title": "''BOB GRANT'' -THE VERY BEST OF VOLUME# 3",
+    "score": 10
+  },
+  {
+    "id": "zySYYe6BOr8",
+    "title": "Hugh Grant's Transformation | A Very English Scandal - BBC",
+    "score": 10
+  },
+  {
+    "id": "XKCi1k0ukWQ",
+    "title": "'BOB GRANT''-THE VERY BEST OF VOLUME#8",
+    "score": 10
+  },
+  {
+    "id": "wXP0aF02k_A",
+    "title": "Hugh Grant as Jeremy Thorpe",
+    "score": 10
+  },
+  {
+    "id": "tWdODemYoMw",
+    "title": "Hugh Grant, Ben Wishaw, Russell T Davies \\u0026 cast interview | A Very English Scandal - BBC",
+    "score": 10
+  },
+  {
+    "id": "Z9E-AApdpGs",
+    "title": "Grant Horvat Vs Brad Dalke (Intense) ",
+    "score": 10
+  },
+  {
+    "id": "5zPB4-SgNz8",
+    "title": "Hugh Grant Rewatches Love Actually, Notting Hill, Heretic \\u0026 More | Vanity Fair",
+    "score": 10
+  },
+  {
+    "id": "s5s06x7nrdk",
+    "title": "Hugh Grant",
+    "score": 10
+  },
+  {
+    "id": "TJrBluQffZQ",
+    "title": "$300,000 #Grant #Award for Very Large Salary",
+    "score": 10
+  },
+  {
+    "id": "yP4qXWGGnTs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2teVmirNrXc",
+    "title": "Former Trump Official Worried About Nuclear War",
+    "score": 10
+  },
+  {
+    "id": "XEImFaXr1wY",
+    "title": "NEWS: Trump press Secretary calls for Congress to investigate his mental status",
+    "score": 10
+  },
+  {
+    "id": "IhvOF0oV6lE",
+    "title": "Trump seen waving to spectators during college football national championship #foxnews #news #us",
+    "score": 10
+  },
+  {
+    "id": "JRkxQKRqDAE",
+    "title": "Former UK PM urges Trump to DISMANTLE UN amid Greenland deal talks",
+    "score": 10
+  },
+  {
+    "id": "JeD2z6Q027M",
+    "title": "Former Trump Press Secretary Sounds the Alarm: “He’s Mentally Slipping” — 25th Amendment Talk Begins",
+    "score": 10
+  },
+  {
+    "id": "XGlEuIYHANE",
+    "title": "Jack Smith Flat Out Accuses Trump Of Causing Jan. 6, Saying He Wanted To 'Exploit The Violence'",
+    "score": 10
+  },
+  {
+    "id": "jAvkmt_0L9o",
+    "title": "Donald Trump's Ex-Staff Members Reveal All",
+    "score": 10
+  },
+  {
+    "id": "MSfwJPOfx9s",
+    "title": "Ex-Trump Press Secy BLOWS WHISTLE on Trump’s brain",
+    "score": 10
+  },
+  {
+    "id": "NRJO97zGRo8",
+    "title": "Iowa voters on Trump's first year back",
+    "score": 10
+  },
+  {
+    "id": "gy5xdmfmnsM",
+    "title": "Pritzker taking names of Trump officials for future accountability",
+    "score": 10
+  },
+  {
+    "id": "sxkjCOGTM3E",
+    "title": "This Is How Greenland Got on Trump’s Radar",
+    "score": 10
+  },
+  {
+    "id": "b-yvGYvJzLQ",
+    "title": "U.S. President Trump is ‘drunk with power’ and ‘acting foolish’: former ambassador",
+    "score": 10
+  },
+  {
+    "id": "j_CcxmlJH0w",
+    "title": "Former Trump aide: I justified behavior to get ahead",
+    "score": 10
+  },
+  {
+    "id": "2ruSd_Yvha8",
+    "title": "Trump has been CLEAR about Greenland: Former advisor explains",
+    "score": 10
+  },
+  {
+    "id": "h7CbSY6XacM",
+    "title": "‘Cognitive decline': Trump WH vet on his boss’s ‘insane’ condition",
+    "score": 10
+  },
+  {
+    "id": "fgK9DdU1b2Y",
+    "title": "Former Trump WH official reveals DOJ has reached out to other WH employees",
+    "score": 10
+  },
+  {
+    "id": "TQyDgB4uXuo",
+    "title": "FULL INTERVIEW: President Donald J. Trump on Gutfeld",
+    "score": 10
+  },
+  {
+    "id": "tNGBB52inSk",
+    "title": "Former Trump aide has a message for the GOP",
+    "score": 10
+  },
+  {
+    "id": "C4zAxXWKVmM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z05Bk3hNVWE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "tuGocViwRng",
+    "title": "What Really Happened to Harris Faulkner from Fox News",
+    "score": 10
+  },
+  {
+    "id": "ZtAOxeKouSE",
+    "title": "What REALLY Happened In The NHL (Week 16)",
+    "score": 10
+  },
+  {
+    "id": "1XYqsiHizxw",
+    "title": "Dr. Umar EXPOSES What’s Really Happening to Black America",
+    "score": 10
+  },
+  {
+    "id": "a93TcSVQNB0",
+    "title": "UPSET!!! What Really Happened (Justin Gaethje vs Paddy Pimblett)",
+    "score": 10
+  },
+  {
+    "id": "AXR2h_ZjOgU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "w4tU_a8zBgA",
+    "title": "What’s really happening in Iran right now",
+    "score": 10
+  },
+  {
+    "id": "-aRdX-kZ9g4",
+    "title": "What Really Happened On Tana’s Birthday Trip - Ep. 42",
+    "score": 10
+  },
+  {
+    "id": "Fr8YQ0Ta-SM",
+    "title": "What Really Happened During The Dark Age's Global Climate Catastrophe?",
+    "score": 10
+  },
+  {
+    "id": "cKUz5Vjq9-s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ExEBpFk0_K4",
+    "title": "What REALLY Happens To Predators In Prison",
+    "score": 10
+  },
+  {
+    "id": "VIPAdAoiEaU",
+    "title": "What Really Happened to Dave Kindig",
+    "score": 10
+  },
+  {
+    "id": "OO5BVvdEWTs",
+    "title": "What Really Happens on Day 2 of a Power Outage",
+    "score": 10
+  },
+  {
+    "id": "gISzS7Y1Zec",
+    "title": "Katt Williams DROPS BOMBSHELL Revealing What Really Happened To Martin Lawrence",
+    "score": 10
+  },
+  {
+    "id": "dcdfyyFkKEI",
+    "title": "What Really Happened on October 7",
+    "score": 10
+  },
+  {
+    "id": "-mxfnya3ZRc",
+    "title": "What REALLY Happened To ZOIDS?",
+    "score": 10
+  },
+  {
+    "id": "xmXGn0IhX1g",
+    "title": "What Really Happened to Jeffrey Epstein",
+    "score": 10
+  },
+  {
+    "id": "GRMpZTFwcZ8",
+    "title": "Vedo - What Really Is It (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "5DPEN-9vCFw",
+    "title": "What really happens when Mario gets Cursed Mushrooms",
+    "score": 10
+  },
+  {
+    "id": "Jqi-fUCMOBw",
+    "title": "What Really Happened in Salem? The Shocking Truth Behind the Witch Trials",
+    "score": 10
+  },
+  {
+    "id": "C2EHMi2KXbc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fIm2IMpnOLQ",
+    "title": "Early work (early 1990s)",
+    "score": 10
+  },
+  {
+    "id": "O5xMpsYdzgg",
+    "title": "MADDEN-JULIAN OSCILLATION",
+    "score": 10
+  },
+  {
+    "id": "8k49e_IPZ1U",
+    "title": "Can Aspirin Delay the Onset of Alzheimer’s?",
+    "score": 10
+  },
+  {
+    "id": "vrM4P8PT9Xg",
+    "title": "STOP Taking Daily Baby Aspirin",
+    "score": 10
+  },
+  {
+    "id": "IdfUfn7kNm4",
+    "title": "Reevaluating a Daily Low-Dose Of Aspirin: Is it Right for You? | Oz Health",
+    "score": 10
+  },
+  {
+    "id": "r71YC7bmSTw",
+    "title": "Taking aspirin at night isn't better than taking it during the day",
+    "score": 10
+  },
+  {
+    "id": "RYeEGetrjqQ",
+    "title": "How Aspirin Changed Medicine Forever",
+    "score": 10
+  },
+  {
+    "id": "kwWzgHDPN4o",
+    "title": "Watch This Before Stopping Baby Aspirin (Might Save your Life)",
+    "score": 10
+  },
+  {
+    "id": "xuzbyGIbEoI",
+    "title": "How Aspirin prevents wounds from healing",
+    "score": 10
+  },
+  {
+    "id": "uVJYOlzg68o",
+    "title": "Low-Dose Aspirin Regimen Provides No Significant Health Benefits For Older Adults, Studies Find",
+    "score": 10
+  },
+  {
+    "id": "jxzGLXB3x4w",
+    "title": "Bye Bye Baby Aspirin",
+    "score": 10
+  },
+  {
+    "id": "cvY8PQTc8J4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_Sz2HOAb54w",
+    "title": "Surface - The First Time",
+    "score": 10
+  },
+  {
+    "id": "cR5UgoPSM_k",
+    "title": "What are the different surface of a tooth?",
+    "score": 10
+  },
+  {
+    "id": "d-Ysp7NI6W8",
+    "title": "How does a \\\"first surface\\\" mirror work? (2^15 sub special!)",
+    "score": 10
+  },
+  {
+    "id": "SCuUQOTehqw",
+    "title": "Surfaces And Terminologies of the teeth - 1 | Dental Anatomy | Animated Explanation",
+    "score": 10
+  },
+  {
+    "id": "Ny8iTpk_y3I",
+    "title": "... to Dental Terminologies and Tooth \"},{\"text\":\"Surfaces\",\"bold\":true},{\"text\":\" ...",
+    "score": 10
+  },
+  {
+    "id": "i93eOWDPJ00",
+    "title": "USA vs CHINA: 47 Minutes of Combat—Navy SEALs Board Chinese Ship",
+    "score": 10
+  },
+  {
+    "id": "sg-_TVOnM8U",
+    "title": "Hook: 24 SEALs, 1 Chinese Vessel, 47 Minutes",
+    "score": 10
+  },
+  {
+    "id": "vhv8fAqN1cw",
+    "title": "Dental Instruments",
+    "score": 10
+  },
+  {
+    "id": "otGQMCIlWY8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "scJH8HA8zAM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "n-FFybBjFqI",
+    "title": "Scientists Discover Planets More Habitable Than Earth",
+    "score": 10
+  },
+  {
+    "id": "CJUVd8SguDw",
+    "title": "🥲All I can say is CONGRATS🎉 you did it B*TCHHHHHHH🤭😝🙂‍↕️😆",
+    "score": 10
+  },
+  {
+    "id": "NBkQ635DTVc",
+    "title": "Dental Assistant - Tooth Surfaces",
+    "score": 10
+  },
+  {
+    "id": "N1DIn_xwvdo",
+    "title": "Introduction to the earth",
+    "score": 10
+  },
+  {
+    "id": "FYytvd6dF64",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "PtPbeodoC2g",
+    "title": "Evaluating Surface Integrals",
+    "score": 10
+  },
+  {
+    "id": "Gml1HT4y3_c",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0J1zvqy0eBs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZJKXOT3ycTw",
+    "title": "Tooth Surfaces",
+    "score": 10
+  },
+  {
+    "id": "rpNV2rsNYHU",
+    "title": "Trump’s DARK PAST with FIRST WIFE SURFACES at WORST TIME FOR HIM",
+    "score": 10
+  },
+  {
+    "id": "HBPZxD5rFAA",
+    "title": "Surfaces of the Heart",
+    "score": 10
+  },
+  {
+    "id": "iIPcN8M5yec",
+    "title": "Sand bowl on the moon",
+    "score": 10
+  },
+  {
+    "id": "dofJdiV1DWM",
+    "title": "The First and Only Photos From Venus - What Did We See? (4K)",
+    "score": 10
+  },
+  {
+    "id": "M5pXx_AjjlM",
+    "title": "quadric surfaces overview",
+    "score": 10
+  },
+  {
+    "id": "-T2drD1uNdA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RMqOIjR6hy4",
+    "title": "3 Tips For Locating DIFFICULT Veins | Phlebotomy Tip | Medical Assistant Training",
+    "score": 10
+  },
+  {
+    "id": "UxtWAKAVlN4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ccXXyA2RYOM",
+    "title": "Taking A Blood Sample - Diabetes Care (6/6)",
+    "score": 10
+  },
+  {
+    "id": "0hme9OIfm_k",
+    "title": "apply the tourniquet",
+    "score": 10
+  },
+  {
+    "id": "Fc8xvIyib58",
+    "title": "Performing a venipuncture using a butterfly needle",
+    "score": 10
+  },
+  {
+    "id": "_w3-gtzvenk",
+    "title": "Phlebotomy Skills - Venipuncture",
+    "score": 10
+  },
+  {
+    "id": "HggaCKfj6s4",
+    "title": "Phlebotomy: The Order of Veins",
+    "score": 10
+  },
+  {
+    "id": "WS9kWNx4gII",
+    "title": "Order of veins",
+    "score": 10
+  },
+  {
+    "id": "_8ZsqXFqvQM",
+    "title": "insert it into the yellow vacutainer",
+    "score": 10
+  },
+  {
+    "id": "e9H4ZDHYe_c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wxu_BzBwjzc",
+    "title": "insert it at an angle",
+    "score": 10
+  },
+  {
+    "id": "cP2FDMjWrcY",
+    "title": "Assembling Your Needle",
+    "score": 10
+  },
+  {
+    "id": "DzTmDlcE_3U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0n2ydn4crSg",
+    "title": "Hard to Find Veins Blood Draw, IVs, Venipuncture - Nursing, Phlebotomy",
+    "score": 10
+  },
+  {
+    "id": "dKenI4Q2pWE",
+    "title": "The Location of Your Veins",
+    "score": 10
+  },
+  {
+    "id": "8NRC10COQks",
+    "title": "Order of Lab Draw 🩸🧪",
+    "score": 10
+  },
+  {
+    "id": "gtxvTL5Bulo",
+    "title": "Getting a Blood Test",
+    "score": 10
+  },
+  {
+    "id": "R9oWYkK_l3M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_i5jge6tz-0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WPlyQyHm7fA",
+    "title": "prep the patient",
+    "score": 10
+  },
+  {
+    "id": "ERagNBUvyUc",
+    "title": "This clip is an excerpt from",
+    "score": 10
+  },
+  {
+    "id": "DJNu2_c-tFo",
+    "title": "Perform Venipuncture  Collect a Venous Blood Sample Using the Syringe Method",
+    "score": 10
+  },
+  {
+    "id": "B9LzzcN3JmE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2mb-tnyWAP8",
+    "title": "European leaders slam Trump tariffs amid push for U.S. purchase of Greenland",
+    "score": 10
+  },
+  {
+    "id": "Jd3SzlTM4FM",
+    "title": "European Troops Arrive in Greenland Amid Trump's Takeover Push",
+    "score": 10
+  },
+  {
+    "id": "alBt7JCkiuw",
+    "title": "Europe Snubs Trump; No Red Carpet, No Grand Welcome As He Steps Onto Swiss Soil Amid Greenland Row",
+    "score": 10
+  },
+  {
+    "id": "ajl2eCUyrok",
+    "title": "Europe weighs 'trade bazooka' against U.S. amid Trump's Greenland threats",
+    "score": 10
+  },
+  {
+    "id": "ISQVe8vbND4",
+    "title": "‘Losers, destroying themselves…’: Trump tears into Europe at Davos amid Greenland row | WEF 2026",
+    "score": 10
+  },
+  {
+    "id": "ajElGv4ZxMA",
+    "title": "Germany’s Merz signals India-EU FTA as ‘great opportunity’ amid Europe-Trump tariff tussle",
+    "score": 10
+  },
+  {
+    "id": "BdXXmnYCX5U",
+    "title": "European Troops Arrive in Greenland Amid Trump's Takeover Push",
+    "score": 10
+  },
+  {
+    "id": "D6sk6UmC1JU",
+    "title": "Greenland on War Alert as More Troops Arrive | EU Rushes Forces Amid Trump Greenland Push | N18G",
+    "score": 10
+  },
+  {
+    "id": "yClWWMM5yqQ",
+    "title": "'Putin afraid of me, not European leaders…': Trump unloads on Europe amid Ukraine war",
+    "score": 10
+  },
+  {
+    "id": "j4WKFjFhJLQ",
+    "title": "FULL DEBATE: NATO’s Rutte, Nawrocki, Stubb Clash Over Europe’s Security Amid Trump Threat | AQ1B",
+    "score": 10
+  },
+  {
+    "id": "6P7k9EnQ2DQ",
+    "title": "What Will Trump Say in Europe Amid the Greenland Standoff?",
+    "score": 10
+  },
+  {
+    "id": "zJAt4z85znM",
+    "title": "FULL: Trump World Economic Forum special address amid Greenland tensions",
+    "score": 10
+  },
+  {
+    "id": "H2aOXoVLxh0",
+    "title": "Trump Panics As China \\u0026 Europe Hit Back, Unleashes Controversial Images Amid Greenland Blackmail ?",
+    "score": 10
+  },
+  {
+    "id": "9PSZEyJGAfE",
+    "title": "European Allies SEND TROOPS TO GREENLAND Amid TRUMP THREATS | RISING",
+    "score": 10
+  },
+  {
+    "id": "bC3Vogb5-3c",
+    "title": "Amid Europe Tensions: U.S. Army Conducts Platoon Attack Drill in Poland (Jan. 2026)",
+    "score": 10
+  },
+  {
+    "id": "p5Cr3iUqaxA",
+    "title": "1. First-Person View: Platoon Attack Drill",
+    "score": 10
+  },
+  {
+    "id": "l8TPmiO_Xn0",
+    "title": "Italy \\u0026 Germany Unite: Meloni Talks Europe’s Response to Trump | APT",
+    "score": 10
+  },
+  {
+    "id": "AmfdFAasVC0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Vv7fpZxAhp8",
+    "title": "Trippie Redd - Taking A Walk (Lyrics / Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "OBl4pp0Sfko",
+    "title": "Noel Sanger - One More Time (Solarity Vocal Mix)",
+    "score": 10
+  },
+  {
+    "id": "heJBwBUStXU",
+    "title": "Jonas Mantey - Frei",
+    "score": 10
+  },
+  {
+    "id": "9bLgDoFkdqo",
+    "title": "How Do We Control Our Thoughts Which Determines Our Life",
+    "score": 10
+  },
+  {
+    "id": "PvcHwwXtpu0",
+    "title": "TV Girl - Taking What's Not Yours",
+    "score": 10
+  },
+  {
+    "id": "Ox5ENW0CeAU",
+    "title": "TV Girl - Taking What's Not Yours",
+    "score": 10
+  },
+  {
+    "id": "ZuuPy6qLdGw",
+    "title": "Bachman Turner Overdrive-Taking care of business",
+    "score": 10
+  },
+  {
+    "id": "NCIUf8eYPqA",
+    "title": "I can’t take it off…😳💎 literally how I felt after spending 15 hours on this look😅",
+    "score": 10
+  },
+  {
+    "id": "BDAFBz9L334",
+    "title": "Taking",
+    "score": 10
+  },
+  {
+    "id": "HrPfZe4XGZ8",
+    "title": "Genius Parents Trick Baby into Taking Medicine!",
+    "score": 10
+  },
+  {
+    "id": "Yg6oOzujnr8",
+    "title": "Scorpion plane is taking off in 3 2 1! #plane #flight #aviation #airplane",
+    "score": 10
+  },
+  {
+    "id": "uD__KbF5M84",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LNHBMFCzznE",
+    "title": "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver",
+    "score": 10
+  },
+  {
+    "id": "nf9GFhKO7Hs",
+    "title": "MUST LISTEN DAILY To Increase Your Wealth \\u0026 Rizq  - Best Dua !",
+    "score": 10
+  },
+  {
+    "id": "5--yhonuPl0",
+    "title": "SIMPLE HACKS",
+    "score": 10
+  },
+  {
+    "id": "itJE4neqDJw",
+    "title": "Rolling Out the Neck",
+    "score": 10
+  },
+  {
+    "id": "MJAWZC_dYSw",
+    "title": "I Believe In Myself | Daily Positive Affirmations for Self Confidence | Increase Self-Esteem",
+    "score": 10
+  },
+  {
+    "id": "vJYm9t2_uj0",
+    "title": "THE 90-DAY RUTHLESS STRATEGY TO INCREASE INCOME - MACHIAVELLI STYLE",
+    "score": 10
+  },
+  {
+    "id": "qwt3hZTGK8o",
+    "title": "If Machiavelli Had 90 Days To Rise.",
+    "score": 10
+  },
+  {
+    "id": "sOuKeVuej9E",
+    "title": "The PERFECT 5 Minute Posture Routine To Increase Your Height",
+    "score": 10
+  },
+  {
+    "id": "i1tjJGGcoYs",
+    "title": "BEST Day to Pay your Credit Card Bill (Increase Credit Score)",
+    "score": 10
+  },
+  {
+    "id": "3qJEviF7mRY",
+    "title": "THE BEST DAY TO PAY YOUR CREDIT CARD",
+    "score": 10
+  },
+  {
+    "id": "Kl8RO01OSH8",
+    "title": "Do THIS Warmup DAILY to Increase Picking Speed and Hand Synchronization!",
+    "score": 10
+  },
+  {
+    "id": "CDl2DcLGVZc",
+    "title": "Increase Your Daily Energy to Act, Love, and Lift Like the Savior",
+    "score": 10
+  },
+  {
+    "id": "4LFg_jxa7UY",
+    "title": "An Inspired Daily Prayer To Increase Your Faith In God | GROW YOUR FAITH With This Prayer",
+    "score": 10
+  },
+  {
+    "id": "Bckc3OocST0",
+    "title": "4 Foods That Increase Testosterone (EAT THESE DAILY!)",
+    "score": 10
+  },
+  {
+    "id": "_QK85P88_xk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "w4lX4g8huqM",
+    "title": "‘Would NATO FIGHT?’: Trump Fires Unthinkable Salvo, Hints At Invoking Article 5 For US Border Crisis",
+    "score": 10
+  },
+  {
+    "id": "lCcScK2KFY0",
+    "title": "Russia Furious After NATO Hints At Preemptive Strikes, Drops Hint On How Putin Could Respond",
+    "score": 10
+  },
+  {
+    "id": "U9GI5ulxBq8",
+    "title": "TRUMP HINTS NATO EXIT Over Greenland; U.S. President Says 'We Need It For National Security'",
+    "score": 10
+  },
+  {
+    "id": "Z89LNNRF4vE",
+    "title": "Trump provokes outrage with Nato Afghanistan claims",
+    "score": 10
+  },
+  {
+    "id": "0U4XLZzkuII",
+    "title": "Trump hints US could 'pull out of NATO' over Greenland",
+    "score": 10
+  },
+  {
+    "id": "wl8hyCOcqIQ",
+    "title": "NATO ON EDGE: Trump Hints at Consequences Over Greenland, NATO Chief Pleads | World News",
+    "score": 10
+  },
+  {
+    "id": "92ImhT5mdP8",
+    "title": "Ukraine’s NATO Dream Over? US Special Envoy Drops Big Hint After Submitting Truce Proposal",
+    "score": 10
+  },
+  {
+    "id": "IlME25N8ISk",
+    "title": "Russia Vs NATO War Countdown Begins? Sweden Drops Shocking Hint In New Warning | Watch",
+    "score": 10
+  },
+  {
+    "id": "MezW2-vzh88",
+    "title": "Trump Escalates Greenland Fight, Hints at Action Beyond Tariffs as NATO Unease Grows |WION Originals",
+    "score": 10
+  },
+  {
+    "id": "UdtkfGOGifA",
+    "title": "6 tips for applying to NATO #NATOjobs",
+    "score": 10
+  },
+  {
+    "id": "LoP9YmLG7k8",
+    "title": "Trump Hints NATO EXIT? NATO Ties At Risk Over Greenland | ET Now | Latest News | Breaking News",
+    "score": 10
+  },
+  {
+    "id": "MvcJh_1-RVc",
+    "title": "The Real Reason Trump Wants Greenland (Hint: Power, Not Land)",
+    "score": 10
+  },
+  {
+    "id": "IJL99SgYs5E",
+    "title": "Why Greenland is suddenly at the center of global power",
+    "score": 10
+  },
+  {
+    "id": "le-acPjPL9k",
+    "title": "Trump's Military ‘Not Ready’ For Greenland? NATO Ally Reservists Outmatch US Troops In Arctic Drills",
+    "score": 10
+  },
+  {
+    "id": "4B44MV59VUY",
+    "title": "Prince Harry Condemns Trump's NATO Troop Front Line Remarks",
+    "score": 10
+  },
+  {
+    "id": "bPA4asja4aU",
+    "title": "Trump calls out NATO allies on defense funding, hints of coming changes",
+    "score": 10
+  },
+  {
+    "id": "NDpnaJk564M",
+    "title": "NATO Boss Breaks Rank In Open Rebuke Of Trump’s Greenland Claims; ‘Denmark’s Ownership…’ | Watch",
+    "score": 10
+  },
+  {
+    "id": "ZPNvtR-pJLM",
+    "title": "Watch Friday's ITV Lunchtime News as Trump sparks outrage over Nato troops claim",
+    "score": 10
+  },
+  {
+    "id": "Au_rMBj828M",
+    "title": "Trump says he's 'done more for NATO than anybody' but questions their loyalty amid Greenland threats",
+    "score": 10
+  },
+  {
+    "id": "ABvussWQ5sA",
+    "title": "Donald Trump Hints A Big Shift In Geo Politics | US Planning To Exit NATO Over Greenland Issue?",
+    "score": 10
+  },
+  {
+    "id": "k7rXn0iP3bs",
+    "title": "President Trump describes 'framework' for future Greenland deal with NATO",
+    "score": 10
+  },
+  {
+    "id": "WbTMihnj3No",
+    "title": "NATO Was There.",
+    "score": 10
+  },
+  {
+    "id": "Ndr9Vf40RY0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "merkKVuiDns",
+    "title": "This Is Taking Too Long | Clarity | Part 3 | Jerry Flowers",
+    "score": 10
+  },
+  {
+    "id": "sC0zyOzi6nE",
+    "title": "Out of the Dust - Take This (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "lzoaNm4zYbU",
+    "title": "Picture This - Take My Hand",
+    "score": 10
+  },
+  {
+    "id": "T72qlb4SVeg",
+    "title": "Taking Back Sunday - This Photograph Is Proof (I Know You Know)",
+    "score": 10
+  },
+  {
+    "id": "Hw7WbowK_x0",
+    "title": "South Park Nailed This Take",
+    "score": 10
+  },
+  {
+    "id": "t9SUBytWIBU",
+    "title": "You will never stop praying after watching this! Take back what the enemy stole| Christian Animation",
+    "score": 10
+  },
+  {
+    "id": "HXSpPvvTvXo",
+    "title": "This Sheriff Is Taking On JB Pritzker And The Chicago Political Mob!",
+    "score": 10
+  },
+  {
+    "id": "v6Uy-4DcQ18",
+    "title": "This Winter Storm Is Taking Over The U.S…",
+    "score": 10
+  },
+  {
+    "id": "Yn3yyWLpZ3s",
+    "title": "INDONESIAN NAKATIRA SA LUMANG LANSTA ",
+    "score": 10
+  },
+  {
+    "id": "BopdDKhAj0k",
+    "title": "Fatih Altaylı: \\\"Teşekkürler\\\"",
+    "score": 10
+  },
+  {
+    "id": "0Hxg18HrB4A",
+    "title": "Giriş",
+    "score": 10
+  },
+  {
+    "id": "FlSsD_FoWGc",
+    "title": "Keanu Reeves Goes Undercover, Told “You Can’t Sit Here” — Minutes Later the Restaurant Freezes",
+    "score": 10
+  },
+  {
+    "id": "UcU1k02kIj0",
+    "title": "Monarchy Meets MAYHEM: Harry, Trump \\u0026 King Charles In The Spotlight",
+    "score": 10
+  },
+  {
+    "id": "AkZbf2zXRNA",
+    "title": "How Canada’s Carney is taking on Trump | The Global Story Podcast",
+    "score": 10
+  },
+  {
+    "id": "LgPQtGMUXAc",
+    "title": "What's the context?",
+    "score": 10
+  },
+  {
+    "id": "s5jmKD9sv7w",
+    "title": "King Julien - How Long Is This Going To Take??",
+    "score": 10
+  },
+  {
+    "id": "oIVSeWBk4qM",
+    "title": "Don Henley - Take A Picture Of This",
+    "score": 10
+  },
+  {
+    "id": "ycK3Byj1zRw",
+    "title": "Take This Love - Sergio Mendes",
+    "score": 10
+  },
+  {
+    "id": "_oPFNXKGQtI",
+    "title": "If you take this pill (Yahya edition) 💸",
+    "score": 10
+  },
+  {
+    "id": "j6EaLRtmt2E",
+    "title": "We'll never forget this Take That performance 🙌 | Coronation Concert at Windsor Castle - BBC",
+    "score": 10
+  },
+  {
+    "id": "nhk4H5ej4kQ",
+    "title": "In The Taking of Deborah Logan (2014) This Is The Scariest Scene",
+    "score": 10
+  },
+  {
+    "id": "qZQBaWqWkHs",
+    "title": "Fix This is taking a while. Try checking your network connection Facebook Reels Error Problem",
+    "score": 10
+  },
+  {
+    "id": "Z0CF-syPS84",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Oef4Tpo-7Hw",
+    "title": "Bayer Aspirin commercial",
+    "score": 10
+  },
+  {
+    "id": "j-loSFOPDlc",
+    "title": "Bayer Aspirin Commercial (1973)",
+    "score": 10
+  },
+  {
+    "id": "tGTaVyv_Fxw",
+    "title": "See Your Risks",
+    "score": 10
+  },
+  {
+    "id": "eX5fTf99grw",
+    "title": "Bayer Aspirin Commercial (1973)",
+    "score": 10
+  },
+  {
+    "id": "8yc_judfAok",
+    "title": "Bayer Aspirin Commercial (1965)",
+    "score": 10
+  },
+  {
+    "id": "ZtwRgMl_RwE",
+    "title": "Invader Zim: Aspirin Commercial",
+    "score": 10
+  },
+  {
+    "id": "vSPjNOcmiww",
+    "title": "Bayer Aspirin for Children Commercial 1963",
+    "score": 10
+  },
+  {
+    "id": "SyOi4OHbm9k",
+    "title": "1977 Sucrets \\\"Barbara you up? Aspirin \\u0026 Sucrets\\\" TV Commercial",
+    "score": 10
+  },
+  {
+    "id": "sD2DXipyYzY",
+    "title": "\\\"Mothers are like that, yeah they are.\\\"  Children's Bayer Aspirin Commercial (1963)",
+    "score": 10
+  },
+  {
+    "id": "8yZJLWkzYyE",
+    "title": "Bear Aspirin - Commercial",
+    "score": 10
+  },
+  {
+    "id": "C1NQ8T38qWQ",
+    "title": "Bayer Aspirin Commercial 2000",
+    "score": 10
+  },
+  {
+    "id": "-nzxEeKgXbI",
+    "title": "St. Joseph Aspirin : Pumps Your Blood - Banjo Man",
+    "score": 10
+  },
+  {
+    "id": "mDjnd2CHVrs",
+    "title": "St. Joseph Aspirin For Children Commercial (1974)",
+    "score": 10
+  },
+  {
+    "id": "SMvmC0Cvx7o",
+    "title": "Bayer Aspirin Commercial 1960 s [cc]",
+    "score": 10
+  },
+  {
+    "id": "cGOFMXGZapU",
+    "title": "Aspirin and Sucrets commercial 1980",
+    "score": 10
+  },
+  {
+    "id": "NZ9Xf1mKq-E",
+    "title": "TV Ad – Aspirin and Heart Health (15 sec) Video – Brigham and Women’s Hospital",
+    "score": 10
+  },
+  {
+    "id": "YkiMZ2Fmezg",
+    "title": "Bayer aspirin commercial (1989)",
+    "score": 10
+  },
+  {
+    "id": "XBFAP9fETUY",
+    "title": "Bayer Aspirin Commercial - 1995",
+    "score": 10
+  },
+  {
+    "id": "oKjnhZJxJgQ",
+    "title": "St. Joseph Aspirin For Children 1970s Commercial",
+    "score": 10
+  },
+  {
+    "id": "fe90fPep_aY",
+    "title": "Bayer Aspirin Commercial (1977)",
+    "score": 10
+  },
+  {
+    "id": "H0-_u3BCYxw",
+    "title": "Aspirin Commercial (1979)",
+    "score": 10
+  },
+  {
+    "id": "pe9wRFBwre4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RqsbSXpSnjc",
+    "title": "What's the best way to take aspirin for your heart?",
+    "score": 10
+  },
+  {
+    "id": "AHF2c9o0W60",
+    "title": "Aspirin: To Take Or Not To Take",
+    "score": 10
+  },
+  {
+    "id": "kTwsYqsY6tg",
+    "title": "I’m 65 And I Have Been Taking Aspirin for A Long Time. I Read Aspirin Doesn’t Do Anything.",
+    "score": 10
+  },
+  {
+    "id": "5Bx2lXlfJto",
+    "title": "Can I take Aspirin instead of an anticoagulant?",
+    "score": 10
+  },
+  {
+    "id": "nZ3d4OruZQg",
+    "title": "What You Need To Know About Aspirin and Your Heart",
+    "score": 10
+  },
+  {
+    "id": "TBC0vBRWnrM",
+    "title": "Should you take aspirin every day?",
+    "score": 10
+  },
+  {
+    "id": "NSiiI3VWBHA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Qxx14RCxblg",
+    "title": "The accident that changed the world - Allison Ramsey and Mary Staicu",
+    "score": 10
+  },
+  {
+    "id": "CNbnLgetqHs",
+    "title": "How One Disease Changed What We Know About Medicine - Twice",
+    "score": 10
+  },
+  {
+    "id": "_wTTc2u45qA",
+    "title": "The Spanish Flu",
+    "score": 10
+  },
+  {
+    "id": "h5D3mv8ewCY",
+    "title": "Proteins Are Not Monolithic",
+    "score": 10
+  },
+  {
+    "id": "E_RJC6ey5a8",
+    "title": "Silence Before the Storm of Innovation",
+    "score": 10
+  },
+  {
+    "id": "ozerZWlFJJ0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZQB_xCc2IAs",
+    "title": "How AI is Revolutionizing Medicine",
+    "score": 10
+  },
+  {
+    "id": "FqsvgFTQv8w",
+    "title": "This Patient Changed My Entire Career",
+    "score": 10
+  },
+  {
+    "id": "1hIq_FSdyyE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9HQnEzFmRP4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GeZNYfLB5FY",
+    "title": "How modern medicine was born",
+    "score": 10
+  },
+  {
+    "id": "LkXD5UQ4FAM",
+    "title": "Pharmacist’s Deadly Mistake That Changed Medicine Forever! | Oz True Crime",
+    "score": 10
+  },
+  {
+    "id": "g7mpyQl2tMU",
+    "title": "The Pretty Reckless - My Medicine",
+    "score": 10
+  },
+  {
+    "id": "BuQj9Une3OA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ak1EAN62zpk",
+    "title": "Seeing Blue During Meditation? Here's What It Means | Chakra Healing \\u0026 Spiritual Growth",
+    "score": 10
+  },
+  {
+    "id": "UvmWxm3nR6E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "1KkT9Y8m1Tc",
+    "title": "Blue Ridge Parkway Asheville, NC",
+    "score": 10
+  },
+  {
+    "id": "vDybgNouizw",
+    "title": "SMILE! Blue Ivy in a rare \\u0026 beautiful moment smiling during the Cowboy Carter Tour #blueivy #beyonce",
+    "score": 10
+  },
+  {
+    "id": "SEI5EUtqiUs",
+    "title": "Why has Blue Ivy never worn a dress during Beyoncé's tour  The reason behind it is truly",
+    "score": 10
+  },
+  {
+    "id": "_leEsv-9a5I",
+    "title": "Taehyung got emotional during blue \\u0026 grey performance 😭",
+    "score": 10
+  },
+  {
+    "id": "W-J6uGwjI4U",
+    "title": "BLUE color spiritual meaning #throatchakra #bluecolour #colormeanings #colorsymbolism #colormeanings",
+    "score": 10
+  },
+  {
+    "id": "gp9VdDBtLds",
+    "title": "Blue Angels fly over Wrigley Field during 1998 Chicago Air \\u0026 Water Show",
+    "score": 10
+  },
+  {
+    "id": "WTRyLw3ZZgg",
+    "title": "Blue Ivy Channels Mom Beyoncé’s Style During Paris Outing With Dad Jay-Z",
+    "score": 10
+  },
+  {
+    "id": "xbCZDJjgOuk",
+    "title": "Why water turns blue during underwater explosion",
+    "score": 10
+  },
+  {
+    "id": "a2BFf10DSJ8",
+    "title": "Blue Ivy Dancing with Beyoncé During “America Has A Problem” – LA Night 3 Was ICONIC",
+    "score": 10
+  },
+  {
+    "id": "4Q5GS5Iz4x8",
+    "title": "The ocean during blue hour #painting #artwork #oceanpainting",
+    "score": 10
+  },
+  {
+    "id": "QjDc1yE4Zto",
+    "title": "What’s the worst thing a nurse said during your code blue?",
+    "score": 10
+  },
+  {
+    "id": "CZwsfbtEvh4",
+    "title": "Pad placement and operation of a Zoll monitor during a code blue",
+    "score": 10
+  },
+  {
+    "id": "l_IvE790mHE",
+    "title": "Blue Volkswagen Van Remains Intact During LA Wildfires",
+    "score": 10
+  },
+  {
+    "id": "oFVdb-yxJAk",
+    "title": "Member Shout Out",
+    "score": 10
+  },
+  {
+    "id": "0yYDwnFdZaQ",
+    "title": "Fall Asleep With Relaxing Wave Sounds at Night, Low Pitch Ocean Music for Deep Sleeping",
+    "score": 10
+  },
+  {
+    "id": "LnD-XEQ2hzQ",
+    "title": "Tokyo Japan - Kita-senju to Minami-Senju Blue Hour Walk • 4K HDR",
+    "score": 10
+  },
+  {
+    "id": "i-lEg71bjmM",
+    "title": "Blue Ridge Parkway 4K UHD - Relaxing music Along With Beautiful Nature Videos |  Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "DsvLIpJDx-o",
+    "title": "Appalachian Bluegrass Music | Banjo and Fiddle Music with Blue Ridge Mountains Scenery",
+    "score": 10
+  },
+  {
+    "id": "Lg4pwTjOhQM",
+    "title": "Fall Foliage in Upstate New York - Colorful Autumn Vibes in 8K Scenic Drive Video",
+    "score": 10
+  },
+  {
+    "id": "iGhVGdvEagI",
+    "title": "Wilmington",
+    "score": 10
+  },
+  {
+    "id": "KPh0LOCWT5A",
+    "title": "3,5 HRS Scenic Autumn Drive through Colorful Forests - 5K Discovering NY State from a Car Window",
+    "score": 10
+  },
+  {
+    "id": "Fj8hxgcQWus",
+    "title": "ULTIMATE 90 Minutes Of Mind Blowing Facts! From Dr. Neil deGrasse Tyson",
+    "score": 10
+  },
+  {
+    "id": "OwAk01PbCYI",
+    "title": "24 More Minutes of Mind Blowing Facts! | with Dr. Neil deGrasse Tyson",
+    "score": 10
+  },
+  {
+    "id": "Mx44AbREu6U",
+    "title": "Blue Lock vs A Raccoon 💀",
+    "score": 10
+  },
+  {
+    "id": "JuHuu6E0eFc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "uRhkDN2WjzI",
+    "title": "How aspirin was discovered - Krishna Sudhir",
+    "score": 10
+  },
+  {
+    "id": "wUWkRsllxOU",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "WEl9mY9eqY4",
+    "title": "Why Aspirin Cleans Arteries",
+    "score": 10
+  },
+  {
+    "id": "yGNHAi0UAJc",
+    "title": "Does Aspirin Reduce Inflammation? - Pain Medicine Network",
+    "score": 10
+  },
+  {
+    "id": "mrIrHqWFFJ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SeX8-0Qzk0g",
+    "title": "Origins of Aspirin | How It Became a Household Name",
+    "score": 10
+  },
+  {
+    "id": "G0tDTp0Jfpk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ro-zn6nE9KM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RKSAHMyyaXY",
+    "title": "5 Simple Things to Reverse Erectile Dysfunction (ED)",
+    "score": 10
+  },
+  {
+    "id": "14oX4-4Cnnc",
+    "title": "Best Exercises to Fix Erectile Dysfunction (75% IMPROVED by Doing This)",
+    "score": 10
+  },
+  {
+    "id": "9ZyPB0-cPMU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "X1UltRPfMqs",
+    "title": "Triglycerides",
+    "score": 10
+  },
+  {
+    "id": "kZRYER3xyr8",
+    "title": "3 Simple Steps To Heal Porn-Induced Erectile Dysfunction Naturally",
+    "score": 10
+  },
+  {
+    "id": "xujCR2P2Mck",
+    "title": "Introduction – Understanding Porn-Induced \"},{\"text\":\"Erectile\",\"bold\":true},{\"text\":\" ...",
+    "score": 10
+  },
+  {
+    "id": "o2-LdV-otRI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dOCtDMfqkdc",
+    "title": "Introduction and overview of erectile dysfunction",
+    "score": 10
+  },
+  {
+    "id": "wd4oVg0pAv4",
+    "title": "Essential Male Vulnerabilities",
+    "score": 10
+  },
+  {
+    "id": "X4CkPGdVaKo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BMJbveGBfEo",
+    "title": "Overcoming Erectile Dysfunction",
+    "score": 10
+  },
+  {
+    "id": "FCVZFRujB0g",
+    "title": "Doctor Explains: Can Testosterone Cure Erectile Dysfunction?",
+    "score": 10
+  },
+  {
+    "id": "c-6asdWsbBw",
+    "title": "Can You Heal Erectile Dysfunction",
+    "score": 10
+  },
+  {
+    "id": "si26zYHIKDE",
+    "title": "The Blockage Doctor relining a sewer shaft lead off.",
+    "score": 10
+  },
+  {
+    "id": "Lxp7LFfA9kg",
+    "title": "Best Treatment of 80-90% Blockage | Heart Blockage Treatment In USA - Dr Toishi Sharma",
+    "score": 10
+  },
+  {
+    "id": "o2e__9eFsQI",
+    "title": "The Clogged Artery Myth – Dr. Berg",
+    "score": 10
+  },
+  {
+    "id": "W5RkNboD-Js",
+    "title": "What is the clogged artery myth?",
+    "score": 10
+  },
+  {
+    "id": "3VpYpNe1nDA",
+    "title": "DRINK 1 CUP A DAY to Unclog Your Arteries",
+    "score": 10
+  },
+  {
+    "id": "lnP8gRlAMZk",
+    "title": "Simple Trick Drains Sinus in 1 Move | Created by Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "9Gd2mgXlyLs",
+    "title": "Chaos in USA !❄️ Mississippi \\u0026 Tennessee Hit by Extreme Ice Storm, Freezing Roads and Toppling Trees",
+    "score": 10
+  },
+  {
+    "id": "N__4MEjLaIk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A5hQNiQqKyA",
+    "title": "یک روز در قریه| A Day in the Village",
+    "score": 10
+  },
+  {
+    "id": "nMnlD1RxIAw",
+    "title": "Ear Infections? Do This! | Dr K \\u0026 Dr Wil",
+    "score": 10
+  },
+  {
+    "id": "rb6Hz16fBxY",
+    "title": "I Am At Your Door Right Now, Let Me In | God Says | God Message Today | Gods Message Now | God",
+    "score": 10
+  },
+  {
+    "id": "DRzrPYU38pg",
+    "title": "1 Shot a Day...Clear Clogged Arteries Away (Prevent Heart Attack \\u0026 Stroke)  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "MKVNYbcpQ1s",
+    "title": "Gross nasal rinse ✌️ #doctor",
+    "score": 10
+  },
+  {
+    "id": "ukE2Y87hjWs",
+    "title": "Reverse Heart Blockage Naturally Ft. Dr. Susheel Sharma | Unclog Arteries | Himanshu Bhatt",
+    "score": 10
+  },
+  {
+    "id": "Hsu97Y2S9wM",
+    "title": "Do This To Avoid Heart Attack \\u0026 Heart Blockage - Dr. Susheel Sharma | Himanshu Bhatt",
+    "score": 10
+  },
+  {
+    "id": "KzV4kgWRIQg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "jaWbDif40i8",
+    "title": "Prevent \\u0026 treatment of heart attack, blockage/ Dr. Biswaroop Roy Chowdhury, heart blockage medicine",
+    "score": 10
+  },
+  {
+    "id": "xaB5_SlhWHY",
+    "title": "Heart Blockage का घेरलू इलाज  || Dr. Biswaroop Roy Chowdhury",
+    "score": 10
+  },
+  {
+    "id": "4f8yMrQiePQ",
+    "title": "Feel like you have clogged/blocked ears? After recovering from an ear infection/cold/covid/allergie",
+    "score": 10
+  },
+  {
+    "id": "HJyZiry4FrI",
+    "title": "Heart Attack Treatment || HEART STENT ||  Angioplasty ||- PCI",
+    "score": 10
+  },
+  {
+    "id": "YTHkwbakPRk",
+    "title": "Drain Sinuses, Nasal Passages, \\u0026 Eustachian Tubes Super Fast!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "wOZE75ihimk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "UxFRp1Hkq-s",
+    "title": "Denmark and Greenland vow to 'work closely' with US after 'emotional' talks",
+    "score": 10
+  },
+  {
+    "id": "MUELp21t15A",
+    "title": "Greenland standoff: NATO allies at breaking point?",
+    "score": 10
+  },
+  {
+    "id": "A85MvOADRpM",
+    "title": "NATO troops heading to Greenland amid Trump's threats",
+    "score": 10
+  },
+  {
+    "id": "WTuMpJsbURI",
+    "title": "'Big problem for him,' says Trump after Greenland PM's remarks | REUTERS",
+    "score": 10
+  },
+  {
+    "id": "nH5si2iZwnM",
+    "title": "Danish official says there's a “fundamental disagreement” with Trump over Greenland",
+    "score": 10
+  },
+  {
+    "id": "HO2RCEUdCSs",
+    "title": "At Davos, Trump's Greenland agenda causes \\\"rupture\\\" in relations with America's allies",
+    "score": 10
+  },
+  {
+    "id": "tbf4o-oKz9A",
+    "title": "BREAKING: Greenland, Denmark Foreign Ministers Hold Press Briefing After Talks With JD Vance",
+    "score": 10
+  },
+  {
+    "id": "uMvScF7ALDU",
+    "title": "European troops arrive in Greenland for training after fraught US talks • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "LWLEYNpJ-oU",
+    "title": "Danish politician tells Trump to 'f*** off' over Greenland threats",
+    "score": 10
+  },
+  {
+    "id": "Vyvqb2jnKQY",
+    "title": "'Is This Who America Wants To Emulate—Putin, Hitler..?': Latimer Tears Trump Over Greenland Threats",
+    "score": 10
+  },
+  {
+    "id": "4qjwXau8gBo",
+    "title": "Danish Foreign Minister Scoffs at Trump's Bid to Take Greenland",
+    "score": 10
+  },
+  {
+    "id": "mwnPYiBfSIo",
+    "title": "Denmark calls on Trump to 'turn down temperature' of Greenland ownership talks",
+    "score": 10
+  },
+  {
+    "id": "ZuK85egikxE",
+    "title": "#Greenland minister tears up after failed meeting with #Trump",
+    "score": 10
+  },
+  {
+    "id": "Fequevv0qoQ",
+    "title": "\\\"Leave us alone\\\": Greenlanders react to Trump's takeover attempt",
+    "score": 10
+  },
+  {
+    "id": "87VgRQAFNs4",
+    "title": "Tapper calls out Karoline Leavitt over Trump's Greenland mix-up",
+    "score": 10
+  },
+  {
+    "id": "cbXbRDmJGn8",
+    "title": "Why Trump’s Greenland Push Shocked a Danish Insider",
+    "score": 10
+  },
+  {
+    "id": "PAFR87udaeQ",
+    "title": "Denmark Slams Trump Over Greenland Pressure",
+    "score": 10
+  },
+  {
+    "id": "7sjcbxwLeF4",
+    "title": "Greenland and Denmark foreign ministers hold news conference after meeting Vance and Rubio",
+    "score": 10
+  },
+  {
+    "id": "uHyLnaVjnw4",
+    "title": "Trump: Denmark should not control Greenland just because they 'had a boat land there 500 years ago'",
+    "score": 10
+  },
+  {
+    "id": "sIe5agKtNyc",
+    "title": "Danish officials: \\\"fundamental disagreement\\\" with Trump Over US Controlling Greenland",
+    "score": 10
+  },
+  {
+    "id": "h7L-VWF6I_4",
+    "title": "Search filters",
+    "score": 10
+  }
+]

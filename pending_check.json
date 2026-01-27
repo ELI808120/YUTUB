@@ -1,1 +1,2832 @@
-[]
+[
+  {
+    "id": "pElucNuyMCE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "המדריך האולטימטיבי לצילום נוף!",
+    "score": 110
+  },
+  {
+    "id": "TYXMYsebS5c",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "VRs7hu8Nbj0",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "WK5Yr6t91EU",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "P2W_5Zonr9E",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "zUTsQH5MMCY",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "EiwcsogwS9M",
+    "title": "#טבע #צילום",
+    "score": 60
+  },
+  {
+    "id": "dyQ_yRZdeNE",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "איך להכין מחמצת ביתית! 😍",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "איך להכין לחם מחמצת- בעד ונגד אכילת לחם מחמצת ומתכון מלא",
+    "score": 60
+  },
+  {
+    "id": "iUY3pxv1q7Y",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "ePsNWXGz9Zw",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "אפיית לחם מחמצת - תהליך מלא",
+    "score": 60
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "לחם מחמצת שיפון של מיקי שמו מתוך \\\"מיקי נטו\\\"",
+    "score": 60
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "אפיית לחם מחמצת בסיר - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "JcAlyfcw3eE",
+    "title": "הכנת לחם מחמצת ללא גלוטן - נטע קשת מתארחת בבלוג של דביר בר",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "ניסוי הר געש מתפרץ !  | ניסויים מדעיים עם ילדים | רפאל המטייל ויאנצ'יקס | ניסוי מדעי",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "רפאל המטייל ויאנצ׳יקס בניסוי מדעי מטורף ! מכינים מנורת לבה!!! | ניסויים מדעיים עם ילדים",
+    "score": 60
+  },
+  {
+    "id": "dwqtp89L9bA",
+    "title": "ניסוי הר געש-מתאים לילדים ופשוט ביותר!",
+    "score": 60
+  },
+  {
+    "id": "Bjc5MCVLSYE",
+    "title": "ים בתוך בקבוק - עם סירה מאגוז",
+    "score": 60
+  },
+  {
+    "id": "YL3xgKqYzWE",
+    "title": "ניסויים עם ד\\\"ר מולקולה - כפפה מתנפחת",
+    "score": 60
+  },
+  {
+    "id": "IkEdgQV1m-8",
+    "title": "איך להכין גבישי סוכר ענקיים?",
+    "score": 60
+  },
+  {
+    "id": "DrSw3N48onE",
+    "title": "ניסוי החץ המתהפך",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "איך הייתי לומד פייתון מהר (אם הייתי יכול להתחיל מחדש)",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "FEe4kEP2SqA",
+    "title": "Introduction: The Forgotten 95% of Human History",
+    "score": 50
+  },
+  {
+    "id": "4hFh6Yg1y0c",
+    "title": "Ancient Maya Metropolis | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "nt09P1sDVb8",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "n09iGowWdLY",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "_kpHn5g_yoM",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "UcVUz20prAs",
+    "title": "Oil Painting Technique: Oiling Out",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "4I0Q4XlbjVs",
+    "title": "This Is How To Overcome Perfectionism @Psych2go",
+    "score": 50
+  },
+  {
+    "id": "xO8uI_Pxxtw",
+    "title": "This is How to Overcome Your Fear of Failure",
+    "score": 50
+  },
+  {
+    "id": "87SAsfiA2gE",
+    "title": "How to Overcome Fear",
+    "score": 50
+  },
+  {
+    "id": "Eygy9Ce1yV0",
+    "title": "Overcoming Fear of Rejection from Women: Jordan B. Peterson's Guide for Young Men",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "How To Use LinkedIn Sales Navigator Search Filters To Find Decision Makers",
+    "score": 50
+  },
+  {
+    "id": "Uz1X2DasbrY",
+    "title": "Breaking down the U.S. military buildup near Venezuela amid strikes on alleged drug boats",
+    "score": 50
+  },
+  {
+    "id": "o3qRsF7S6wI",
+    "title": "How to Trade Stocks (Using Probability \\u0026 Edge)",
+    "score": 50
+  },
+  {
+    "id": "2z-ZGt_vD5A",
+    "title": "Make an exposure plan",
+    "score": 50
+  },
+  {
+    "id": "BcEjE7NSIzo",
+    "title": "HOW TO OVERCOME AGORAPHOBIA",
+    "score": 50
+  },
+  {
+    "id": "IUZRtmZ4sSU",
+    "title": "History",
+    "score": 50
+  },
+  {
+    "id": "_kKRaHff3CM",
+    "title": "#293 How To Unleash Your Original Fearless Self and Claim Your Inner Badass w/ Natasha Bussey",
+    "score": 50
+  },
+  {
+    "id": "TSyrdCSdgGU",
+    "title": "Lessons Learned From Emetophobia: Stop Trying to Overcome Your Fears | ERIN KELLEY | TEDxUCincinnati",
+    "score": 50
+  },
+  {
+    "id": "oWJuIkzjbPc",
+    "title": "How to Stop Worrying: The #1 Skill to Stop Anxiety \\u0026 Master GAD 14/30",
+    "score": 50
+  },
+  {
+    "id": "WGG7MGgptxE",
+    "title": "How to Deal With Anxiety - The Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "jJBVHaOH5pU",
+    "title": "Dealing With Constant Anxiety | How To Quiet The Overwhelm",
+    "score": 50
+  },
+  {
+    "id": "k040PVq_jss",
+    "title": "How to Deal With Anxiety - The Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "DIHbcH6LAgQ",
+    "title": "Brilliant org Review - 2025 | Is Brilliant.org Really Worth It?",
+    "score": 50
+  },
+  {
+    "id": "-qIAtEfNzv4",
+    "title": "How to find brilliant moves in chess? (8 easy tips)",
+    "score": 50
+  },
+  {
+    "id": "wvrL1Awgj4A",
+    "title": "Wife Demands Divorce In Letter,Husband's Brilliant Reply Makes Her Regret Every Word|Revenge Lessons",
+    "score": 50
+  },
+  {
+    "id": "29k-9eqd5RU",
+    "title": "Borderline Personality Disorder Treatment: How to Treat It",
+    "score": 50
+  },
+  {
+    "id": "vVUgoGlUvAM",
+    "title": "Social Anxiety Disorder vs Shyness - How to Fix It",
+    "score": 50
+  },
+  {
+    "id": "Lithy2fBU0I",
+    "title": "How To Overcome Your Social Anxiety",
+    "score": 50
+  },
+  {
+    "id": "si7XcdMQUQk",
+    "title": "Reddit Post; \\\"I forgot how to socialise\\\"",
+    "score": 50
+  },
+  {
+    "id": "6mGpmsZepvM",
+    "title": "How to overcome social anxiety disorder",
+    "score": 50
+  },
+  {
+    "id": "r3Gn07bVFBY",
+    "title": "How to overcome social anxiety disorder",
+    "score": 50
+  },
+  {
+    "id": "_NQGQImrpx4",
+    "title": "How To STOP Letting Social Anxiety Control You",
+    "score": 50
+  },
+  {
+    "id": "MAbzTLakYcw",
+    "title": "How to reduce the fear of rejection",
+    "score": 50
+  },
+  {
+    "id": "TpWozx44Alk",
+    "title": "How To Draw A Cute Cartoon Goat",
+    "score": 50
+  },
+  {
+    "id": "KNkvsrankAA",
+    "title": "A HOME INVASION HORROR GAME THAT HEARS EVERY SOUND YOU MAKE...",
+    "score": 50
+  },
+  {
+    "id": "mw9whWYm6jA",
+    "title": "Packing up Adam smasher again with a 1.5 second cooldown sandevistan build",
+    "score": 50
+  },
+  {
+    "id": "hvJeECFbwpg",
+    "title": "Smashers Egg Puzzle Rebuild Easy Tutorial (Hands-only)",
+    "score": 50
+  },
+  {
+    "id": "3GeI4tfFDUc",
+    "title": "How to kill Adam Smasher easy in 2 minutes",
+    "score": 50
+  },
+  {
+    "id": "St1PhnP4gBY",
+    "title": "How To Overcome Agoraphobia For Good | ANXIETY RECOVERY",
+    "score": 50
+  },
+  {
+    "id": "E40UEoa19As",
+    "title": "How to Create Google Account",
+    "score": 50
+  },
+  {
+    "id": "1uJ1TxklS2Y",
+    "title": "How To Make A Google Account - Full Guide",
+    "score": 50
+  },
+  {
+    "id": "ocEDN-YAFUE",
+    "title": "How to Take Control of Your Google Account, Google Privacy Settings and More.",
+    "score": 50
+  },
+  {
+    "id": "8XmyHiLkfhU",
+    "title": "How to Recover Google Account without Email and Phone Number (2025)",
+    "score": 50
+  },
+  {
+    "id": "h-0qq8W5JeQ",
+    "title": "How to Recover Gmail Account | No Email | No Phone number | 100% Gmail Recovery",
+    "score": 50
+  },
+  {
+    "id": "OLt9kL8lP8I",
+    "title": "How to recover access to your Google Account",
+    "score": 50
+  },
+  {
+    "id": "pvx6_FqfrwE",
+    "title": "How To Recover Gmail Account Without Phone Number And Password 2026 😱|| Google Account Recovery 2026",
+    "score": 50
+  },
+  {
+    "id": "swDlR5dKjSU",
+    "title": "EASY Make a new Google account on desktop or phone in under 5 minutes...",
+    "score": 50
+  },
+  {
+    "id": "QI7N_acLd5I",
+    "title": "How to create google account",
+    "score": 50
+  },
+  {
+    "id": "Ww6xI9wllpc",
+    "title": "Google Account Recovery 2026 | How to Recover Gmail Account - Gmail Account Recovery ",
+    "score": 50
+  },
+  {
+    "id": "9dWsrY6VwP0",
+    "title": "Gmail Account Recover Kaise Kare l How To Recover Google Account l Google Account Recovery ",
+    "score": 50
+  },
+  {
+    "id": "uTRScwNKrSY",
+    "title": "Rules for opening a Google account | How to Create Google Account",
+    "score": 50
+  },
+  {
+    "id": "tApHFCbeG8o",
+    "title": "How to Create Gmail and Google Account on Laptop PC 2025 (Easiest Way)",
+    "score": 50
+  },
+  {
+    "id": "-l3AXcoIgEU",
+    "title": "How to Create Google Account",
+    "score": 50
+  },
+  {
+    "id": "xa9wN5mf3J0",
+    "title": "BREAKING: Trump Threatens 100% Tariffs On Canada 'If Governor Carney' Makes Trade Deal With China",
+    "score": 50
+  },
+  {
+    "id": "whYV1nxITIg",
+    "title": "PM Carney makes affordability announcement in Ottawa",
+    "score": 50
+  },
+  {
+    "id": "YfJZrk-7c7k",
+    "title": "The Patterns That Link Every Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "6gOO1fs2FJc",
+    "title": "Indus Valley Civilization",
+    "score": 10
+  },
+  {
+    "id": "CAsKpXoxZAQ",
+    "title": "3+ Hours Of Lost Civilizations And Ancient Megapolis Facts",
+    "score": 10
+  },
+  {
+    "id": "zrq0wMoggI8",
+    "title": "4+ HOURS of Ancient Civilisations That Vanished",
+    "score": 10
+  },
+  {
+    "id": "X8Py63FH5Dk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YpKej05RgsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d2lJUOv0hLA",
+    "title": "The Sumerians",
+    "score": 10
+  },
+  {
+    "id": "Wk4yqLEQTSM",
+    "title": "17. Carthage - Empire of the Phoenicians",
+    "score": 10
+  },
+  {
+    "id": "6dbdVhVSat8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PSBwp63FUhc",
+    "title": "The Anunnaki and Human Origins",
+    "score": 10
+  },
+  {
+    "id": "5ZYb5jPtG9Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "See SpaceX Starship's 10th launch in epic 4K slow motion",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "-4qlPXOuDaI",
+    "title": "Starship | Fifth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "wS_8WOQJUu8",
+    "title": "FULL LAUNCH! SpaceX Starship 11th Flight Test",
+    "score": 10
+  },
+  {
+    "id": "ROlEtlldxqk",
+    "title": "SpaceX Falcon 9 Timelapse Above Downtown Los Angeles in 4K - October 7th 2018",
+    "score": 10
+  },
+  {
+    "id": "OikIfj7Hh9Y",
+    "title": "SpaceX Falcon Heavy- Elon Musk's Engineering Masterpiece",
+    "score": 10
+  },
+  {
+    "id": "F-9ANTobgS0",
+    "title": "Blastoff! SpaceX launches Starship on 10th flight test, deploys Starlink simulators",
+    "score": 10
+  },
+  {
+    "id": "7EEOjPvpguw",
+    "title": "Artemis-1 Launch Cinematic 4K (with Music)",
+    "score": 10
+  },
+  {
+    "id": "dao2to00mro",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "50elEqbnM8w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Jbe4YRzKRAI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "chw8GxuW6N4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "15 Genius Medieval Survival Skills Modern Preppers Have Forgotten",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "Hunting giant wild boars, homemade guns work surprisingly effectively, survival skills",
+    "score": 10
+  },
+  {
+    "id": "0wIH86xuZ-c",
+    "title": "Bushcraft Winter Shelter: Hidden Refuge, Fire Cooking \\u0026 Survival Skills",
+    "score": 10
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "10 KILLER Survival Fails",
+    "score": 10
+  },
+  {
+    "id": "seLwyDN2wpQ",
+    "title": "3 Survival Skills Every Man Should Know",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "E2Jc88PnPn4",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "60+ Bushcraft Skills \\u0026 Survival Tips",
+    "score": 10
+  },
+  {
+    "id": "qbETGQUOMZk",
+    "title": "75 days of using survival skills, trapping wild boars, wild chickens, wild fish, survival alone",
+    "score": 10
+  },
+  {
+    "id": "t9WYXRBJ9wE",
+    "title": "7 Days Surviving Alone in the Amazon",
+    "score": 10
+  },
+  {
+    "id": "f7As0yBCppU",
+    "title": "Survival Skills: SMART idea and USEFUL with single mom in forest #bushcraft #camping #outdoors #idea",
+    "score": 10
+  },
+  {
+    "id": "NT7KRaIIzuM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9rOwzR_Rb6g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "22 Wood Joints Made with Hand Tools",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "STRONG Wood Joints | 8 Ways to Cut Lap Joints",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7Gt5nepmzDM",
+    "title": "Top 6 Japanese Woodworking Projects for Beginners",
+    "score": 10
+  },
+  {
+    "id": "cagYqNJrFnA",
+    "title": "10 Best Butt Joint Methods | Woodworking Tips \\u0026 Tricks",
+    "score": 10
+  },
+  {
+    "id": "B1A3aiEHIzk",
+    "title": "Glue and Nails",
+    "score": 10
+  },
+  {
+    "id": "6-yshl-Im68",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xaT2uo6SWUA",
+    "title": "Essential WOOD JOINTS You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "1CX8-7i8gy8",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "FRYpbOUglUc",
+    "title": "You're being misled about woodworking joinery",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "Kwx32ioXRjc",
+    "title": "agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "1_nErU4KDzQ",
+    "title": "Conquer AGORAPHOBIA: You'll want to hear this 📢 👀",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "prFzwJ5I9xY",
+    "title": "Agoraphobia: The Fear of Fear | Linda Bussey | TEDxYellowknifeWomen",
+    "score": 10
+  },
+  {
+    "id": "kUBH1LjK3jc",
+    "title": "Symptoms of Agoraphobia: What Does It Look Like to Have a Fear of Crowds and Public Spaces? | GoodRx",
+    "score": 10
+  },
+  {
+    "id": "hrx0L3zjksE",
+    "title": "Driving Anxiety \\u0026 Agoraphobia: Overcoming Fear on the Road",
+    "score": 10
+  },
+  {
+    "id": "MLl4b9726wA",
+    "title": "What Is Agoraphobia Like - How Do You Help It?",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MgthcVIh1ZQ",
+    "title": "John Wellington Color Theory Masterclass",
+    "score": 10
+  },
+  {
+    "id": "wtICBD0Ke_E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "uU2ep4EM5aE",
+    "title": "Agoraphobia | DSM-5 Diagnosis, Symptoms and Treatment",
+    "score": 10
+  },
+  {
+    "id": "04Wh2E9oNug",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "439l0c-P3lg",
+    "title": "Exposure Therapy: Anxiety, Panic, Phobia, \\u0026 \"},{\"text\":\"#Agoraphobia\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CKADENbKAxgJIhMIy53p06KrkgMVrYllAx2bBDarygEEQsgtWA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/agoraphobia\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgthZ29yYXBob2JpYRgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CKADENbKAxgJIhMIy53p06KrkgMVrYllAx2bBDar\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#PaigePradko\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CJ8DENbKAxgLIhMIy53p06KrkgMVrYllAx2bBDarygEEQsgtWA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/paigepradko\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgtwYWlnZXByYWRrbxgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CJ8DENbKAxgLIhMIy53p06KrkgMVrYllAx2bBDar\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\", \"},{\"text\":\"#ExposureTherapy\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CJ4DENbKAxgNIhMIy53p06KrkgMVrYllAx2bBDarygEEQsgtWA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/exposuretherapy\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUTCg9leHBvc3VyZXRoZXJhcHkYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CJ4DENbKAxgNIhMIy53p06KrkgMVrYllAx2bBDar\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"34,168 views\"},\"shortViewCount\":{\"simpleText\":\"34K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "4BDTdLqBdNo",
+    "title": "This is how we overcome with lyrics - Hillsong",
+    "score": 10
+  },
+  {
+    "id": "2MGMvEnoD6U",
+    "title": "Overcoming Anxiety | Jonas Kolker | TEDxTheMastersSchool",
+    "score": 10
+  },
+  {
+    "id": "A1anXJhVamc",
+    "title": "Anxiety",
+    "score": 10
+  },
+  {
+    "id": "-A_mTUw90o8",
+    "title": "You Are Affirmations - Overcome Fear and Anxiety (While You Sleep)",
+    "score": 10
+  },
+  {
+    "id": "0AmamFc_tBk",
+    "title": "Finding Hope and Strength: Overcoming Addiction Through Faith",
+    "score": 10
+  },
+  {
+    "id": "wHQ5Gr3BEMQ",
+    "title": "9- This Is How We Overcome (Wilderness Escape Soundtrack)",
+    "score": 10
+  },
+  {
+    "id": "lb79e8fVYEg",
+    "title": "Overcoming fear  by 😨Eckhart Tolle",
+    "score": 10
+  },
+  {
+    "id": "OJHbh7j3mao",
+    "title": "overcoming fear as a christian",
+    "score": 10
+  },
+  {
+    "id": "grZpf0P9XnA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j9DAyej4Iak",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ek7JK6pattE",
+    "title": "Podcasts",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Power Apps Search and Filter Function with SharePoint + Workarounds",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CcJEmiU8Dis",
+    "title": "Iran stands READY against US military action: 'Finger on the trigger'",
+    "score": 10
+  },
+  {
+    "id": "EOjtgPUM5I4",
+    "title": "Massive U.S. Military Presence in the Middle East | CBN NewsWatch - January 23, 2026",
+    "score": 10
+  },
+  {
+    "id": "U-RnhGk3JiI",
+    "title": "SAS Soldier Breaks Down 11 Military Scenes | How Real Is It? | Insider",
+    "score": 10
+  },
+  {
+    "id": "IuGJ8k6lcOY",
+    "title": "BREAKING: US withdrawing some military personnel from Mideast #foxnews #news #us #fox",
+    "score": 10
+  },
+  {
+    "id": "ZaKRzWdoHWU",
+    "title": "U.S vs Iran War BREAKING: U.S Strike Carrier, Jets Near Iran, Israel TEASES Big Move; Iran HITS Back",
+    "score": 10
+  },
+  {
+    "id": "iC2MLn_9wMs",
+    "title": "Navy SEAL Jocko Willink Breaks Down Combat Scenes From Movies | GQ",
+    "score": 10
+  },
+  {
+    "id": "-L7o6HtX8Vg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lFYHpZibLvQ",
+    "title": "Breaking news: Iran surrounded - US military prepared for potential strike",
+    "score": 10
+  },
+  {
+    "id": "O3IzNAfpZ_s",
+    "title": "U.S vs Iran War BREAKING: Trump’s F-15 Jets Reach Turkmenistan as U.S Army Tighten Noose Around IRAN",
+    "score": 10
+  },
+  {
+    "id": "9hjFCBR9kYw",
+    "title": "Breaking! Major Military Coup in China! Vice Chief Zhang Youxia Arrested, Generals Almost Wiped Out",
+    "score": 10
+  },
+  {
+    "id": "YK6rZlwcNFM",
+    "title": "Breaking: Trump backs off Greenland military threats and EU tariffs",
+    "score": 10
+  },
+  {
+    "id": "iDogGlbE2Y4",
+    "title": "‘This is just insane’: Trump’s Greenland threats put U.S. military personnel in unthinkable position",
+    "score": 10
+  },
+  {
+    "id": "OAKc1tUIvOQ",
+    "title": "U.S VS IRAN BREAKING: Iran Orders Army Commanders Back Within 24 Hours as U.S. Strike Fears Grow",
+    "score": 10
+  },
+  {
+    "id": "8i_iM2NRE7I",
+    "title": "BREAKING: Coup Attempt In China – Military RACES To Respond",
+    "score": 10
+  },
+  {
+    "id": "RxcEzd_zeGg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "70KCA502SpM",
+    "title": "BREAKING: U.S. poised to strike military targets in Venezuela, Miami Herald reports",
+    "score": 10
+  },
+  {
+    "id": "KCiFiTOdrvE",
+    "title": "Flashlight Glass-Breaking Demo at SHOT Show | Real Impact Test",
+    "score": 10
+  },
+  {
+    "id": "bHGzvLz1zIk",
+    "title": "BREAKING | US Military: USS Abraham Lincoln Has Arrived in West Asia | WION News",
+    "score": 10
+  },
+  {
+    "id": "BI0ZOH7yOzY",
+    "title": "China Just Did Something It’s NEVER Done Before",
+    "score": 10
+  },
+  {
+    "id": "V2dona8Nszk",
+    "title": "BREAKING: U.S. Military Announces ‘Large-Scale Strikes Against Multiple Isis Targets Across Syria’",
+    "score": 10
+  },
+  {
+    "id": "XR3HNItwz7Q",
+    "title": "BREAKING NEWS: Trump Announces $1176 'Warrior Dividend' For Military Service-Members In Address",
+    "score": 10
+  },
+  {
+    "id": "R_fGAHS_e2c",
+    "title": "U.S.-Iran Full Scale War Begins: US Tanks, Warships \\u0026 Missile Defenses MOVE Toward Middle East",
+    "score": 10
+  },
+  {
+    "id": "MGYETgMK4L4",
+    "title": "BREAKING: ISIS gunman kills 2 Army soldiers, 1 interpreter in Syria ambush",
+    "score": 10
+  },
+  {
+    "id": "phZS70U5FTQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8DZln4-g6pM",
+    "title": "What Help Does the Spirit Give?",
+    "score": 10
+  },
+  {
+    "id": "8ubDSA02E2k",
+    "title": "What's Help ?",
+    "score": 10
+  },
+  {
+    "id": "6j_lyJ8FJbI",
+    "title": "What is help desk?",
+    "score": 10
+  },
+  {
+    "id": "f82Jmeo8wVM",
+    "title": "What Help Desk Jobs Actually Do (It’s Not What You Think)",
+    "score": 10
+  },
+  {
+    "id": "EV09_5m_DGA",
+    "title": "Intro.",
+    "score": 10
+  },
+  {
+    "id": "qXXQFw-Vnxg",
+    "title": "What it means to be a Help Meet/Mate (Suitable Helper)",
+    "score": 10
+  },
+  {
+    "id": "XoUfEl0Ai20",
+    "title": "Extreme cold could cause utility bills to rise. Here's what help is available",
+    "score": 10
+  },
+  {
+    "id": "K2uIVpBNNXo",
+    "title": "What help can I get if I can’t pay my tax bill?",
+    "score": 10
+  },
+  {
+    "id": "oXzjkDkPTrM",
+    "title": "that we’ll look at your financial situation and how we can help",
+    "score": 10
+  },
+  {
+    "id": "3K14v6dJQlM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EBD-i3LHz38",
+    "title": "What help could I get?",
+    "score": 10
+  },
+  {
+    "id": "eVwoiJWXgrw",
+    "title": "With Universal Credit your payment",
+    "score": 10
+  },
+  {
+    "id": "f27TF9WQ-nI",
+    "title": "What LORE Is In FNAF Help Wanted? | FNAF Theory",
+    "score": 10
+  },
+  {
+    "id": "meOlHyZTRJU",
+    "title": "Preheating the Oven",
+    "score": 10
+  },
+  {
+    "id": "X2swlAIuK-E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TY6vJejQNbs",
+    "title": "Global National: Feb. 18, 2023 | What help child survivors of Turkey earthquakes are receiving",
+    "score": 10
+  },
+  {
+    "id": "llWtCJFWBh8",
+    "title": "What is the Help-to-Buy Scheme?",
+    "score": 10
+  },
+  {
+    "id": "L2sCsD8hmpU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "q-4-onkzu6c",
+    "title": "Model Agriculture Farm in Punjab Pakistan | Modern Farming \\u0026 Progressive Agriculture",
+    "score": 10
+  },
+  {
+    "id": "44XI_dedw-s",
+    "title": "Beautiful Farm House 🏡  | Punjab | Village| Drone View | My Village Life | agriculture |",
+    "score": 10
+  },
+  {
+    "id": "XofUoOJFyT0",
+    "title": "Mushroom Farming in Punjab: Sangrur ਦਾ ਕਿਸਾਨ ਖੁੰਬਾਂ ਦੀ ਖੇਤੀ ਲਈ ਪਰਾਲੀ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰ ਰਿਹਾ",
+    "score": 10
+  },
+  {
+    "id": "GwOgDwjYdIY",
+    "title": "Punjab's Secret Weapon to Save Agriculture: Canal Waters to the Rescue",
+    "score": 10
+  },
+  {
+    "id": "AELO8cmtsRk",
+    "title": "ਰੋਜ਼ ਦਾ 35 ਹਜ਼ਾਰ ਕਮਾ ਕੇ ਦਿੰਦੀ ਇਹ ਫਸਲ, 3 ਕਿੱਲਿਆਂ ਚੋਂ ਬਣਦਾ 40 ਲੱਖ",
+    "score": 10
+  },
+  {
+    "id": "9R5N_wtPY2Y",
+    "title": "70 एकड़ में गन्ने की Mechanized खेती से करोड़ों कमा रहा Pilibhit का ये किसान || Sugarcane Farming",
+    "score": 10
+  },
+  {
+    "id": "XnQwIaV-qto",
+    "title": "Rana Dilshad Gabban Jhotian Farm in Punjab | Nili Ravi Buffalo Farming Tips | Dairy Farming Business",
+    "score": 10
+  },
+  {
+    "id": "fhXWNhkbphw",
+    "title": "Incentivizing Farmers in Punjab, India, To Save Electricity and Water",
+    "score": 10
+  },
+  {
+    "id": "jg8OYRXxh_8",
+    "title": "ਮੱਕੀ ਦੀ ਕਟਾਈ 260 Hp new holland #punjab #farming #gba #trending #jattlifestyle",
+    "score": 10
+  },
+  {
+    "id": "RjxaMgg55Y8",
+    "title": "A DAY IN THE LIFE OF A FARMER IN PUNJAB | MAKKI DA KAM HOYA KHTM| SANDHU FARM | HARVEST SEASON.",
+    "score": 10
+  },
+  {
+    "id": "KqARFj1p2rc",
+    "title": "How Shrimp Farming Is Transforming Punjab’s Salty Wastelands",
+    "score": 10
+  },
+  {
+    "id": "HZLxV5ZsV-o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Iy5wAul7XVc",
+    "title": "Real Time Billionaires 💰 Top 5 Panjabi Farmers 👌 Farming Entrepreneur",
+    "score": 10
+  },
+  {
+    "id": "VOTItYtfQYM",
+    "title": "Farming lover subscribe YouTube channel for sugarcane farming Punjab #riar_sugarcane_farm  #1847",
+    "score": 10
+  },
+  {
+    "id": "8qbceZnPG5s",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "p7HKvqRI_Bo",
+    "title": "How do investors choose stocks? - Richard Coffin",
+    "score": 10
+  },
+  {
+    "id": "CMQLdJa64Wk",
+    "title": "Every Stock Market Term Explained in 13 Minutes",
+    "score": 10
+  },
+  {
+    "id": "T37YvxMTofc",
+    "title": "Stock",
+    "score": 10
+  },
+  {
+    "id": "ZCFkWDdmXG8",
+    "title": "Initial Public Offering",
+    "score": 10
+  },
+  {
+    "id": "A7fZp9dwELo",
+    "title": "Warren Buffett: The 3 Times When You Should Sell a Stock",
+    "score": 10
+  },
+  {
+    "id": "uh5MgS9_roA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4cnZPY3cm5Y",
+    "title": "Channel intro and social message",
+    "score": 10
+  },
+  {
+    "id": "VJgHkAqohbU",
+    "title": "The Stock Market Always Wins",
+    "score": 10
+  },
+  {
+    "id": "TQuxVz52w2w",
+    "title": "Introduction: Buffett's Million Dollar Bet",
+    "score": 10
+  },
+  {
+    "id": "HYSsMgJu4YM",
+    "title": "9. Corporate Stocks",
+    "score": 10
+  },
+  {
+    "id": "78_GRGjlL6E",
+    "title": "Chapter 1. Introduction",
+    "score": 10
+  },
+  {
+    "id": "7J34VXhRLno",
+    "title": "COMPANY ACCOUNTS (THE ISSUE OF SHARES) - PART 1",
+    "score": 10
+  },
+  {
+    "id": "Vee53bsSgqs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hKLKW4ucdag",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RTjGae4SPNw",
+    "title": "Why They Need 50 Billion Shares: The $3 BMNR Split Theory",
+    "score": 10
+  },
+  {
+    "id": "-QBoZPZzWpk",
+    "title": "$MSTR: Bitcoin Per Share, Bitcoin Yield, and the mNAV Problem Explained",
+    "score": 10
+  },
+  {
+    "id": "My1DJlb4v6o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "r_tBPOpVZqU",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "avHl3qwEs6w",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "p1pt7X0aanc",
+    "title": "What is Agoraphobia?",
+    "score": 10
+  },
+  {
+    "id": "t3XKFJ2t6Gg",
+    "title": "Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "qHzOouQSA-0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JgDa-_OHLQA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hry2_qxyLX0",
+    "title": "How you can HELP someone with ANXIETY, PANIC and AGORAPHOBIA",
+    "score": 10
+  },
+  {
+    "id": "xa5clIYDDuk",
+    "title": "Agoraphobia in Children | Child Mind Institute",
+    "score": 10
+  },
+  {
+    "id": "rI8W_vE0ZQA",
+    "title": "Agoraphobia vs Social Anxiety: Core Fear, Crowds \\u0026 Panic",
+    "score": 10
+  },
+  {
+    "id": "JgghK5ud1mw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VdoSgPRe_gw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bOanUpOQgNw",
+    "title": "Panic Disorder with Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "VjImVltBIe8",
+    "title": "What does Agrophobia mean?",
+    "score": 10
+  },
+  {
+    "id": "la0T4pBzwjI",
+    "title": "Agoraphobia: The Fear of Fear | Linda Bussey | TEDxYellowknifeWomen",
+    "score": 10
+  },
+  {
+    "id": "76ebBjI5HFc",
+    "title": "Agoraphobia and COVID-19",
+    "score": 10
+  },
+  {
+    "id": "343237WO_nM",
+    "title": "Agoraphobia in a Minute",
+    "score": 10
+  },
+  {
+    "id": "FOFyhm6ldmE",
+    "title": "Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "slM2Figv_AY",
+    "title": "In Fear of Fear",
+    "score": 10
+  },
+  {
+    "id": "hFk1_voaZgI",
+    "title": "Bauhaus - In Fear of Fear",
+    "score": 10
+  },
+  {
+    "id": "s0QURElNqas",
+    "title": "From Ruby to Elixir: Elevate Your Engineering Team Without Fear - Stephen Bussey | Code BEAM Europe",
+    "score": 10
+  },
+  {
+    "id": "jE1GeIOynRw",
+    "title": "The Root Of Fear",
+    "score": 10
+  },
+  {
+    "id": "JZH-G6nilqQ",
+    "title": "Gary Busey Directs His Own Interview",
+    "score": 10
+  },
+  {
+    "id": "AsSTJNz9cxs",
+    "title": "The Root Of Fear",
+    "score": 10
+  },
+  {
+    "id": "WQA1NhlxDow",
+    "title": "Fear",
+    "score": 10
+  },
+  {
+    "id": "pXlgtQebpcY",
+    "title": "“I guess that was built into my system from the ground up. So it’s just a lot of hustle, hard work, and looking for opportunities and not giving up.”",
+    "score": 10
+  },
+  {
+    "id": "KOHJCGi30ZQ",
+    "title": "An In-Depth Look at Fear of Fear",
+    "score": 10
+  },
+  {
+    "id": "odakaLSDVtI",
+    "title": "Troubled by Fear? Just Change Your Channel! - Sadhguru",
+    "score": 10
+  },
+  {
+    "id": "K7hYf0yIK5w",
+    "title": "Affirmations Of Power And Strength Over Fear",
+    "score": 10
+  },
+  {
+    "id": "JFHFPUqDcZ8",
+    "title": "PHOBIAS | Understanding Your Mental Health Diagnosis: Specific Phobia | Systematic Desensitization",
+    "score": 10
+  },
+  {
+    "id": "sfxu3zyo0HU",
+    "title": "About Avoidance",
+    "score": 10
+  },
+  {
+    "id": "Mpn0lklZmSs",
+    "title": "When fear Starts Walking Like Faith",
+    "score": 10
+  },
+  {
+    "id": "wNFC4svhg_0",
+    "title": "No Fear Van Jonckhoeve , Sunshine Tour 2024",
+    "score": 10
+  },
+  {
+    "id": "uiNFPrbG2jA",
+    "title": "Fear Of Fear",
+    "score": 10
+  },
+  {
+    "id": "ryR-N5_vdtE",
+    "title": "Love, not Fear by Pastor Seth Bussey",
+    "score": 10
+  },
+  {
+    "id": "spAiSzYBq78",
+    "title": "Galatians Chapter 5 Verses 4",
+    "score": 10
+  },
+  {
+    "id": "iifBVRdsvlE",
+    "title": "The Sneaky Fear of Fear Loop",
+    "score": 10
+  },
+  {
+    "id": "6Xbo-EViHKQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "olkJ2CFC0lM",
+    "title": "4 Warning Signs of Generalized Anxiety Disorder",
+    "score": 10
+  },
+  {
+    "id": "-ieJU5gklO4",
+    "title": "What is Anxious Depression?",
+    "score": 10
+  },
+  {
+    "id": "yqR77sa4EVE",
+    "title": "Depression, Anxiety, PTSD: What to Do When Nothing Seems to Work",
+    "score": 10
+  },
+  {
+    "id": "KIYDy_Q2D9Y",
+    "title": "So, You're Having an Anxiety Attack (The Calm-Down Method for Stopping Anxiety Attacks)",
+    "score": 10
+  },
+  {
+    "id": "enkUeaSwhic",
+    "title": "Life Changing Anxiety Tip From A Psychologist",
+    "score": 10
+  },
+  {
+    "id": "ZtBlAXo8LsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EW06sG8EeHY",
+    "title": "I spent a day with AGORAPHOBICS (Extreme Anxiety Disorder)",
+    "score": 10
+  },
+  {
+    "id": "QEqHZB5MRQg",
+    "title": "CASCADE",
+    "score": 10
+  },
+  {
+    "id": "BKYI6f4Z-9g",
+    "title": "Calming Anxiety When Nothing Works | Joshua Fletcher | TEDxManchester",
+    "score": 10
+  },
+  {
+    "id": "Hs69n5flIns",
+    "title": "Heart palpitations",
+    "score": 10
+  },
+  {
+    "id": "FpiWSFcL3-c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IIRTESPQ-O0",
+    "title": "Kevin Kristie's Brother",
+    "score": 10
+  },
+  {
+    "id": "ZidGozDhOjg",
+    "title": "Why Do We Regard Feeling Anxious So Negatively",
+    "score": 10
+  },
+  {
+    "id": "wndNfOJb8vM",
+    "title": "The Secret to Stopping Anxiety \\u0026 Fear (That Actually Works) | The Mel Robbins Podcast",
+    "score": 10
+  },
+  {
+    "id": "H4bPKpIMuLQ",
+    "title": "Howard",
+    "score": 10
+  },
+  {
+    "id": "fb9vewezg7A",
+    "title": "So, You're Having an Anxiety Attack (The Calm-Down Method for Stopping Anxiety Attacks)",
+    "score": 10
+  },
+  {
+    "id": "BssmH0dW0-E",
+    "title": "Tools for Managing Stress \\u0026 Anxiety | Huberman Lab Essentials",
+    "score": 10
+  },
+  {
+    "id": "qUz93CyNIz0",
+    "title": "Huberman Lab Essentials; Emotions \\u0026 Stress",
+    "score": 10
+  },
+  {
+    "id": "FnMUZWcoMgw",
+    "title": "We Shouldn’t Have Went Camping…",
+    "score": 10
+  },
+  {
+    "id": "bXBn7v8OxPw",
+    "title": "Road of Fear | !للسهرانين : ما كان لازم نخيم انا و الشباب اخر الليل",
+    "score": 10
+  },
+  {
+    "id": "diWaz79W-Is",
+    "title": "Dej Loaf - No Fear (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "6v5R6XVtouc",
+    "title": "Far From Any Road",
+    "score": 10
+  },
+  {
+    "id": "THCxNQ7wMxM",
+    "title": "🛣🔥I am a loner – Freedom, Fear \\u0026 the Open Road🔥🛣",
+    "score": 10
+  },
+  {
+    "id": "B_DKtsmIGqE",
+    "title": "Never going camping again....Fear The Moon",
+    "score": 10
+  },
+  {
+    "id": "Ma3g1FOJspc",
+    "title": "Driving Anxiety \\u0026 Agoraphobia: Overcoming Fear on the Road",
+    "score": 10
+  },
+  {
+    "id": "xVaDycYjkwE",
+    "title": "2Pac - Only Fear Of Death (OSRAVY REMIX) Deep House Remix",
+    "score": 10
+  },
+  {
+    "id": "cNNV1BJmNc0",
+    "title": "8 Most Disturbing TRUE  Trucker Horror Stories | Fear Files",
+    "score": 10
+  },
+  {
+    "id": "H7R8OWnMjfs",
+    "title": "Lilsccrt - No fear",
+    "score": 10
+  },
+  {
+    "id": "IjYSHZD0jZ4",
+    "title": "I Should've NEVER Went Camping At 3am... [Road Of Fear]",
+    "score": 10
+  },
+  {
+    "id": "9dWxFQ6pcco",
+    "title": "This Is Why Rattlesnakes FEAR the ROADRUNNER",
+    "score": 10
+  },
+  {
+    "id": "zjwlGrS-LJA",
+    "title": "Ir de camping fue una TERRIBLE IDEA 🏕️😱 ROAD OF FEAR (Completo)",
+    "score": 10
+  },
+  {
+    "id": "3uwMwySlsHo",
+    "title": "The Weeknd - Baptized In Fear (97Kickstvr \\u0026 ROUDS Remix)",
+    "score": 10
+  },
+  {
+    "id": "B46hycmdEpQ",
+    "title": "Fear Road",
+    "score": 10
+  },
+  {
+    "id": "iLwO9x41T54",
+    "title": "POLDO Gioca a ROAD OF FEAR (Harsh Reality)",
+    "score": 10
+  },
+  {
+    "id": "0FWVFDWNygg",
+    "title": "TERROR BARATO | Road Of Fear",
+    "score": 10
+  },
+  {
+    "id": "4_6n9ILHBaI",
+    "title": "Iron Maiden - Fear of The Dark (HQ)",
+    "score": 10
+  },
+  {
+    "id": "p32b5nNq1zw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pEE7i04GjK8",
+    "title": "Fastest Brilliant Move? (3 Moves)",
+    "score": 10
+  },
+  {
+    "id": "agck0gcZ3ec",
+    "title": "14 Things I Wish I Knew Before Starting Pokémon Brilliant Diamond \\u0026 Shining Pearl",
+    "score": 10
+  },
+  {
+    "id": "5v2AJzD_Ok4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rZgWcboi9g8",
+    "title": "Stellvia - Opening | \\\"Asu e no brilliant road\\\" by angela",
+    "score": 10
+  },
+  {
+    "id": "XtV5cDTOSPs",
+    "title": "Yanis Varoufakis: \\\"Something BIG Is About To Happen in America\\\"",
+    "score": 10
+  },
+  {
+    "id": "qq7Q23hifWU",
+    "title": "火烧圆明园真实影像，咸丰帝虐死英法代表团后，为何狼狈逃跑？揭秘英法联军真实目的，整整被骗了200年！【历史档案】",
+    "score": 10
+  },
+  {
+    "id": "_kYMBVWzH70",
+    "title": "The Start Of A New World Order",
+    "score": 10
+  },
+  {
+    "id": "Kk1u6caPMW8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "98GIogPxNM8",
+    "title": "Richard Feynman Explains Why the Past Isn’t Really Gone",
+    "score": 10
+  },
+  {
+    "id": "rqMdqOibASc",
+    "title": "NFL News: NFL Now Admits Refs Got Massive Call WRONG in Patriots at Broncos AFC Championship Game",
+    "score": 10
+  },
+  {
+    "id": "7xQIWsIlOEw",
+    "title": "The Fastest Wins In Magnus Carlsen's Career",
+    "score": 10
+  },
+  {
+    "id": "vR6fC3PW6t0",
+    "title": "Chess Professional Did NOT See This Coming...",
+    "score": 10
+  },
+  {
+    "id": "MLJSF1JzvaE",
+    "title": "Early Game Tips For a New Play-through of Pokemon Brilliant Diamond \\u0026 Shining Pearl",
+    "score": 10
+  },
+  {
+    "id": "Y3g5yRAS-4M",
+    "title": "Intro - Spoiler-Free Video",
+    "score": 10
+  },
+  {
+    "id": "qwhY4oVEfSM",
+    "title": "Beating Queen's Gambit with 2 Brilliant Moves! ♟️🔥| | Chess Opening",
+    "score": 10
+  },
+  {
+    "id": "U2KFhsWMEP4",
+    "title": "Why starting on YouTube Is a BRILLIANT idea (even if nobody watches)",
+    "score": 10
+  },
+  {
+    "id": "nctuK-449sk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cl_Ur0wQ6Og",
+    "title": "Two Brilliant Chess Moves In Just ONE Game!",
+    "score": 10
+  },
+  {
+    "id": "n51jOpVhI-k",
+    "title": "Winning Materials with 2 Brilliant Moves! ♟️💎 | Mikhail Tal Brilliancy",
+    "score": 10
+  },
+  {
+    "id": "z7_X6ZtDtAM",
+    "title": "Brilliant Move or a Blunder? 🤔",
+    "score": 10
+  },
+  {
+    "id": "qI5GOnDQ4-c",
+    "title": "15 PRO Tips For Early Game in Brilliant Diamond and Shining Pearl",
+    "score": 10
+  },
+  {
+    "id": "sxvUn7XvQ3I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QJZHQ624EEg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DRendUpJVn8",
+    "title": "Hepatitis B: Treatment and care for a chronic condition | Ohio State Medical Center",
+    "score": 10
+  },
+  {
+    "id": "XcoqTLHYe2k",
+    "title": "Causes of Peripheral Neuropathy",
+    "score": 10
+  },
+  {
+    "id": "2YmFwM-JJ74",
+    "title": "Varicocele Treatment | Treating Varicocele Without Surgery in Hyderabad",
+    "score": 10
+  },
+  {
+    "id": "70dTUn_SEf0",
+    "title": "What is Treatment Resistant Depression? What Do We Do about it?",
+    "score": 10
+  },
+  {
+    "id": "2z5krS51pNg",
+    "title": "What is Treatment Resistant Depression",
+    "score": 10
+  },
+  {
+    "id": "20LuyRKPcTk",
+    "title": "What is bronchitis",
+    "score": 10
+  },
+  {
+    "id": "53RevkuVtA0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qyFaUA14-KQ",
+    "title": "Normal",
+    "score": 10
+  },
+  {
+    "id": "wYG2IfV9CyQ",
+    "title": "Elevoplasty Procedure",
+    "score": 10
+  },
+  {
+    "id": "qw6jnFqZ-Hk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CHLm-u_p954",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y12IrHWmAZE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yXMhExEUHdM",
+    "title": "STDs:  Syphilis Treatment",
+    "score": 10
+  },
+  {
+    "id": "YDFqW3v8TQs",
+    "title": "Acute Gout Treatment - How You Can Relieve the Sudden Onset of Pain (5 of 6)",
+    "score": 10
+  },
+  {
+    "id": "sQKK6VWmF7o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RPgvG13tfAc",
+    "title": "Brain Tumour Causes, Symptoms \\u0026 Treatment - Q\\u0026A with Dr Nicolas Kon | Mount Elizabeth Hospitals",
+    "score": 10
+  },
+  {
+    "id": "fPhyKvOe8X8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ha4tzDBbV2M",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "2kDbztlKXKM",
+    "title": "TREATMENT WHAT ARE CONVENTIONAL ORAL MEDICATIONS?",
+    "score": 10
+  },
+  {
+    "id": "RBxELXCwZ7o",
+    "title": "Agoraphobia vs Social Anxiety: Core Fear, Crowds \\u0026 Panic",
+    "score": 10
+  },
+  {
+    "id": "xv5X7SxADn0",
+    "title": "Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "_kjcHBBxzbA",
+    "title": "What is AGORAPHOBIA \\u0026 What Can You Do About It?",
+    "score": 10
+  },
+  {
+    "id": "3LFn9XSeGPw",
+    "title": "Agoraphobia Is Worse Than You Think...",
+    "score": 10
+  },
+  {
+    "id": "l8g28x1wRbY",
+    "title": "Not Working?",
+    "score": 10
+  },
+  {
+    "id": "i9vSIAoLKvQ",
+    "title": "5 SIGNS OF AGORAPHOBIA #agoraphobia #agoraphobic #mentalhealth #anxiety #panicattacks",
+    "score": 10
+  },
+  {
+    "id": "dJIWQQvw7t4",
+    "title": "The Scary Signs of Agoraphobia After Narcissistic Abuse",
+    "score": 10
+  },
+  {
+    "id": "HAMSvqOI6AE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Nbvg_Se_Nog",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RqAOrr_FPxo",
+    "title": "Why You Feel Anxious Socializing (and What to Do about It) | Fallon Goodman | TED",
+    "score": 10
+  },
+  {
+    "id": "KFiPfuZmsQU",
+    "title": "Overcoming Social Anxiety | Marielle Cornes | TEDxYouth@MBJH",
+    "score": 10
+  },
+  {
+    "id": "YqM-17Iw_2k",
+    "title": "HOW I OVERCAME A FEAR OF BLUSHING",
+    "score": 10
+  },
+  {
+    "id": "zJ6yegVE7WM",
+    "title": "Social Anxiety in the Modern World | Dr. Fallon Goodman | TEDxUSF",
+    "score": 10
+  },
+  {
+    "id": "EFhP4wP1TzU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZN-aJBYvh24",
+    "title": "Social Anxiety Disorder - causes, symptoms, diagnosis, treatment, pathology",
+    "score": 10
+  },
+  {
+    "id": "QLjPrNe63kk",
+    "title": "Turning Fear into Power: Understanding and managing anxiety - Longwood Seminar",
+    "score": 10
+  },
+  {
+    "id": "q1YAA8xmydM",
+    "title": "What Creates Social Anxiety?",
+    "score": 10
+  },
+  {
+    "id": "-3t8kIjqd1U",
+    "title": "The 5 signs of social anxiety #socialanxiety #anxiety #mentalhealth",
+    "score": 10
+  },
+  {
+    "id": "wbroM1Di-bI",
+    "title": "8 Signs You Might Have Social Anxiety",
+    "score": 10
+  },
+  {
+    "id": "MpovjH-06Uc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ybbPzpxVfdU",
+    "title": "Overcoming Social Anxiety: Attachment, Exposure, and Self-Confidence | Being Well",
+    "score": 10
+  },
+  {
+    "id": "vcwV8WmTuQI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b4kfRxvj1Jc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ro-MOEpAFwA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qIyJkGL5XD4",
+    "title": "What is Agoraphobia? | Understanding Mental Health Conditions",
+    "score": 10
+  },
+  {
+    "id": "ZFIsz8UjX5s",
+    "title": "The Psychology of Agoraphobia - What Is Agoraphobia \\u0026 How Is It Treated? #GetPsyched",
+    "score": 10
+  },
+  {
+    "id": "Yx5B66sn_tg",
+    "title": "WHAT IS AGORAPHOBIA?",
+    "score": 10
+  },
+  {
+    "id": "534rYEo-fS8",
+    "title": "COMMON SIGNS \\u0026 SYMPTOMS",
+    "score": 10
+  },
+  {
+    "id": "m41O5iVBYUI",
+    "title": "Invalidating Their Experience",
+    "score": 10
+  },
+  {
+    "id": "sLuOg7ChFDE",
+    "title": "Conquer AGORAPHOBIA: You'll want to hear this 📢 👀",
+    "score": 10
+  },
+  {
+    "id": "yfBbKrgp364",
+    "title": "What Causes Agoraphobia?",
+    "score": 10
+  },
+  {
+    "id": "uDNDwQNHGwM",
+    "title": "What Causes Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "MyklAHZHd24",
+    "title": "10 Things I Wish I Knew Before Getting Goats",
+    "score": 10
+  },
+  {
+    "id": "0OAu4e8bRgo",
+    "title": "My story about my first goats",
+    "score": 10
+  },
+  {
+    "id": "DtwTCePyeVA",
+    "title": "Judas's Shadow is the GOAT",
+    "score": 10
+  },
+  {
+    "id": "DGUTnUN-QCE",
+    "title": "TREAT IMPOTENCE - RAM GOAT DASH ALONG - DAMIANA HERB USES AND BENEFITS-COUNTRY LIVING",
+    "score": 10
+  },
+  {
+    "id": "lk91G0IF3lc",
+    "title": "ENHANCES THE RESPIRATORY TRACK",
+    "score": 10
+  },
+  {
+    "id": "3QzT1sq6kCY",
+    "title": "What are the Three Billy Goats Gruff names?",
+    "score": 10
+  },
+  {
+    "id": "29uv_llemco",
+    "title": "Please Don't Get a Goat",
+    "score": 10
+  },
+  {
+    "id": "xPU4-07VTmQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jjZlQfoA_8Y",
+    "title": "Goat Behavior Goat on Goat Aggression",
+    "score": 10
+  },
+  {
+    "id": "JqAbxh4KiOg",
+    "title": "An unbelievably rare event! We had a goat give birth to FIVE babies!",
+    "score": 10
+  },
+  {
+    "id": "Ml7t6SpCLnQ",
+    "title": "Climb Like a Goat | Dance Along For Kids | #brainbreaksforkids #brainbreaks",
+    "score": 10
+  },
+  {
+    "id": "fjPvwbcVQt0",
+    "title": "The Three Billy Goats Gruff – 🐐 Read aloud classic about outsmarting your obstacles!",
+    "score": 10
+  },
+  {
+    "id": "VVLf5t8ToRA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "e_Ts55FP554",
+    "title": "here's a cheap way to graze your goats without a fence #homesteading #goat",
+    "score": 10
+  },
+  {
+    "id": "zaOCjdm1x0o",
+    "title": "🦙Llama Llama and the Bully Goat - Animated Read Aloud Book",
+    "score": 10
+  },
+  {
+    "id": "PnISPRQU-KE",
+    "title": "Untangling Baby Goats",
+    "score": 10
+  },
+  {
+    "id": "0wobqw589l0",
+    "title": "Buying Goats: Top 5 Things You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "Ch1YNImVBdI",
+    "title": "Whole Goat Cooked In Its Own Body!! Bizarre Food of Asia!!",
+    "score": 10
+  },
+  {
+    "id": "2rPmNCz9ln0",
+    "title": "Mongolian Breakfast",
+    "score": 10
+  },
+  {
+    "id": "wcIiN4iL4lc",
+    "title": "yup, my donkey ate my goat #minidonkey #goat #danger #farmlife #steinmetzfamilyfarm",
+    "score": 10
+  },
+  {
+    "id": "kTt0Iid6YFE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zSgzX4brAoo",
+    "title": "simple hay feeder on our goats farm to reduce wastage  of feeds",
+    "score": 10
+  },
+  {
+    "id": "OMK0fAl9oNA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NFR5iQqlIeE",
+    "title": "One Of The Best Horror Games I’ve Played…",
+    "score": 10
+  },
+  {
+    "id": "L3Yz4U4XHlM",
+    "title": "This Is One Of The Best Horror Games This Year…",
+    "score": 10
+  },
+  {
+    "id": "oWpvD3aTdo8",
+    "title": "Working Night Shift At A Haunted Hospital…",
+    "score": 10
+  },
+  {
+    "id": "_hduLazjQ6Q",
+    "title": "Searching For Missing People In A National Park...",
+    "score": 10
+  },
+  {
+    "id": "6iiruWDq5zs",
+    "title": "The Scariest Game I’ve Played In A While…",
+    "score": 10
+  },
+  {
+    "id": "6UP-wJtBj6s",
+    "title": "The Game Based On An Actual Serial Killer?",
+    "score": 10
+  },
+  {
+    "id": "E24j9_Sd5zk",
+    "title": "The 1993 Missing Family Case..",
+    "score": 10
+  },
+  {
+    "id": "zN_N96CZTp8",
+    "title": "3 SCARY GAMES #109",
+    "score": 10
+  },
+  {
+    "id": "FF5uEvoHa8s",
+    "title": "This Horror Game Scared Me So Bad It Made Me Angry...",
+    "score": 10
+  },
+  {
+    "id": "WebY1DOrK3Q",
+    "title": "THIS GAMES ACTUALLY TOO SCARY [DEADCAM]",
+    "score": 10
+  },
+  {
+    "id": "OD6Nwz4i9_c",
+    "title": "THE SCARIEST GAME WE’VE PLAYED ALL YEAR… | Dread Flats",
+    "score": 10
+  },
+  {
+    "id": "q3EU3AxF6eU",
+    "title": "THESE HORROR GAMES CHANGED THE WAY I LOOK AT LIFE..",
+    "score": 10
+  },
+  {
+    "id": "2Jihp8V8eMw",
+    "title": "Me And My Friend Went Ghost Hunting…",
+    "score": 10
+  },
+  {
+    "id": "IxxIwF9i1qc",
+    "title": "This Horror Game Took 13 Years To Develop and Its TERRIFYING | Routine",
+    "score": 10
+  },
+  {
+    "id": "iO0V9H1zfRs",
+    "title": "This horror game looks like real life...",
+    "score": 10
+  },
+  {
+    "id": "E7gCMmUePSk",
+    "title": "Playing horror games in haunted locations...",
+    "score": 10
+  },
+  {
+    "id": "obTJr1fJHoI",
+    "title": "A Game Based on a True Serial Killer Case...",
+    "score": 10
+  },
+  {
+    "id": "_eZLnoxMckA",
+    "title": "THIS SKINWALKER GAME TRAUMATIZED ME... | Skinwalkers Valley",
+    "score": 10
+  },
+  {
+    "id": "IQ0MGNvpKhs",
+    "title": "I Can't Do These Scary Games Anymore... [Paranormal Torment]",
+    "score": 10
+  },
+  {
+    "id": "u0D68sA-Nyo",
+    "title": "THE MOST UNHINGED MASCOT HORROR GAME YOU'LL EVER SEE..",
+    "score": 10
+  },
+  {
+    "id": "x8qdv-bPNCI",
+    "title": "The Horror Games that Haunt Me",
+    "score": 10
+  },
+  {
+    "id": "BDQEnYTNhe4",
+    "title": "The Underworld of Low-Poly Horror",
+    "score": 10
+  },
+  {
+    "id": "p029Q28OEvY",
+    "title": "Shingles: What you need to know about causes, symptoms, and prevention.",
+    "score": 10
+  },
+  {
+    "id": "jx0kLiYGcBU",
+    "title": "Shingles: What You Need To Know",
+    "score": 10
+  },
+  {
+    "id": "S3CegUhEd7Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SCQvaFA_2S4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oVS84yERyek",
+    "title": "Do you need the appendix?",
+    "score": 10
+  },
+  {
+    "id": "3BLtflDy9bg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5iqRqHTJ4is",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kopaa5dI48U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bUGHwww_KkQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "IMON9zmViu4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7M7mxQKViuo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Ng1H1FPb5v8",
+    "title": "Sciatica, Causes, Signs and Symptoms, Diagnosis and Treatment",
+    "score": 10
+  },
+  {
+    "id": "qIsyi6AwBts",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "d7NPnvKFs2Y",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PI2xFeZwC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GcFWb2h0GX8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Rp9JOqJ3dew",
+    "title": "Cataracts Explained Simply",
+    "score": 10
+  },
+  {
+    "id": "Npo9p30jSdk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "z0Z1QMouVgE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oh8b0WOOZPM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "__WkQfzh7V4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mL2mXtz2T6o",
+    "title": "Adam Smasher is an absolute beast",
+    "score": 10
+  },
+  {
+    "id": "bgWtpp_c69w",
+    "title": "Adam Smasher ain't a joke now - Cyberpunk 2077 Patch 2.1",
+    "score": 10
+  },
+  {
+    "id": "7U8jEh7u1gA",
+    "title": "Adam Smasher being a Legendary Menace for 4 minutes | Cyberpunk Edgerunners Anime",
+    "score": 10
+  },
+  {
+    "id": "GmIDl7u1p9c",
+    "title": "Hallowed - Smasher",
+    "score": 10
+  },
+  {
+    "id": "DCTbOLUtXFQ",
+    "title": "Cyberpunk 2077 - Johnny VS Adam Smasher - Johnny Kills vs Spares Smasher - Smasher Kills Rogue",
+    "score": 10
+  },
+  {
+    "id": "vD5faVRqFSs",
+    "title": "Adam Smasher \\u0026 David face to face | Cyberpunk Edgerunners",
+    "score": 10
+  },
+  {
+    "id": "2ev50ANzAAo",
+    "title": "I Turned Everything Into the Hardest Boss Adam Smasher in CYBERPUNK 2077!",
+    "score": 10
+  },
+  {
+    "id": "9ZwhzSDPocQ",
+    "title": "Cyberpunk 2077 - New Adam Smasher Fight 2.1 Update",
+    "score": 10
+  },
+  {
+    "id": "zSu94Clk0UI",
+    "title": "Cyberpunk 2077 - Destroying Adam Smasher with Gorilla Arms",
+    "score": 10
+  },
+  {
+    "id": "J3vERUJCKJ8",
+    "title": "SAVING JACKIE by fighting Adam Smasher \\u0026 Takemura",
+    "score": 10
+  },
+  {
+    "id": "ZV9VdEdNG-Y",
+    "title": "place it right up against the first piece",
+    "score": 10
+  },
+  {
+    "id": "bHogxAJ-WK0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qJ5WrI8v5-E",
+    "title": "Cyberpunk 2077's Adam Smasher is hiding a crazy secret...",
+    "score": 10
+  },
+  {
+    "id": "ML_HTP5kEsY",
+    "title": "Killing Adam Smasher Early! - Cyberpunk 2077",
+    "score": 10
+  },
+  {
+    "id": "vXlqkmLbo8A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GSZX_EKZv4g",
+    "title": "What is #agoraphobia?",
+    "score": 10
+  },
+  {
+    "id": "JlWgk7Vr2aw",
+    "title": "Dr. Ali Mattu Explains the Basics of Agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "nrwfNPU6RYA",
+    "title": "Do THIS to CONQUER agoraphobia",
+    "score": 10
+  },
+  {
+    "id": "jfJN2a33LGQ",
+    "title": "Agoraphobia, Causes, Signs and Symptoms, Diagnosis and Treatment.",
+    "score": 10
+  },
+  {
+    "id": "5zQGKcNIx_o",
+    "title": "Google Account - Google Basics - Part 1",
+    "score": 10
+  },
+  {
+    "id": "oQn7CIOgW0g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tuM1LvrRGCM",
+    "title": "Stop Creating New Gmail Accounts — Do This Instead",
+    "score": 10
+  },
+  {
+    "id": "nCDmY9A3EIQ",
+    "title": "Gmail trick overview",
+    "score": 10
+  },
+  {
+    "id": "Bi0BXJPbWq8",
+    "title": "0. Intro",
+    "score": 10
+  },
+  {
+    "id": "D6-gklUH1uc",
+    "title": "Google Account Hacked? What You Need to Do NOW!",
+    "score": 10
+  },
+  {
+    "id": "yRja984iJX4",
+    "title": "Google Account Hacked",
+    "score": 10
+  },
+  {
+    "id": "qQTwSYQX5tw",
+    "title": "Demo",
+    "score": 10
+  },
+  {
+    "id": "pkY-UV3VlGE",
+    "title": "Lost Gmail Account Recovery With No Phone or Alternate Email",
+    "score": 10
+  },
+  {
+    "id": "ralYrmnJ00Y",
+    "title": "Lost gmail account recovery",
+    "score": 10
+  },
+  {
+    "id": "bH9fcp7gst0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vjTHFfu0-Tk",
+    "title": "Google account verifying your phone number problem 2025 | verify your phone number problem",
+    "score": 10
+  },
+  {
+    "id": "xF-BWfVNAz4",
+    "title": "Google is Deleting Inactive Accounts",
+    "score": 10
+  },
+  {
+    "id": "JOBdpQ6-Yyo",
+    "title": "Will Google Delete Inactive Accounts?",
+    "score": 10
+  },
+  {
+    "id": "cAw_M_ORaSg",
+    "title": "Google account verifying your phone number problem 2026 | verify your phone number problem",
+    "score": 10
+  },
+  {
+    "id": "8794EgPo4Ig",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SUecegkK5GM",
+    "title": "Google, Gmail, YouTube Account Recovery - Reset Password",
+    "score": 10
+  },
+  {
+    "id": "nIUAAhGP0UU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "umAUw5PGJzY",
+    "title": "Why This 5-Acre Farm Succeeds Where Others Fail | Damian Mason Podcast",
+    "score": 10
+  },
+  {
+    "id": "XPJbC53fcEg",
+    "title": "Small Farm Harvests that earn $4,000/week on 1/2 Acre of Land",
+    "score": 10
+  },
+  {
+    "id": "9gE1nbfxYRg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uz7OVfaYeSA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0IOLSpdZs9A",
+    "title": "Insane Profits from 11 Cows on 27 Acres. Our secrets to big profits",
+    "score": 10
+  },
+  {
+    "id": "-t6htBLENvY",
+    "title": "SIX FIGURES PROFIT on 1 Acre | The Brilliant Approach of a Micro-Farm | Rose Creek Farm",
+    "score": 10
+  },
+  {
+    "id": "Cm0pcZI2GcA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xR8J70oMdWA",
+    "title": "Tour of 3.3-Acre Farmstead: Rhiba Farms | PARAGRAPHIC Origins",
+    "score": 10
+  },
+  {
+    "id": "ojNzNll0WBY",
+    "title": "Digging A DEEP 1 Acre Pond With Excavator",
+    "score": 10
+  },
+  {
+    "id": "pJbujPpSfFM",
+    "title": "SJS One Acre Farm",
+    "score": 10
+  },
+  {
+    "id": "Yg5mzpjmOrI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DwmILGEBR8o",
+    "title": "The Secret To Growing $100,000 On A Small Farm (No Tractor Needed!)",
+    "score": 10
+  },
+  {
+    "id": "ZvUlsIO2PtI",
+    "title": "3 Years on a 26 Acre Farm - Saying Goodbye to our Homestead",
+    "score": 10
+  },
+  {
+    "id": "zZCXR_HXSt8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2hDWViqPegQ",
+    "title": "‘The Future of Greenland…’: Mark Carney Drops NATO Protection Bomb After Trump’s Invasion Threats",
+    "score": 10
+  },
+  {
+    "id": "-Qk5Mo9vUDk",
+    "title": "End Of US-Canada Friendship? Carney Admits China ‘More Reliable Partner’ Than US Amid Trump Tariffs",
+    "score": 10
+  },
+  {
+    "id": "QuP9kix2To0",
+    "title": "‘US Is No Longer…’: Mark Carney Gives Big Reality Check To Trump From G20 Summit In South Africa",
+    "score": 10
+  },
+  {
+    "id": "5ml_D4HkOLw",
+    "title": "‘They Should Be Grateful…’ Trump Reacts to Carney’s Viral Davos Speech from the WEF Stage | US News",
+    "score": 10
+  },
+  {
+    "id": "kqD8i5Um5B0",
+    "title": "Trump Gets Greenland Shock From Mark Carney As Canada PM Backs Denmark, NATO Amid Takeover Threats",
+    "score": 10
+  },
+  {
+    "id": "pxWj2s-QFc4",
+    "title": "Trump insults Canadian Prime Minister Mark Carney, threatens new tariffs against country",
+    "score": 10
+  },
+  {
+    "id": "Lw15BPPXmic",
+    "title": "'Will You Give $1bn', Canada’s PM Mark Carney Responds to Trump’s Gaza Peace Board at WEF | AC1G",
+    "score": 10
+  },
+  {
+    "id": "G3CFJ7-oeaI",
+    "title": "As Trump Refuses To Negotiate With Canada, Mark Carney Reveals Ambitious Plan To Nuke US Tariffs",
+    "score": 10
+  },
+  {
+    "id": "Di9wuR8bGyE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "enbYUzXEzWg",
+    "title": "Chotu Bakre♥️😍 #bakraeid #bakraeid2025 #bakraeidspecial #bakra #goats #trending #biggoats #trending",
+    "score": 10
+  },
+  {
+    "id": "g0JmtK7fXHU",
+    "title": "Mastikhor Bakre#bakraeid #bakraeid2025#bakraeidspecial #bakra #goats #trending#biggoats",
+    "score": 10
+  },
+  {
+    "id": "YIKeMqmhfkM",
+    "title": "Big Goat For Qurbani♥️🔥 #bakraeidspecial #goat #bakra #trending #biggoats #bakraeid #viralvideo",
+    "score": 10
+  },
+  {
+    "id": "a1UNwFwv1eU",
+    "title": "The Real Monster Goat 🔥 #bakraeid #bakraeid2026 #bakraeidspecial #bakra #goats #trending #biggoats",
+    "score": 10
+  },
+  {
+    "id": "2r8zsQY4cPw",
+    "title": "Most Beautiful Goats🤩♥️ #bakra #goats #bakraeid #bakraeid2025 #bakraeidspecial #trending #biggoats",
+    "score": 10
+  },
+  {
+    "id": "2WWneSwnrTk",
+    "title": "Pyaara Bakra Mandi Ka 😍🔥 #bakraeidspecial #goat #bakra #goatfarming #biggoats #trending #viralvideo",
+    "score": 10
+  },
+  {
+    "id": "sPdlGTYzK84",
+    "title": "Huge Boer Goat 💯🐐 #bakraeid #bakraeid2024 #bakraeidspecial #bakra #goats #trending #biggoats",
+    "score": 10
+  },
+  {
+    "id": "EbDP7SXU5OY",
+    "title": "Bakra Eid 2024 Ka Khubsurat Bakra #trending #goat #bakra #share #animals #biggoats #trending #share",
+    "score": 10
+  },
+  {
+    "id": "ye3A2Zz8UoU",
+    "title": "Goat like a lion 😍#bakraeid #bakraeid2025 #bakraeidspecial #bakra #goats #trending #biggoats",
+    "score": 10
+  },
+  {
+    "id": "HgmtBxrtjqE",
+    "title": "Feeding Time😍👌 #bakraeid #bakraeid2025 #bakraeidspecial #bakra #goats #trending #biggoats #trending",
+    "score": 10
+  },
+  {
+    "id": "MP4mts5HNJI",
+    "title": "Jumping Goats♥️😍 #bakraeid #bakraeid2025 #bakraeidspecial #bakra #goats #trending #biggoats",
+    "score": 10
+  },
+  {
+    "id": "4IJQZ9f8Oaw",
+    "title": "Search filters",
+    "score": 10
+  }
+]

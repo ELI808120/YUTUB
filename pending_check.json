@@ -1,1 +1,3237 @@
-[]
+[
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "nu6fjVUVdls",
+    "title": "המדריך האולטימטיבי לצילום נוף!",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 37  - סטים",
+    "score": 110
+  },
+  {
+    "id": "nAApXVKkroE",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "תרגול דיבור באנגלית למתחילים | תרגול שיחות באנגלית יומיות",
+    "score": 60
+  },
+  {
+    "id": "1yCCqX_IC_E",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "תרגול דיבור והאזנה באנגלית למתחילים | תרגול שיחות באנגלית",
+    "score": 60
+  },
+  {
+    "id": "n4ba86ULy4Q",
+    "title": "חידוש רהיטי עץ - איך מחדשים רהיטי עץ בבית לבד? 3 שלבים בלבד",
+    "score": 60
+  },
+  {
+    "id": "pXC8E14DfXY",
+    "title": "צביעת רהיטי עץ בורנית ע\\\"ב מים - טמבור",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "חידוש רהיטים - שיפוץ רהיטים",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "G1hKzCkywM8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "gVjei0pKhhQ",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "-I9m5RhmdMM",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "צילום טבע, עמוס נחום, זומינג סלבין קורן.",
+    "score": 60
+  },
+  {
+    "id": "7Xx-YHqtcRc",
+    "title": "צילום טבע - מפגש עם אבי מאיר",
+    "score": 60
+  },
+  {
+    "id": "pyUVDpEeVDY",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "צילום טבע POV ביער חורף שקט | סוני A7III",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "How to Calculate Faster than a Calculator - Mental Math #1",
+    "score": 50
+  },
+  {
+    "id": "ww4Ky5iaLZU",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "10 Woodworking joints / Corner wood joining techniques",
+    "score": 50
+  },
+  {
+    "id": "xaT2uo6SWUA",
+    "title": "How to Cut a DOVETAIL JOINT with Hand Tools (Quick Version)",
+    "score": 50
+  },
+  {
+    "id": "V_HYOpcknjU",
+    "title": "MegaStructures - Super Copters (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "ECktl3jCK8o",
+    "title": "WWII In HD: America Enters World War II | History",
+    "score": 50
+  },
+  {
+    "id": "WqtRh3eLki0",
+    "title": "How to Take Better Landscape Photos with Phone! 🔥📸",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "4 Ways to Make Money in 2025 🤑 (From Worst 👈 to Craziest)",
+    "score": 50
+  },
+  {
+    "id": "h-W7G1G7SVg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "bPgk-2noU0U",
+    "title": "The Tragic Case of Ashley Elkins [True Crime Documentary]",
+    "score": 50
+  },
+  {
+    "id": "YMpfJU4YNo4",
+    "title": "#cnc #manufacturing #technology #engineering #factory #turning #crash",
+    "score": 50
+  },
+  {
+    "id": "6ZTsMvF4abQ",
+    "title": "Guided Meditation",
+    "score": 50
+  },
+  {
+    "id": "mXQX9Nv0YQY",
+    "title": "new year reset routine for 2025 | how to set goals, deep cleaning my apartment, \\u0026 mindset tips!",
+    "score": 50
+  },
+  {
+    "id": "64A4VuUxlXs",
+    "title": "Women on Death Row | Free Documentary",
+    "score": 50
+  },
+  {
+    "id": "hx2LRzr85K0",
+    "title": "The Most Disturbing Death Story in Mount Everest History #mounteverest  #mountainmystery",
+    "score": 50
+  },
+  {
+    "id": "OncNdQj5oHI",
+    "title": "LAW: Inside the U.S. Marshals Lone Star Fugitive Task Force (Full Documentary)",
+    "score": 50
+  },
+  {
+    "id": "LNDkvgzFsf0",
+    "title": "Task Force Admiral - Realistic World War 2 Carrier Combat! Early Access Preview",
+    "score": 50
+  },
+  {
+    "id": "_K-nq704I8E",
+    "title": "How to stop a cold in its tracks",
+    "score": 50
+  },
+  {
+    "id": "rKeaOcXtubY",
+    "title": "My Cold Protection Techniques",
+    "score": 50
+  },
+  {
+    "id": "aoExEjIpmVM",
+    "title": "A Single Mother’s Kindness Changed a Homeless Life | Rebuilding a Home with Love",
+    "score": 50
+  },
+  {
+    "id": "gCRNEJxDJKM",
+    "title": "Land of the SHERPAS - Life Under Mount Everest - Everest Base Camp Trek | Full Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "JNXKB_dq8iw",
+    "title": "Best Life in The Nepali Himalayan Village During The Winter । Documentary Video Snowfall Time",
+    "score": 50
+  },
+  {
+    "id": "02EkKGt1Efo",
+    "title": "NEPAL - Why Do These Mountains Make Me Feel so Free?",
+    "score": 50
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Square any 2 digit number in 3 seconds I Crazy Math Trick",
+    "score": 10
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LERb-94P8po",
+    "title": "Adding fractions",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cA4Jn6il-T8",
+    "title": "5 Fast Math Tricks for Multiplication - Mental Math",
+    "score": 10
+  },
+  {
+    "id": "aiPDdd8OD6U",
+    "title": "Multiplication by 11",
+    "score": 10
+  },
+  {
+    "id": "yFnFhu75CKc",
+    "title": "Step 1",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "V6E7eSTBcg8",
+    "title": "2+ Hours Of Engineering Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Impossible Engineering | Full Season 2 | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "1.Double-end grains joint",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "10 Essential Woodworking Joints You Need to Know - The Best Joints of the Week",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "21 Wood Joinery with Tool Hacks | Japanese Woodworking",
+    "score": 10
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v62jMY6-CqQ",
+    "title": "Types of Woodworking Joints",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "cagYqNJrFnA",
+    "title": "What Pros Know About Butt Joints That Beginners Don't.",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SKDawhnBsj4",
+    "title": "9 Essential Woodworking Joints - WOOD magazine",
+    "score": 10
+  },
+  {
+    "id": "pWohJHPdD8o",
+    "title": "Screw Joint",
+    "score": 10
+  },
+  {
+    "id": "uJh0jd6wxhY",
+    "title": "#diy Wood joints korean #tools #woodworking",
+    "score": 10
+  },
+  {
+    "id": "m1-d6JoTyXo",
+    "title": "Amazing Connect No Screw With Japanese Woodworking Joints Skills, Making Tensegrity Wood Structure",
+    "score": 10
+  },
+  {
+    "id": "FRYpbOUglUc",
+    "title": "4 Effective Ways to Joint Wood for Beginners / Woodworking Joinery",
+    "score": 10
+  },
+  {
+    "id": "MOB3DyZp1yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9gAwZMZixRE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GGZocUaWTwc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "f7As0yBCppU",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "21 Genius Outdoor Survival Hacks You Wish You Knew Sooner! #camping #survival",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "NkDYz7IYRoU",
+    "title": "50 Year Cold Case? | The Steve Wilkos Show",
+    "score": 10
+  },
+  {
+    "id": "Q6wj__lJ0gM",
+    "title": "Serial Killer Realizes He's Been Caught 23 Years Later",
+    "score": 10
+  },
+  {
+    "id": "TFsa_NVerog",
+    "title": "13 Year Old Thinks He Got Away With Sister’s Murder | The Case of Ella Bennett",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-_Pn-_Ieuf4",
+    "title": "How Are Tunnels Built Deep Underground?",
+    "score": 10
+  },
+  {
+    "id": "qfdCfGML2hg",
+    "title": "Alien (Featuring Will Smith) | Full Episode | One Strange Rock",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "WORLD WAR 2 Full Movie (1930s - 1945) - A Complete Overview",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "Q78COTwT7nE",
+    "title": "A Brief Overview of World War II",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YuScm1QMOjg",
+    "title": "The invasion",
+    "score": 10
+  },
+  {
+    "id": "_yQyCTTPGuQ",
+    "title": "Was there a draft in ww2?",
+    "score": 10
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "World War II - Summary on a Map",
+    "score": 10
+  },
+  {
+    "id": "-CQatuQdQv4",
+    "title": "The end of World War I",
+    "score": 10
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "1918-1939: What Really Started World War 2?",
+    "score": 10
+  },
+  {
+    "id": "iaeBnYLNXgQ",
+    "title": "WW2 - OverSimplified (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "_CNUH9NzYKw",
+    "title": "WW2 - Introduction",
+    "score": 10
+  },
+  {
+    "id": "nXjXM_uXQvc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "n6bHF2G1PF0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "6 Hour 4K Beautiful places Aerial Views",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "Wildlife photography। Bird photography। Paradise। #birds #nikonwildlife #nature #short #vairalshort",
+    "score": 10
+  },
+  {
+    "id": "WK5Yr6t91EU",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "Calm Your Mind With Beautiful Relaxing Music \\u0026 Beautiful Nature for Insomnia Relief and Meditation",
+    "score": 10
+  },
+  {
+    "id": "chw8GxuW6N4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Hoidr7HgYP0",
+    "title": "A Cold Case Producer Helped Crack a 26-Year-Old Murder Mystery (S2 E5) | Cold Case Files | Full Ep",
+    "score": 10
+  },
+  {
+    "id": "dgmXhPTzQKw",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "-TcVw7kkQUM",
+    "title": "SOLVED 21 Year Old Missing Persons Case (Erin Foster \\u0026 Jeremy Bechtel)",
+    "score": 10
+  },
+  {
+    "id": "oKyRybiWLC4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "BsTWasTLEXY",
+    "title": "A Murder Went Cold for 37 Years Until DNA Found Her Killer (S2, E8) | Cold Case Files | Full Ep",
+    "score": 10
+  },
+  {
+    "id": "zqD_8LgyDyM",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Zw1EIBBsmw4",
+    "title": "*UNSOLVED* 50 Year Old Cold Case: New Discovery Sparks Big Questions [ SONAR SEARCH ]",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "TYwtfPQLWpE",
+    "title": "20-YEAR Hunt for \\\"Green River Killer\\\" Gary Ridgway | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "jIOdc1Drd6s",
+    "title": "How The Internet Solved A 35 Year Old Cold Case",
+    "score": 10
+  },
+  {
+    "id": "8DGrj7XveJg",
+    "title": "Lake Triumph - Creepypasta",
+    "score": 10
+  },
+  {
+    "id": "c5sGCGNi3bo",
+    "title": "Epic Triumph",
+    "score": 10
+  },
+  {
+    "id": "xw5f5Hsrcww",
+    "title": "John G Lake - the Triumph of the Mind of God",
+    "score": 10
+  },
+  {
+    "id": "Cgr-4AmL8f4",
+    "title": "Masicka, Chronic Law, Lila Iké - Triumph (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "w7LRn3c9rb0",
+    "title": "Curse Of Lake Hel - Lake Triumph - Creepypasta #horror #horrorstories",
+    "score": 10
+  },
+  {
+    "id": "z4_vU685hno",
+    "title": "POV Cruise To A Washington Lake // Triumph Speed Twin [4K]",
+    "score": 10
+  },
+  {
+    "id": "xCd5MEv0sh8",
+    "title": "Ride to an Ancient Lake - Triumph Scrambler 900 POV",
+    "score": 10
+  },
+  {
+    "id": "TfT2GGrvASo",
+    "title": "Triumph And Tragedy - Lake Norconian Club",
+    "score": 10
+  },
+  {
+    "id": "MY6zwkLFdSk",
+    "title": "Lake District Ride on the Triumph Scrambler Gold Line in Search of Coffee \\u0026 Cake | MotoUK",
+    "score": 10
+  },
+  {
+    "id": "VmNSe_XEE6c",
+    "title": "The Water Bridge Inn",
+    "score": 10
+  },
+  {
+    "id": "RH4wh7ZEGPU",
+    "title": "Centennial Lake Rd | TRIUMPH Speed Twin 1200 | Raw Sound [4K]",
+    "score": 10
+  },
+  {
+    "id": "Yz-hec6EHLM",
+    "title": "INSPIRATION RIDES | The Lake District with George Clarke",
+    "score": 10
+  },
+  {
+    "id": "XUECwYAuEe8",
+    "title": "Triumph Bonneville \\u0026 Lake District | A 4K ASMR 2 Minute Film",
+    "score": 10
+  },
+  {
+    "id": "S5tFIbrMUXg",
+    "title": "Triumph Salt Racer Lake Gairdner DLRA Speed Week",
+    "score": 10
+  },
+  {
+    "id": "DO87ubPwej4",
+    "title": "Riding A Triumph Bonneville T120 in the Lake District",
+    "score": 10
+  },
+  {
+    "id": "jExuUBmpjIU",
+    "title": "Let’s Go to Caliraya Lake | Triumph Speed 400",
+    "score": 10
+  },
+  {
+    "id": "TuU3On4ZkrM",
+    "title": "Lake District Lunch out on the Triumph Tiger 1200 Rally, Great lunch spot and Ice Cream",
+    "score": 10
+  },
+  {
+    "id": "fSEguMZNgHU",
+    "title": "Coffee \\u0026 Cake in the Lake District, Triumph Tiger 900 GT Pro, the Best Adventure Bike ? SUBSCRIBE 👍",
+    "score": 10
+  },
+  {
+    "id": "VT4tQxowKxE",
+    "title": "Best motorcycle routes: The Lake District, England, UK",
+    "score": 10
+  },
+  {
+    "id": "WBUnPw3Murc",
+    "title": "Kirkstone Pass",
+    "score": 10
+  },
+  {
+    "id": "34o9W9G8EcU",
+    "title": "How Reddit Cracked a 40-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "XbodzdWdNVk",
+    "title": "A cracked Python dev called in.",
+    "score": 10
+  },
+  {
+    "id": "hUMTSmYorCM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oFqT59dfSGs",
+    "title": "How the Internet Cracked an Impossible Case by Luring the Suspect Online",
+    "score": 10
+  },
+  {
+    "id": "2RyxyrwYh0M",
+    "title": "How the Internet Cracked a 30-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "ZwqgYRBkQv4",
+    "title": "Cracked Grapes!?!",
+    "score": 10
+  },
+  {
+    "id": "6_2T6Y2_OAA",
+    "title": "I'M ABSOLUTELY CRACKED IN WARZONE",
+    "score": 10
+  },
+  {
+    "id": "jbWui4sPcF0",
+    "title": "Cracked iPhone started calling 911 😰I can’t believe this happened 😱 #asmr #apple #iphone #911",
+    "score": 10
+  },
+  {
+    "id": "joQB1mzl0wc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HcYLYM0TH-Y",
+    "title": "2023 Kx65 “TheVeeTouch” Hand Kick",
+    "score": 10
+  },
+  {
+    "id": "WVUyCUBWcCY",
+    "title": "KTM SX-E 3 electric dirt bike | JR MINI 4-6 #dirtbike #motocross #racing",
+    "score": 10
+  },
+  {
+    "id": "AvO9UyK2eec",
+    "title": "Cheap Legit Dirtbike For $1199",
+    "score": 10
+  },
+  {
+    "id": "KUyJ9H9w2cw",
+    "title": "Which Motorcycle Would You Choose to Go to School?🏍️🎒",
+    "score": 10
+  },
+  {
+    "id": "7y80F3i74bw",
+    "title": "$2500 vs $2500 Dirt Bike Battle!",
+    "score": 10
+  },
+  {
+    "id": "oKO2ubjEsL8",
+    "title": "Buying Your First Dirt Bike - Understand the Differences in Dirt Bikes for Beginner Riders",
+    "score": 10
+  },
+  {
+    "id": "I9o67DJ7M4o",
+    "title": "Topics Covered",
+    "score": 10
+  },
+  {
+    "id": "rVZ1NL_2rtI",
+    "title": "How Fast can an Electric Dirt Bike go...",
+    "score": 10
+  },
+  {
+    "id": "SChVqBR3pQQ",
+    "title": "$2000 vs $10,000 Rev Limiter",
+    "score": 10
+  },
+  {
+    "id": "6JfxazCUnYg",
+    "title": "Bike Modifications You NEED To Have",
+    "score": 10
+  },
+  {
+    "id": "4puIA6jyp0Y",
+    "title": "2022 Yz250f “TheVeeTouch”",
+    "score": 10
+  },
+  {
+    "id": "0Fp1vy0yuyQ",
+    "title": "I was wrong about the KX250F",
+    "score": 10
+  },
+  {
+    "id": "ufWq1HfCa0w",
+    "title": "Top 3 Best Dirt Bike Gifts",
+    "score": 10
+  },
+  {
+    "id": "_ObA6SDjBZI",
+    "title": "My first Dirt Bike 2021 Honda CRF50F. Jason, 3 years old",
+    "score": 10
+  },
+  {
+    "id": "Hh9GqN2rwyM",
+    "title": "$10,000 vs $1,000 Dirt Bikes!",
+    "score": 10
+  },
+  {
+    "id": "QmklBk-oDtw",
+    "title": "How Much Does Dirt Bikes Cost?",
+    "score": 10
+  },
+  {
+    "id": "_6dJA3zyjVU",
+    "title": "RELL DAY 2024! *MOST INTENSE DIRTBIKE RIDEOUT*",
+    "score": 10
+  },
+  {
+    "id": "WCI03Rts_aU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "VujYa9OtqXM",
+    "title": "Case - Missing You",
+    "score": 10
+  },
+  {
+    "id": "nb-at9qsGPk",
+    "title": "Case -  Im Missing You (With Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "8_0BdJZ4y64",
+    "title": "Anonymous Call Solves Case of Missing 13-Year-Old | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "pOsFWdiOIek",
+    "title": "Case - Not Your Friend",
+    "score": 10
+  },
+  {
+    "id": "GPv7hRFhovs",
+    "title": "Missing Woman’s Case Unravels Husband’s Secret Affair (S4, E5) | Killer Cases | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "a0Jp-1f__-U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "r4dJJB0KHGE",
+    "title": "Case • R\\u0026B MONEY Podcast • Ep.087",
+    "score": 10
+  },
+  {
+    "id": "slGR9oiSCPI",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "DA9eUanW-S0",
+    "title": "MURDERED BY HUSBAND.. Then Thrown in River (Rachel Anderson)",
+    "score": 10
+  },
+  {
+    "id": "t5x8HIDTip4",
+    "title": "Body in Freezer Exposes Deadly Love Triangle \\u0026 Conspiracy (S2, E5) | Interrogation Raw | Full Ep",
+    "score": 10
+  },
+  {
+    "id": "XTKrOdrP52U",
+    "title": "Tamia - Officially Missing You (Cover by Carl B)",
+    "score": 10
+  },
+  {
+    "id": "HeK1zQFJtXE",
+    "title": "The Boy Who Killed His Twin | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "DBUz2nkOKsc",
+    "title": "SOLVED 7-Year Missing Person Case (Tommy Brailey): Car Found 10ft Deep in Swamp!",
+    "score": 10
+  },
+  {
+    "id": "CB34Rq3ZyUs",
+    "title": "13 YO Girl Stalked by Teacher – Then She Goes Missing | The Case of Jessyca Mullenberg",
+    "score": 10
+  },
+  {
+    "id": "oFP36RcpNqA",
+    "title": "Unsolved Mysteries | Robert Stack | FULL EPISODES | American Mystery Drama Cold Case Series",
+    "score": 10
+  },
+  {
+    "id": "5CDcgYH0Ot0",
+    "title": "Case VS Joe: The Story of “I’m Missing You”",
+    "score": 10
+  },
+  {
+    "id": "FVf7fXN7O2M",
+    "title": "Case - \\\"Missing You\\\" REMIX: From The Block Performance",
+    "score": 10
+  },
+  {
+    "id": "Ek3xLcE1mEE",
+    "title": "Case ‘Missing You’ was begging for sax #case #missingyou #sax #music",
+    "score": 10
+  },
+  {
+    "id": "DjV7QIMdYjo",
+    "title": "Case - Missing You",
+    "score": 10
+  },
+  {
+    "id": "3aWoTfNT24A",
+    "title": "Missing You Case Screwed \\u0026 Chopped By Alabama Slim",
+    "score": 10
+  },
+  {
+    "id": "ES2H7Ltb0rs",
+    "title": "SOLVED 38-Year-Old Missing Person Case in 6 Hours... (Maureen Sherman)",
+    "score": 10
+  },
+  {
+    "id": "no5p9qKLyh4",
+    "title": "The Creepiest Unsolved Missing Person Cases",
+    "score": 10
+  },
+  {
+    "id": "b7owSo4bPFs",
+    "title": "Case – Missing You (Slowed Down)",
+    "score": 10
+  },
+  {
+    "id": "tAZv4IKgZ6c",
+    "title": "Solved Disappearances With Unexpected Endings: 10 Solved Missing Persons Cases \\u0026 True Crime Stories",
+    "score": 10
+  },
+  {
+    "id": "yr2_nZRb-v8",
+    "title": "10 MISSING PERSON CASES THAT",
+    "score": 10
+  },
+  {
+    "id": "oGFVySHbeqA",
+    "title": "Snoop Dogg - Murder Was the Case",
+    "score": 10
+  },
+  {
+    "id": "sfOtQAonZcY",
+    "title": "She Was Only 11: The Murder of Jeralee Underwood | Murdered at First Sight",
+    "score": 10
+  },
+  {
+    "id": "_dloQUppGSE",
+    "title": "5 REAL Murder Cases More Twisted Than Horror Movies",
+    "score": 10
+  },
+  {
+    "id": "jDHVpAEhF9w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ckk9hyuoaFI",
+    "title": "Shocking Twist in ‘Bloody’ News Anchor’s Murder Case",
+    "score": 10
+  },
+  {
+    "id": "a4xABBfL0yk",
+    "title": "Cold Case Files: Young Women Murdered, Decades Pass, Justice Finally Comes | Full Episode Marathon",
+    "score": 10
+  },
+  {
+    "id": "u1dvRBjhPd4",
+    "title": "True Crime Fan Committed A Murder \\\"Out of Curiosity\\\"",
+    "score": 10
+  },
+  {
+    "id": "afCAs2iWD70",
+    "title": "Woman Senselessly Murdered by Hostile Coworker | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "WxMXeT5UWH8",
+    "title": "Genealogy Website Leads to Killer's Confession 39 YEARS After Murder | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "EtLx9OH6AN8",
+    "title": "Indian-Origin Woman Nikita Godishala Murdered In US: Suspect Arjun Sharma Arrested In Tamil Nadu",
+    "score": 10
+  },
+  {
+    "id": "q5xJ28h3K0A",
+    "title": "HELL PIX: HORROR PHOTOS INSIDE IDAHO MURDERS AFTER KOHBERGER SLAUGHTERS STUDENTS, PARENTS SUE",
+    "score": 10
+  },
+  {
+    "id": "lcGsdmT_I1k",
+    "title": "Louisiana Woman's Murder Case Solved After Almost 20 Years | Dateline (S16 E10) | Oxygen",
+    "score": 10
+  },
+  {
+    "id": "on8IgM0oLSI",
+    "title": "4 killed in horrific domestic shooting; kids hide in closet | FOX 5 News",
+    "score": 10
+  },
+  {
+    "id": "8NCKMQpauZI",
+    "title": "Missing Girl’s ‘Party Mom’ Under Investigation for Murder",
+    "score": 10
+  },
+  {
+    "id": "-Enzo8tvD0w",
+    "title": "Hollywood Undead - Mother Murder [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "7cZ678z70sw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3Px6Lq6mY7c",
+    "title": "Cold Case Files: A 2-Year-Old's Memory Solves a Mother's Murder after 17 YEARS | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "UrQPanA-S88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ABknN5kwQmM",
+    "title": "Parrot Was Key 'Witness' in Murder Trial as Woman Is Convicted of Killing Husband",
+    "score": 10
+  },
+  {
+    "id": "V8Nf1zWJzTU",
+    "title": "Are African GREY parrots intelligent?",
+    "score": 10
+  },
+  {
+    "id": "pE7-H1LjIYc",
+    "title": "Cold Case Files: Lone Survivor of Her Family's Brutal Murder Gets Justice 37 YEARS Later | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "c04oAl5O744",
+    "title": "When Patricia Smith Was Attacked in Her Home in Lakewood",
+    "score": 10
+  },
+  {
+    "id": "8bWtWSjN-7s",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aHaxTGdg5c8",
+    "title": "Sig 320 uncommanded discharge",
+    "score": 10
+  },
+  {
+    "id": "cOUfurKIjnI",
+    "title": "My 50 Cal Exploded",
+    "score": 10
+  },
+  {
+    "id": "1449kJKxlMQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wa1poYGZYlU",
+    "title": "MythBusters' Worst Day Ever",
+    "score": 10
+  },
+  {
+    "id": "kASD-RwQFQw",
+    "title": "sky shot fail... #accident",
+    "score": 10
+  },
+  {
+    "id": "mjA938PX4_M",
+    "title": "mortar firing goes wrong",
+    "score": 10
+  },
+  {
+    "id": "Hdq6SPnsn4c",
+    "title": "Girl vs 500 S\\u0026W fail",
+    "score": 10
+  },
+  {
+    "id": "FIDXhmc-Ym0",
+    "title": "California Governor RESPONDS As Utah Threatens To CUT OFF California's Emergency Fuel Supply!",
+    "score": 10
+  },
+  {
+    "id": "IIcnMPp4Dv8",
+    "title": "Mortal Fail Compilation V1",
+    "score": 10
+  },
+  {
+    "id": "F-Vx6bNOsR4",
+    "title": "Collision tools CNC Working Crash Fail Compilation | Setup CAM CNC Fail",
+    "score": 10
+  },
+  {
+    "id": "HERPOfsiDTo",
+    "title": "URGENT: 12 Cars Banned From Garages — NHTSA Fire Warning (Check Yours NOW)",
+    "score": 10
+  },
+  {
+    "id": "HZNAkND-LrI",
+    "title": "Ukraine struck a plant in Belgorod tied to Su-34, Su-35 and Su-57 fighters with Flamingo missiles",
+    "score": 10
+  },
+  {
+    "id": "pCzUu8bkuRI",
+    "title": "Masked Secret Police Are Not Victims | The Truth About Alex Pretti | What Would The Founders Do?",
+    "score": 10
+  },
+  {
+    "id": "DFAApRUH094",
+    "title": "Jimmy Kimmel on the Vile and Heartless Murder of Nurse Alex Pretti by ICE in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "7iXNvA8QOUw",
+    "title": "Rapid Mortar Fire Shooting by American Soldiers",
+    "score": 10
+  },
+  {
+    "id": "G3_T1z1GpOM",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "U5w6MccAjCs",
+    "title": "Barrett 50 Cal Barrel explodes! 50 BMG. 50 Caliber.",
+    "score": 10
+  },
+  {
+    "id": "mG8EPhG9YlY",
+    "title": "Did you guys see this??? P320 discharges in student’s holster? #SigP320 #AHT",
+    "score": 10
+  },
+  {
+    "id": "DClhzMjgiyI",
+    "title": "Northernlion misfires on an innocent chatter",
+    "score": 10
+  },
+  {
+    "id": "aR520g2_s_I",
+    "title": "🚨 Accidental Missile Launch on Carrier Deck!",
+    "score": 10
+  },
+  {
+    "id": "EIMUtbvPWTY",
+    "title": "Chaos on the Carrier: Accidental Missile Launch Shakes Crew to the Core!",
+    "score": 10
+  },
+  {
+    "id": "5EQcs6kFN7Y",
+    "title": "Catastrophic Failure Sig Sauer M17",
+    "score": 10
+  },
+  {
+    "id": "FwsmTXuG_aE",
+    "title": "Smart Fortwo vs Dodge Ram 1500 Crash Test",
+    "score": 10
+  },
+  {
+    "id": "OEEJbOoNQ8g",
+    "title": "the top 5 best gun recoil fails!  #safety #bestarmy #cool #militarypower",
+    "score": 10
+  },
+  {
+    "id": "EWficnB6czg",
+    "title": "Top 3 Worst RC car Fires",
+    "score": 10
+  },
+  {
+    "id": "-5WYNCRxBC8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jzR9sdooXZg",
+    "title": "new year, better us",
+    "score": 10
+  },
+  {
+    "id": "Wy4G6h-Zo5c",
+    "title": "INTRO + come WORKOUT with me",
+    "score": 10
+  },
+  {
+    "id": "BB6Eg2WmlBs",
+    "title": "What 8-10 year old skincare routine should look like ( my opinion)",
+    "score": 10
+  },
+  {
+    "id": "vPvl-oqGKRE",
+    "title": "Plan With Me for the New Year | 2026 Goals + January Setup Routine",
+    "score": 10
+  },
+  {
+    "id": "w0Xqn42sh5I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sIpQF7grxKc",
+    "title": "last reset before 2025✨🫧 #resetroutine #cleaning #newyear #2025 #cleaningmotivation #aesthetic",
+    "score": 10
+  },
+  {
+    "id": "KGfCHiBHkMQ",
+    "title": "🪞grwm for a *realistic* 5am Monday morning routine ☁️ Let's start the week with calm and intention 🌸",
+    "score": 10
+  },
+  {
+    "id": "ssJSg4bJI4A",
+    "title": "Weekend Routine for Teens (10-17) | Fun \\u0026 Productive Weekend! ₊˚⊹♡",
+    "score": 10
+  },
+  {
+    "id": "1IeSiA6_Gm0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Q5qaSiT44Ik",
+    "title": "GRWM FOR NEW YEAR’S EVE | goodnight y’all🤭see you next year!",
+    "score": 10
+  },
+  {
+    "id": "lx_3hVlwXDo",
+    "title": "5 healthy habits you need for your morning routine ✨ #morningroutine",
+    "score": 10
+  },
+  {
+    "id": "ttsprdcQLCg",
+    "title": "New Year Reset 2025: Morning Routine, DIY Goals \\u0026 Cozy Night Rituals ✨",
+    "score": 10
+  },
+  {
+    "id": "XDGRapG1p_0",
+    "title": "New Year Routine of an Asian Mom",
+    "score": 10
+  },
+  {
+    "id": "K_0IPvy42e8",
+    "title": "My morning routine as a 24 year old to stay healthy and fit",
+    "score": 10
+  },
+  {
+    "id": "zEXhKn7xOsw",
+    "title": "9-17 year olds after school routine ♡ step by step",
+    "score": 10
+  },
+  {
+    "id": "IKszyeHKPyg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5JQuQIXUu_Q",
+    "title": "#Desire4#OceanJiang#SeekyLi#kipuka#eliot #I4cream#abodesire",
+    "score": 10
+  },
+  {
+    "id": "iGou3rroKQ0",
+    "title": "baitadi language sikaudai #smarika dhakal#samarika dhakal",
+    "score": 10
+  },
+  {
+    "id": "DXeqUVF7wik",
+    "title": "fuche vae lai jim sikaudai😅😅😅😂😂🤣🤣🤣🤣🤣 #keepgoing #funny #comedymoments #comedyshow #keeploving",
+    "score": 10
+  },
+  {
+    "id": "Tv4H8feupr0",
+    "title": "***Wedding video*** ✨ THIS VIDEO MADE BY DAX ✨",
+    "score": 10
+  },
+  {
+    "id": "eoJ5g0ygvDE",
+    "title": "#Desire4#OceanJiang#SeekyLi#kipuka#eliot #I4cream#abodesire",
+    "score": 10
+  },
+  {
+    "id": "Vjs7rtM16vM",
+    "title": "Wheelie in college dress 🤩 #bikerslifestyle #14shots #legalizewheelies",
+    "score": 10
+  },
+  {
+    "id": "8La99RtG0kk",
+    "title": "आमासंग आजको दिन❤️\\\\ माइतमा\\\\village life\\\\Susmita Gharti\\\\",
+    "score": 10
+  },
+  {
+    "id": "G1gaAOhlXkA",
+    "title": "यति बिहानै  साथीसँग कत जाँदै हामी  || ✅ बौद्ध दर्शन  || BY: PRABAL  ⛩️🔔",
+    "score": 10
+  },
+  {
+    "id": "SbcwABwV-fQ",
+    "title": "གནས་མཆོག་རྡོ་རྗེ་གདན་གྱི་གནས་ཚུལ་ཚ་བོ་ཚ་བོ་་་་གཟབ་གཟབ་གྱིས་་་BEWARE 🚨🙏⚠️",
+    "score": 10
+  },
+  {
+    "id": "TwXwB9uLDfk",
+    "title": "Paul Shah In Nepalgunj Mahotsab 2082",
+    "score": 10
+  },
+  {
+    "id": "bnrOeZ72dAw",
+    "title": "ཞི་ཅིན་ཕིང་ནས་རྒྱ་ནག་གི་དམག་སྤྱི་ཆེ་ཤོས་བཙོན་ལ་བཅུག་པ།",
+    "score": 10
+  },
+  {
+    "id": "Ukp6MyYT1RI",
+    "title": "दोस्रो भाग, लखने दाजुको जन्मदिनको रमाइलो क्षणहरू साथमा केहि क्रियाकलापहरू र मनोरन्जनका पलहरू।",
+    "score": 10
+  },
+  {
+    "id": "zLScVA6f2ks",
+    "title": "HUBBY PICKED ME FROM AIRPORT \\u0026 TOOK ME ON A LONG DRIVE 🤍✨#alizehjamali ",
+    "score": 10
+  },
+  {
+    "id": "Uc4zCkOafig",
+    "title": "Why is the Internet Obsessed with the \\\"Nihilist Penguin\\\" | Vantage with Palki Sharma | N18G",
+    "score": 10
+  },
+  {
+    "id": "PjkSdfrbbJc",
+    "title": "#Desire4#OceanJiang#SeekyLi#kipuka#eliot #I4cream#abodesire",
+    "score": 10
+  },
+  {
+    "id": "hYdhaYdBNGI",
+    "title": "humli raja k hi sikaudai",
+    "score": 10
+  },
+  {
+    "id": "sL4cUSLCtjg",
+    "title": "#Desire4#OceanJiang#SeekyLi#kipuka#eliot #I4cream#abodesire",
+    "score": 10
+  },
+  {
+    "id": "Ak6SlqxNdxI",
+    "title": "Aba Aunxa Majja || House Of Dirt Nepal Ride day 🔥",
+    "score": 10
+  },
+  {
+    "id": "YyERf7ds46I",
+    "title": "If you can do this you will have a smooth and successful New Year #Nunchucks#Nunchucks tea",
+    "score": 10
+  },
+  {
+    "id": "eV6AjG2Ifrk",
+    "title": "@Denish-x9n Wheelie Crash 🤕 || Chest Hoki Breast Ho 👙",
+    "score": 10
+  },
+  {
+    "id": "E_8nRs0TT0U",
+    "title": "Jam Kanchhi Relaima - Khem Century | Deepika Bayambu Magar | LB Darnal | Juna | Samjhana | New Song",
+    "score": 10
+  },
+  {
+    "id": "xs8TLPmfZu0",
+    "title": "Jhakri in Nepal with original sound #jhakri #nepaliculture #manyJhakri #traditionalwear #tradition",
+    "score": 10
+  },
+  {
+    "id": "1nI1Q6Lqy9o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oUd0j1W0-HQ",
+    "title": "How Police Solve Crimes",
+    "score": 10
+  },
+  {
+    "id": "L02ObHjVVbo",
+    "title": "How Police Captured Colorado's Smartest Killer",
+    "score": 10
+  },
+  {
+    "id": "t6h8Uae2Q_E",
+    "title": "How a Teenager Solved a 57-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "MtN7v9JrPxw",
+    "title": "Police Discover Car Filled With Serial Killer's Bodies",
+    "score": 10
+  },
+  {
+    "id": "mefsXP4FI6s",
+    "title": "Police Chief Realizes He’s Going To Prison Forever",
+    "score": 10
+  },
+  {
+    "id": "GBTF6JWus1w",
+    "title": "Daughters Lead Police To Mother's Dead Body",
+    "score": 10
+  },
+  {
+    "id": "bVGJpVbp9tE",
+    "title": "Police Took Years To Solve Her Murder... Her Killer Hid In Plain Sight",
+    "score": 10
+  },
+  {
+    "id": "U9VyqmGPdNw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C7qAAvNIr0Q",
+    "title": "He Thought There Was Ground Below",
+    "score": 10
+  },
+  {
+    "id": "_uLvLRM6x70",
+    "title": "Police Chase Ends in the Worst Crash Ever",
+    "score": 10
+  },
+  {
+    "id": "4hJ70NGenoM",
+    "title": "Can the Met Police solve my Simple IQ Test, Gang Badge Muppets Fail.",
+    "score": 10
+  },
+  {
+    "id": "SlydhTy0wi4",
+    "title": "Police Realize They Met the Killer Before the Murder",
+    "score": 10
+  },
+  {
+    "id": "Akmn_a2I2cQ",
+    "title": "Entitled Nordstrom Employee Caught Stealing Thousands in Chanel \\u0026 Dior Shipping Scam",
+    "score": 10
+  },
+  {
+    "id": "T5aHa-uCWlA",
+    "title": "Police Bodycam Exposes a Foster Home Nightmare of Chains \\u0026 Fear | Crime in Progress | Crime 360",
+    "score": 10
+  },
+  {
+    "id": "p106xez7y7o",
+    "title": "Jon on Alex Pretti's Killing, DHS vs. Video Evidence \\u0026 MAGA's Gun Rights Surrender | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "06qi89GfjaE",
+    "title": "Bodycam: The Homicide of a Beloved YouTuber",
+    "score": 10
+  },
+  {
+    "id": "KiSzZ7s5xXk",
+    "title": "Reddit vs. Police: The Walmart Oven Murder Case",
+    "score": 10
+  },
+  {
+    "id": "BH_DMdf6QPQ",
+    "title": "How the Internet Cracked a 30-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "rXuLJJtJp1g",
+    "title": "When Criminals Are Smarter Than The Police...",
+    "score": 10
+  },
+  {
+    "id": "L6rOx5N0NgA",
+    "title": "Police Discover A Mass Killer's Secret Hideout",
+    "score": 10
+  },
+  {
+    "id": "hvxuXT2uDrI",
+    "title": "How Reddit Cracked a 20-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "e8Tru13G5cI",
+    "title": "The Police Didn't Believe Her, Then She Disappeared With Baby?! The Tragic Story of Rachel Timmerman",
+    "score": 10
+  },
+  {
+    "id": "gk4ots_LpVQ",
+    "title": "Real Ways Criminals Escaped The Police",
+    "score": 10
+  },
+  {
+    "id": "i8B8qHeA8gI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "piycfL5aBcs",
+    "title": "ICE Thugs Murdered Someone in Cold Blood",
+    "score": 10
+  },
+  {
+    "id": "YFQ-v1jCpF0",
+    "title": "What’s the One Moment That Truly Made Your Blood Run Cold?",
+    "score": 10
+  },
+  {
+    "id": "6UPGnl_caWY",
+    "title": "How the Internet Solved a 48-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "TSFKBcrTeBQ",
+    "title": "You dont have to be liked",
+    "score": 10
+  },
+  {
+    "id": "zu2VFEJPxcM",
+    "title": "Twelve hours before our rehearsal dinner, my fiancée's ex posted a story of her in his hotel room.…",
+    "score": 10
+  },
+  {
+    "id": "2vCWRu8mxCY",
+    "title": "My wife teased, “I’m going on a date without you.” Her friends laughed. I turned…",
+    "score": 10
+  },
+  {
+    "id": "s3dsoes_ArM",
+    "title": "Her sister shouted, “Why are you so cold to your wife?” I smiled, “so you haven’t…",
+    "score": 10
+  },
+  {
+    "id": "xcp6sVHKjdc",
+    "title": "The Killer the FBI Couldn't Catch, But Random People Did",
+    "score": 10
+  },
+  {
+    "id": "WbWuNs8SPaQ",
+    "title": "She Said, “My Life, My Rules—If You Don’t Like It, There’s The Door.” I Smiled And Said, “Perfect.”",
+    "score": 10
+  },
+  {
+    "id": "pSVcV5pTraE",
+    "title": "My Girlfriend’s Ex DM’d Me, “She Settled for You. She’ll Come Back.” I Showed Her…",
+    "score": 10
+  },
+  {
+    "id": "AAy2JIcsPbU",
+    "title": "Disturbing Internet Mysteries That Have Been Solved",
+    "score": 10
+  },
+  {
+    "id": "15Zxqjksdss",
+    "title": "Reddit vs. Police: The Walmart Oven Murder Case",
+    "score": 10
+  },
+  {
+    "id": "s4FJkPJKayQ",
+    "title": "Curology",
+    "score": 10
+  },
+  {
+    "id": "hhM_CJW4C1I",
+    "title": "No Warning. No Conversation. Just My Dad's Cold Voice Saying, You're Out Of The Family Business, Mia",
+    "score": 10
+  },
+  {
+    "id": "HsznOb18Q9A",
+    "title": "Mysterious Cold Case of Larry Groves -- Reddit True Crime Story",
+    "score": 10
+  },
+  {
+    "id": "BXSgxphcWA0",
+    "title": "This IMPOSSIBLE Cold Case Was Solved By A Teenager | Marise Chiverella",
+    "score": 10
+  },
+  {
+    "id": "FX6t7--6dAw",
+    "title": "How Reddit Cracked a 17-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "waesnoeEva4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oHh8JOzQrc4",
+    "title": "Cruising This Year? Then You Need to Watch This!",
+    "score": 10
+  },
+  {
+    "id": "X4F_-AUOpfY",
+    "title": "Stephen Wilson Jr. - Gary (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "OJm3gYqKehA",
+    "title": "I Golfed With Gary Player (89 Years Old)",
+    "score": 10
+  },
+  {
+    "id": "5Dt3AO2_U6o",
+    "title": "20-YEAR Hunt for \\\"Green River Killer\\\" Gary Ridgway | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "SPGbALEMs-0",
+    "title": "GREAT IS THY FAITHFULNESS O GOD MY FATHER",
+    "score": 10
+  },
+  {
+    "id": "-RpoTtudPck",
+    "title": "GARY YOUNG - 20 Years and Counting | Odyssey BMX",
+    "score": 10
+  },
+  {
+    "id": "yOm_QGoAadQ",
+    "title": "THE BEST SPEECH EVER! - Gary Vaynerchuk",
+    "score": 10
+  },
+  {
+    "id": "gQi9CJDbwms",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-F-k0lLsLmw",
+    "title": "Father Of The Year Gary Plauche's Son Speaks Out ft. Jody Plauche | Unsubscribe Podcast Ep 170",
+    "score": 10
+  },
+  {
+    "id": "3J_9eNOgBvc",
+    "title": "Trigger Warning",
+    "score": 10
+  },
+  {
+    "id": "JuorLH87B_A",
+    "title": "Dad Kills Son’s Kidnapper - Recreating the Gary Plauche Shot",
+    "score": 10
+  },
+  {
+    "id": "8LBxCI3IZrc",
+    "title": "Gary Allan - Long Year (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "oHgdceTm6Hw",
+    "title": "Psycho Killer | Interview with a Killer S2 E1: Gary Hilton",
+    "score": 10
+  },
+  {
+    "id": "hc5mR0ndQCE",
+    "title": "WORK HARD AND BE PATIENT - Best Motivational Video for Success | Gary Vaynerchuk Motivation",
+    "score": 10
+  },
+  {
+    "id": "T_aFqEmL5JI",
+    "title": "GREATEST SPEECH EVER - Gary Vaynerchuk on Millennials and Procrastination | MOST INSPIRING!",
+    "score": 10
+  },
+  {
+    "id": "nShlloNgM2E",
+    "title": "Overnight Success: Gary Vaynerchuk",
+    "score": 10
+  },
+  {
+    "id": "OTHbFb1fNy4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "X7gcisj6KXA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1jQF2VUghIw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bACx1mP-qqA",
+    "title": "MISSING 11 YEARS: Mother of 3 Vanishes After Driving Away From Home!",
+    "score": 10
+  },
+  {
+    "id": "1pQbIeC8fsU",
+    "title": "SOLVED: Missing Since Christmas! We Found Him In The Lake!",
+    "score": 10
+  },
+  {
+    "id": "BNwURn05R0E",
+    "title": "34 Years MISSING: Was it an Accident Or Something Else?",
+    "score": 10
+  },
+  {
+    "id": "CU41zKSYO2M",
+    "title": "SOLVED: 2 Week Old Missing Person Underwater! (Swapnil Srivastava)",
+    "score": 10
+  },
+  {
+    "id": "91e2wkpAVcA",
+    "title": "He Disappeared at 4AM and Was Never Seen Again",
+    "score": 10
+  },
+  {
+    "id": "u_CSqqcqeZM",
+    "title": "Could This Be the Missing Woman’s Vehicle in the River?",
+    "score": 10
+  },
+  {
+    "id": "nDQj0kRj4oc",
+    "title": "Two Missing People, One Missing Truck — What’s in the River?",
+    "score": 10
+  },
+  {
+    "id": "8eQ_jctrwcw",
+    "title": "Randy Whitfield Disappearance: Underwater Search Yields a Car",
+    "score": 10
+  },
+  {
+    "id": "m9dd1nhSHqE",
+    "title": "Looking for a Missing Man on Blood Mountain… When Everything Took a Turn",
+    "score": 10
+  },
+  {
+    "id": "bh2_jqznAaA",
+    "title": "SOLVED 21 Year Old Missing Persons Case (Erin Foster \\u0026 Jeremy Bechtel)",
+    "score": 10
+  },
+  {
+    "id": "ddbYYSmpeHc",
+    "title": "SOLVED! Missing Person Found Underwater In Vehicle After 40 Years!",
+    "score": 10
+  },
+  {
+    "id": "frJcJU_ZEWc",
+    "title": "Dad ‘Numb’ Over Discovery of Missing Teen’s Car 21 Years Later",
+    "score": 10
+  },
+  {
+    "id": "YCeigsxgTEw",
+    "title": "Underwater Discoveries in New Orleans: 13 Cold Cases That Still Need Answers",
+    "score": 10
+  },
+  {
+    "id": "Paqt1McTwsA",
+    "title": "Two Missing People, One Missing Truck — What’s in the River?",
+    "score": 10
+  },
+  {
+    "id": "1w53sS7RdUI",
+    "title": "After more than 20 years, two missing teens were finally found not far from home",
+    "score": 10
+  },
+  {
+    "id": "WzfE8HJ6FaE",
+    "title": "13 Missing People… So I Went Searching the New Orleans Canals",
+    "score": 10
+  },
+  {
+    "id": "ewUGp1gAeI4",
+    "title": "SOLVED: Missing Since Christmas! We Found Him In The Lake!",
+    "score": 10
+  },
+  {
+    "id": "hwiDKInUXWg",
+    "title": "Searching Florida Waters for a Missing Murder Victim’s Car | Alligator Encounter!",
+    "score": 10
+  },
+  {
+    "id": "6qkgVgjN188",
+    "title": "Jeremy Zucker \\u0026 Chelsea Cutler - this is how you fall in love (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ORBKIqLu3TE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jSmmiBtC4xs",
+    "title": "Mother Murder",
+    "score": 10
+  },
+  {
+    "id": "lE6wKQMihVg",
+    "title": "My Mother's Murder Trials (Parts 1 \\u0026 2) | \\\"48 Hours\\\" Full Episodes",
+    "score": 10
+  },
+  {
+    "id": "nGMi5ssLmUc",
+    "title": "Mother Murder",
+    "score": 10
+  },
+  {
+    "id": "ULwOvljS6ws",
+    "title": "Mother and son will go to trial in murder of Detroit teen London Thomas",
+    "score": 10
+  },
+  {
+    "id": "fPOChr7yaz8",
+    "title": "Missing Girl’s ‘Party Mom’ Under Investigation for Murder",
+    "score": 10
+  },
+  {
+    "id": "-SfM257F50Q",
+    "title": "Texas Man Kills Mother, Daughter in Disturbing Way",
+    "score": 10
+  },
+  {
+    "id": "xs0ZOL0Eu8s",
+    "title": "Accused Killer’s Mother Googled Donna Adelson After Son-in-Law’s Murder",
+    "score": 10
+  },
+  {
+    "id": "TmgchZAzY5I",
+    "title": "‘Killer Mom’ Poisoned Family at Thanksgiving Dinner: Police",
+    "score": 10
+  },
+  {
+    "id": "Ht6WuUwk1DI",
+    "title": "Unbelievable Twists and Turns |  \\\"48 Hours\\\" Full Episodes",
+    "score": 10
+  },
+  {
+    "id": "D-fPlimH2JM",
+    "title": "The Suspicious Death of Christian Andreacchio",
+    "score": 10
+  },
+  {
+    "id": "2BZzU6RBM9U",
+    "title": "Detective Uncovers Shocking Truth Behind a Brutal Murder (S16, E9) | American Justice | Full Ep",
+    "score": 10
+  },
+  {
+    "id": "pnMPmlzHxIc",
+    "title": "Narcissist's Obsession - The Deadly Type with Candice Delong - True Crime",
+    "score": 10
+  },
+  {
+    "id": "0eHfw_7zQYk",
+    "title": "Search for Missing 19-Year-Old Ends in Tragedy (S1, E1) | Murder In The 21st | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "1Nd55gjLVLk",
+    "title": "Jimmy Kimmel on the Vile and Heartless Murder of Nurse Alex Pretti by ICE in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "4_dFDDvOyUk",
+    "title": "Schemes and Plots | \\\"48 Hours\\\" Full Episodes",
+    "score": 10
+  },
+  {
+    "id": "XSF6kDtflKk",
+    "title": "Who Took Our Dad? The Abduction of Ray Wright",
+    "score": 10
+  },
+  {
+    "id": "UfI95wO1Bjk",
+    "title": "Hollywood Undead - Mother Murder [Lyrics Video]",
+    "score": 10
+  },
+  {
+    "id": "IGpHCM3oKx0",
+    "title": "Cold Case Files: A 2-Year-Old's Memory Solves a Mother's Murder after 17 YEARS | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "HAjcwVI6cj0",
+    "title": "N.J. mother accused of killing her two young children pleads not guilty",
+    "score": 10
+  },
+  {
+    "id": "EhrUmzK8RJU",
+    "title": "Hiring a Hitman to Murder Your Own Mother?",
+    "score": 10
+  },
+  {
+    "id": "miRolrGdyZE",
+    "title": "'That was my boy': Mother of Amazon fulfilment center employee shot, killed at work demands justice",
+    "score": 10
+  },
+  {
+    "id": "ZO0vT15nn7Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qzQNFzA01_0",
+    "title": "Serial Killer Realizes He's Been Caught 45 Years Later",
+    "score": 10
+  },
+  {
+    "id": "QvDGb2oOS4M",
+    "title": "CAPTURED: Fugitive ex-cop Dan Hiers caught after 13 years on the run",
+    "score": 10
+  },
+  {
+    "id": "pwvlSaDrvUs",
+    "title": "Serial Killer Realizes He's Been Caught 23 Years Later",
+    "score": 10
+  },
+  {
+    "id": "ZT5H9VAaJ5s",
+    "title": "U.S. citizen says ICE harassed, assaulted her during arrest",
+    "score": 10
+  },
+  {
+    "id": "Li8TgutKR5g",
+    "title": "Killer Realizes She’s Been Caught 23 Years Later | The Case of Sherri Rasmussen",
+    "score": 10
+  },
+  {
+    "id": "mN9BUd4zqOU",
+    "title": "ICE under scrutiny for detainment of 5-year-old boy",
+    "score": 10
+  },
+  {
+    "id": "CVD17_woa48",
+    "title": "Twisted Killer Realizes He’s Been Caught 24 Years Later",
+    "score": 10
+  },
+  {
+    "id": "XyJRTJc8TMk",
+    "title": "Killer Realizes He's Been Caught 22 Years Later",
+    "score": 10
+  },
+  {
+    "id": "Ka1xX9ut63I",
+    "title": "Olympian Turned Drug Kingpin Ryan Wedding Has Been Caught: What You Need To Know",
+    "score": 10
+  },
+  {
+    "id": "FojyO9fEA60",
+    "title": "Cold Case Files: Killer Caught After 3 Years By New Fingerprint System (S4, E24) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "1XS6fQJxVgM",
+    "title": "Fugitive Ryan Wedding arrested after months on FBI's Most Wanted list",
+    "score": 10
+  },
+  {
+    "id": "-waRcVhxaN0",
+    "title": "ICE detains 5-year-old boy, other students in Minnesota, school officials respond",
+    "score": 10
+  },
+  {
+    "id": "AjES-liH4so",
+    "title": "Killer Realizes He's Been Caught 30 Years Later",
+    "score": 10
+  },
+  {
+    "id": "5xN0DpXVtmE",
+    "title": "Killer Realizes She's Been Caught 27 Years Later",
+    "score": 10
+  },
+  {
+    "id": "lpC4FvGyrds",
+    "title": "Dropout spoiled \\\"One Year Later\\\" a year ahead of time 🤫",
+    "score": 10
+  },
+  {
+    "id": "Gk-WhLCUcwU",
+    "title": "It Took 40 Years To Catch This Vicious Killer | Finally Caught | Crime Up Close",
+    "score": 10
+  },
+  {
+    "id": "Aaqolq6ktBo",
+    "title": "Apple Took Years to Catch Up. Kilo Code Took 6 Weeks--and It's Coming for Lovable, Cursor, Replit",
+    "score": 10
+  },
+  {
+    "id": "2sY7Pcm2j2g",
+    "title": "This Week in AI",
+    "score": 10
+  },
+  {
+    "id": "xEGvy9ljdAY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XhV9x6zCjRk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PsXqnF93TOo",
+    "title": "K2: The World’s Most DEADLY Mountain to Climb",
+    "score": 10
+  },
+  {
+    "id": "6jw8GHgyiqw",
+    "title": "The Savage Mountain",
+    "score": 10
+  },
+  {
+    "id": "S4AIrOXTzdw",
+    "title": "Uncovering The Mystery: Climbing In New Zealand  || A World Less Traveled Ep.4",
+    "score": 10
+  },
+  {
+    "id": "kjD_58ZFN98",
+    "title": "Flock Hill",
+    "score": 10
+  },
+  {
+    "id": "ldC9bgOCoY8",
+    "title": "Why No One Can Climb Kailash Parvat ? – A Journey into the Unknown",
+    "score": 10
+  },
+  {
+    "id": "NxG7z1BM8es",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JyvqC9Llk5I",
+    "title": "Moab's Mystery Towers Area up close, Canyon Hiking, Climbing in 4K Cinematic, Utah",
+    "score": 10
+  },
+  {
+    "id": "bI0ZyyHgKf8",
+    "title": "The Climbing Magnets Mystery (ft. Steve Mould)",
+    "score": 10
+  },
+  {
+    "id": "k0oNkO2YI-w",
+    "title": "Dad and Daughter Vanished Climbing Mt. Hooker, 11 Years Later Their Cliff Camp Is Found…",
+    "score": 10
+  },
+  {
+    "id": "kYgBcPgzWJ4",
+    "title": "2025 UPDATE | \\\"Everest\\\" Is Gone: Are We Losing the Spirit of Climbing?",
+    "score": 10
+  },
+  {
+    "id": "-EagWYrlM2o",
+    "title": "introduction to remarkable 2025 Everest season",
+    "score": 10
+  },
+  {
+    "id": "nJkldJw2TPA",
+    "title": "Bear Grylls Reveals What Climbing Mount Everest Is Really Like",
+    "score": 10
+  },
+  {
+    "id": "apf28jyKMmg",
+    "title": "Mystery climb",
+    "score": 10
+  },
+  {
+    "id": "eCYUIzc3kWs",
+    "title": "Trad Climbing a mystery climb at Seneca Rocks",
+    "score": 10
+  },
+  {
+    "id": "wPU2OCU59AY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4yUmm1xU8iw",
+    "title": "Federal agents fatally shot a 37-year-old Minneapolis man, police chief says",
+    "score": 10
+  },
+  {
+    "id": "NVRmV0SOVbY",
+    "title": "Fury over five-year-old's detention by ICE agents in Minneapolis • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "gIOF_FkI5gk",
+    "title": "Joliet police officer unlawfully searched 12-year-old girl, lawsuit alleges",
+    "score": 10
+  },
+  {
+    "id": "gQGUH7wHkXs",
+    "title": "Police Illegally Pat Down 12-Year-Old Girl — Officer Admits Mistake on Bodycam",
+    "score": 10
+  },
+  {
+    "id": "cf3HMAqIhhs",
+    "title": "\\\"7-year-old suspended for drawing his police officer dad",
+    "score": 10
+  },
+  {
+    "id": "bn0YBleJ_Xs",
+    "title": "Federal agents tackle person on street following fatal shooting of 37-year-old man in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "vBirpYon5SQ",
+    "title": "Orlando Police Officer ran red light before crash that killed 92-year-old, witnesses say",
+    "score": 10
+  },
+  {
+    "id": "Oq3nLEtG88g",
+    "title": "16-year-old girl killed in sledding accident, Frisco police say",
+    "score": 10
+  },
+  {
+    "id": "uBOT24XHuVY",
+    "title": "Latest details on 5-year old detained by ICE",
+    "score": 10
+  },
+  {
+    "id": "ymyFD0nichc",
+    "title": "Jon on Alex Pretti's Killing, DHS vs. Video Evidence \\u0026 MAGA's Gun Rights Surrender | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "m3otpjno0UQ",
+    "title": "Officer punches woman in the face multiple times while handcuffed !",
+    "score": 10
+  },
+  {
+    "id": "qYHAlauL0AY",
+    "title": "Masked Secret Police Are Not Victims | The Truth About Alex Pretti | What Would The Founders Do?",
+    "score": 10
+  },
+  {
+    "id": "Eez5WYe9y4s",
+    "title": "Minnesota Attorney General reacts to Bovino leaving the state",
+    "score": 10
+  },
+  {
+    "id": "nkjTRVjRYfQ",
+    "title": "Mary Moriarty: Hennepin Co. has substantial evidence to decide on charges",
+    "score": 10
+  },
+  {
+    "id": "4HN7f2zO3ZU",
+    "title": "Maddow: Trump in retreat as disastrous anti-immigrant campaign becomes political catastrophe",
+    "score": 10
+  },
+  {
+    "id": "V74j0cPeOJ0",
+    "title": "Woman to Cop: ‘I’m a bad little 5-year-old who just threw a big tantrum’ #arrested #cops #police",
+    "score": 10
+  },
+  {
+    "id": "nwgT6t-BP3w",
+    "title": "11-year-old throws \\\"Thank You\\\" party for police",
+    "score": 10
+  },
+  {
+    "id": "63Hq0XJzIm0",
+    "title": "Wild crime spree in Northern California ends in deadly police shootout",
+    "score": 10
+  },
+  {
+    "id": "UHf1ZRoEfoM",
+    "title": "5-year-old boy taken by ICE is being held at Texas facility",
+    "score": 10
+  },
+  {
+    "id": "NTe0ruWUKTU",
+    "title": "5-\"},{\"text\":\"year\",\"bold\":true},{\"text\":\"-old who was taken by federal agents from the ...",
+    "score": 10
+  },
+  {
+    "id": "jB1czdCYYoE",
+    "title": "New details about 5-year-old detained by ICE",
+    "score": 10
+  },
+  {
+    "id": "MfeTZrmMU-s",
+    "title": "Fallout after 11-year-old shot by police in family home l GMA",
+    "score": 10
+  },
+  {
+    "id": "KumNUH1xPOA",
+    "title": "ICE Detains 5-year-old in Minnesota as JD Vance Set to Visit",
+    "score": 10
+  },
+  {
+    "id": "keNu3h5hxlQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "t_FWypvfp58",
+    "title": "TASK FORCE/ Protesta e 24 janarit, pse Edi Rama e shthuri gojën?",
+    "score": 10
+  },
+  {
+    "id": "Q5Hyw1w1wx8",
+    "title": "Prompto x Downfvll x Sugs - Task Force",
+    "score": 10
+  },
+  {
+    "id": "wp93RISuv5k",
+    "title": "Manhunters: Fugitive Task Force: Wanted for Bank Robbery - Full Episode (S1, E5) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "Lf0QcpFRjq0",
+    "title": "DAY HUNT FOR LATISHA DONALDSON",
+    "score": 10
+  },
+  {
+    "id": "XkR8M8uVJNk",
+    "title": "Manhunters: Fugitive Task Force: Cross Country Arrest - Full Episode (S1, E7) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "zzt5CZEp-9c",
+    "title": "NEWARK, NJ",
+    "score": 10
+  },
+  {
+    "id": "X9A4JwI1y8g",
+    "title": "RW 5ive - task force (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "CsDVWNOLzmE",
+    "title": "Hunxho - Task Force [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "kCcAQVtl4d8",
+    "title": "Inside a SWAT \\u0026 Drug Task Force Raid",
+    "score": 10
+  },
+  {
+    "id": "dGM5gGv9F9o",
+    "title": "Manhunters: Fugitive Task Force: Escaped Burglar Taken Down - Full Episode (S1, E11) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "THqX0gNqy44",
+    "title": "Manhunters: Fugitive Task Force: US Marshals Chase After Dangerous Felon- Full Episode (S1,E0) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "ygeFK_psEME",
+    "title": "NEW YORK CITY",
+    "score": 10
+  },
+  {
+    "id": "H9Py5PCjiQc",
+    "title": "Manhunters: Fugitive Task Force: Dangerous Renegade on the Loose - P 1 - Full Episode (S1, E3) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "a4g0xyE62SY",
+    "title": "Bombs and Obliteration | Midway | First Look | Task Force Admiral | Part 2",
+    "score": 10
+  },
+  {
+    "id": "M3fAO_D0pro",
+    "title": "Tactical Music - Task Force",
+    "score": 10
+  },
+  {
+    "id": "iDM3xh-rA1Q",
+    "title": "Midway! | First Look | New Game | Task Force Admiral | Part 1",
+    "score": 10
+  },
+  {
+    "id": "RQlnqyLVOP0",
+    "title": "Manhunters: Fugitive Task Force: Bringing Down a Dangerous Criminal - Full Episode (S1, E2) | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "RUAIi2QIcRE",
+    "title": "Task Force 141 (Price, Soap, Ghost \\u0026 Gaz) Then vs Now  #callofduty",
+    "score": 10
+  },
+  {
+    "id": "pgjk9GoHZtA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BUTMkFWmYzI",
+    "title": "Steve's Favorite LOL Moments | Steve Wilkos",
+    "score": 10
+  },
+  {
+    "id": "w_OITco0wBk",
+    "title": "DNA: Emotions Out of Control | Steve Wilkos S11 Ep33 | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "kaJJ6l-1KpU",
+    "title": "Steve Turns The Tables 😯 The Steve Wilkos Show Full Episode",
+    "score": 10
+  },
+  {
+    "id": "YTC2Ka-u0JE",
+    "title": "Steve Outraged! ⚱️😡 The Steve Wilkos Show Full Episode",
+    "score": 10
+  },
+  {
+    "id": "EikgtXoiR2E",
+    "title": "My Boyfriend \\u0026 My Ex BOTH Say I’m Crazy | Steve Wilkos",
+    "score": 10
+  },
+  {
+    "id": "Foikgd3YcPQ",
+    "title": "I Caught You Cheating With The Neighbor",
+    "score": 10
+  },
+  {
+    "id": "FXhvh1qhrAg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Kp0F2BoWaZs",
+    "title": "STD While Pregnant… | Steve Wilkos",
+    "score": 10
+  },
+  {
+    "id": "deQ6eLDydx4",
+    "title": "Should They Have Trusted Their Cousins? | Steve Wilkos",
+    "score": 10
+  },
+  {
+    "id": "DGbmRRZ6308",
+    "title": "Story 1 \\\"The Truth Comes Out\\\"",
+    "score": 10
+  },
+  {
+    "id": "9kxgbQDxJrs",
+    "title": "Does He Truly Know His Baby Mama?",
+    "score": 10
+  },
+  {
+    "id": "3e43R2L96PY",
+    "title": "Affair With A Family Friend?",
+    "score": 10
+  },
+  {
+    "id": "FXf3_quy9Hs",
+    "title": "If She Doesn’t Get Help, He Might Kill Her",
+    "score": 10
+  },
+  {
+    "id": "1wABVb0CFjQ",
+    "title": "Did She Fake Her Pregnancy?",
+    "score": 10
+  },
+  {
+    "id": "xySErrqiObs",
+    "title": "If I Don't Get Help, I'm Going to Die",
+    "score": 10
+  },
+  {
+    "id": "hNr4yZ_2M3k",
+    "title": "Dad Enables Son's Meth Addiction",
+    "score": 10
+  },
+  {
+    "id": "53drAfw1sWU",
+    "title": "Countdown",
+    "score": 10
+  },
+  {
+    "id": "-qwWlNnEPmw",
+    "title": "Should They Have Trusted Their Cousins? | Steve Wilkos",
+    "score": 10
+  },
+  {
+    "id": "FOIbw3eb_g8",
+    "title": "Who Is The Liar?",
+    "score": 10
+  },
+  {
+    "id": "9xZ8ue4RR38",
+    "title": "Generational Child Neglect",
+    "score": 10
+  },
+  {
+    "id": "XsDhYpUQgKo",
+    "title": "Allegations of Filth, Sickness, and Rat Poison",
+    "score": 10
+  },
+  {
+    "id": "cALiDd-hM5E",
+    "title": "Woody Harrelson Goes Through Hell While Eating Spicy Wings | Hot Ones",
+    "score": 10
+  },
+  {
+    "id": "ye40f72FFac",
+    "title": "Matt Lauer Has Been Fired From NBC News | TODAY",
+    "score": 10
+  },
+  {
+    "id": "evhLzq7Gsak",
+    "title": "What network was matt lauer with?",
+    "score": 10
+  },
+  {
+    "id": "QJeVDpGV2Bk",
+    "title": "My Mom Abandoned Me To Be A Man",
+    "score": 10
+  },
+  {
+    "id": "6Sf_sTm1MSE",
+    "title": "She's Lying About Her \\\"Baby\\\"",
+    "score": 10
+  },
+  {
+    "id": "ApRinWy_YIo",
+    "title": "He Killed Her Cousin, She Stayed",
+    "score": 10
+  },
+  {
+    "id": "8DDo1lWj0IA",
+    "title": "How Does Her Little Boy Keep Getting Hurt?",
+    "score": 10
+  },
+  {
+    "id": "S-2u3Vg06C0",
+    "title": "Who Gave The Babies PCP?",
+    "score": 10
+  },
+  {
+    "id": "lnP8gRlAMZk",
+    "title": "“2026: The Year of Shocking Changes” ⚡",
+    "score": 10
+  },
+  {
+    "id": "VvcPOM8beyE",
+    "title": "The Shocking Murder of 13-Year-Old Lauren Landavazo | Murdered at First Sight",
+    "score": 10
+  },
+  {
+    "id": "9I_L24Gb2Zc",
+    "title": "Dr. Phil S10E120 ~ Ripped From the Headlines- Shocking Love Stories",
+    "score": 10
+  },
+  {
+    "id": "4FUeXv76J0g",
+    "title": "Shocking: 6-Year-Old's Eyewitness Account Convicts Innocent Man | Murder She Solved | Real Crime",
+    "score": 10
+  },
+  {
+    "id": "uQY0fSi8LdU",
+    "title": "April Sutton Judy's Daughter",
+    "score": 10
+  },
+  {
+    "id": "jOszJuGXyUc",
+    "title": "I Was Shocked When the Mystery of My NDE Was Confirmed in Photo",
+    "score": 10
+  },
+  {
+    "id": "1qZAgwzLvr0",
+    "title": "Near-Death Experience (NDE)",
+    "score": 10
+  },
+  {
+    "id": "g9ch8yHthP4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Svdt2Lf32mM",
+    "title": "Andrea Yates ‘Grieves For Her Children' 15 Years After Shocking Crime | TODAY",
+    "score": 10
+  },
+  {
+    "id": "id8LTjE1wNc",
+    "title": "When did Andrea Yates drown her children?",
+    "score": 10
+  },
+  {
+    "id": "G8h02wvj4Rw",
+    "title": "Janelle Matthews",
+    "score": 10
+  },
+  {
+    "id": "iRuC_JMmTjw",
+    "title": "Most Shocking Second a Day Video",
+    "score": 10
+  },
+  {
+    "id": "RBQ-IoHfimQ",
+    "title": "After 13 Years in China I returned to UK (This is Shocking)",
+    "score": 10
+  },
+  {
+    "id": "t3g84irdNns",
+    "title": "My Shocking Amazon Stock Price Prediction for 2026! | AMZN Stock Prediction",
+    "score": 10
+  },
+  {
+    "id": "FIwxdZYcaTA",
+    "title": "They Finally Found What Was Hidden for 80 Years #wwii #discovery #shocking",
+    "score": 10
+  },
+  {
+    "id": "RSFXNMMpBzs",
+    "title": "The Shocking Story Of Aziza Kibibi",
+    "score": 10
+  },
+  {
+    "id": "OkQ1a20EiJU",
+    "title": "Victory Brinker: Shy Nervous 9-Year-Old SHOCKING Voice!  Gets First Ever Group GOLDEN BUZZER!",
+    "score": 10
+  },
+  {
+    "id": "mp5_LUbtzP4",
+    "title": "Philippines' Most Shocking Stories | EP 5: Stuffed in a Suitcase: The Dindin Palma Murder Case",
+    "score": 10
+  },
+  {
+    "id": "G9whtoyAG78",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MyeT-oI_Fag",
+    "title": "Kenworth W900L Cold Start",
+    "score": 10
+  },
+  {
+    "id": "M0xGgGtOujE",
+    "title": "Diesel vs Gas Cold Start Explained",
+    "score": 10
+  },
+  {
+    "id": "d-4btQ9mr1k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "4trlG5bCrQw",
+    "title": "Dodge Charger SRT EXTREME COLD START -38C (-36F)",
+    "score": 10
+  },
+  {
+    "id": "nJe-Y9QM0cA",
+    "title": "BIG DIESEL ENGINES COLD STARTING UP AND SOUND 💨",
+    "score": 10
+  },
+  {
+    "id": "byUEVbmmm3c",
+    "title": "John Deere 7410",
+    "score": 10
+  },
+  {
+    "id": "pd947ij9fhA",
+    "title": "CSXT 9553 U23B 32 degree cold start video",
+    "score": 10
+  },
+  {
+    "id": "YsdabI5Vot0",
+    "title": "Flamin' 'GLORIOUS' 50033 cold start with flames | 28/12/2020",
+    "score": 10
+  },
+  {
+    "id": "AdAiVIs0VZk",
+    "title": "John Deere 4440 Cold Start",
+    "score": 10
+  },
+  {
+    "id": "ksURKp5IYVc",
+    "title": "37419 COLD START",
+    "score": 10
+  },
+  {
+    "id": "pv_cGG56QA4",
+    "title": "Volkswagen Diesel Cold Start | Diesel Cold Start: Volkswagen Touareg Diesel at -33°C, Will it Start?",
+    "score": 10
+  },
+  {
+    "id": "rd9ky2cd184",
+    "title": "Spy Affair that Started the Cold War",
+    "score": 10
+  },
+  {
+    "id": "pFmEswtFlaQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "16_4bJ_tAYk",
+    "title": "This Cold",
+    "score": 10
+  },
+  {
+    "id": "xF9DnahbJoo",
+    "title": "John Frusciante-This Cold (acoustic)(HD)",
+    "score": 10
+  },
+  {
+    "id": "Gs6PPYKLsU8",
+    "title": "Slipknot - This Cold Black (Audio)",
+    "score": 10
+  },
+  {
+    "id": "iFQ3h3o61uI",
+    "title": "This Cold (Cover) - John Frusciante",
+    "score": 10
+  },
+  {
+    "id": "Z5TK0RLfMSU",
+    "title": "John Frusciante plays This Cold during Don’t Forget Me",
+    "score": 10
+  },
+  {
+    "id": "aVLas4VNgaE",
+    "title": "In This Cold",
+    "score": 10
+  },
+  {
+    "id": "7ixSIyCbipk",
+    "title": "Jessie Murph - Cold (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "HSj9wOZ0ziA",
+    "title": "This Cold - Torn Apart (from \\\"A Deeper Grey\\\" EP)",
+    "score": 10
+  },
+  {
+    "id": "LFSkxsku1Vg",
+    "title": "Chris Stapleton - Cold (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "fq15HXc6pmw",
+    "title": "ПАСЕ: платформа в сборе, \\\"Бунт\\\" во МХАТе, Разгром армии Китая. Шульман, Ходорковский, Ларина",
+    "score": 10
+  },
+  {
+    "id": "L2S3E520KAo",
+    "title": "Заставка",
+    "score": 10
+  },
+  {
+    "id": "eX69CGCO5sI",
+    "title": "Rescuing An Injured Dog Leads To The Family They Didn’t Expect | The Dodo",
+    "score": 10
+  },
+  {
+    "id": "4M9_OEJxgyY",
+    "title": "The ULTIMATE Birria Tacos (Cooked on the frosty day!)",
+    "score": 10
+  },
+  {
+    "id": "5_PXaQ1k4co",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "7fHmHQImDYw",
+    "title": "Day 1 Highlights | 2026 F1 Barcelona Shakedown",
+    "score": 10
+  },
+  {
+    "id": "hv0lBbZ_lBo",
+    "title": "Teddy Pendergrass - Cold Cold World (Official PhillySound)",
+    "score": 10
+  },
+  {
+    "id": "9O5np3Tc4II",
+    "title": "This Cold Life (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "XatXy6ZhKZw",
+    "title": "Breaking Benjamin - So Cold",
+    "score": 10
+  },
+  {
+    "id": "FngDSOuCNAA",
+    "title": "Austin Snell - Cold (Audio)",
+    "score": 10
+  },
+  {
+    "id": "XDrm2bgEGkI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "T5JlQStw8Rg",
+    "title": "Jeanette Ralston",
+    "score": 10
+  },
+  {
+    "id": "Vrr3lRLjZ1Y",
+    "title": "This Harvard Cold Case Took 50 Years To Solve",
+    "score": 10
+  },
+  {
+    "id": "9Hyc7vkBZv0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ptvqJBL4ljA",
+    "title": "1.Case of Kara Enid Vaughn",
+    "score": 10
+  },
+  {
+    "id": "8jCQyNYOxgU",
+    "title": "Murder of Young Girl Solved 26 Years Later (S5, E3) | Cold Case Files | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "Clr7Qfer9go",
+    "title": "4 Cold Cases That Were Solved With INSANE Twists In 2024",
+    "score": 10
+  },
+  {
+    "id": "9iIiK3wjUw8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0jf1-uubeH0",
+    "title": "How the Internet Cracked a 36-Year Cold Case and Started a Manhunt",
+    "score": 10
+  },
+  {
+    "id": "8Hd0pTpPmjg",
+    "title": "This IMPOSSIBLE Cold Case Was Solved By A Teenager | Marise Chiverella",
+    "score": 10
+  },
+  {
+    "id": "r3FIqEAs0H8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "IpfP3SW37xQ",
+    "title": "9-Year-Old Vanishes Selling Mints, Sparking a Decades-Long Investigation | Cold Case Files | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "m1hwMUaMYv0",
+    "title": "Cold Case Files: DNA from Coffee Cup Helps Solve Murder Case After Nearly 50 Years | A\\u0026E",
+    "score": 10
+  },
+  {
+    "id": "UbEMX4FNQq8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Jn5Dtq_jYVE",
+    "title": "The Dead Internet Theory",
+    "score": 10
+  },
+  {
+    "id": "9WB5grLMXkU",
+    "title": "How A Lone Internet Sleuth Solved a 30-Year Cold Case...",
+    "score": 10
+  },
+  {
+    "id": "jrlxCvtrnpc",
+    "title": "How the Internet Cracked a 36-Year Cold Case and Started a Manhunt",
+    "score": 10
+  },
+  {
+    "id": "wNoZALULmjI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GQaADvOYyN0",
+    "title": "How Reddit Cracked a 17-Year Cold Case Police Called Impossible",
+    "score": 10
+  },
+  {
+    "id": "42aWAAqoUfI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "smyZdtGD2ds",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "t6NZ_H8TruA",
+    "title": "Winter Synth, A Cold Introduction | Esoteric Internet",
+    "score": 10
+  },
+  {
+    "id": "8dej6eZeSig",
+    "title": "Erang - \\\"Mists of Wisdom\\\".)",
+    "score": 10
+  },
+  {
+    "id": "dj5LZq6t3ik",
+    "title": "Cicada 3301: An Internet Mystery",
+    "score": 10
+  },
+  {
+    "id": "I2O7blSSzpI",
+    "title": "The First Puzzle",
+    "score": 10
+  },
+  {
+    "id": "XaSZriXJJqw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0RAkAg1jwTo",
+    "title": "MAJJA",
+    "score": 10
+  },
+  {
+    "id": "lbvEDE_1ERg",
+    "title": "Mazya Gharachi Gosht ft : अभिनेता रोहित मानेच्या घराची गोष्ट  | Rohit Mane | EP19 | Hasyajatra",
+    "score": 10
+  },
+  {
+    "id": "LfYWScynm08",
+    "title": "Just when Zahra thought he was winning, the police arrived and unexpectedly arrested Zahra.",
+    "score": 10
+  },
+  {
+    "id": "5jMRZ6pSATA",
+    "title": "lugonda majja ,the house girl 👧 new production from cornster films  0774868753",
+    "score": 10
+  },
+  {
+    "id": "zrfZMJivz6Q",
+    "title": "Welcoming back Mayugno \\u0026 Majja home in the village#Iam_marwa villa",
+    "score": 10
+  },
+  {
+    "id": "WZ59-YRlO64",
+    "title": "No One Expected This! DCI Comes to Apologize to Moha — Never Joke With God",
+    "score": 10
+  },
+  {
+    "id": "dUKbadnoI9A",
+    "title": "WHAT!? ZIPPORAH ERIC OPENS UP ON MARRIAGE STRUGGLES...-Part 3",
+    "score": 10
+  },
+  {
+    "id": "ett4XZepUAY",
+    "title": "Finally daktari is here! Kumbe mama Njeri na baba Tony wanaplan kuoana 😭Mambo imechemka sasa",
+    "score": 10
+  },
+  {
+    "id": "nlZOSTykWMc",
+    "title": "Bangles of love, rings of doubt: Ramin's gifts to Zulfa and the shadow of his mother's discontent.",
+    "score": 10
+  },
+  {
+    "id": "88ydUvs98XI",
+    "title": "☃️🌤Little Laughs in the Snow,😭 💔A Big Family Longing for Najmeh",
+    "score": 10
+  },
+  {
+    "id": "eE_YNJiGgW4",
+    "title": "David Licauco and Barbie Forteza in \\\"House of Celebration\\\"",
+    "score": 10
+  },
+  {
+    "id": "8GFcdOUlUic",
+    "title": "KAROLING SA BAHAY NG ASWANG | True Story Animation",
+    "score": 10
+  },
+  {
+    "id": "Wd3l-aerLsw",
+    "title": "The Unexpected Return of the Lawyer: A Shocking Twist in Masoumeh and Farhad’s Separation Story!",
+    "score": 10
+  },
+  {
+    "id": "Y64SNao_ixc",
+    "title": "LING RROCHEL NAGALIT KAY KUYA JZ ANO KAYA ANG PINAG MULAN NITO?",
+    "score": 10
+  },
+  {
+    "id": "meVLbLC0MZg",
+    "title": "ترس در روستا 😱 مرد ناشناس و فاطمه در خانه تنها + ادریس ناجی فاطمه",
+    "score": 10
+  },
+  {
+    "id": "8lZSCzDH22o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TYLZG9tv0Yw",
+    "title": "NEPAL: The Most Impossible Country on Earth",
+    "score": 10
+  },
+  {
+    "id": "bY_gRApfoJk",
+    "title": "Nepal's Hidden Places You Won't Believe Exist!",
+    "score": 10
+  },
+  {
+    "id": "ARDY639T_WM",
+    "title": "Introduction to Nepal",
+    "score": 10
+  },
+  {
+    "id": "MXxT4K6JIoI",
+    "title": "Where Tibet and Nepal Meet: Tsum Valley Trekking, Nepal Himalaya",
+    "score": 10
+  },
+  {
+    "id": "kbfs_RHYx7c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B-G-H_u9_LQ",
+    "title": "Drone Intro",
+    "score": 10
+  },
+  {
+    "id": "VrLDHlXH3-4",
+    "title": "Nepal 4K - Scenic Relaxation Film With Calming Music",
+    "score": 10
+  },
+  {
+    "id": "4OiXfDdbtnM",
+    "title": "MAKULA BARUN",
+    "score": 10
+  },
+  {
+    "id": "I2I4EySGYEU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YrNLcFQu0wI",
+    "title": "Cinematic Intro",
+    "score": 10
+  },
+  {
+    "id": "hdlLrK7ndTY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hlUgg5lmBxk",
+    "title": "Most Peaceful And Relaxing Nepali Mountain Village Lifestyle | Organic Food Cooking in Countryside |",
+    "score": 10
+  },
+  {
+    "id": "WdJfMXlrong",
+    "title": "Discovering Authentic Everest | Everest Base Camp Silent Hike, Nepal Himalayas",
+    "score": 10
+  },
+  {
+    "id": "lji8NyYSIrE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lhMFzshzLpU",
+    "title": "I Visited Mount Everest Base Camp",
+    "score": 10
+  },
+  {
+    "id": "fHh29py_Uoc",
+    "title": "This is Himalayan Most Peaceful Nepali Village Lifestyle | Organic Food Cooking in Countryside |",
+    "score": 10
+  },
+  {
+    "id": "qLm-bWNrhMY",
+    "title": "MARRIED TO 2 BROTHERS - Discovering a Secret Tibetan Village in the Himalayas - Upper Mustang, Nepal",
+    "score": 10
+  },
+  {
+    "id": "xBIunfCV8Fo",
+    "title": "The Last Matriarch",
+    "score": 10
+  },
+  {
+    "id": "8efveLZ3E24",
+    "title": "Solo Hiking 260 km. Annapurna Circuit, Nepal Himalaya",
+    "score": 10
+  },
+  {
+    "id": "mfQ31ybmPuA",
+    "title": "Day 1. Khudi - Bhulbhule",
+    "score": 10
+  },
+  {
+    "id": "hjvwsHhFGg0",
+    "title": "Nepal green landscape",
+    "score": 10
+  },
+  {
+    "id": "SQrI5Itutp0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "06XecITEmhA",
+    "title": "Hello to the longest journey ever",
+    "score": 10
+  },
+  {
+    "id": "efGsKzHAogM",
+    "title": "View from the Top of Ama Dablam Mountain- Himalayas Nepal #mountaintop #mountainclimb #peak #nepal",
+    "score": 10
+  },
+  {
+    "id": "AGSsA2mRLCU",
+    "title": "World's Highest Mountains ⛰ 8 are from NEPAL!! #nepal #mountains #everest #viralvideo",
+    "score": 10
+  },
+  {
+    "id": "BJM4xqK2Rs4",
+    "title": "Search filters",
+    "score": 10
+  }
+]

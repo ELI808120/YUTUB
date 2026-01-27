@@ -1,1 +1,3412 @@
-[]
+[
+  {
+    "id": "kftw5wAeWEU",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "35 - פונקציות (פעולות) - מדריך פייתון למתחילים, קורס מלא בעברית",
+    "score": 110
+  },
+  {
+    "id": "nAApXVKkroE",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "kdRCRK3QSO0",
+    "title": "הילימוד - מערכת השמש | לימוד לילדים | ערוץ לילדים סקרנים",
+    "score": 110
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "גלידה ביתית ב-10 דקות בעזרת קילו מלח",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "שווה לנסות - פרק 19",
+    "score": 60
+  },
+  {
+    "id": "T-446AjBMjg",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "איך הומצא ואיך עובד גפרור?",
+    "score": 60
+  },
+  {
+    "id": "MM5nAuAhtKs",
+    "title": "בנינו את מעבדת הניסויים הגדולה בישראל! (הפקת ניסויים משוגעים)",
+    "score": 60
+  },
+  {
+    "id": "hX8dTJXt9TY",
+    "title": "ניסוי אדיר שכל אחד יכול לעשות בבית!!\\\\\\\\ ניסויים😱",
+    "score": 60
+  },
+  {
+    "id": "4VTMH2UZMm8",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "מבוא לניסויי מדע מגניבים | רשימת השמעה של ניסויי מדע מגניבים של Nat Geo Kids",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "עיקרון פעולת מנוע   4 פעימות",
+    "score": 60
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "מנוע הקיטור של ג'יימס ואט",
+    "score": 60
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "k0ovUHEOtyE",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "How a Brushless Motor Works (animation) 720p - איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "hGIk1BhuB7Q",
+    "title": "איך עובד מנוע?",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "3FZhJvXQT6I",
+    "title": "כוכבי לכת שונים | טלוויזיה לילדים | בדוק את זה! תסתכל על זה!Blippi Wonders *PLANETS*",
+    "score": 60
+  },
+  {
+    "id": "8zGGIW6Ssow",
+    "title": "מבוא למערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "c-SBzakOHm0",
+    "title": "כוכב לכת כדור הארץ מערכת השמש חלל לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "כל מה שרציתם לדעת על השמש",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "מסלול כדור הארץ עונות השנה מסע במערכת השמש 27",
+    "score": 60
+  },
+  {
+    "id": "N0nGQDVlH-c",
+    "title": "כוכבי הלכת במערכת השמש שלנו",
+    "score": 60
+  },
+  {
+    "id": "YX_3P0SUzP4",
+    "title": "מסע במערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "A5EiLLDTIQU",
+    "title": "פרופ' ראם סרי - מבנה מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "MK5E_7hOi-k",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "L6nzniWbeCs",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "mQrlgH97v94",
+    "title": "שיר מערכת השמש (עם מילים)",
+    "score": 60
+  },
+  {
+    "id": "zdDiDvSpzqo",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "1960 Aston Martin DB4 Full Restoration | British Classic Reborn to Perfection",
+    "score": 50
+  },
+  {
+    "id": "G8PPgAX-93g",
+    "title": "We Found 1932 Bugatti Atlantic for $1,000… Then Restored It || ASMR Car Restoration!",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "Restoring a Legend 1970 Tomos Automatic N - Full RESTORATION",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "ZB 1940 | Old Machine Gun Restoration",
+    "score": 50
+  },
+  {
+    "id": "6xefDPPtIbI",
+    "title": "TSW Effie Restoration Episode 9",
+    "score": 50
+  },
+  {
+    "id": "DJpoYnUIyh0",
+    "title": "Full restoration of a 60-year-old wooden boat",
+    "score": 50
+  },
+  {
+    "id": "e4wSXm3lbvw",
+    "title": "Restoring an Ultra-Ancient Daihatsu Car Abandoned for Thousands of Years | Extreme Rust Restoration",
+    "score": 50
+  },
+  {
+    "id": "Y1TzjJjJO4E",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "K98 Restoration Project | Real German Rifle Rebuild",
+    "score": 50
+  },
+  {
+    "id": "5TXYl9-lnv4",
+    "title": "Is This Abandoned Water Tower The Best Restoration Project Ever? | Restoration Man | S4 EP10",
+    "score": 50
+  },
+  {
+    "id": "WXwYwitcfMg",
+    "title": "Italian \\\"Pig\\\" Anvil Restoration and Stand Fabrication",
+    "score": 50
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "Restoration the Miter Saw I bought for $10",
+    "score": 50
+  },
+  {
+    "id": "2OYG-7oPcU8",
+    "title": "Paid $40 and Earned $2960 : A Whole Hour of Amazing Restoration Techniques 🔨 part 1",
+    "score": 50
+  },
+  {
+    "id": "TA-v8vHcaA0",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "100 EASY SCIENCE EXPERIMENTS with Explanation - PART 1 (1-50)",
+    "score": 50
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "29 SCIENCE TRICKS that look like real MAGIC",
+    "score": 50
+  },
+  {
+    "id": "_KIzFIgzuYQ",
+    "title": "The World in 2030: Top 20 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "dxWb1Vd9aq8",
+    "title": "20 Coolest Tech at CES 2025",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "Top 15 New Technology Trends That Will Define The Collapse of Entire Industries",
+    "score": 50
+  },
+  {
+    "id": "yCs10fK5dxA",
+    "title": "Timelapse of Future Technology 2 (Sci-Fi Documentary)",
+    "score": 50
+  },
+  {
+    "id": "NiZN58v_Xow",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "👩‍💻 Python for Beginners Tutorial",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "MOVQponoBmI",
+    "title": "It’s Not Too Late: How to Transform Your Life at Any Moment",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Learn Python for Data Science – Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "How I Would Learn Python FAST (if I could start over)",
+    "score": 50
+  },
+  {
+    "id": "X6bFJI9r-mM",
+    "title": "Introduction to Python for Beginners Tutorial",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "-qiMuTAnnlU",
+    "title": "Python Syllabus | Python for Beginners | Complete Python Course #pythonlearning",
+    "score": 50
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "ZlFsg5CGIfM",
+    "title": "#1 Change Expert: The Neuroscience of Transformation",
+    "score": 50
+  },
+  {
+    "id": "1aMIEdKtSZ0",
+    "title": "6 Techniques to Master Self Discipline | Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "nOsIWeQ-Il0",
+    "title": "Joe Dispenza: You've Been Programmed To Stay BROKE, STUCK \\u0026 EXHAUSTED - Here's How To Break It!",
+    "score": 50
+  },
+  {
+    "id": "GvR35DyaVT4",
+    "title": "Surviving change, Learning to Adapt \\u0026 Succeed in all Seasons | Evangelist Gabriel Fernandes",
+    "score": 50
+  },
+  {
+    "id": "PsZtZMWDRmw",
+    "title": "BIBLE STUDY",
+    "score": 50
+  },
+  {
+    "id": "o2oHrelxQqE",
+    "title": "Make the Change (Sermon) by Pastor and Evangelist Tyson Cobb",
+    "score": 50
+  },
+  {
+    "id": "7tDpAkkrkWc",
+    "title": "Types of Energy Transformation Explained *FUN* Science for Kids",
+    "score": 50
+  },
+  {
+    "id": "0RvRJv0niXI",
+    "title": "Grade 5 Science: Energy Transformations",
+    "score": 50
+  },
+  {
+    "id": "bVxDhXT0LcA",
+    "title": "Energy | Forms of Energy | Law of Conservation of Energy | Science Lesson for Kids",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "How to Use Search Filters",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Facets vs Filters | Grokking Search | Micro-Lesson",
+    "score": 50
+  },
+  {
+    "id": "Qn4N2RTkgKU",
+    "title": "Sam Sulek Acne TRANSFORMATION! Why bodybuilders get acne - steroids or protein???",
+    "score": 50
+  },
+  {
+    "id": "t9Cs6HXy1v8",
+    "title": "How Much Muscle Can You Build With \\u0026 Without Steroids?",
+    "score": 50
+  },
+  {
+    "id": "VD9p9tEP9RE",
+    "title": "How much muscle can you build naturally?",
+    "score": 50
+  },
+  {
+    "id": "MehI2POdRzk",
+    "title": "How to Prepare for the Foundation",
+    "score": 50
+  },
+  {
+    "id": "CL6DR-vWr7I",
+    "title": "Types of Foundations / Footings in Building Construction",
+    "score": 50
+  },
+  {
+    "id": "s6E2t_kW57M",
+    "title": "How To Build A Garage - Pour Footers And Foundation",
+    "score": 50
+  },
+  {
+    "id": "NdIx7Vm_3xs",
+    "title": "Building A DREAM HOME, Pouring Footings and Basement Walls.",
+    "score": 50
+  },
+  {
+    "id": "SGX0g-X2Trw",
+    "title": "Pouring Concrete Footings | Building The Nantahala Retreat #2",
+    "score": 50
+  },
+  {
+    "id": "2OYoDwNAA-Y",
+    "title": "Why Buildings need Foundation? Footing Construction",
+    "score": 50
+  },
+  {
+    "id": "WVKqG_10TXw",
+    "title": "Building a House | Foundation | Stage by stage #foundation",
+    "score": 50
+  },
+  {
+    "id": "MDav5OMpCto",
+    "title": "Learn Functions – Understand In 7 Minutes",
+    "score": 50
+  },
+  {
+    "id": "_jjo5d974W8",
+    "title": "Modern Greek: Lesson 2B - Χαίρετε - Greek Subtitles",
+    "score": 50
+  },
+  {
+    "id": "LnTFc1Ypjxs",
+    "title": "My 350lbs Body Transformation | Weightloss Documentary!",
+    "score": 50
+  },
+  {
+    "id": "HX5Kk3xNFMg",
+    "title": "Build Body at Home Fast (easy tips) | Full HOME WORKOUT PLAN for Beginners",
+    "score": 50
+  },
+  {
+    "id": "wbXxhuraJsE",
+    "title": "Inclusion Makes the World More Vibrant",
+    "score": 50
+  },
+  {
+    "id": "QXY5TyCUTlo",
+    "title": "How to Create An Inclusive Classroom",
+    "score": 50
+  },
+  {
+    "id": "ejsoFZWgGFg",
+    "title": "4 Ways to Make Classroom Participation More Inclusive",
+    "score": 50
+  },
+  {
+    "id": "HR4wz1b54hw",
+    "title": "MAKING INCLUSION REAL IN ONLINE LEARNING",
+    "score": 50
+  },
+  {
+    "id": "EMC-t_OZ6gQ",
+    "title": "🦋Meesha Makes Friends (Read Aloud books for children) Inclusion Learning",
+    "score": 50
+  },
+  {
+    "id": "BmpuDASfuuk",
+    "title": "How to Create an Inclusive Classroom - Diversity and Inclusion in Education",
+    "score": 50
+  },
+  {
+    "id": "jOEKaN_FZ5I",
+    "title": "Making Classrooms More Inclusive for Multilingual Learners",
+    "score": 50
+  },
+  {
+    "id": "8hPyY3OFyMg",
+    "title": "Building a Culture of Inclusion",
+    "score": 50
+  },
+  {
+    "id": "j768KbKIKlc",
+    "title": "Principles for How Do We Do Design and Assistive Technology",
+    "score": 50
+  },
+  {
+    "id": "NWdyEafdHP0",
+    "title": "Jim Rohn ~ How to Have the Best Year Ever! Full 4 hr video on  Personal Development Life Coaching",
+    "score": 50
+  },
+  {
+    "id": "VDNjpOB7Puw",
+    "title": "The Price of Average Why Most People Don't Make It | Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "eNs97nrBLec",
+    "title": "7 Habits That Can Make You the Most Productive Person on Earth | Jim Rohn",
+    "score": 50
+  },
+  {
+    "id": "gEm5S0WwzYc",
+    "title": "How to Force Yourself To Take Action | Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "Lxs4cBMY7DQ",
+    "title": "We're Restoring a Castle in Scotland: Our Dream Project Begins",
+    "score": 10
+  },
+  {
+    "id": "uVSFjRyQ0v4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QFqKMneLhBc",
+    "title": "Milling",
+    "score": 10
+  },
+  {
+    "id": "mqCP82rubho",
+    "title": "They Offered $500 for Scrap — She Proved the Buried Engine Still Had a Heart and Made It Roar Again",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "NCjf6og4qHk",
+    "title": "Corn flakes and magnet",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MmgRnR0hGN8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2xkODJbAY6Q",
+    "title": "NEW INVENTIONS OF 2025 YOU SHOULD SEE",
+    "score": 10
+  },
+  {
+    "id": "-eXDeMhSYlc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "How does an Electric Motor work?  (DC Motor)",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vRZu3-64yo0",
+    "title": "Clutch, How does it work?",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NZLbTuBDhJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gqK3dCpwzxE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "How Do Car Engines Work? A Close Look at The Intricate Details of an Engine",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "How a Steam Engine works",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "2+ Hours Of Engineering Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "rhgDGjSN13g",
+    "title": "The Path to Infinite Power: Unlocking Tomorrow’s Energy Sources | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "RU5WQ7MuBwg",
+    "title": "rivet the wings onto the fuselage",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eHJnEHyyN1Y",
+    "title": "Digital transformation: Are you ready for exponential change? Futurist Keynote Speaker Gerd Leonhard",
+    "score": 10
+  },
+  {
+    "id": "C94wFnoMLXI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "n_Z1mMp-4rc",
+    "title": "3 Levels of Transformation - How God Changes You From Within",
+    "score": 10
+  },
+  {
+    "id": "lcZTcfdZ3Ow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FxBCf8uyZBs",
+    "title": "Universe Size 3D comparison | Solar System | Part 1",
+    "score": 10
+  },
+  {
+    "id": "-HXwFC2eBac",
+    "title": "How big is the Solar System?",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "F2prtmPEjOc",
+    "title": "I am Mercury.",
+    "score": 10
+  },
+  {
+    "id": "St48epdRDZw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fWedX4IxzN8",
+    "title": "Introduction to 𝐏𝐲𝐭𝐡𝐨𝐧 𝐅𝐮𝐥𝐥 𝐂𝐨𝐮𝐫𝐬𝐞",
+    "score": 10
+  },
+  {
+    "id": "Zsa26236rio",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8VrgeLeruFo",
+    "title": "Survival Skills: Kindling for Hiking and Wilderness Survival 🌳 #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "21 Genius Outdoor Survival Hacks You Wish You Knew Sooner! #camping #survival",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "75 days of using survival skills, trapping wild boars, wild chickens, wild fish, survival alone",
+    "score": 10
+  },
+  {
+    "id": "7J4o3A6eY3M",
+    "title": "You Must Listen To This Arcturian Message ALONE (URGENT!)",
+    "score": 10
+  },
+  {
+    "id": "uV5GfCJdp28",
+    "title": "Two Keys to Supernatural Change and Transformation - Sunday Service",
+    "score": 10
+  },
+  {
+    "id": "vD-dEl7R2Bg",
+    "title": "My 120 Day Body Transformation",
+    "score": 10
+  },
+  {
+    "id": "WSs6AhjmKy4",
+    "title": "Samdeok Paper to be revised [Issue Imdang]",
+    "score": 10
+  },
+  {
+    "id": "oFdOb9qpw1g",
+    "title": "Werehorse transformation",
+    "score": 10
+  },
+  {
+    "id": "XX64xPlmBcU",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "ESX138Efwdk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "kHvMsm8upzY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "_Eey0dG1B2Y",
+    "title": "TG TF Transformation | I Woke Up in a Girl’s Body | Boy to Girl | Body change | gender bender",
+    "score": 10
+  },
+  {
+    "id": "LMSw48D7eKM",
+    "title": "Become The Person Who Attracts SUCCESS - Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "jOJpvVJP3ow",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "EvIjoizFbHQ",
+    "title": "Homeless Man BECAME A MODEL/ INSANE Transformation",
+    "score": 10
+  },
+  {
+    "id": "d0RiCvjtfUs",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "31BsnbECTjo",
+    "title": "The Key to True Transformation | Francis Chan",
+    "score": 10
+  },
+  {
+    "id": "jqoqTuYMtYE",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "FeUIpdVbhEI",
+    "title": "Watch this if you are ALONE",
+    "score": 10
+  },
+  {
+    "id": "Of5hKqpKMLc",
+    "title": "scary videos you should NOT watch alone",
+    "score": 10
+  },
+  {
+    "id": "Odtzo3FQ70M",
+    "title": "When You Watch Scary Movies Alone.",
+    "score": 10
+  },
+  {
+    "id": "B_UWRM-xEGY",
+    "title": "50 Scary Videos You Shouldn’t Watch Alone",
+    "score": 10
+  },
+  {
+    "id": "QlDUzSUF6r0",
+    "title": "Scary Videos You Should NOT Watch Alone! | SSSniperWolf",
+    "score": 10
+  },
+  {
+    "id": "2bVFNjHMxS0",
+    "title": "scary videos you should NOT watch alone",
+    "score": 10
+  },
+  {
+    "id": "ZHuH_Jo9f2U",
+    "title": "20 SCARIEST Videos of 2025!",
+    "score": 10
+  },
+  {
+    "id": "YzR-IO--Tao",
+    "title": "13 Scary Videos Too Creepy To Ignore",
+    "score": 10
+  },
+  {
+    "id": "oStlvLBdrzo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8FlZra3oRi4",
+    "title": "creepiest backroom levels",
+    "score": 10
+  },
+  {
+    "id": "wWxmDo8zUYY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SMuKxsSqj1c",
+    "title": "Kids Who Got Grounded Forever",
+    "score": 10
+  },
+  {
+    "id": "VAZsdWKYhoE",
+    "title": "Creepy Text Story DONT Watch At Night",
+    "score": 10
+  },
+  {
+    "id": "PfCbvvab328",
+    "title": "Craziest Nail Art On Another Level",
+    "score": 10
+  },
+  {
+    "id": "irXneYZ5Ml8",
+    "title": "10 People vs FAST Fredbear Was a MISTAKE 😭",
+    "score": 10
+  },
+  {
+    "id": "K7nrn4vy7-Q",
+    "title": "Memes you should watch alone",
+    "score": 10
+  },
+  {
+    "id": "-Ngl-z9iZ58",
+    "title": "10 SCARY Videos To Give You NIGHTMARES ! *DON'T watch ALONE!",
+    "score": 10
+  },
+  {
+    "id": "JAlJL2XgxCg",
+    "title": "Dog Cartoon: Relaxing Dog TV to Keep Your Dog Entertained Home Alone 🐶 Anti-Anxiety Music for Dogs",
+    "score": 10
+  },
+  {
+    "id": "Ix1gNzLRbkk",
+    "title": "9 Scary Videos You DON'T Watch Alone",
+    "score": 10
+  },
+  {
+    "id": "NZ86S7G5x0A",
+    "title": "video 1",
+    "score": 10
+  },
+  {
+    "id": "R6kbAgprhrE",
+    "title": "10 SCARY Videos! *DON'T watch ALONE!",
+    "score": 10
+  },
+  {
+    "id": "IMv48gGxk60",
+    "title": "Top 10 Movies You Should Watch Alone (Trust Me)",
+    "score": 10
+  },
+  {
+    "id": "tuOzWf4J8dI",
+    "title": "First Time Watching HOME ALONE (1990)",
+    "score": 10
+  },
+  {
+    "id": "T6mQ74V7mvQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1nP5oedmzkM",
+    "title": "Self-Transformation Through Mindfulness | Dr. David Vago | TEDxNashville",
+    "score": 10
+  },
+  {
+    "id": "MQgC2nI6Wu4",
+    "title": "Self-Actualization",
+    "score": 10
+  },
+  {
+    "id": "wVWAUpfezIA",
+    "title": "The Psychology of Self-Transformation",
+    "score": 10
+  },
+  {
+    "id": "W1CqXLuMsYc",
+    "title": "The Psychology of Self Transformation",
+    "score": 10
+  },
+  {
+    "id": "DI2JDG07brQ",
+    "title": "The key to transforming yourself -- Robert Greene at TEDxBrixton",
+    "score": 10
+  },
+  {
+    "id": "gLt_yDvdeLQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Cp6Kd-JAMRo",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "d7sUWwHugg8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7fJGQzA1yb0",
+    "title": "Liminality",
+    "score": 10
+  },
+  {
+    "id": "U0BmtjNgOak",
+    "title": "Johann Wolfgang von Goethe",
+    "score": 10
+  },
+  {
+    "id": "K1rs2YR9NHQ",
+    "title": "IT'S TIME TO DISAPPEAR \\u0026 Change Your Life - Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "5nGM0yisShw",
+    "title": "What No One Is Telling You About Self-Transformation",
+    "score": 10
+  },
+  {
+    "id": "ExNtzEBPQLc",
+    "title": "The Moment Everything Shifts",
+    "score": 10
+  },
+  {
+    "id": "FCIjIagXiaI",
+    "title": "The Psychology Of Self Transformation",
+    "score": 10
+  },
+  {
+    "id": "r05CG_6YiGQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NYlXVz5TRec",
+    "title": "Ella Langley - people change (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "7iSf8wxEttk",
+    "title": "Mipso - People Change (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "zG4SGUTSJ94",
+    "title": "Mipso - \\\"People Change (D.C. Sessions)\\\"",
+    "score": 10
+  },
+  {
+    "id": "1EpkUwyprmA",
+    "title": "Everyday People feat. Jack Johnson, Jason Mraz, Keb' Mo' | Turnaround Arts | Playing For Change",
+    "score": 10
+  },
+  {
+    "id": "-g4UWvcZn5U",
+    "title": "Mr. Nobody Tz - People Change ( Official Music Audio )",
+    "score": 10
+  },
+  {
+    "id": "rU-cCv1rojc",
+    "title": "Tielo Lanez - People Change (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "RSNmgE6L8AU",
+    "title": "People Change",
+    "score": 10
+  },
+  {
+    "id": "OJAYaE9yFqU",
+    "title": "People Change (ft. Ivri)",
+    "score": 10
+  },
+  {
+    "id": "mg48S_gbS34",
+    "title": "Stand By Me | Playing For Change | Song Around The World",
+    "score": 10
+  },
+  {
+    "id": "Us-TVg40ExM",
+    "title": "People Change",
+    "score": 10
+  },
+  {
+    "id": "BTH_X8OXki8",
+    "title": "Hoang \\u0026 RUNN - People Change",
+    "score": 10
+  },
+  {
+    "id": "fkNjMuvtpLU",
+    "title": "People Change",
+    "score": 10
+  },
+  {
+    "id": "ql1Blpbq_20",
+    "title": "People Change",
+    "score": 10
+  },
+  {
+    "id": "ZU-xNHDrgeY",
+    "title": "machineheart - People Change (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "2BXxRSliYn8",
+    "title": "Jacki-O - People Change (Miami, Fl. 2004)",
+    "score": 10
+  },
+  {
+    "id": "zWP0GY0ale0",
+    "title": "people change  jackie o",
+    "score": 10
+  },
+  {
+    "id": "bMP9RkGe0IQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2CyXoHrSpy8",
+    "title": "Evangelist Janice Jones 'Change\\\"",
+    "score": 10
+  },
+  {
+    "id": "mDGPaVAKVOQ",
+    "title": "Evangelist Iona Locke 'The Master Of Change 1992 (FULL SERMON) night 3 of 3 day revival",
+    "score": 10
+  },
+  {
+    "id": "HZ5uNefJm9E",
+    "title": "Evangelist George McGregor ~ Change",
+    "score": 10
+  },
+  {
+    "id": "-dqF5u5FF5M",
+    "title": "They Are Not Ready To Change! -Evangelist Willie B. Williams III (Church of Christ)",
+    "score": 10
+  },
+  {
+    "id": "jkW0r_diDy8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VqrzyBOMVAA",
+    "title": "10 MINUTES TO CHANGE YOUR PERSPECTIVE FOREVER! (Homeless Preacher)",
+    "score": 10
+  },
+  {
+    "id": "eddGJO_7swQ",
+    "title": "PRAYER TO RECOVER EXCHANGED DESTINY - Evangelist Joshua Orekhie",
+    "score": 10
+  },
+  {
+    "id": "qqbjZmtho1c",
+    "title": "\\\"Hearing God Over Your Thoughts\\\" | Pastor Bobby Chandler",
+    "score": 10
+  },
+  {
+    "id": "7R1EERG_YK4",
+    "title": "God Knows What You Need",
+    "score": 10
+  },
+  {
+    "id": "AJ6i7aNayyE",
+    "title": "Change Your Mind! ~ Evangelist Ralph Blanco | Revival Service #2",
+    "score": 10
+  },
+  {
+    "id": "SJDyclxnG98",
+    "title": "Difference between Change and Transformation - Dr Joshua Kolawole - Transforming Mind Evangelist",
+    "score": 10
+  },
+  {
+    "id": "wnVRnh4Rh70",
+    "title": "Evangelist Sonny Okosun - A Great Change",
+    "score": 10
+  },
+  {
+    "id": "9W6uIEJvxmA",
+    "title": "GOD DID NOT CHANGE, WE CHANGED || EVANGELIST PETER IKECHUKWU #short #shortfeed #viralshort",
+    "score": 10
+  },
+  {
+    "id": "tQFnRdDt2EM",
+    "title": "Top Signs Your Destiny Has Been Swapped #evangelistjoshuatv",
+    "score": 10
+  },
+  {
+    "id": "gkgWxeZ2_nY",
+    "title": "Taking Control of Our Thoughts– Dr. Charles Stanley",
+    "score": 10
+  },
+  {
+    "id": "9bLgDoFkdqo",
+    "title": "How Do We Control Our Thoughts Which Determines Our Life",
+    "score": 10
+  },
+  {
+    "id": "Z_Cv9KGhwlk",
+    "title": "She ACCUSED the Street Preacher of WHAT?!",
+    "score": 10
+  },
+  {
+    "id": "lVug_7UEoLk",
+    "title": "Gang Member Gives His Life to Jesus (Testimony)",
+    "score": 10
+  },
+  {
+    "id": "NP8ixeAN7XQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zHPaFDRZMUo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PKm4ZVNmJyQ",
+    "title": "Horizontal Gene Transfer (Transformation, Conjugation, Transduction)",
+    "score": 10
+  },
+  {
+    "id": "5UL_FX5wCH4",
+    "title": "ENERGY TRANSFORMATIONS",
+    "score": 10
+  },
+  {
+    "id": "-8atIc3XixY",
+    "title": "Sci6 Q3 - Energy Transformation",
+    "score": 10
+  },
+  {
+    "id": "z8a-L1lkq3w",
+    "title": "Energy Transformations",
+    "score": 10
+  },
+  {
+    "id": "O4Rxb-3jIqQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Q0LBegPWzrg",
+    "title": "Potential Energy",
+    "score": 10
+  },
+  {
+    "id": "yliUi111lEA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PWNs7i4rEWA",
+    "title": "Energy Transformations 101",
+    "score": 10
+  },
+  {
+    "id": "v-DX2_drqow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VhIBReUVSk8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rh_gjKKCEzM",
+    "title": "TYPES OF ENERGY | Physics Animation",
+    "score": 10
+  },
+  {
+    "id": "jhKejoBqiYc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PkFoQ_L8llc",
+    "title": "ENERGY TRANSFORMATION",
+    "score": 10
+  },
+  {
+    "id": "6KUP__MR4u8",
+    "title": "What is Energy?",
+    "score": 10
+  },
+  {
+    "id": "4To7C151iS8",
+    "title": "What Are Sources of Energy? | Energy Explained | The Dr Binocs Show | Peekaboo Kidz",
+    "score": 10
+  },
+  {
+    "id": "ViXtT8c4z-c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FP2Wadht4Os",
+    "title": "Forms of Energy",
+    "score": 10
+  },
+  {
+    "id": "bP_vAXo-bhc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "A9-WnnUi6ro",
+    "title": "Wokeism Transformations ✨",
+    "score": 10
+  },
+  {
+    "id": "B5zS2pnPbOQ",
+    "title": "Tragic Leftist Transformations",
+    "score": 10
+  },
+  {
+    "id": "CkwpzH6k9_g",
+    "title": "Why the “Woke Right” is a thing",
+    "score": 10
+  },
+  {
+    "id": "uAFzez4w9mY",
+    "title": "Before \\u0026 After Going #Woke Compilation! Parents Destroyed!",
+    "score": 10
+  },
+  {
+    "id": "CnlsVoBtxZs",
+    "title": "Before and After Wokeness | WOKE CRINGE #1",
+    "score": 10
+  },
+  {
+    "id": "3v8Lin3jgY0",
+    "title": "Why Young Women Are More Woke",
+    "score": 10
+  },
+  {
+    "id": "90PXJQ6tcRA",
+    "title": "😱 SHE WOKE UP YOUNG AGAIN! | The Mind-Blowing Transformation Scene#movie #film",
+    "score": 10
+  },
+  {
+    "id": "Qs3GKTloWiA",
+    "title": "The U S  Military's 'Woke' Transformation",
+    "score": 10
+  },
+  {
+    "id": "js_VdsJZ_MA",
+    "title": "Allie Beth Stuckey on the woke transformation at Fox News",
+    "score": 10
+  },
+  {
+    "id": "g2jjo4u_Rg0",
+    "title": "Thomas Sowell - The Origins of Woke",
+    "score": 10
+  },
+  {
+    "id": "CxEeYSusehc",
+    "title": "Why Woke Media is Dying",
+    "score": 10
+  },
+  {
+    "id": "OlZACm4bN6Q",
+    "title": "Everything wrong with Woke Feminism!",
+    "score": 10
+  },
+  {
+    "id": "Nqmd4iU8J3k",
+    "title": "The Myth of the Woke Right",
+    "score": 10
+  },
+  {
+    "id": "AOesmBsJAvU",
+    "title": "Rob Schneider on how he accidentally insulted Donald Trump | Fox Nation",
+    "score": 10
+  },
+  {
+    "id": "IFNlt2tITJE",
+    "title": "BREAKING: Alex Pretti EXPOSED As Agitator, Minnesota ICE Updates + MORE",
+    "score": 10
+  },
+  {
+    "id": "6bq0bBItf3g",
+    "title": "Candace Owens Episode 296 Watch Party",
+    "score": 10
+  },
+  {
+    "id": "Cxiz8Whdhx4",
+    "title": "Portland Riots: Tommy Goes To City Hall Protest In Portland, Oregon",
+    "score": 10
+  },
+  {
+    "id": "OQgNUCJLiVc",
+    "title": "He Woke Up as a Beautiful Woman… and Found the Life He Always Wanted (MTF Body Swap Story)",
+    "score": 10
+  },
+  {
+    "id": "1x1DrI1CO3c",
+    "title": "Woke Transformation",
+    "score": 10
+  },
+  {
+    "id": "mP-tE1hmAjk",
+    "title": "I Woke Up as Her (Made with AI)",
+    "score": 10
+  },
+  {
+    "id": "IwSsp8h_Np8",
+    "title": "Post-Woke: Where Does the Left Go from Here?",
+    "score": 10
+  },
+  {
+    "id": "J3nZoZCvwJY",
+    "title": "Cracker Barrel's 'woke' Transformation: Ideas Have Consequences #WEF #dei #crackerbarrel #ceo",
+    "score": 10
+  },
+  {
+    "id": "8g9dlix4gxg",
+    "title": "I Woke Up as a Girl—tg tf transformation | MTF body swap | Male to female | FTM transform",
+    "score": 10
+  },
+  {
+    "id": "71hNXiU2P3g",
+    "title": "Rob Schneider Schools WOKE Student",
+    "score": 10
+  },
+  {
+    "id": "d2yCDtF2l6M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "7Ul9RVYG5CM",
+    "title": "The Mechanism of Transformation with Competent Cells",
+    "score": 10
+  },
+  {
+    "id": "08Q-MVeNeTU",
+    "title": "Transformation, Transduction and Conjugation (Horizontal Gene Transfer in Bacteria)",
+    "score": 10
+  },
+  {
+    "id": "7tLV20dk-FM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oG0opzuFW4Y",
+    "title": "Transformation, Conjugation, Transposition and Transduction",
+    "score": 10
+  },
+  {
+    "id": "n7Z5-mRB_gI",
+    "title": "Transposition",
+    "score": 10
+  },
+  {
+    "id": "4Eb-QtmFVMU",
+    "title": "Conditional Stimulus",
+    "score": 10
+  },
+  {
+    "id": "8HDwayuWH0E",
+    "title": "Bacterial Transformation Simply Explained",
+    "score": 10
+  },
+  {
+    "id": "DYtoenNWcyI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iJGY1boNOdg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DyOHC3-YJTk",
+    "title": "Agrobacterium: A Plant Gene Transfer Vector",
+    "score": 10
+  },
+  {
+    "id": "yesNHd9h8k0",
+    "title": "17-) Transformation-bacterial gene transfer",
+    "score": 10
+  },
+  {
+    "id": "FWyWbkogzB4",
+    "title": "Transformation Vs Transfection",
+    "score": 10
+  },
+  {
+    "id": "tdy-FCd_4XA",
+    "title": "TGTF Comet |  tg tf transformation | MTF body swap | Male to female | FTM transformation",
+    "score": 10
+  },
+  {
+    "id": "rps6OQBo7tk",
+    "title": "LightForce Braces Transformation",
+    "score": 10
+  },
+  {
+    "id": "rkua5WG5X6Q",
+    "title": "Bacterial Transformation - Horizontal Gene Transfer Part – II",
+    "score": 10
+  },
+  {
+    "id": "IsGiUAX3V1U",
+    "title": "Transformers Age of Extinction (2014) - Optimus Prime Old to New Transformation (1080p) FULL HD",
+    "score": 10
+  },
+  {
+    "id": "ZtL74PLWbPg",
+    "title": "Major Male Facelift Transformation! Watch until the end 😱😍",
+    "score": 10
+  },
+  {
+    "id": "dTu0cXFqlcA",
+    "title": "2 Month BULK to LEAN Transformation #gymtransformation #bodytransformation #gymmotivation",
+    "score": 10
+  },
+  {
+    "id": "2Cdr0kpP1JQ",
+    "title": "Amazing Weight Loss Transformation #transformation #weightloss",
+    "score": 10
+  },
+  {
+    "id": "R_cvPgoWPC4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9gL0F1xIt2I",
+    "title": "Kanye West \\u0026 Sunday Service Collective @ Théâtre des Bouffes du Nord, Paris, France (03/01/2020)",
+    "score": 10
+  },
+  {
+    "id": "Zzslc8991fo",
+    "title": "Sunday Service Choir - More Than Anything (Audio)",
+    "score": 10
+  },
+  {
+    "id": "jpSkWEDkItY",
+    "title": "Sunday Service Choir - Rain (Audio)",
+    "score": 10
+  },
+  {
+    "id": "OhBcFDu78dU",
+    "title": "Sunday Service Miami full",
+    "score": 10
+  },
+  {
+    "id": "yLRznLkqkrw",
+    "title": "Latto - Sunday Service (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "n2IYAyOTVIk",
+    "title": "Faith Currency of the Kingdom | Dr. Randy Clark | Sunday Night Service | January 25th",
+    "score": 10
+  },
+  {
+    "id": "SahsnZRKUHI",
+    "title": "INTERNATIONAL SUNDAY SERVICE WITH EMMANUEL MAKANDIWA 25/01/2026",
+    "score": 10
+  },
+  {
+    "id": "cHbqd05YQ2k",
+    "title": "Kanye West — Jesus is King: Sunday Service Experience at VOUS Church",
+    "score": 10
+  },
+  {
+    "id": "-MHGwuO6NKc",
+    "title": "Intro Jesus Is King",
+    "score": 10
+  },
+  {
+    "id": "zXwHM96rbyM",
+    "title": "“Jesus Is King” A Sunday Service Experience at Lakewood Church with Kanye West",
+    "score": 10
+  },
+  {
+    "id": "WVBys_YMoK8",
+    "title": "Kanye West - Sunday Service - 11/1/2019",
+    "score": 10
+  },
+  {
+    "id": "dlaqx2qrwCs",
+    "title": "Priscilla Shirer's Most POWERFUL Sermon About Prayer and the Armor of God | TBN",
+    "score": 10
+  },
+  {
+    "id": "emqXr6IQ7Z4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iIg8rBaGRwA",
+    "title": "So Will I (100 Billion X) // Do It Again - Cross Worship ft. Osby Berry",
+    "score": 10
+  },
+  {
+    "id": "QdIOaAvvOp8",
+    "title": "“Easy On Me” (Full Version)  Sunday Service Collective Yemix",
+    "score": 10
+  },
+  {
+    "id": "evx-u_rpX70",
+    "title": "Kanye West \\u0026 Sunday Service Collective @ City of Refuge (12/15/19)",
+    "score": 10
+  },
+  {
+    "id": "ulq14QrjBn0",
+    "title": "Kanye-West-Sunday-Service",
+    "score": 10
+  },
+  {
+    "id": "SSsx6WqRrB8",
+    "title": "ENTRY \\u0026 END TIMES | Don't Waste Your Talents | Matthew 25:14-30 | Philip Anthony Mitchell",
+    "score": 10
+  },
+  {
+    "id": "hTqF-FZ-GWY",
+    "title": "Sunday Service Choir - Revelations 19:1 (Audio)",
+    "score": 10
+  },
+  {
+    "id": "GM0KKjXB1Bc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZFUOC-y4i0s",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "SEYJ5UlK3E4",
+    "title": "Search \\u0026 Filter Pro WordPress Plugin - Better than SearchWP \\u0026 FacetWP?",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-BO4g2g2_hg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KeH_l7Vq0WE",
+    "title": "Fionna \\u0026 Cake S2 E9 Lore Breakdown \\\"The Worm And His Orchard\\\"",
+    "score": 10
+  },
+  {
+    "id": "rMbQaBo3ekI",
+    "title": "Adventure Time Fionna and Cake Season 2 New Fern and New Worm Friend",
+    "score": 10
+  },
+  {
+    "id": "fnd7KDrGUjY",
+    "title": "Adventure Time Fionna and Cake Season 2 Fionna and Finn having a heart to heart",
+    "score": 10
+  },
+  {
+    "id": "eHU_tG2NJoM",
+    "title": "Adventure Time Fionna and Cake Season 2 Mind Trip Exit",
+    "score": 10
+  },
+  {
+    "id": "SQI5KEnUjI4",
+    "title": "The Lore That Changes Everything (Fionna and Cake S2 E9 Breakdown)",
+    "score": 10
+  },
+  {
+    "id": "E406OmO4X_c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kMRqngW_tgY",
+    "title": "Cake \\u0026 Karmic Worm Sing \\\"Transformation\\\" | Adventure Time: Fionna \\u0026 Cake | HBO Max",
+    "score": 10
+  },
+  {
+    "id": "meHzYQH3VAE",
+    "title": "Every Middle Finger In Adventure Time + Fionna And Cake",
+    "score": 10
+  },
+  {
+    "id": "twfmej9vjSA",
+    "title": "Cake Was So Real For This...",
+    "score": 10
+  },
+  {
+    "id": "EKu7UZO-n7g",
+    "title": "Huntress Wizard Gets Adopted | Adventure Time: Fionna and Cake Season 2",
+    "score": 10
+  },
+  {
+    "id": "Ehwks-9QzVM",
+    "title": "Adventure Time Fionna and Cake Season 2 Life of the Multiverse",
+    "score": 10
+  },
+  {
+    "id": "XQ9YhWQmatg",
+    "title": "Huntress saves finn - Adventure Time: Fionna \\u0026 Cake season 2",
+    "score": 10
+  },
+  {
+    "id": "mRMs3LJKN0E",
+    "title": "Adorable Finn x Huntress Wizard Moments (Adventure Time + Fionna And Cake)",
+    "score": 10
+  },
+  {
+    "id": "D4iY5OqpurU",
+    "title": "THE LICH: ALL SCENES || Adventure Time + Fionna \\u0026 Cake Spoilers",
+    "score": 10
+  },
+  {
+    "id": "XOvWY1jxS-c",
+    "title": "Adventure time but it’s just sus for 4 minutes",
+    "score": 10
+  },
+  {
+    "id": "VmBFxFvdRzQ",
+    "title": "Betty Protects Simon from Scarab | Fionna and Cake",
+    "score": 10
+  },
+  {
+    "id": "sO2nec22s4c",
+    "title": "Adventure Time With Fiona \\u0026 Cake | Adventure Time | Cartoon Network",
+    "score": 10
+  },
+  {
+    "id": "tm7XJv5jhxI",
+    "title": "Fionna And Cake: Best Moments",
+    "score": 10
+  },
+  {
+    "id": "Qcu6rBQHi40",
+    "title": "Oh... They Were EVIL For This!!!",
+    "score": 10
+  },
+  {
+    "id": "mO9szKzIMJI",
+    "title": "This Fionna And Cake Deleted Scene Is SO Cute!!!",
+    "score": 10
+  },
+  {
+    "id": "-1s0kXy3EiM",
+    "title": "Lord Monochromicorn",
+    "score": 10
+  },
+  {
+    "id": "URnmlh0LiWU",
+    "title": "I Was NOT Ready For This Fionna And Cake Cameo...",
+    "score": 10
+  },
+  {
+    "id": "3Zyxk0ZkPCA",
+    "title": "That's not what you told to me last night | Fionna and Cake Season 2 Clip",
+    "score": 10
+  },
+  {
+    "id": "GIlIGIZmCYA",
+    "title": "Fionna and Cake: Cosmic owl is back.",
+    "score": 10
+  },
+  {
+    "id": "LmZryekYziE",
+    "title": "Candy Queen's song - Fionna and Cake Ep.6 The Winter King",
+    "score": 10
+  },
+  {
+    "id": "3o1c0YL2kQ0",
+    "title": "Fionna And Cake Gets Very... Disturbing",
+    "score": 10
+  },
+  {
+    "id": "fxe8rYsrUtE",
+    "title": "Jake's Death - Fionna And Cake S2",
+    "score": 10
+  },
+  {
+    "id": "NhhIaSA43fw",
+    "title": "Fionna and Cake: Huntress killed Cosmic Owl.",
+    "score": 10
+  },
+  {
+    "id": "A24jswS_690",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JrWJnwCMlP0",
+    "title": "What Is a Function? | Precalculus",
+    "score": 10
+  },
+  {
+    "id": "7JZ0IfCQ488",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FkUEsP9efFg",
+    "title": "What a Function Is",
+    "score": 10
+  },
+  {
+    "id": "lGfsp2CWjok",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "C0Q_m2UDerc",
+    "title": "What a One-to-One Function Is",
+    "score": 10
+  },
+  {
+    "id": "kw_Q7ZEIJm4",
+    "title": "Interval Notation",
+    "score": 10
+  },
+  {
+    "id": "kvU9sOzT2mk",
+    "title": "The Vertical Line Test",
+    "score": 10
+  },
+  {
+    "id": "eI4an8aSsgw",
+    "title": "Functions",
+    "score": 10
+  },
+  {
+    "id": "oZKNi-OCxjU",
+    "title": "Definitions",
+    "score": 10
+  },
+  {
+    "id": "1xATmTI-YY8",
+    "title": "Calculate the value of f(2) using the function shown below",
+    "score": 10
+  },
+  {
+    "id": "r4KDP-asaTA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "OYOXMyFKotc",
+    "title": "Operations of Functions (Precalculus - College Algebra 5)",
+    "score": 10
+  },
+  {
+    "id": "7N_-G4usp6Q",
+    "title": "The Domain",
+    "score": 10
+  },
+  {
+    "id": "EsgHKmLSPVc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5yfh5cf4-0w",
+    "title": "What is a derivative",
+    "score": 10
+  },
+  {
+    "id": "joewRl1CTL8",
+    "title": "setting the denominator equal to 0",
+    "score": 10
+  },
+  {
+    "id": "p1sGAHulT8w",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KHZKgl_9o7M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-Ubyt7iWJ8Q",
+    "title": "What's The Difference",
+    "score": 10
+  },
+  {
+    "id": "XbOx8TyvUmI",
+    "title": "Marijuana THC vs CBD, CBG, CBN: What’s the difference? What are health benefits of each?",
+    "score": 10
+  },
+  {
+    "id": "3TrPmhFEr_U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mFEyGiizEbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Y_BfblBkdCY",
+    "title": "Time Domain vs. Frequency Domain, What’s the Difference? – What the RF (S01E02)",
+    "score": 10
+  },
+  {
+    "id": "I2T3OYNqhyA",
+    "title": "The Oscilloscope and Signal Analyzer",
+    "score": 10
+  },
+  {
+    "id": "kPs-w_FNhF8",
+    "title": "What a Difference 🤣",
+    "score": 10
+  },
+  {
+    "id": "oH7JHuEPqV4",
+    "title": "Find 3 differences!",
+    "score": 10
+  },
+  {
+    "id": "XiWZCnX1qGE",
+    "title": "The Big Difference Between What Kyle RittenHERO and Alex Pretti Did",
+    "score": 10
+  },
+  {
+    "id": "0ANRBldFdy4",
+    "title": "Macron \\u0026 Brigitte's age difference: what's behind media's obsession?",
+    "score": 10
+  },
+  {
+    "id": "IoQdwj3FriM",
+    "title": "The Ultimate Spot The Difference w/ Blaze! 30 Minutes | Blaze and the Monster Machines",
+    "score": 10
+  },
+  {
+    "id": "yfklQl70zAM",
+    "title": "The Difference Between Weakness And Strength. Biden Vs. Trump",
+    "score": 10
+  },
+  {
+    "id": "KotIMkhCpe4",
+    "title": "The difference between Too, So, and Very (Speak Fluent English)",
+    "score": 10
+  },
+  {
+    "id": "mgOxh5Zbj_Y",
+    "title": "The Difference Between Jail And Prison 😧",
+    "score": 10
+  },
+  {
+    "id": "2Q0GOVZsayc",
+    "title": "What’s the difference of two squares?",
+    "score": 10
+  },
+  {
+    "id": "n1ULL27cxHk",
+    "title": "What is the DIFFERENCE between your SOUL and SPIRIT?",
+    "score": 10
+  },
+  {
+    "id": "60bb3n8YV44",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Oy2VF8Qk584",
+    "title": "Lift Master vs Chamberlain what’s the difference? What garage opener brand to get.",
+    "score": 10
+  },
+  {
+    "id": "fAGidf6opZ0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "A4LP54sXo_E",
+    "title": "Steroid Tier List: Doctor Explains Best \\u0026 Worst Compounds",
+    "score": 10
+  },
+  {
+    "id": "4SHX87FqCgc",
+    "title": "Juiced Up - The Consequences of Steroids: SWOLE Ep. 3",
+    "score": 10
+  },
+  {
+    "id": "qELlhoe9Nb8",
+    "title": "What Happens to Your Body on Steroids?",
+    "score": 10
+  },
+  {
+    "id": "vjKlCPYqB7w",
+    "title": "Not all Steroids Are the Same",
+    "score": 10
+  },
+  {
+    "id": "UL3ccUkcBW8",
+    "title": "What Happens When You Quit Steroids?",
+    "score": 10
+  },
+  {
+    "id": "HYyLEgx2X94",
+    "title": "One cycle won’t hurt 😈💉",
+    "score": 10
+  },
+  {
+    "id": "sxdnTMuvmuA",
+    "title": "13 Years Old?! Steroids Transformed Him",
+    "score": 10
+  },
+  {
+    "id": "wSpFAJbzHW0",
+    "title": "Muscular Physiques BEFORE Steroids Existed (PICS)",
+    "score": 10
+  },
+  {
+    "id": "9-GNGg7tqUk",
+    "title": "Why Would You Do This? Awful Steroid Transformation",
+    "score": 10
+  },
+  {
+    "id": "YTZ_YFl8PlE",
+    "title": "‼️THIS IS NOT A NATURAL TRANSFORMATION 💉💊‼️",
+    "score": 10
+  },
+  {
+    "id": "I1nvQYA8ybM",
+    "title": "What’s my steroid cycle?🤔💉",
+    "score": 10
+  },
+  {
+    "id": "hbtiCrJyVpQ",
+    "title": "The Truth About Life After Steroids  | 6 Month Transformation (Did I Lose My Gains?)",
+    "score": 10
+  },
+  {
+    "id": "GdMxERz40DQ",
+    "title": "Intro.",
+    "score": 10
+  },
+  {
+    "id": "TTyu_09_Fug",
+    "title": "I Took Natural Steroids for 90 Days and This Happened…",
+    "score": 10
+  },
+  {
+    "id": "2Jz-UG16J7Q",
+    "title": "DAY 15",
+    "score": 10
+  },
+  {
+    "id": "T4wuv0z6tfQ",
+    "title": "The Types of Footings and Foundations Explained Insights of a Structural Engineer",
+    "score": 10
+  },
+  {
+    "id": "4YGfI0Pdpng",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dgzAHYlRCrc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2PO1-VInYkA",
+    "title": "intro video",
+    "score": 10
+  },
+  {
+    "id": "C1D4niMhr1A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "q3eqVL-O3DQ",
+    "title": "SITE PREP",
+    "score": 10
+  },
+  {
+    "id": "EPWne9ZS6DI",
+    "title": "reinforce the concrete footings",
+    "score": 10
+  },
+  {
+    "id": "kgOEeSBiefU",
+    "title": "start excavating",
+    "score": 10
+  },
+  {
+    "id": "AsNxJyr5Pg8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YYDNaFrLnvg",
+    "title": "Pier \\u0026 Beam Foundation",
+    "score": 10
+  },
+  {
+    "id": "oaktDas3dHg",
+    "title": "Most Common Foundation Types",
+    "score": 10
+  },
+  {
+    "id": "q4nGeEOXm8k",
+    "title": "Slab on Grade Foundation",
+    "score": 10
+  },
+  {
+    "id": "AKu_DpPDATM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vqmb7RAuh4A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zj6rMcVNQbw",
+    "title": "Alan Jackson - Where Were You (When the World Stopped Turning) (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "mwcWVs4Eejg",
+    "title": "When We Were Young",
+    "score": 10
+  },
+  {
+    "id": "ff0oWESdmH0",
+    "title": "The Killers - When You Were Young (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "qMsBnGopqkA",
+    "title": "Times Were When",
+    "score": 10
+  },
+  {
+    "id": "DDWKuo3gXMQ",
+    "title": "What You Are Is Where You Were When... AGAIN! With Morris Massey - Training Video",
+    "score": 10
+  },
+  {
+    "id": "l6rPiehHQu8",
+    "title": "When We Were Young - Adele (Lyrics) 🎵",
+    "score": 10
+  },
+  {
+    "id": "-UFpoMLOZZw",
+    "title": "Adele - When We Were Young (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "c7nsu10pbpk",
+    "title": "The Cats - Where Have I Been Wrong",
+    "score": 10
+  },
+  {
+    "id": "xM3_dtGyspQ",
+    "title": "JUST IN: Trump's one-word response when asked if Noem plans to step down",
+    "score": 10
+  },
+  {
+    "id": "tpBE0Fw1skc",
+    "title": "THIS reminds people how crazy things were when Dems were in control: Reince Priebus",
+    "score": 10
+  },
+  {
+    "id": "mkVXxwIgyic",
+    "title": "Lover sa gabi, Secretary sa umaga. Iniwan para sa First Love! Nung umalis, nabaliw si Boss sa sisi.",
+    "score": 10
+  },
+  {
+    "id": "ZWTyWezmWsY",
+    "title": "MC at Lassy, kumusta si Vice Ganda? | Ogie Diaz",
+    "score": 10
+  },
+  {
+    "id": "SozesEKa1qU",
+    "title": "When Fighters Were Asked About George Foreman",
+    "score": 10
+  },
+  {
+    "id": "MDrGErCm80c",
+    "title": "The Cats - One Way Wind (1971-Top Sound).MP4",
+    "score": 10
+  },
+  {
+    "id": "WkOy4T3jRIY",
+    "title": "Judge SHOWDOWN: Orders ICE Head To MN After Lies",
+    "score": 10
+  },
+  {
+    "id": "oLDS2NJsYxk",
+    "title": "The Cats - Why",
+    "score": 10
+  },
+  {
+    "id": "hef9UEHQisY",
+    "title": "The Cats - Times were when",
+    "score": 10
+  },
+  {
+    "id": "YBGtzfK5Bak",
+    "title": "David Guetta, Kim Petras - When We Were Young (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "xObuVzDA-Dw",
+    "title": "WHEN WE WERE YOUNG ADELE [ LYRIC ] FELIX IRWAN COVER",
+    "score": 10
+  },
+  {
+    "id": "LlcqsFOIRmc",
+    "title": "When We Were Young - Adele (Karaoke Songs With Lyrics - Original Key)",
+    "score": 10
+  },
+  {
+    "id": "mj1ADaIGot4",
+    "title": "Adele - When We Were Young (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "8nsX2lBHKzc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eO_Ex8WDK5w",
+    "title": "When You and I Were Young, Maggie - 1866 - Tom Roush",
+    "score": 10
+  },
+  {
+    "id": "RiVFBqfTKK0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OgCohkNbrA0",
+    "title": "LightForce Braces for Crossbite and Missing Adult Tooth Transformation | Joosse Family Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "5b4g4Rf6dm0",
+    "title": "Getting Started With Your LightForce Braces",
+    "score": 10
+  },
+  {
+    "id": "2DrHi488kmY",
+    "title": "Putting 3D Printed Custom LightForce Braces On",
+    "score": 10
+  },
+  {
+    "id": "bxGC9xexAiU",
+    "title": "LightForce Orthodontics vs. Traditional Treatment",
+    "score": 10
+  },
+  {
+    "id": "U1x3iICQlTw",
+    "title": "Braces transformation. impacted and crooked teeth treatment #braces #dentist",
+    "score": 10
+  },
+  {
+    "id": "5WMqpS97nRc",
+    "title": "What is Lightforce, will it change orthodontics? 6 MINUTE SUMMARY",
+    "score": 10
+  },
+  {
+    "id": "DcTntKFVBmA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FFO_Y5MtFqo",
+    "title": "BRACES ON‼️🫶🏼#reels #shullmanorthodontics",
+    "score": 10
+  },
+  {
+    "id": "an5aXg2KIlI",
+    "title": "LightForce x Dual Image Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "Czvw0D_1xq4",
+    "title": "The Why Behind LightForce Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "d83S9wmLTjI",
+    "title": "Flossing with threads… for braces 🦷 #flosstube #threadsapp #threads #LightForce #Braces #short",
+    "score": 10
+  },
+  {
+    "id": "SLm4TrnU6IE",
+    "title": "Congrats on starting the LightForce journey!",
+    "score": 10
+  },
+  {
+    "id": "xjLNwIszPDI",
+    "title": "Why I Started LightForce",
+    "score": 10
+  },
+  {
+    "id": "4UDM4QG0w2E",
+    "title": "LIGHTFORCE STUDIO",
+    "score": 10
+  },
+  {
+    "id": "MGDh2iwVLwg",
+    "title": "LightForce Custom 3D braces!",
+    "score": 10
+  },
+  {
+    "id": "kr_TI42AbRU",
+    "title": "### Unlock Your Best Smile: Clear Aligners or Braces—Which Will You Choose to Fix Your Overbite? 🌟✨",
+    "score": 10
+  },
+  {
+    "id": "OJqYC6Tru-M",
+    "title": "Braces evolution 2022-2025 #braces #dentist #orthodontist #teeth",
+    "score": 10
+  },
+  {
+    "id": "eIgI5yHZtn0",
+    "title": "LightForce Digital Braces | GoClear Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "xwnxj0mraMY",
+    "title": "Dr. Rob gets one 3D LightForce brace placed on his tooth!",
+    "score": 10
+  },
+  {
+    "id": "0TxLZUHXVt0",
+    "title": "Shocking Truth About Dentists Changing Your Bite with Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "E3Af9T9JUno",
+    "title": "Introducing LightForce Orthodontics",
+    "score": 10
+  },
+  {
+    "id": "ZDhDyQfVMnM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-Jw5fAwjX-g",
+    "title": "Loni Willison’s Heartbreaking Journey — From Fitness Model to Homeless 💔🏚️",
+    "score": 10
+  },
+  {
+    "id": "H7pFaYJYKck",
+    "title": "The Sad Story of Loni Willison: From Fitness Model to Homelessness 💔",
+    "score": 10
+  },
+  {
+    "id": "H0KbIrkF1vI",
+    "title": "Homeless Man Became A Model / Given A Rich Life",
+    "score": 10
+  },
+  {
+    "id": "ElogNrpH3-Y",
+    "title": "Former Actress Loni Willison Is Still Struggling To Find Housing",
+    "score": 10
+  },
+  {
+    "id": "hobIklhpWfo",
+    "title": "Homeless Man Became A Model | Given A Rich Life Transformation",
+    "score": 10
+  },
+  {
+    "id": "mEBk_MNI8ic",
+    "title": "Homeless man BECAME A MODEL / insane transformation",
+    "score": 10
+  },
+  {
+    "id": "kX5BefB-ZYg",
+    "title": "From Model to Homeless: The Tragic Fall of Loni Willison.",
+    "score": 10
+  },
+  {
+    "id": "-ogw6jvN_Ns",
+    "title": "Former Actress And Fitness Model Loni Willison Appearing Homeless In Santa Monica",
+    "score": 10
+  },
+  {
+    "id": "JFGz20RrHvo",
+    "title": "Do you think this homeless guy could be a model? #BKNY718",
+    "score": 10
+  },
+  {
+    "id": "272k7kVUb88",
+    "title": "Loni Willison, ex wife of Baywatch Jeremy Jackson has fallen on hard times !!!",
+    "score": 10
+  },
+  {
+    "id": "J2DG8mIiOxg",
+    "title": "6-Year-Old Homeless Girl’s First Clean-Up | ASMR Emotional Transformation",
+    "score": 10
+  },
+  {
+    "id": "5-EH-8t5-wQ",
+    "title": "𝑺𝒐𝒐𝒕𝒉𝒊𝒏𝒈 𝑭𝒂𝒄𝒊𝒂𝒍 𝑻𝒓𝒆𝒂𝒕𝒎𝒆𝒏𝒕 𝒇𝒐𝒓 𝑺𝒕𝒓𝒆𝒔𝒔 𝑹𝒆𝒍𝒊𝒆𝒇 | 𝑫𝒆𝒆𝒑 𝑪𝒍𝒆𝒂𝒏𝒊𝒏𝒈 𝑶𝒊𝒍 3465",
+    "score": 10
+  },
+  {
+    "id": "d8gfvEkjShM",
+    "title": "80-Year Old Man’s Rescued Incredible Transformation | Homeless to New Life",
+    "score": 10
+  },
+  {
+    "id": "lIlMb3W96Vo",
+    "title": "Passenger Shows Up Two Days Late and Demands to Board a Flight",
+    "score": 10
+  },
+  {
+    "id": "0AI6cY3mT-k",
+    "title": "The Neighbor WARNED Me… I Didn’t Listen",
+    "score": 10
+  },
+  {
+    "id": "XJay5U5HhpU",
+    "title": "Paul Newman Named the 8 Most BEAUTIFUL Women Ever",
+    "score": 10
+  },
+  {
+    "id": "oN85cJriygQ",
+    "title": "8 Stars That Became Homeless...Or Went Completely Broke",
+    "score": 10
+  },
+  {
+    "id": "dSnmEsuM5K0",
+    "title": "Wife Said “You Look Like When I 1st Met You” After Seeing His New Complete Transformation",
+    "score": 10
+  },
+  {
+    "id": "riqFSDGgai8",
+    "title": "Loni Willison's Heartbreaking Confession: Homelessness, Addiction, and Mental Health",
+    "score": 10
+  },
+  {
+    "id": "L53a5nOJZ0I",
+    "title": "Some dude on the street #homeless",
+    "score": 10
+  },
+  {
+    "id": "mzyCyxVCDck",
+    "title": "'Baywatch' Star Jeremy Jackson Says Homeless Ex-Wife Loni Willison Was 'Hearing Things' at End of Ma",
+    "score": 10
+  },
+  {
+    "id": "uTnKT7zb5Fc",
+    "title": "Loni Willison, An American Fitness Model And Actress, Became Homeless And Ended Up On The Street",
+    "score": 10
+  },
+  {
+    "id": "KW_F3eI55dA",
+    "title": "! Former Actress And Fitness Model Loni Willison Appearing Homeless In Santa Monica",
+    "score": 10
+  },
+  {
+    "id": "i6V5gclqYwY",
+    "title": "Homeless Man BECAME A MODEL/ INSANE Transformation",
+    "score": 10
+  },
+  {
+    "id": "lk67kOXzZNk",
+    "title": "Baywatch Star’s Ex Loni Willison Spotted Homeless in Beverly Hills Wearing Rolex",
+    "score": 10
+  },
+  {
+    "id": "12JBp1RVOdg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "r5wzKifpwMA",
+    "title": "Cultural difference in business | Valerie Hoeks | TEDxHaarlem",
+    "score": 10
+  },
+  {
+    "id": "VMwjscSCcf0",
+    "title": "Subway Station in China",
+    "score": 10
+  },
+  {
+    "id": "lkEtgnhsV04",
+    "title": "Vusi Thembekwayo: The Real Difference Between a Business Owner and a Founder",
+    "score": 10
+  },
+  {
+    "id": "boGrLi4d_Bw",
+    "title": "First Vs. Business Class: What's the Main Difference",
+    "score": 10
+  },
+  {
+    "id": "WDcumjCNeJk",
+    "title": "Get comfier in Premium Economy",
+    "score": 10
+  },
+  {
+    "id": "qzoIAJYPQwo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "k26DOtwPN7s",
+    "title": "What Is the Real Difference Between An Entrepreneur And A Business Owner?",
+    "score": 10
+  },
+  {
+    "id": "-VxGDB5Rk3s",
+    "title": "What Is the Difference Between Business vs Personal Credit Cards | The Journey",
+    "score": 10
+  },
+  {
+    "id": "wK2--ZHuMzM",
+    "title": "What is the difference between business vs personal credit cards",
+    "score": 10
+  },
+  {
+    "id": "fNc55Pdb_CU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oTnkP-pPbCg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7AvvP089Nqs",
+    "title": "Difference Between Facebook / Meta Business Suite \\u0026 Business Manager (now Portfolio) UPDATED 2025",
+    "score": 10
+  },
+  {
+    "id": "u5Pud5UR-X4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_Sv9XtrFbXE",
+    "title": "What's the Difference Between First Class, Business Class?",
+    "score": 10
+  },
+  {
+    "id": "zgj8WZ-6ATM",
+    "title": "WHATS THE DIFFERENCE BETWEEN A BUSINESS \\u0026 CREATOR ACCOUNT ON INSTAGRAM? | Which on should YOU have?",
+    "score": 10
+  },
+  {
+    "id": "y35mXRgZ38I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5s7VD6Y30jY",
+    "title": "Calendar days, working days, business days - what’s the difference?",
+    "score": 10
+  },
+  {
+    "id": "cM43jT-mwPc",
+    "title": "What is the difference between entrepreneurship and business?",
+    "score": 10
+  },
+  {
+    "id": "JzMjdlaoL9Y",
+    "title": "The difference between jobs and businesses. #motivation #successmindset #businessgrowth #fyp",
+    "score": 10
+  },
+  {
+    "id": "f-6a6pXRQK8",
+    "title": "Microsoft 365 Business vs Home | Whats is the difference?",
+    "score": 10
+  },
+  {
+    "id": "hhd0ZJcH7zE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "swhrrtB7rck",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZP29yERbL20",
+    "title": "Personal Credit Cards VS Business VS Corporate: What’s the Difference?",
+    "score": 10
+  },
+  {
+    "id": "Lbu0I0_jyQA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Lwa3obwgj0w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4O7rGIWBhc8",
+    "title": "Trump sends ‘Border Czar’ Tom Homan to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "UtPikmHL3GM",
+    "title": "Gov. Walz meets with Border Czar Tom Homan",
+    "score": 10
+  },
+  {
+    "id": "-4Peu2wLvUY",
+    "title": "Minneapolis shooting: Who is Border Czar Tom Homan?",
+    "score": 10
+  },
+  {
+    "id": "ZwxWjHhj0hc",
+    "title": "The inner side of Organizational Change: | Thijs Homan | TEDxAmsterdamED",
+    "score": 10
+  },
+  {
+    "id": "iFx1oY5DD0U",
+    "title": "Minneapolis mayor to meet with border czar Tom Homan",
+    "score": 10
+  },
+  {
+    "id": "VfksoUBWKY0",
+    "title": "Breaking down Trump's decision to send border czar Tom Homan to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "4R7dZfDJZks",
+    "title": "Trump says he is sending border czar Tom Homan to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "hMPQ1PdfCrA",
+    "title": "Trump says he's sending border czar Tom Homan to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "CGh0t-yy_oY",
+    "title": "TRUMP LATEST NEWS: HOMAN OWNS MINNESOTA, GOLD PLAN UNLOCKS TRILLIONS, IOWA",
+    "score": 10
+  },
+  {
+    "id": "KfPG997J2M8",
+    "title": "Trump Sends Border Czar Homan to Minnesota Amid Protests",
+    "score": 10
+  },
+  {
+    "id": "vaDi1vwygg8",
+    "title": "What To Know About Border Czar Tom Homan TAKING OVER Minnesota Immigration Operations | TRENDING",
+    "score": 10
+  },
+  {
+    "id": "7y2iMD6HnL8",
+    "title": "What's expected of border czar Tom Homan as Trump sends him to Minneapolis after Pretti shooting",
+    "score": 10
+  },
+  {
+    "id": "4u-R8Dj0nzc",
+    "title": "Border Czar Tom Homan sent to Minnesota to enforce immigration efforts",
+    "score": 10
+  },
+  {
+    "id": "jsS4kiXesx4",
+    "title": "United States Border Czar Tom Homan is coming to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "cWnD-t_Nf3I",
+    "title": "Trump sending border czar Tom Homan to Minnesota",
+    "score": 10
+  },
+  {
+    "id": "3Lh_xn7LBvw",
+    "title": "White House Defends Tom Homan's Deployment, Backs Kristi Noem",
+    "score": 10
+  },
+  {
+    "id": "5hQUMS6snwM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "A1H4j97paI4",
+    "title": "Shifting functions introduction | Transformations of functions | Algebra 2 | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "RttvubuBhAE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "mR2y_kohZIw",
+    "title": "flipping it over the x axis",
+    "score": 10
+  },
+  {
+    "id": "roRR6A3TozM",
+    "title": "Scaling functions introduction | Transformations of functions | Algebra 2 | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "1lt6a77OmLU",
+    "title": "Translations Reflections and Rotations - Geometric Transformations!",
+    "score": 10
+  },
+  {
+    "id": "GqHWdTLL8Qw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AU00jPv2AXY",
+    "title": "Introduction (Characteristics of Constant, Linear, Absolute Value, and Quadratic Functions)",
+    "score": 10
+  },
+  {
+    "id": "DD70ZIDjL7g",
+    "title": "2D Transformations",
+    "score": 10
+  },
+  {
+    "id": "npMMbXm9sR0",
+    "title": "Transforming Algebraic Functions: Shifting, Stretching, and Reflecting",
+    "score": 10
+  },
+  {
+    "id": "MkP1LJR2PyM",
+    "title": "Horizontal Shift",
+    "score": 10
+  },
+  {
+    "id": "jGYFRPoiDBg",
+    "title": "Transformations (Rotations)",
+    "score": 10
+  },
+  {
+    "id": "r3lN_BADmPQ",
+    "title": "Linear transformations | Matrix transformations | Linear Algebra | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "4PCktDZJH8E",
+    "title": "Introduction to geometric transformations | Sets \\u0026 Staging | Computer animation | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "lR0kyOdT86E",
+    "title": "Geometric Transformations",
+    "score": 10
+  },
+  {
+    "id": "6yrPU8rYOhs",
+    "title": "Determine the Pre-Image",
+    "score": 10
+  },
+  {
+    "id": "gAbadNuQEjI",
+    "title": "Transformations of Functions | Precalculus",
+    "score": 10
+  },
+  {
+    "id": "hZ827mfh1Jo",
+    "title": "Composing transformations | Transformations in the plane | Geometry (TX TEKS) | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "gYIBbDLYFY0",
+    "title": "Identify function transformations : Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "7u7TPjEvbDM",
+    "title": "Determining whether a transformation is onto | Linear Algebra | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "eR8vEdJTvd0",
+    "title": "Reflecting over y=x | Transformations in the plane | Geometry (TX TEKS) | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "-47SHD2cPAY",
+    "title": "Using reflection tool | Transformations | Geometry | Khan Academy",
+    "score": 10
+  },
+  {
+    "id": "RLyXTj2j_c4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IiEMt-XQbgo",
+    "title": "Eleni [1985]   Full Movie - Greek Subtitles",
+    "score": 10
+  },
+  {
+    "id": "RQ-wSF-sJPk",
+    "title": "Eleni [1985] by CBS Productions - Full Movie Complete W/ Greek Subtitles",
+    "score": 10
+  },
+  {
+    "id": "OcT8pX5mBIU",
+    "title": "The Courage Brigade (1953) World War II \\\\ Drama \\\\ Greek Subtitles \\\\ Victor Mature, Movie Full HD",
+    "score": 10
+  },
+  {
+    "id": "9dtBNUofaL4",
+    "title": "Speaking Greek: 25 Verbs Subjunctive - Greek Subtitles [Advanced Beginner]",
+    "score": 10
+  },
+  {
+    "id": "wAbsLAEJ62w",
+    "title": "Short animated film in GREEK! | I describe my day",
+    "score": 10
+  },
+  {
+    "id": "v7EGtj6JDeE",
+    "title": "\\\"Το νησί\\\" English and Greek subtitles.",
+    "score": 10
+  },
+  {
+    "id": "zG86IDL78oY",
+    "title": "COMBAT ΜΑΧΗ S1 E8 greek subtitles ελληνικοι υπότιτλοι",
+    "score": 10
+  },
+  {
+    "id": "eShS5CErrfE",
+    "title": "The big bang theory Sheldon Best of..(Greek subs HD)",
+    "score": 10
+  },
+  {
+    "id": "PtLkc6wy690",
+    "title": "Ο Κώδικας Της Αποκάλυψης | Ταινία Δράσης, Μυστηρίου, Θρίλερ Με Ελληνικούς Υπότιτλους Greek Subs ~ HD",
+    "score": 10
+  },
+  {
+    "id": "FS9gVYC453I",
+    "title": "FRIENDS SEASON 5 ΒΕST OF!!!! ΕΛΛΗΝΙΚΟΙ ΥΠΟΤΙΤΛΟΙ - GREEK SUBTITLES",
+    "score": 10
+  },
+  {
+    "id": "dYmLDwY2mXA",
+    "title": "COMBAT ΜΑΧΗ S1 E6 ελληνικοι υποτιτλοι greek subtitles",
+    "score": 10
+  },
+  {
+    "id": "tkc5wDBlU0Y",
+    "title": "Dance me to the end of love ~ Leonard Cohen (greek subs) ♪♫•*¨*•.¸¸❤",
+    "score": 10
+  },
+  {
+    "id": "KVOYuqwUFeQ",
+    "title": "COMBAT ΜΑΧΗ S1 E2 Ελληνικοι υπότιτλοι greek subtitles",
+    "score": 10
+  },
+  {
+    "id": "ngls0VkyNAQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ESOg5a7hWdM",
+    "title": "The Best Body Transformations On The Internet",
+    "score": 10
+  },
+  {
+    "id": "TYkgfMWU-Hs",
+    "title": "This is The Craziest Transformation",
+    "score": 10
+  },
+  {
+    "id": "7Il8nDcBsMA",
+    "title": "Incredible Weight Loss Transformation  #transformation #weightloss",
+    "score": 10
+  },
+  {
+    "id": "YZh0xENYG-s",
+    "title": "EMOTIONAL \\u0026 INSPIRING DAD BODY TRANSFORMATION | 6 MONTHS | SION MONTY",
+    "score": 10
+  },
+  {
+    "id": "mnG3YQBVdkg",
+    "title": "5 YEAR WEIGHTLOSS | my transformation",
+    "score": 10
+  },
+  {
+    "id": "AtBtEkJW718",
+    "title": "7  Body Transformations That'll Brighten Your Day",
+    "score": 10
+  },
+  {
+    "id": "ouKGDXF108U",
+    "title": "My Brothers 60 Day Body Transformation",
+    "score": 10
+  },
+  {
+    "id": "Og6fFXVBQnU",
+    "title": "180 Days Body Transformation",
+    "score": 10
+  },
+  {
+    "id": "vNaYoV2g2Zc",
+    "title": "14 Days Complete Full Body Transformation At Home No Gym Required",
+    "score": 10
+  },
+  {
+    "id": "xw7BR-7eSzg",
+    "title": "Wishbound Relic | tg tf transformation | MTF body swap | Male to female | MTF transformation",
+    "score": 10
+  },
+  {
+    "id": "2v3NhCmmIUM",
+    "title": "50 POUND TRANSFORMATION (Emotional)",
+    "score": 10
+  },
+  {
+    "id": "hOKfRq7A6bk",
+    "title": "6 MO. TRANSFORMATION - [🔗 in bio] Wrote an e-book on my methods in how I lost 60lbs in six months.",
+    "score": 10
+  },
+  {
+    "id": "pF1RiFZYl-U",
+    "title": "Mr. Beast’s INSANE Body Transformation…👀💪",
+    "score": 10
+  },
+  {
+    "id": "6-dA6p4Mocc",
+    "title": "Week 1 vs Week 172 of my body transformation #gym #motivation #fitness",
+    "score": 10
+  },
+  {
+    "id": "iRMasb3T6VI",
+    "title": "Beach body transformation 🇮🇳 #motivation #transformation #weightloss",
+    "score": 10
+  },
+  {
+    "id": "3zCZq69C0R8",
+    "title": "My 25kg Weight Loss Journey | 6 Months Transformation Motivation",
+    "score": 10
+  },
+  {
+    "id": "3m5aA5NN1uE",
+    "title": "Insane 90 Day Transformation",
+    "score": 10
+  },
+  {
+    "id": "-NOzPjwhwEA",
+    "title": "He lost 25 Kgs + Full Body Transformation 🔥 #weightloss #dietplan #myhealthbuddy",
+    "score": 10
+  },
+  {
+    "id": "ChjsB2_nvwg",
+    "title": "2 Month body transformation #bodytransformation #weightloss",
+    "score": 10
+  },
+  {
+    "id": "tEN4B5SJj24",
+    "title": "Insane 12 months body transformation ..",
+    "score": 10
+  },
+  {
+    "id": "o3_ijoM8q5o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9Z7hZ9Xf2sw",
+    "title": "963Hz Arcturian Energy • Protective Light, Blessings \\u0026 Miracle Energies • Spiritual Guidance Aura",
+    "score": 10
+  },
+  {
+    "id": "u2aFIzuKAC4",
+    "title": "The FULL STORY of the Arcturians – Every Spiritualist Must KNOW This",
+    "score": 10
+  },
+  {
+    "id": "7W5tM8-najs",
+    "title": "The Arcturian Council Signals Departure — Your New Life Begins Now",
+    "score": 10
+  },
+  {
+    "id": "VW7bNzOdMvo",
+    "title": "The Departure Signal",
+    "score": 10
+  },
+  {
+    "id": "FeTem27ZsRQ",
+    "title": "Why You Must Receive This Alone",
+    "score": 10
+  },
+  {
+    "id": "CCYaH-EKk7Q",
+    "title": "TIME SENSITIVE‼️ The Celestial Arcturian Triad Detected This — You Must Stabilize It Before 2026 Beg",
+    "score": 10
+  },
+  {
+    "id": "pnRU2UaFmbU",
+    "title": "STARSEEDS, THIS WARNING MUST REACH YOU AS FAST AS POSSIBLE | ARCTURIAN COUNCIL MESSAGE",
+    "score": 10
+  },
+  {
+    "id": "-pozX5pKbo0",
+    "title": "The Arcturians Are Awakening Your True Purpose — Here’s What You Must Know",
+    "score": 10
+  },
+  {
+    "id": "n7srZb7_uQY",
+    "title": "Arcturian Energy Healing for whatever you need",
+    "score": 10
+  },
+  {
+    "id": "B11wiiqVwfg",
+    "title": "The Arcturian Council – Is Light Defeating The Dark?",
+    "score": 10
+  },
+  {
+    "id": "PaCxzMLaUWY",
+    "title": "The Arcturians Are Upgrading Your Reality (Here's What's Next!)",
+    "score": 10
+  },
+  {
+    "id": "On2i3JidVfo",
+    "title": "Your Arcturian Upgrade Has Already Begun",
+    "score": 10
+  },
+  {
+    "id": "hrbJrCyHeGo",
+    "title": "STARSEED OF GAIA, THE COUNCIL HAS DECIDED YOUR DESTINY — PREPARE YOURSELF | ARCTURIAN COUNCIL",
+    "score": 10
+  },
+  {
+    "id": "l206voGVL_o",
+    "title": "STARSEEDS, YOU’LL ONLY SEE THIS ONCE — RIGHT BEFORE EVERYTHING CHANGES | ARCTURIAN COUNCIL MESSAGE",
+    "score": 10
+  },
+  {
+    "id": "AiIFD0X8cbM",
+    "title": "\\\"STARSEEDS, YOU MUST TRUST US\\\" | Arcturian High Council",
+    "score": 10
+  },
+  {
+    "id": "NlQJuSOagvg",
+    "title": "Tuesday September 23rd 2025✨🌎 Human Collective at a crossroads  #arcturian #ascend #heartmind",
+    "score": 10
+  },
+  {
+    "id": "2ssnzvUbXXo",
+    "title": "STARSEED OF GAIA, THE COUNCIL RECOGNIZED THE DEPTH OF YOUR LOVE | ARCTURIAN MESSAGE",
+    "score": 10
+  },
+  {
+    "id": "c-sX32uOp2g",
+    "title": "\\\"You Have Entered The Last Phase Before The EVENT...\\\"  | Arcturian Council Of 5 - T'EEAH",
+    "score": 10
+  },
+  {
+    "id": "5Kg1nZOMuLA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "77luM3UMrpI",
+    "title": "The power of inclusive education | Ilene Schwartz | TEDxEastsidePrep",
+    "score": 10
+  },
+  {
+    "id": "ZIPsPRaZP6M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IgNiSish5Xo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8UhTj6wnuGc",
+    "title": "Participation Cards",
+    "score": 10
+  },
+  {
+    "id": "Zw73910uecU",
+    "title": "What Is an Inclusive Classroom?",
+    "score": 10
+  },
+  {
+    "id": "K-AWPB8adE4",
+    "title": "Episode 10: Making Inclusion Visible: Internal Comms",
+    "score": 10
+  },
+  {
+    "id": "E7Uj2lzDzH0",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "cQg-jnOfHPQ",
+    "title": "People with Disabilities Are a Homogeneous Group",
+    "score": 10
+  },
+  {
+    "id": "hYqTM0caS3o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IaYrI8RjZ6I",
+    "title": "You have to be able to listen to all",
+    "score": 10
+  },
+  {
+    "id": "ZwOb0cP6VCY",
+    "title": "Making Inclusion a Part of Your Organization’s Culture | Vistage",
+    "score": 10
+  },
+  {
+    "id": "WASdPQ3Z1As",
+    "title": "Agenda",
+    "score": 10
+  },
+  {
+    "id": "gljlCJFHNZ0",
+    "title": "NOBODY CARES: WORK HARD AND FOCUS ON YOU - Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "YGMmDQ9inIw",
+    "title": "Get Better, Keep Growing | Jim Rohn Mindset",
+    "score": 10
+  },
+  {
+    "id": "nzYQC1qwfV0",
+    "title": "Jim Rohn Get Serious! | Look In The Description If You're Seeing This in 2023 | Iconz Global Network",
+    "score": 10
+  },
+  {
+    "id": "2-id_FOc09k",
+    "title": "Get Smart",
+    "score": 10
+  },
+  {
+    "id": "nEF4KF_4xso",
+    "title": "Do the Best You Can | Jim Rohn",
+    "score": 10
+  },
+  {
+    "id": "rxSmVa8m1OY",
+    "title": "Educate Yourself Daily | Jim Rohn Daily Motivation",
+    "score": 10
+  },
+  {
+    "id": "XJ8lAp5nBi0",
+    "title": "Do What is Hard to Become Unstoppable | Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "Rz80eKkE6zA",
+    "title": "10 Ways to Become the Best at Anything | Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "viuT_wNBRbs",
+    "title": "Nobody Cares. Work Hard and Focus on Yourself | Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "zHp2FIFoUZs",
+    "title": "Designing Mornings Deciding Evenings | Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "1D9KHigZ52A",
+    "title": "Never Doubt Yourself | Jim Rohn Mindset",
+    "score": 10
+  },
+  {
+    "id": "Z0pwblwD2dU",
+    "title": "Think Big, Start Small, Act like the Rich: Success Mindset Secrets | Jim Rohn Motivation",
+    "score": 10
+  },
+  {
+    "id": "5gikV2zw_1M",
+    "title": "FOLLOW YOUR PLAN,  NOT YOUR MOOD – Powerful Motivational Speech Of Jim Rohn",
+    "score": 10
+  },
+  {
+    "id": "8eaTTYZxhK0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qjkypRjghDg",
+    "title": "Can people CHANGE?: understanding radical transformation",
+    "score": 10
+  },
+  {
+    "id": "pJx1pRCey78",
+    "title": "Transcript",
+    "score": 10
+  }
+]

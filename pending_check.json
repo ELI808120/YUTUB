@@ -1,1 +1,2922 @@
-[]
+[
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון  - 43 - פונקציות",
+    "score": 110
+  },
+  {
+    "id": "o0wyYsNbJeY",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "cXZcd5PiZtA",
+    "title": "פתיחה",
+    "score": 60
+  },
+  {
+    "id": "K2wPt2FnlnQ",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "uCATRNZY7TM",
+    "title": "צביעת רהיטי עץ בורנית ע\\\"ב מים - טמבור",
+    "score": 60
+  },
+  {
+    "id": "R2lyycxgqEs",
+    "title": "שיפוץ רהיטים-לשדרג כיסא ישן",
+    "score": 60
+  },
+  {
+    "id": "W7hujH_fGTg",
+    "title": "שחזור כיור רחצה מעץ אלם (נחשף גימור עץ מדהים)",
+    "score": 60
+  },
+  {
+    "id": "B-CoK1bYpv8",
+    "title": "שיקום \\\"אשפה לאוצר\\\" | שיקום רהיטים",
+    "score": 60
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "מנועים 101: יסודות פעולת המנועים | טויוטה",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "MdEZjSQDT0s",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "uHucYAEhY0Y",
+    "title": "איך עובד מנוע של מטוס? הצצה מרתקת ללב הפועם של עולם התעופה",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "t8rqu3TDi94",
+    "title": "GLAZING - Old Masters Secrets and Modern Techniques - Oil Painting Tutorial",
+    "score": 50
+  },
+  {
+    "id": "Ap3K_mVolw4",
+    "title": "Can you paint kitchen cabinets without sanding or priming? How to paint cabinets. Cabinet painting.",
+    "score": 50
+  },
+  {
+    "id": "1zt-wNRuwaU",
+    "title": "How I turned this FREE ikea sideboard from FB marketplace into $950 🤯 #furnitureflip #restoration",
+    "score": 50
+  },
+  {
+    "id": "ewMksAbgdBI",
+    "title": "How To Draw A Cute Ice Cream Cone",
+    "score": 50
+  },
+  {
+    "id": "P_PaIGG1-rI",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Learn Spanish While you Sleep MUST KNOW PHRASES",
+    "score": 50
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "Learn Once, Use Forever: 300 Spanish Phrases for Life",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Spanish phrases you can use for a lifetime — Listen repeatedly and learn easily",
+    "score": 50
+  },
+  {
+    "id": "UxE3n6beo0k",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Learn Spanish: TELL HIM/HER  in Spanish - Video For Fast Route to Fluency",
+    "score": 50
+  },
+  {
+    "id": "5Ga566gw01Q",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "eZHHQfdNwtA",
+    "title": "Learn Spanish at the Supermarket! What I Buy Every Week (Comprehensible Input)",
+    "score": 50
+  },
+  {
+    "id": "S80SZH2iq1c",
+    "title": "Learn Spanish in 30 minutes: 40 Spanish expressions used every day!",
+    "score": 50
+  },
+  {
+    "id": "iaeBnYLNXgQ",
+    "title": "World War II: Crash Course World History #38",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Guide: Installing Python and a Workspace on Your Computer",
+    "score": 50
+  },
+  {
+    "id": "Sg4GMVMdOPo",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "KdZ4HF1SrFs",
+    "title": "Python Tutorial for Absolute Beginners #1 - What Are Variables?",
+    "score": 50
+  },
+  {
+    "id": "ITSMDeOgXxw",
+    "title": "Introduction to Python Full Course 2026",
+    "score": 50
+  },
+  {
+    "id": "mC4nyib2sfg",
+    "title": "How I Learned Python FAST",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "GfWRxr1OBm4",
+    "title": "Python Roadmap for Beginners! 🐍 Learn Python Programming Step-by-Step\\\" #python #conding",
+    "score": 50
+  },
+  {
+    "id": "IfKlGhRc7Dc",
+    "title": "Python Tutorial for Beginners (2024) - Complete Course with AI Tools \\u0026 Best Practices",
+    "score": 50
+  },
+  {
+    "id": "X01aUoLm8lE",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "Essential Home Repair Tips: Your DIY Guide",
+    "score": 50
+  },
+  {
+    "id": "lOiAPkUXk-Q",
+    "title": "How to fix gaps in trim THE RIGHT WAY!",
+    "score": 50
+  },
+  {
+    "id": "YO_cs_aLw7s",
+    "title": "How the Building Blocks of a Home are Made | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "tHUx6P1c56E",
+    "title": "Modern Marvels: World's BIGGEST Machines (S11, E4) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "j0eG5HP-F0E",
+    "title": "How It's Made: Everything Oceanic 🌊 Science Channel",
+    "score": 50
+  },
+  {
+    "id": "PuR5WVQje4s",
+    "title": "8\\\" Grodan Rockwool Grow Cubes Review | Grow Block Thoughts | Size Issues",
+    "score": 50
+  },
+  {
+    "id": "PQpngcxcs7w",
+    "title": "Building Foam Core Cubes",
+    "score": 50
+  },
+  {
+    "id": "_k55n0MsneQ",
+    "title": "How to Convert Cubic Inches to Cubic Feet",
+    "score": 50
+  },
+  {
+    "id": "G9NnBr8bYT8",
+    "title": "How to Calculate Cubic Inches",
+    "score": 50
+  },
+  {
+    "id": "2UbDMoBEQKk",
+    "title": "How to build perfect wooden cubes from 1/4\\\" birch plywood",
+    "score": 50
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "Designing UX for search filters #figma #prototype #tutorial #beginners #uidesign #ux #filter",
+    "score": 50
+  },
+  {
+    "id": "6zGF4hn8DdY",
+    "title": "How to Use Search Filters",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Use Search Filters in YouTube App",
+    "score": 50
+  },
+  {
+    "id": "14XEQKxDZEs",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "SEYJ5UlK3E4",
+    "title": "Don't Filter Data in Excel Like this‼️Instead Use Amazing trick #exceltutorial #exceltips #excel",
+    "score": 50
+  },
+  {
+    "id": "9og-Q2-8YjY",
+    "title": "The BEST BIRRIA YOU CAN EVER MAKE AT HOME | Crunchy Quesa Tacos",
+    "score": 50
+  },
+  {
+    "id": "rofGoIgMaxk",
+    "title": "How To Make Birria Tacos",
+    "score": 50
+  },
+  {
+    "id": "HibZGIBo3YM",
+    "title": "BIRRIA DE RES: The Ultimate Guide for this delicious recipe",
+    "score": 50
+  },
+  {
+    "id": "tPTmoPtDwnI",
+    "title": "How to Play Cover Your Assets",
+    "score": 50
+  },
+  {
+    "id": "D_6kIs60_q4",
+    "title": "Help Me Make It Through the Night - Sammi Smith | Karaoke Version | KaraFun",
+    "score": 50
+  },
+  {
+    "id": "7Uvmr8qYqyE",
+    "title": "Turning Red Exclusive - Extended Preview (2022) | Vudu",
+    "score": 50
+  },
+  {
+    "id": "PRkBnKEI7oM",
+    "title": "Build Our Marinade",
+    "score": 50
+  },
+  {
+    "id": "65EZm6n37nk",
+    "title": "You've Got to Try SMOKED PORK CARNITAS!! | How To",
+    "score": 50
+  },
+  {
+    "id": "zqpHm_KQrC4",
+    "title": "The BEST BIRRIA YOU CAN EVER MAKE AT HOME | Crunchy Quesa Tacos",
+    "score": 50
+  },
+  {
+    "id": "lwXVlNXtl14",
+    "title": "Short Guide to Smoking a Tender \\u0026 Juicy Brisket! #brisket #bbq #smokedbrisket",
+    "score": 50
+  },
+  {
+    "id": "MvJ3nNLiITE",
+    "title": "How to Smoke PERFECT Ribs Every Time!! #bbq #bbqrecipes",
+    "score": 50
+  },
+  {
+    "id": "XjqQ74-JDtI",
+    "title": "How to Smoke a Brisket RIGHT - An Easy Step-By-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "aAYoWePzQ2c",
+    "title": "Silver Breakout Is Here — Don’t Make This Mistake Now! (Gold \\u0026 Silver Price Update)",
+    "score": 50
+  },
+  {
+    "id": "YtWfjtCDTAc",
+    "title": "How To See Central Park NYC in A Few Hours!",
+    "score": 50
+  },
+  {
+    "id": "GzBPdJT8rq4",
+    "title": "INTRO | Preview",
+    "score": 50
+  },
+  {
+    "id": "wFW2_nzAFv8",
+    "title": "Morning Ambience at Canalside Café Shop Vibes 🍂 Elegant \\u0026 Soothing Autumn Jazz Music for Work, Study",
+    "score": 50
+  },
+  {
+    "id": "_V_wHc5UbYM",
+    "title": "How to make The Best Slow Cooker Beef Birria | Views on the road Birria",
+    "score": 50
+  },
+  {
+    "id": "ID4UcPDcfx8",
+    "title": "How to Make Beef Birria in Crockpot with Consome- Quesatacos- Easy and Delicious",
+    "score": 50
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "huO9FKcvYS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dPw8J2G7cqI",
+    "title": "Oil Painting Basics",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UcVUz20prAs",
+    "title": "10 Basic Oil Painting Tips You Should Know",
+    "score": 10
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "John Wellington Color Theory Masterclass",
+    "score": 10
+  },
+  {
+    "id": "0OGYL0kzOmU",
+    "title": "Adventurepainter",
+    "score": 10
+  },
+  {
+    "id": "By5ryf3wbAw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "You can change the color of sealed wood with gel stain! No sanding necessary #diy #furniture",
+    "score": 10
+  },
+  {
+    "id": "Ta4AB09EM7U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_g4vy7H8bdo",
+    "title": "Head",
+    "score": 10
+  },
+  {
+    "id": "ao2IP7f23-8",
+    "title": "drawing a curve right here in the middle of our paper",
+    "score": 10
+  },
+  {
+    "id": "MqvZaFw1-w0",
+    "title": "If I started drawing TODAY, this is what I would do.",
+    "score": 10
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SOF5uvRXdKw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Improve your SPANISH listening by up to 90% in just 45 minutes!",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "8pE04G99oT4",
+    "title": "Assault on the Siegfried Line",
+    "score": 10
+  },
+  {
+    "id": "YuScm1QMOjg",
+    "title": "The invasion",
+    "score": 10
+  },
+  {
+    "id": "wtCjvViS8SA",
+    "title": "Lady Gaga - Your Song (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "OORszZuu__A",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "g-r5kybYybY",
+    "title": "Al Jarreau - Your Song",
+    "score": 10
+  },
+  {
+    "id": "eWupm_cePX8",
+    "title": "Tell me something, girl",
+    "score": 10
+  },
+  {
+    "id": "BtToxyfneVI",
+    "title": "Your Song",
+    "score": 10
+  },
+  {
+    "id": "q3UfKcUSym4",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "tf7VWiRbGRs",
+    "title": "Your Song - Elton John / Ellie Goulding (Boyce Avenue piano acoustic cover)(Rocketman film)",
+    "score": 10
+  },
+  {
+    "id": "u5fETRyn9Qk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "HCc_72nnIaY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How is a car engine assembled",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "Car engine cooling system",
+    "score": 10
+  },
+  {
+    "id": "vRZu3-64yo0",
+    "title": "How a Manual Transmission and Clutch Works",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rOBKvYkNlUc",
+    "title": "Manual Transmission, How it works?",
+    "score": 10
+  },
+  {
+    "id": "wCu9W9xNwtI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "k0ovUHEOtyE",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "How Do Car Engines Work? A Close Look at The Intricate Details of an Engine",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AFxCO_DyzYM",
+    "title": "Céline Dion Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "nV8UZJNBY6Y",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "UrsmFxEIp5k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pem2cqXxDvI",
+    "title": "Your Song - Elton John | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "Z1Yd7upQsXY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dAHLhd_aD_E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WGJJIrtnfpk",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "LamjAFnybo0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FbBXtqtRnWU",
+    "title": "Python in Excel",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pKpZ7GOc5GY",
+    "title": "Introduction to Python for Beginners",
+    "score": 10
+  },
+  {
+    "id": "roHhSEMuCo0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "3aZAwwRv6bg",
+    "title": "Lady Gaga - Your Song (Elton John GRAMMY Salute Rehearsal) (January 29, 2018)",
+    "score": 10
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "🔧 Handyman Hacks for DIY Home Repairs | Fix Anything Like a Pro",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dEPXeBn79Bk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PCqCWlbJWUk",
+    "title": "DIY Tips and Tricks for Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Don't Miss This Crucial Step When Drywalling",
+    "score": 10
+  },
+  {
+    "id": "hfMJTcvzW3Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "9hlKGcdytFQ",
+    "title": "Aluminum Pots and Pans.",
+    "score": 10
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Sandwich Cookies- Originally aired 2009",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "Hb4pYpTWJhg",
+    "title": "Playground Spring Riders",
+    "score": 10
+  },
+  {
+    "id": "zL93IObiPbw",
+    "title": "Glass Paperweights - Originally aired 2010",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "6as_1m9YAG0",
+    "title": "Fresh Cut Flowers.",
+    "score": 10
+  },
+  {
+    "id": "_cYGuh5Ax_E",
+    "title": "Dumplings.",
+    "score": 10
+  },
+  {
+    "id": "4XIOyq67j1w",
+    "title": "USS Ronald Reagan: The World's Biggest Aircraft Carrier",
+    "score": 10
+  },
+  {
+    "id": "S2i23eHa8Wk",
+    "title": "Diving Helmet",
+    "score": 10
+  },
+  {
+    "id": "9w2mfu0YOVE",
+    "title": "Induction Cooktops",
+    "score": 10
+  },
+  {
+    "id": "azm4Jegv0kk",
+    "title": "Janet Devlin Your Song ( X Factor )",
+    "score": 10
+  },
+  {
+    "id": "9hovL3WLcvA",
+    "title": "Elton John reveals emotional message behind 'Rocketman' film | GMA",
+    "score": 10
+  },
+  {
+    "id": "oGg2XyCtH5k",
+    "title": "Rita Ora - Your Song [Official Lyric Video]",
+    "score": 10
+  },
+  {
+    "id": "-2j21NE1xwM",
+    "title": "Your Song",
+    "score": 10
+  },
+  {
+    "id": "TPastaduCiM",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "frwP__bY8OI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "qfavTFbKCLI",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "uTfMtZQOSJs",
+    "title": "Trance Metals Tungsten Cubes",
+    "score": 10
+  },
+  {
+    "id": "RxkRlIAucMk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Yd2S79SgxSM",
+    "title": "One inch of osmium cube, which is manufactured using powder metallurgy",
+    "score": 10
+  },
+  {
+    "id": "KxHiCIAfCnk",
+    "title": "I bought a $4,000 paper weight",
+    "score": 10
+  },
+  {
+    "id": "QCvcYTqlURU",
+    "title": "Are 1-Inch Cubes the Best DnD Terrain?",
+    "score": 10
+  },
+  {
+    "id": "fQ-ccPthhDY",
+    "title": "Versatility",
+    "score": 10
+  },
+  {
+    "id": "ms0c3NVI53I",
+    "title": "What is a cubic inch?",
+    "score": 10
+  },
+  {
+    "id": "qstF-JyRO2k",
+    "title": "What does a cubic inch look like?",
+    "score": 10
+  },
+  {
+    "id": "-eq7R7SRqr8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "05KMMQTVDZc",
+    "title": "Volume of a cube",
+    "score": 10
+  },
+  {
+    "id": "jJdSQN6TBpc",
+    "title": "WORLD’S HEAVIEST 4” CUBE Vs. CONCRETE from 45m!",
+    "score": 10
+  },
+  {
+    "id": "CHdWmdQ_7PY",
+    "title": "I bought a Tungsten Cube",
+    "score": 10
+  },
+  {
+    "id": "_rXO9kbW0ao",
+    "title": "Terrahawks Scratch Built 3 3/4 inch scale Cubes - Toy Polloi",
+    "score": 10
+  },
+  {
+    "id": "0VzDg9XPv4c",
+    "title": "construct them out of polystyrene sheets",
+    "score": 10
+  },
+  {
+    "id": "uGmdBH9EwP4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JScYRTaNMuc",
+    "title": "Excel tip advanced filter unique values",
+    "score": 10
+  },
+  {
+    "id": "GgvKvU7BC4A",
+    "title": "How Do Amazon Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "uq3FfRC_o14",
+    "title": "Find playlists with search filters | Pro Tips from TeamYouTube",
+    "score": 10
+  },
+  {
+    "id": "pHZneOidj9A",
+    "title": "SING Song \\\"I'm Still Standing\\\" 😍 Taron Egerton as Johnny HD",
+    "score": 10
+  },
+  {
+    "id": "ZHwVBirqD2s",
+    "title": "Elton John - Sacrifice",
+    "score": 10
+  },
+  {
+    "id": "A4UfJbjl76k",
+    "title": "Elton John  Greatest Hits Playlist Full Album - Best Songs Of Elton John  Collection",
+    "score": 10
+  },
+  {
+    "id": "OXqw6ERK09o",
+    "title": "Elton John - Nikita",
+    "score": 10
+  },
+  {
+    "id": "NrLkTZrPZA4",
+    "title": "Elton John - I'm Still Standing",
+    "score": 10
+  },
+  {
+    "id": "wy709iNG6i8",
+    "title": "Blue, Elton John - Sorry Seems To Be The Hardest Word (Radio Edit)",
+    "score": 10
+  },
+  {
+    "id": "bMRosz1JZOA",
+    "title": "Elton John - I'm Still Standing (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "qod03PVTLqk",
+    "title": "Elton John - Tiny Dancer",
+    "score": 10
+  },
+  {
+    "id": "DtVBCG6ThDk",
+    "title": "Elton John - I Guess That's Why They Call It The Blues",
+    "score": 10
+  },
+  {
+    "id": "gdI5IyrDMOQ",
+    "title": "Elton John \\u0026 Dua Lipa   Cold Heart",
+    "score": 10
+  },
+  {
+    "id": "YjEqEHTgXLk",
+    "title": "Elton John - Sad Songs (Say So Much)",
+    "score": 10
+  },
+  {
+    "id": "jxqfzwG6vAM",
+    "title": "Elton John - Candle in the Wind/Goodbye England's Rose - Princess Diana's Funeral 1997",
+    "score": 10
+  },
+  {
+    "id": "b7XnlhIDz1U",
+    "title": "Elton John - Your Song (Million Dollar Piano)",
+    "score": 10
+  },
+  {
+    "id": "IwH9YvhPN7c",
+    "title": "Elton John Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "WfnCBhvGAaM",
+    "title": "Elton John - Song For Guy",
+    "score": 10
+  },
+  {
+    "id": "yJ_H28GoaCs",
+    "title": "Mr. Elton Reveals The Portrait",
+    "score": 10
+  },
+  {
+    "id": "h6KYAVn8ons",
+    "title": "Elton John - I'm Still Standing (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "KjgWWjkNbhU",
+    "title": "Elton John - Sacrifice (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "X23v5_K7cXk",
+    "title": "Elton John, Kiki Dee - Don't Go Breaking My Heart (with Kiki Dee)",
+    "score": 10
+  },
+  {
+    "id": "i69w56ulpLA",
+    "title": "Elton John - Tiny Dancer",
+    "score": 10
+  },
+  {
+    "id": "yYcyacLRPNs",
+    "title": "Elton John - I'm Still Standing",
+    "score": 10
+  },
+  {
+    "id": "B93Tir6l5FA",
+    "title": "Elton John \\u0026 Dua Lipa   Cold Heart",
+    "score": 10
+  },
+  {
+    "id": "9-AgW9Ry6kU",
+    "title": "She turns Elton John's \\\"your song\\\" into a sweet lullaby",
+    "score": 10
+  },
+  {
+    "id": "1PwZzo54Cb8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "W08_ZAzuiaQ",
+    "title": "Elton John: Why It's Never Too Late To Change Your Life - EXTENDED INTERVIEW",
+    "score": 10
+  },
+  {
+    "id": "X4iR4nf4EtQ",
+    "title": "Elton John Reveals How Bad His Eye Blindness Is",
+    "score": 10
+  },
+  {
+    "id": "c0ib3PdrGfw",
+    "title": "Elton John burst into tears recording his own song 🎹",
+    "score": 10
+  },
+  {
+    "id": "NqxG4m_HYx0",
+    "title": "Elton John reveals emotional message behind 'Rocketman' film | GMA",
+    "score": 10
+  },
+  {
+    "id": "wofWGD5TUxo",
+    "title": "Rod Stewart \\u0026 A$AP Rocky Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "YLQXvLPe2yU",
+    "title": "Elton John Reveals How He First Met Husband David Furnish | Piers Morgan's Life Stories",
+    "score": 10
+  },
+  {
+    "id": "-SF6hPyYQkU",
+    "title": "Elton John - Song For Guy",
+    "score": 10
+  },
+  {
+    "id": "JoMxQeNEGC0",
+    "title": "Eminem Reveals Life-Changing Call From Elton John",
+    "score": 10
+  },
+  {
+    "id": "686a_yX67uc",
+    "title": "The Very First Episode of the Cher Show Featuring Elton John, Bette Midler, and More (02/12/1975)",
+    "score": 10
+  },
+  {
+    "id": "2IELt6jz2kg",
+    "title": "Ed Sheeran Reveals The \\\"Naughty\\\" Birthday Gift He Gave Elton John | SiriusXM",
+    "score": 10
+  },
+  {
+    "id": "qTbeYZIKyNs",
+    "title": "Elton John and Alan Carr almost became family😂",
+    "score": 10
+  },
+  {
+    "id": "TFntzL6stg0",
+    "title": "\\\"Mr. Elton Reveals the Portrait (from Emma)\\\" by Isobel Waller-Bridge, David Schweitzer",
+    "score": 10
+  },
+  {
+    "id": "3gIudy30m7g",
+    "title": "Elton John Reveals He Lost His Vision: ‘I’ve Lost My Eyesight’",
+    "score": 10
+  },
+  {
+    "id": "2MObYEN9_dw",
+    "title": "Elton John - Reveals",
+    "score": 10
+  },
+  {
+    "id": "TKrF47OTYFU",
+    "title": "Elton John's Father Reveals The DARK Truth (UNSEEN FOOTAGE)",
+    "score": 10
+  },
+  {
+    "id": "HXegeqrprRs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5VEbGOxKMd4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zqOFN1ldbv0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z206ty0Trl8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2Rt1mo4A2ww",
+    "title": "This Beef Birria Recipe Is PERFECT For Your Quesabirria Tacos and Birria Ramen | Easy Step by Step",
+    "score": 10
+  },
+  {
+    "id": "G3BK2k8rpBU",
+    "title": "THE CRISPY BIRRIA BURRITO YOU DIDN'T KNOW YOU NEEDED!",
+    "score": 10
+  },
+  {
+    "id": "aMI0gv6NJjg",
+    "title": "Crispy TACOS And Consomé Recipe | Slow Cooker Pork Roast | Simply Mamá Cooks",
+    "score": 10
+  },
+  {
+    "id": "K5QwnD00kRE",
+    "title": "Crispy Birria Tacos (Ramadan Chronicles Pt. 3)",
+    "score": 10
+  },
+  {
+    "id": "G6YDzG0EixY",
+    "title": "Savor authentic mexican flavors with birria bombs spice blend #birria",
+    "score": 10
+  },
+  {
+    "id": "gCSEXjm6B-Y",
+    "title": "Homemade Birria Tacos | So Flavorful",
+    "score": 10
+  },
+  {
+    "id": "RsKqMNDoR4o",
+    "title": "Elton John - Rocket Man (Royal Festival Hall, London 1972)",
+    "score": 10
+  },
+  {
+    "id": "wo1OwRTRKRk",
+    "title": "Elton John - Bennie and the Jets",
+    "score": 10
+  },
+  {
+    "id": "izGwDsrQ1eQ",
+    "title": "Elton John \\u0026 Dua Lipa   Cold Heart",
+    "score": 10
+  },
+  {
+    "id": "rpfmikBi3Fo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "dDMe57DiDwM",
+    "title": "Cover Your Eyes",
+    "score": 10
+  },
+  {
+    "id": "Rs3Ndb9lOGQ",
+    "title": "Cover Your World",
+    "score": 10
+  },
+  {
+    "id": "lU91LarKd04",
+    "title": "Cover Your Own",
+    "score": 10
+  },
+  {
+    "id": "Ny6r3k1i35M",
+    "title": "Cover Your Tracks",
+    "score": 10
+  },
+  {
+    "id": "RAUAUobyh78",
+    "title": "Cover Your Eyes",
+    "score": 10
+  },
+  {
+    "id": "83yW1vnLC_4",
+    "title": "Cover Your Assets–Full Playthrough",
+    "score": 10
+  },
+  {
+    "id": "LCgyDwle4MQ",
+    "title": "Introductions",
+    "score": 10
+  },
+  {
+    "id": "b0ds2ieAFOg",
+    "title": "YOUNG GALAXY - Cover Your Tracks",
+    "score": 10
+  },
+  {
+    "id": "5yQ-PpPWN6Q",
+    "title": "Your Song - Elton John (Acoustic Cover by Chase Eagleson and @SierraEagleson )",
+    "score": 10
+  },
+  {
+    "id": "BnQ_NihUrZU",
+    "title": "Your Song - Elton John cover",
+    "score": 10
+  },
+  {
+    "id": "kUXZ044ZV6Y",
+    "title": "Cover Your Eyes",
+    "score": 10
+  },
+  {
+    "id": "AFklOGXHR1g",
+    "title": "Chappell Roan - Your Song (Elton John Cover)",
+    "score": 10
+  },
+  {
+    "id": "GxP57W0jkfA",
+    "title": "Your Song - Elton John / Ellie Goulding (Boyce Avenue piano acoustic cover)(Rocketman film)",
+    "score": 10
+  },
+  {
+    "id": "UVnk24Xw37U",
+    "title": "Sneeze, sneeze.",
+    "score": 10
+  },
+  {
+    "id": "fq7HMdzBIr0",
+    "title": "Raise Up Your Bat - DELTARUNE (Cover by RichaadEB ft. @CalebHyles \\u0026 @LittleVMills)",
+    "score": 10
+  },
+  {
+    "id": "mxV0FxRKiHg",
+    "title": "Cover Your Tracks - \\\"Cages\\\"",
+    "score": 10
+  },
+  {
+    "id": "xCh4Bq8BJLw",
+    "title": "Save Your Tears - The Weeknd (Boyce Avenue acoustic cover) on Spotify \\u0026 Apple",
+    "score": 10
+  },
+  {
+    "id": "rpJ02dyjm-w",
+    "title": "Sprunki Cover KPOP Your Idol Sounds on Cool Instruments",
+    "score": 10
+  },
+  {
+    "id": "MEbITObTKsQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "p5rQHoaQpTw",
+    "title": "Funeral For A Friend / Love Lies Bleeding (Remastered 2014)",
+    "score": 10
+  },
+  {
+    "id": "Nl0HqlbX7dc",
+    "title": "Elton John Greatest Hits Ever - The Very Best Of Elton John Songs Playlist Of All Time",
+    "score": 10
+  },
+  {
+    "id": "Amz4ob_4-tg",
+    "title": "Goodbye Yellow Brick Road (Remastered 2014)",
+    "score": 10
+  },
+  {
+    "id": "2LmsEdusex0",
+    "title": "Elton John - Believe",
+    "score": 10
+  },
+  {
+    "id": "ABSXJiYQFuI",
+    "title": "Elton John - Something About the Way You Look Tonight",
+    "score": 10
+  },
+  {
+    "id": "z0qW9P-uYfM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8xADHVcyLgs",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "r_QZe8Z66x8",
+    "title": "Elton John - Rocket Man (Royal Festival Hall, London 1972)",
+    "score": 10
+  },
+  {
+    "id": "fOWCoRr-wqc",
+    "title": "Rocket Man (I Think It's Going To Be A Long Long Time) (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "GuyGoiQkWAo",
+    "title": "Elton John - Rocket Man (Audio)",
+    "score": 10
+  },
+  {
+    "id": "R6wxp3Z_zks",
+    "title": "Elton John - Rocket Man (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "sMpY_oA70y4",
+    "title": "Elton John - Rocket Man (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "AjWokqBxODs",
+    "title": "Elton John - Rocket Man",
+    "score": 10
+  },
+  {
+    "id": "JX9ElT5BJnU",
+    "title": "Elton John - Rocket Man (Glastonbury 2023)",
+    "score": 10
+  },
+  {
+    "id": "DMBhYnUKr-c",
+    "title": "Elton John - Rocket Man (I Think It's Going To Be A Long Long Time) (Greatest Hits 1970-2002 4/34)",
+    "score": 10
+  },
+  {
+    "id": "CRCRKwXTSuY",
+    "title": "Elton John - Rocket Man - Remastered",
+    "score": 10
+  },
+  {
+    "id": "y_x1VcWp4kU",
+    "title": "Elton John - Rocket Man (Sydney Entertainment Centre 1986)",
+    "score": 10
+  },
+  {
+    "id": "P8GRsya5Xw4",
+    "title": "Elton John - Bennie and the Jets",
+    "score": 10
+  },
+  {
+    "id": "REfKNbNndzo",
+    "title": "Levon",
+    "score": 10
+  },
+  {
+    "id": "SEgEmTgAEUk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Uos9Wes-2EQ",
+    "title": "Magic Carpet Ride - Steppenwolf | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "IryZYCGInSo",
+    "title": "Savior - Rise Against | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "VFtZZjBeQNY",
+    "title": "L'Avventura - Stone et Charden | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "R-thMuUnq68",
+    "title": "She - Green Day | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "-k_lKwFQA-Q",
+    "title": "Bad Reputation - Joan Jett | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "HXipReFVUv0",
+    "title": "My Rifle, My Pony and Me - Dean Martin (Rio Bravo) | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "BZlkEhMEVJc",
+    "title": "Alibis - Tracy Lawrence | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "lmseCMhBURU",
+    "title": "I Still Call Australia Home - Peter Allen | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "2pDE9gOiNHw",
+    "title": "I Believe to My Soul - Ray Charles | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "iArckzN_t04",
+    "title": "Will You Still Love Me Tomorrow - Lobo | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "7mvmqy28UHg",
+    "title": "For the Good Times - Ray Price | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "jBQuRY6aDjc",
+    "title": "Creep - Radiohead | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "WpXx5aUkpmI",
+    "title": "Always on My Mind - Willie Nelson | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "4RktO4_v31U",
+    "title": "Till There Was You - The Beatles | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "c0Sxk8caK-k",
+    "title": "I Just Fall In Love Again - Anne Murray | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "DcmhqGrO1NU",
+    "title": "Wicked Game - Chris Isaak | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "6S1ho7B-ui0",
+    "title": "You're Beautiful - James Blunt | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "_rKvURTMS8Y",
+    "title": "Briller - KPop Demon Hunters | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "Ga2oAzZJlmE",
+    "title": "Soolaimon - Neil Diamond | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "eaA08JNfQ-k",
+    "title": "I Believe to My Soul - Ray Charles | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "ZEhdo-RpUvc",
+    "title": "Bad Reputation - Joan Jett | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "I_BRrTJxX9s",
+    "title": "Golden - KPop Demon Hunters | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "3-fqmMc9Rnw",
+    "title": "There's a Kind of Hush - The Carpenters | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "VLfEqs0l3mE",
+    "title": "Here Without You - 3 Doors Down | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "C2vS69drN_A",
+    "title": "Un-Break My Heart - Toni Braxton | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "-dCVUUVX8uw",
+    "title": "Have You Ever Seen The Rain - Rod Stewart | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "Kf3pomdXhRA",
+    "title": "After the Lovin' - Engelbert Humperdinck | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "YqT1qRDHiL4",
+    "title": "Put Your Head on My Shoulder - Paul Anka | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "D8qVNLWrSSQ",
+    "title": "Stuck On You - Lionel Richie | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "maoEt3c8DrA",
+    "title": "She Believes In Me - Kenny Rogers | Karaoke Version | KaraFun",
+    "score": 10
+  },
+  {
+    "id": "1UaOSP_kLJs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bo_efYhYU2A",
+    "title": "Ga Ga Ga",
+    "score": 10
+  },
+  {
+    "id": "52nfjRzIaj8",
+    "title": "Top 20 Lady Gaga Songs That Defined Pop Music",
+    "score": 10
+  },
+  {
+    "id": "v5j-bs1fhds",
+    "title": "Lady Gaga - Always Remember Us This Way (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "NFk1WoXmsM8",
+    "title": "Lady Gaga - Always Remember Us This Way (Lyrics Video)",
+    "score": 10
+  },
+  {
+    "id": "L0FQb3RMfPg",
+    "title": "Best 12 Lady Gaga Songs Playlist | #ladygaga #rap #music #musicplaylist",
+    "score": 10
+  },
+  {
+    "id": "86Zdoj2X5p4",
+    "title": "Katy Perry - Roar",
+    "score": 10
+  },
+  {
+    "id": "bESGLojNYSo",
+    "title": "Lady Gaga - The Edge Of Glory",
+    "score": 10
+  },
+  {
+    "id": "QeWBS0JBNzQ",
+    "title": "Lady Gaga - Bloody Mary (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "VFwmKL5OL-Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "h99uIlTF2Bk",
+    "title": "« Rouge » de Jean-Jacques Goldman - English subtitles",
+    "score": 10
+  },
+  {
+    "id": "gNPwj8sGBPY",
+    "title": "Le Rouge et le noir (English Subtitles)",
+    "score": 10
+  },
+  {
+    "id": "uKReiqcaZ64",
+    "title": "Why do I need subtitles?!?",
+    "score": 10
+  },
+  {
+    "id": "CN666q3ptAU",
+    "title": "Yakuza Zero karaoke - Rouge of Love with English subtitles",
+    "score": 10
+  },
+  {
+    "id": "GjGRAJr47JQ",
+    "title": "Rouge - Kahit Maputi Na Ang Buhok Ko (Cover) [Tagalog • English] subtitles",
+    "score": 10
+  },
+  {
+    "id": "0H9BgJ__1Q8",
+    "title": "Yakuza 0 OST — Rouge Of Love ❤ (Full Song) [with Japanese, English and Russian subtitles] ~HQ~",
+    "score": 10
+  },
+  {
+    "id": "RQWW_G2aHDU",
+    "title": "Your Song - Moulin Rouge [HD1080i \\u0026 Subtitles]",
+    "score": 10
+  },
+  {
+    "id": "B_ID0Hoeen4",
+    "title": "Sonic Racing: Crossworlds - All Rouge the Bat Rival (Interactions) [No Subtitles]",
+    "score": 10
+  },
+  {
+    "id": "hh_i2UfdERI",
+    "title": "Assassin's Creed: Rouge (XSX Remaster) - Full Movie (All Cutscenes w/SUBTITLES) [1080p 60FPS HD]",
+    "score": 10
+  },
+  {
+    "id": "S06M6atGOlg",
+    "title": "Rivière Rouge (English Subtitles)",
+    "score": 10
+  },
+  {
+    "id": "zjxl5a5FCWk",
+    "title": "Le Raisin Rouge (English Subtitles)",
+    "score": 10
+  },
+  {
+    "id": "pUDA3VOeoDQ",
+    "title": "The rouge priest (with subtitles)",
+    "score": 10
+  },
+  {
+    "id": "H-yQyR7XdKQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m2ITXz1dfyc",
+    "title": "\\\"Inuman Sessions Vol. 2\\\" Your Song (My One And Only You) - Parokya Ni Edgar",
+    "score": 10
+  },
+  {
+    "id": "bHXhob4jKKI",
+    "title": "Your Song - Moulin Rouge [HD1080i \\u0026 Subtitles]",
+    "score": 10
+  },
+  {
+    "id": "f4EE4bIFixQ",
+    "title": "Your Song (BBC Session)",
+    "score": 10
+  },
+  {
+    "id": "rcYe_BmJzCk",
+    "title": "Your Song - Elton John",
+    "score": 10
+  },
+  {
+    "id": "L0HmBGWOlCM",
+    "title": "Arctic Monkeys - I Wanna Be Yours",
+    "score": 10
+  },
+  {
+    "id": "KgNT7VLLYcw",
+    "title": "Elton John - Your Song (1970 Original Video) (HD 720p)",
+    "score": 10
+  },
+  {
+    "id": "oUNeIgFVd5g",
+    "title": "Your Song - Elton John / Ellie Goulding (Boyce Avenue piano acoustic cover)(Rocketman film)",
+    "score": 10
+  },
+  {
+    "id": "6h9EM3MaFQI",
+    "title": "Your Song",
+    "score": 10
+  },
+  {
+    "id": "KsuKXPr1WSw",
+    "title": "Birria de Res FÁCIL | La Capital",
+    "score": 10
+  },
+  {
+    "id": "sOG9Q4NIeiA",
+    "title": "Mexican Moms Try Each Others Birria",
+    "score": 10
+  },
+  {
+    "id": "u-Qxy80GdA8",
+    "title": "The Juiciest Homemade Birria Quesa Tacos",
+    "score": 10
+  },
+  {
+    "id": "hZ4gu6EXlcI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KMyjGvOjCcU",
+    "title": "What spices are in birria?",
+    "score": 10
+  },
+  {
+    "id": "ostOg2nym7w",
+    "title": "The BEST Birria de Res recipe | Birria Quesa tacos and consommé | Views on the road Famous Birria",
+    "score": 10
+  },
+  {
+    "id": "tc_XH70lBs4",
+    "title": "add your beef bone",
+    "score": 10
+  },
+  {
+    "id": "1nHvSLi1sWs",
+    "title": "MEATS",
+    "score": 10
+  },
+  {
+    "id": "g4trg1CEuqM",
+    "title": "Birria de Res",
+    "score": 10
+  },
+  {
+    "id": "YwbcH3R1uMs",
+    "title": "The Most Tender BIRRIA with CONSOME | BIRRIA QUESA TACOS",
+    "score": 10
+  },
+  {
+    "id": "XtoaN5tDJ98",
+    "title": "start by deveining eight chiles guajillos and four",
+    "score": 10
+  },
+  {
+    "id": "Ev8gu0QUPkE",
+    "title": "The Best Birria in an INSTANT POT | Birria Quesa Tacos | Birria Chili Oil Recipe",
+    "score": 10
+  },
+  {
+    "id": "_8oQCk4jmfc",
+    "title": "chopped my chuck roast into small pieces",
+    "score": 10
+  },
+  {
+    "id": "c0_KWIOXYPE",
+    "title": "These Tacos are LIFE CHANGING | Authentic Birria Tacos",
+    "score": 10
+  },
+  {
+    "id": "XO8wew38VM8",
+    "title": "MILLIONAIRE SONG (Full Video): @YoYoHoneySingh  | GLORY | BHUSHAN KUMAR",
+    "score": 10
+  },
+  {
+    "id": "6tpl9LtkRRw",
+    "title": "The Greatest Showman - A Million Dreams (Lyric Video) HD",
+    "score": 10
+  },
+  {
+    "id": "Sr3X0DCXI-M",
+    "title": "Tommy Richman - MILLION DOLLAR BABY (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "hWTvOa3vifU",
+    "title": "One in a Million (Reggae Cover)",
+    "score": 10
+  },
+  {
+    "id": "0dXiVYq8HBc",
+    "title": "One In A Million - NeYo - (Reggae Version) Cover By Monair B #LyricsVideo",
+    "score": 10
+  },
+  {
+    "id": "4QZo5Mn8cFU",
+    "title": "Jireh | Elevation Worship \\u0026 Maverick City",
+    "score": 10
+  },
+  {
+    "id": "mC-zw0zCCtg",
+    "title": "MY DAUGHTER TAKES ON THE TINIEST BEDROOM EVER! | Jordan Matter",
+    "score": 10
+  },
+  {
+    "id": "N8ggPCK-Kp8",
+    "title": "The Verve - Bitter Sweet Symphony",
+    "score": 10
+  },
+  {
+    "id": "1lyu1KKwC74",
+    "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+    "score": 10
+  },
+  {
+    "id": "kJQP7kiw5Fk",
+    "title": "The Greatest Showman - Never Enough Lyric Video",
+    "score": 10
+  },
+  {
+    "id": "6jZVsr7q-tE",
+    "title": "Vanessa Carlton - A Thousand Miles",
+    "score": 10
+  },
+  {
+    "id": "Cwkej79U3ek",
+    "title": "DJ Khaled - I'm The One ft. Justin Bieber, Quavo, Chance the Rapper, Lil Wayne",
+    "score": 10
+  },
+  {
+    "id": "weeI1G46q0o",
+    "title": "Ne-Yo - Miss Independent",
+    "score": 10
+  },
+  {
+    "id": "k6M5C-oKw9k",
+    "title": "A Star is Born - Shallow Sing-Along (Lady Gaga \\u0026 Bradley Cooper) | Netflix",
+    "score": 10
+  },
+  {
+    "id": "hjLi2Tr0pHQ",
+    "title": "Alexiane - A Million on My Soul (From \\\"Valerian and the City of a Thousand Planets\\\")",
+    "score": 10
+  },
+  {
+    "id": "E6l5ezErGuw",
+    "title": "One in A Million - Neyo (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "dcLNwNzC1IU",
+    "title": "One in a Million You",
+    "score": 10
+  },
+  {
+    "id": "-zQwHAaj4ZI",
+    "title": "MIRIO TOGATA SONG -\\\"Million\\\" | Divide Music [My Hero Academia]",
+    "score": 10
+  },
+  {
+    "id": "EK9F7vgQOIA",
+    "title": "One Million (Full Video) |  Jazzy B ft. DJ Flow | Latest Punjabi Song 2018 | Speed Records",
+    "score": 10
+  },
+  {
+    "id": "ZhqZCMdvKyg",
+    "title": "One Million | Audio Song | Jazzy B ft. DJ Flow | Latest Punjabi Song 2018 | Speed Records",
+    "score": 10
+  },
+  {
+    "id": "yRN7wbcohRE",
+    "title": "P!nk - A Million Dreams (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "064nmqwQElo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WrV1MMNFxYk",
+    "title": "Barbacoa Tacos",
+    "score": 10
+  },
+  {
+    "id": "ZQLgjqwbzxQ",
+    "title": "Smoked and Crispy Beef Tacos -- Weber Summit Charcoal Grill",
+    "score": 10
+  },
+  {
+    "id": "efSqp58modQ",
+    "title": "Carnitas - My Fav Taco!",
+    "score": 10
+  },
+  {
+    "id": "b5Sax8yHLkI",
+    "title": "Carne asada tacos with @Fire \\u0026 Smoke Society",
+    "score": 10
+  },
+  {
+    "id": "NokxV_LXzsY",
+    "title": "Birria Tacos - Part 5 of 6 Summer Grilling Series",
+    "score": 10
+  },
+  {
+    "id": "J54EG2k6eOQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ag7m0fw_UeE",
+    "title": "Beef Cheek Tacos",
+    "score": 10
+  },
+  {
+    "id": "02bl3HWaARw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5URfsrtXSMk",
+    "title": "BBQ Birria Tacos!! | Chuds BBQ",
+    "score": 10
+  },
+  {
+    "id": "VHjigBJ_TNg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "85nYQcqPbDo",
+    "title": "Smoked beef shank for some crispy tacos",
+    "score": 10
+  },
+  {
+    "id": "sSlCKUEN-a8",
+    "title": "Tender, Super Flavorful SMOKED BIRRIA TACOS!",
+    "score": 10
+  },
+  {
+    "id": "bZQdot6cs4Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VwIcjzAazX8",
+    "title": "Smoked Brisket Tacos | Leftover Recipes | Heath Riles BBQ",
+    "score": 10
+  },
+  {
+    "id": "3PFGD4hUJTc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "o8Uy1AG8ehY",
+    "title": "The Juiciest Homemade Birria Quesa Tacos",
+    "score": 10
+  },
+  {
+    "id": "xslr3fC2p4g",
+    "title": "The BEST Birria de Res recipe | Birria Quesa tacos and consommé | Views on the road Famous Birria",
+    "score": 10
+  },
+  {
+    "id": "T-93hC2w-Xo",
+    "title": "start by cutting our meat",
+    "score": 10
+  },
+  {
+    "id": "p_vj5JLrhws",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NsdDRYyBPsw",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "13NTi7raX2Q",
+    "title": "Birria #recipe",
+    "score": 10
+  },
+  {
+    "id": "TWSUSU-2dP4",
+    "title": "This might be the best thing I've made all year.  Birria tacos",
+    "score": 10
+  },
+  {
+    "id": "IEAIOKdLWiw",
+    "title": "TENDER - Smoke",
+    "score": 10
+  },
+  {
+    "id": "mDS4xRb1Fd8",
+    "title": "PERFECT \\u0026 TENDER Smoked Oxtails using PitBoss Lexington! FALLS APART IN YOUR HAND!",
+    "score": 10
+  },
+  {
+    "id": "fw9GpYd2mO4",
+    "title": "Juicy and tender smoked pork belly",
+    "score": 10
+  },
+  {
+    "id": "bDCEWux8fQ8",
+    "title": "The BEST Pulled Pork We've Ever Smoked",
+    "score": 10
+  },
+  {
+    "id": "Toc2TRsKCwY",
+    "title": "Juicy Tender Smoked Brisket",
+    "score": 10
+  },
+  {
+    "id": "vbkVlGtV0EQ",
+    "title": "Say No To Dry Pork! Juicy, Tender Smoked Pork Loin | Ash Kickin' BBQ",
+    "score": 10
+  },
+  {
+    "id": "7-HvbXT7B2o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kZNzAA4elpY",
+    "title": "Tender, Juicy \\\"Fall Off The Bone\\\" Ribs",
+    "score": 10
+  },
+  {
+    "id": "tG2ro7UZOUE",
+    "title": "Juicy and Tender Smoked Chicken Tenders | Savory, Spicy \\u0026 Delicious!",
+    "score": 10
+  },
+  {
+    "id": "Uzhdce06rBI",
+    "title": "Smoked Tenderloin",
+    "score": 10
+  },
+  {
+    "id": "w9HeIOj1AdI",
+    "title": "Tender Smoked Pork Tenderloin.",
+    "score": 10
+  },
+  {
+    "id": "V6ghrfAX1BU",
+    "title": "Delicious Probe Tender Smoked Boneless Beef Ribs",
+    "score": 10
+  },
+  {
+    "id": "CEHYKtbl_80",
+    "title": "Smoked Pork Tenderloin | Tender \\u0026 Juicy  #bbq #porkrecipes #recteq",
+    "score": 10
+  },
+  {
+    "id": "nKAf_NbtsSc",
+    "title": "EASY smoked brisket recipe to nail it your first time",
+    "score": 10
+  },
+  {
+    "id": "PVycYj_PKgk",
+    "title": "TRIMMING",
+    "score": 10
+  },
+  {
+    "id": "adc_z1Sl-44",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "euKQK5eAq9I",
+    "title": "A Major Move Is Underway in Silver \\u0026 Gold Right Now",
+    "score": 10
+  },
+  {
+    "id": "-i_dzOkGv5I",
+    "title": "THEY SPREAD Lies About Selling SILVER | Supply CRISIS Escalates",
+    "score": 10
+  },
+  {
+    "id": "NSRrN8VFfjw",
+    "title": "Why Silver Mine Supply Won't Exceed 2016 Levels Until 2030 | Peak Silver Insights",
+    "score": 10
+  },
+  {
+    "id": "U3CMKDWQRgk",
+    "title": "THIS IS INSANE! Silver Price Set To STUN The World!",
+    "score": 10
+  },
+  {
+    "id": "FB9a0QQffNA",
+    "title": "The silver setup most people are ignoring",
+    "score": 10
+  },
+  {
+    "id": "3EJz6csigLA",
+    "title": "Silver’s shock move (what just happened)",
+    "score": 10
+  },
+  {
+    "id": "h4JiVkScOz0",
+    "title": "The uncomfortable silver question (hook)",
+    "score": 10
+  },
+  {
+    "id": "GhXiTxx08vg",
+    "title": "Silver’s $100 moment — why this move feels different",
+    "score": 10
+  },
+  {
+    "id": "3JgOoO2zd5I",
+    "title": "The big move: why metals are surging now",
+    "score": 10
+  },
+  {
+    "id": "wnKAQGIVHkw",
+    "title": "The $100 Silver Moment (Why It’s Not the Real Headline)",
+    "score": 10
+  },
+  {
+    "id": "DWu65qvqHME",
+    "title": "Intro \\u0026 what just happened in silver",
+    "score": 10
+  },
+  {
+    "id": "FJQq_f5mK_E",
+    "title": "The real question: selling vs. exchanging",
+    "score": 10
+  },
+  {
+    "id": "Jvw4bpy3kgU",
+    "title": "The warning most people will miss",
+    "score": 10
+  },
+  {
+    "id": "r1KWjKw7LO8",
+    "title": "What just happened (the margin bomb)",
+    "score": 10
+  },
+  {
+    "id": "2fW0dpv_g-g",
+    "title": "Can Physical Silver Shortage be Solved? | John AG Exclusive",
+    "score": 10
+  },
+  {
+    "id": "yNBhVl1Afn0",
+    "title": "The signal most people are missing",
+    "score": 10
+  },
+  {
+    "id": "gktLpXc_BWk",
+    "title": "I’m Exhausted From Searching for Love But I Still Believe | Sheikh Hamdan | Fazza | Fazza Poems faz3",
+    "score": 10
+  },
+  {
+    "id": "wD-45RrsQUI",
+    "title": "Why the US is deporting so many people",
+    "score": 10
+  },
+  {
+    "id": "aDbtrdfYqBc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4B7vAqAyfS4",
+    "title": "Tony Robbins: No One Is Ready For What's Coming (The truth about AI).",
+    "score": 10
+  },
+  {
+    "id": "I_w81rptxkc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pAffpEeBT1k",
+    "title": "CM Punk vs. AJ Styles | World Heavyweight Title Match: Raw highlights, Jan. 26, 2026",
+    "score": 10
+  },
+  {
+    "id": "-UgxLzIkNfk",
+    "title": "Silver $111 Signal: Why This Market Move Can’t Be Reversed Now | John AG",
+    "score": 10
+  },
+  {
+    "id": "7mq3nnhhc-o",
+    "title": "The quiet moment that changed everything",
+    "score": 10
+  },
+  {
+    "id": "GeCClzNCfcA",
+    "title": "Put Your Dukes Up John",
+    "score": 10
+  },
+  {
+    "id": "rh3CDavr4mM",
+    "title": "Who is John AG?—The Reall Truth Behind Many Channels",
+    "score": 10
+  },
+  {
+    "id": "2erRc2mimhE",
+    "title": "John, We Need to Talk About Your Christianity",
+    "score": 10
+  },
+  {
+    "id": "oQwsla0ljrY",
+    "title": "Elton John - Your Song (IMY2 Cover)",
+    "score": 10
+  },
+  {
+    "id": "g7nAi--PB64",
+    "title": "A sweet song. RUSSIAN first time hearing Elton John - Your Song",
+    "score": 10
+  },
+  {
+    "id": "JpkCMxvWNdQ",
+    "title": "John Fogerty - Knockin' On Your Door",
+    "score": 10
+  },
+  {
+    "id": "os2qf0vmU6Q",
+    "title": "John Maus - Reconstruct Your Life",
+    "score": 10
+  },
+  {
+    "id": "vydq_9pGmAQ",
+    "title": "Is Your Silver in Trouble? John AG’s Silver Price Outlook",
+    "score": 10
+  },
+  {
+    "id": "RdbRGUyRpuQ",
+    "title": "What happened (silver risk explained fast)",
+    "score": 10
+  },
+  {
+    "id": "pTigL5ZjQZA",
+    "title": "Premium WhatsApp + Membership (Quick Access)",
+    "score": 10
+  },
+  {
+    "id": "3mnap0tG5po",
+    "title": "Exactly what happened in Silver",
+    "score": 10
+  },
+  {
+    "id": "LWWCj-EbevI",
+    "title": "Elton John - Your Song (Top Of The Pops 1971)",
+    "score": 10
+  },
+  {
+    "id": "SU0lQsE0kU8",
+    "title": "John Mayer - Your Body Is a Wonderland (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "2M1ijaqTe0k",
+    "title": "EMERGENCY: Silver $125 China / $110 US - WHAT'S NEXT?",
+    "score": 10
+  },
+  {
+    "id": "Rd-Qdk1ibAI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ckdsJ-LaCvM",
+    "title": "Elton John being iconic on carpool karaoke for five minutes “straight” (ft. James Corden slander)",
+    "score": 10
+  },
+  {
+    "id": "cjcPbFH4GDc",
+    "title": "'All I Want for Christmas' Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "JKJExBXRorA",
+    "title": "Broadway Carpool Karaoke ft. Hamilton \\u0026 More",
+    "score": 10
+  },
+  {
+    "id": "YshgmStEZh0",
+    "title": "Bruno Mars Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "dsUURLFnr9k",
+    "title": "Elton John Calls This Metallica Track “One of the Best Songs Ever Written”",
+    "score": 10
+  },
+  {
+    "id": "5ndj6xn2P0c",
+    "title": "Elton John Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "veZfgR3N-w8",
+    "title": "Elton John Belts Out His Biggest Hits For Post-Super Bowl ‘Carpool Karaoke’",
+    "score": 10
+  },
+  {
+    "id": "N4TbTM1xpiQ",
+    "title": "Taron And Richard Carpool Crack! (rocketman)",
+    "score": 10
+  },
+  {
+    "id": "pA4J0rT2LGY",
+    "title": "George Michael in James Corden's first Carpool Karaoke for Comic Relief",
+    "score": 10
+  },
+  {
+    "id": "hvuENG3O9TM",
+    "title": "One Direction Carpool Karaoke",
+    "score": 10
+  },
+  {
+    "id": "329xjDM7YaE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qOgs2WD9vRM",
+    "title": "Vwillz feat. mike. - Central Park (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "2AVymQ-SU3A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cWnyJjK1wBc",
+    "title": "Vwillz - Central Park feat. mike. (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "nxK-ina9Jzg",
+    "title": "Sledders flock to Central Park during NYC snowstorm",
+    "score": 10
+  },
+  {
+    "id": "sF5ZBVc0QVk",
+    "title": "Shaun White spends snow day snowboarding in Central Park",
+    "score": 10
+  },
+  {
+    "id": "guy3zVf_nWo",
+    "title": "Upper West Side Snowfall: Walking Through New York City's Most Beautiful Neighborhood (4K)",
+    "score": 10
+  },
+  {
+    "id": "NVHhRJsH9g0",
+    "title": "CENTRAL PARK Walking Tour | NYC Immersive Video with Captions [4K/60fps]",
+    "score": 10
+  },
+  {
+    "id": "HDvPFSeqpr4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Dva4iOJNio",
+    "title": "How Central Park Holds The Answers to Big NYC Secrets | Walking Tour | Architectural Digest",
+    "score": 10
+  },
+  {
+    "id": "I6bGFxc4Wdg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PRAGLqfNK1o",
+    "title": "2 DAYS IN SNOWY NEW YORK CITY  ❄️🗽 Central Park, Rockefeller Center, 5th Avenue, \\u0026 Holiday Markets!",
+    "score": 10
+  },
+  {
+    "id": "VtLeCGoFWcw",
+    "title": "How Gov. Shapiro Is Preparing To Defend Pennsylvanians From Federal Government Overreach",
+    "score": 10
+  },
+  {
+    "id": "T7q2Tc9zV_g",
+    "title": "Masked Secret Police Are Not Victims | The Truth About Alex Pretti | What Would The Founders Do?",
+    "score": 10
+  },
+  {
+    "id": "bxkIIQKC8aA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P2WsfwD45cc",
+    "title": "Sweet - Cigarettes After Sex (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "iWSjBBQbICA",
+    "title": "Sydney Sweeney could face legal trouble after Hollywood Sign bra stunt",
+    "score": 10
+  },
+  {
+    "id": "Xj7aAQfeWzg",
+    "title": "Cozy London Cafe Ambience on Rainy Autumn Day 🍂 Relaxing Jazz Piano \\u0026 Rain Sounds for Reading, Work",
+    "score": 10
+  },
+  {
+    "id": "SK_VwY1n7C4",
+    "title": "How Big is New York's Central Park?",
+    "score": 10
+  },
+  {
+    "id": "n2iuL9y74Gk",
+    "title": "Vwillz \\u0026 mike. - Central Park (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "mvrXv63y4kI",
+    "title": "Vwillz - Central Park (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "BVFGo3gSx_g",
+    "title": "Pool In Central Park is a Terrible Idea 😳",
+    "score": 10
+  },
+  {
+    "id": "cIN12H3ckCc",
+    "title": "What's Below New York's Central Park?",
+    "score": 10
+  },
+  {
+    "id": "cirLDsebPzQ",
+    "title": "Central Park Virtual Run with Adam NYC",
+    "score": 10
+  },
+  {
+    "id": "onxQ1Gj3C6U",
+    "title": "12 Things You Can't Miss in Central Park (Hidden Secrets \\u0026 More)",
+    "score": 10
+  },
+  {
+    "id": "0FMiF9YMVJA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4XCsIpUMmCA",
+    "title": "Pelham Bay Park in the Bronx",
+    "score": 10
+  },
+  {
+    "id": "DLaVUnVI9uo",
+    "title": "Jonn - Sweet [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "Q0Nn4TUXH5Y",
+    "title": "Big Sweet John ~ Ben Colder aka Sheb Wooley (1969)",
+    "score": 10
+  },
+  {
+    "id": "v1RU433bHtM",
+    "title": "IF RAPPERS TOLD THE TRUTH",
+    "score": 10
+  },
+  {
+    "id": "wpKoHh-twa4",
+    "title": "My God, is this Shanghai?! Xiaowei, a Chinese online vendor, is no longer going to fight for her ...",
+    "score": 10
+  },
+  {
+    "id": "CdXJZWq4GnY",
+    "title": "The heartbreaking story of Sweet: One of Britain's best 70s acts",
+    "score": 10
+  },
+  {
+    "id": "S4sndUu0_2I",
+    "title": "😱 UNMASKED BOMBSHELL! Why Ida Odinga DEFIED ODM Rebels \\u0026 Took Ruto’s Job — Inside the Power Play 👀",
+    "score": 10
+  },
+  {
+    "id": "fiIxW5WRIOw",
+    "title": "Jon on Alex Pretti's Killing, DHS vs. Video Evidence \\u0026 MAGA's Gun Rights Surrender | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "9jNt7ZGCW-o",
+    "title": "Sweet - Action - Top Of The Pops 24.07.1975 (OFFICIAL)",
+    "score": 10
+  },
+  {
+    "id": "zM0IWyQ5zcg",
+    "title": "Jimmy Kimmel on the Vile and Heartless Murder of Nurse Alex Pretti by ICE in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "XsagL-UZW1U",
+    "title": "Shop with Me at America's Cheapest Grocery Stores | I Bought 72 Pounds of Butter!!",
+    "score": 10
+  },
+  {
+    "id": "w25s4Vl6Ri4",
+    "title": "WE DEMANDED PROOF: KENYAN PRINCE’S FOREX RESULTS | Wealth, Fraud Allegations, Cars \\u0026 New School",
+    "score": 10
+  },
+  {
+    "id": "th77DwWlVVI",
+    "title": "The Temper Trap - Sweet Disposition (John Summit \\u0026 Silver Panda Remix)",
+    "score": 10
+  },
+  {
+    "id": "WStAm_BrkGI",
+    "title": "Jon Bellion - Simple and Sweet",
+    "score": 10
+  },
+  {
+    "id": "HXUaoDl3Rgs",
+    "title": "Sweet Painted Lady (Remastered 2014)",
+    "score": 10
+  },
+  {
+    "id": "Dd_162NOAOw",
+    "title": "N'John - Sweet Love",
+    "score": 10
+  },
+  {
+    "id": "oAXxv-SYI2I",
+    "title": "\\\"Sweet  Dreams\\\" Long Tall Deb \\u0026 Colin John",
+    "score": 10
+  },
+  {
+    "id": "GbJNjSCpRNI",
+    "title": "Teddyson John - Sweet Soca Music [St. Lucia Soca 2013]",
+    "score": 10
+  },
+  {
+    "id": "XRPgBJeA4lU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PHCdlaqqql0",
+    "title": "Crockpot BIRRIA Recipe | Quesabirrias \\u0026 Consome for the win!",
+    "score": 10
+  },
+  {
+    "id": "BEPxoabmn9o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XDzxr2_dJHI",
+    "title": "Ingredients",
+    "score": 10
+  },
+  {
+    "id": "xENpAIc2JAE",
+    "title": "Slow Cooker BARBACOA Tacos #mexicanrecipes #shortrecipe #tacos",
+    "score": 10
+  },
+  {
+    "id": "Kusys-Hrdig",
+    "title": "add one large or medium carrot",
+    "score": 10
+  },
+  {
+    "id": "I6RvdV-mpb0",
+    "title": "Beef Birria Tacos!",
+    "score": 10
+  },
+  {
+    "id": "xuZ3PD2LS5Y",
+    "title": "Consomé de borrego en olla de cocción lenta, receta paso a paso //Lamb soup in slow cooker.",
+    "score": 10
+  },
+  {
+    "id": "e0dy3gFL_PE",
+    "title": "Caldo de res #easyrecipe #caldoderes",
+    "score": 10
+  },
+  {
+    "id": "GW3aYV9PzME",
+    "title": "Ingredients",
+    "score": 10
+  },
+  {
+    "id": "wHLEDMow65c",
+    "title": "Garlic cloves",
+    "score": 10
+  },
+  {
+    "id": "5CyEK0I31mM",
+    "title": "These Tacos are LIFE CHANGING | Authentic Birria Tacos",
+    "score": 10
+  },
+  {
+    "id": "qxVjDbcF5QA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DPmR9Svjqbc",
+    "title": "Elton John - Your Song (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "HQWKTlMKmn8",
+    "title": "Your Song - Elton John / Ellie Goulding (Boyce Avenue piano acoustic cover)(Rocketman film)",
+    "score": 10
+  },
+  {
+    "id": "k4fY4AqF_QU",
+    "title": "Elton John - Your Song (Million Dollar Piano)",
+    "score": 10
+  },
+  {
+    "id": "itDQYmQgcvc",
+    "title": "Chicago - Song For You [w/ lyrics]",
+    "score": 10
+  },
+  {
+    "id": "PODzWIeMrkY",
+    "title": "Elton John - Your Song - Lyrics - HD",
+    "score": 10
+  },
+  {
+    "id": "mBCVEcjScTQ",
+    "title": "Rocketman - Your Song Sing-Along (Taron Egerton as Elton John) | Netflix",
+    "score": 10
+  },
+  {
+    "id": "pcOQwRWjKYo",
+    "title": "Elton John - Recover Your Soul",
+    "score": 10
+  },
+  {
+    "id": "9Du-5wY4Mdg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4D89Qr5vH6U",
+    "title": "Your Song - Parokya ni Edgar | Jenzen x Liam x Dave x Fern x Carl (Cover)",
+    "score": 10
+  },
+  {
+    "id": "yjvDVOmHY1w",
+    "title": "Parokya ni Edgar - Your Song (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rdbi0Y2IjKg",
+    "title": "Chicago Greatest Hits Full Album - Best Songs of Chicago",
+    "score": 10
+  },
+  {
+    "id": "xDbF9Dt25IE",
+    "title": "Multo - Cup Of Joe, Tibok - Earl Agustin | Best New Tagalog Love Songs 2025- Hot Hits OPM On Spotify",
+    "score": 10
+  },
+  {
+    "id": "ApXoWvfEYVU",
+    "title": "Shakira - Waka Waka (This Time for Africa) (The Official 2010 FIFA World Cup™ Song)",
+    "score": 10
+  },
+  {
+    "id": "pRpeEdMmmQ0",
+    "title": "U2 - Still haven't found + All I Want Is You + City of Blinding Lights (Milan 2005) HD",
+    "score": 10
+  },
+  {
+    "id": "Alu_hzm43Uw",
+    "title": "Elton John - Can You Feel The Love Tonight [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "CLNG7Ag1F5E",
+    "title": "Rico Blanco - You’ll Be Safe Here (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "xyg1YlwWMNw",
+    "title": "YOUR SONG (ELTON JOHN) - LEGENDADO - HD",
+    "score": 10
+  },
+  {
+    "id": "fukGbiPuBjU",
+    "title": "Qin Shi Song - \\\"Your King\\\" | FabvL (Record of Ragnarok)",
+    "score": 10
+  },
+  {
+    "id": "1LZk2CsBC1U",
+    "title": "YOURS (Official Audio) Mani Longia | Sync",
+    "score": 10
+  },
+  {
+    "id": "Iq7MR4RuC6k",
+    "title": "Whenever You Wake Up with a Song in Your Mind It Means These 3 Things | Joshua Generation | Prayer",
+    "score": 10
+  },
+  {
+    "id": "lRaI2-YB5VI",
+    "title": "I'm Your DJ Tonight (Video Song) | Yo Yo Honey Singh | Desi Kalakaar | T-Series",
+    "score": 10
+  },
+  {
+    "id": "Cq4r3iaR8iY",
+    "title": "Rita Ora - Your Song (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "KxyXIsMHq54",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sG-AiFlD7A4",
+    "title": "Your Song - Elton John cover",
+    "score": 10
+  },
+  {
+    "id": "JE3SHMGb9bY",
+    "title": "Song for You",
+    "score": 10
+  },
+  {
+    "id": "vPikHHjRTOo",
+    "title": "Search filters",
+    "score": 10
+  }
+]

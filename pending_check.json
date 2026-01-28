@@ -1,1 +1,3432 @@
-[]
+[
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון  - 43 - פונקציות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "n4ba86ULy4Q",
+    "title": "חידוש רהיטי עץ - איך מחדשים רהיטי עץ בבית לבד? 3 שלבים בלבד",
+    "score": 60
+  },
+  {
+    "id": "cXZcd5PiZtA",
+    "title": "פתיחה",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "שמשון מאור חידוש שיפוץ מזנון ישן בן 100 שנה בשיטות מסורתיות, פוליטורה",
+    "score": 60
+  },
+  {
+    "id": "K2wPt2FnlnQ",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "G5g5ROIz1c4",
+    "title": "שמשון מאור חידוש שיפוץ רהיטים ישנים רהיטים חידוש  עתיקים רסטורציה פוליטורה בשיטות מסורתיות",
+    "score": 60
+  },
+  {
+    "id": "R2lyycxgqEs",
+    "title": "שיקום \\\"אשפה לאוצר\\\" | שיקום רהיטים",
+    "score": 60
+  },
+  {
+    "id": "dZEybM1x_VA",
+    "title": "שיפוץ רהיטים ויצירת אדנית הולנדית",
+    "score": 60
+  },
+  {
+    "id": "7JVQvzUKQGo",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "4OSVLm19Uho",
+    "title": "שיפוץ הרהיטים הכי גדול שלי... ארון תרופות מלוכלך",
+    "score": 60
+  },
+  {
+    "id": "uCATRNZY7TM",
+    "title": "החייאת שידה נשכחת מעליית גג נטושה | שחזור רהיטים בסגנון אר דקו",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "כוכבי לכת שונים | טלוויזיה לילדים | בדוק את זה! תסתכל על זה!Blippi Wonders *PLANETS*",
+    "score": 60
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "כוכב לכת כדור הארץ מערכת השמש חלל לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "פרופ' ראם סרי - מבנה מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "כדור הארץ בחלל - על כדור הארץ, השמש והירח  ותנועה מחזורית",
+    "score": 60
+  },
+  {
+    "id": "7kNjNvEVuUg",
+    "title": "התנועה המפתיעה של השמש לרוחב השמיים - גורדון וויליאמסון",
+    "score": 60
+  },
+  {
+    "id": "f3Xxg4FuKPM",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "o0wyYsNbJeY",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "How I turned this FREE ikea sideboard from FB marketplace into $950 🤯 #furnitureflip #restoration",
+    "score": 50
+  },
+  {
+    "id": "pzidLTeRKdQ",
+    "title": "Easy MCM Dresser Restoration for a Profit! #furniturerestoration #woodworking #furnitureflipping",
+    "score": 50
+  },
+  {
+    "id": "IkFB4VM3zeg",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "FpeEwZFitSE",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python Για Αρχάριους | FULL COURSE Ελληνικά",
+    "score": 50
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Learn Python in Less than 10 Minutes for Beginners (Fast \\u0026 Easy)",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "JnovB4cGP-Y",
+    "title": "How to Ease Neck Pain at Home",
+    "score": 50
+  },
+  {
+    "id": "MSad45F0ueY",
+    "title": "How to Hack Your Brain When You're in Pain | Amy Baxter | TED",
+    "score": 50
+  },
+  {
+    "id": "lpyZAWGo-zo",
+    "title": "Guided meditation for chronic pain relief | Your Path to Pain Relief with Chibs Okereke",
+    "score": 50
+  },
+  {
+    "id": "sKQTvMvEu5w",
+    "title": "Lower Back Stretches to Reduce Pain and Build Strength",
+    "score": 50
+  },
+  {
+    "id": "sgO7BK6fxK4",
+    "title": "Lower Back Stretches to Reduce Pain and Build Strength",
+    "score": 50
+  },
+  {
+    "id": "s9b2y3Mg2n8",
+    "title": "5 min clearing morning Guided meditation for positivity and grounding",
+    "score": 50
+  },
+  {
+    "id": "tauG62taFQU",
+    "title": "5 Minute Guided Morning Meditation for Positive Energy ☀️",
+    "score": 50
+  },
+  {
+    "id": "j734gLbQFbU",
+    "title": "Guided Abundance Meditation | Bob Proctor",
+    "score": 50
+  },
+  {
+    "id": "-2zdUXve6fQ",
+    "title": "make yourself comfortable either in a seated or lying down position",
+    "score": 50
+  },
+  {
+    "id": "Oo6ld77Zj_4",
+    "title": "A Guided Meditation for Stepping into the Next Chapter of Your Life!",
+    "score": 50
+  },
+  {
+    "id": "WLTkxWoQt-4",
+    "title": "5 Minute Guided Morning Mindfulness Meditation - Focused, Calm, and Centered",
+    "score": 50
+  },
+  {
+    "id": "n9ja1Wqkp1U",
+    "title": "35-Min Morning Guided Meditation For Abundance \\u0026 Gratitude | Joe Dispenza",
+    "score": 50
+  },
+  {
+    "id": "sCnSbROZN-s",
+    "title": "Grounding \\u0026 Protecting Your Energy (Guided Meditation)",
+    "score": 50
+  },
+  {
+    "id": "KfEqviC7rwg",
+    "title": "welcome to this guided meditation",
+    "score": 50
+  },
+  {
+    "id": "An-RfqPhHo8",
+    "title": "🌟 Powerful New Beginnings: 10 Minute Guided Meditation to Release the Past \\u0026 Welcome Fresh Starts",
+    "score": 50
+  },
+  {
+    "id": "XZjkik4TfME",
+    "title": "HOW TO HELP YOUR JOINT DEGENERATION, ARTHRITIS, \\u0026 INFLAMMATION - Dr Alan Mandell, DC",
+    "score": 50
+  },
+  {
+    "id": "4aIJ3MIbvJE",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "zESeeaFDVSw",
+    "title": "Simple but Important: How to Draw Your Bow",
+    "score": 50
+  },
+  {
+    "id": "nNXalaopKkM",
+    "title": "How To Draw A Cute Kitten Asking A Question",
+    "score": 50
+  },
+  {
+    "id": "citvayS_0o4",
+    "title": "How To Find Your Draw Length on a Traditional Bow",
+    "score": 50
+  },
+  {
+    "id": "Vq8fkKK_8A8",
+    "title": "How to Draw like Kim Jung Gi",
+    "score": 50
+  },
+  {
+    "id": "SbbPrejvJm4",
+    "title": "How To Draw An Arctic Fox",
+    "score": 50
+  },
+  {
+    "id": "Y1xvUrIeYI4",
+    "title": "How To Draw Toothless From How To Train Your Dragon",
+    "score": 50
+  },
+  {
+    "id": "jQQ_yOVenRs",
+    "title": "Lower Back Stretches to Reduce Pain and Build Strength",
+    "score": 50
+  },
+  {
+    "id": "fVEd8M_ZSdQ",
+    "title": "How To Evaluate and Treat Low Back Pain (Everything You Need To Know)",
+    "score": 50
+  },
+  {
+    "id": "f-ELbVVkZXY",
+    "title": "How To Fix One-Sided Lower Back Pain (Stretches and Exercises)",
+    "score": 50
+  },
+  {
+    "id": "hQU6n8wCwRY",
+    "title": "How To FIX Low Back Pain In 90 Seconds - (So Simple)",
+    "score": 50
+  },
+  {
+    "id": "qQ4vD5FdOKM",
+    "title": "The Christian's Complete Guide to BIBLICAL Meditation || (How to Meditate as a Christian)",
+    "score": 50
+  },
+  {
+    "id": "5gI7NclaExc",
+    "title": "Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression)",
+    "score": 50
+  },
+  {
+    "id": "thcEuMDWxoI",
+    "title": "Guided Sleep Meditation Let Go of Anxiety, Fear \\u0026 Worry As You Drift Off To Sleep",
+    "score": 50
+  },
+  {
+    "id": "UtP-38ojoLQ",
+    "title": "Welcome to Tonight's Guided Meditation To Help You To Let Go of Anxiety Fear and Worry as You Drift Off To Sleep Now throughout this Practice I Invite You To Breathe and To Soften and To Release so that You May Experience an Inner Peace That Will Grow as You Sleep after Taking some Time To Settle into Your Breath and Body I Will Lead You on a Visual Journey To Deepen this Letting Go Process Now Know that There Is Nothing You Need To Have with You for this Practice",
+    "score": 50
+  },
+  {
+    "id": "N4qCFFBrrgk",
+    "title": "20 Minute Guided Meditation for Reducing Anxiety and Stress--Clear the Clutter to Calm Down",
+    "score": 50
+  },
+  {
+    "id": "l_RteEP_pOI",
+    "title": "Guided Meditation for Calm (Anxiety / OCD / Depression / Pain) Spoken by Michael Sealey",
+    "score": 50
+  },
+  {
+    "id": "0SAhH04F5cU",
+    "title": "My heart is ready / The joy of my life | Tutorial, guitar, chords | mda puubla",
+    "score": 50
+  },
+  {
+    "id": "2icIWlmvSP0",
+    "title": "Atonement in Case of Emergency - Atonement Cycle with Marta Salvat #acourseinmiracles #ucdm",
+    "score": 50
+  },
+  {
+    "id": "gXeiuMn5thE",
+    "title": "🟢How to CORRECTLY PRESENT a patient to the hospital 🏥 🔴",
+    "score": 50
+  },
+  {
+    "id": "keVtgOMdRXU",
+    "title": "TIPS FOR NOVICE EMERGENCY TECHNICIANS",
+    "score": 50
+  },
+  {
+    "id": "aPsKWLm-JuQ",
+    "title": "How to use an AED. #survival #emergency #fun facts",
+    "score": 50
+  },
+  {
+    "id": "DPiyNbfy6og",
+    "title": "How to Hear God's Voice? According to Ellen G. White",
+    "score": 50
+  },
+  {
+    "id": "O5IoZDZS0oY",
+    "title": "DANIEL HERRERA I SABBATH SCHOOL LESSON I JANUARY 28, 2026",
+    "score": 50
+  },
+  {
+    "id": "GdOdiFscIOY",
+    "title": "Do Just Fine at your Silver Age Armory: Ira Crimson Haze Deck Tech - Flesh and Blood SAGE",
+    "score": 50
+  },
+  {
+    "id": "H9IUWmxR-gg",
+    "title": "How to Use Glazing Points \\u0026 Picture Frames : Picture Frame Crafts",
+    "score": 50
+  },
+  {
+    "id": "1PVP51Y5dW8",
+    "title": "How to Do a Three-Point Push-Up",
+    "score": 50
+  },
+  {
+    "id": "8YcVeU90TAY",
+    "title": "Push On These Spots to Make Your TMJ Pain Go Away- Trigger Points",
+    "score": 50
+  },
+  {
+    "id": "ZqmyM0ahAS8",
+    "title": "How to install PUSH POINTS/GLAZING PINS",
+    "score": 50
+  },
+  {
+    "id": "K6Wz9BUy428",
+    "title": "How to adjust your car seat for safe, comfortable driving",
+    "score": 50
+  },
+  {
+    "id": "BecF4TvA3HY",
+    "title": "Most Comfortable Seats for Van Life | Scheel-Mann Seats Review and Install",
+    "score": 50
+  },
+  {
+    "id": "yW2A5xjEQeY",
+    "title": "Top 5 Best Comfort Bike Seats for Man [Review in 2026]",
+    "score": 50
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "C3iHAgwIYtI",
+    "title": "Starship | Second Flight Test",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "See SpaceX Starship's 10th launch in epic 4K slow motion",
+    "score": 10
+  },
+  {
+    "id": "PaPm0a8SIUM",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "zctTKdQcmVA",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "vf_WTkIExgY",
+    "title": "Blastoff! SpaceX Starship launches on 5th flight, nails 'chopsticks' booster catch!",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "[4K] SpaceX Starship Flight 9 Launch | Drone Cam",
+    "score": 10
+  },
+  {
+    "id": "h-cDKLX1v14",
+    "title": "Time lapse of the SpaceX Falcon 9 rocket launch from Huntington Beach, CA - 4K version",
+    "score": 10
+  },
+  {
+    "id": "-x7ruR5Vygc",
+    "title": "Starship | Tenth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "rcd_SQZDlnk",
+    "title": "NASA's SpaceX Crew-7 Launch (Official NASA Broadcast in 4K)",
+    "score": 10
+  },
+  {
+    "id": "QD2XDoeT8SI",
+    "title": "SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "MgMNo7q5P0U",
+    "title": "Starship | Fifth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "gLtxlG9cwpQ",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "lchtXWn8SOw",
+    "title": "4K Footage | SpaceX Launches",
+    "score": 10
+  },
+  {
+    "id": "gmJgW-yMAIg",
+    "title": "FULL LAUNCH! SpaceX Starship 11th Flight Test",
+    "score": 10
+  },
+  {
+    "id": "K0NOSJF1RrA",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "-4qlPXOuDaI",
+    "title": "See Falcon 9 Rocket Launch in 4k Slow-Motion at Night, SpaceX JCSAT-18/Kacific1 mission",
+    "score": 10
+  },
+  {
+    "id": "F-9ANTobgS0",
+    "title": "Artemis-1 Launch Cinematic 4K (with Music)",
+    "score": 10
+  },
+  {
+    "id": "BtUMt0gsqrs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "8VrgeLeruFo",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "60+ Bushcraft Skills \\u0026 Survival Tips",
+    "score": 10
+  },
+  {
+    "id": "qbETGQUOMZk",
+    "title": "10 KILLER Survival Fails",
+    "score": 10
+  },
+  {
+    "id": "seLwyDN2wpQ",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "100+ Wilderness Survival Tips: THE MOVIE",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "Hunting giant wild boars, homemade guns work surprisingly effectively, survival skills",
+    "score": 10
+  },
+  {
+    "id": "O5NoWCsZMS4",
+    "title": "Bushcraft Winter Shelter: Hidden Refuge, Fire Cooking \\u0026 Survival Skills",
+    "score": 10
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "3 Survival Skills Every Man Should Know",
+    "score": 10
+  },
+  {
+    "id": "hfB9sY_9EQw",
+    "title": "We're Weak",
+    "score": 10
+  },
+  {
+    "id": "DtYn7fixWcw",
+    "title": "CAN YOU REALLY",
+    "score": 10
+  },
+  {
+    "id": "1zt-wNRuwaU",
+    "title": "You can change the color of sealed wood with gel stain! No sanding necessary #diy #furniture",
+    "score": 10
+  },
+  {
+    "id": "Ta4AB09EM7U",
+    "title": "Secret way to fix your scuffed furniture with lacquer instead of refinishing 🤫",
+    "score": 10
+  },
+  {
+    "id": "6UDum8diOfg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ykuCN0xX1U8",
+    "title": "Uncovering the Secrets of the Sun (Full Episode) | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "zTWsRKMbKwc",
+    "title": "The Sun's Power and Nuclear Fusion",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "wkQuOrsgVGY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "X40Re7j1WlI",
+    "title": "The Collapse of the Solar Nebula",
+    "score": 10
+  },
+  {
+    "id": "OiUr-1yNEaI",
+    "title": "Largest Car Factory in the World (Full Episode) | Superstructures: Engineering Marvels | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "tHUx6P1c56E",
+    "title": "When Steel Meets Sweat: Eiffel's Megastructures | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "n5uGAZebT58",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PqHqB0Dv1hE",
+    "title": "Impossible Constructions: Ultra-Fast, Dangerous, Mind-Blowing | Full Series | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "G0KRDPlKpaI",
+    "title": "India - Railway Underpass in 5 Hours",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "My 10 Best Oil Painting TIPS To Instantly Improve Your Paintings",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "MgthcVIh1ZQ",
+    "title": "5 Simple Oil Painting Tips For New Artists! Wish I Knew This!",
+    "score": 10
+  },
+  {
+    "id": "RjMbuG7tRJU",
+    "title": "Best Oil Painting Tips For Brand New Painters",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gTRLhs9tI70",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8XB4NqoDvQ4",
+    "title": "20 Min Sciatica Pain Relief Exercises - Sciatica Treatment and Stretches for Sciatic Nerve Pain",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "31 Simple but Brilliant Repair Hacks – I Wish I Knew These Before Turning 40!",
+    "score": 10
+  },
+  {
+    "id": "Dv_AVac44Nk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "40tsymgNXbc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DIRXJkRhqQ0",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "zOszlixXloI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gqBAa_oKEOw",
+    "title": "Quick Relief For Rhomboid Pain (Upper Back Pain)",
+    "score": 10
+  },
+  {
+    "id": "9pvoT8tTqys",
+    "title": "3 EASY Stretches For Lower Back Pain Relief!",
+    "score": 10
+  },
+  {
+    "id": "kyEF16tBBxo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZNMDGSGvf3o",
+    "title": "Decompress Your Neck Pinched Nerve!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "l1vl5HiGsqQ",
+    "title": "Yoga For Back Pain | Best Stretches For Back Pain Relief",
+    "score": 10
+  },
+  {
+    "id": "enZAPsULaC4",
+    "title": "Yoga Stretches for Back Pain Relief, Sciatica, Neck Pain \\u0026 Flexibility, Beginners Level Workout",
+    "score": 10
+  },
+  {
+    "id": "mh0po80d-Ko",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "CO3racIlTcg",
+    "title": "help to alleviate pain in your spine",
+    "score": 10
+  },
+  {
+    "id": "JGhjCzEo3Hk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "X_lZ0R5UhhY",
+    "title": "The ONE Exercise You MUST Do For Sciatica Pain Relief (WORKS FAST!)",
+    "score": 10
+  },
+  {
+    "id": "oCZKt4jWmpg",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "CqTPtMhtAwU",
+    "title": "Neck and Shoulder Pain Relief in Seconds",
+    "score": 10
+  },
+  {
+    "id": "oZT2lkbaLXo",
+    "title": "Push 1 Point For Stomachache, Nausea, Bloating, or Gas!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "Fdr-jK4XrrM",
+    "title": "Pain Relief Meditation For Quick Release From Physical Pain",
+    "score": 10
+  },
+  {
+    "id": "onY5Wn3ZJ5Y",
+    "title": "Neurosurgeon explains: When is low back pain SERIOUS... and you need to take action.",
+    "score": 10
+  },
+  {
+    "id": "Ib8jlwkLYnQ",
+    "title": "An Approach to Acute Abdominal Pain",
+    "score": 10
+  },
+  {
+    "id": "5nZ8n1vUqVU",
+    "title": "8 best exercises to treat LOWER BACK PAIN | Doctor and physiotherapist step-by-step demonstration",
+    "score": 10
+  },
+  {
+    "id": "HXSZHLGNSyU",
+    "title": "3 Easy Stretches for Back Pain",
+    "score": 10
+  },
+  {
+    "id": "BUTWjE_dUgA",
+    "title": "Low Back Pain Explained (Including Red Flags)",
+    "score": 10
+  },
+  {
+    "id": "AOFqOyqzIEQ",
+    "title": "Common Causes of Back Pain",
+    "score": 10
+  },
+  {
+    "id": "tM6Fvep-wmM",
+    "title": "Pilates for chronic back pain | NHS",
+    "score": 10
+  },
+  {
+    "id": "zVjKoDJT8pc",
+    "title": "Low Back Pain",
+    "score": 10
+  },
+  {
+    "id": "BOjTegn9RuY",
+    "title": "Back Dominant Pain",
+    "score": 10
+  },
+  {
+    "id": "X89JQvb2-TM",
+    "title": "She Had Back Pain For Months!!",
+    "score": 10
+  },
+  {
+    "id": "_ySroQXjBZc",
+    "title": "Yoga For Lower Back Pain  |  Yoga With Adriene",
+    "score": 10
+  },
+  {
+    "id": "XeXz8fIZDCE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s9kxPlkGdJw",
+    "title": "The Biggest Lie About Lower Back Pain Relief!",
+    "score": 10
+  },
+  {
+    "id": "2VuLBYrgG94",
+    "title": "hold it about 3 to 5 seconds",
+    "score": 10
+  },
+  {
+    "id": "d6zJkHcjbWc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H4am2dzJrHY",
+    "title": "Unlock Low Back Pain Relief with the Ultimate Hip Stretch!",
+    "score": 10
+  },
+  {
+    "id": "F8YCDipWGAU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Hnlg15GHzSw",
+    "title": "3 SIMPLE Exercises For Lower Back Pain Relief! (Strengthen Your Spine)",
+    "score": 10
+  },
+  {
+    "id": "AtAUljansdk",
+    "title": "SEVERE LOW BACK PAIN FROM HERNIATED DISCS, IMMEDIATE IMPROVEMENT #ringdinger",
+    "score": 10
+  },
+  {
+    "id": "u2hBtmcEBsc",
+    "title": "What causes back pain? And what treatments can help? - George Pan, MD | UCLA Pain Center",
+    "score": 10
+  },
+  {
+    "id": "vRS0je8eopc",
+    "title": "Back Pain, Causes, Signs and Symptoms, Diagnosis and Treatment.",
+    "score": 10
+  },
+  {
+    "id": "LQBGhqN5Qds",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "n0iL3kxaL_Y",
+    "title": "Back Stretches + Exercises // For LOWER BACK PAIN",
+    "score": 10
+  },
+  {
+    "id": "U3DParHgSMc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MWJWhGG3zB0",
+    "title": "Carolina revela su verdadera identidad ante Oscar | Monteverde | Resumen C51-55",
+    "score": 10
+  },
+  {
+    "id": "LwpoXdUmu8Q",
+    "title": "😱LORO Testifica en Corte y lo que Revela Deja al JUEZ Completamente PARALIZADO",
+    "score": 10
+  },
+  {
+    "id": "PYvMgkMVH4Q",
+    "title": "Shun se revela ante la posesión del Dios Hades",
+    "score": 10
+  },
+  {
+    "id": "rjkxTSSdifU",
+    "title": "Butters se REVELA ante Cartman SOUTH PARK CAPITULO COMPLETO Latino",
+    "score": 10
+  },
+  {
+    "id": "a4TbqfIE4Ao",
+    "title": "El mundo se revela ante ti en correspondencia con tu intención l",
+    "score": 10
+  },
+  {
+    "id": "YKajAQUJ1l0",
+    "title": "Robot se revela ante humanos | Buttercup",
+    "score": 10
+  },
+  {
+    "id": "NE6WkEydGOY",
+    "title": "Imperio de Cristal - Augusto se revela ante Livia",
+    "score": 10
+  },
+  {
+    "id": "ylfaetOrkV0",
+    "title": "Dios se revela ante Abimelec mediante un sueño | Abraham en Neguev | Génesis 20",
+    "score": 10
+  },
+  {
+    "id": "WRf-tpdt3dA",
+    "title": "Rocío se revela ante el Sr Justicia en Basta Juego Exclusivo Me caigo de risa.",
+    "score": 10
+  },
+  {
+    "id": "jOXd0SIdSro",
+    "title": "Dragon Ball Super 2: \\\"The Movie 2027\\\" - GOKU SE REVELA ANTE LOS DIOSES !!",
+    "score": 10
+  },
+  {
+    "id": "zcZ5-OKVucU",
+    "title": "😱Padre Fortea Revela las 6 SEÑALES que Delatan a un DEMONIO HUMANO Entre Nosotros",
+    "score": 10
+  },
+  {
+    "id": "1czq-HOXqns",
+    "title": "Introducción: ¿Por qué hablar del mal hoy?",
+    "score": 10
+  },
+  {
+    "id": "tcq-R-nWdqE",
+    "title": "Introducción magnética",
+    "score": 10
+  },
+  {
+    "id": "IDSRxzpFbi8",
+    "title": "Reimbert rebels against Noboa",
+    "score": 10
+  },
+  {
+    "id": "IWYxhtg-zvo",
+    "title": "Maureen se revela ante Yamile | Amor Sincero",
+    "score": 10
+  },
+  {
+    "id": "8r-WBA_HY-I",
+    "title": "Artemio Bravo revela su maldad ante Gonzalo",
+    "score": 10
+  },
+  {
+    "id": "PCOp0EEEAsI",
+    "title": "¡BOMBA! JORGE 40 lo REVELA: los GNECCO y YO FINANCIAMOS los PARAS en el Cesar",
+    "score": 10
+  },
+  {
+    "id": "E9qRFBl1RvA",
+    "title": "❄️ TORMENTA FERN: ASHTAR REVELA la VERDAD | Discernimiento y PAZ ante el MIEDO COLECTIVO HOY! 🔥",
+    "score": 10
+  },
+  {
+    "id": "wVIIMDiRZsw",
+    "title": "La Promesa: Eugenia desata el escándalo: revela ante el palacio al verdadero padre de Ángela",
+    "score": 10
+  },
+  {
+    "id": "RyKkq2XYy9E",
+    "title": "¿TU HIJO SE ALEJÓ DE DIOS? SANTA TERESA REVELA 3 COSAS QUE DEBES HACER HOY MISMO",
+    "score": 10
+  },
+  {
+    "id": "cN1Qiw71L90",
+    "title": "Antonio Naranjo revela ante Rojo la hoja de ruta de Sánchez: “eliminar la disidencia y luego...”",
+    "score": 10
+  },
+  {
+    "id": "ZIirs7Xlv-A",
+    "title": "La Promesa Avance - ¡Manuel revela ante todos su relación con Jana!",
+    "score": 10
+  },
+  {
+    "id": "YoTHzfcXFJY",
+    "title": "Santa Faustina Revela: Cómo Adorar al Santísimo Sacramento y Evitar Errores Comunes",
+    "score": 10
+  },
+  {
+    "id": "fbE6YQOHTbQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iI2UytLbcw8",
+    "title": "NO CREÍA EN DIOS, HASTA QUE ESTO SUCEDIÓ... 🥺",
+    "score": 10
+  },
+  {
+    "id": "hl26dR5dfjs",
+    "title": "Mi Niñez",
+    "score": 10
+  },
+  {
+    "id": "OU-hy7YyCMQ",
+    "title": "GOD REVEALS TO YOU! SOMEONE WILL COME INTO YOUR LIFE AND NOTHING WILL EVER BE THE SAME ✨",
+    "score": 10
+  },
+  {
+    "id": "DjKKVWgAjMw",
+    "title": "😢 ¡LO QUE PASÓ HACE 5 MINUTOS CON DIOS CAMBIARÁ TU VIDA!",
+    "score": 10
+  },
+  {
+    "id": "qq0hBOaK1o4",
+    "title": "Explicando lo que sucedió en la cruz | Pastor David Firman",
+    "score": 10
+  },
+  {
+    "id": "GUL_Ap99MR0",
+    "title": "¿Qué Pasó Después Del Diluvio? La Biblia Lo Revela… Pero Nadie Lo Menciona | Historias De La Biblia",
+    "score": 10
+  },
+  {
+    "id": "RBoKMMTPLw4",
+    "title": "I REFUSED TO BELIEVE IN GOD UNTIL THIS HAPPENED",
+    "score": 10
+  },
+  {
+    "id": "6bOQlv4yNRY",
+    "title": "¿Qué sucedió durante los 4 siglos ocultos de la Biblia? El período entre Malaquías y Jesucristo",
+    "score": 10
+  },
+  {
+    "id": "DiFUxWIULQI",
+    "title": "¿Qué sucedió ANTES de la Creación según la Biblia? (Misterio Biblico Revelado)",
+    "score": 10
+  },
+  {
+    "id": "MpG1Zao2-CA",
+    "title": "¡LO QUE SUCEDIÓ HACE 5 MINUTOS CON DIOS VA A CAMBIAR TU VIDA!",
+    "score": 10
+  },
+  {
+    "id": "K8PjGkk-pKA",
+    "title": "Daniel 9 Y El Reloj De Israel: ¿Se Está Preparando La Semana 70? | Dr. Armando Alducin",
+    "score": 10
+  },
+  {
+    "id": "mRNNlqAMBGo",
+    "title": "De Primera Dama a Prisionera: La Caída de Cilia Flores, La Mujer Más Poderosa de Venezuela",
+    "score": 10
+  },
+  {
+    "id": "WgG82iNCCak",
+    "title": "With a family to support and no money… He achieved the impossible",
+    "score": 10
+  },
+  {
+    "id": "vmM-li-RBYo",
+    "title": "🚨 ÚLTIMA HORA 🔴 ¡URGENTE! TRUMP INICIA FASE II: MARCO RUBIO CONFIRMA ACCIÓN A LA CÚPULA EN VENEZUELA",
+    "score": 10
+  },
+  {
+    "id": "ITiX1ywZswk",
+    "title": "¿QUIÉN MURIÓ PRIMERO, ADÁN O EVA? - LA VERDAD DE LO QUE PASÓ",
+    "score": 10
+  },
+  {
+    "id": "FH7f16AkGdY",
+    "title": "MI TESTIMONIO \\\"FUI RECHAZADO DESDE EL VIENTRE DE MI MADRE\\\" PASTOR RAFAEL SANCHEZ",
+    "score": 10
+  },
+  {
+    "id": "zQUe0VlpC0M",
+    "title": "ÚLTIMA HORA 🔴: DRONES SOBRE VENEZUELA, ¿LA CIA PREPARAN FASE FINAL?",
+    "score": 10
+  },
+  {
+    "id": "IKOnywHpXd8",
+    "title": "Dios está diciendo: Algo importante ya sucedió (no te diste cuenta)",
+    "score": 10
+  },
+  {
+    "id": "H0GaMs8C8F0",
+    "title": "SUPE QUE DIOS ERA REAL DESPUÉS DE QUE ESTO SUCEDIÓ...(TESTIMONIO)",
+    "score": 10
+  },
+  {
+    "id": "Ki_veQQGdQY",
+    "title": "Crecí En La Iglesia Pero No Conocí a Dios",
+    "score": 10
+  },
+  {
+    "id": "Og5ekoC_IHc",
+    "title": "A ) ¿COMO SUCEDIÓ LA CREACIÓN  - PLAN DE DIOS  -  ¿Dios creó seres sabiendo que pecarían?",
+    "score": 10
+  },
+  {
+    "id": "J4jinnfRVBk",
+    "title": "😢🔥 ¡LO QUE PASÓ HACE 5 MINUTOS CON DIOS CAMBIARÁ TU VIDA! 🙏⚡",
+    "score": 10
+  },
+  {
+    "id": "OfakMpjQiwY",
+    "title": "ODIABA A DIOS HASTA QUE ESTO SUCEDIÓ...😔",
+    "score": 10
+  },
+  {
+    "id": "43dCxF6UjDc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "f1mAG8NaXv0",
+    "title": "Introducción y advertencias bíblicas",
+    "score": 10
+  },
+  {
+    "id": "2JEHNvRl1cM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1h8QGDugZRA",
+    "title": "YOU LIKE THIS, RIGHT?! | Latin American dubbing 🇲🇽",
+    "score": 10
+  },
+  {
+    "id": "YkybEZY7mvU",
+    "title": "Manu Chao - Me Gustas Tu (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "rs6Y4kZ8qtw",
+    "title": "Ah, Vane doesn't like this 🙄🥴 We had soda with churros 🤤",
+    "score": 10
+  },
+  {
+    "id": "s75VCd0aBxM",
+    "title": "Me Gusta Esto",
+    "score": 10
+  },
+  {
+    "id": "T5AgTEi36gs",
+    "title": "Me Gusta Esto",
+    "score": 10
+  },
+  {
+    "id": "OfmXQ5dbd9E",
+    "title": "[FREE] Freestyle Base de Rap |\\\"ME GUSTA ESTO\\\"| [Boom Bap] BEAT SIN LICENCIA/ type beat tiradera",
+    "score": 10
+  },
+  {
+    "id": "m_PMH8RE0WM",
+    "title": "Esto no me gusta reggaeton (Video Oficial ) - Música latina",
+    "score": 10
+  },
+  {
+    "id": "1Sm6k7ALHxo",
+    "title": "Joan Sebastian - Me Gustas (Letra Oficial)",
+    "score": 10
+  },
+  {
+    "id": "Fraqb7wyofE",
+    "title": "Subtle signs that a girl likes you",
+    "score": 10
+  },
+  {
+    "id": "j5yaAi2COrk",
+    "title": "7 Things a Woman Does When She's in Love with You...",
+    "score": 10
+  },
+  {
+    "id": "ufKutyVMKfU",
+    "title": "❤️ 10 Signs That a Woman Likes You (Even If She Tries to Hide It)",
+    "score": 10
+  },
+  {
+    "id": "lRCv1HxUuD0",
+    "title": "Dios No Puede Bendecirte Hasta Que Limpie Tu Mente | Juan Pablo Lerman",
+    "score": 10
+  },
+  {
+    "id": "UtToVuSPlP4",
+    "title": "Introducción: Somos templo del Espíritu Santo",
+    "score": 10
+  },
+  {
+    "id": "DeRcNEKNZ8Q",
+    "title": "Edgar Cayce predicted 2026 and this is what will happen (The Forbidden Map)",
+    "score": 10
+  },
+  {
+    "id": "lx7B5HNp7zs",
+    "title": "10 NON-VERBAL SIGNALS THAT REVEAL ATTRACTION",
+    "score": 10
+  },
+  {
+    "id": "BjlOFpUMVDU",
+    "title": "PALENQUE Pueblo Mágico, for its main streets and establishments, Chiapas",
+    "score": 10
+  },
+  {
+    "id": "x-go2hrY_h8",
+    "title": "JOAN SEBASTIAN 50 GRANDES ÉXITOS MIX | JOAN SEBASTIAN SUS MEJORES CANCIONES❤️",
+    "score": 10
+  },
+  {
+    "id": "2lCoK-284kI",
+    "title": "🐮🇵🇾 IF YOU THOUGHT IT WAS SHADY, THIS GETS WORSE",
+    "score": 10
+  },
+  {
+    "id": "0KaCde_qoBQ",
+    "title": "Gusta",
+    "score": 10
+  },
+  {
+    "id": "eD8gkTKApv8",
+    "title": "Grupo Arriesgado - Ya No Puedo Con Esto",
+    "score": 10
+  },
+  {
+    "id": "V3WaFDT_8Gc",
+    "title": "Como Te Gusta Esto",
+    "score": 10
+  },
+  {
+    "id": "iQ-HG5VLlCg",
+    "title": "\\\"If she does this... she likes you more than you think/ Move on",
+    "score": 10
+  },
+  {
+    "id": "yiQ4_STlViQ",
+    "title": "Te Gusta Esto",
+    "score": 10
+  },
+  {
+    "id": "r_f5bbFoT3Q",
+    "title": "ESTO NO LE GUSTA A DIOS | Juan Pablo Lerman @avivamientoypoder_ ",
+    "score": 10
+  },
+  {
+    "id": "cX0ydme9ZO8",
+    "title": "Así se ESTO en el FUTURO 🤖 #humor #meme",
+    "score": 10
+  },
+  {
+    "id": "2fyPtIrGgRk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZToicYcHIOU",
+    "title": "bring your awareness to the breath taking",
+    "score": 10
+  },
+  {
+    "id": "YMF5h6HpxKk",
+    "title": "sink into a totally relaxed state",
+    "score": 10
+  },
+  {
+    "id": "uTN29kj7e-w",
+    "title": "Welcome to the Present Moment | 20 Minute Meditation with Eckhart Tolle",
+    "score": 10
+  },
+  {
+    "id": "8vFZ-cF4ioI",
+    "title": "Daily Calm | 10 Minute Mindfulness Meditation | Letting Go",
+    "score": 10
+  },
+  {
+    "id": "syx3a1_LeFo",
+    "title": "take a few long deep breaths to relax",
+    "score": 10
+  },
+  {
+    "id": "PIAWiBZ_ZZM",
+    "title": "bring your body to a lying-down position",
+    "score": 10
+  },
+  {
+    "id": "1VgMbYujjS8",
+    "title": "begin to write a new story",
+    "score": 10
+  },
+  {
+    "id": "k-Ng23qTU4o",
+    "title": "10 Min Morning Meditation ➤ Open Your Heart To The Blessings Of A New Day ☀️",
+    "score": 10
+  },
+  {
+    "id": "VNTkPCtEy28",
+    "title": "Welcoming What's Here - A Yoga Nidra Meditation",
+    "score": 10
+  },
+  {
+    "id": "uvVhAB6ZUYI",
+    "title": "Pre-intro",
+    "score": 10
+  },
+  {
+    "id": "K6L9wyuRzGQ",
+    "title": "Trick The Brain \\u0026 Remove Your Pain!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "q5y4vRIuuwM",
+    "title": "Low Back Pain Fix! #shots",
+    "score": 10
+  },
+  {
+    "id": "CYbmz-0PczY",
+    "title": "Ease Shoulder and Shoulder Blade Pain!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "gdqQDhfbAj0",
+    "title": "Quickly Remove Low Back Pain, Pinched Nerve, Sciatica!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "LXTG-VbXAg4",
+    "title": "Decompress Your Neck Pinched Nerve!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "balaRkph7UY",
+    "title": "Relieve Low Back Pain in Seconds",
+    "score": 10
+  },
+  {
+    "id": "3Rx2vUnFAM4",
+    "title": "Heal Nerve Pain \\u0026 Neuropathy Naturally | Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "Yg275Jmcbmc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dDz5oWi3U2E",
+    "title": "Get Rid of Your 1 Sided Lower Back Pain!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "xOS9d6_GZv4",
+    "title": "Fix Clicking, Painful, Weak Knees!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "JkLJyduXd0w",
+    "title": "Remove Dizziness, Neck and Headache Pain!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "3FjLP2WwH8M",
+    "title": "No More Pain…Free to Walk Again!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "kFrbrALRSwU",
+    "title": "Fix 1 Sided Neck Pain in 30 Seconds!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "h477OOWWOfI",
+    "title": "Fix Headaches, Dizziness, Tinnitus \\u0026 Neck Pain Super Fast!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "ql6e1gBDW-k",
+    "title": "Heal 1-Sided Neck Pain in 30 Seconds!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "UAdx3dMaJTE",
+    "title": "Forms of Arthritis",
+    "score": 10
+  },
+  {
+    "id": "j0xxPSsrcmg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "uq3FfRC_o14",
+    "title": "Episode #219 - Using the Search Filters Web Part of PnP Modern Search",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Find playlists with search filters | Pro Tips from TeamYouTube",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "GgvKvU7BC4A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "e9k5mvxKtsg",
+    "title": "Angus \\u0026 Julia Stone - Draw Your Swords [Audio]",
+    "score": 10
+  },
+  {
+    "id": "T-rFeBsaESU",
+    "title": "Draw your future | Patti Dobrowolski | TEDxRainier",
+    "score": 10
+  },
+  {
+    "id": "qcuxXpaT7Eo",
+    "title": "Is Your Draw Length Wrong?... tink tink.. // EPPY 2 with MFJJ",
+    "score": 10
+  },
+  {
+    "id": "Neb6fN6hD6o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LfZ-KE7005k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C9NhhG7KSPk",
+    "title": "6 Steps to Draw Anything",
+    "score": 10
+  },
+  {
+    "id": "6T_-DiAzYBc",
+    "title": "walk to school in ohio",
+    "score": 10
+  },
+  {
+    "id": "C8LhQyycvuU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "D9xitqfP5P0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MudtmW7iKy8",
+    "title": "COULD I BE ALERGIC TO THIS ART SUPPLY?! | Mystery Art Supplies Unboxing",
+    "score": 10
+  },
+  {
+    "id": "iitdy0VJXmA",
+    "title": "round 1",
+    "score": 10
+  },
+  {
+    "id": "2H74DuSZ_Rc",
+    "title": "OLD vs NEW LEGO...",
+    "score": 10
+  },
+  {
+    "id": "DmqFbgKWoao",
+    "title": "DRAWING YOU",
+    "score": 10
+  },
+  {
+    "id": "0k7EGIy6zP0",
+    "title": "Eyes",
+    "score": 10
+  },
+  {
+    "id": "ZF2Kigxa7cI",
+    "title": "HOW-TO DRAW SOMETHING (when you can't think of anything) | The Process of Finding Ideas",
+    "score": 10
+  },
+  {
+    "id": "2bgwKY_xAEA",
+    "title": "OUR DRAWINGS - PRINCESS MOVIE | Full Animation Film | Artist",
+    "score": 10
+  },
+  {
+    "id": "G1LhdhQEKtg",
+    "title": "THIS Is How Fast Your Draw Speed Should Be...",
+    "score": 10
+  },
+  {
+    "id": "4hMSGNbjUZ4",
+    "title": "How fast should you be able to draw your handgun out of a concealed holster for self-defense?",
+    "score": 10
+  },
+  {
+    "id": "RF_iI3hu-yE",
+    "title": "Draw your OC as...",
+    "score": 10
+  },
+  {
+    "id": "xYtw-fa7_2o",
+    "title": "draw little ovals inside of each eye",
+    "score": 10
+  },
+  {
+    "id": "MwuBuzQDnl0",
+    "title": "Your First Sketchbook",
+    "score": 10
+  },
+  {
+    "id": "MjTVTQ22cns",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RwOfHZ5pkag",
+    "title": "Instant Lower Back Pain Relief",
+    "score": 10
+  },
+  {
+    "id": "_PDOXlVGeuY",
+    "title": "Orthopedic Rehabilitation: Low back pain exercises",
+    "score": 10
+  },
+  {
+    "id": "ucBzuUi4rK0",
+    "title": "Low Back \\u0026 Radiating Leg Pain Home Exercises | UC San Diego Health",
+    "score": 10
+  },
+  {
+    "id": "K13h0TTy8qs",
+    "title": "Best Sleeping Positions for Lower Back Pain Recovery",
+    "score": 10
+  },
+  {
+    "id": "9KcTz0sOMys",
+    "title": "LOWER BACK PAIN? (Do these exercises everyday…)",
+    "score": 10
+  },
+  {
+    "id": "T2PVue1hYwI",
+    "title": "Low back pain? Try this stretch and share! #lowbackpain #crack #trending",
+    "score": 10
+  },
+  {
+    "id": "ZnigpbNQDRs",
+    "title": "Low back pain- The most common causes of lower back pain",
+    "score": 10
+  },
+  {
+    "id": "F-guZNSuwKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dC99WzIHkoQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "25vnHTlT6LQ",
+    "title": "3 EASY Stretches For Lower Back Pain Relief!",
+    "score": 10
+  },
+  {
+    "id": "vh8-p39leYk",
+    "title": "30 minute Yoga for Low Back Pain (All Levels) | Sarah Beth Yoga",
+    "score": 10
+  },
+  {
+    "id": "K8SD47gLB-I",
+    "title": "rest your forehead on the mat observe",
+    "score": 10
+  },
+  {
+    "id": "6VAnQXeQUL8",
+    "title": "Correct Low Back, Buttocks, Hip Pain in Seconds!  Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "PZpsZOmaPdY",
+    "title": "Lower Back Love  |  Yoga For Back Pain",
+    "score": 10
+  },
+  {
+    "id": "J-05m7bboK0",
+    "title": "grab a thick towel or a small blanket",
+    "score": 10
+  },
+  {
+    "id": "o4oJCjnQh0s",
+    "title": "Chiropractic Adjustment for Low back pain",
+    "score": 10
+  },
+  {
+    "id": "CGsHKASADT0",
+    "title": "Relieve Hip, Sacroiliac, and Low Back Pain (3 Exercises) Dr. Mandell",
+    "score": 10
+  },
+  {
+    "id": "nZ0aBx29Mw4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RArMVYuWqw8",
+    "title": "Lower Back Stretches for Back Relief (MORNING BED ROUTINE)",
+    "score": 10
+  },
+  {
+    "id": "tDbvVITtpFU",
+    "title": "Stretches and Exercises for Lower Back Pain (Standing Lumbar Extension) | HSS",
+    "score": 10
+  },
+  {
+    "id": "B2JbQVc7yOA",
+    "title": "8 best exercises to treat LOWER BACK PAIN | Doctor and physiotherapist step-by-step demonstration",
+    "score": 10
+  },
+  {
+    "id": "Jl6r50ADi0U",
+    "title": "Relief for Upper Back Pain",
+    "score": 10
+  },
+  {
+    "id": "8N2w5YHygho",
+    "title": "Back Stretches that Ease Stiffness \\u0026 Increase Flexibility",
+    "score": 10
+  },
+  {
+    "id": "u_YaHaTg5aE",
+    "title": "Stretches to Ease Back Pain",
+    "score": 10
+  },
+  {
+    "id": "K2dilSv8h6M",
+    "title": "Seated Low Back Stretch",
+    "score": 10
+  },
+  {
+    "id": "oi4Dq7uZfEg",
+    "title": "Unlock Low Back Pain Relief with the Ultimate Hip Stretch!",
+    "score": 10
+  },
+  {
+    "id": "CCzZC0xgWSo",
+    "title": "Back Pain Relief Stretches – 5 Minute Real Time Routine",
+    "score": 10
+  },
+  {
+    "id": "UYMmtEFhuxA",
+    "title": "start the warmup",
+    "score": 10
+  },
+  {
+    "id": "COswASjdnRo",
+    "title": "Lower Back Stretches for Sciatica Pain - Sciatica Exercises for Back Pain by FitnessBlender.com",
+    "score": 10
+  },
+  {
+    "id": "CbZzeO4P9YA",
+    "title": "Lower Back Stretches",
+    "score": 10
+  },
+  {
+    "id": "VDf43fOTH1E",
+    "title": "Have a Healthy Back",
+    "score": 10
+  },
+  {
+    "id": "A7PUvEPb_Qc",
+    "title": "12 Min Lower Back Pain Stretches - Exercises for Lower Back Stretching and Pain Relief Stretch",
+    "score": 10
+  },
+  {
+    "id": "7V-EbW-DmN0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "p6CMso14NWk",
+    "title": "LOWER BACK REHABILITATION PART 1: LOWER BACK STRETCHES PART 2: LOWER BACK STRENGTHENING",
+    "score": 10
+  },
+  {
+    "id": "3WcHipO1cWA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BtUTVjozCEk",
+    "title": "Get Mid Back Pain Relief With These 3 EASY Stretches!",
+    "score": 10
+  },
+  {
+    "id": "VnDuWC40egg",
+    "title": "Mid Back Stretches",
+    "score": 10
+  },
+  {
+    "id": "VlUfKp1LKpc",
+    "title": "Mid Back Stretches \\u0026 Exercises for Pain Relief",
+    "score": 10
+  },
+  {
+    "id": "L_KYDDTHEtQ",
+    "title": "Mid Back Stretches and Exercises",
+    "score": 10
+  },
+  {
+    "id": "44eYerscDWk",
+    "title": "The Child's Pose",
+    "score": 10
+  },
+  {
+    "id": "2eA2Koq6pTI",
+    "title": "Yoga For Back Pain - 30 Minute Back Stretch, Sciatica Pain, \\u0026 Flexibility Yoga Flow",
+    "score": 10
+  },
+  {
+    "id": "vuGnzLxRvZM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pFHvamvXXDo",
+    "title": "\\\"CREEPIN' TOWARDS THE DOOR\\\" - FNAF SONG | by Griffinilla + Lenich \\u0026 Kirya",
+    "score": 10
+  },
+  {
+    "id": "SQywmvOEeJ8",
+    "title": "[SFM] They keep creeping towards the door [Remix] - APAngryPiggy",
+    "score": 10
+  },
+  {
+    "id": "l0nDppy2zFQ",
+    "title": "[FNaF/SFM] Creepin Towards The Door By Griffinilla/Fandroid",
+    "score": 10
+  },
+  {
+    "id": "HqLgBVSgZGk",
+    "title": "(Fnaf/SFM) Creeping Towards The Door, by Griffinilla, Lenich \\u0026 Kirya, FMG",
+    "score": 10
+  },
+  {
+    "id": "oOI9YUzYJXc",
+    "title": "FNAF SONG \\\"CREEPIN' TOWARDS THE DOOR\\\" RUSSIAN by Griffinilla w/ Lenich \\u0026 Kirya",
+    "score": 10
+  },
+  {
+    "id": "jXi1ql_5Z_k",
+    "title": "Creepin' Towards the Door",
+    "score": 10
+  },
+  {
+    "id": "kLpIxKJlDbg",
+    "title": "[FNAF/COLLAB] Creepin Towards the Door Remix By: @APAngryPiggy",
+    "score": 10
+  },
+  {
+    "id": "d-zUY1LxZ5E",
+    "title": "Nightcore - Creepin' Towards The Door (Remix/Cover) [FNaF] +Lyrics",
+    "score": 10
+  },
+  {
+    "id": "rGg9b-FbGDo",
+    "title": "Creepin’ Towards the Door – Sylvester the Cat (Looney Tunes) | FNAF A.I. Concept Cover",
+    "score": 10
+  },
+  {
+    "id": "MaQa3YAiwSQ",
+    "title": "[SFM FNaF] \\\"Creepin' Towards The Door\\\" (Song by Fandroid)",
+    "score": 10
+  },
+  {
+    "id": "ADcmAH5OgEQ",
+    "title": "[SFM FNaF] \\\"Creepin' Towards The Door\\\" | by Griffinilla",
+    "score": 10
+  },
+  {
+    "id": "wjg_BTfW6yA",
+    "title": "Creepin’ Towards The Door Lyrics",
+    "score": 10
+  },
+  {
+    "id": "bSDbbsCABqo",
+    "title": "|| Creepin' Towards the Door || MEP || FNaF || Gacha Club || ⚠️FLASH WARNING⚠️ ||",
+    "score": 10
+  },
+  {
+    "id": "vwA6Asqg0oU",
+    "title": "Stay Sain",
+    "score": 10
+  },
+  {
+    "id": "U2axdjkilU8",
+    "title": "[FNaF SFM] Creepin' Towards The Door Animation",
+    "score": 10
+  },
+  {
+    "id": "vA4DhDdAIws",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "888krEoB-bE",
+    "title": "👉 CREATINA  por el Roeh Dr. Javier Palacios Celorio ¡CONOCE TODOS SUS BENEFICIOS! 🔴",
+    "score": 10
+  },
+  {
+    "id": "IUORuduPlt4",
+    "title": "🔴TÉCNICA PARA LOGRAR LA PAZ INTERIOR por el Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "XWcv1VVWH6Q",
+    "title": "ESTO SE PONDRÁ PEOR/ Por el Naví ROEH JAVIER PALACIOS CELORIO ",
+    "score": 10
+  },
+  {
+    "id": "JWvxY4PK0DI",
+    "title": "🔴 PROFETA OSEAS PARTE 1 - Roeh Dr. Javier Palacios Celorio KEHILA GOZO Y PAZ",
+    "score": 10
+  },
+  {
+    "id": "AT9ANPCThZY",
+    "title": "🔴SOMOS SERES ESPIRITUALES por el Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "9o_B2cxmX9k",
+    "title": "🔴LO QUE PIDAS: SERÁ por el Roeh Dr. Javier Palacios Celorio - Kehila Gozo y Paz",
+    "score": 10
+  },
+  {
+    "id": "_Cfoi8Yxwds",
+    "title": "RECTA FINAL 179 EJERCITOS CRUZAN EL EUFRATES!  por el Roeh Dr. Javier Palacios Celorio -",
+    "score": 10
+  },
+  {
+    "id": "kvsptm2M1N0",
+    "title": "CÓDIGOS BÍBLICOS. (Parte 1) | Por el Roeh Dr. Javier Palacios Celorio.",
+    "score": 10
+  },
+  {
+    "id": "x-_kihqDFpA",
+    "title": "Bereshit - Génesis (parte 1) por el Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "9WvnE1GQfJ0",
+    "title": "¿Vivimos para el Reino o para lo que se desvanece? | Salmo 39",
+    "score": 10
+  },
+  {
+    "id": "dpplwgKYhrI",
+    "title": "CLASSES ON PEACE IN THE HOME, MARRIAGE, AND RELATIONSHIPS | RABBI SAADIA HACOHEN",
+    "score": 10
+  },
+  {
+    "id": "r5DDi-el-gQ",
+    "title": "🔴ULTIMA HORA🔴TERREMOTO 6.8 SACUDE EL PACIFICO SUR POSIBLE ALERTA DE TSUNAMI PARA AMERICA",
+    "score": 10
+  },
+  {
+    "id": "_9HO34MTxhg",
+    "title": "Haftara Bo por el Roeh Dr. Javier Palacios Celorio - Kehila Gozo y Paz",
+    "score": 10
+  },
+  {
+    "id": "a9Im3RjheSY",
+    "title": "Exaltaciones a Yahweh - Roeh Dr Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "4t5toiLaWX0",
+    "title": "LA HORA FINAL LLEGA - PROFECÍA 2027 EXPLICADA RECTA FINAL 177 por el Navi Dr. Javier Palacios",
+    "score": 10
+  },
+  {
+    "id": "XCozRtbDPSk",
+    "title": "JEREMIAS CAP. 12 ESTUDIO BIBLICO | Rossalba Molina y Jork placencio",
+    "score": 10
+  },
+  {
+    "id": "EVT5FgLnTPA",
+    "title": "EL INFIERNO - Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "dvIbEXEpGuA",
+    "title": "Como Disminuir el Colesterol y Trigliceridos%3F por el Roeh Dr  Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "3phupfX3vGs",
+    "title": "Tratamiento para la Ansiedad Angustia y Crisis de Panico  por el Roeh Dr  Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "RjSexiaIOVw",
+    "title": "🔴 MUSCLE MASS \\\"WHAT YOU SHOULD KNOW!!\\\" by el Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "neS0rBEi3bM",
+    "title": "🔴LA IMPORTANCIA DEL AMOR por el Roeh Dr. Javier Palacios Celorio  ¡SANA TU VIDA HOY!",
+    "score": 10
+  },
+  {
+    "id": "g7hUXHOmbRI",
+    "title": "¿Preocupaciones? ¿Ansiedad? Ora por el Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "NCO-qyEVRL8",
+    "title": "¿Cómo evitar la oxidación? por el Roeh Dr. Javier Palacios Celorio - Kehila Gozo y Paz",
+    "score": 10
+  },
+  {
+    "id": "1TkKEFyHYRc",
+    "title": "🔴YA TODO ESTO SE CUMPLIÓ/ POR EL NAVÍ ROEH JAVIER PALACIOS CELORIO ",
+    "score": 10
+  },
+  {
+    "id": "CyPjpAxdpqE",
+    "title": "Lupus eritematoso sistémico",
+    "score": 10
+  },
+  {
+    "id": "yL9pV6RU4uo",
+    "title": "Éxodo",
+    "score": 10
+  },
+  {
+    "id": "p3RWJj-r_vA",
+    "title": "Javier Palacios Celorio 2025 📜 El PACTO de TRUMP NO trae PAZ ⚠️ Es la SEÑAL para...",
+    "score": 10
+  },
+  {
+    "id": "Yn3UuO3aq0g",
+    "title": "⚠️¡ALERTA! ¿QUIÉN ES DONALD TRUMP PROFETICAMENTE? ¿ANTICRISTO? - Roeh Dr. Javier Palacios Celorio",
+    "score": 10
+  },
+  {
+    "id": "tE0MteRQCvo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "hEq4GW5tnN4",
+    "title": "12 Morning Habits That Please God - Christian Reflection",
+    "score": 10
+  },
+  {
+    "id": "K-xd_hZs_0o",
+    "title": "Musica Cristiana Para Dar Gracias A Dios - YO TE DOY GRACIAS, GRACIAS MI SEÑOR JESUS - ALABANZAS",
+    "score": 10
+  },
+  {
+    "id": "yvKHGPZltGk",
+    "title": "1 HORA DE ALABANZAS DE AGRADECIMIENTO - MUSICA CRISTIANA PARA DAR GRACIAS A DIOS",
+    "score": 10
+  },
+  {
+    "id": "ck4akuJzJu0",
+    "title": "Estos Himnos Son Como Vitaminas Que Nos Dan La Fuerza Para Seguir Adelante - Alabanzas Antiguas",
+    "score": 10
+  },
+  {
+    "id": "6LFUgRDrH7o",
+    "title": "5 MUSICA CRISTIANA PARA SENTIR LA PRESENCIA DE DIOS - HERMOSAS ALABANZAS CRISTIANAS DE ADORACION 202",
+    "score": 10
+  },
+  {
+    "id": "c-gXs2DxtIo",
+    "title": "01. AL ESTAR AQUI... Delante de ti... Te Adorare.. Postrada ante ti",
+    "score": 10
+  },
+  {
+    "id": "qwqfnCEZk_A",
+    "title": "Música Cristiana / Para Dar Gracias A Dios / Éxitos Cristianos",
+    "score": 10
+  },
+  {
+    "id": "dLypa9ZWKaQ",
+    "title": "3 Virtudes que agradan a Dios | Pastor Jesus Lemus",
+    "score": 10
+  },
+  {
+    "id": "peHAIUuaZRE",
+    "title": "EMPIEZA Tu 2026 Con ESTOS 5 HÁBITOS Que AGRADAN a DIOS | Rutina Matutina Bíblica - Yokoi Kenji 💪",
+    "score": 10
+  },
+  {
+    "id": "JUs69zE2VdI",
+    "title": "Introducción y sentido espiritual de la mañana",
+    "score": 10
+  },
+  {
+    "id": "r8tw6MSuBbo",
+    "title": "01. Dios esta aquí, tan cierto como el aire que respiro",
+    "score": 10
+  },
+  {
+    "id": "hFVWfqbE5Pw",
+    "title": "01. Como Dijiste - Christine D'Clario)",
+    "score": 10
+  },
+  {
+    "id": "62sbqzCP3BQ",
+    "title": "Secretos del Ayuno que \"},{\"text\":\"Agradan\",\"bold\":true},{\"text\":\" a Dios: y lo Que ...",
+    "score": 10
+  },
+  {
+    "id": "CvHGF9LTrh4",
+    "title": "7 HÁBITOS MAÑANEROS QUE AGRADAN A DIOS - Reflexión Cristiana",
+    "score": 10
+  },
+  {
+    "id": "bPSHnWTbOig",
+    "title": "Inicio",
+    "score": 10
+  },
+  {
+    "id": "_-I8iPmysTQ",
+    "title": "ALABANZAS CRISTIANAS 2026 -ALABANZAS QUE TOCAN EL CORAZÓN - LAS MEJORES CANCIONES PARA ADORAR A DIOS",
+    "score": 10
+  },
+  {
+    "id": "ZNW8FUgXkjo",
+    "title": "8 HÁBITOS MAÑANEROS QUE AGRADAN A DIOS - Reflexión Cristiana",
+    "score": 10
+  },
+  {
+    "id": "JpYQ92Z8EbQ",
+    "title": "Inicio",
+    "score": 10
+  },
+  {
+    "id": "aCdn-tEZ14o",
+    "title": "You can meditate anytime anywhere with anything - Mingyur Rinpoche",
+    "score": 10
+  },
+  {
+    "id": "YBlMI7m89Tg",
+    "title": "So Take this Opportunity Now To Witness the Breath To Simply Observe Its Depth and Rhythm Allowing It To Deepen as You Naturally Ease Your Way into this Period of Darkness Draw Your Attention to the Stomach Noticing the Way the Breath Follows Suit as We Consciously Welcome Our Breath into the Belly We Initiate the Body's Relaxation Response Lowering Stress Hormones Blood Pressure Muscle Tension and Our Breathing Rate Inhale All the Way into the Base of the Spine and Then Exhale Completely Softening all Muscles as You Surrender a Little Bit Further Now I Invite You To Introduce Small Pauses between Inhalation and Exhalation Resting in Complete Stillness for Just a Moment after each in-Breath and each Out Breath so It's Going To Be Inhale to a Count of Four Pause for a Brief Moment",
+    "score": 10
+  },
+  {
+    "id": "xMLrY4fhwNU",
+    "title": "Daily Calm | 10 Minute Mindfulness Meditation | Be Present",
+    "score": 10
+  },
+  {
+    "id": "1vx8iUvfyCY",
+    "title": "noticing the rise and fall of your lower stomach",
+    "score": 10
+  },
+  {
+    "id": "4EaMJOo1jks",
+    "title": "become aware of your breathing",
+    "score": 10
+  },
+  {
+    "id": "inpok4MKVLM",
+    "title": "move into a comfortable position",
+    "score": 10
+  },
+  {
+    "id": "LDs7jglje_U",
+    "title": "begin today by coming into a comfortable seated position",
+    "score": 10
+  },
+  {
+    "id": "0yOjC8DbR0I",
+    "title": "feel the slow transitions from inhale to exhale",
+    "score": 10
+  },
+  {
+    "id": "MIr3RsUWrdo",
+    "title": "begin to count your breath",
+    "score": 10
+  },
+  {
+    "id": "358IFvrnyKY",
+    "title": "Daily Calm | 10 Minute Mindfulness Meditation | Forgetting Time",
+    "score": 10
+  },
+  {
+    "id": "YF_P1ZzYgjA",
+    "title": "start by taking a comfortable position on a cushion or chair",
+    "score": 10
+  },
+  {
+    "id": "LLeqY9ingRY",
+    "title": "Clear Your Mind, 5 Minute Meditation, Calm \\u0026 Relaxed",
+    "score": 10
+  },
+  {
+    "id": "nlEoLYREbXo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xEjr2uFBXTM",
+    "title": "EL SACRIFICIO QUE TOCA EL CORAZÓN DE DIOS - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "k_g5ov2L_aU",
+    "title": "Aprende a derribar lo que no te deja avanzar",
+    "score": 10
+  },
+  {
+    "id": "ydsxQ0G9r_I",
+    "title": "NO TEMAS, DIOS SABE LO QUE VA A HACER - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "eieco1cxn1g",
+    "title": "DEJA QUE DIOS SE ENCARGUE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "Pmm2ObVSoxU",
+    "title": "THE REASON YOU KEEP FALLING INTO THE SAME PATTERN - Pastor Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "36iMIuByXnY",
+    "title": "AUNQUE HAYAS CAIDO, DIOS PUEDE VOLVER A LEVANTARTE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "KiVr6Ybft9Y",
+    "title": "LAS ESTRATEGIAS DE DIOS - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "wjVssayeS2M",
+    "title": "ELÉVATE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "kF8QlCVxHEQ",
+    "title": "EL ENEMIGO LLAMADO ANSIEDAD - Pastora Yesenia Then (Discipulado)",
+    "score": 10
+  },
+  {
+    "id": "SZWbKi71nTQ",
+    "title": "NO TEMAS, DIOS SABE LO QUE VA A HACER   Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "F-VgL2p5eHw",
+    "title": "PARA QUE LAS CIRCUNSTANCIAS NO TE VENZAN - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "aXBYLcL9WdY",
+    "title": "3 ARMAS DE PODER ANTE CUALQUIER ATAQUE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "NGb9n_m_1yg",
+    "title": "DIOS CUMPLE LO QUE PROMETE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "Pzic9mwBqA4",
+    "title": "Oración Mañana 🌄🙏  |  Freddy DeAnda",
+    "score": 10
+  },
+  {
+    "id": "3WWEpfZkmis",
+    "title": "🔥Dios ha puesto un poder enorme en la boca | 28 enero | Oración de liberación | Kissingers Araque",
+    "score": 10
+  },
+  {
+    "id": "gxFUA7bzD80",
+    "title": "Así Limpia Dios Tu Mente para que Avances - Mensaje Cristiano | Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "0NJntmvX01w",
+    "title": "God will open new doors for you | #1 | Starting your day with God | Pastor Juan Carlos Harrigan",
+    "score": 10
+  },
+  {
+    "id": "IUfPIKw8LWM",
+    "title": "CÓMO VENCER LAS CRITICAS Y LAS QUEJAS  - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "BmcpVn_D7ZU",
+    "title": "CRECIENDO EN GRACIA - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "hNST7h1U7nI",
+    "title": "LLEGÓ EL TIEMPO DE LA RETRIBUCIÓN Y LA RECOMPENSA - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "LzoFAMrth_g",
+    "title": "DIOS NO TE HA OLVIDADO - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "HbGONwk2_mA",
+    "title": "DIOS TE HARÁ SABER LO QUE TIENES QUE HACER - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "rmyo0tuJELQ",
+    "title": "SEGÚN LO QUE DIOS TIENE PARA TU VIDA - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "etJoByHdPps",
+    "title": "SI VES QUE VIENE, CIÉRRALE LA PUERTA - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "8bBiq-J4a50",
+    "title": "EL MAL QUE NO ELIMINAS SE VUELVE MÁS FUERTE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "L8Rhf5EL0QA",
+    "title": "EL DIOS QUE NOS RESPALDA - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "dKfM4iVwNqM",
+    "title": "NO DEJES QUE TU CORAZÓN SE DAÑE - Pastora Yesenia Then",
+    "score": 10
+  },
+  {
+    "id": "wy6qtSyRRic",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fy_AcIASQzY",
+    "title": "Mi corazón está dispuesto - Inspiración",
+    "score": 10
+  },
+  {
+    "id": "pfaUjuL980g",
+    "title": "Un corazón dispuesto a sentir y una vida simple: \\\"La llave para ser feliz\\\"",
+    "score": 10
+  },
+  {
+    "id": "wkiVDrSgQfE",
+    "title": "Mi Corazón Está Dispuesto",
+    "score": 10
+  },
+  {
+    "id": "QfP_f2Pm2EQ",
+    "title": "Naldy Pineda - Corazòn Dispuesto Musica Cristiana Grupera",
+    "score": 10
+  },
+  {
+    "id": "YC7rmrvjUlA",
+    "title": "Dispuesto estoy - Abel Zavala letra",
+    "score": 10
+  },
+  {
+    "id": "fDXoArgGv8U",
+    "title": "¡LA VIO UNA SOLA VEZ, PERO ESTÁ DISPUESTO A BUSCARLA TODA LA VIDA!",
+    "score": 10
+  },
+  {
+    "id": "ZkvsgSQLblg",
+    "title": "Inspiración \\\"Mi Corazón Está Dispuesto\\\"",
+    "score": 10
+  },
+  {
+    "id": "VaT7P1lQO5s",
+    "title": "MI CORAZON ESTA DISPUESTO Y  EL GOZO DE MI VIDA",
+    "score": 10
+  },
+  {
+    "id": "_yFlCnJPxQs",
+    "title": "\\\"A willing heart\\\" DAILY BREAD OF LIFE. (Devotional)",
+    "score": 10
+  },
+  {
+    "id": "L4WbSA5VKcA",
+    "title": "28 de Enero – La Mejor Oración para Invitar la Unción de Dios Sobre Tu Vida | Oración de la Mañana",
+    "score": 10
+  },
+  {
+    "id": "huCBY-tpxQ0",
+    "title": "Dispuesto Estoy - Vida En Acústico | Profundo",
+    "score": 10
+  },
+  {
+    "id": "qpQWml9TSNk",
+    "title": "Dame un corazon dispuesto",
+    "score": 10
+  },
+  {
+    "id": "HHrEnJzC5d0",
+    "title": "| Reflexiones de Vida para la Vida #866 | Qué riesgos estás dispuesto a asumir por un amigo | CLV |",
+    "score": 10
+  },
+  {
+    "id": "Nx2wiPUvu5Y",
+    "title": "¿A QUÉ ESTÁS DISPUESTO A RENUNCIAR? | Pr. Luis Durán | Palabras de Vida | #AWR360",
+    "score": 10
+  },
+  {
+    "id": "DksZtYHjbRw",
+    "title": "¿Qué estás DISPUESTO a SACRIFICAR para ser MILLONARIO? | Wall Street | Relato y Reflexiones",
+    "score": 10
+  },
+  {
+    "id": "S4DTqaFw3ws",
+    "title": "Nueva Vida En Vivo // Tema: Corazón Dispuesto...🤍✨",
+    "score": 10
+  },
+  {
+    "id": "sAQ16Fl-37Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0Vqv0BadOR0",
+    "title": "ORACIÓN DE MADRUGADA | Dios Visita la Tierra a las 3 AM 🙏🔥🌙",
+    "score": 10
+  },
+  {
+    "id": "qfxnRq0WNqc",
+    "title": "ORACIÓN DE LA MADRUGADA DIOS TE DA CALMA EN MEDIO DE LA TORMENTA",
+    "score": 10
+  },
+  {
+    "id": "ZYSiMnr1_gc",
+    "title": "Oración de la Madrugada – Cuando Clamas a las 3 AM, El Cielo Responde",
+    "score": 10
+  },
+  {
+    "id": "B_sFERnUVIg",
+    "title": "Listen to this psalm at dawn and something incredible will happen | Psalm 63",
+    "score": 10
+  },
+  {
+    "id": "AwUt4v9h9hI",
+    "title": "De Madrugada - Sara Batista (Living Room)",
+    "score": 10
+  },
+  {
+    "id": "GYhMpp5UBGs",
+    "title": "oracion de madrugada",
+    "score": 10
+  },
+  {
+    "id": "Dxzhs0iWJKc",
+    "title": "ORACIÓN DE LA MADRUGADA: DIOS CAMINA CONTIGO Y NUNCA TE ABANDONA",
+    "score": 10
+  },
+  {
+    "id": "H_YwCH0HF68",
+    "title": "Oración de Madrugada 🔥 Fortalece tu Fe y Confía en Dios",
+    "score": 10
+  },
+  {
+    "id": "uaHnxMxkEmk",
+    "title": "DAWN PRAYER GOD SPEAKS TO YOU TODAY #thepowerofdawn #jch",
+    "score": 10
+  },
+  {
+    "id": "QE2DutryPFE",
+    "title": "🙏The Power of Praying at Dawn🙏 Chapter 4 - Pastor Juan Carlos Harrigan",
+    "score": 10
+  },
+  {
+    "id": "x585Ug-uStg",
+    "title": "Evangelio de HOY. Miércoles 29 de enero 2026 Mc 4,1-20 ¿No entendéis esta parábola?",
+    "score": 10
+  },
+  {
+    "id": "Qyswzxf_nz8",
+    "title": "Santo Rosario Corto de hoy Miércoles 28 de  Enero🌿💖🌿Misterios Gloriosos🌿💝Rosario a Virgen María💝🌿",
+    "score": 10
+  },
+  {
+    "id": "QwAEvM0PjB8",
+    "title": "🔥Dios ha puesto un poder enorme en la boca | 28 enero | Oración de liberación | Kissingers Araque",
+    "score": 10
+  },
+  {
+    "id": "cLhmRgLxLSY",
+    "title": "Dosis Diaria Roka - Confía, Dios no falla.",
+    "score": 10
+  },
+  {
+    "id": "PVKue8FRDnk",
+    "title": "Morning Devotion for Ladies | January 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "tESoCs0ajQk",
+    "title": "🔥Dios ha puesto un poder enorme en la boca | 28 enero | Oración de liberación | Kissingers Araque",
+    "score": 10
+  },
+  {
+    "id": "K_9zDFsPw-k",
+    "title": "Oración de la mañana para atraer bendiciones, protección y abundancia. Dante Gebel.",
+    "score": 10
+  },
+  {
+    "id": "LA31iRsynCQ",
+    "title": "Santo Rosario de Hoy | Miércoles 28 de Enero - Misterios Gloriosos  #rosario #santorosario",
+    "score": 10
+  },
+  {
+    "id": "9yzUAq1GMMI",
+    "title": "7 Razones para ORAR de MADRUGADA",
+    "score": 10
+  },
+  {
+    "id": "NMeKe2kT8Fo",
+    "title": "... apartar nuestras madrugadas para hablar con \"},{\"text\":\"Dios\",\"bold\":true},{\"text\":\"?",
+    "score": 10
+  },
+  {
+    "id": "ccjaGrlBL8Y",
+    "title": "La Oración de Madrugada Que Abre Cielos y Acelera Respuestas Divinas",
+    "score": 10
+  },
+  {
+    "id": "DpyXbZCsU0Y",
+    "title": "ORACIÓN DE MADRUGADA - DIOS TE ENVIARÁ SUS ANGELES A TU FAVOR PARA QUE PELEEN POR TI",
+    "score": 10
+  },
+  {
+    "id": "5EPAVR1DCZM",
+    "title": "Escucha el Salmo 23 en la Madrugada y algo increíble sucederá",
+    "score": 10
+  },
+  {
+    "id": "FGb3mlQlMRM",
+    "title": "Oración De La Noche y De La Madrugada ¦ #oraciondelanoche #oraciondelamañana",
+    "score": 10
+  },
+  {
+    "id": "wsLlI9wzBF0",
+    "title": "Salmo 63 | De Madrugada Te Buscaré, Dios Mío – Oración Poderosa de la Mañana 🙏🏻",
+    "score": 10
+  },
+  {
+    "id": "y0AU4Oi0GbQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DxtJvcy2_80",
+    "title": "Family is Important",
+    "score": 10
+  },
+  {
+    "id": "Mcsi40rBXCs",
+    "title": "The Importance of Family | 💖 Healing podcast | Intermediate",
+    "score": 10
+  },
+  {
+    "id": "0dROBeqvDPU",
+    "title": "Why Keeping The Family Together Is The Most Important Thing You Can Do",
+    "score": 10
+  },
+  {
+    "id": "NvFtEDN6oLg",
+    "title": "Dr  Myles Munroe   Important Family Principles",
+    "score": 10
+  },
+  {
+    "id": "kM_dr1vGWyY",
+    "title": "Importance of Family Essay | Short Paragraph | Notebook Style Handwriting",
+    "score": 10
+  },
+  {
+    "id": "wkEMXe1uoMg",
+    "title": "FAMILY is the most important thing | Cristiano Ronaldo #CristianoRonaldo",
+    "score": 10
+  },
+  {
+    "id": "zseLJnX2cWE",
+    "title": "Cristiano Ronaldo : The Most Important Thing In Life is Family",
+    "score": 10
+  },
+  {
+    "id": "1bI63VGc60w",
+    "title": "Importance of family essay ||Essay about why family is important || My family essay||Importance",
+    "score": 10
+  },
+  {
+    "id": "LuYgbi9O870",
+    "title": "Why the Black Sheep is the Most Important Person in the Family | Carl Jung's Truth",
+    "score": 10
+  },
+  {
+    "id": "MFGg-R6jpks",
+    "title": "Three Important Principle For Christian Family | Bishop Emmanuel Mar Mari",
+    "score": 10
+  },
+  {
+    "id": "hlPdBGKnobE",
+    "title": "Why Jesus Christ is lord",
+    "score": 10
+  },
+  {
+    "id": "2ObbBzLYcik",
+    "title": "Career or Family, what’s most important?",
+    "score": 10
+  },
+  {
+    "id": "98TmhyjG2Is",
+    "title": "WHY Family IS The MOST Important | Jordan Peterson",
+    "score": 10
+  },
+  {
+    "id": "t9SmRfeU6B0",
+    "title": "OF CATASTROPHE",
+    "score": 10
+  },
+  {
+    "id": "woDrfYoxL9c",
+    "title": "Megyn Kelly Explains Why Family Vacations Are So Important",
+    "score": 10
+  },
+  {
+    "id": "x6x_MxhLA-8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0DgHf2Map4A",
+    "title": "Why Family Is The Most IMPORTANT 👪",
+    "score": 10
+  },
+  {
+    "id": "YpxtEKGpvtU",
+    "title": "Why family is soo important ? 😍🤯 • #truewordswithus #family",
+    "score": 10
+  },
+  {
+    "id": "FqmNsFj6nsg",
+    "title": "The family you create is more important than the family you come from. EP 25 this Friday 7pm",
+    "score": 10
+  },
+  {
+    "id": "m1_uNgKtiLA",
+    "title": "NEW - Is family really that Important? Mufti Menk",
+    "score": 10
+  },
+  {
+    "id": "1Y8HIWTIe8I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2a_pawBVaVM",
+    "title": "Entrega adecuada de paciente",
+    "score": 10
+  },
+  {
+    "id": "sLjHHgVSihQ",
+    "title": "Emergencia de amor",
+    "score": 10
+  },
+  {
+    "id": "cMA52vFFnBk",
+    "title": "Cuatro pasos para el manejo de una situación de emergencia",
+    "score": 10
+  },
+  {
+    "id": "Hqf6QUry7f0",
+    "title": "Un día en la Urgencia del HRA - Tercera entrega",
+    "score": 10
+  },
+  {
+    "id": "eJEf-hfJRI4",
+    "title": "EII Y URGENCIAS: cómo manejar situaciones urgentes",
+    "score": 10
+  },
+  {
+    "id": "4gZTMbsp7GA",
+    "title": "¿Qué es una urgencia médica? (TRIAGE)",
+    "score": 10
+  },
+  {
+    "id": "1LU6se5uAsA",
+    "title": "afecte la salud de una persona y que requiere de pronta atención.",
+    "score": 10
+  },
+  {
+    "id": "C82_IISJgSc",
+    "title": "¿Qué proceso se lleva en el área de urgencias?",
+    "score": 10
+  },
+  {
+    "id": "loYFX8oThgU",
+    "title": "Qué es una emergencia y una urgencia en Salud, y prioridades de atención en Emergencia.",
+    "score": 10
+  },
+  {
+    "id": "FtLA_7eiz20",
+    "title": "DIOS MANDÓ DECIRTE: NECESITO ENTREGAR ESTO CON MUCHA URGENCIA, PORQUE EL MILAGRO A TU NOMBRE FUE...",
+    "score": 10
+  },
+  {
+    "id": "3D2Qy80ci7U",
+    "title": "LA URGENCIA  DE UN QUEBRANTAMIENTO. DR. MAESTRO: JOSÉ N. BRICEÑO A.",
+    "score": 10
+  },
+  {
+    "id": "RAjZJ_eD_hg",
+    "title": "Give this to God urgently and see what happens in your home #love #dailydevotional",
+    "score": 10
+  },
+  {
+    "id": "UpJNKMSZhjA",
+    "title": "Urgencias",
+    "score": 10
+  },
+  {
+    "id": "E7-59bAx__o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QlmsXQFl9v8",
+    "title": "La Música Es Dios",
+    "score": 10
+  },
+  {
+    "id": "-ODODcpTF70",
+    "title": "SELECTED: 6 DREAMS GOD USES TO SPEAK TO YOU AT NIGHT (WITHOUT YOU NOTICING) | ELLEN WHITE",
+    "score": 10
+  },
+  {
+    "id": "PSsaJaXmFd8",
+    "title": "ELENA ROSE - LA DE DIOS",
+    "score": 10
+  },
+  {
+    "id": "04w4CMnbPK0",
+    "title": "WHAT GOD WOULD TELL YOU TODAY IF YOU KNEW HOW MUCH HE MISSES YOU | ELLEN WHITE",
+    "score": 10
+  },
+  {
+    "id": "JX09i-jQUxU",
+    "title": "ESTO ES LO QUE SUCEDE CUANDO DIOS COMIENZA A PURIFICAR TU MENTE — ELLEN WHITE",
+    "score": 10
+  },
+  {
+    "id": "1v_6_npoP1A",
+    "title": "DESCANSO Y SUEÑO SEGÚN ELLEN WHITE CÓMO DIOS RESTAURA TU ENERGÍA",
+    "score": 10
+  },
+  {
+    "id": "NDOQ5rF2Rok",
+    "title": "EL PODER DE LA FE SEGÚN ELLEN WHITE ¡CÓMO DIOS PUEDE RESTAURAR TU SALUD!",
+    "score": 10
+  },
+  {
+    "id": "9unWa9LIs0k",
+    "title": "The Forbidden Truth About the Plants God Reserved for the Last Days | Ellen White",
+    "score": 10
+  },
+  {
+    "id": "FV3UfikA6ko",
+    "title": "Morning Devotion for Adults | January 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "Jwt5DUHlxQI",
+    "title": "Morning Devotion for Ladies | January 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "qrzqOsxKb0s",
+    "title": "Lectura bíblica",
+    "score": 10
+  },
+  {
+    "id": "fP6Z2uI0-M8",
+    "title": "Devocionales Elena G. de White | 28 de enero del 2026",
+    "score": 10
+  },
+  {
+    "id": "dmMhtU7lIHU",
+    "title": "Y Delcy obedece sus órdenes",
+    "score": 10
+  },
+  {
+    "id": "WN_poCvcBfI",
+    "title": "SABBATH SCHOOL TODAY | WEDNESDAY, JANUARY 28",
+    "score": 10
+  },
+  {
+    "id": "47OEtn_ZS5w",
+    "title": "“God’s presence will gradually withdraw”: Ellen G. White’s forgotten warning.",
+    "score": 10
+  },
+  {
+    "id": "kwuOI6kmkO0",
+    "title": "Si Dios es Amor, ¿Por Qué Tanto Dolor? La Respuesta Que Puede Transformar Tu Vida | Ellen G. White",
+    "score": 10
+  },
+  {
+    "id": "pUvmt3reKYM",
+    "title": "¿POR QUÉ DIOS TE DESPIERTA A LAS 3 DE LA MAÑANA? 🗝️ El Secreto Divino Revelado — Elena G. de White",
+    "score": 10
+  },
+  {
+    "id": "0fCaUKtlIjE",
+    "title": "ELLEN WHITE ENSEÑA CÓMO SANAR HERIDAS EMOCIONALES CON LA GRACIA DE DIOS",
+    "score": 10
+  },
+  {
+    "id": "6L2WrHvN870",
+    "title": "CÓMO SABER SI DIOS YA TE SELLÓ -ELLEN WHITE",
+    "score": 10
+  },
+  {
+    "id": "JaqnEAeq94M",
+    "title": "Ellen White Revealed the HIDDEN FOOD That Is EXCLUDING Millions from GOD’S SEAL in the End Time!",
+    "score": 10
+  },
+  {
+    "id": "sy7qdleYeHY",
+    "title": "WHEN THE SPIRIT OF GOD WITHDRAWS... NO ONE WILL | Ellen G. White",
+    "score": 10
+  },
+  {
+    "id": "oPGKA3ibUhY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8aBNU0r5qxo",
+    "title": "HOW Is This a Foul?! 😳 Westbrook Gets Elbowed in the Face… Foul Still Called on Him",
+    "score": 10
+  },
+  {
+    "id": "Q0hrvQ3ZCY0",
+    "title": "ESCUCHA ESTO Y RECIBE INCONTABLES BENDICIONES DE  ABUNDANCIA Y AMOR  - EL HARPA MÁGICA DEL COLIBRÍ",
+    "score": 10
+  },
+  {
+    "id": "BdTRxuPOlRA",
+    "title": "ESCUCHA ESTO Y RECIBE MILAGROS EXTRAORDINARIOS - LUZ HÓLON ALPHA (PODER DE LA FE Y CERTEZA)",
+    "score": 10
+  },
+  {
+    "id": "5SRKwY3S5a0",
+    "title": "¡Recibe BENDICIONES DIVINAS si ESCUCHAS esto al DESPERTAR! | Dr. joe Dispenza",
+    "score": 10
+  },
+  {
+    "id": "pMWNG0dDGsk",
+    "title": "¿RECIBES UN “HOLA” DESPUÉS DE MESES DE SILENCIO? ESTO ES LO QUE DEBES HACER (ESTOICISMO)",
+    "score": 10
+  },
+  {
+    "id": "no-8Bl8xxgs",
+    "title": "Esto es Lo que una Mujer Siente Cuando Dejas de Buscarla",
+    "score": 10
+  },
+  {
+    "id": "BBA0fsZjglQ",
+    "title": "La verdad incómoda sobre insistir",
+    "score": 10
+  },
+  {
+    "id": "fyI9n7Bt7ho",
+    "title": "AYUDA INMEDIATA - ESCUCHA ESTO Y PERMITE QUE DIOS ARREGLE TODO LO QUE NECESITAS",
+    "score": 10
+  },
+  {
+    "id": "tHtXFlffm3Q",
+    "title": "LISTEN TO THIS DAILY AND RECEIVE WEALTH AND MONEY IN AN UNEXPECTED MANNER - UNIVERSAL PROSPERITY",
+    "score": 10
+  },
+  {
+    "id": "8fAJHxQRXHQ",
+    "title": "💥 BOMBAZO: Piqué VUELVE a Cataluña y recibe lo que JAMÁS Imaginó - PATADA EN EL C*LO",
+    "score": 10
+  },
+  {
+    "id": "WUr0ng9E8Z0",
+    "title": "TRUMP changes EVERYTHING: If you receive THIS, forget about residency ❌ #Immigration #GreenCard",
+    "score": 10
+  },
+  {
+    "id": "Y1FVUwnDZF8",
+    "title": "Recibirás Mucho DINERO Después de Escuchar Esto en Solo 1 Noche | Afirmaciones Del Marian Rojas",
+    "score": 10
+  },
+  {
+    "id": "ASeys-dC3ME",
+    "title": "Julianno Sosa | SOY EL MEJOR EN ESTO (Visualizer) | FINALMENTE FELIZ",
+    "score": 10
+  },
+  {
+    "id": "oPAUc9jYTcY",
+    "title": "The World's Most Powerful Healing Prayer – Pray This and Receive Your Miracle",
+    "score": 10
+  },
+  {
+    "id": "zrB2fxS7QRM",
+    "title": "YOU WILL RECEIVE A LOT OF MONEY AFTER LISTENING TO THIS FOR JUST 1 NIGHT | JOE DISPENZA AFFIRMATIONS",
+    "score": 10
+  },
+  {
+    "id": "R9tRqrPPUIk",
+    "title": "This Is Why You're Not Valued | When you give everything and receive nothing in return...",
+    "score": 10
+  },
+  {
+    "id": "4AYOFuPetk8",
+    "title": "Que tiene esto de malo? #mexico #bodas  #viralvideo #wedding #parati #fyp",
+    "score": 10
+  },
+  {
+    "id": "_N4EARVE1Co",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MZQNOJi79Jo",
+    "title": "Push-Through 3 Point Saddle Bend: Easy, Fast and Good for Tight Spaces",
+    "score": 10
+  },
+  {
+    "id": "SjtY8h-oorM",
+    "title": "Main Deck",
+    "score": 10
+  },
+  {
+    "id": "T02_U9F5Xvw",
+    "title": "Basic Levels",
+    "score": 10
+  },
+  {
+    "id": "yINf2V4rb7o",
+    "title": "It's Time to Qualify! - Flesh and Blood TCG Podcast - Push the Point 115",
+    "score": 10
+  },
+  {
+    "id": "Cv2dqq9GRCw",
+    "title": "Merry Mum Mail - Flesh and Blood TCG Podcast Ep 114 - Push the Point",
+    "score": 10
+  },
+  {
+    "id": "HgcShg2zFVE",
+    "title": "Silver Age | Zen Vs Kayo | Showdown in the Shed | Flesh And Blood TCG",
+    "score": 10
+  },
+  {
+    "id": "H2UVgqRPy2Q",
+    "title": "Mum Crashes Podcast #fabtcg",
+    "score": 10
+  },
+  {
+    "id": "j_ZBGGhHd6o",
+    "title": "Verdance - Silver Age Deck - Flesh and Blood TCG",
+    "score": 10
+  },
+  {
+    "id": "YITr3mT1cDI",
+    "title": "Silver Age | Chane Vs Pleiades | Showdown in the Shed | Flesh And Blood TCG",
+    "score": 10
+  },
+  {
+    "id": "11omgLyxvwQ",
+    "title": "The Silver Age Meta - Flesh And Blood TCG Podcast Ep 113 - Push The Point",
+    "score": 10
+  },
+  {
+    "id": "hdRpSTNEhe8",
+    "title": "Silver Age | Fai Vs Iyslander | Showdown in the Shed | Flesh And Blood TCG",
+    "score": 10
+  },
+  {
+    "id": "tUttnIxHkAc",
+    "title": "Over-reactor - Point To Push",
+    "score": 10
+  },
+  {
+    "id": "0Tq2MN0w7hk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oNAcItRTMQM",
+    "title": "Backpacking La Push to Toleak Point | Olympic National Park",
+    "score": 10
+  },
+  {
+    "id": "h3OzwUmsAYM",
+    "title": "NEW ANCHOR TESTING | Traditional Bowhunting \\u0026 Archery | The Push Archery",
+    "score": 10
+  },
+  {
+    "id": "TQzqBviB0ds",
+    "title": "It's Time to Qualify! - Flesh and Blood TCG Podcast - Push the Point 115",
+    "score": 10
+  },
+  {
+    "id": "BiMZj97qovE",
+    "title": "Push point glaziers",
+    "score": 10
+  },
+  {
+    "id": "RFJSIgXcmDo",
+    "title": "Conduit Bending - 4 Point Saddle Push Thru Method",
+    "score": 10
+  },
+  {
+    "id": "oM0ia60PCKg",
+    "title": "89 Point Skills Run VEX Push Back | 9/21/25 ",
+    "score": 10
+  },
+  {
+    "id": "8T2UDk_NvdY",
+    "title": "First Principles Of Tennis: Push VS Pull Contact Point You Have To Feel/See To Believe",
+    "score": 10
+  },
+  {
+    "id": "Kcxw2jni9u4",
+    "title": "3-point Push Up",
+    "score": 10
+  },
+  {
+    "id": "VBGyomyT0C0",
+    "title": "3 Point Push Up",
+    "score": 10
+  },
+  {
+    "id": "69Xq7flBVIw",
+    "title": "Advanced Pipe Bending: Bending a Three-Point Saddle with the Push-Through Method.",
+    "score": 10
+  },
+  {
+    "id": "7puZ0iW7uaw",
+    "title": "The Temporalis",
+    "score": 10
+  },
+  {
+    "id": "7EABHkISg5g",
+    "title": "The Perfect Push Up | Do it right!",
+    "score": 10
+  },
+  {
+    "id": "IODxDxX7oi4",
+    "title": "NorthernLion Animated: Symmetra, Push the Point!",
+    "score": 10
+  },
+  {
+    "id": "SZkIK9FuHhA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BFaXfQpxnps",
+    "title": "Yoga For Chronic Pain  |  25-Minute Yoga",
+    "score": 10
+  },
+  {
+    "id": "sp8tyANEbc4",
+    "title": "Yoga Moves To Relieve Tension in the Neck \\u0026 Shoulders",
+    "score": 10
+  },
+  {
+    "id": "faf_CS4Z0yc",
+    "title": "Yoga Exercises for Knee Pain Relief | Manipal Hospitals India",
+    "score": 10
+  },
+  {
+    "id": "gS1WQk5lW0s",
+    "title": "Yoga For Back Pain  |  Yoga Basics  |  Yoga With Adriene",
+    "score": 10
+  },
+  {
+    "id": "phuS5VLQy8c",
+    "title": "take a full body stretch",
+    "score": 10
+  },
+  {
+    "id": "WVsCRJBP7Hs",
+    "title": "Forward Fold",
+    "score": 10
+  },
+  {
+    "id": "eiQjt0WSVHk",
+    "title": "BOHO BEAUTIFUL",
+    "score": 10
+  },
+  {
+    "id": "DsSoT-MtEKs",
+    "title": "loosening up the muscles in the legs",
+    "score": 10
+  },
+  {
+    "id": "pyFNz8zJSdw",
+    "title": "start taking some deep breaths",
+    "score": 10
+  },
+  {
+    "id": "cOjFCrd2rYM",
+    "title": "roll your right ear towards your right shoulder",
+    "score": 10
+  },
+  {
+    "id": "Xg_EbPALVZ0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YklQB5s05vw",
+    "title": "Cow Pose",
+    "score": 10
+  },
+  {
+    "id": "s-7lyvblFNI",
+    "title": "Fast Lower Back Pain \\u0026 Sciatica Pain Relief – Beginners Yoga Stretches and Poses",
+    "score": 10
+  },
+  {
+    "id": "seMW0kO-nNo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pOwsrz3j52U",
+    "title": "Constructive Rest Pose",
+    "score": 10
+  },
+  {
+    "id": "Ho9em79_0qg",
+    "title": "place your feet on the ground",
+    "score": 10
+  },
+  {
+    "id": "aqhsfMF26nU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZH8ELzvNeNo",
+    "title": "Total Body Yoga | Deep Stretch | Yoga With Adriene",
+    "score": 10
+  },
+  {
+    "id": "GLy2rYHwUqY",
+    "title": "stabilize the joints",
+    "score": 10
+  },
+  {
+    "id": "rJdEohhJz-A",
+    "title": "Want The Most Comfortable Bike Seat Ever? The Daway Seat Is Amazing! Link for Amazon Below",
+    "score": 10
+  },
+  {
+    "id": "_qZ1hW0-HH0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "82G15_LZtaY",
+    "title": "Cheap vs. Expensive Seat Cushions (Stop Wasting Money)",
+    "score": 10
+  },
+  {
+    "id": "vr6goo5AdnY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TGkU9fRdcj0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CDr7DAepxFo",
+    "title": "YLG Oversized Comfort Bike Seats | Our Point Of View",
+    "score": 10
+  },
+  {
+    "id": "Or-_Df4N9Tk",
+    "title": "Shieldman Vario Double Xl Seats",
+    "score": 10
+  },
+  {
+    "id": "xsJ2mdut2jk",
+    "title": "Seven Secrets for Getting the Most Comfortable Airline Seat",
+    "score": 10
+  },
+  {
+    "id": "Mv67NCFfX9I",
+    "title": "Ebike Seat Suggestions",
+    "score": 10
+  },
+  {
+    "id": "vDSzyp25wno",
+    "title": "Cloud Nine",
+    "score": 10
+  },
+  {
+    "id": "-PqFjTORh5Y",
+    "title": "FOVERA Car Seat Cushion for Long \\u0026 Comfortable Drive - Orthopedic U-Cut Out Wedge Cushion",
+    "score": 10
+  },
+  {
+    "id": "xE-AWQcOXmM",
+    "title": "INTRODUCTION.",
+    "score": 10
+  },
+  {
+    "id": "0mh-Dge-4aM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "J2mhaD_YaM0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y41HfqoVw0w",
+    "title": "Intro and Unboxings",
+    "score": 10
+  },
+  {
+    "id": "YcUtu-4uc44",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "huNVqXEHr-A",
+    "title": "Grupo Clasificado  \\u0026  Grupo Recluta - De Este Lado (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "Be_a4HzPoMw",
+    "title": "JARABE DE PALO - \\\"EL LADO OSCURO\\\"",
+    "score": 10
+  },
+  {
+    "id": "jW89DwNY3Os",
+    "title": "El lado oscuro - Jarabe de Palo",
+    "score": 10
+  },
+  {
+    "id": "6EEz7cEaX-k",
+    "title": "Primera Fe - Al lado de Jesús (Video Lyric Oficial)",
+    "score": 10
+  },
+  {
+    "id": "EOaexeUO-R4",
+    "title": "Raul beltran y Primicia De Sinaloa - Batallando de Este Lado (Letra / Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "YMo3dwEt8Vo",
+    "title": "Vaes, Alex Campos - A Mi Lado (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "GjOZNifQAkY",
+    "title": "IMAGÍNATE A DIOS sentado a tu lado DICIÉNDOTE ESTO...",
+    "score": 10
+  },
+  {
+    "id": "BeTkjCtrJ00",
+    "title": "Esto NO es amor, es el lado OSCURO del romance.. (Episodio para ADULTOS)",
+    "score": 10
+  },
+  {
+    "id": "A_QSHXbmJ80",
+    "title": "20 EXITOS DE ORO - THE BEATLES - LADO 1",
+    "score": 10
+  },
+  {
+    "id": "n9BOYy3SyVo",
+    "title": "You'll NEVER see this anywhere else 🤯⚽️🔥 The Llanera Girls from the neighborhood 💅🥵",
+    "score": 10
+  },
+  {
+    "id": "BEHyAHEagJE",
+    "title": "Bobby Pulido   \\\"A tu lado\\\" Discografía \\\"Siempre pensando en tí\\\"  2001",
+    "score": 10
+  },
+  {
+    "id": "eVOJI5h6tPk",
+    "title": "A.C.O - Esto soy yo (Lado B)",
+    "score": 10
+  },
+  {
+    "id": "FmnXbgvu36o",
+    "title": "Estuve al otro lado y esto fue lo que vi – Testimonio real",
+    "score": 10
+  },
+  {
+    "id": "ELb2FWE7F4Y",
+    "title": "ESTO ES LO PEOR DE SER VIRGO ♍💥 El Lado Oscuro del Signo Virginiano",
+    "score": 10
+  },
+  {
+    "id": "W7Fsmf3JMR0",
+    "title": "ESTO SUCEDE SI DUERMES DEL LADO IZQUIERDO, SEGÚN LA BIBLIA",
+    "score": 10
+  },
+  {
+    "id": "2ha8Ja_esUY",
+    "title": "Luis Tafolla - Las Cosas De Este Lado (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "dmP_e_IL_20",
+    "title": "Di Esto y, Cuando Esté a Tu Lado, No Sentirá Interés por Ninguna Otra Mujer | Psicología del Amor ",
+    "score": 10
+  },
+  {
+    "id": "3nWYLKuIhoc",
+    "title": "The dark side of Christmas you didn't know about",
+    "score": 10
+  },
+  {
+    "id": "r4u1fJkhbZ8",
+    "title": "KRAMPUS: EL ANTI-PAPÁ NOEL",
+    "score": 10
+  },
+  {
+    "id": "Z9MOkAF8MIc",
+    "title": "This prevents you from bringing out your attractive side when you like a girl.",
+    "score": 10
+  },
+  {
+    "id": "RvFN8y4gabg",
+    "title": "THE BRIGHTEST SIDE of VALORANT ✨ NOBODY TALKS ABOUT THIS",
+    "score": 10
+  },
+  {
+    "id": "P_GvaE_HtLg",
+    "title": "Search filters",
+    "score": 10
+  }
+]

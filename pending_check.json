@@ -1,1 +1,3277 @@
-[]
+[
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "מדריך אקסל תוך 15 דקות",
+    "score": 110
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 28 - האימפריה הבריטית",
+    "score": 110
+  },
+  {
+    "id": "0ruDojceKwQ",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "Vrtbxvefnjs",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 5 - התקופה הצלבנית בארץ ישראל",
+    "score": 110
+  },
+  {
+    "id": "IaYMdz6AG9Q",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "DXOq1xiIaF0",
+    "title": "אקסל - EXCEL | 1 - מהי תוכנת אקסל",
+    "score": 60
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "אקסל פיבוט - כל מה שצריך לדעת PIVOT TABLE",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "XrNDNOkBnS4",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "יסודות בתולדות עם ישראל. חובה לראות לכל ישראלי . פרופסור ישראל פינקלשטיין אגדה של עולם הארכאולוגיה",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "סתירות בין ארכיאולוגיה ומקרא-חגי משגב",
+    "score": 60
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "היסטוריה, מקרא ומה שקרה: ראשיתן של ממלכות ישראל ויהודה",
+    "score": 60
+  },
+  {
+    "id": "skfeCM3x_Pw",
+    "title": "המשנה והתלמוד -  עם ד\\\"ר יגאל בן נון",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "ewMksAbgdBI",
+    "title": "How To Draw Stitch From Lilo And Stitch",
+    "score": 50
+  },
+  {
+    "id": "SDQEaJY291A",
+    "title": "How to sketch anything intro",
+    "score": 50
+  },
+  {
+    "id": "y6KjkIbz9OY",
+    "title": "Face Tutorial #drawing #drawingprocess #facetutorial #face #facedrawing #turorial #drawingtutorial",
+    "score": 50
+  },
+  {
+    "id": "2-K2kKPJAQU",
+    "title": "How to draw face for beginners tutorial",
+    "score": 50
+  },
+  {
+    "id": "kqdHi0pxGjU",
+    "title": "this is the SECRET on how to draw ✨JUICY HANDS✨like a pro✋😏(i hate drawing hands😭lol) | JULIAGISELLA",
+    "score": 50
+  },
+  {
+    "id": "8O35tkIqtfU",
+    "title": "How to draw a body? Easy girl body drawing 🧍‍♀️",
+    "score": 50
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "Learning Excel Lesson 4 - Basic Concepts - Part 3 (Excel for Beginners)",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Tutorial For Beginners in Hindi | Complete Python Course 🔥",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "wKUzjton2TM",
+    "title": "How to Start Seeds Indoors (10 Years of Tips in 1 Minute)",
+    "score": 50
+  },
+  {
+    "id": "UEhCF8I30b4",
+    "title": "I learned to garden for these harvests...",
+    "score": 50
+  },
+  {
+    "id": "Yzdabta1nAA",
+    "title": "How to Grow Roses from Cuttings | Easy Propagation Method #gardeninghacks",
+    "score": 50
+  },
+  {
+    "id": "j6jxZAXdG18",
+    "title": "Garden tips 8 - How to make nutrient-rich compost in a large pot #compost #composting #gardening",
+    "score": 50
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "10 Easy Science Experiments - That Will Amaze Kids",
+    "score": 50
+  },
+  {
+    "id": "4MHn9Q5NtdY",
+    "title": "... EASY SCIENCE \"},{\"text\":\"EXPERIMENTS\",\"bold\":true},{\"text\":\" THAT AMAZE \"},{\"text\":\"KIDS\",\"bold\":true},{\"text\":\" ...",
+    "score": 50
+  },
+  {
+    "id": "V5MYhFET9vQ",
+    "title": "Building the Eiffel Tower | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "g0WSPkdf1OE",
+    "title": "The Extreme Engineering Behind the Panama Canal’s Modern Makeover | Blueprint",
+    "score": 50
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "tHUx6P1c56E",
+    "title": "World’s Most Extreme Railway | Megastructures | Free Documentary",
+    "score": 50
+  },
+  {
+    "id": "00VeaL8a__k",
+    "title": "Products Exploding With Color! | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "7hB3_bvdhxI",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "n86p0d1p9Sk",
+    "title": "Antarctica (2026) The Forbidden Continent That Holds Earth's True History",
+    "score": 50
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Learn Python in Less than 10 Minutes for Beginners (Fast \\u0026 Easy)",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Data Analysis with Python Course - Numpy, Pandas, Data Visualization",
+    "score": 50
+  },
+  {
+    "id": "ITSMDeOgXxw",
+    "title": "Introduction to Python Full Course 2026",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "mC4nyib2sfg",
+    "title": "How I Learned Python FAST",
+    "score": 50
+  },
+  {
+    "id": "E9enKu1BFhg",
+    "title": "How to Use Google Antigravity Without Hitting Rate Limits🔥(2026)",
+    "score": 50
+  },
+  {
+    "id": "2-8g03IUY2k",
+    "title": "No Limits  - The Audrey Mestre Documentary",
+    "score": 50
+  },
+  {
+    "id": "2yBsROZlC7Y",
+    "title": "Learn How to Talk About Yourself in English | Easy Introductions for Beginners | English Podcast",
+    "score": 50
+  },
+  {
+    "id": "qZjC4VD_JLA",
+    "title": "Talking About the Weather in English - Spoken English Lesson",
+    "score": 50
+  },
+  {
+    "id": "NdzFjfO3lgM",
+    "title": "Talking About Your Vacation in English - Spoken English Lesson",
+    "score": 50
+  },
+  {
+    "id": "E9pFeMKZR1I",
+    "title": "1. How to Give Basic Information About Your Vacation",
+    "score": 50
+  },
+  {
+    "id": "z6wqQA1MVYI",
+    "title": "This free California site removes your info from the internet - Rich On Tech",
+    "score": 50
+  },
+  {
+    "id": "i5UqNMZUUKM",
+    "title": "Intro: What will we learn?",
+    "score": 50
+  },
+  {
+    "id": "dxHwVGYFgA4",
+    "title": "How to get past Paywalls on the internet 🔥",
+    "score": 50
+  },
+  {
+    "id": "ZMxedNRgdaU",
+    "title": "How To Access ANY Paywalled Article For Free in 2025 (13 Methods That Actually Work)",
+    "score": 50
+  },
+  {
+    "id": "OvdEOZiSXHA",
+    "title": "How to bypass any paywall! #news #internet #digitalmedia #computer #tech #business #article",
+    "score": 50
+  },
+  {
+    "id": "MaFkERyVcVs",
+    "title": "How Hackers Bypass Paywalls? (Real Techniques)",
+    "score": 50
+  },
+  {
+    "id": "jEVodjcp4ZA",
+    "title": "Kajabi's NEW Course Paywall Feature is a Game-Changer (How to use it)",
+    "score": 50
+  },
+  {
+    "id": "XklywHKK9io",
+    "title": "How to bypass paywall on websites (The only method that works!!!)",
+    "score": 50
+  },
+  {
+    "id": "myjibhgDbIo",
+    "title": "How To Get Huge CHASE Freedom Credit Limit Increases! (SOFT PULL)",
+    "score": 50
+  },
+  {
+    "id": "TDl5XWq8XSo",
+    "title": "How to Get a HUGE Credit Limit Increase EVERYTIME on Your Capital One Credit Cards",
+    "score": 50
+  },
+  {
+    "id": "WEEiIyslWCg",
+    "title": "How to Get a HUGE Credit Limit Increase TODAY!",
+    "score": 50
+  },
+  {
+    "id": "7Y6hrYjO_ws",
+    "title": "HUGE Secret! HOW TO DELETE EVERY CHARGE-OFF FROM YOUR CREDIT REPORT! WIN MONEY!",
+    "score": 50
+  },
+  {
+    "id": "YZ_UQwXV8-g",
+    "title": "HUGE Credit Hack! How to Hide Utilization (Increase Your Score Fast)",
+    "score": 50
+  },
+  {
+    "id": "6X5R7u1uOqU",
+    "title": "How To Get A HUGE Credit Limit Increase From Chase (SOFT PULL)",
+    "score": 50
+  },
+  {
+    "id": "XneHldCrck0",
+    "title": "How To Get A HUGE Credit Limit Increase From American Express",
+    "score": 50
+  },
+  {
+    "id": "qChR7bQBx3I",
+    "title": "RUMOR: Capital One To Make HUGE Change To Credit Cards!",
+    "score": 50
+  },
+  {
+    "id": "9vXKvku6y5A",
+    "title": "React OS: How to make it Run Windows 3.11 Software",
+    "score": 50
+  },
+  {
+    "id": "HdGQRGlbQys",
+    "title": "Intro/Brief History of ReactOS",
+    "score": 50
+  },
+  {
+    "id": "lpPh9Vy9rbc",
+    "title": "FATAL K2 DOCUMENTARY : A CRY FROM THE TOP OF THE WORLD",
+    "score": 50
+  },
+  {
+    "id": "AT_J2eRBbrA",
+    "title": "How to Solve a Rubik's Cube | WIRED",
+    "score": 50
+  },
+  {
+    "id": "5DCo_bZ0PEo",
+    "title": "How To Solve a 2x2 Rubik's Cube | Simple Method",
+    "score": 50
+  },
+  {
+    "id": "mPRYljb58Is",
+    "title": "How to Solve the Skewb [Beginner Method] (v2)",
+    "score": 50
+  },
+  {
+    "id": "vSMMURVTbGo",
+    "title": "How To SOLVE A Rubik's Cube With ONLY 2 MOVES!? 🤯😲",
+    "score": 50
+  },
+  {
+    "id": "A-qIzs-Tpsc",
+    "title": "How To Solve A 3x3 Rubik's Cube Using Only 2 Moves (Really Works)!",
+    "score": 50
+  },
+  {
+    "id": "JwI8X90RbEI",
+    "title": "Easiest Tutorial: How to Solve the 4x4 Rubik's Cube (The Rubik's Revenge)",
+    "score": 50
+  },
+  {
+    "id": "f9ilC-ePrg4",
+    "title": "Intro: How to solve the 4x4 Rubik's cube",
+    "score": 50
+  },
+  {
+    "id": "tV4eYbMLFXQ",
+    "title": "Learn how to solve a rubik's cube 3x3 in 1 minute",
+    "score": 50
+  },
+  {
+    "id": "QTgmv0LwY20",
+    "title": "Unlocking Your Intuition: How to Solve Hard Problems Easily",
+    "score": 50
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "lhhFDISgobg",
+    "title": "How To Search For Filters On Instagram Story",
+    "score": 50
+  },
+  {
+    "id": "dneR1fSiS2Q",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How To Use Search Filters In Facebook On PC (New Update)",
+    "score": 50
+  },
+  {
+    "id": "a4dA_vPIIR4",
+    "title": "Algebra - Factoring Trinomials Technique Bottoms Up Intuitive Math Help Trinomial Factor Sutcliffe",
+    "score": 50
+  },
+  {
+    "id": "bu0kO0VzCrU",
+    "title": "FACTOR OSTRO V.A.M 2024 Team Edition Dream Build @ StradeArgovia",
+    "score": 50
+  },
+  {
+    "id": "peIRttKYCeo",
+    "title": "How to send a Secure Message to your provider at Evans Army Community Hospital",
+    "score": 50
+  },
+  {
+    "id": "JL_QBCUVpVo",
+    "title": "The Drawing Exercise that Changed My Life",
+    "score": 10
+  },
+  {
+    "id": "nyiYeF-IW9E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m67-bOpOoPU",
+    "title": "Introduction to Python",
+    "score": 10
+  },
+  {
+    "id": "9mmVa6O-hzQ",
+    "title": "Einleitung",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "UrsmFxEIp5k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "How Did One Equation Predict Antimatter (…and Spin)?",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "The Biggest Misconception in Physics",
+    "score": 10
+  },
+  {
+    "id": "t06aTX9jM34",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DxL2HoqLbyA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "String Theory Explained – What is The True Nature of Reality?",
+    "score": 10
+  },
+  {
+    "id": "Da-2h2B4faU",
+    "title": "The Dirac Equation: The Most Important Equation You’ve Never Heard Of",
+    "score": 10
+  },
+  {
+    "id": "upX1MmQwGBU",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "rCfPQLVzus4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "D89ngRr4uZg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YTY0NUKS78U",
+    "title": "35 Amish Vegetable Gardening Hacks You'll Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "pLQuIuokP6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AOydS3dJHCo",
+    "title": "🌿Gardening Hacks 101: Expert Tips and Tricks for Success",
+    "score": 10
+  },
+  {
+    "id": "j9NKqVoH5JU",
+    "title": "No need to buy potting soil again! | Garden tips \\u0026 tricks #greenhouse #homestead",
+    "score": 10
+  },
+  {
+    "id": "9fOe2bnZHrY",
+    "title": "Free Garden Planters - Tips and Tricks #garden #gardening",
+    "score": 10
+  },
+  {
+    "id": "AmWG0oYhDh4",
+    "title": "Top 10 Free Vegetable Gardening Hacks",
+    "score": 10
+  },
+  {
+    "id": "zG0tNSj5B_4",
+    "title": "Toilet paper/paper towel tubes",
+    "score": 10
+  },
+  {
+    "id": "BZiBXl5l_xc",
+    "title": "1/8 Acre Abundance: FULL TOUR + BEST TIPS for Growing",
+    "score": 10
+  },
+  {
+    "id": "5zR0gH1XHdQ",
+    "title": "Three tips for beginner gardeners 🌱",
+    "score": 10
+  },
+  {
+    "id": "H7d3d7c-RUo",
+    "title": "Growing onions at home is easy #garden #growathome #plant #onion",
+    "score": 10
+  },
+  {
+    "id": "LtGPQtQpVWI",
+    "title": "3 Tips For Growing Cucumbers 🥒",
+    "score": 10
+  },
+  {
+    "id": "_6rSlPU1zk4",
+    "title": "Garden Center Shopping Like a Pro! 🌿 Expert Tips to Pick the Best Plants \\u0026 Shrubs",
+    "score": 10
+  },
+  {
+    "id": "oW_dQDsYaOc",
+    "title": "5 Gardening Tips That Actually Work",
+    "score": 10
+  },
+  {
+    "id": "kueifr5Ve8Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BO8yuSTc3fo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_Ls0YV5JeUc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "CF2YDfQgnVg",
+    "title": "Bridges That Defined Modern Engineering | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Steel Giants: Pushing the Limits of Bridge Design | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Impossible Engineering | Full Season 2 | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "HQgGvVOQdYg",
+    "title": "Eurofighter Typhoon – Power \\u0026 Program",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "efiTDgJjqXY",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "Unq1etYduBg",
+    "title": "London's Super Sewer",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RU5WQ7MuBwg",
+    "title": "rivet the wings onto the fuselage",
+    "score": 10
+  },
+  {
+    "id": "G5JN1l6ljZQ",
+    "title": "Plantable retaining wall for erosion control",
+    "score": 10
+  },
+  {
+    "id": "6I6D3TT5Vmk",
+    "title": "How Billions Canned Tuna Are Processed - Amazing Tuna Harvesting \\u0026 Processing In Factory",
+    "score": 10
+  },
+  {
+    "id": "ak7UEpmOfUA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NQgal5kteYw",
+    "title": "UNKNOWN CHINA: Natural Wonders and Megaprojects",
+    "score": 10
+  },
+  {
+    "id": "Er6SLFnv-Ro",
+    "title": "Mass Rapid Transit System",
+    "score": 10
+  },
+  {
+    "id": "XKndrP5zT-c",
+    "title": "The Meraviglia Cruise Ship",
+    "score": 10
+  },
+  {
+    "id": "smg-vVPyw1s",
+    "title": "The Craziest Treehouses of SEASON 5! | Treehouse Masters | Animal Planet",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "G0KRDPlKpaI",
+    "title": "India - Railway Underpass in 5 Hours",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LKLUOQHYW5s",
+    "title": "2Pac Came Home and Told Me He Got With Faith Evans — Snoop Dogg Cried at the Hospital Over 2Pac",
+    "score": 10
+  },
+  {
+    "id": "NKj6KrCzum8",
+    "title": "F*ntanyl Traffickers Immediately Snitch on Each Other",
+    "score": 10
+  },
+  {
+    "id": "VxKC8qBy4Vc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "9 HOURS of Python Projects - From Beginner to Advanced",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "f79MRyMsjrQ",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wUSDVGivd-8",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "Gx5qb1uHss4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EWq1VXEUGIU",
+    "title": "Shanti Dope feat. Gat Putch - Ramdam Mo Ba? (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "oi7OHOFZy38",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "7Zufz5A9OpM",
+    "title": "Urfi Javed Exposes Bollywood Secrets!",
+    "score": 10
+  },
+  {
+    "id": "BOqAekCNPOs",
+    "title": "No Limit",
+    "score": 10
+  },
+  {
+    "id": "YdbmBLR8JO0",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "3O61I0pNPg8",
+    "title": "What are the limits of free speech? | Big Think",
+    "score": 10
+  },
+  {
+    "id": "LuqQOEkGFVQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "K_9tX4eHztY",
+    "title": "Young Thug - Anybody (ft. Nicki Minaj) [Official Sign Video]",
+    "score": 10
+  },
+  {
+    "id": "cFqz9Dr0QYA",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "yu0_0bwqGzQ",
+    "title": "Use Claude WITHOUT Any Limits - In 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "qccpemGcH3U",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "DI57uctvh2U",
+    "title": "Shanti Dope feat. Gat Putch - Ramdam Mo Ba? (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "ANU6TJ2A57M",
+    "title": "Shanti Dope feat. Hero - Sumpa (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "lX1j41-4l9w",
+    "title": "Shanti Dope feat. Daarth - Tabi (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "gfxTa4uEV3U",
+    "title": "Shanti Dope feat. Alex Bruce - Walang Nagsabi",
+    "score": 10
+  },
+  {
+    "id": "H0xA9avVXeI",
+    "title": "SIGE LANG - SHANTI DOPE X FLOW G X HELLMERRY",
+    "score": 10
+  },
+  {
+    "id": "pdhKsMfyX-Q",
+    "title": "WHAT'S YOUR CRAVINGS | ZEINAB HARAKE",
+    "score": 10
+  },
+  {
+    "id": "g_s2Jm-RePA",
+    "title": "Shanti Dope feat. Flow G - Kamusta (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "tbsSiuJIA2Q",
+    "title": "Zedd - Shanti (feat. Grey) [Official Lyric Video]",
+    "score": 10
+  },
+  {
+    "id": "o5QTwImqW3U",
+    "title": "Sinio (feat. Shanti Dope) - Kutya",
+    "score": 10
+  },
+  {
+    "id": "8QF8FQmwEPI",
+    "title": "Shanti Dope - Palagi (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "D1VaVDm_YP4",
+    "title": "Shanti Dope feat. Mhot - Basic (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "e7qaSk4rmKE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XCvziBQIQfY",
+    "title": "Tink Ft Lil Herb - Talkin Bout | @Official_Tink @LilHerbie_ebk #WD2 [Winter's Diary 2]",
+    "score": 10
+  },
+  {
+    "id": "WB847RdwkjM",
+    "title": "Tracy Chapman - Talkin' bout a Revolution [High Quality]",
+    "score": 10
+  },
+  {
+    "id": "Lsj7czLMtoE",
+    "title": "The Silent Protest No One Is Talking About",
+    "score": 10
+  },
+  {
+    "id": "1GEabXlQR5w",
+    "title": "brooks is talking about out of it #brooksharvey #outofit #innit #harveytwins #fyp",
+    "score": 10
+  },
+  {
+    "id": "3XdQNI26m4U",
+    "title": "IM TALKING BOUT IN IT! 😝😭",
+    "score": 10
+  },
+  {
+    "id": "hCon8Uq_Bas",
+    "title": "The Prophecy Everyone Is Talking About on September 23rd",
+    "score": 10
+  },
+  {
+    "id": "5iyvPWTjVz8",
+    "title": "FIRST TAKE | \\\"It's over!\\\" - Stephen A. Smith believes LeBron played in Cleveland for the last time",
+    "score": 10
+  },
+  {
+    "id": "BbNJ4dSG5z8",
+    "title": "Kendrick Perkins thinks Stephen A. AND Windy are wrong about their LeBron takes | First Take",
+    "score": 10
+  },
+  {
+    "id": "bcjIfiS_FzY",
+    "title": "LeBron’s future",
+    "score": 10
+  },
+  {
+    "id": "bqo2HJzOwz4",
+    "title": "\\\"A Serious MISCARRIAGE Of Justice!\\\" | Bus Driver FIRED For Stopping And Apprehending Thief",
+    "score": 10
+  },
+  {
+    "id": "b0leWPxuAOk",
+    "title": "The UK Is Quietly Preparing For Something Big— Here's What To Do",
+    "score": 10
+  },
+  {
+    "id": "CV_i-pRchA4",
+    "title": "Shameful \\u0026 New Levels of Embarrassment",
+    "score": 10
+  },
+  {
+    "id": "gXeT6f756XA",
+    "title": "Australia's Verdict SURPRISES The World",
+    "score": 10
+  },
+  {
+    "id": "68ed5VhDYQQ",
+    "title": "Look at these SCUMBAGS",
+    "score": 10
+  },
+  {
+    "id": "hy61DIGMOsY",
+    "title": "1. Talking About Cold Weather",
+    "score": 10
+  },
+  {
+    "id": "6M4yTipgffk",
+    "title": "Talking about sleep 😴 🛏️  Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "yLu_M4yiCho",
+    "title": "Talking about routines: 🍽️🛌🚶 Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "sJ7sRSK2in4",
+    "title": "Talking about your year 🗓️🥳❤️ Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "WGZFo81hvj0",
+    "title": "Talking about travel: 🚴🚗🚆 Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "JgB6-RWnV9M",
+    "title": "THEY ARE TALKING ABOUT YOUR CHARACTER.. SAID YOU ARE NOT ……………………",
+    "score": 10
+  },
+  {
+    "id": "W3OgAO_IF40",
+    "title": "Talking about films 🎬🍿  Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "BSABmr8hX7s",
+    "title": "Talking about the New Year 🗓️🥳❤️ Real Easy English",
+    "score": 10
+  },
+  {
+    "id": "u5AHBqh2Ujs",
+    "title": "Many go sita",
+    "score": 10
+  },
+  {
+    "id": "HB5YafiUOMo",
+    "title": "Talking About Daily Life in English | English Podcast for Beginners",
+    "score": 10
+  },
+  {
+    "id": "MZ5tySs3DJ4",
+    "title": "What is bro talking about 😭",
+    "score": 10
+  },
+  {
+    "id": "mWKDiF7a-D8",
+    "title": "Matuê - TALKING BOUT",
+    "score": 10
+  },
+  {
+    "id": "Qk-YmMgc0Ec",
+    "title": "IF YOU SAY SLAY QUEEN",
+    "score": 10
+  },
+  {
+    "id": "qwOjwrMzuVk",
+    "title": "RUMI, JINU - Free (Lyrics) | K-Pop Demon Hunters",
+    "score": 10
+  },
+  {
+    "id": "wWKSoxG1K7w",
+    "title": "Trump, Canada, and the future of the free world | ask ian",
+    "score": 10
+  },
+  {
+    "id": "NXtThw7glYU",
+    "title": "B-legit ft Suga free- What you thought",
+    "score": 10
+  },
+  {
+    "id": "-7YdUIDbEWM",
+    "title": "PART 2: RECALL FROM HELL – Heating Client Demanded Free Service",
+    "score": 10
+  },
+  {
+    "id": "l9BNvZVhLME",
+    "title": "Recall From Hell Begins",
+    "score": 10
+  },
+  {
+    "id": "VHyrBoQhtxo",
+    "title": "Major Lazer - Get Free (What So Not Remix) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "AJg3Bi9_GI0",
+    "title": "🔴 These FREE Apps can Replace Netflix Completely !",
+    "score": 10
+  },
+  {
+    "id": "QiNvl6X9kJQ",
+    "title": "Free Fully",
+    "score": 10
+  },
+  {
+    "id": "g1AlEzp2rJ0",
+    "title": "Let's talk about Affinity!",
+    "score": 10
+  },
+  {
+    "id": "Ifi_uQyXe00",
+    "title": "⚔️KPOP Demon Hunters OST Medley2 (Free, What It Sounds Like)🎤4hands piano",
+    "score": 10
+  },
+  {
+    "id": "BGPBkqGjzfA",
+    "title": "Poor Tailor Fixes a CEO’s Torn Suit for Free, What Happens Next Will Change Her Life Forever!",
+    "score": 10
+  },
+  {
+    "id": "IRzbWegUNOg",
+    "title": "Carnival's Celebration Key EXPLAINED! What’s Free, What’s Not + Must Know Details",
+    "score": 10
+  },
+  {
+    "id": "QCzzDgS1L6U",
+    "title": "Carnival's New Private Destination",
+    "score": 10
+  },
+  {
+    "id": "A3nfS_1am4Y",
+    "title": "Major Lazer - Get Free (What So Not Remix) (feat. Amber Coffman of Dirty Projectors)(Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "0SaXzU0tnzY",
+    "title": "Free (Do What U Want) (LP Giobbi Club Edit - Visualiser)",
+    "score": 10
+  },
+  {
+    "id": "1816wPT191k",
+    "title": "Meek Mill - What's Free (feat. Rick Ross \\u0026 Jay Z) (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "6WhB5V0mI7M",
+    "title": "\\\"I'm free. What're we having?\\\" - Georgie Cooper | Poker Face - Lady Gaga | Young Sheldon Edit",
+    "score": 10
+  },
+  {
+    "id": "NKqQtfFb6yk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3WRJOES-gAw",
+    "title": "Our No-Code Apps Made $50M Using THIS Paywall",
+    "score": 10
+  },
+  {
+    "id": "24QMRDXck70",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Opo8efClzA0",
+    "title": "No Paywall. No Limits. Just FREE AI Images 💥",
+    "score": 10
+  },
+  {
+    "id": "QK7IVpvGai4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ddFfpBA-Nck",
+    "title": "All new in RevenueCat: AI paywalls, real-time Charts and daily payouts | App Growth Annual 2025",
+    "score": 10
+  },
+  {
+    "id": "EVR7Crrm0_w",
+    "title": "Intro — The New Era of App Growth",
+    "score": 10
+  },
+  {
+    "id": "X-fspAWAqzQ",
+    "title": "How the New York Times Beat Paywall Hackers For Good",
+    "score": 10
+  },
+  {
+    "id": "9Ej9JUnFCO0",
+    "title": "The Internet's Biggest War",
+    "score": 10
+  },
+  {
+    "id": "qk672GnlXW8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "skJV8Z6jpRY",
+    "title": "RevenueCat Paywalls Overview",
+    "score": 10
+  },
+  {
+    "id": "mPzCTxIlMXE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IiK5CbSdGSA",
+    "title": "$10,000 High Limit Credit Cards Guaranteed Starting Limits Before Applying! | Visa Infinite Cards",
+    "score": 10
+  },
+  {
+    "id": "qD3AC3gZJzQ",
+    "title": "FREE \\\"Limits\\\" Kendrick Lamar ft. J Cole Type Beat 2017 (Prod. Lucid Soundz)",
+    "score": 10
+  },
+  {
+    "id": "7UmsKcWDhKc",
+    "title": "Young Thug and 21 savage jail call Exposed. [Full Call]",
+    "score": 10
+  },
+  {
+    "id": "e7g5JADcrSo",
+    "title": "YoungBoy Never Broke Again - Dirty Thug [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "CV7OQerBcBs",
+    "title": "Young Thug - RiRi [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "jt9sPIVyijI",
+    "title": "Young Thug - Killed Before (Audio)",
+    "score": 10
+  },
+  {
+    "id": "gv_HFT4pJU4",
+    "title": "Polo G - Losses (Official Audio) ft. Young Thug",
+    "score": 10
+  },
+  {
+    "id": "uCi0Ug4R1D4",
+    "title": "Young Thug - Sin (ft. Jaden Smith) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "eHrGwEypJ2U",
+    "title": "Young Thug - What's The Move ft. Lil Uzi Vert (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "WXSfXcLeOps",
+    "title": "Young Thug - Guwop (feat. Quavo, Offset and Young Scooter) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "tHBHEoeq0HM",
+    "title": "Young Thug - Surf ft. Gunna (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "FRrdo86LPEk",
+    "title": "Young Thug - Closing Arguments (Leaked)",
+    "score": 10
+  },
+  {
+    "id": "kGqEoXQjHEk",
+    "title": "T.I. - About The Money ft. Young Thug",
+    "score": 10
+  },
+  {
+    "id": "etfIdtm-OC8",
+    "title": "T.I. ft. Young Thug \\\"About The Money\\\" [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "JHBnadmTReg",
+    "title": "Young Thug - Hot ft. Gunna (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "PRWockrwEXU",
+    "title": "Yungeen Ace - Thug Cry (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "HFfFJRSOj0Y",
+    "title": "Young Thug - Check (official audio)",
+    "score": 10
+  },
+  {
+    "id": "6sQ_k6cbWaI",
+    "title": "Young Stoner Life, Young Thug \\u0026 Gunna - Ski [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "92j7Ep_RPhM",
+    "title": "Post Malone - Goodbyes ft. Young Thug (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Wisthc226SU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FgxPjyp7454",
+    "title": "FBI executes search warrant at Fulton County elections office",
+    "score": 10
+  },
+  {
+    "id": "jrxoztMbfzs",
+    "title": "FBI conducting 'court ordered activity' at Georgia election site",
+    "score": 10
+  },
+  {
+    "id": "YOcpNLAlPwQ",
+    "title": "$7 million worth of cocaine seized during traffic stop in Putnam County; 2 men arrested",
+    "score": 10
+  },
+  {
+    "id": "yt6ew6c6VIU",
+    "title": "Fulton County official: \\\"Outcome of the 2020 election will NOT change\\\"",
+    "score": 10
+  },
+  {
+    "id": "swm97_HTvl4",
+    "title": "Cook County Police seize dogs, guns in drug bust",
+    "score": 10
+  },
+  {
+    "id": "gvTzF3Nd6TU",
+    "title": "FBI believes crime was committed at Fulton elections hub as they seize 2020 ballots",
+    "score": 10
+  },
+  {
+    "id": "eTaeoM561u4",
+    "title": "$7 million worth of cocaine seized during traffic stop in Putnam County; 2 men arrested",
+    "score": 10
+  },
+  {
+    "id": "WVwrXZtohoA",
+    "title": "Federal government seizes ballots in Fulton County election office raid",
+    "score": 10
+  },
+  {
+    "id": "9qOxi4QsnQU",
+    "title": "HOA Seized My Generator During a Winter Storm — They Didn’t Know I’m the County Sheriff",
+    "score": 10
+  },
+  {
+    "id": "EM72S6ybJ-c",
+    "title": "FBI RAIDS Fulton County Elections as Commissioner Mo Ivory Exposes 2020 Ballot Seizure Panic!",
+    "score": 10
+  },
+  {
+    "id": "ExzW-0bOAFE",
+    "title": "Nearly $4 million of meth seized in McDowell county",
+    "score": 10
+  },
+  {
+    "id": "sXuY0W0W3L4",
+    "title": "200 pounds of meth worth around $500K seized in Cherokee County, sheriff says",
+    "score": 10
+  },
+  {
+    "id": "CY9fD9k0vIk",
+    "title": "Over 150 pounds of drugs seized, arrests made in Bulloch County",
+    "score": 10
+  },
+  {
+    "id": "qf2tcf23sA8",
+    "title": "FBI searches Fulton County elections office over alleged voter fraud",
+    "score": 10
+  },
+  {
+    "id": "wnEaFPUokLM",
+    "title": "Fulton County officials react to FBI raid at headquarters",
+    "score": 10
+  },
+  {
+    "id": "b2GBY9wv7z8",
+    "title": "Hundreds of cars stuck on interstate overnight in North Mississippi after significant winter storm",
+    "score": 10
+  },
+  {
+    "id": "jnPeK5gapAE",
+    "title": "55 dogs seized, woman arrested in Lafayette Co. animal neglect case",
+    "score": 10
+  },
+  {
+    "id": "eLyOqE9DuWw",
+    "title": "Oconee Co. Sheriff explains what they do with seized money, drugs, and property",
+    "score": 10
+  },
+  {
+    "id": "Om6pKfLy4ac",
+    "title": "ASSETS SEIZED OCONEE COUNTY SHERIFF'S OFFICE",
+    "score": 10
+  },
+  {
+    "id": "FkvXLmSoT7Q",
+    "title": "FBI Search Warrant in Fulton County — What It REALLY Means",
+    "score": 10
+  },
+  {
+    "id": "f5GpNOi28jk",
+    "title": "FBI executing search warrant at Fulton County elections office as they seek 2020 election records",
+    "score": 10
+  },
+  {
+    "id": "cxouA8eZByc",
+    "title": "Multi-home seizure related to Chinese money laundering scheme, Mexican cartel: FBI",
+    "score": 10
+  },
+  {
+    "id": "beQySp1hhqE",
+    "title": "Over 150 pounds of drugs seized, arrests made in Bulloch County: Sheriff's Office says",
+    "score": 10
+  },
+  {
+    "id": "aE4sPl0-9SA",
+    "title": "128 kilos of meth seized from rail cars in Calhoun County",
+    "score": 10
+  },
+  {
+    "id": "i8LnaeeEu9E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MPwDav9hEeg",
+    "title": "Man is shot and killed during Minneapolis immigration crackdown, National Guard activated",
+    "score": 10
+  },
+  {
+    "id": "8lQdNksqZSQ",
+    "title": "A Nation Of Immigrants",
+    "score": 10
+  },
+  {
+    "id": "vUeLvBFjFlM",
+    "title": "Ukraine \\u0026 Poland",
+    "score": 10
+  },
+  {
+    "id": "oYvKcAh1zdo",
+    "title": "GIVE ME YOUR TIRED, YOUR POOR, YOUR HUDDLED MASSES YEARNING",
+    "score": 10
+  },
+  {
+    "id": "BRML2tlg_yQ",
+    "title": "'Your Countries Are Being Ruined': Trump Warns United Nations of Migrant Crisis",
+    "score": 10
+  },
+  {
+    "id": "V5RzEHQa_iE",
+    "title": "NV: OBAMA-WE ARE A NATION OF IMMIGRANTS",
+    "score": 10
+  },
+  {
+    "id": "TAeU6pBT7oE",
+    "title": "Trump vows immigration crackdown after DC National Guard shooting",
+    "score": 10
+  },
+  {
+    "id": "X_xVKy58Yuw",
+    "title": "The law that broke US immigration",
+    "score": 10
+  },
+  {
+    "id": "iKHl__BEsD0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bDNKHWzQiz8",
+    "title": "40% OF AMERICANS",
+    "score": 10
+  },
+  {
+    "id": "vOUlrlXlPQQ",
+    "title": "Obama unveils new immigration plan",
+    "score": 10
+  },
+  {
+    "id": "z5oKlKeXWLQ",
+    "title": "Why does rounding up migrants warrant thousands of agents? | CUOMO",
+    "score": 10
+  },
+  {
+    "id": "Y1cEEnjTFBg",
+    "title": "Deportation Priorities \\u0026 Moral Hazard  Is America Still a Nation of Laws?",
+    "score": 10
+  },
+  {
+    "id": "1BG2ArlRTKQ",
+    "title": "ICE UPDATE: Border patrol on immigration operations in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "ikZdygoUirY",
+    "title": "Leavitt outlines Trump's plan to end chaos, deport undocumented immigrants in Minnesota",
+    "score": 10
+  },
+  {
+    "id": "wxu8hNCrHlM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NR6W_r12YCI",
+    "title": "Slim Thug - King (Audio)",
+    "score": 10
+  },
+  {
+    "id": "5iginqYihxg",
+    "title": "Young Thug (King Slime Mix)",
+    "score": 10
+  },
+  {
+    "id": "gy3gTc85PjI",
+    "title": "Young Thug \\\"With That\\\" featuring Duke",
+    "score": 10
+  },
+  {
+    "id": "KO6ARTvm3po",
+    "title": "King of Thugs - Audio | Thug Life | Kamal Haasan | Mani Ratnam | STR | AR Rahman | RKFI | MT | RG",
+    "score": 10
+  },
+  {
+    "id": "1cAcb1r4oMs",
+    "title": "Slim Thug - King \\u0026 The Boss Ft Z-Ro",
+    "score": 10
+  },
+  {
+    "id": "U-KRYIoH8Pk",
+    "title": "Slim Thug - 3 Kings",
+    "score": 10
+  },
+  {
+    "id": "dni3W4b2qmk",
+    "title": "Young Thug - Closing Arguments (Leaked)",
+    "score": 10
+  },
+  {
+    "id": "-Mck1ttPQN0",
+    "title": "Can You Luv A Thug (feat. JOYBVND)",
+    "score": 10
+  },
+  {
+    "id": "HPDGm5RVHzY",
+    "title": "Young Thug - MLK (feat. Trouble \\u0026 Shad Da God)",
+    "score": 10
+  },
+  {
+    "id": "mbsSCJEP7oo",
+    "title": "Slim Thug - King \\u0026 The Boss (ft. Z-Ro) [2017]",
+    "score": 10
+  },
+  {
+    "id": "mehTx34-oi4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fXgwCNUWbCU",
+    "title": "HUGE Credit Card Rewards News Could Save THOUSANDS",
+    "score": 10
+  },
+  {
+    "id": "5ZhK1FtWha8",
+    "title": "Getting HUGE Credit Limit Increases Every Time",
+    "score": 10
+  },
+  {
+    "id": "VjTSGU5Cnmo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gs_6GcASgNU",
+    "title": "3 NEW Bilt 2.0 Credit Cards, Many HUGE Changes",
+    "score": 10
+  },
+  {
+    "id": "zw_2osR4kcM",
+    "title": "Chase Gives HUGE Bonus For Marriott Boundless Credit Card",
+    "score": 10
+  },
+  {
+    "id": "OmXRlLsVYgU",
+    "title": "These HUGE Credit Card BONUSES are About to END (ACT FAST)",
+    "score": 10
+  },
+  {
+    "id": "y3v2sdUASHk",
+    "title": "$10,000 High Limit Credit Cards Guaranteed Starting Limits Before Applying! | Visa Infinite Cards",
+    "score": 10
+  },
+  {
+    "id": "lFywn8grMyY",
+    "title": "Option #2",
+    "score": 10
+  },
+  {
+    "id": "vEVDZYc-FAk",
+    "title": "Call and Ask for an Increase",
+    "score": 10
+  },
+  {
+    "id": "qUZt7nkP45Q",
+    "title": "HUGE Change Is Coming to UK Theme Parks??",
+    "score": 10
+  },
+  {
+    "id": "w_m40sk08Vk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "elOKJdiWmMk",
+    "title": "Huge Credit Hack To Boost Credit Score",
+    "score": 10
+  },
+  {
+    "id": "k6bO0qM18hk",
+    "title": "What Categories Go into Your Credit Score",
+    "score": 10
+  },
+  {
+    "id": "z3Cqu8Xs2Gw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7mah_ZM9dYs",
+    "title": "The Best 0% APR Cards in 2026",
+    "score": 10
+  },
+  {
+    "id": "VK0yEbKrLqc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wFA30dFLKpw",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "In28C2aRJmE",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "uhg2yEE_exM",
+    "title": "G-Eazy - No Limit REMIX ft. A$AP Rocky, Cardi B, French Montana, Juicy J, Belly",
+    "score": 10
+  },
+  {
+    "id": "l_lblj8Cq0o",
+    "title": "No Limits (feat. Stokley Williams) - Brian Culbertson",
+    "score": 10
+  },
+  {
+    "id": "dc1YMlcvqkM",
+    "title": "No Limits",
+    "score": 10
+  },
+  {
+    "id": "P_Fynenrc74",
+    "title": "Without limits! Oregon vs Stanford",
+    "score": 10
+  },
+  {
+    "id": "_VSMkE1G37A",
+    "title": "Steve Prefontaine Without Limits 1972 Munich Race",
+    "score": 10
+  },
+  {
+    "id": "SuEn_DKIh_E",
+    "title": "We Both Went Through Divorce—Apostle Dennis Wambugu \\u0026 Rev Lee Wanja (Woman Without Limits)",
+    "score": 10
+  },
+  {
+    "id": "SEPJBwX53Pg",
+    "title": "Without Limits",
+    "score": 10
+  },
+  {
+    "id": "e2MpP3M9oCk",
+    "title": "GOD’S CHOSEN ONES, THEY BETTER BE CAREFUL WITH YOU—YOUR PRESENCE IS NOT ORDINARY!",
+    "score": 10
+  },
+  {
+    "id": "NpKnNR2Sji0",
+    "title": "No Limbs, No Limits: Nick Vujicic's incredible love story | 60 Minutes Australia",
+    "score": 10
+  },
+  {
+    "id": "Ur8_IUldv-I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BpbF0_jjPxU",
+    "title": "Without Limits   last race episode",
+    "score": 10
+  },
+  {
+    "id": "ZRWjypJWHx8",
+    "title": "Kimi K2.5 Fully Free Coder (No Limits): RIP Claude 4.5 Opus! THE BEST way to CODE FOR FREE!",
+    "score": 10
+  },
+  {
+    "id": "ATCzd_NXdzs",
+    "title": "Capital One Secret Hack: Get a Credit Limit Increase Instantly (NO Hard Pull)",
+    "score": 10
+  },
+  {
+    "id": "3hHEQwHNtKQ",
+    "title": "The Capital One Limit Increase Hack Nobody Uses",
+    "score": 10
+  },
+  {
+    "id": "EAJGFaa56cM",
+    "title": "Stephen A. was sleeping on the Pats",
+    "score": 10
+  },
+  {
+    "id": "L2ERluBp4lI",
+    "title": "No Paywall. No Limits. Just FREE AI Images 💥",
+    "score": 10
+  },
+  {
+    "id": "k_NPUfCP46M",
+    "title": "Without Limits",
+    "score": 10
+  },
+  {
+    "id": "KDsjcwfixUM",
+    "title": "No Limits with lyrics Israel \\u0026 New Breed",
+    "score": 10
+  },
+  {
+    "id": "4AydQR_Lhyw",
+    "title": "NO LIMITS - Powerful Motivational Speech Video (Featuring David Goggins)",
+    "score": 10
+  },
+  {
+    "id": "PzeC2VP24vM",
+    "title": "failure",
+    "score": 10
+  },
+  {
+    "id": "bLefVdWUzbE",
+    "title": "ZAYDE WOLF - NO LIMITS - DUDE PERFECT - Xbox E3 2016 song",
+    "score": 10
+  },
+  {
+    "id": "EKBstPFnyMY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gGOBRM2zP9s",
+    "title": "try to watch 2 minutes without laughing",
+    "score": 10
+  },
+  {
+    "id": "e4p0t0HIEjA",
+    "title": "Meeting Minutes Do's and Don'ts",
+    "score": 10
+  },
+  {
+    "id": "879_iNYSGzg",
+    "title": "Vishnu Sahasranamam Fast 12 Minutes - without any ADS | विष्णु सहस्त्रनाम फ़ास्ट | Vishnu Song",
+    "score": 10
+  },
+  {
+    "id": "ZUylVMssC9E",
+    "title": "30 MIN FULL BODY HIIT (No Jumping + No Equipment)",
+    "score": 10
+  },
+  {
+    "id": "rI_6l992GrA",
+    "title": "Plank",
+    "score": 10
+  },
+  {
+    "id": "cq15M1bx_Ic",
+    "title": "You Survived 30 Minutes Without Shitting",
+    "score": 10
+  },
+  {
+    "id": "cuwM23ejrIU",
+    "title": "The Diver Who Survived 30 Minutes Without Oxygen | This Morning",
+    "score": 10
+  },
+  {
+    "id": "jvRuKHeEvWM",
+    "title": "30-Minute HIIT Cardio Workout with Warm Up - No Equipment at Home | SELF",
+    "score": 10
+  },
+  {
+    "id": "ml6cT4AZdqI",
+    "title": "Skater",
+    "score": 10
+  },
+  {
+    "id": "j6WyyiS1KpE",
+    "title": "ICE Outrage Goes Viral | White House Blame Game | Ilhan Omar: Tough Under Pressure | Poo-tomac River",
+    "score": 10
+  },
+  {
+    "id": "SN3vdDKct9o",
+    "title": "Vishnu Sahasranamam Fast 12 Min | विष्णु सहस्रनाम फ़ास्ट | Bhakti Song | Vishnu Sahasranamam",
+    "score": 10
+  },
+  {
+    "id": "NtbtMEsILno",
+    "title": "Joe Scarborough on Killings in Minneapolis Being a Turning Point \\u0026 the Last Time He Spoke to Trump",
+    "score": 10
+  },
+  {
+    "id": "lbVaI9TjPzc",
+    "title": "(No Ads) Sleep Instantly Tonight • Healing Music for Overthinking, Stress \\u0026 Deep Rest",
+    "score": 10
+  },
+  {
+    "id": "x9xoCc9L-uA",
+    "title": "Baby White Noise for Sleep \\u0026 Colic Relief | No Ads While Sleeping!",
+    "score": 10
+  },
+  {
+    "id": "2FItVyxLNNc",
+    "title": "Barcelona vs. Copenhagen: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "Fb2KaPJzpho",
+    "title": "30-Minute No-Equipment Abs and Butt-Toning Workout",
+    "score": 10
+  },
+  {
+    "id": "_r3AAdEFVNM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IT94xC35u6k",
+    "title": "Warm-Up Sequence",
+    "score": 10
+  },
+  {
+    "id": "tJnJ_fTYofQ",
+    "title": "30 MIN FULL BODY WORKOUT No Equipment (From the MadFit App)",
+    "score": 10
+  },
+  {
+    "id": "4iy4yEKa7W8",
+    "title": "Warm-Up",
+    "score": 10
+  },
+  {
+    "id": "mLsXuiOflaw",
+    "title": "40 Minutes Without Oxygen: Chris Lemons' Unbelievable Survival Story",
+    "score": 10
+  },
+  {
+    "id": "4mKqqnDRGEE",
+    "title": "Map the Fretboard in Minutes—Without 5 Shapes",
+    "score": 10
+  },
+  {
+    "id": "0bFVSk6hZNE",
+    "title": "Diver Trapped 29 Minutes Without Oxygen..A Survival Miracle!",
+    "score": 10
+  },
+  {
+    "id": "VBDW2GWqsms",
+    "title": "Six Minutes - Six Minutes Without a Past (S1 E2)",
+    "score": 10
+  },
+  {
+    "id": "dL2dZybVIQ8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CdQno_KBgus",
+    "title": "The Story of Tiny Munchie from Inglewood Family Gangsta Bloods: Prolific Fighter, Sh**ting At Crips",
+    "score": 10
+  },
+  {
+    "id": "E95Vm96x6k4",
+    "title": "ReactOS : The Windows-like Operating System",
+    "score": 10
+  },
+  {
+    "id": "o4euxoDiicw",
+    "title": "Intro \\u0026 ReactOS Website",
+    "score": 10
+  },
+  {
+    "id": "OvlUdZAEg1U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U6d7E1uKSmg",
+    "title": "React Os",
+    "score": 10
+  },
+  {
+    "id": "Ad4wEgomkVE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hXrQbgWCIxo",
+    "title": "Microslop PANICS After Linux Users On Track To OVERTAKE Windows 11!",
+    "score": 10
+  },
+  {
+    "id": "OzqbfoZg0cw",
+    "title": "A Linux Distro Made For 99% of People",
+    "score": 10
+  },
+  {
+    "id": "L5q36VojWk0",
+    "title": "The Linux Distros People Love to Hate (I Used Them All)",
+    "score": 10
+  },
+  {
+    "id": "Nr5Di0_Q_rk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XcOxitZfCOg",
+    "title": "Yes, Windows is the Problem.",
+    "score": 10
+  },
+  {
+    "id": "7PIhbBDyLSk",
+    "title": "The End of Windows (10)",
+    "score": 10
+  },
+  {
+    "id": "kKm37kPDB6w",
+    "title": "CachyOS January Update | New Plasma Login Manager, RIP X11, Still Amazing Arch",
+    "score": 10
+  },
+  {
+    "id": "jCLXJ3GX148",
+    "title": "I switched from Linux to FreeBSD. Here's how that went.",
+    "score": 10
+  },
+  {
+    "id": "Rk5kJ2iWYaU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R3FJjZimbFk",
+    "title": "Top 9 Free OS Alternatives to Linux – You Won’t Believe",
+    "score": 10
+  },
+  {
+    "id": "X7-JMEyJz1Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rOqZYzcRIPc",
+    "title": "ReactOS: Open Source Windows OS",
+    "score": 10
+  },
+  {
+    "id": "Qj7JX-LkOrA",
+    "title": "Titles \\u0026 Intro",
+    "score": 10
+  },
+  {
+    "id": "aDeS7gEmRzw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "u0nuEXxzsdI",
+    "title": "Setting the scene...",
+    "score": 10
+  },
+  {
+    "id": "C-lanbuRfDI",
+    "title": "ReactOS - The Open Source Windows alternative",
+    "score": 10
+  },
+  {
+    "id": "0MH1gh2GbAw",
+    "title": "Introduction to ReactOS",
+    "score": 10
+  },
+  {
+    "id": "1W9S0iMHXhg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XLP-B3-OftU",
+    "title": "Intro \\u0026 News",
+    "score": 10
+  },
+  {
+    "id": "ATwT4DwoXnM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qjV03SMeQB0",
+    "title": "DJ Tunez, Wizkid, FOLA - One Condition (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "TqGxPZWjkKw",
+    "title": "DJ Maphorisa, DJ Tunez, Wizkid, Mavo - MONEY CONSTANT (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "kzxLs3j16TM",
+    "title": "WIZ KID | 2 Hours of Chill Songs | Afrobeats/R\\u0026B MUSIC PLAYLIST | Starboy",
+    "score": 10
+  },
+  {
+    "id": "lQJSWH2S-BU",
+    "title": "DJ Tunez - APALA DISCO (Remix) ft. Wizkid, Seyi Vibez \\u0026 Terry Apala [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "cv5chGtfVTg",
+    "title": "Wizkid, Asake - Jogodo (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "tQrj0keZIU8",
+    "title": "Dj Maphorisa, DJ Tunez, Wizkid, Mavo - MONEY CONSTANT (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "iqAUNXhyX7g",
+    "title": "Afrobeat Vibes Mix - Wizkid, Tems, Rema, Joeboy, Davido, Wande Coal, CKay, Tekno, Fireboy",
+    "score": 10
+  },
+  {
+    "id": "u5p6GdurpjU",
+    "title": "Wizkid - 9-5 (Jam Session) ft. The Cavemen.",
+    "score": 10
+  },
+  {
+    "id": "zr_sTaYTCnU",
+    "title": "DJ Tunez Has Finally Fire Back at VDM And Burna Boy's Team For Attacking Wizkid Over Seun Kuti's...",
+    "score": 10
+  },
+  {
+    "id": "rEEZD5hXgrQ",
+    "title": "DJ TUNEZ  | OBI'S HOUSE FESTIVAL EXPERIENCE  | JANUARY 2026",
+    "score": 10
+  },
+  {
+    "id": "r-Q6UrrxF4U",
+    "title": "DJ Tunez - PAMI (Official Audio) ft. Wizkid, Adekunle Gold, Omah Lay",
+    "score": 10
+  },
+  {
+    "id": "jipQpjUA_o8",
+    "title": "Odeal - Nights In The Sun (feat. Wizkid)",
+    "score": 10
+  },
+  {
+    "id": "CQIYbytAyVQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WdCg9UO7UGo",
+    "title": "This Is How You Handle A Snitch In Prison",
+    "score": 10
+  },
+  {
+    "id": "c2XIH_8xQGo",
+    "title": "Federal Employee Caught Trafficking Drugs the Day He Gets Out of Jail",
+    "score": 10
+  },
+  {
+    "id": "DsoP9AVMFtY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TjuCJOVRCG4",
+    "title": "Exposing a Trafficker: Snitching from an Informant’s Perspective",
+    "score": 10
+  },
+  {
+    "id": "K6t9vxM2PIQ",
+    "title": "Is Smac Responsible for The Hoover Human Trafficking RICO?!",
+    "score": 10
+  },
+  {
+    "id": "i-t6y1PfEeE",
+    "title": "🐀 Revealing the secret snitch who brought down the narcos 🇺🇸 🇲🇽 🇨🇦",
+    "score": 10
+  },
+  {
+    "id": "dw5lrE8rzfs",
+    "title": "Drug Trafficker EXPOSES The Snitches Who Informed On El Chapo (Flores Twins) The Connect",
+    "score": 10
+  },
+  {
+    "id": "4l0YujbANnY",
+    "title": "How Do Human Traffickers Trap their Victims?",
+    "score": 10
+  },
+  {
+    "id": "vUMaJ2IKFEA",
+    "title": "From Trafficking Snitch to a TV Celebrity...",
+    "score": 10
+  },
+  {
+    "id": "b4b98MJARLk",
+    "title": "Hoover Federal Indictment Paperwork: Lady Duck \\u0026 P4K RICO | Trafficking Enterprise",
+    "score": 10
+  },
+  {
+    "id": "sQsr7UCwQJ0",
+    "title": "Crimestoppers' $2k reward for snitching, ivory wildlife trafficking \\u0026 a new poetry program: 21 Next",
+    "score": 10
+  },
+  {
+    "id": "cWUXxjFOxf8",
+    "title": "Traffic Stop Turns Up Million Dollars Worth of Drugs",
+    "score": 10
+  },
+  {
+    "id": "3_WJyMI5zP4",
+    "title": "I caught Charleston white snitching at court 🤣 #charlestonwhite #viral #trending #comedy",
+    "score": 10
+  },
+  {
+    "id": "0hMnb2u72P0",
+    "title": "Baby Stone Gorillas' Rapper P4K Arrested In Human Trafficking RICO",
+    "score": 10
+  },
+  {
+    "id": "N5PkFo5xI24",
+    "title": "BREAKING NEWS! Stepfather  Daniel Martell ARRESTED! Jack \\u0026 Lilly Creator Panel Party Discussion!",
+    "score": 10
+  },
+  {
+    "id": "tGzYE0Y6V9Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pRdFuZSW4-Y",
+    "title": "Vertical Limit (2000) - Wick's Revenge Scene (7/10) | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "BDvjjQvM498",
+    "title": "Vertical Limit (2000) - Involuntary Sacrifice Scene (10/10) | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "TMe71Lvy1lA",
+    "title": "VERTICAL LIMIT | Peter \\u0026 Annie's Challenging Climbing Moment | Movie Clips",
+    "score": 10
+  },
+  {
+    "id": "UPfoiurTUvM",
+    "title": "Climbers Break Down Vertical Limit",
+    "score": 10
+  },
+  {
+    "id": "d3tb79ueHJQ",
+    "title": "Vertical Limit epic mountain jump scene HD",
+    "score": 10
+  },
+  {
+    "id": "AHC1ZL1egtM",
+    "title": "Explosion Causes a Huge Killer Avalanche | Vertical Limit (2000) | Now Playing",
+    "score": 10
+  },
+  {
+    "id": "pXMcbNYsA2U",
+    "title": "Vertical Limit | the best movi in 2000 | ENGLISH movi | adventure movi",
+    "score": 10
+  },
+  {
+    "id": "cnb5ifj5cH4",
+    "title": "Vertical Limit (6/13) | Chris O'Donnel, Robin Tunney, Bill Paxton | ClipFlix Thailand",
+    "score": 10
+  },
+  {
+    "id": "bO4R0Wcka7o",
+    "title": "VERTICAL LIMITS (2000) | Behind the scenes of Chris O'Donnell Thriller Movie #1",
+    "score": 10
+  },
+  {
+    "id": "WZH9sEP13xI",
+    "title": "LLOYD PHILLIPS",
+    "score": 10
+  },
+  {
+    "id": "6uGv5eAFSRo",
+    "title": "Explosion Triggers a Killer Avalanche | Vertical Limit (2000) | Now Action",
+    "score": 10
+  },
+  {
+    "id": "HoNWYD-OEIQ",
+    "title": "Nordwand (Philipp Stölzl, 2008)  (Eng. The North face, SK - Severná stena) incl. ENG, SK Subs",
+    "score": 10
+  },
+  {
+    "id": "TGA8LrIJEcI",
+    "title": "Cliffhanger: Sarah's Fall Opening Scene (Sylvester Stallone HD Clip)",
+    "score": 10
+  },
+  {
+    "id": "LoGInhENf4c",
+    "title": "Avalanche Scene | Bill Paxton | Vertical Limit",
+    "score": 10
+  },
+  {
+    "id": "Krr_YdgIhtw",
+    "title": "Vertical Limit | Life-Saving Warning Gets Ignored",
+    "score": 10
+  },
+  {
+    "id": "89B-YITal74",
+    "title": "Vertical Limit (2000) - Avalanche! Scene (2/10) | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "gH4dw-S1esk",
+    "title": "Epic Rock-climbing FAIL | Vertical Limit | Piece Of The Action",
+    "score": 10
+  },
+  {
+    "id": "JkSBOqUEe7I",
+    "title": "Vertical Limit (1/13) | Chris O'Donnel, Robin Tunney, Bill Paxton | ClipFlix Thailand",
+    "score": 10
+  },
+  {
+    "id": "ybdleL1vycw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "R-R0KrXvWbc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PW2J8IblczM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bCn8TajrPqc",
+    "title": "White Side",
+    "score": 10
+  },
+  {
+    "id": "7Ron6MN45LY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iAa7_mDgjTw",
+    "title": "1st Step Daisy",
+    "score": 10
+  },
+  {
+    "id": "zGu4QSKmj4Y",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "OtKxtvMUahA",
+    "title": "Step 1",
+    "score": 10
+  },
+  {
+    "id": "LAmEqmbD1t4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I6132yshkeU",
+    "title": "get a white layer",
+    "score": 10
+  },
+  {
+    "id": "bRYAhYtqL84",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1f6N2UrCK6o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "zf4aMlFgd6I",
+    "title": "Known issue 🚨 Greyed out search filters issue yt studio Greyed out search filters issue",
+    "score": 10
+  },
+  {
+    "id": "XjCjhAN-Pcc",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt Studio Update",
+    "score": 10
+  },
+  {
+    "id": "MN6Fmdz5uLk",
+    "title": "3 Ways to Filter Data in Excel",
+    "score": 10
+  },
+  {
+    "id": "f7W4qIMBbBg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PG5mBrM1QBA",
+    "title": "Introduction and overview",
+    "score": 10
+  },
+  {
+    "id": "z8JzYvXjXNg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "UJQzEAlZ57k",
+    "title": "Kimi Raikkonen Radio - The Ultimate Collection",
+    "score": 10
+  },
+  {
+    "id": "_PGect0J5zU",
+    "title": "Kimi Raikkonen's Funniest Moments at Ferrari",
+    "score": 10
+  },
+  {
+    "id": "caHhMPscrQg",
+    "title": "Kimi Raikkonen: The Ultimate Onboard Collection | Best Onboards | Qatar Airways",
+    "score": 10
+  },
+  {
+    "id": "Cr2fQkmL4mU",
+    "title": "Kimi Raikkonen goes TOTALLY GOOFY for 10 insane minutes",
+    "score": 10
+  },
+  {
+    "id": "cVc5Iib7irk",
+    "title": "Kimi Raikkonen on Max:\\\"I raced against his father so that even sounds more scary.\\\"",
+    "score": 10
+  },
+  {
+    "id": "wsvsD6zir70",
+    "title": "Kimi's classic responses",
+    "score": 10
+  },
+  {
+    "id": "835O98ei3-Y",
+    "title": "Kimi Räikkönen Receives an Award",
+    "score": 10
+  },
+  {
+    "id": "kIcqhgmuvsk",
+    "title": "Top 10 Moments of Radio Raikkonen! Kimi's Best Team Radio Messages",
+    "score": 10
+  },
+  {
+    "id": "sj5T6XZk-rw",
+    "title": "Kimi Raikkonen's Greatest-Ever Drive Through The Field | 2005 Japanese Grand Prix | #KiitosKimi",
+    "score": 10
+  },
+  {
+    "id": "zf4axwL-jPU",
+    "title": "BUTTON ALONSO",
+    "score": 10
+  },
+  {
+    "id": "aafwR4LTVmw",
+    "title": "Kimi K2.5 Is INSANE – Is This the BEST Open Source Model?",
+    "score": 10
+  },
+  {
+    "id": "ml5LMbefLgU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DCHhpNX6EYM",
+    "title": "Top 10 Moments of Kimi Raikkonen Brilliance",
+    "score": 10
+  },
+  {
+    "id": "2GJ9udIoGh8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1M_GTJkp7ZU",
+    "title": "How GOOD is Kimi Antonelli Actually?",
+    "score": 10
+  },
+  {
+    "id": "OgPyCOtae-k",
+    "title": "Kimi Raikkonen on Top Gear in 2012",
+    "score": 10
+  },
+  {
+    "id": "7kIgh-__YeY",
+    "title": "Kimi Raikkonen - Funny Moments",
+    "score": 10
+  },
+  {
+    "id": "7i1jFcPwqoo",
+    "title": "Kimi being Kimi for 3 minutes and 11 seconds",
+    "score": 10
+  },
+  {
+    "id": "wNGG3KAzI-0",
+    "title": "Kimi Raikkonen's record-breaking Monza Pole | 2018 Italian Grand Prix",
+    "score": 10
+  },
+  {
+    "id": "q5_fo16E4LU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3wZdtKkFAng",
+    "title": "Free the fully",
+    "score": 10
+  },
+  {
+    "id": "ciLIDOtEMXo",
+    "title": "Free Fully Bucks ft K50",
+    "score": 10
+  },
+  {
+    "id": "LZGFc7rEomw",
+    "title": "🔴 These FREE Apps can Replace Netflix Completely !",
+    "score": 10
+  },
+  {
+    "id": "9oOpj4No92k",
+    "title": "\\\"Fully Free\\\" | Todd White | Nations Church Sermon - 6/25/23",
+    "score": 10
+  },
+  {
+    "id": "YGKXFwODXfI",
+    "title": "Riley (2023) | FULL LGBTQ+ DRAMA MOVIE | Jake Holley | Colin McCalla | Riley Quinn Scott",
+    "score": 10
+  },
+  {
+    "id": "OMBENVfUlDQ",
+    "title": "Free Fully Boii",
+    "score": 10
+  },
+  {
+    "id": "CkY48FwxSLs",
+    "title": "FULLY free clawdbot (Host \\u0026 API Tokens) in under 5 minutes",
+    "score": 10
+  },
+  {
+    "id": "P_ua-lKjKnI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HW8UCTUkcbU",
+    "title": "YOUR LEO FULL MOON HOROSCOPE: What You’re No Longer Willing to Shrink For",
+    "score": 10
+  },
+  {
+    "id": "j1DUojQLdQw",
+    "title": "INTRO TO FEBRUARY 2026 LEO FULL MOON HOROSCOPE",
+    "score": 10
+  },
+  {
+    "id": "ajT2utYdsq8",
+    "title": "Best VPN Free Trial: Test the VPN First before Fully Purchase",
+    "score": 10
+  },
+  {
+    "id": "TI3VKkvCwCc",
+    "title": "If Everything is Free",
+    "score": 10
+  },
+  {
+    "id": "vMVThCLusC0",
+    "title": "OpenCode Desktop: BEST AI Coding Agent Ever + FULLY FREE! BYE Gemini CLI \\u0026 ClaudeCode! (Opensource)",
+    "score": 10
+  },
+  {
+    "id": "v4j1_qHLq9s",
+    "title": "Only downloader code you need to fully load firestick #firestick #downloader #firetvstick #firetv",
+    "score": 10
+  },
+  {
+    "id": "Hl-RWAEnwEk",
+    "title": "Google Jules 2.0 Is a Fully FREE AI Coder… And It’s Crazy Good!",
+    "score": 10
+  },
+  {
+    "id": "9ieOAUoCnfk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LXPy5yJ5v70",
+    "title": "DZ Rich The Factor - Bottom (Official Audio) ft. Daz Dillinger, Kokane",
+    "score": 10
+  },
+  {
+    "id": "AqJUrBLutjE",
+    "title": "Ms. W. Factor using the Bottoms Up Method",
+    "score": 10
+  },
+  {
+    "id": "BCYOdazWSf0",
+    "title": "Factor Bikes: When ‘Premium’ Means Zero QA and Maximum BS with GCN RINSING",
+    "score": 10
+  },
+  {
+    "id": "t51TmN8EpO8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4ilfOCQBvQA",
+    "title": "Voyage To The Bottom Of The Sea   2x11   The X Factor",
+    "score": 10
+  },
+  {
+    "id": "PyMoSeUvljk",
+    "title": "I AM SHOCKED BY THIS FACTOR OSTRO VAM!!",
+    "score": 10
+  },
+  {
+    "id": "nc4FIqJ-zOs",
+    "title": "Voyage to the Bottom of the Sea S2E11 THE X FACTOR Remastered HDTV Episode with guest John McGiver!",
+    "score": 10
+  },
+  {
+    "id": "2yWun55B1G0",
+    "title": "The Best Bottom Bracket for every Bike - The End.",
+    "score": 10
+  },
+  {
+    "id": "33IWHSGl1nU",
+    "title": "Jacqui Newland - Heavy Cross (Bottom 2 - The X Factor Australia 2011)",
+    "score": 10
+  },
+  {
+    "id": "P0BgjHZocYQ",
+    "title": "Rich The Factor   Middle Of The Map",
+    "score": 10
+  },
+  {
+    "id": "FVfCAkXbQpE",
+    "title": "FACTOR OSTRO VAM - Bike check by David Millar",
+    "score": 10
+  },
+  {
+    "id": "VFeN9gPZOmU",
+    "title": "Factor Ostro VAM 2.0",
+    "score": 10
+  },
+  {
+    "id": "KzHKgJsiuYQ",
+    "title": "The X Factor astro bottom 2 (shocking)",
+    "score": 10
+  },
+  {
+    "id": "b4YMKHQqfZc",
+    "title": "Factor Ostro VAM -Problems- ☹️ | RobbArmstrong",
+    "score": 10
+  },
+  {
+    "id": "hVnkA3aFdQo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WPuwkQxImmw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WI5Z-6KlNL0",
+    "title": "Frame details",
+    "score": 10
+  },
+  {
+    "id": "NrgdTGaCPgA",
+    "title": "Medical Malpractice Injuries at Evans Army Community Hospital",
+    "score": 10
+  },
+  {
+    "id": "3EwUD_AkQmo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mWzkBqeZioY",
+    "title": "Room Tour",
+    "score": 10
+  },
+  {
+    "id": "sCMe64IIzWs",
+    "title": "Evans Army Community Hospital announces changes to pharmacy operations",
+    "score": 10
+  },
+  {
+    "id": "6ZX6rlk_5qs",
+    "title": "Evans Army Community Hospital gets top marks",
+    "score": 10
+  },
+  {
+    "id": "bgTh7wOlzJk",
+    "title": "Evans Memorial Hospital reopens after renovations",
+    "score": 10
+  },
+  {
+    "id": "F04OoriXe-s",
+    "title": "New Doctors Hospital emergency room cuts ribbon in Evans",
+    "score": 10
+  },
+  {
+    "id": "IBBgrkKfLh0",
+    "title": "Evans Memorial Says Woman Cannot Be Seen Due to Blacklist",
+    "score": 10
+  },
+  {
+    "id": "AQYMLyZNIQ8",
+    "title": "\\\"Diddy Sold Biggie Small Life For $100m\\\" Gene Deal Break Silence",
+    "score": 10
+  },
+  {
+    "id": "9dMNZaoJOrE",
+    "title": "Characters You See At The Hospital | Lee Evans",
+    "score": 10
+  },
+  {
+    "id": "ufuYPgj8J0c",
+    "title": "Cindy Fowler, 2007 Woman of Influence - CSBJ",
+    "score": 10
+  },
+  {
+    "id": "XDuwyuZGjwI",
+    "title": "Deep Dive: Ep. 30 \\\"The Untold Story of How the Composite Sketches for Biggie's Killer Were Created\\\"",
+    "score": 10
+  },
+  {
+    "id": "6Z3ZbED2BTo",
+    "title": "Megan Thee Stallion Rumors + Royce Reed Controversy+ Kelis \\u0026 Bill Murray Secrets | Throwback Wine",
+    "score": 10
+  },
+  {
+    "id": "xsOj-pwg9tA",
+    "title": "Alfie Evans supporters sing Hero outside Alder Hey Hospital - Daily Mail",
+    "score": 10
+  },
+  {
+    "id": "O1gprCJrxiw",
+    "title": "ROMAN HOVORKA ON THE ARTIFICIAL PANCREAS",
+    "score": 10
+  },
+  {
+    "id": "CsUmyA0z6vA",
+    "title": "The Artificial Pancreas a conversation with Roman Hovorka",
+    "score": 10
+  },
+  {
+    "id": "GzVetedHU_s",
+    "title": "2Pac Came Home and Told Me He Got With Faith Evans — Snoop Dogg Cried at the Hospital Over 2Pac",
+    "score": 10
+  },
+  {
+    "id": "SnkgGK-E9D8",
+    "title": "Bariatric Patient Orientation at Evans Army Community Hospital",
+    "score": 10
+  },
+  {
+    "id": "Yc88ozQZwv8",
+    "title": "Evans Army Community Hospital resumes operations",
+    "score": 10
+  },
+  {
+    "id": "7xM9kBtsBiE",
+    "title": "Quality Improvement in Healthcare",
+    "score": 10
+  },
+  {
+    "id": "jq52ZjMzqyI",
+    "title": "Why Should You or I Care about Quality Improvement",
+    "score": 10
+  },
+  {
+    "id": "3LG8I3PAp14",
+    "title": "Naval Medical Center Portsmouth",
+    "score": 10
+  },
+  {
+    "id": "MwQVpgLaltA",
+    "title": "Naval Medical Center San Diego Celebrates Grand Opening of New Branch Health Clininc",
+    "score": 10
+  },
+  {
+    "id": "3klDh_tYSl4",
+    "title": "Team Evans Army Community Hospital",
+    "score": 10
+  },
+  {
+    "id": "NH3EuvoHC1E",
+    "title": "Getting A Colonoscopy | Lee Evans",
+    "score": 10
+  },
+  {
+    "id": "KHi5N2Ohq6w",
+    "title": "Welcome to Evans Memorial Hospital",
+    "score": 10
+  },
+  {
+    "id": "4rlm5q8j_Cg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SZNbabKjKpA",
+    "title": "Dragon's Dogma - Into Free ~Dangan~",
+    "score": 10
+  },
+  {
+    "id": "8XBlBPtQW6g",
+    "title": "Dragon's Dogma - Into Free ~Dangan~",
+    "score": 10
+  },
+  {
+    "id": "hQ_ccgOkJdI",
+    "title": "Into Free -Dangan- (Beta Mix) - Dragon's Dogma",
+    "score": 10
+  },
+  {
+    "id": "I-82-DPUzoM",
+    "title": "Rockin' in the Free World",
+    "score": 10
+  },
+  {
+    "id": "DvxxdZpMFHg",
+    "title": "Austin City Limits Web Exclusive Zac Brown Band \\\"Free/Into the Mystic\\\"",
+    "score": 10
+  },
+  {
+    "id": "8mC9xNYe72I",
+    "title": "INTO THE FOREST (Full Movie) | Found Footage Witch Horror | FREE Blair Witch Style Full Scary Movie",
+    "score": 10
+  },
+  {
+    "id": "tC1E0ekalKY",
+    "title": "ーMADードラゴンズ・ドグマ２ 　　B'z『Into Free - Dangan -』",
+    "score": 10
+  },
+  {
+    "id": "wgDTYSJnbCk",
+    "title": "Into Free ~Dangan~ (Dragon's Dogma theme) in Clone Hero (w/ full difficulty and lyrics)",
+    "score": 10
+  },
+  {
+    "id": "CiWmeyp_zlc",
+    "title": "もしもB'z『Into Free -Dangan-』をアヴリル・ラヴィーンが歌ったら / B'z - AI vocal cover style | Dreamy J-POP",
+    "score": 10
+  },
+  {
+    "id": "acSLd5LZfu0",
+    "title": "Lady BURSTS into TEARS as She Finds Out ROOF is Completely FREE!",
+    "score": 10
+  },
+  {
+    "id": "imHvuqUwcI4",
+    "title": "Offering homeowner free gutters",
+    "score": 10
+  },
+  {
+    "id": "Tz_ylM8hcvc",
+    "title": "Dragon's Dogma: Dark Arisen (Original intro theme) - Into Free -Dangan",
+    "score": 10
+  },
+  {
+    "id": "qhbu_y7yTpw",
+    "title": "Into Free Dangan B'z - Letra e tradução",
+    "score": 10
+  },
+  {
+    "id": "wbLnxbPXN38",
+    "title": "Dragon's Dogma - Into Free -Dangan- (instrumental)",
+    "score": 10
+  },
+  {
+    "id": "kAX6PtoKI9A",
+    "title": "8/v/ Sings Into Free",
+    "score": 10
+  },
+  {
+    "id": "WOOcoshBCbk",
+    "title": "TURISAS - Into The Free (ALBUM TRACK)",
+    "score": 10
+  },
+  {
+    "id": "Z-FQCokApVE",
+    "title": "Turning a Free Chair into a $2,000 Table",
+    "score": 10
+  },
+  {
+    "id": "2qrDFrJGJ8g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "edZVnKxKEUU",
+    "title": "Young Thug \\\"With That\\\" featuring Duke",
+    "score": 10
+  },
+  {
+    "id": "MLuDL-TlJgg",
+    "title": "Ruelle - Carry You (featuring Fleurie) ft. Fleurie",
+    "score": 10
+  },
+  {
+    "id": "FHmSF-_6xlo",
+    "title": "d4vd, Hyunjin - Always Love featuring Hyunjin (Stray Kids) [Official Lyric Video]",
+    "score": 10
+  },
+  {
+    "id": "CCOHZ8uWhu0",
+    "title": "Hot Mulligan - Featuring Mark Hoppus",
+    "score": 10
+  },
+  {
+    "id": "MkrKSgwtVk0",
+    "title": "Black Motion featuring Miss P 'It's You'",
+    "score": 10
+  },
+  {
+    "id": "R7a6sr45YmE",
+    "title": "Stephen Miller's Bloodlust | The Weekly Show with Jon Stewart",
+    "score": 10
+  },
+  {
+    "id": "wc9Iiv2wLDo",
+    "title": "Calvin Nowell - Low (Featuring Aware Worship)",
+    "score": 10
+  },
+  {
+    "id": "hHUbLv4ThOo",
+    "title": "E-40 - U And Dat (Featuring T. Pain \\u0026 Kandi Girl) [HD]",
+    "score": 10
+  },
+  {
+    "id": "m-fL-vdcBWo",
+    "title": "Lyrics in the description",
+    "score": 10
+  },
+  {
+    "id": "TTNCd97SEvQ",
+    "title": "Bone Thugs - 10. Land Of The Heartless - E. 1999 Eternal",
+    "score": 10
+  },
+  {
+    "id": "9T-mELXjnDU",
+    "title": "Land of Tha Heartless",
+    "score": 10
+  },
+  {
+    "id": "Ep6iI_uCP2Q",
+    "title": "Bone Thugs-N-Harmony  -  The Land ft Caine",
+    "score": 10
+  },
+  {
+    "id": "TpaUTQIMeQM",
+    "title": "Mo'murda",
+    "score": 10
+  },
+  {
+    "id": "yjexC3phymM",
+    "title": "Machine Gun Kelly ft. Bone Thugs, French Montana, Yo Gotti \\u0026 Ray Cash \\\"Till I Die Part II\\\" (Video)",
+    "score": 10
+  },
+  {
+    "id": "vgrAnmMjUD8",
+    "title": "\\\"Eternal\\\"",
+    "score": 10
+  },
+  {
+    "id": "AtPwUgBX1V4",
+    "title": "Bone Thugs-N-Harmony x Caine - \\\"The Land\\\"",
+    "score": 10
+  },
+  {
+    "id": "R_-yi303Dps",
+    "title": "Judge FORCES Georgia To Return Young Thug’s Seized Millions, Cars \\u0026 $1.7M Watch",
+    "score": 10
+  },
+  {
+    "id": "5IFhnSLBgXw",
+    "title": "Gucci Mane - Gucci Land (feat. Young Thug) [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "JBDogXVAuFU",
+    "title": "Bone Thugs mix",
+    "score": 10
+  },
+  {
+    "id": "vK9ECN-tvrs",
+    "title": "Racist Thugs 'Kidnapped' Black Farmer’s Wife on Her OWN Land — Unaware He's A Ruthless Navy SEAL!",
+    "score": 10
+  },
+  {
+    "id": "NnUWBC9QmT8",
+    "title": "Young Thug's Manager Buys Him 100 Acres Of Land With It's Own Lake! 🏡",
+    "score": 10
+  },
+  {
+    "id": "szubA97MbPo",
+    "title": "Bone Thugs N Harmony-no surrender",
+    "score": 10
+  },
+  {
+    "id": "PGMd8vOLEDw",
+    "title": "Bone Thugs-n-Harmony - Land of Tha Heartless [Explicit]",
+    "score": 10
+  },
+  {
+    "id": "l1B2aTdWFOY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2l_gWmjBiV0",
+    "title": "The Lucid Dream State | 432Hz + Theta \\u0026 Alpha Waves for Effortless Dream Awareness",
+    "score": 10
+  },
+  {
+    "id": "2f0dAnfp5BM",
+    "title": "Let U Go",
+    "score": 10
+  },
+  {
+    "id": "fXF59UWr-tA",
+    "title": "Lucid Dreaming Sleep Track (8 Hour Sleep Cycle Track) with Binaural beats and NOW WITH RAIN",
+    "score": 10
+  },
+  {
+    "id": "EPaQWg1yUMw",
+    "title": "EFFECTIVE Lucid Dreaming Music \\\"THE DREAM BOOSTER\\\"  - Blank Screen for Sleep",
+    "score": 10
+  },
+  {
+    "id": "uCyHsTHcxuI",
+    "title": "lucidbeatz - all night",
+    "score": 10
+  },
+  {
+    "id": "xVd8jNC_lTE",
+    "title": "lucidbeatz - you \\u0026 i",
+    "score": 10
+  },
+  {
+    "id": "vU9WkZoHeAg",
+    "title": "lucidbeatz - Gone (feat. Ardeycat)",
+    "score": 10
+  },
+  {
+    "id": "mZ0FoJ0fILc",
+    "title": "Enter A Deep REM Sleep | Lucid Dream Black Screen Binaural Beats Sleep Music For Lucid Dreaming",
+    "score": 10
+  },
+  {
+    "id": "BpyimNrzdGU",
+    "title": "Deep Dreaming | Binaural Beats Sleep Music for Vivid Dreams, Lucid Dreams \\u0026 Dream Recall Tonight",
+    "score": 10
+  },
+  {
+    "id": "bSR7TL0uP9k",
+    "title": "Enter A Deep REM Sleep | Lucid Dreaming Binaural Beats Sleep Hypnosis | Black Screen Sleep Music",
+    "score": 10
+  },
+  {
+    "id": "o4vpT16pG58",
+    "title": "[FREE] Juice WRLD x Lil Tecca Type Beat - \\\"Lucid\\\"",
+    "score": 10
+  },
+  {
+    "id": "XjT2ZplZu7g",
+    "title": "|FREE| JUICE WRLD TYPE BEAT \\\"LUCID\\\"",
+    "score": 10
+  },
+  {
+    "id": "XpXeUra3YOg",
+    "title": "[FREE FOR PROFIT] Melodic Type Beat \\\"LUCID PAIN\\\" Dark Type Beat | Rap Trap Beat Instrumental",
+    "score": 10
+  },
+  {
+    "id": "oxu3cBROzSc",
+    "title": "[FREE] 4batz x Brent Faiyaz Type Beat \\\"Lucid Dreams\\\"",
+    "score": 10
+  },
+  {
+    "id": "thFObqC8UwA",
+    "title": "[FREE] Lil Tony Type Beat \\\"Lucid Dreams\\\"",
+    "score": 10
+  },
+  {
+    "id": "hayUIaO3M5k",
+    "title": "FREE \\\"Wishes\\\" J. Cole Type Beat 2018 [Prod. Lucid Soundz]",
+    "score": 10
+  },
+  {
+    "id": "4fVTEJcuK9o",
+    "title": "Enter REM Sleep Cycle \\u0026 Induce Lucid Dreams | Lucid Dreaming Black Screen Binaural Beats Sleep Music",
+    "score": 10
+  },
+  {
+    "id": "Wsmbme0Lraw",
+    "title": "[FREE] Indie Rock x Bedroom Pop x Dream Pop Type Beat - \\\"Lucid\\\"",
+    "score": 10
+  },
+  {
+    "id": "Ia8hiWsdwUA",
+    "title": "FREE \\\"Limits\\\" Kendrick Lamar ft. J Cole Type Beat 2017 (Prod. Lucid Soundz)",
+    "score": 10
+  },
+  {
+    "id": "3r-kHsve8Wk",
+    "title": "FREE \\\"Time Left\\\" Kendrick Lamar ft. Bryson Tiller Type Beat [Prod. Lucid Soundz] | Trapsoul",
+    "score": 10
+  },
+  {
+    "id": "VaRRAePeFYQ",
+    "title": "lucidbeatz - Call You",
+    "score": 10
+  },
+  {
+    "id": "ZxJn290n8aw",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,2862 @@
-[]
+[
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "מדריך אקסל תוך 15 דקות",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "קורס אקסל למתחילים - שיעור 2 - שינוי שפת התצוגה באקסל -",
+    "score": 110
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "World War 2 Explained | Best WW2 Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "Hell On Earth: The Complete, Uncensored History Of World War II",
+    "score": 50
+  },
+  {
+    "id": "dAHJ0omYo7U",
+    "title": "The Full History of World War Two | On the Edge of the Abyss",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python Tutorial for Beginners - Full Course (with Notes \\u0026 Practice Questions)",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "PcfF58syR5c",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "These Are the Best YouTube Channels for Learning Spanish",
+    "score": 50
+  },
+  {
+    "id": "RWo2MYVUPzM",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Lesson 1: Spanish Pronunciation \\u0026 Basic Translation",
+    "score": 50
+  },
+  {
+    "id": "8Ozf-mSpMFk",
+    "title": "Learn Spanish While you Sleep MUST KNOW PHRASES",
+    "score": 50
+  },
+  {
+    "id": "LOmHVNYz0Mw",
+    "title": "learn Spanish language For beginners",
+    "score": 50
+  },
+  {
+    "id": "Y_mqoCjQ7Ws",
+    "title": "Spanish phrases you can use for a lifetime — Listen repeatedly and learn easily",
+    "score": 50
+  },
+  {
+    "id": "UxE3n6beo0k",
+    "title": "Learn Spanish in 10 Minutes - ALL the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "DXOq1xiIaF0",
+    "title": "Excel Full Course Tutorial (4+ Hours)",
+    "score": 50
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "UQxQi4q0zEA",
+    "title": "How to draw anything | learn sketching for beginners in 7 steps",
+    "score": 50
+  },
+  {
+    "id": "b2scvHu_tGQ",
+    "title": "How To Draw A Cute Ice Cream Cone",
+    "score": 50
+  },
+  {
+    "id": "UW6H5dAPuhY",
+    "title": "How To Draw Stitch From Lilo And Stitch",
+    "score": 50
+  },
+  {
+    "id": "JI3P70RE74g",
+    "title": "Easy way to draw anime eyes!!... (eye tutorial) #eyedrawing #anime",
+    "score": 50
+  },
+  {
+    "id": "2-K2kKPJAQU",
+    "title": "How to draw a body? Easy girl body drawing 🧍‍♀️",
+    "score": 50
+  },
+  {
+    "id": "bu1sqZRUxw4",
+    "title": "How to draw face || Jmarron",
+    "score": 50
+  },
+  {
+    "id": "7Htc4YNR6ps",
+    "title": "How to draw Simple Scenery Art For Beginners",
+    "score": 50
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "Here Is Why Extra Dimensions ACTUALLY Make Sense",
+    "score": 50
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "How to study PHYSICS so FAST that it feels ILLEGAL (No Boring Stuff)",
+    "score": 50
+  },
+  {
+    "id": "EdePPFD5K0U",
+    "title": "Atlas Coffee Club Kenya Review — Is It Worth the Hype?",
+    "score": 50
+  },
+  {
+    "id": "SbvQDQaLBzw",
+    "title": "Free Pattern Shacket Tutorial | DIY Shirt Jacket for Fall | Beginner-Friendly Sew-Along",
+    "score": 50
+  },
+  {
+    "id": "572GvdKQW64",
+    "title": "DIY Shirt Jacket | Shacket Tutorial",
+    "score": 50
+  },
+  {
+    "id": "3_1aKfPHxdQ",
+    "title": "Outfit inspo!! (Plz like this took forever to make😫) #ootd #outfitideas #schooloutfits #outfit",
+    "score": 50
+  },
+  {
+    "id": "YJvPcuq9Uzo",
+    "title": "HISTORY! Albert Pujols becomes just the FOURTH member of the 700 home run club!!",
+    "score": 50
+  },
+  {
+    "id": "Ruzlx7Q6X98",
+    "title": "Gotta savor every last drop🥲💗#aesthetic #preppy #skincare #makeup #beautyproducts #beauty #fyp",
+    "score": 50
+  },
+  {
+    "id": "hNjdr6DIySQ",
+    "title": "help i only have $10 at sephora 😭 #sephorahaul #sephora #skincare #preppy #makeup #haul #beauty",
+    "score": 50
+  },
+  {
+    "id": "nQnXnmamPSg",
+    "title": "It’s so preppy #trendy #preppy #skincare #beautyproducts #makeup",
+    "score": 50
+  },
+  {
+    "id": "Pa9t-oA9aG4",
+    "title": "How To Re-Wax \\u0026 Care For Your Waxed Canvas Jacket | Our Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "H2mboqgXJU4",
+    "title": "Proper Cloth Will Ruin You: A Review of Online Tailoring",
+    "score": 50
+  },
+  {
+    "id": "YMJNsHYuowc",
+    "title": "2 Weeks to a Fully Custom Suit? PROPER CLOTH Review",
+    "score": 50
+  },
+  {
+    "id": "Cw8YUkrt6v8",
+    "title": "Proper Cloth Mens Dress Shirt Review ",
+    "score": 50
+  },
+  {
+    "id": "xXRg6ec7oM8",
+    "title": "Proper Cloth Double Unboxing - Measured In Store \\u0026 At Home | My Experience Review",
+    "score": 50
+  },
+  {
+    "id": "A1iWZ5DYQD0",
+    "title": "Are Indochino Suits Good Quality? | An HONEST Indochino Custom Suit Review | Menswear Review",
+    "score": 50
+  },
+  {
+    "id": "JfiR0X8psZk",
+    "title": "Indochino Custom Suit Review",
+    "score": 50
+  },
+  {
+    "id": "venSlf7Q0jM",
+    "title": "How To Copy ANY Piece of Clothing Into a Pattern",
+    "score": 50
+  },
+  {
+    "id": "GNs8IX7tB3A",
+    "title": "How to Copy a Jacket Without Opening It | Clone Jacket Method |",
+    "score": 50
+  },
+  {
+    "id": "Z34oQxDo35Y",
+    "title": "𝑩𝒂𝒓𝒃𝒐𝒖𝒓 𝑱𝒂𝒄𝒌𝒆𝒕𝒔 - how to tell the 𝐟𝐚𝐤𝐞 and 𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜 ones apart",
+    "score": 50
+  },
+  {
+    "id": "QgBf00MqqQg",
+    "title": "How to STEAL designer Clothing #fashion #tutorial #upcycle #sewing ng",
+    "score": 50
+  },
+  {
+    "id": "R8MW5sIQHi8",
+    "title": "2023 Original Flannel Shirt Guide",
+    "score": 50
+  },
+  {
+    "id": "6Uu-fRIYkww",
+    "title": "Flannel Shirt Guide",
+    "score": 50
+  },
+  {
+    "id": "AcAlrBBxqIM",
+    "title": "Iron Heart | 20th Anniversary Check Western | Flannel Review",
+    "score": 50
+  },
+  {
+    "id": "KGcmSOGmk3A",
+    "title": "Luka Doncic Is The Worst Defender In NBA History",
+    "score": 50
+  },
+  {
+    "id": "g5-p5-DXJw8",
+    "title": "The Original Flannel Guide",
+    "score": 50
+  },
+  {
+    "id": "JMrql3ekn8k",
+    "title": "2024 Flannel Shirt Guide",
+    "score": 50
+  },
+  {
+    "id": "wW5TktGlyXI",
+    "title": "Start Your Costume Adventure Here! A Beginner's Guide To Fabric Types",
+    "score": 50
+  },
+  {
+    "id": "ZzLqkg4oBJs",
+    "title": "Make Great Coffee with a Moka Pot",
+    "score": 50
+  },
+  {
+    "id": "Q3-x44rCe10",
+    "title": "🌸get ready with me🌸(morning shed) #makeup #makeuptutorial #grwm #morningroutine #skincare",
+    "score": 50
+  },
+  {
+    "id": "JhGEUcEvpHg",
+    "title": "🌸get ready with me🌸(Zara Larsson inspired makeup) #makeup #makeuptutorial #grwm #grwmmakeup",
+    "score": 50
+  },
+  {
+    "id": "hczzHlVYf7c",
+    "title": "I Tried the Viral Lululemon Dupes from Shein – Honest Review!",
+    "score": 50
+  },
+  {
+    "id": "5vEOowmDZbY",
+    "title": "Intro \\u0026 Why I’m Reviewing Dupes",
+    "score": 50
+  },
+  {
+    "id": "_TgfwEEbChU",
+    "title": "Make a #lululemon keychain! #aesthetic #preppy #touchland #dance #trend #viral #fyp #lippies",
+    "score": 50
+  },
+  {
+    "id": "4f_-bKLVR6k",
+    "title": "You MUST Build THESE Teams For SNOW WHITE: HEAVY ARMS In Goddess Of Victory: NIKKE",
+    "score": 50
+  },
+  {
+    "id": "qRj9e1xKVfk",
+    "title": "Test Your Awareness | How Many Basketball Passes Does the White Team Make?",
+    "score": 50
+  },
+  {
+    "id": "ENCg2-PXtSc",
+    "title": "The best way to make instant coffee taste good",
+    "score": 50
+  },
+  {
+    "id": "k4pLp81MYl4",
+    "title": "13 MUST-KNOW Iced Coffee Recipes | How to Make Iced Coffee Like a Barista!",
+    "score": 50
+  },
+  {
+    "id": "POZnF2FWWe4",
+    "title": "Intro – Learn to make iced coffee like a barista!",
+    "score": 50
+  },
+  {
+    "id": "PWUYDUek0ho",
+    "title": "How To Make Every Coffee Drink | Method Mastery | Epicurious",
+    "score": 50
+  },
+  {
+    "id": "VB65k0gwriU",
+    "title": "How To Make Hot Coffee (Perfect Frothy Coffee At Home)",
+    "score": 50
+  },
+  {
+    "id": "Yt6Rk-QHRJs",
+    "title": "stop overpaying for iced coffee and make this instead",
+    "score": 50
+  },
+  {
+    "id": "Sa8BZj2ZknY",
+    "title": "5 espresso drinks to make at home☕️",
+    "score": 50
+  },
+  {
+    "id": "dneR1fSiS2Q",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "MN6Fmdz5uLk",
+    "title": "✅  How To Filter Searches On YouTube  🔴",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How To Use Search Filters In Facebook On PC (New Update)",
+    "score": 50
+  },
+  {
+    "id": "DKdR7UCz1bI",
+    "title": "Exiles Galore - Boros Token Control | Deck Tech with CGB | MTG Arena",
+    "score": 50
+  },
+  {
+    "id": "JdX2AZfBfUg",
+    "title": "Deck Tech",
+    "score": 50
+  },
+  {
+    "id": "_CWGsgtrSK8",
+    "title": "Men's Winter Streetwear Fashion Guide! *What to buy \\u0026 What NOT to buy*",
+    "score": 50
+  },
+  {
+    "id": "2vLAYDoSCbc",
+    "title": "HOW TO STYLE…BAGGY JORTS!😍streetwear style!! #fashion #outfitideas #streetstyle #streetwear",
+    "score": 50
+  },
+  {
+    "id": "ID1eeudeLBo",
+    "title": "Carl Marshall - Good Loving Will Make You Cry (Visualizer)",
+    "score": 50
+  },
+  {
+    "id": "b3gjI_k4wJc",
+    "title": "8 Secrets I Learned From Working With Rich People",
+    "score": 50
+  },
+  {
+    "id": "ZO5VUGD1a84",
+    "title": "How the Rich Work LESS and Make MORE (While You Stay Stuck)",
+    "score": 50
+  },
+  {
+    "id": "NR5IFPoRqmo",
+    "title": "Hard work won't make you rich.",
+    "score": 50
+  },
+  {
+    "id": "wqvnWbKjT4w",
+    "title": "How to get rich without luck, talent, or a trust fund",
+    "score": 50
+  },
+  {
+    "id": "az6NibAUf7Y",
+    "title": "The Science Of Getting Rich (1910) by Wallace D. Wattles",
+    "score": 50
+  },
+  {
+    "id": "3TthqY_VuQE",
+    "title": "How To Get Rich in 6 Months While Working a 9-5 with Billionaire Baze",
+    "score": 50
+  },
+  {
+    "id": "t3rdn1_0fWE",
+    "title": "6 Secrets I Learned Working For Rich People",
+    "score": 50
+  },
+  {
+    "id": "4Itsl_t-brI",
+    "title": "Beautiful \\u0026 Simple Hairstyle Tutorial | New Hairstyle For Girls | Hair Style Girl",
+    "score": 50
+  },
+  {
+    "id": "YF6y1lhmsJo",
+    "title": "How to Build Dressing Sense in 2026 | Men’s Complete Style Guide",
+    "score": 50
+  },
+  {
+    "id": "rA_eCxPay7E",
+    "title": "Beautiful \\u0026 Different Hairstyle Tutorial | New Hairstyle For Girls | Hair Style Girl",
+    "score": 50
+  },
+  {
+    "id": "qpj3Ei1TPy8",
+    "title": "How to dress better without buying new clothes | Style Reset",
+    "score": 50
+  },
+  {
+    "id": "2s2Rw6L0RDc",
+    "title": "Style (2001) - Sharman Joshi, Riya Sen - Bollywood Ki Dhamakedar Romantic Comedy Movie - Love Story",
+    "score": 50
+  },
+  {
+    "id": "8fvTBPSHElY",
+    "title": "Iron Heart | Ultra Heavy Flannel Review | Purple Classic Check",
+    "score": 50
+  },
+  {
+    "id": "uR-CjSChqS8",
+    "title": "Fall flannel review.",
+    "score": 50
+  },
+  {
+    "id": "_NPdBg8s3sI",
+    "title": "UES Ultra Heavy Flannel Review",
+    "score": 50
+  },
+  {
+    "id": "SjONVCcvOpA",
+    "title": "Episode 1 - We Are At War",
+    "score": 10
+  },
+  {
+    "id": "vzTdGvYuNzo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "RjMbuG7tRJU",
+    "title": "Best Oil Painting Tips For Brand New Painters",
+    "score": 10
+  },
+  {
+    "id": "rkG_dZ_YT0I",
+    "title": "I Bought a $1,900 Swamp Boat Wreck and Rebuilt It Back to Sea Trial Ready",
+    "score": 10
+  },
+  {
+    "id": "m67-bOpOoPU",
+    "title": "Introduction to Python",
+    "score": 10
+  },
+  {
+    "id": "I1uOp-e03rw",
+    "title": "wstęp",
+    "score": 10
+  },
+  {
+    "id": "eCyODUip87c",
+    "title": "مقدمه",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "Basic Wood Joinery",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "Master Speaking Basic Spanish in 2 Hours with This Video",
+    "score": 10
+  },
+  {
+    "id": "t7-nb1wlnyA",
+    "title": "Hi, I'm Lucia. Nice to meet you",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_g4vy7H8bdo",
+    "title": "Head",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Uncharted Depths | Discovering the World’s Deepest Ocean Trenches and Their Hidden Secrets",
+    "score": 10
+  },
+  {
+    "id": "myGGS1FBsk4",
+    "title": "The Greatest Mysteries of the Pacific Ocean | Drain the Oceans | MEGA EPISODE | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "bxIV_itPWkU",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Discoveries and mysteries of the deep sea | 60 Minutes: Anthology",
+    "score": 10
+  },
+  {
+    "id": "T6BOb8J7Wi0",
+    "title": "Deep Trouble (2023)",
+    "score": 10
+  },
+  {
+    "id": "0KKHYtSLI1g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3tnhQR3PGTM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FmR14Yng9kI",
+    "title": "Introduction to Deep Sea Gigantism",
+    "score": 10
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "L9x9pgRbxws",
+    "title": "The Best Aeropress Recipe for Light Roast Coffee! [4K]",
+    "score": 10
+  },
+  {
+    "id": "ZghSEZeVk1Q",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "SGUMC19IISY",
+    "title": "How Physicists Approximate (Almost) Anything",
+    "score": 10
+  },
+  {
+    "id": "ZawOeUSzmY4",
+    "title": "Is There an Ultimate Limit to Brightness?",
+    "score": 10
+  },
+  {
+    "id": "5eyAAp5wG0c",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "The One Principle That Explains All of Physics",
+    "score": 10
+  },
+  {
+    "id": "1J0UkL0zQOs",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "Why Supermassive Black Holes Are Actually Safe",
+    "score": 10
+  },
+  {
+    "id": "XcNsvqEduJ8",
+    "title": "The Man Who Discovered the Laws of Infinity",
+    "score": 10
+  },
+  {
+    "id": "Jfk4_BsNn1g",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "Classical Mechanics",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "Sean Carroll explains the biggest ideas in the universe | Full Interview",
+    "score": 10
+  },
+  {
+    "id": "_TBNJyztai0",
+    "title": "Radical simplicity in physics",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "kGBv_vZFnvw",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "What the Higgs Boson Actually Is (No Analogies)",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "Physics - Basic Introduction",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t06aTX9jM34",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lcjdwSY2AzM",
+    "title": "What is symmetry?",
+    "score": 10
+  },
+  {
+    "id": "upX1MmQwGBU",
+    "title": "Level 1 to 100 Physics Concepts to Fall Asleep to",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "The Man Who Discovered the Laws of Infinity",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "Does the Universe Have a Maximum Temperature? The Planck Temperature Explained",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "The Most Misunderstood Concept in Physics",
+    "score": 10
+  },
+  {
+    "id": "DxL2HoqLbyA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4aYHzbR3sd0",
+    "title": "Coffee With Carl #20 - Momotaro's new $1700 jeans, Indigofera made a shirt with gunpowder!",
+    "score": 10
+  },
+  {
+    "id": "zPX8NK4iQJE",
+    "title": "CwC #78 Albert Returns!",
+    "score": 10
+  },
+  {
+    "id": "JrorYWOpsbs",
+    "title": "Black Coffee @ Salle Wagram in Paris, France for Cercle",
+    "score": 10
+  },
+  {
+    "id": "VcYipqAdorQ",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "h-tu32r58ec",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "-kSwEnQZG7k",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "gOUoCjUWnBM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "xRUdZhRPuwI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "nBCg61LlcAY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "iac-vLq6tnY",
+    "title": "Carl Anderson Hot Coffee",
+    "score": 10
+  },
+  {
+    "id": "GAgjMizdTso",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "ot0-ikYOcd0",
+    "title": "COFFEE WITH CARL - Episode 1 - Boiling Hot Water",
+    "score": 10
+  },
+  {
+    "id": "BqPjnEcwFbg",
+    "title": "Speeder \\u0026 Earl’s Speeder’s Blend Taste Test | Coffee With Carl \\u0026 Guy",
+    "score": 10
+  },
+  {
+    "id": "bYnJzazzYyM",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "dFSeKc-7go8",
+    "title": "Supreme",
+    "score": 10
+  },
+  {
+    "id": "5bntL-G9RkE",
+    "title": "Overshirts \\u0026 Shackets Introduction",
+    "score": 10
+  },
+  {
+    "id": "VJtTEqaN4-g",
+    "title": "This Season's Best Shackets and Where to Buy Them",
+    "score": 10
+  },
+  {
+    "id": "tD_kf0ErQBo",
+    "title": "Jackson Row",
+    "score": 10
+  },
+  {
+    "id": "EqVxz7c1ACA",
+    "title": "Let's design!",
+    "score": 10
+  },
+  {
+    "id": "MdvXDrDntaI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "l2EeQEw1o4g",
+    "title": "Shirt Jackets",
+    "score": 10
+  },
+  {
+    "id": "zWYlPK3VKSQ",
+    "title": "BEST SHACKET...and what is a shacket?",
+    "score": 10
+  },
+  {
+    "id": "S9GPDwD-n9I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_a8r79lUbRQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4pqXYsD9lF8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5Vw_6_F0Cys",
+    "title": "The shacket you need from Abercrombie 😍",
+    "score": 10
+  },
+  {
+    "id": "VGoEhwlpP34",
+    "title": "T-shirt and shacket season! Joke: wearing a shacket in south GA in October.",
+    "score": 10
+  },
+  {
+    "id": "DvLCS5KHKR4",
+    "title": "Shacket Outfit Men || What to Wear with Shackets? || Men's Overshirt/Woolen Shirt",
+    "score": 10
+  },
+  {
+    "id": "LML-eDGbHgY",
+    "title": "Back Yoke",
+    "score": 10
+  },
+  {
+    "id": "lCSiLb-csLE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xkipM7eLa5M",
+    "title": "Outfits of the week! #ootd #outfitinspo #outfit #fashion #schooloutfits #outfitideas #ootw",
+    "score": 10
+  },
+  {
+    "id": "6m7MsWP9R1E",
+    "title": "Outfit ideas for school!🎓",
+    "score": 10
+  },
+  {
+    "id": "K6iRZT1TTwA",
+    "title": "OUTFIT INSPO!!🤭 #OOTD #outfitinspo #outfitideas #fashion #fashioninspo",
+    "score": 10
+  },
+  {
+    "id": "7NKVNvmCsRo",
+    "title": "Fall outfit inspo!! Which one is your favorite?🤎 #ootd #fall #clothing #style #fashion #school #fit",
+    "score": 10
+  },
+  {
+    "id": "ZZ8QPWKRaBk",
+    "title": "Outfits of the week!🫶last one is the best :) #fashiontrends #ootd #outfitsinspo",
+    "score": 10
+  },
+  {
+    "id": "qrp-JuqtVlQ",
+    "title": "Superstar (Carl Anderson) | Jesus Christ Superstar (1973) | TUNE",
+    "score": 10
+  },
+  {
+    "id": "KJDgUoAQC8Y",
+    "title": "I Will Be There",
+    "score": 10
+  },
+  {
+    "id": "cfxHsQYc6iQ",
+    "title": "Pieces Of A Heart",
+    "score": 10
+  },
+  {
+    "id": "3l50by25x4Y",
+    "title": "Friends And Lovers",
+    "score": 10
+  },
+  {
+    "id": "TZ0gOrpoJeo",
+    "title": "God's Gift To The World",
+    "score": 10
+  },
+  {
+    "id": "EQ8nOrQ2A-M",
+    "title": "Love'll Hold My Baby Tonight",
+    "score": 10
+  },
+  {
+    "id": "t-lgfEHDhqE",
+    "title": "Jesus Christ Superstar (1973) - Heaven on Their Minds Scene (1/10) | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "URWa0rbB1Kw",
+    "title": "How Deep Does It Go?",
+    "score": 10
+  },
+  {
+    "id": "CuTz-A6F128",
+    "title": "Fooled Myself Again",
+    "score": 10
+  },
+  {
+    "id": "K0C88aAVBTk",
+    "title": "Barry Dennen - Voice Roles Compilation",
+    "score": 10
+  },
+  {
+    "id": "JfKwcxp2PBU",
+    "title": "Celebrity Underrated - The Adolph Caesar Story #thecolorpurple #thecolorpurple2023",
+    "score": 10
+  },
+  {
+    "id": "T9dVhp27cyU",
+    "title": "Kurt Yahjian...\\\"Amahl\\\",  \\\"Jesus Christ Superstar\\\", Planotones to Jay Siegel's Tokens",
+    "score": 10
+  },
+  {
+    "id": "e7kAnbqN5u0",
+    "title": "FOOLED MYSELF AGAIN - Carl Anderson",
+    "score": 10
+  },
+  {
+    "id": "0H1NH5ssV-I",
+    "title": "Baby My Heart",
+    "score": 10
+  },
+  {
+    "id": "Et4YAsbo5dI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8Jsp4vPl98c",
+    "title": "The Young Victoria Score - 09 - Albert Returns - Ilan Esherki",
+    "score": 10
+  },
+  {
+    "id": "6QkvFm1Ng_k",
+    "title": "The Return of Albert",
+    "score": 10
+  },
+  {
+    "id": "5AhFMhuBtOE",
+    "title": "Albert's path",
+    "score": 10
+  },
+  {
+    "id": "kf0ZvY2usbY",
+    "title": "Albert Louis-Jean returns to New England",
+    "score": 10
+  },
+  {
+    "id": "2dDK-YEG474",
+    "title": "The Return of Albert",
+    "score": 10
+  },
+  {
+    "id": "3jRgYUJ8y8A",
+    "title": "Albert: Up, Up And Away! | FULL MOVIE | Family Animation Adventure",
+    "score": 10
+  },
+  {
+    "id": "orI0kGFOncY",
+    "title": "Albert Pujols returns to St. Louis, homers in first at-bat! (And gets a standing ovation!)",
+    "score": 10
+  },
+  {
+    "id": "fncsdrMB6IM",
+    "title": "Return to Albert's Forest",
+    "score": 10
+  },
+  {
+    "id": "SNhH1pSgNt0",
+    "title": "Albert Pujols returns to St. Louis, gets a standing ovation.",
+    "score": 10
+  },
+  {
+    "id": "22rldoe7LeM",
+    "title": "Gordon and Albert being a comedy double act in Twin Peaks: The Return",
+    "score": 10
+  },
+  {
+    "id": "2CwiqyAF9Ko",
+    "title": "Albert Belle Returning to Jacobs Field",
+    "score": 10
+  },
+  {
+    "id": "jD0EfNJ2Klw",
+    "title": "Albert Pujols' First Home Run Back As A Cardinal",
+    "score": 10
+  },
+  {
+    "id": "XhDsNXOwqtU",
+    "title": "The Return of Albert (Albert Comes Back) (1933)",
+    "score": 10
+  },
+  {
+    "id": "6DGih2DUYOs",
+    "title": "Albert's Return",
+    "score": 10
+  },
+  {
+    "id": "9iPR3kP3V5Q",
+    "title": "🔵 The Return Of Albert By George Marriott Edgar - Reading - The Return Of Albert By Marriott Edgar",
+    "score": 10
+  },
+  {
+    "id": "QZpyNH50nVc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JDJFraAxluA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "o8E7KlsYPZQ",
+    "title": "Preppy clothing brands🤍☀️🐬🌊 #preppy #preppyclothes #clothingbrand #helpfultips #aesthetic",
+    "score": 10
+  },
+  {
+    "id": "HNjmmpix_b0",
+    "title": "cute but ✨cheap✨ clothes 🌊⚡️￼#preppy #roadto10k #clothing #fyp",
+    "score": 10
+  },
+  {
+    "id": "GeCYAfLAfn8",
+    "title": "My Favorite Skincare brand! #preppy #skincare @bubbleskincare",
+    "score": 10
+  },
+  {
+    "id": "TkaXmJ9b6EA",
+    "title": "Five below haul #haul #haulvideo #hauls #fivebelow #preppy #preppyhaul #preppyyyy",
+    "score": 10
+  },
+  {
+    "id": "bK86G5mFp1Q",
+    "title": "Preppy skincare brands that are cheap! (With prices and benefits!)",
+    "score": 10
+  },
+  {
+    "id": "wB1aIdy_UN0",
+    "title": "Preppy Amazon finds under 20$!! 🌴✨🍄☀️🌷 #preppy #skincare #aesthetic #haul",
+    "score": 10
+  },
+  {
+    "id": "trD1DarD_Hc",
+    "title": "RATING PREPPY SKINCARE‼️ Pyramid Style🤐💅",
+    "score": 10
+  },
+  {
+    "id": "plKANWmU148",
+    "title": "haul❕❗️(roller rabbit + amazon)⭐️🌴 #preppy #haul #blowup",
+    "score": 10
+  },
+  {
+    "id": "PWwZiK6F2rs",
+    "title": "Affordable Preppy Skincare!!🐬⚡️🛍️✨🦩🌊💞#fyp#trending#preppy#preppyskincare #skincare#preppybrands",
+    "score": 10
+  },
+  {
+    "id": "yq9kagJhfTI",
+    "title": "the BEST STORE for SEPHORA KIDS?!👀✨ #preppyproducts #skincare #freepreppyclip #beautyproducts #grwm",
+    "score": 10
+  },
+  {
+    "id": "0q4hiGSkCRo",
+    "title": "VINTAGE Preppy vs NEW Preppy",
+    "score": 10
+  },
+  {
+    "id": "ABRaUlJBcsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "h1bY3yKVG0E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eW2dVSOysCo",
+    "title": "✨ affordable preppy brands✨ #preppyyyy #preppyslay",
+    "score": 10
+  },
+  {
+    "id": "WKjw5tj-sUU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lOeV83jYZuc",
+    "title": "Waxing my Carhartt Shirt Jacket with Otter Wax 2024.",
+    "score": 10
+  },
+  {
+    "id": "ks57f6Rs3aU",
+    "title": "Can you wax a Carhartt jacket? #diy #carhartt #waxjacket",
+    "score": 10
+  },
+  {
+    "id": "HWOijjNwxa4",
+    "title": "Carhartt Detroit Coat with another layer of wax.",
+    "score": 10
+  },
+  {
+    "id": "AquLvOWMvOQ",
+    "title": "Why I  Quit Wearing CARHARTT",
+    "score": 10
+  },
+  {
+    "id": "qz6pucWxUGA",
+    "title": "The Warmest Carhartt Jackets of 2026",
+    "score": 10
+  },
+  {
+    "id": "gbjaO_5FLSA",
+    "title": "Warmest Carhartt Jackets",
+    "score": 10
+  },
+  {
+    "id": "cuifyWD6Muc",
+    "title": "Waxed Pants for Bushcraft \\u0026 Camping",
+    "score": 10
+  },
+  {
+    "id": "LbM2EBm8h-Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PRmpVtlN2o8",
+    "title": "Good, Better, Best Waxed Jackets",
+    "score": 10
+  },
+  {
+    "id": "7idC8j1md6w",
+    "title": "Carhartt: Putting on the Gloves | Meet the Waxed Cotton Active Jac",
+    "score": 10
+  },
+  {
+    "id": "7up7xWnMx4Q",
+    "title": "Waxed Carhartt Shirt Jacket. Season 3",
+    "score": 10
+  },
+  {
+    "id": "WnLs722QnTA",
+    "title": "Work Carhartt vs. Fashion Carhartt",
+    "score": 10
+  },
+  {
+    "id": "tq4yUlGC1n0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CHGuLzmrAaY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-nA6kEWhab4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R8kYIfaSgbg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NzGcSX22lNQ",
+    "title": "Proper Cloth | First Impressions \\u0026 MTM process",
+    "score": 10
+  },
+  {
+    "id": "OTZGo2m-AFI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5YAqVSVXh4Q",
+    "title": "Proper Cloth - Full Overview of Ordering Process, Customization Options, and More!",
+    "score": 10
+  },
+  {
+    "id": "awrDtNTwGQk",
+    "title": "How the Process Works",
+    "score": 10
+  },
+  {
+    "id": "3sbEGgKYYg8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "h_SOFBhGWeU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Fl3K1kp8d8",
+    "title": "Disclaimer",
+    "score": 10
+  },
+  {
+    "id": "hZweIvSOFq0",
+    "title": "Generous Return Policies",
+    "score": 10
+  },
+  {
+    "id": "iEJzCO5_ofM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "doxghT_kcAA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "04bhisZ841A",
+    "title": "Are Ledbury Shirts Worth The Investment?",
+    "score": 10
+  },
+  {
+    "id": "mrKrIB7UyME",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lpma9NB8hX0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JLRzuDVnmr8",
+    "title": "My First Time - Workwear (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "SeGV7qMVJ2M",
+    "title": "Why Most ‘Workwear’ Isn’t Made for Work",
+    "score": 10
+  },
+  {
+    "id": "7OSokdqgik8",
+    "title": "Winter Workwear",
+    "score": 10
+  },
+  {
+    "id": "OhrboHAWGzw",
+    "title": "11 American Made Workwear Brands You Should Know!",
+    "score": 10
+  },
+  {
+    "id": "nVpim8n1Z70",
+    "title": "Three Levels of Summer Workwear",
+    "score": 10
+  },
+  {
+    "id": "qDbRIUG6lQw",
+    "title": "I Tried Designing My First Workwear Jacket",
+    "score": 10
+  },
+  {
+    "id": "yq6wnVmkbJA",
+    "title": "“The OFFICE is NOT a fashion show” 5 spring workwear outfit ideas",
+    "score": 10
+  },
+  {
+    "id": "qHbnhrnH4jc",
+    "title": "10 Workwear brands you should know",
+    "score": 10
+  },
+  {
+    "id": "tDr3G4f-pfk",
+    "title": "Milwaukee Workwear | What I LIKE and WHY",
+    "score": 10
+  },
+  {
+    "id": "WMl3InI2LkM",
+    "title": "Smart Casual Vs Business Casual/Professional 💕 #officeoutfits #workwear #outfitideas",
+    "score": 10
+  },
+  {
+    "id": "A3gXR0oS8b4",
+    "title": "Office outfit inspiration!! #workwear #officeoutfit #businesscasual #outfitideas #classyfashion",
+    "score": 10
+  },
+  {
+    "id": "WCg12rNsATY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wV2zQ07kCbo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1H8ZoGSE4bY",
+    "title": "Copying a Ready-Made Garment",
+    "score": 10
+  },
+  {
+    "id": "ttwaSzVMSb4",
+    "title": "Redmayne Savile Row suit copying service - Coat",
+    "score": 10
+  },
+  {
+    "id": "JNGwVk5q7x0",
+    "title": "Why The Greatest Field Jacket Ever Made Is Also The Cheapest.",
+    "score": 10
+  },
+  {
+    "id": "5fZ1KbN9O7s",
+    "title": "Fakes, copies, replicas of M-65 jackets",
+    "score": 10
+  },
+  {
+    "id": "H--EOQfYDpE",
+    "title": "The Great Dupe War: Lululemon’s $100 Jacket vs Costco’s $20 Copy",
+    "score": 10
+  },
+  {
+    "id": "OmtaRYTwPCA",
+    "title": "The Only Leather Jackets I'm Wearing In 2026",
+    "score": 10
+  },
+  {
+    "id": "NO2SIljrlHo",
+    "title": "The Best Leather Jackets to Wear This Year",
+    "score": 10
+  },
+  {
+    "id": "MmQEPW3sEKU",
+    "title": "Suit Jacket vs. Blazer vs. Sport Coat | What's the Difference?",
+    "score": 10
+  },
+  {
+    "id": "K8D_iaouMOo",
+    "title": "Copying an Edwardian Tailored Jacket",
+    "score": 10
+  },
+  {
+    "id": "RkEzsqshiXE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FF7fwEj0qx0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Dqv5IL1eqFA",
+    "title": "Burgundy Flannel",
+    "score": 10
+  },
+  {
+    "id": "9cRqHEa5oj4",
+    "title": "Check out these two flannels",
+    "score": 10
+  },
+  {
+    "id": "PzrULqvlijk",
+    "title": "Skit",
+    "score": 10
+  },
+  {
+    "id": "mxYDm6pLNZo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gnbT-MFKg3Q",
+    "title": "Flannel Shirts",
+    "score": 10
+  },
+  {
+    "id": "c5EE4ffhL0U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nsIKwXpCp0o",
+    "title": "Iron Heart - \\\"The Watermelon Man\\\"  - Ultra Heavy Flannel - IHSH 436 RED",
+    "score": 10
+  },
+  {
+    "id": "tXqlglH5Gjk",
+    "title": "$35 vs $360 Flannel: What's the Difference? Featuring Iron Heart, Filson, and Goodfellow | 555 Gear",
+    "score": 10
+  },
+  {
+    "id": "Rlyp8PLqFS0",
+    "title": "Amazing Quality at and UNBELIEVABLE Price | The Vermont Flannel Co Classic and Fitted Flannel",
+    "score": 10
+  },
+  {
+    "id": "G88UnORjelI",
+    "title": "Intro/Disclaimer",
+    "score": 10
+  },
+  {
+    "id": "LNd-GOzUvKI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SWwu-JPFiKI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BhZU9DKw53A",
+    "title": "Construction Is Tidy",
+    "score": 10
+  },
+  {
+    "id": "QIw1pOMzAYk",
+    "title": "Heavyweight Flannels Back for Fall",
+    "score": 10
+  },
+  {
+    "id": "hXj1REF7thE",
+    "title": "What is a flannel shirt?",
+    "score": 10
+  },
+  {
+    "id": "QOoZj90ICGA",
+    "title": "Crop Your Flannel Bro Trust Me☝🏾#flannel #mensfashion",
+    "score": 10
+  },
+  {
+    "id": "T4nwil2qh3Y",
+    "title": "Pendleton: Wool Flannel Shirts",
+    "score": 10
+  },
+  {
+    "id": "R2lMCN3wnEU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eSN2MDIGdeU",
+    "title": "Duluth Trading Co Burlyweight Flannel - THE FLANNEL SERIES - A thick, heavy flannel at a good price",
+    "score": 10
+  },
+  {
+    "id": "EdMK_oIDHaw",
+    "title": "What's The Best Flannel Shirt?",
+    "score": 10
+  },
+  {
+    "id": "yZQNBdlwBXw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lLtYyUWzykI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UyDyj28cYYs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1vMudbWZAdA",
+    "title": "Puella Magi Madoka Magica: The Movie Cosplay Homura Akemi \\u0026 Kaname Madoka Cosplay Costume showcase🩰🩰",
+    "score": 10
+  },
+  {
+    "id": "1kw_zcypAFU",
+    "title": "These Fabrics Will Change Your Cosplay Game",
+    "score": 10
+  },
+  {
+    "id": "Qe1Y3QLfQNM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8UxGBFBBiLY",
+    "title": "I Tried $1 Vs $100 Halloween Costumes",
+    "score": 10
+  },
+  {
+    "id": "86oja5bVBOI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qZGRnOQQ7nM",
+    "title": "THRIFT WITH ME for halloween!! 16 diy costume ideas (pinterest-inspired)",
+    "score": 10
+  },
+  {
+    "id": "aPrTIRHnkV0",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "NCxU_Wq1BzA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vuH1pfO_uwE",
+    "title": "Thrifting For Charlie From Hazbin Hotel #hazbinhotel #cosplay #thrifting",
+    "score": 10
+  },
+  {
+    "id": "rqdFH47t_K0",
+    "title": "trying DEADSTOCK 2000s costumes (PART 4)",
+    "score": 10
+  },
+  {
+    "id": "NmL-SAjvAkk",
+    "title": "Top 10 Crafting Materials for Cosplay",
+    "score": 10
+  },
+  {
+    "id": "nJQR69MlX70",
+    "title": "TOP 10 MATERIALS FOR COSPLAY",
+    "score": 10
+  },
+  {
+    "id": "vhvyg2jj6Zs",
+    "title": "i’m so excited abt this One Piece drop yall 😈 #animefashion #animeclothing #anime",
+    "score": 10
+  },
+  {
+    "id": "Msx50pgQHlc",
+    "title": "Star Wars Cosplay Clothing - Save Big With Thrift Store Mods!",
+    "score": 10
+  },
+  {
+    "id": "lkWwnpUQ6uA",
+    "title": "Vest",
+    "score": 10
+  },
+  {
+    "id": "6M_bcExVNSE",
+    "title": "Maternity Halloween Costume Ideas",
+    "score": 10
+  },
+  {
+    "id": "zaRtfXm7GHg",
+    "title": "Reacting to Crazy Cosplay Prices",
+    "score": 10
+  },
+  {
+    "id": "vR6trP0qy2I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lyipJfhI-dE",
+    "title": "Coffee With Texas Paul!  As Trump's Horrible Immigration Miscalculation Hits Home Knives Are Out!",
+    "score": 10
+  },
+  {
+    "id": "Q-1MePZ3pRE",
+    "title": "“Amrit Amby Unfiltered 😜☕ | Coffee with Kangarh” | Ladi Kangarh | EP -  84",
+    "score": 10
+  },
+  {
+    "id": "HNhLmUSAxP8",
+    "title": "With Coffee",
+    "score": 10
+  },
+  {
+    "id": "6oqXVx3sBOk",
+    "title": "you're believing lies about yourself | Christ With Coffee On Ice",
+    "score": 10
+  },
+  {
+    "id": "obajjJL3rGg",
+    "title": "We Drank Coffee With Walker Scobell | coffee chats",
+    "score": 10
+  },
+  {
+    "id": "4d1htij6BFc",
+    "title": "Coffee with Kadhal - Tamil Full Movie - Srikanth, Jiiva, Dhivyadharshini, Raiza Wilson, Amritha",
+    "score": 10
+  },
+  {
+    "id": "ViY4UFLOoIA",
+    "title": "Coffee With D | Hindi Full Movie | Sunil Grover, Pankaj Tripathi, Anjana Sukhani | Comedy Movie",
+    "score": 10
+  },
+  {
+    "id": "pLBnLRB2cb8",
+    "title": "Satej Patil Coffee With Kaushik : धनंजय महाडिकांसोबत वादाची सुरुवात कोणी केली?",
+    "score": 10
+  },
+  {
+    "id": "jSxtA8DPf5w",
+    "title": "Coffee with MarkZ. 01/27/2026",
+    "score": 10
+  },
+  {
+    "id": "dtEgaUgGraQ",
+    "title": "KOFFEE WITH JALAN ☕😈  | CARRYMINATI",
+    "score": 10
+  },
+  {
+    "id": "_uRdozeKuUg",
+    "title": "Coffee with Kadhal - Tamil Full Movie - Srikanth, Jiiva, Dhivyadharshini, Raiza Wilson, Amritha",
+    "score": 10
+  },
+  {
+    "id": "rpyBYuu-wJI",
+    "title": "오존 X 카더가든 - With Coffee.. [더 시즌즈-박보검의 칸타빌레] | KBS 250620 방송",
+    "score": 10
+  },
+  {
+    "id": "tzlqIwUE5u0",
+    "title": "Coffee With Slash",
+    "score": 10
+  },
+  {
+    "id": "tiB91G0vDjw",
+    "title": "COFFEE WITH ALTER BRIDGE - Mark Tremonti / Myles Kennedy",
+    "score": 10
+  },
+  {
+    "id": "oXen263wF-g",
+    "title": "Coffee With Kreator / Mille Petrozza",
+    "score": 10
+  },
+  {
+    "id": "HKyk5UUed2o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Kd76hTmYHmk",
+    "title": "GET READY WiTH ME *BOYFRiEND TALK 2026*🤭🌹",
+    "score": 10
+  },
+  {
+    "id": "wuJkyLm7fHk",
+    "title": "Searches related to \"},{\"text\":\"Ready With\",\"bold\":true}]},\"trackingParams\":\"CNACEK2qASITCP6Q67_dsJIDFQZz7QIdrYY3gw==\",\"icon\":{\"iconType\":\"SEARCH\"}}},\"style\":{\"type\":\"HORIZONTAL_CARD_LIST_STYLE_TYPE_NARROW_SHELF\"},\"previousButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_LEFT\"},\"trackingParams\":\"CM8CEPBbIhMI_pDrv92wkgMVBnPtAh2thjeD\"}},\"nextButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_RIGHT\"},\"trackingParams\":\"CM4CEPBbIhMI_pDrv92wkgMVBnPtAh2thjeD\"}}}},{\"videoRenderer\":{\"videoId\":\"-su64Uuv2Ws\",\"thumbnail\":{\"thumbnails\":[{\"url\":\"https://i.ytimg.com/vi/-su64Uuv2Ws/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIF0oVTAP\\u0026rs=AOn4CLAzz9C7Hn85OCWmOOfgzHukeOTK_Q\",\"width\":360,\"height\":202},{\"url\":\"https://i.ytimg.com/vi/-su64Uuv2Ws/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIF0oVTAP\\u0026rs=AOn4CLAKSqyYBSOwTR8cljKFMhkUxpSrAA\",\"width\":720,\"height\":404}]},\"title\":{\"runs\":[{\"text\":\"Get ready with Nyielle for Pajama Day at School || SPIRIT WEEK DAY 1 🥰",
+    "score": 10
+  },
+  {
+    "id": "-su64Uuv2Ws",
+    "title": "Get Ready with Me!",
+    "score": 10
+  },
+  {
+    "id": "0MklZZZ3JQw",
+    "title": "Why I Get Ready Even When I’m Not Going Out 👀✨ #grwm #freepreppyclip #relatable #beautyproducts",
+    "score": 10
+  },
+  {
+    "id": "4KP1EWlQ83A",
+    "title": "GET READY WITH ME FOR IVANITA AND LUCAS'S WEDDING!! (PART 1/2)",
+    "score": 10
+  },
+  {
+    "id": "EnQDMBH948M",
+    "title": "get ready with me for an early flight 😴 ✈️ #airport #grwm #travel #flight #airplane #morning",
+    "score": 10
+  },
+  {
+    "id": "TaBw44SabPs",
+    "title": "Get Ready with Haven \\u0026 Gaga #GRWM #skincare #grwu",
+    "score": 10
+  },
+  {
+    "id": "R1L3BeJ9ELg",
+    "title": "GET READY WITH CALI| LAST DAY OF SCHOOL #throwback #toddlerhair",
+    "score": 10
+  },
+  {
+    "id": "BtJb8HBndA8",
+    "title": "GET READY WITH ME💕 | Real Life Updates, Wedding Talk, \\u0026 Q\\u0026A (Let’s Be Honest) | Lauren Norris",
+    "score": 10
+  },
+  {
+    "id": "XeeX_tLOEFE",
+    "title": "GET READY WiTH US FOR A PHOTOSHOOT! 📸🩷",
+    "score": 10
+  },
+  {
+    "id": "Gb4P_8MiRYg",
+    "title": "Get ready with me for bed with a Maddox battie",
+    "score": 10
+  },
+  {
+    "id": "X-pXMoB4RSw",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "2-DhbktbHco",
+    "title": "Lululemon pulls \\\"Get Low\\\" leggings after customers say they're sheer",
+    "score": 10
+  },
+  {
+    "id": "e4XGMJXYF8w",
+    "title": "trying super *VIRAL* products from COSTCO! (lululemon \\\"dupe\\\", snacks, beauty \\u0026 more!)",
+    "score": 10
+  },
+  {
+    "id": "itSmj8CfmDs",
+    "title": "is it lululemon or justice …. #preppy #lululemon #shopping #relatable #funny",
+    "score": 10
+  },
+  {
+    "id": "GorvsUjYnK8",
+    "title": "The last sweater🤭🤭these prices were soooo good #buyorbye #lululemon #tryonhaul",
+    "score": 10
+  },
+  {
+    "id": "SRkMriBZIMc",
+    "title": "Lululemon sues Costco over viral alleged 'dupes'",
+    "score": 10
+  },
+  {
+    "id": "DHVUZ1JTToA",
+    "title": "Lululemon Luon Define Jacket #lululemon #lulu #girls #haul",
+    "score": 10
+  },
+  {
+    "id": "0tMiqB0uRyM",
+    "title": "#lululemon #lulu #luludupe #dupes #dupe #leggings #fashion #fashionfinds #womensfashion #style #ootd",
+    "score": 10
+  },
+  {
+    "id": "sb4D7uuFpac",
+    "title": "Buying the VIRAL Lululemon BBL jacket⏳🍋",
+    "score": 10
+  },
+  {
+    "id": "Awb7LPbBLHw",
+    "title": "i love it. does anyone know any dupes so i can get more for cheaper ??",
+    "score": 10
+  },
+  {
+    "id": "WMEL5eSLsJ0",
+    "title": "Lululemon is our FAV @lululemon #lululemon #momdaughter #scarlettandtiania",
+    "score": 10
+  },
+  {
+    "id": "H_h5lIQ6rH0",
+    "title": "Lulu tour? #lululemon #clothes #closet #athleticwear #tag #collection #ilovelululemon #fyp #viral",
+    "score": 10
+  },
+  {
+    "id": "0FEs3vC7J-0",
+    "title": "lululemon define jacket collection 💘 30 and counting! #lululemon #lulu #definejacket",
+    "score": 10
+  },
+  {
+    "id": "s1nXi5b7ZpY",
+    "title": "Popular clothes online vs. irl! #outfitideas #outfitinspo #outfitideas #lululemon #haul",
+    "score": 10
+  },
+  {
+    "id": "f9U0A4ZSfVo",
+    "title": "Testing Brands You Didn’t Know are Owned by CELEBRITES | Celebri-TEA",
+    "score": 10
+  },
+  {
+    "id": "Q7M1DeM_rgg",
+    "title": "What Luxury Brands Don’t Want You To Know | My Luxury Regret Purchases",
+    "score": 10
+  },
+  {
+    "id": "gvXk_MWnnOA",
+    "title": "The Fashion Brands You Have To Know For 2025",
+    "score": 10
+  },
+  {
+    "id": "Sh5QwENHypI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sO4te2QNsHY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KWoEO3qMSbQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MJfqfbFo5P8",
+    "title": "Magnum",
+    "score": 10
+  },
+  {
+    "id": "03gwK6cjnFA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y758FPghups",
+    "title": "Top 12 Underrated Fashion Brands You Need To Know About",
+    "score": 10
+  },
+  {
+    "id": "aLAEg67Mts0",
+    "title": "Navigating the Sea of Chinese Brands",
+    "score": 10
+  },
+  {
+    "id": "3kVu6SkODf8",
+    "title": "20 Luxury Brands You Only Know If You Are Rich",
+    "score": 10
+  },
+  {
+    "id": "lcdRuU69RPY",
+    "title": "50 Brands You NEED to Know \\u0026 NEVER Buy To Resell Online 🙅",
+    "score": 10
+  },
+  {
+    "id": "BTP7eaLNqKU",
+    "title": "15 Luxury Brands Only the Ultra-Rich Know Exists",
+    "score": 10
+  },
+  {
+    "id": "ijTQHSOUCkQ",
+    "title": "Buying EXPENSIVE Brands you didn't know were owned by Celebrities | Celebri-TEA",
+    "score": 10
+  },
+  {
+    "id": "adB70D7TriQ",
+    "title": "15 Major Brands You Didn’t Know Were FROM GERMANY! | Feli from Germany",
+    "score": 10
+  },
+  {
+    "id": "Skx-EUe_Ei4",
+    "title": "10 cool fashion brands to know: small, sustainable, independent ⋆˚꩜.ᐟ",
+    "score": 10
+  },
+  {
+    "id": "t7Lqhx9UPfs",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "N32lylASsQ0",
+    "title": "Fall Fashion 2025 🍂 | What Colors Will We Wear This Autumn?",
+    "score": 10
+  },
+  {
+    "id": "tXuCPhJ9sZM",
+    "title": "10 Fall Fashion Trends that are going to DOMINATE",
+    "score": 10
+  },
+  {
+    "id": "yU8xbNZsidM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "G9k1Sj0u20U",
+    "title": "Fall outfit inspo!! Which one is your favorite?🤎 #ootd #fall #clothing #style #fashion #school #fit",
+    "score": 10
+  },
+  {
+    "id": "IzdmfPnc-hU",
+    "title": "FallFashion Color Trends 50'sfashion #fallfashion #plussizefashion #fallcolors #bootseason #burgundy",
+    "score": 10
+  },
+  {
+    "id": "t4r8UAoPGKY",
+    "title": "Best Color Schemes for Fall 2025 🍂 | Chic \\u0026 Stylish Outfit Ideas for Autumn Looks",
+    "score": 10
+  },
+  {
+    "id": "L5b6Nynqd-g",
+    "title": "Fall Essentials - Part 2 #fallfashion #color #texture #silhouette #fashionstyle",
+    "score": 10
+  },
+  {
+    "id": "ktEm5OigcPg",
+    "title": "Top Fall Fashion Trends 2024-2025 | BROWN COLOR HIT FALL | Natural Fashion for Women 60+ 50+",
+    "score": 10
+  },
+  {
+    "id": "aY6RQ4YtrDw",
+    "title": "Texture is Key – Bringing Brown to Life",
+    "score": 10
+  },
+  {
+    "id": "FKiqO_J1YyM",
+    "title": "Pantone Fashion Colors Fall/Winter 2025/2026 🍂 | Chic Trends \\u0026 Outfit Inspiration | Casual Comfort",
+    "score": 10
+  },
+  {
+    "id": "uDi7rODbDGU",
+    "title": "Casual Fall Outfit Idea 🍂 | #falloutfits #fallfashion #mensclothing #menswear #mensfashion",
+    "score": 10
+  },
+  {
+    "id": "RSLTZB9WERU",
+    "title": "“Autumn Color Palette Outfits | Elegant Fall Fashion Styling”",
+    "score": 10
+  },
+  {
+    "id": "BGUtTSLAFN0",
+    "title": "Fall’s Hottest Color Combos You Need to Try Now! Fall Fashion",
+    "score": 10
+  },
+  {
+    "id": "u_dCn9dsA7U",
+    "title": "burgundy will forever be ✨that✨ color for fall #fashion #outfitinspo #falloutfitideas",
+    "score": 10
+  },
+  {
+    "id": "rKYF8V4Di3M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jijqNKxGyqo",
+    "title": "Will Compton \\u0026 Channing Crowder ARGUE Over All White vs All Black NFL Roster",
+    "score": 10
+  },
+  {
+    "id": "HotDJ2FhB84",
+    "title": "Ranking All 32 NFL Teams' White Out Uniforms!!",
+    "score": 10
+  },
+  {
+    "id": "cbUtLlpR51A",
+    "title": "NFL All Black Team vs All White Team: Who Wins? | Zaire Franklin CALLS OUT Will Compton for His Take",
+    "score": 10
+  },
+  {
+    "id": "aG94VpGhQLI",
+    "title": "Stephen White middle school drill team  2024-2025￼￼",
+    "score": 10
+  },
+  {
+    "id": "LOjkCC4SYtg",
+    "title": "Team White, Black or Brown? | Follow Me | YOSHO HAI MONTAGEM Dance Trend #trending #fyp",
+    "score": 10
+  },
+  {
+    "id": "cUyLB2yf8X8",
+    "title": "Which Team Wins? NFL's Best White Players vs NFL's Best Black Players",
+    "score": 10
+  },
+  {
+    "id": "asHaz1O9vYU",
+    "title": "Stephen White Knights Military Drill Team | 2024-2025",
+    "score": 10
+  },
+  {
+    "id": "pxj9mADntxs",
+    "title": "Beating Pokémon White With The Rarest Pokémon Team",
+    "score": 10
+  },
+  {
+    "id": "DkGU6FVIOPY",
+    "title": "MEET TEAM WHITE🥛🔥 #football #nfl #sports #madden #nflopa",
+    "score": 10
+  },
+  {
+    "id": "tcYc0Rg_Xc8",
+    "title": "Who would win: All-White or All-Black NFL Teams???",
+    "score": 10
+  },
+  {
+    "id": "yFSH6u_I56Y",
+    "title": "We Made The Best White NBA Teams EVER! 👀🏀",
+    "score": 10
+  },
+  {
+    "id": "nat48fEPjXU",
+    "title": "THESE TEAMS ARE LOADED WITH TALENT!! WHITE SOX SCOUT TEAM 17U VS. EXPOSURE NATIONAL | NPI",
+    "score": 10
+  },
+  {
+    "id": "ODOsao4s160",
+    "title": "House of the White Queen (Full Episode) | S18 EP7 | Time Team (Groby, Leicestershire)",
+    "score": 10
+  },
+  {
+    "id": "Etfc-Um0Re0",
+    "title": "Norman Castle",
+    "score": 10
+  },
+  {
+    "id": "1jGeitgwm2o",
+    "title": "SEAL TEAM - White Flag",
+    "score": 10
+  },
+  {
+    "id": "Ux_L1YCyWg4",
+    "title": "TEAM WHITE AAU 2023 TRYOUTS",
+    "score": 10
+  },
+  {
+    "id": "OoWra2SakYU",
+    "title": "House Of The White Queen (Full Episode) | S18 EP7 | Time Team (Groby, Leicestershire)",
+    "score": 10
+  },
+  {
+    "id": "jdFlEF4iTPw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VDQm-61gwi8",
+    "title": "3 ICED COFFEES That are Better than Starbucks | Delicious Dupes",
+    "score": 10
+  },
+  {
+    "id": "kKkwkWCeHAY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FVENtXoc1zs",
+    "title": "5 Must-Try Homemade Coffee Creamers (Pumpkin Spice, Apple Chai, \\u0026 More) | Allrecipes",
+    "score": 10
+  },
+  {
+    "id": "DcIzAB16FEI",
+    "title": "5 Coffee Creamers",
+    "score": 10
+  },
+  {
+    "id": "lVeNTofDB2k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JeXsKCySpGI",
+    "title": "Instant coffee",
+    "score": 10
+  },
+  {
+    "id": "LcSYKsdZCM8",
+    "title": "MY SIGNATURE AT HOME COFFEE RECIPES *easy + yummy!*",
+    "score": 10
+  },
+  {
+    "id": "Mvu0QoHD0VY",
+    "title": "Coffee 4 Ways (Cappuccino, Mocha, Chai Espresso, Cookie \\u0026 Cream)  Recipes By Food Fusion",
+    "score": 10
+  },
+  {
+    "id": "O2uSCdOZhAQ",
+    "title": "Coffee 4-ways",
+    "score": 10
+  },
+  {
+    "id": "vNBwT75fI4o",
+    "title": "Easy Honey Cinnamon Iced Coffee 🍯🤎 #coffeerecipe #coffeestation",
+    "score": 10
+  },
+  {
+    "id": "GzWelduNmoQ",
+    "title": "#starbucks #starbucksathome #coffeeathome #starbucksrecipe #coffeetime #coffeerecipe #coffeelover",
+    "score": 10
+  },
+  {
+    "id": "EUjfb_DWCiA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rxoOX8S-U94",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "Use THESE LinkedIn filters to help your job search 🔎",
+    "score": 10
+  },
+  {
+    "id": "HZU9DVkWNW4",
+    "title": "Filter with Search - MIcrosoft Excel Tip",
+    "score": 10
+  },
+  {
+    "id": "BtiVbY7lhqw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "yRZVEWkYsac",
+    "title": "Episode #219 - Using the Search Filters Web Part of PnP Modern Search",
+    "score": 10
+  },
+  {
+    "id": "2KMT7odTu3o",
+    "title": "DECKS GALORE",
+    "score": 10
+  },
+  {
+    "id": "bG4r3Qf5tZI",
+    "title": "Timber Decks by Gazebos Galore",
+    "score": 10
+  },
+  {
+    "id": "q-iq2rmg7TA",
+    "title": "Decks Galore",
+    "score": 10
+  },
+  {
+    "id": "GXeye7fPgmA",
+    "title": "Deck the halls with lights galore!",
+    "score": 10
+  },
+  {
+    "id": "ynhmIX--rFw",
+    "title": "SPOILERS GALORE! Have you missed any of the COTS information?",
+    "score": 10
+  },
+  {
+    "id": "T1BnWxpcynI",
+    "title": "Deck the Halls: Classic Christmas Playlist 🌟 Songs Galore",
+    "score": 10
+  },
+  {
+    "id": "FaFO5sdP8kc",
+    "title": "Powers Pleasant - Galore (Visualizer) ft. DC The Don",
+    "score": 10
+  },
+  {
+    "id": "_RRumb8GxCQ",
+    "title": "Curved AZEK Deck with Features Galore",
+    "score": 10
+  },
+  {
+    "id": "lJ-hEnDlITs",
+    "title": "Deck guns galore at Surface Navy conference",
+    "score": 10
+  },
+  {
+    "id": "IQK5VwCgN_o",
+    "title": "Decks Galore!",
+    "score": 10
+  },
+  {
+    "id": "ipOvpxsOji0",
+    "title": "Deck Details Galore! #composite #compositedeck  #woodlanddeckcompany #backyard #construction #decks",
+    "score": 10
+  },
+  {
+    "id": "DhFEqYkhnm8",
+    "title": "On Deck #8: Matt Thompson + Prospect Talk Galore",
+    "score": 10
+  },
+  {
+    "id": "HQntNcrY1Ik",
+    "title": "MLB/MiLB news",
+    "score": 10
+  },
+  {
+    "id": "OortiZu_STI",
+    "title": "Plants vs. Zombies Heroes Strategy Decks: Spores Galore",
+    "score": 10
+  },
+  {
+    "id": "TMyb8dvQfcU",
+    "title": "030j. Rulebook print Galore! Deck of Wonders (5/7)",
+    "score": 10
+  },
+  {
+    "id": "c8mMyS7bNcQ",
+    "title": "I Spent 4 Years Making A Game About Grappling Hooks",
+    "score": 10
+  },
+  {
+    "id": "GAjFd69Qni8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TExtXoHQUPE",
+    "title": "Link in bio to shop! #streetwear #fashion #style #y2k",
+    "score": 10
+  },
+  {
+    "id": "V7RmIaUuax4",
+    "title": "Streetwear Shopping vs Thrifting",
+    "score": 10
+  },
+  {
+    "id": "2o-DE5Vx9zg",
+    "title": "Inside Atlanta's Underground Streetwear Scene",
+    "score": 10
+  },
+  {
+    "id": "W2Kb7pnkChU",
+    "title": "TOP 5 CLOTHING BRANDS #streetwear #clothingbrand",
+    "score": 10
+  },
+  {
+    "id": "0MuBt2RgMHM",
+    "title": "Link in bio to shop the best Streetwear outfits! #streetwear #fashion #style #y2k",
+    "score": 10
+  },
+  {
+    "id": "U48zDBCba_k",
+    "title": "Anyone else? Link in bio to shop the best baggy jeans! #streetwear #fashion #style #y2k",
+    "score": 10
+  },
+  {
+    "id": "k8R8d0xWskk",
+    "title": "Dream style 😍 LINK IN BIO TO SHOP STREETWEAR!  #fashion #style #y2k #clothes",
+    "score": 10
+  },
+  {
+    "id": "vSUUpewvZ8Q",
+    "title": "all of the above ✅  #aelfriceden#streetwear#streetwearstyle #outfitinspo #stylinginspo",
+    "score": 10
+  },
+  {
+    "id": "88ip1KZnVpU",
+    "title": "Underground streetwear brands you’ll want on your radar for 2025 🧢🔥#streetwear #streetwearbrands",
+    "score": 10
+  },
+  {
+    "id": "wUgGSUwYlN8",
+    "title": "Y2k clothing #y2k #fashion #baroque #fashiontrends #edit #y2kfashion #outfitinspo #streetwear",
+    "score": 10
+  },
+  {
+    "id": "TB2VSOYzrHQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Xmmiy7KGQhQ",
+    "title": "How was Carl The NPC made??? (NPC Skit | 600K Subscribers Special)",
+    "score": 10
+  },
+  {
+    "id": "WoXVKF-Hc1g",
+    "title": "I Lost Myself In My Marriage. Then I Made One Decision That Changed Everything.",
+    "score": 10
+  },
+  {
+    "id": "fe1HCAz4rzY",
+    "title": "The Question That Broke Us Open",
+    "score": 10
+  },
+  {
+    "id": "TaNVeIZO5ZI",
+    "title": "Total Re-Carl - short",
+    "score": 10
+  },
+  {
+    "id": "xsWDy-PyTZ0",
+    "title": "The Beach Boys (Carl And The Passions) - Made in USA (Vinyl Bootleg Rip)",
+    "score": 10
+  },
+  {
+    "id": "iHYsRf625ck",
+    "title": "HOW I MET CARL THE NPC! (NPC Skit | 750K Subscribers Special)",
+    "score": 10
+  },
+  {
+    "id": "i8wee7d5Syw",
+    "title": "The Rare Empaths Are Born, Not Made — Carl Jung’s Hidden Truth | Carl Jung",
+    "score": 10
+  },
+  {
+    "id": "mANprwdBJH4",
+    "title": "Introduction: The Ancient Soul Who Remembers",
+    "score": 10
+  },
+  {
+    "id": "R90Q-7brQog",
+    "title": "God Made Carl | 2019 LCMS Youth Gathering",
+    "score": 10
+  },
+  {
+    "id": "PRo8T2JuHwc",
+    "title": "Carl made me a level! - Barb's Nice Hole by Carl Sagan",
+    "score": 10
+  },
+  {
+    "id": "7-1vZw-7StY",
+    "title": "Aqua Teen Hunger Force - Best of Carl (Season 2)",
+    "score": 10
+  },
+  {
+    "id": "ws-mIbaSWtg",
+    "title": "Carl Warner's Landscapes Made of Foodstuffs | euromaxx",
+    "score": 10
+  },
+  {
+    "id": "5LxCICsV7Lk",
+    "title": "Carl Cox - Mayan Warrior - Burning Man 2024",
+    "score": 10
+  },
+  {
+    "id": "BtEka3j8lKM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "k5b7J7MDT3U",
+    "title": "Intro: Regular Guy Explains Real Wealth",
+    "score": 10
+  },
+  {
+    "id": "d69FuB7CgXc",
+    "title": "\\\"If You Want to Get Rich, Stop Thinking Like a Poor Person\\\"",
+    "score": 10
+  },
+  {
+    "id": "PTgGfV8Tf00",
+    "title": "\\\"It's So F#@cking Easy to Get Rich\\\"",
+    "score": 10
+  },
+  {
+    "id": "3RP6GyCtOAA",
+    "title": "RICH VS POOR MINDSET | An Eye Opening Interview with Robert Kiyosaki",
+    "score": 10
+  },
+  {
+    "id": "epqr2LszCUk",
+    "title": "\\\"I Got Rich When I Understood This\\\" | Jeff Bezos",
+    "score": 10
+  },
+  {
+    "id": "7TWKKww-F30",
+    "title": "The Money Expert: #1 Formula to Get RICH Off Your Normal Salary (It’s EASY!)",
+    "score": 10
+  },
+  {
+    "id": "tE6CwaBxuN4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EuGqLKzB2QU",
+    "title": "Is Getting Rich Luck or Hard Work? | Millionaires vs. Middle Class Debate",
+    "score": 10
+  },
+  {
+    "id": "jZmCrME7rnk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qRwc--ghutc",
+    "title": "Rich The Kid - Work For It (Rich Than Famous)",
+    "score": 10
+  },
+  {
+    "id": "CXMbpB5QovM",
+    "title": "You Only Need 180 Days To Become Rich | Robert Kiyosaki",
+    "score": 10
+  },
+  {
+    "id": "71hC3slCMCk",
+    "title": "\\\"I AM WEALTHY\\\" Money Affirmations For Success, Health \\u0026 Wealth - Listen To This Every Night!",
+    "score": 10
+  },
+  {
+    "id": "oz429vCfRS8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-CmadmM5cOk",
+    "title": "Taylor Swift - Style",
+    "score": 10
+  },
+  {
+    "id": "F5dz_zuqETw",
+    "title": "Taylor Swift - Style",
+    "score": 10
+  },
+  {
+    "id": "XAVLUYDtCCw",
+    "title": "Style Songs | Style Styley Video Song | Raghava Lawrence, Navanith Kaur | Sri Balaji Video",
+    "score": 10
+  },
+  {
+    "id": "p7Dwhk6W3eA",
+    "title": "PSY - GANGNAM STYLE(강남스타일) M/V",
+    "score": 10
+  },
+  {
+    "id": "9bZkp7q19f0",
+    "title": "Style-u Style-u Dhaan BASS BOOSTED | Baasha | Superstar Rajnikanth, Deva",
+    "score": 10
+  },
+  {
+    "id": "-G5sNFRdtC0",
+    "title": "Paul McCartney - Style Style",
+    "score": 10
+  },
+  {
+    "id": "8wT9RXOS3Sg",
+    "title": "Taylor Swift - Style (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "WPB3sDqEHlM",
+    "title": "Style Video Songs | Style Style Video Song | Raghava Lawrence, Prabhu Deva | Sri Balaji Video",
+    "score": 10
+  },
+  {
+    "id": "8xrMXTT2M0k",
+    "title": "Rajinikanth Superhit Songs | Style Style Raa Full Video Song 4K | Basha Telugu Movie Video Songs",
+    "score": 10
+  },
+  {
+    "id": "MbmpbgWpVNk",
+    "title": "Hearts2Hearts 하츠투하츠 'STYLE' MV",
+    "score": 10
+  },
+  {
+    "id": "n7kFRxFIPrI",
+    "title": "FAMOUS WEDDING SHOW (FULL) 2022 - Quick Style",
+    "score": 10
+  },
+  {
+    "id": "ardtvdR28SQ",
+    "title": "BIZARRE TWIST: 1 MOBILE PHONE, SEVERAL INDIVIDUALS \\u0026 ALLEGATIONS OF POLICE MISCONDUCT",
+    "score": 10
+  },
+  {
+    "id": "lAn2X980sNc",
+    "title": "Dynamite fishing at tizü river#myanmar site#fishingvideo ",
+    "score": 10
+  },
+  {
+    "id": "IGHiJzCJuJs",
+    "title": "The Absurd Case of Thinking Machines",
+    "score": 10
+  },
+  {
+    "id": "kj-SOMwDNhA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FGBwQeD2FpY",
+    "title": "Pizza Style For BreakFast Recipe ",
+    "score": 10
+  },
+  {
+    "id": "ceQErAEpeFw",
+    "title": "UN사, 이재명 반국가활동 제동걸었다",
+    "score": 10
+  },
+  {
+    "id": "I74v_resgIA",
+    "title": "PP Stars Inc. S2 Ep.59 - PGT winner Joven Olvido!! 😎",
+    "score": 10
+  },
+  {
+    "id": "wAfdydta4d4",
+    "title": "레전드 믹서기 씬부터 흑백2 비하인드까지 싹 다 풀고 간 정호영\\u0026샘킴ㅣ#라디오스타 #정호영 #샘킴 MBC260128방송",
+    "score": 10
+  },
+  {
+    "id": "OOcheIFSVpE",
+    "title": "Style (स्टाइल) - शेर्मन जोशी और साहिल खान की हसीं से लोटपोट कर देने वाली सुपरहिट कॉमेडी मूवी",
+    "score": 10
+  },
+  {
+    "id": "zcKAfX2BhJ8",
+    "title": "[Teenieping X Hearts2Hearts] 'STYLE’ MV @hearts2hearts.official",
+    "score": 10
+  },
+  {
+    "id": "PDMQi2lbKrQ",
+    "title": "Harry Styles - Aperture (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "4AQXqZwr94M",
+    "title": "Must-Have Fashion Trends for 2026: What’s In \\u0026 What’s Out? | Lorraine",
+    "score": 10
+  },
+  {
+    "id": "W_l-omWQssQ",
+    "title": "10 Style Accessories Every Man Needs In 2026",
+    "score": 10
+  },
+  {
+    "id": "BEyCi-UREj8",
+    "title": "Style",
+    "score": 10
+  },
+  {
+    "id": "bAqzA6K8pvI",
+    "title": "Style - Sivaji:The Boss Video Song HD  | Rajinikanth | Shriya | Shankar | AR Rahman | Pa. Vijay",
+    "score": 10
+  },
+  {
+    "id": "ESAXsMYMMa8",
+    "title": "Taylor Swift - Style (Taylor's Version) (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "2JgvVfOfoWI",
+    "title": "Style Telugu Full Movie | Lawrence, Prabhu Deva, Charmme | Sri Balaji Video",
+    "score": 10
+  },
+  {
+    "id": "W0Gcbo4_CRQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WMLXd0aerB0",
+    "title": "Iron Heart Heavyweight Flannels | UHF vs SHF | What's The Difference?",
+    "score": 10
+  },
+  {
+    "id": "ljYgDBq6YXE",
+    "title": "Iron Heart Ultra Heavy Flannel 4 year later",
+    "score": 10
+  },
+  {
+    "id": "iyD01mO8-AM",
+    "title": "Why Iron Heart is Worth Every Cent, With @Upstatestyleguy",
+    "score": 10
+  },
+  {
+    "id": "uWPmzNT6N68",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "V3A1F1p2Y5c",
+    "title": "Sizing",
+    "score": 10
+  },
+  {
+    "id": "pfHaAFtNZQ0",
+    "title": "The battle of the Ultra Heavy Flannels Iron Heart  vs UES Clothing",
+    "score": 10
+  },
+  {
+    "id": "1pcDj2QQxGc",
+    "title": "$35 vs $360 Flannel: What's the Difference? Featuring Iron Heart, Filson, and Goodfellow | 555 Gear",
+    "score": 10
+  },
+  {
+    "id": "osb7aCauWhk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aEA3czaQ-ac",
+    "title": "The BEST Flannel Shirts for Men 2025 | Thursday vs Flint \\u0026 Tinder vs Poncho vs Warren vs Westhofen",
+    "score": 10
+  },
+  {
+    "id": "VeLtu-IJkls",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UMzhk8ZmVGE",
+    "title": "Westhoven Works Flannel Shirts",
+    "score": 10
+  },
+  {
+    "id": "FLVkLtT5oK4",
+    "title": "Intro/Disclaimer",
+    "score": 10
+  },
+  {
+    "id": "pAvNL_S2Jc8",
+    "title": "Sizing",
+    "score": 10
+  },
+  {
+    "id": "zRI_X-Y70Uw",
+    "title": "The Best Flannels for you to Look at in 2025",
+    "score": 10
+  },
+  {
+    "id": "cY8gFToJZ2k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "u5Ci7QHHRLA",
+    "title": "A Very Very Good Hiking Boot",
+    "score": 10
+  },
+  {
+    "id": "CuIf1hq_Bac",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YL51Tpu4VpQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZV-XcchjUGs",
+    "title": "Japanese Shirt Flannels Comparative: Iron Heart, Momotaro and The Flat Head",
+    "score": 10
+  },
+  {
+    "id": "K1YKTt_4-f4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mBcZ-AXOtFE",
+    "title": "Why UES Flannels Are the Ultimate All-Rounder",
+    "score": 10
+  },
+  {
+    "id": "5eER57KGByI",
+    "title": "The Fantastic Flannels Episode! Some of Jimmy \\u0026 Paul's best shirts!",
+    "score": 10
+  },
+  {
+    "id": "pvPV2LnpPac",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,3512 @@
-[]
+[
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "מדריך Microsoft Excel למתחילים - קורס מלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "קורס אקסל למתחילים - שיעור 2 - שינוי שפת התצוגה באקסל -",
+    "score": 110
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "לימוד אקסל שיעור 67 - טבלת ציר אקסל פיבוט PIVOT TABLE",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "VLOOKUP - לימוד אקסל- שיעור 5 - נוסחת / פונקציית VLOOKUP ,הצלבת נתונים בין שתי טבלאות",
+    "score": 110
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "קורס אקסל למתחילים - שיעור 20 - פונקציות נפוצות - COUNT, AVERAGE, MAX, MIN",
+    "score": 110
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 5 - התקופה הצלבנית בארץ ישראל",
+    "score": 110
+  },
+  {
+    "id": "IaYMdz6AG9Q",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "BX_RXZBP4Tg",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 28 - האימפריה הבריטית",
+    "score": 110
+  },
+  {
+    "id": "5FQnW2bW10E",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "Ujcj8inqkOs",
+    "title": "דניאל ג'ינו- הרצאה- היסטוריה של ארץ ישראל-בר גלים 2015 Daniel Gino",
+    "score": 110
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "-0bcD3s7C78",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "-I9m5RhmdMM",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "dL8VLQIXzTk",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "צילום טבע, עמוס נחום, זומינג סלבין קורן.",
+    "score": 60
+  },
+  {
+    "id": "oqptkCR5CB8",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "עיקרון פעולת מנוע   4 פעימות",
+    "score": 60
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "מנוע הקיטור של ג'יימס ואט",
+    "score": 60
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "kftw5wAeWEU",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "שלוש דקות על... עקרונות הפעולה של מנוע חשמלי - 4K",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "כיצד נוצרה ישראל",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "האם אנחנו בדרך לפיצול בין יהודה לישראל? פודקאסט עם נתנאל אלינסון | ארץ ושמיים פרק 46",
+    "score": 60
+  },
+  {
+    "id": "0ruDojceKwQ",
+    "title": "עמיחי מזר עושה סדר בארכיאולוגיה והיסטוריה של בני ישראל",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "פלאי ישראל – היכן שההיסטוריה נחצבה באבן | אטרקציות מובילות ואבני חן נסתרות | סרטוני טיולים 4K",
+    "score": 60
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "הפודקאסט 'תולדות הישראליות', פרק 1- עם נולד בגלות",
+    "score": 60
+  },
+  {
+    "id": "2U8a_4onC4s",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "xm673bpIdOA",
+    "title": "האינטרס של ארצות הברית בישראל",
+    "score": 60
+  },
+  {
+    "id": "CAqbBoZg4eo",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "yWx28qV44W0",
+    "title": "10 Kansas Criminals So Disturbing They Shook the Entire State | True Crime Documentary",
+    "score": 50
+  },
+  {
+    "id": "PmnrMVw9ooE",
+    "title": "History To Sleep To: Ancient Civilizations",
+    "score": 50
+  },
+  {
+    "id": "zrq0wMoggI8",
+    "title": "Ancient LOST History Mysteries Science Can’t Explain",
+    "score": 50
+  },
+  {
+    "id": "EC38TZNXxAY",
+    "title": "The ENTIRE History of Human Civilizations | Ancient to Modern (4K Documentary) [Full Movie]",
+    "score": 50
+  },
+  {
+    "id": "ha1NneZGm7A",
+    "title": "3+ Hours Of Medieval Military History",
+    "score": 50
+  },
+  {
+    "id": "CsqG-5hqkmE",
+    "title": "Who Was the True Pillar of China’s War Against Japan? The Hidden Truth Behind CCP History #CCP",
+    "score": 50
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Lesson 1: Spanish Pronunciation \\u0026 Basic Translation",
+    "score": 50
+  },
+  {
+    "id": "8Ozf-mSpMFk",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "6nbh48WchyA",
+    "title": "Learn Spanish in 4 Hours - ALL the Spanish Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish While you Sleep MUST KNOW PHRASES",
+    "score": 50
+  },
+  {
+    "id": "vyrXC5JDGTc",
+    "title": "LEARN SPANISH with Simple Story for beginners – Ser feliz",
+    "score": 50
+  },
+  {
+    "id": "245RCAuFACg",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "UxE3n6beo0k",
+    "title": "IF YOU WANT TO LEARN SPANISH WATCH THIS FIRST!! Must know, basic conversational vocabulary. || SAH",
+    "score": 50
+  },
+  {
+    "id": "61ExOy36b_g",
+    "title": "️ The Skyline: The Tallest Building in Mahane Yehuda",
+    "score": 50
+  },
+  {
+    "id": "J1D4sCcFv_4",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "50elEqbnM8w",
+    "title": "The Dark History of Israel in the Bible",
+    "score": 50
+  },
+  {
+    "id": "VeExuMPn-6g",
+    "title": "THIS Is Why I Teach Homeowners How to Renovate!",
+    "score": 50
+  },
+  {
+    "id": "4PObD8EdmEU",
+    "title": "Top 10 Best Things to do in Kansas - Travel Guide 2025",
+    "score": 50
+  },
+  {
+    "id": "SUhlirCpKVM",
+    "title": "Sound Smart: Bleeding Kansas | History",
+    "score": 50
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "How to Start Your First Garden (COMPLETE GUIDE)",
+    "score": 50
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "84wpH1UjpPY",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "xTr39yYKFu0",
+    "title": "MegaStructures - Icelandic Super Dam (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "qfdCfGML2hg",
+    "title": "Free Documentary Of Mega Construction Projects. 50+Construction Technology \\u0026 Heavy Equipment At Work",
+    "score": 50
+  },
+  {
+    "id": "iDSin6GLWEY",
+    "title": "Intro \\u0026 Case Review",
+    "score": 50
+  },
+  {
+    "id": "JT8LAFe4OwE",
+    "title": "Teen Posted Sympathy-Seeking Videos After Enigmatic Murder of Parents | Sarah Patrick Case Analysis",
+    "score": 50
+  },
+  {
+    "id": "Hy6XsXseDfM",
+    "title": "Lethal Hide and Seek? | Sarah Boone Case Analysis",
+    "score": 50
+  },
+  {
+    "id": "2_cxG_G-gfQ",
+    "title": "How To Bold Text In WhatsApp?",
+    "score": 50
+  },
+  {
+    "id": "c_KSwRUt9t8",
+    "title": "How To Bold Text In Microsoft Word",
+    "score": 50
+  },
+  {
+    "id": "jWTbytJop7E",
+    "title": "How to enable or disable bold text on iPhone",
+    "score": 50
+  },
+  {
+    "id": "iiIZjMEFsH4",
+    "title": "Photoshop how to make text bold #photoshop #photoshoptutorial #graphicdesign",
+    "score": 50
+  },
+  {
+    "id": "RW9dmUjll1w",
+    "title": "How to BOLD Text in Adobe InDesign (Step by Step)",
+    "score": 50
+  },
+  {
+    "id": "Ypwy6oV9kKU",
+    "title": "How to make text bold in Microsoft word",
+    "score": 50
+  },
+  {
+    "id": "SBuF-YseWjc",
+    "title": "The BEST way to make BOLD text in Inkscape",
+    "score": 50
+  },
+  {
+    "id": "HaFV_saRLrk",
+    "title": "How To Format Text on LinkedIn using Bold, Italics, Underline, Emojis and Unicode Symbols 😀",
+    "score": 50
+  },
+  {
+    "id": "cgIK6s5w8v4",
+    "title": "How to Bold Text in Elementor [2026 Full Guide]",
+    "score": 50
+  },
+  {
+    "id": "Yh75F1GduNM",
+    "title": "How to Bold Text in Facebook Post",
+    "score": 50
+  },
+  {
+    "id": "kK6TzA6g92Y",
+    "title": "How to Bold Text in Photoshop",
+    "score": 50
+  },
+  {
+    "id": "G0fukG6gtjI",
+    "title": "How To Bold Text On A Facebook Post? [in 2025]",
+    "score": 50
+  },
+  {
+    "id": "aSp3u-jiu_E",
+    "title": "Protest Against The Study Group",
+    "score": 50
+  },
+  {
+    "id": "eXZ4him7KQw",
+    "title": "How to Make a DQ Blizzard",
+    "score": 50
+  },
+  {
+    "id": "duv_YMfsmu0",
+    "title": "Intense Freezing Blizzard at the Lake┇Howling Wind┇Nature Sounds for Sleep, Study \\u0026 Relaxation",
+    "score": 50
+  },
+  {
+    "id": "9E68mpCP_KQ",
+    "title": "How to make a Choc. Extreme Blizzard (:",
+    "score": 50
+  },
+  {
+    "id": "5aZE4g8qH2c",
+    "title": "How to Make a Dairy Queen Blizzard (TUTORIAL)",
+    "score": 50
+  },
+  {
+    "id": "2LWUhGtuXCQ",
+    "title": "100 Oddly Interesting Facts That Will Make You Wonder",
+    "score": 50
+  },
+  {
+    "id": "0EhOY7hy9L4",
+    "title": "Facts That Will Make You Say 'I Had No Idea!'",
+    "score": 50
+  },
+  {
+    "id": "woorTEPbmmE",
+    "title": "Documentary examines life and death of Kansas City's Leon Jordan",
+    "score": 50
+  },
+  {
+    "id": "jEwJl3RJMkM",
+    "title": "25 Most Wonderful  Small Towns To Visit In Europe 2025 | Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "uacxPmj2PlA",
+    "title": "Most Amazing Towns and Small Cities To Visit in Italy | 4K Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "HQrA-T-yMx8",
+    "title": "15 Most Beautiful Small Towns To Visit In Germany | Germany Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "8sMHKKf-2Ow",
+    "title": "ISTANBUL 🇹🇷 World's Most Visited City | Istanbul Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "b-3xUkz_MkA",
+    "title": "History of African-Americans",
+    "score": 50
+  },
+  {
+    "id": "sf_pL5noeA0",
+    "title": "The Big Mistake Buyers Make",
+    "score": 50
+  },
+  {
+    "id": "l7_wb-uT1T8",
+    "title": "The history of Greenwood Township, St  Clair County, Michigan",
+    "score": 50
+  },
+  {
+    "id": "3juG101fdig",
+    "title": "GreenWood Mobile Banking App Review 2025 | Pros and Cons – Honest \\u0026 Unbiased",
+    "score": 50
+  },
+  {
+    "id": "mEIPnhClD4c",
+    "title": "Book Review: Greenwood by Michael Christie (No Spoilers)",
+    "score": 50
+  },
+  {
+    "id": "uRSvnePqMvg",
+    "title": "Perfect Fade in 4 Minutes | How to Cut Men's Hair | Best Tutorial | Tip #2",
+    "score": 50
+  },
+  {
+    "id": "F4neLJQC1_E",
+    "title": "BARBER TUTORIAL: AFRO TAPER | EASY FOR BEGINNERS!",
+    "score": 50
+  },
+  {
+    "id": "ia1HN5POGdc",
+    "title": "HOW TO FADE 💈",
+    "score": 50
+  },
+  {
+    "id": "x1HvInoEMNk",
+    "title": "FRESH \\u0026 EASY Boys/Kids Fade Haircut Tutorial",
+    "score": 50
+  },
+  {
+    "id": "MCNrOdqw2w4",
+    "title": "2nd Guideline",
+    "score": 50
+  },
+  {
+    "id": "n168teJtMIw",
+    "title": "18,000 Missing — BREAKING: A massive earthquake shakes Japan, causing buildings to collapse.",
+    "score": 50
+  },
+  {
+    "id": "D1PErZsjqbE",
+    "title": "'PLAYING WITH FIRE': Trump hits back at Minn. leaders ahead of 'largest protest in American history'",
+    "score": 50
+  },
+  {
+    "id": "6zt2MMVUl_8",
+    "title": "The history of Horton, Kansas",
+    "score": 50
+  },
+  {
+    "id": "3qlhjtg1h8k",
+    "title": "Healing a Divided City:  Kansas City's Bold Experiments",
+    "score": 50
+  },
+  {
+    "id": "JFdaoZV2KQk",
+    "title": "Top 10 Best Things to do in Kansas - Travel Guide 2025",
+    "score": 50
+  },
+  {
+    "id": "RPU8stqbfQE",
+    "title": "Kansas for Kids | US States Learning Video",
+    "score": 50
+  },
+  {
+    "id": "7yrI1ija9oU",
+    "title": "Top 10 Best Things to do in Kansas - Travel Guide 2025",
+    "score": 50
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4svmQ7q2JYE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "Calm Your Mind With Beautiful Relaxing Music \\u0026 Beautiful Nature for Insomnia Relief and Meditation",
+    "score": 10
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "tQ9gPQAk8xY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How is a car engine assembled",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "POR QUE ALGUNS CAMINHÕES TEM RODAS DUPLAS?",
+    "score": 10
+  },
+  {
+    "id": "Xhy7dvNOeP4",
+    "title": "How does an Electric Motor work?  (DC Motor)",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "nEyL6eMK5cQ",
+    "title": "Manual Transmission, How it works?",
+    "score": 10
+  },
+  {
+    "id": "wCu9W9xNwtI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "How a Steam Engine works",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "_fAiVeIH9sU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "J8lju2oC9xE",
+    "title": "Ancient Civilizations of the World: Drain the Oceans | MEGA EPISODE | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "Dpu3XoY3wQw",
+    "title": "The Patterns That Link Every Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "YfJZrk-7c7k",
+    "title": "100 Unexplained Archaeological Mysteries That Ancient Civilizations Left Behind",
+    "score": 10
+  },
+  {
+    "id": "TuCk4NDsihE",
+    "title": "Why So Many Ancient Civilizations Collapsed At The Same Time",
+    "score": 10
+  },
+  {
+    "id": "1l8YQuyjWks",
+    "title": "The Race That Came Before - Ancient Civilizations Part 2",
+    "score": 10
+  },
+  {
+    "id": "Z-66Za87r-c",
+    "title": "Origins of a Suppressed Human Story",
+    "score": 10
+  },
+  {
+    "id": "40nBEj4eqAs",
+    "title": "13. The Assyrians - Empire of Iron",
+    "score": 10
+  },
+  {
+    "id": "jpAphcaVJIs",
+    "title": "DNA, Temples and Stargates - Humanity’s Real Blueprint - Ancient Civilizations Part 1",
+    "score": 10
+  },
+  {
+    "id": "A6r75qb8Bmg",
+    "title": "Hidden Origins of Humanity",
+    "score": 10
+  },
+  {
+    "id": "FgSkjhQ-fCs",
+    "title": "The 1 Thing That All Ancient Civilizations Built EXACTLY the Same.. | Matt LaCroix",
+    "score": 10
+  },
+  {
+    "id": "ANM-YmK4rMI",
+    "title": "Lake Huron Discovery Reveals Underwater Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "ArW8QtN01lY",
+    "title": "Ancient Earth (2026) The Forbidden Truth About Earth’s Lost Civilizations",
+    "score": 10
+  },
+  {
+    "id": "wGMrdv76EH8",
+    "title": "The Hidden Blueprint Connecting Every Ancient Civilization",
+    "score": 10
+  },
+  {
+    "id": "JGosCphlH0I",
+    "title": "3+ Hours Of Lost Civilizations And Ancient Megapolis Facts",
+    "score": 10
+  },
+  {
+    "id": "E2EZvyFup_E",
+    "title": "We Are the 7th Civilization | Sumerian Records Show 6 Advanced Societies Before Ours",
+    "score": 10
+  },
+  {
+    "id": "gw5-unEikkg",
+    "title": "Ancient Megalithic Structures Built BEFORE The Great Flood",
+    "score": 10
+  },
+  {
+    "id": "k2nGE70cvCg",
+    "title": "The Pattern Every Ancient Civilization Copied",
+    "score": 10
+  },
+  {
+    "id": "CGP1Q25z46E",
+    "title": "Ancient Civilization Researcher Discovers the True Origin of Human Life | Matt LaCroix",
+    "score": 10
+  },
+  {
+    "id": "SSpaxhbepOE",
+    "title": "Ancient Clues Suggest We’re Not the First Great Civilization…",
+    "score": 10
+  },
+  {
+    "id": "9oOGQ5GfuqI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "100 Phrases Every Spanish Beginner Should Know, EXPLAINED",
+    "score": 10
+  },
+  {
+    "id": "xglEjH0Ue8o",
+    "title": "LOCATION",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "The REAL Jerusalem 🇮🇱 – What Tourists NEVER See on the News [4K]",
+    "score": 10
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "csiHL_VYCXw",
+    "title": "Interesting facts about Kansas!",
+    "score": 10
+  },
+  {
+    "id": "aDPID-MBPW4",
+    "title": "Welcome to KANSAS - Educational Facts For Kids about \"},{\"text\":\"#Kansas\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMQCENbKAxgJIhMIjZfgyM2wkgMVmLBlAx0A6A1eygEE88_u-w==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/kansas\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUMCgZrYW5zYXMQARgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CMQCENbKAxgJIhMIjZfgyM2wkgMVmLBlAx0A6A1e\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"21,935 views\"},\"shortViewCount\":{\"simpleText\":\"21K views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "GvVIkFbxsVY",
+    "title": "In this video",
+    "score": 10
+  },
+  {
+    "id": "VIba18ctXwY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "spjVZLwvVt8",
+    "title": "1. Kool-Aid Toilet Hack",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wLvkY27PKNg",
+    "title": "Funny DIY Fails | DIY Projects Gone Wrong (Home Improvement Fails) Part 3",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "20 Simple and Cheap Home Improvements Ideas",
+    "score": 10
+  },
+  {
+    "id": "qLflnnHmbh8",
+    "title": "Motion Sensor Light Bulbs",
+    "score": 10
+  },
+  {
+    "id": "zBNSM5BqMqs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2ugw9-g3Tgs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hfMJTcvzW3Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yzoBu5gTi8A",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "oWww0YIf-JE",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "wKUzjton2TM",
+    "title": "Top 10 Free Vegetable Gardening Hacks",
+    "score": 10
+  },
+  {
+    "id": "zG0tNSj5B_4",
+    "title": "Toilet paper/paper towel tubes",
+    "score": 10
+  },
+  {
+    "id": "AOydS3dJHCo",
+    "title": "35 Amish Vegetable Gardening Hacks You'll Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "YTY0NUKS78U",
+    "title": "1/8 Acre Abundance: FULL TOUR + BEST TIPS for Growing",
+    "score": 10
+  },
+  {
+    "id": "Yzdabta1nAA",
+    "title": "Gardening for Beginners Series:  Gardening Basics for Beginners",
+    "score": 10
+  },
+  {
+    "id": "BO8yuSTc3fo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BZiBXl5l_xc",
+    "title": "Garden Center Shopping Like a Pro! 🌿 Expert Tips to Pick the Best Plants \\u0026 Shrubs",
+    "score": 10
+  },
+  {
+    "id": "oW_dQDsYaOc",
+    "title": "5 Gardening Tips That Actually Work",
+    "score": 10
+  },
+  {
+    "id": "kueifr5Ve8Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fwb6UDdpGEo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b3E38LJeDZ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3vOJ7FrCPdU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "X3SP1Fub3bw",
+    "title": "5 Watering Mistakes You're Probably Making",
+    "score": 10
+  },
+  {
+    "id": "VaTkzYv8sMo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_Ls0YV5JeUc",
+    "title": "7 Beginner Raised Bed Garden Mistakes to Avoid",
+    "score": 10
+  },
+  {
+    "id": "iFOGDQ0o3rc",
+    "title": "How long should a raised bed be",
+    "score": 10
+  },
+  {
+    "id": "0jRj8yKpkhw",
+    "title": "From Junk to Joy: 25 Garden Ideas You’ve Never Thought Of!",
+    "score": 10
+  },
+  {
+    "id": "DBKqiac8zng",
+    "title": "Tips to increase pumpkin yields #smartfarming #organicfarming #gardeningtips",
+    "score": 10
+  },
+  {
+    "id": "98_2H9nJSV4",
+    "title": "10 Biggest Time-Saving Gardening Hacks | Great Home Ideas",
+    "score": 10
+  },
+  {
+    "id": "qBdSnkOoQvU",
+    "title": "Sustainable Garden Ideas",
+    "score": 10
+  },
+  {
+    "id": "ocBwtktnNo4",
+    "title": "10 Little Known Fun Facts About Kansas",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "The most unbelievable megaprojects in the world",
+    "score": 10
+  },
+  {
+    "id": "MBqF8EkxZcs",
+    "title": "Mahman Dam construction \\u0026 tunnel system",
+    "score": 10
+  },
+  {
+    "id": "rQWVXHf2xAk",
+    "title": "Wonders of Kansas | The Hidden Places No One Talks About! | Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "Starship Flight 5 - Cinematic Experience",
+    "score": 10
+  },
+  {
+    "id": "LnUfuogBOw0",
+    "title": "Max H. - The Destiny Licensed from Artlist",
+    "score": 10
+  },
+  {
+    "id": "lchtXWn8SOw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wT5m2exlZ8g",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "I53Y57OcRlo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KfIs_SDGcEM",
+    "title": "Bomb cyclone storm to slam East coast with more snow",
+    "score": 10
+  },
+  {
+    "id": "pqIR26NHELg",
+    "title": "Kansas City Jan. 28 evening weather update: Arctic air moving in overnight into Thursday; flurrie...",
+    "score": 10
+  },
+  {
+    "id": "-ht176q_Pwk",
+    "title": "Warmer Thursday with chance of p.m. flurries",
+    "score": 10
+  },
+  {
+    "id": "YxQwEXmYQ2M",
+    "title": "Warmer with chance of flurries Thursday",
+    "score": 10
+  },
+  {
+    "id": "CaB8xYEpwmY",
+    "title": "Flurries overnight and into Thursday morning",
+    "score": 10
+  },
+  {
+    "id": "L5S4Koans5Q",
+    "title": "More flurries Thursday, with a beautiful Friday in store",
+    "score": 10
+  },
+  {
+    "id": "lvWesAr71lw",
+    "title": "Snow flurries? It's possible as Florida braces for record cold and possible Gulf-effect snow",
+    "score": 10
+  },
+  {
+    "id": "Zr23j1RyedI",
+    "title": "Flurries possible on Thursday",
+    "score": 10
+  },
+  {
+    "id": "E8IHXRW6MvA",
+    "title": "Light winter mix possible Thursday and maybe some snow flurries Friday.",
+    "score": 10
+  },
+  {
+    "id": "5fKV7zziEx4",
+    "title": "Evening flurries, single digit temps Thursday night",
+    "score": 10
+  },
+  {
+    "id": "20qcZkTfIaI",
+    "title": "Cold with scattered flurries on Thursday",
+    "score": 10
+  },
+  {
+    "id": "5P7cP6v2IGQ",
+    "title": "Thursday morning flurries and warm afternoon",
+    "score": 10
+  },
+  {
+    "id": "Bv1dUKweswQ",
+    "title": "Windy Wednesday to Flurries Thursday",
+    "score": 10
+  },
+  {
+    "id": "oK7E3eQKOTw",
+    "title": "THINGS TO KNOW",
+    "score": 10
+  },
+  {
+    "id": "n6V3Vt90KHc",
+    "title": "Chance of snow flurries Thursday",
+    "score": 10
+  },
+  {
+    "id": "IxZZmboLxF0",
+    "title": "Tracking light Thursday flurries and cold temps",
+    "score": 10
+  },
+  {
+    "id": "RBf27yIpgnI",
+    "title": "TOP STORIES: Possible snow again, school closures in the DC region",
+    "score": 10
+  },
+  {
+    "id": "gZnp_4jIFZA",
+    "title": "Thursday PM Forecast: Cloudy, few flurries",
+    "score": 10
+  },
+  {
+    "id": "9-dDtSVmVlw",
+    "title": "Weather Aware: Arctic Blast This Weekend With Snow Flurries - CBS 42 News at 4 pm",
+    "score": 10
+  },
+  {
+    "id": "Fuux9-SSAww",
+    "title": "Northeast Ohio Forecast: Bitter cold air continues",
+    "score": 10
+  },
+  {
+    "id": "ZIpfGm27PP4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "c2uIyuLBOpE",
+    "title": "WARNING! Viewer Discretion! Do NOT Watch With Children In The Room!",
+    "score": 10
+  },
+  {
+    "id": "0W4-WBgA-ag",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "MKnIG5NK-10",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "kgLdwMnigrY",
+    "title": "'12-Piece Bucket Of Stupid': John Kennedy Warns Against 'Violently Protesting' Against ICE",
+    "score": 10
+  },
+  {
+    "id": "zRZe-0G9xI0",
+    "title": "ALMOST UNWATCHABLE: John Kennedy Brutally Confronts Witness Over Her Past Tweets",
+    "score": 10
+  },
+  {
+    "id": "jd-lH8SihAs",
+    "title": "NO MERCY: 'Why Is Your Record So Bad?': John Kennedy Brutally Grills Nominee About 'Abysmal Record'",
+    "score": 10
+  },
+  {
+    "id": "FVGl9XUpIHk",
+    "title": "Kennedy: This is EXHAUSTING",
+    "score": 10
+  },
+  {
+    "id": "T_eISmIDK84",
+    "title": "SHOCK MOMENT: John Kennedy's Merciless Questioning Upsets Senate Witness",
+    "score": 10
+  },
+  {
+    "id": "mb-lDthOUtk",
+    "title": "John Kennedy LEFT Bill Maher SPEECHLESS...",
+    "score": 10
+  },
+  {
+    "id": "1uNWfK8gGOM",
+    "title": "Kennedy Takes Mayorkas to School in Viral Hearing Exchange” #senatehearing #uspolitics #tedcruz",
+    "score": 10
+  },
+  {
+    "id": "HLlSmjMZA0Y",
+    "title": "Kennedy: Protesting Violently is a 12-PIECE BUCKET OF STUPID!",
+    "score": 10
+  },
+  {
+    "id": "nMABaStQYJc",
+    "title": "BREAKING: Sen. Kennedy Goes Nuclear On Witness Who Called Supreme Court Justices 'Evil'.",
+    "score": 10
+  },
+  {
+    "id": "hd40tZHMAkI",
+    "title": "'Are You A Racist?': Senator Kennedy Brutally Grills DHS Kristi Noem In Fiery Senate Hearing | WATCH",
+    "score": 10
+  },
+  {
+    "id": "bjNWejK4FCI",
+    "title": "Sen. Kennedy Just Revealed The OVER BUDGET SHOCKING Amount Being Spent On Defense In This New Bill",
+    "score": 10
+  },
+  {
+    "id": "J5X34gEIRL4",
+    "title": "MUST WATCH: John Kennedy Brutally DESTROYS  Nominee ON 'Abysmal Record'",
+    "score": 10
+  },
+  {
+    "id": "YSDJHUqOrhQ",
+    "title": "SENATOR KENNEDY SLAMS JUDICIAL NOMINEE OVER CONTROVERSIAL CASE",
+    "score": 10
+  },
+  {
+    "id": "7-v7eUxSRAM",
+    "title": "BREAKING NEWS: John Kennedy Brutally Grills Major Judicial Nominee, Accuses Her Of Lying",
+    "score": 10
+  },
+  {
+    "id": "lk2JTwVRF_k",
+    "title": "John Kennedy Calls Violent ICE Protests “A 12-Piece Bucket of Stupid”",
+    "score": 10
+  },
+  {
+    "id": "2Oze7UTOypA",
+    "title": "Robert F. Kennedy's \\\"Mindless Menance of Violence\\\" Speech",
+    "score": 10
+  },
+  {
+    "id": "Vt7IuKoETEc",
+    "title": "BREAKING NEWS: Kennedy Brutally Grills FDIC Chair About Shocking Allegations: 'Did You Read That?'",
+    "score": 10
+  },
+  {
+    "id": "KVcWYlalOpY",
+    "title": "Kennedy Calls Out the Dodging, Demands the Truth #senatehearing #uspolitics #senatorkennedy",
+    "score": 10
+  },
+  {
+    "id": "8OHiP3qHpLk",
+    "title": "'You've Been Operating Illegally!': John Kennedy Brutally Confronts CFPB Director Rohit Chopra Over",
+    "score": 10
+  },
+  {
+    "id": "MqpWqPXj--E",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "whSGACAYjf4",
+    "title": "Will Accused Parent Killer Sarah Grace Patrick Get Bond?",
+    "score": 10
+  },
+  {
+    "id": "oJ4btOsFGSA",
+    "title": "SARAH GRACE PATRICK Bond Hearing - \\\"Tik Tok Teen\\\" Case",
+    "score": 10
+  },
+  {
+    "id": "7jgApB3id7Y",
+    "title": "Accused Double Murderer Sarah Grace Patrick's Trial Delayed",
+    "score": 10
+  },
+  {
+    "id": "cLQbuKyBpsI",
+    "title": "Evidence Against Sarah Grace Patrick | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "1Yl2TewSFUw",
+    "title": "Why Sarah Patrick Allegedly Killed Her Parents | Vinnie Politan Investigates",
+    "score": 10
+  },
+  {
+    "id": "wfvSzeQ53JE",
+    "title": "The Hunt for Sarah Yarborough’s Killer | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "efkHaltrakk",
+    "title": "Friend of Accused Killer Sarah Grace Patrick Describes Friendship Dynamic",
+    "score": 10
+  },
+  {
+    "id": "iGLnQCy4m1c",
+    "title": "‘Obsessed’ Ex-Husband Stalked Ohio Couple for Weeks Before Murders: Docs",
+    "score": 10
+  },
+  {
+    "id": "10pPVYTQzVQ",
+    "title": "What Now in Karen Read Lawsuit After Bukhenik Answer?",
+    "score": 10
+  },
+  {
+    "id": "t4XIsrOCa8U",
+    "title": "Sarah literally thinks she's going home later...",
+    "score": 10
+  },
+  {
+    "id": "7OkMZaMRQZE",
+    "title": "Timeline",
+    "score": 10
+  },
+  {
+    "id": "0Ydm2GfDp3c",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "OksHsT-gloI",
+    "title": "Sarah Boone pens scathing letter to judge who sentenced her to life in boyfriend’s suitcase death",
+    "score": 10
+  },
+  {
+    "id": "_Syg4UTbOeY",
+    "title": "The Case of Sarah Sharif: A Little Girl was Tortured by her Father \\u0026 Stepmother - BBC The Big Cases",
+    "score": 10
+  },
+  {
+    "id": "UJwY98LRnGM",
+    "title": "FULL Police Interrogation of Accused 'Suitcase Murderer' Sarah Boone",
+    "score": 10
+  },
+  {
+    "id": "w1u1-i_ubeU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ykYlDivW9iQ",
+    "title": "🚨😱 CONFIRMED! Chiefs Reunite With 6-Foot-3 WR Before Free Agency! KANSAS CITY CHIEFS NEWS TODAY",
+    "score": 10
+  },
+  {
+    "id": "WdfFQ1afd8U",
+    "title": "JRE: Shane Gillis on Struggling Early in his Career",
+    "score": 10
+  },
+  {
+    "id": "t8Ug0HgF66Q",
+    "title": "First World Problems",
+    "score": 10
+  },
+  {
+    "id": "vN2WzQzxuoA",
+    "title": "Star Wars: Darth Vader’s Early Struggles Adapting To Palpatine",
+    "score": 10
+  },
+  {
+    "id": "V7Ry_VieZIQ",
+    "title": "MARLON : Early Struggles",
+    "score": 10
+  },
+  {
+    "id": "PvhkFEE_RZ0",
+    "title": "3 Problems - Early Bird | Shot by: @RealWoosie",
+    "score": 10
+  },
+  {
+    "id": "30tgVDqDDKc",
+    "title": "Struggles at Storytime: Get an Early Start! Video Series",
+    "score": 10
+  },
+  {
+    "id": "vnf0NvxpNCs",
+    "title": "Catching Reading Struggles Early",
+    "score": 10
+  },
+  {
+    "id": "4QxHjXKwNSo",
+    "title": "Why do People Struggle the First Year in Retirement? We were surprised!",
+    "score": 10
+  },
+  {
+    "id": "ApXHKezTb2g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5i1__ZA7GaE",
+    "title": "FIRST WORLD PROBLEMS - The Musical",
+    "score": 10
+  },
+  {
+    "id": "8zUjSHL_Fks",
+    "title": "First World Problems",
+    "score": 10
+  },
+  {
+    "id": "bwvlbJ0h35A",
+    "title": "Life in Prehistoric Times | The Struggles and Survival of Early Humans",
+    "score": 10
+  },
+  {
+    "id": "XSpzZxWSF_Q",
+    "title": "5 Early Struggles When Quitting Alcohol | Tips to Overcome Them \\u0026 Stay Sober",
+    "score": 10
+  },
+  {
+    "id": "u7ZD-NOLsb8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_O-pccbFilg",
+    "title": "The Early Struggles of Takanashi Kiara",
+    "score": 10
+  },
+  {
+    "id": "dWor1Ky9gzA",
+    "title": "There is a massive cost difference if you catch problems early.",
+    "score": 10
+  },
+  {
+    "id": "3sQVfEC-KXo",
+    "title": "From gangs to music: Barry White's early struggles",
+    "score": 10
+  },
+  {
+    "id": "Of47BOu7gbM",
+    "title": "Demon Problems - Early Man",
+    "score": 10
+  },
+  {
+    "id": "NUUIMDq6iaY",
+    "title": "Tarkov's Early Wipe Struggle..",
+    "score": 10
+  },
+  {
+    "id": "0xZ5EEl4yNA",
+    "title": "Level 9 Solo Life",
+    "score": 10
+  },
+  {
+    "id": "G7HkBBJO7ZU",
+    "title": "True Facts: New Species Naming Competition",
+    "score": 10
+  },
+  {
+    "id": "Oq9JXXrhOt8",
+    "title": "True Facts: Deception in the Rainforest",
+    "score": 10
+  },
+  {
+    "id": "chT3sbLvlt4",
+    "title": "True Facts About The Owl",
+    "score": 10
+  },
+  {
+    "id": "XeFxdkaFzRA",
+    "title": "Eyes",
+    "score": 10
+  },
+  {
+    "id": "8QE78laH4sw",
+    "title": "True Facts About The Tarsier",
+    "score": 10
+  },
+  {
+    "id": "6Jz0JcQYtqo",
+    "title": "True Facts: The Ostrich",
+    "score": 10
+  },
+  {
+    "id": "1YTeasbvJ2E",
+    "title": "True Facts: The Rise of the Kitten Snake",
+    "score": 10
+  },
+  {
+    "id": "UY7qM_DtMRU",
+    "title": "True Facts: Fish That Suck",
+    "score": 10
+  },
+  {
+    "id": "yYSkg9FyhPg",
+    "title": "True Facts: Frog Fish",
+    "score": 10
+  },
+  {
+    "id": "uRP4nAGMYCY",
+    "title": "True Facts: Macaques",
+    "score": 10
+  },
+  {
+    "id": "wZ4cadzCZUI",
+    "title": "Macaque Culture",
+    "score": 10
+  },
+  {
+    "id": "XrUM8m2rnP0",
+    "title": "What is the difference between a two toed sloth and a three toed sloth?",
+    "score": 10
+  },
+  {
+    "id": "6pibJ83crQs",
+    "title": "True Facts: Save The Turtle Spiders!",
+    "score": 10
+  },
+  {
+    "id": "WTBjblhKQBw",
+    "title": "Theyre not crabs",
+    "score": 10
+  },
+  {
+    "id": "ADrBo7u3tR4",
+    "title": "True Facts: The Bolas Spider",
+    "score": 10
+  },
+  {
+    "id": "9qw3lkpa5lY",
+    "title": "True Facts: Rays, The Floppy Sombreros of the Sea",
+    "score": 10
+  },
+  {
+    "id": "DbaiBY8De54",
+    "title": "True Facts About The Mantis Shrimp",
+    "score": 10
+  },
+  {
+    "id": "F5FEj9U-CJM",
+    "title": "The Eyes",
+    "score": 10
+  },
+  {
+    "id": "MizItLwaidc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PM5ovbcXzio",
+    "title": "Google Keep Bold Text",
+    "score": 10
+  },
+  {
+    "id": "-73tQ-vXiGw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "I3ubI2wkJNk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "55-Ea1ZG5a0",
+    "title": "Giannis Trade Rumors",
+    "score": 10
+  },
+  {
+    "id": "cWQz08tnIDo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cZCEvflKWHE",
+    "title": "Whites-only community in Arkansas: What is it and is it legal?",
+    "score": 10
+  },
+  {
+    "id": "QCav17Mpvzo",
+    "title": "He thinks Hitler was right. Now he wants a Whites-only community in Tennessee",
+    "score": 10
+  },
+  {
+    "id": "roeNkngNeYQ",
+    "title": "Inside 'Return to the Land': The group making a whites-only community in Arkansas",
+    "score": 10
+  },
+  {
+    "id": "kBYBwILYTpM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0KXBXIl1Gac",
+    "title": "The Very First Paintball War",
+    "score": 10
+  },
+  {
+    "id": "olObgYm8jhw",
+    "title": "Inside the Ozarks' Whites Only Town",
+    "score": 10
+  },
+  {
+    "id": "yFVcpHoOM_U",
+    "title": "Gay Dean, Gay Dean, Gay Dean 🎶 | Community | Queer Studies and Advanced Waxing Clip",
+    "score": 10
+  },
+  {
+    "id": "ofI-nZ9fWlY",
+    "title": "These Heroes are on a Mission to Beautify Their Community - Only Good Heroes (E14)",
+    "score": 10
+  },
+  {
+    "id": "yLEjAYGJsqw",
+    "title": "These Heroes Bring \\\"Fin-Tastic\\\" Fun to Their Community - Only Good Heroes (E3)",
+    "score": 10
+  },
+  {
+    "id": "GlhO7PzaQhI",
+    "title": "Community plot twists but it just gets weirder | Community",
+    "score": 10
+  },
+  {
+    "id": "n7jSXM89--4",
+    "title": "Britta Gets Rescued On Stage",
+    "score": 10
+  },
+  {
+    "id": "WccJnZbysGU",
+    "title": "Approachable Members Of Your Local Community - Only Friend (Unearthed NIDA winner 2018)",
+    "score": 10
+  },
+  {
+    "id": "araEXUYpMso",
+    "title": "Community but it's just our fav side characters | Community",
+    "score": 10
+  },
+  {
+    "id": "pEwceqKJ1i0",
+    "title": "community but the plot twists keep getting more unhinged | Comedy Bites",
+    "score": 10
+  },
+  {
+    "id": "bpvcHnTY4Dk",
+    "title": "Britta Gets Rescued On Stage",
+    "score": 10
+  },
+  {
+    "id": "JfsTqLK_EHY",
+    "title": "Getting Rid of Britta",
+    "score": 10
+  },
+  {
+    "id": "_Ja-YD7Ip6k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9GZsa-hD2uw",
+    "title": "Man Made Ice Blizzard 2026 Snow Storm Spraying Chemtrails Cloud Seeding Before Snowmageddon?",
+    "score": 10
+  },
+  {
+    "id": "EkAQOnd2yHU",
+    "title": "She Hid Her Bedroom Under the Cabin — Then the Worst Blizzard Made It Her Only Shelter",
+    "score": 10
+  },
+  {
+    "id": "kClU_tQJxgY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ty3fSeB-rLE",
+    "title": "Layering Clothing",
+    "score": 10
+  },
+  {
+    "id": "ZpR_XY59GZw",
+    "title": "She Hid Her Bedroom Under the Barn — Then the Worst Blizzard Made It Her Only Shelter",
+    "score": 10
+  },
+  {
+    "id": "YnRBm-l-ki0",
+    "title": "Snow Storm Sounds for Sleeping - Dimmed Screen | Blizzard Storm Sounds - Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "Ie5R9n6ViGM",
+    "title": "The Blizzard \\u0026 Daniel van Sand feat. Julie Thompson - Made For You (Gal Abutbul Remix)",
+    "score": 10
+  },
+  {
+    "id": "J3n-7eEWYjI",
+    "title": "The Blizzard \\u0026 Daniel van Sand ft Julie Thompson - Made For You (Gal Abutbul Remix)",
+    "score": 10
+  },
+  {
+    "id": "TJVv_-QUQec",
+    "title": "How Blizzard Created Warcraft III's Cinematics",
+    "score": 10
+  },
+  {
+    "id": "Jgndut9nY0Q",
+    "title": "Dairy Queen Blizzard (ft. Zach King)",
+    "score": 10
+  },
+  {
+    "id": "eNMqYF4orVs",
+    "title": "The Blizzard of 1978",
+    "score": 10
+  },
+  {
+    "id": "BTE0ykiPk0I",
+    "title": "Flats Reacts To Blizzard Accidentally Created Their Worst Enemy",
+    "score": 10
+  },
+  {
+    "id": "3rksN17WDgg",
+    "title": "Making a NEW DQ Blizzard",
+    "score": 10
+  },
+  {
+    "id": "6_4dJpZbO9k",
+    "title": "If Blizzard made honest WoW cinematics | Asmongold Reacts",
+    "score": 10
+  },
+  {
+    "id": "59UdM564qWs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8FsUbbjC0wg",
+    "title": "91 Unbelievable Facts That You’ll Never Forget!",
+    "score": 10
+  },
+  {
+    "id": "wM95h3EsLio",
+    "title": "Oldest Vegetable in the World?",
+    "score": 10
+  },
+  {
+    "id": "HnjhhJXzJYc",
+    "title": "50 AMAZING Facts to Blow Your Mind! 288",
+    "score": 10
+  },
+  {
+    "id": "tyJB_HMxd-Y",
+    "title": "250 Amazing FACTS That Will Blow Your MIND",
+    "score": 10
+  },
+  {
+    "id": "21l1mOA0KVY",
+    "title": "101 Mind-Blowing Weird Facts You Won't Believe are Real! | Weirdest Fun Facts | Amazing Facts",
+    "score": 10
+  },
+  {
+    "id": "pPXI0XgRMtE",
+    "title": "Amazing Facts To Blow Your Mind #17",
+    "score": 10
+  },
+  {
+    "id": "ZDS756OSB78",
+    "title": "Amazing Facts TV",
+    "score": 10
+  },
+  {
+    "id": "YrkpTdnwEQA",
+    "title": "ULTIMATE 50 AMAZING FACTS COMPILATION!",
+    "score": 10
+  },
+  {
+    "id": "_41dl75xifE",
+    "title": "400 Mind Blowing Random Facts You Never Knew - COMPILATION",
+    "score": 10
+  },
+  {
+    "id": "-ZEVKubx4bI",
+    "title": "50 AMAZING Facts to Blow Your Mind! 247",
+    "score": 10
+  },
+  {
+    "id": "WKdvz9_k7nE",
+    "title": "50 AMAZING Facts to Blow Your Mind! 268",
+    "score": 10
+  },
+  {
+    "id": "4D5SpP7p3hs",
+    "title": "50 AMAZING Facts to Blow Your Mind! 254",
+    "score": 10
+  },
+  {
+    "id": "xijhEgVfv_Q",
+    "title": "50 AMAZING Facts to Blow Your Mind! 245",
+    "score": 10
+  },
+  {
+    "id": "yMd-QZ3ghg4",
+    "title": "50 AMAZING Facts to Blow Your Mind! 248",
+    "score": 10
+  },
+  {
+    "id": "ElHDc2D4ntA",
+    "title": "50 AMAZING Facts to Blow Your Mind! 253",
+    "score": 10
+  },
+  {
+    "id": "PF32DRgFTwQ",
+    "title": "50 AMAZING Facts to Blow Your Mind! 262",
+    "score": 10
+  },
+  {
+    "id": "Nq5cVVBBcVo",
+    "title": "50 AMAZING Facts to Blow Your Mind! 261",
+    "score": 10
+  },
+  {
+    "id": "pYMXeQ9_xdw",
+    "title": "50 Geography Facts So Crazy They’ll Change How You See the World",
+    "score": 10
+  },
+  {
+    "id": "l4j9BCKUvEo",
+    "title": "50 Mind Blowing Facts You Won't Believe! | 50 Amazing Facts to Blow Your Mind!",
+    "score": 10
+  },
+  {
+    "id": "C1Q8ik8SLKI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g--HOhCHHLo",
+    "title": "Life-Changing Facts You Won’t Believe Are True",
+    "score": 10
+  },
+  {
+    "id": "vjRJHhuAnYY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iGFZcoKZ2lk",
+    "title": "100 Incredibly Interesting Geography Facts",
+    "score": 10
+  },
+  {
+    "id": "AUyPf0ZhZhg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rOjiG24lXqc",
+    "title": "Dragon Ball FighterZ OST   West City",
+    "score": 10
+  },
+  {
+    "id": "gkGcllkvT6o",
+    "title": "west city 4",
+    "score": 10
+  },
+  {
+    "id": "JKYjiEkZqoQ",
+    "title": "west point disco rodeo vs west city disco",
+    "score": 10
+  },
+  {
+    "id": "odbsjXV3pO8",
+    "title": "DRAGON BALL FIGHTERZ  -「West City」[EPIC METAL COVER] (Little V)",
+    "score": 10
+  },
+  {
+    "id": "T261Fujxcao",
+    "title": "WCCS - West City Central School Alma Mater Song  by Vernie Joy Valenzona - May",
+    "score": 10
+  },
+  {
+    "id": "aBgrXoIeP24",
+    "title": "West City Central Alma Mater",
+    "score": 10
+  },
+  {
+    "id": "Pvb7ggqnoZM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Iu4--K0V0gU",
+    "title": "Whatever Happened to Contention City? - Lost Town of the Wild West",
+    "score": 10
+  },
+  {
+    "id": "ulu6ThKnOEA",
+    "title": "City Of The Sun - No Walls In The West (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "gAqXURtHnEI",
+    "title": "Disco Rodeó West City volumen 1",
+    "score": 10
+  },
+  {
+    "id": "GuePMOL2IQQ",
+    "title": "Wild West City NJ: A Day at Wild West City ,New Jersey | Family Fun in the Old American Frontier",
+    "score": 10
+  },
+  {
+    "id": "GXsg2Pihh7E",
+    "title": "DBZ : The Legacy of Goku 2 Soundtrack - West City",
+    "score": 10
+  },
+  {
+    "id": "wkaIzV4ZZ28",
+    "title": "DODGE CITY, Kansas: Exploring The Old West's Wickedest Town",
+    "score": 10
+  },
+  {
+    "id": "V1RNtDCcdiA",
+    "title": "Way Of The West - City For Lovers (Extended Version) (1984) (Audio)",
+    "score": 10
+  },
+  {
+    "id": "RFg7CX8ZuvI",
+    "title": "How Florida's West Coast Is Slowly Turning Into America’s Next Mega-City",
+    "score": 10
+  },
+  {
+    "id": "GAUZSLbQ2U4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SpU-7ujVUNk",
+    "title": "Another Winter System Shows Potential To Hit East Coast",
+    "score": 10
+  },
+  {
+    "id": "X9LKQRnZNkU",
+    "title": "Nor'easter bomb cyclone set to impact the East Coast this weekend",
+    "score": 10
+  },
+  {
+    "id": "nI5Zmzsvxt4",
+    "title": "Next Winter Storm Threat Looms For East Coast Days After Monster Winter Storm",
+    "score": 10
+  },
+  {
+    "id": "pYvgSMkYzxY",
+    "title": "BREAKING - East Coast Snowstorm Update \\u0026 Even More COLD!",
+    "score": 10
+  },
+  {
+    "id": "Ahg1KAdS2A8",
+    "title": "Bomb cyclone storm to slam East coast with more snow",
+    "score": 10
+  },
+  {
+    "id": "pEjoMr0PGtE",
+    "title": "More than 70 million on alert as 2,000 mile storm moves east",
+    "score": 10
+  },
+  {
+    "id": "XmKV5vidgqk",
+    "title": "Powerful storm to form off East Coast. Boston meteorologists talk forecast, possible impacts.",
+    "score": 10
+  },
+  {
+    "id": "_oQRo67jasg",
+    "title": "Winter Storm Brings Heavy Ice and Snow to US East Coast",
+    "score": 10
+  },
+  {
+    "id": "ZLdMnQxyXxw",
+    "title": "Fleur East - More and More (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "T-PNdp5B1vg",
+    "title": "Fleur East - Day in LA (More and More)",
+    "score": 10
+  },
+  {
+    "id": "bMocaNj5W0s",
+    "title": "Snoop Dogg, Dave East, WHOISTEVENYOUNG - Love You More (from \\\"Bosco\\\" Soundtrack)",
+    "score": 10
+  },
+  {
+    "id": "95ZubBk5aX0",
+    "title": "Trump Says US ‘Armada’ Moving Toward Iran",
+    "score": 10
+  },
+  {
+    "id": "9rsYSY3YDOs",
+    "title": "30 people dead from effects of winter storm as more freezing cold pummels US",
+    "score": 10
+  },
+  {
+    "id": "VsiEdmW4hC8",
+    "title": "East Clubbers - More More More",
+    "score": 10
+  },
+  {
+    "id": "bgVRGmOK4SM",
+    "title": "Power Outages Cascade as Big Winter Storm Reaches US East Coast",
+    "score": 10
+  },
+  {
+    "id": "yLofCt4evH0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "VxVUZvEIVSw",
+    "title": "Fading City Gameplay Walkthrough Parte 1",
+    "score": 10
+  },
+  {
+    "id": "q1Bww945Vhc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JS55Kw5AfhA",
+    "title": "The Fading Stories (Qingce Night)",
+    "score": 10
+  },
+  {
+    "id": "2OrzwSIBQtk",
+    "title": "WEST VIRGINIA: Fading Towns In Rust Belt Appalachia - Along The Ohio River",
+    "score": 10
+  },
+  {
+    "id": "2sBk5YaVa0Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pUZtHpf-rEo",
+    "title": "Hollow Knight - Part 1 : Journey to DirtMouth ~ The Fading Town",
+    "score": 10
+  },
+  {
+    "id": "x1ZS73o7Sw0",
+    "title": "KANSAS: Forgotten Small Towns That Are Slowly Fading Away",
+    "score": 10
+  },
+  {
+    "id": "i4ILK7FZIzM",
+    "title": "HOLLOW KNIGHT Gameplay/Walkthrough/Playthrough DIRTMOUTH THE FADING TOWN IN[4K]60FPS",
+    "score": 10
+  },
+  {
+    "id": "-LAkooBZhz0",
+    "title": "Hollow Knight's Map is Broken",
+    "score": 10
+  },
+  {
+    "id": "24CbP6nP4Fc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "W4l8eAcB47A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "78f0vER8498",
+    "title": "Manchester Nightlife 2026 🇬🇧 | Crazy Party Streets at 4:00 AM \\u0026 4K HDR Walking Tour",
+    "score": 10
+  },
+  {
+    "id": "TYL11ahEUwM",
+    "title": "Dying KANSAS Towns Where Houses Cost Less Than A Pick-Up Truck!",
+    "score": 10
+  },
+  {
+    "id": "NEdSr4aCgRc",
+    "title": "Before It’s Too Late - The Vanishing World Of Kyrgyzstan 🇰🇬",
+    "score": 10
+  },
+  {
+    "id": "JuII6OBK-FQ",
+    "title": "ICE Outrage Goes Viral | White House Blame Game | Ilhan Omar: Tough Under Pressure | Poo-tomac River",
+    "score": 10
+  },
+  {
+    "id": "wjoNIk_7Alk",
+    "title": "The Fading Town of Dirtmouth - Hollow Knight - Let's Play - Part 1",
+    "score": 10
+  },
+  {
+    "id": "xf-Qs0SMpSk",
+    "title": "HOLLOW KNIGHT",
+    "score": 10
+  },
+  {
+    "id": "SmI-REmU-Nw",
+    "title": "I NEED YOUR HELP for a ZR1X! * Chevrolet Corvette ZR1 vs Dodge Demon 170 1/4 Mile Drag Race",
+    "score": 10
+  },
+  {
+    "id": "gu48hbmXJPs",
+    "title": "ELDERBUG",
+    "score": 10
+  },
+  {
+    "id": "v7A_d2CaMVg",
+    "title": "Fading City vs Earth: Revival - Which Post-Apocalyptic Game is Better?",
+    "score": 10
+  },
+  {
+    "id": "RpMqDYp9zfE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "prYbXj3zPfs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "in6NOTfgCZs",
+    "title": "Cause of death revealed for three Kansas City Chiefs fans killed in 2024",
+    "score": 10
+  },
+  {
+    "id": "CEHZ9fLy2Mk",
+    "title": "Dying KANSAS Towns Where Houses Cost Less Than A Pick-Up Truck!",
+    "score": 10
+  },
+  {
+    "id": "yPJvzFVyNyc",
+    "title": "The Tragic Death Of Kansas Frontman Robby Steinhardt",
+    "score": 10
+  },
+  {
+    "id": "9WeVcZiygrY",
+    "title": "This Is Rural KANSAS: Dying Towns In America's Heartland",
+    "score": 10
+  },
+  {
+    "id": "GyEFFEZDQbo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t483hY30LAU",
+    "title": "Shocking Details Revealed in Deaths of Kansas City Chiefs Fans Found Dead in Friend's Backyard",
+    "score": 10
+  },
+  {
+    "id": "NtadFDT8tkc",
+    "title": "Kansas City Chiefs Fans Found Frozen to Death in Friend's Yard: What We Know",
+    "score": 10
+  },
+  {
+    "id": "4xTC5XdOZnM",
+    "title": "Winter Wheat Freeze | Kansas Damage Potential",
+    "score": 10
+  },
+  {
+    "id": "Tl4i66oGTZo",
+    "title": "Local attorney explains Kansas death penalty as DA mulls execution for accused shooter",
+    "score": 10
+  },
+  {
+    "id": "7Hi6cHX8IRU",
+    "title": "How Can I Find Kansas Death Records? - CountyOffice.org",
+    "score": 10
+  },
+  {
+    "id": "HfpomSq4VmM",
+    "title": "Every Person On Kansas Death Row Explained",
+    "score": 10
+  },
+  {
+    "id": "zndMhYHxlgU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YalV6-pSQrc",
+    "title": "Heat leads to the death of at least 2,000 cattle in Kansas",
+    "score": 10
+  },
+  {
+    "id": "VP8O3n4iEQs",
+    "title": "Inside Kansas’s Death Row: Crimes Too Shocking for Parole",
+    "score": 10
+  },
+  {
+    "id": "-QCaquEAfCo",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "MGAopLXCHcA",
+    "title": "Autopsy: Charles Adair jail death ruled homicide in Wyandotte County, Kansas",
+    "score": 10
+  },
+  {
+    "id": "Befz5s0Hb6A",
+    "title": "Kansas City Chiefs Fans Found Frozen to Death in Their Friend's Backyard",
+    "score": 10
+  },
+  {
+    "id": "U3w0xe-cn6I",
+    "title": "Owner at landmark Kansas City Irish market reacts to death of local chef",
+    "score": 10
+  },
+  {
+    "id": "-Zzy31Azi6A",
+    "title": "New data shows 'alarming' increase in Kansas children dying connected to fentanyl",
+    "score": 10
+  },
+  {
+    "id": "frFIAzYaYU0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "UDp9Mut8Ey0",
+    "title": "I Visited the Most Remote Town in the USA (Outside of Alaska)",
+    "score": 10
+  },
+  {
+    "id": "rITr-CsdICA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tJ54SWAMRHs",
+    "title": "Visiting the Closest Town to Space (Life with 50% less oxygen)",
+    "score": 10
+  },
+  {
+    "id": "KqaGdcQh5jA",
+    "title": "I Visited Forgotten Towns In The Vast, Open Spaces Of WYOMING",
+    "score": 10
+  },
+  {
+    "id": "BwHndm7oZMo",
+    "title": "Top 30 Most Beautiful Cities To Visit In Europe | Travel Video 2025",
+    "score": 10
+  },
+  {
+    "id": "yd543V1HTfo",
+    "title": "Visiting America's Most Remote Town (24 Hours of Darkness)",
+    "score": 10
+  },
+  {
+    "id": "QV9ofyKNdTM",
+    "title": "I Visited the Most Suicidal Town in the World (Greenland)",
+    "score": 10
+  },
+  {
+    "id": "LJzmFINLL6g",
+    "title": "Top 10 Best Small Towns In Maine To Visit || What To Do In Maine",
+    "score": 10
+  },
+  {
+    "id": "2dRopHdLpO8",
+    "title": "Intro.",
+    "score": 10
+  },
+  {
+    "id": "y8qAHkpnk0c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "u2AnzRLriq8",
+    "title": "I Visited 5 Poor Towns In A Forgotten Area Of Mississippi",
+    "score": 10
+  },
+  {
+    "id": "CmMH5qRQ89I",
+    "title": "I Visited 3 Forgotten Small Towns In GEORGIA: The Unexpected Sights \\u0026 Demographics",
+    "score": 10
+  },
+  {
+    "id": "C5wCHHOl_Rk",
+    "title": "15 Best Cities To Visit In The World | Travel Video 2024",
+    "score": 10
+  },
+  {
+    "id": "mUU6ziFznRk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pR-Hmw5IiUE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gTO8SCvXpQ4",
+    "title": "Kansas Greatest Hits Collection - The Best Of Kansas Full Playlist 2022",
+    "score": 10
+  },
+  {
+    "id": "QRyWH4uY_7Y",
+    "title": "Kansas - 50 Year Legacy Tour - Huntsville, Alabama 06/14/2025",
+    "score": 10
+  },
+  {
+    "id": "vCUR4RA3udk",
+    "title": "Point of Know Return",
+    "score": 10
+  },
+  {
+    "id": "G-I963KEgis",
+    "title": "Travis \\u0026 Taylor Look elegant \\u0026 eye-catching at Taylor's Cousin's Wedding in West Hollywood",
+    "score": 10
+  },
+  {
+    "id": "PdFNWcXg-t8",
+    "title": "A Powerful Bomb Cyclone Is Coming...",
+    "score": 10
+  },
+  {
+    "id": "sf8RLEHZQ7o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0PnGmsZJxjA",
+    "title": "I HAVE NO HEAT AND KANSAS IS CLOSED FOR THE HISTORIC SNOW STORM",
+    "score": 10
+  },
+  {
+    "id": "YPzhcI_vfEA",
+    "title": "Joe Scarborough on Killings in Minneapolis Being a Turning Point \\u0026 the Last Time He Spoke to Trump",
+    "score": 10
+  },
+  {
+    "id": "I89DF7My6So",
+    "title": "Kansas - Mysteries And Mayhem/The Pinnacle",
+    "score": 10
+  },
+  {
+    "id": "W2azO25JtFo",
+    "title": "Sidewalk Recording Triggers Police Response Caught on Camera ",
+    "score": 10
+  },
+  {
+    "id": "TuFkavneS60",
+    "title": "Hold On",
+    "score": 10
+  },
+  {
+    "id": "nIf3PNYzSlA",
+    "title": "Journey from Mariabronn",
+    "score": 10
+  },
+  {
+    "id": "Ycl2DcucC_A",
+    "title": "#19 Kansas vs. Colorado Extended Highlights | 2025-26 Big 12 Men's Basketball",
+    "score": 10
+  },
+  {
+    "id": "PtPfunAQicE",
+    "title": "The Informal Economy | City Rising | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "s-zEvdCdAUY",
+    "title": "Youth and Democracy | City Rising | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "nwdpJRID7Jk",
+    "title": "Lion City Rising",
+    "score": 10
+  },
+  {
+    "id": "v5o6P4kycLw",
+    "title": "Legacy | City Rising | Season 1, Episode 1 | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "11508ex1Xxg",
+    "title": "Code of Ethics",
+    "score": 10
+  },
+  {
+    "id": "ghd21iVEwPk",
+    "title": "Resilience | City Rising | Season 1, Episode 2 | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "XWcuBMvzEF4",
+    "title": "CHAPTER 2 RESILIENCE",
+    "score": 10
+  },
+  {
+    "id": "gZN-5Vl76Jc",
+    "title": "Who Killed the Red Car? | Lost LA | Season 5, Episode 1 | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "Ba12H36qC1U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zIla85vIYKI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "4Ywj8c16b8o",
+    "title": "THE FIRST LOS ANGELES",
+    "score": 10
+  },
+  {
+    "id": "T_xA9GaBbYY",
+    "title": "I Visited the World Capital of Sprawl, and I Have Thoughts",
+    "score": 10
+  },
+  {
+    "id": "QgZcQIp4CL0",
+    "title": "From Farm to Freeway | LA Foodways | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "9eAeQzWuPkU",
+    "title": "Mayo Ranch, Compton CA",
+    "score": 10
+  },
+  {
+    "id": "cGqzokWYaTg",
+    "title": "Hidden in Rural AMERICA!! You Won’t Believe How Bad These Indiana Towns Are",
+    "score": 10
+  },
+  {
+    "id": "rp-rmwkP0FQ",
+    "title": "Indiana’s Hidden Struggles",
+    "score": 10
+  },
+  {
+    "id": "i4QKSxyJbUM",
+    "title": "KEVIN JOHNSON Mayor of Sacramento 2008-2016",
+    "score": 10
+  },
+  {
+    "id": "BcXVrypaxW4",
+    "title": "Mobilization | City Rising | Season 1, Episode 5 | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "LwGlTdscrV8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CUTWDeiJ7rU",
+    "title": "The Future | City Rising | Season 1, Episode 6 | PBS SoCal",
+    "score": 10
+  },
+  {
+    "id": "scUz6TLvP2o",
+    "title": "CHAPTER 6 THE FUTURE",
+    "score": 10
+  },
+  {
+    "id": "2TJb4-WEL1w",
+    "title": "If I Were Moving to Houston in 2026… I’d Move HERE!",
+    "score": 10
+  },
+  {
+    "id": "I4qOpCxV5Xw",
+    "title": "Quick Background of My Move",
+    "score": 10
+  },
+  {
+    "id": "FjTg1WSy6FY",
+    "title": "Things I Didn’t Expect After Moving to the South",
+    "score": 10
+  },
+  {
+    "id": "6gPj9-QlDbc",
+    "title": "Cory Wonders Why So Many People Are Moving Here | S2E1",
+    "score": 10
+  },
+  {
+    "id": "GbeiKFXf9OI",
+    "title": "Ripple XRP: Fed JUST Paused \\u0026 XRP MOVING!! Mastercard Bombshell 🔥",
+    "score": 10
+  },
+  {
+    "id": "m24UIEX65Dg",
+    "title": "🇮🇹 Italy vs 🇬🇷 Greece—Expats Regret Moving Here?",
+    "score": 10
+  },
+  {
+    "id": "lpGD2w7HCn0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "stRAq0bCVgY",
+    "title": "Day 1 - Here  |  MOVE - A 30 Day Yoga Journey",
+    "score": 10
+  },
+  {
+    "id": "tLcHTdzykgk",
+    "title": "Stillness",
+    "score": 10
+  },
+  {
+    "id": "1CjDL1B1qrE",
+    "title": "Move to Lombok Indonesia: Why Muslims Are Moving HERE",
+    "score": 10
+  },
+  {
+    "id": "g6W0NtJA5pc",
+    "title": "Why Lombok Matters",
+    "score": 10
+  },
+  {
+    "id": "_GKFk5e8cOs",
+    "title": "Historic RECORD RETAIL COLLAPSE is Underway",
+    "score": 10
+  },
+  {
+    "id": "2MF9wn9_aF8",
+    "title": "The Market Has SHIFTED And Crypto Holders Aren't Ready US Debt Levels Are Surging As Ripple Expands",
+    "score": 10
+  },
+  {
+    "id": "UfZtFJiSTeE",
+    "title": "XRP JUST MADE ILLEGAL?!, THIS JUST CHANGED EVERYTHING",
+    "score": 10
+  },
+  {
+    "id": "UneEA27mcO8",
+    "title": "DISCO DEAN - Stat Guy Show Episode 88",
+    "score": 10
+  },
+  {
+    "id": "W_a2LSY-vZM",
+    "title": "US Just Threatened Canada's Sovereignty Over Fighter Jets",
+    "score": 10
+  },
+  {
+    "id": "NML-xHCKWeg",
+    "title": "+80% Chance of Shovelable Snowfall Along East Coast",
+    "score": 10
+  },
+  {
+    "id": "EFpoztnPn4U",
+    "title": "HOA Banned My Snowplow Truck From The Street, So Their Entire Neighborhood Stayed Buried All Winter",
+    "score": 10
+  },
+  {
+    "id": "CivnlnLZAjA",
+    "title": "\\\"Why I'm Broke but own 40 houses!\\\" (Here is why!)",
+    "score": 10
+  },
+  {
+    "id": "o-5lHFtiAUY",
+    "title": "No SIM? No Problem!",
+    "score": 10
+  },
+  {
+    "id": "RyirQOCUUK8",
+    "title": "Your Phone is a Tracking Tool",
+    "score": 10
+  },
+  {
+    "id": "O_RyBHFl5Ew",
+    "title": "If I Were Moving to Seattle in 2025, I'd Move Here",
+    "score": 10
+  },
+  {
+    "id": "Sd6empPcVDw",
+    "title": "Why I’d Move Here Again",
+    "score": 10
+  },
+  {
+    "id": "OQCeUhOtd5w",
+    "title": "If I Were Moving to Miami in 2026 I’d Move Here",
+    "score": 10
+  },
+  {
+    "id": "BjuQF1aH2_c",
+    "title": "Tampa’s Top Neighborhoods Everyone Should Know Before Moving Here",
+    "score": 10
+  },
+  {
+    "id": "Vd2lQBUmK8Q",
+    "title": "If I Were Moving to Indianapolis in 2026, I'd Move Here!",
+    "score": 10
+  },
+  {
+    "id": "sr9pyoKpuPE",
+    "title": "If I Were Moving to Indianapolis IN in 2025, I'd Move Here!",
+    "score": 10
+  },
+  {
+    "id": "J0O7zQ49SPU",
+    "title": "Lift Up Your Eyes",
+    "score": 10
+  },
+  {
+    "id": "nQr-HmfXZ-Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jetu8J_1HmA",
+    "title": "A Dystopian Family Drama || Greenwood by Michael Christie",
+    "score": 10
+  },
+  {
+    "id": "yI4O6ftLAI8",
+    "title": "Sarah Bruce",
+    "score": 10
+  },
+  {
+    "id": "8DyXE8TzUn8",
+    "title": "Family Secrets \\u0026 Trees | Greenwood by Michael Christie [CC]",
+    "score": 10
+  },
+  {
+    "id": "AD_NHfGT5Uo",
+    "title": "Mark Greenwood - Introduction to Apologetics",
+    "score": 10
+  },
+  {
+    "id": "au1gWsR4xts",
+    "title": "Handling objections and the objector",
+    "score": 10
+  },
+  {
+    "id": "44Kebji6v3I",
+    "title": "California v. Greenwood Case Brief Summary | Law Case Explained",
+    "score": 10
+  },
+  {
+    "id": "uidJgN3DWBs",
+    "title": "Greenwood Article Overview",
+    "score": 10
+  },
+  {
+    "id": "sAqBjWA1Mss",
+    "title": "Under the Greenwood Tree (with introduction)",
+    "score": 10
+  },
+  {
+    "id": "pegybzxUzCI",
+    "title": "School Spotlight: Greenwood Elementary",
+    "score": 10
+  },
+  {
+    "id": "LTOs8XqKM2U",
+    "title": "Everything You Need to Know about Greenwood SC!",
+    "score": 10
+  },
+  {
+    "id": "xASZJDVLdVU",
+    "title": "Greenwood Medieval System Overview",
+    "score": 10
+  },
+  {
+    "id": "2N1y_oCAVNg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "25Jg9JAyfSk",
+    "title": "Pluribus Finale Recap: Theories \\u0026 the Biggest Unanswered Questions | Viewer Discretion",
+    "score": 10
+  },
+  {
+    "id": "UPbwZOXDkcQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2ZZooHMS-dY",
+    "title": "Viewer Discretion Is Advised",
+    "score": 10
+  },
+  {
+    "id": "EqZRX5NMaTw",
+    "title": "Ron Funches breaks down all of the SPICIEST DRAMA from The Traitors | Viewer Discretion",
+    "score": 10
+  },
+  {
+    "id": "_Q_N9QogacI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tA3wcC2JfSY",
+    "title": "Welcome to the Domonique Foxworth Show",
+    "score": 10
+  },
+  {
+    "id": "hnUsdFiDYeQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OFez2_Go3Bo",
+    "title": "Pluribus Episode 8 Recap + Fallout Season 2 Episode 1 | Viewer Discretion",
+    "score": 10
+  },
+  {
+    "id": "YEcqtnNho-g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pFojZuh84yo",
+    "title": "The following is REAL footage from Portland, 2025. Viewer discretion is advised. #dailyshow",
+    "score": 10
+  },
+  {
+    "id": "BSkDJ7eCpb8",
+    "title": "Why the Alien Earth Season 1 Finale Was a Letdown | Viewer Discretion",
+    "score": 10
+  },
+  {
+    "id": "X9mzRyyxCKA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IBcNp7KA8ts",
+    "title": "The INFAMOUS Bullet Coaster Disaster | Viewer Discretion",
+    "score": 10
+  },
+  {
+    "id": "mXx5r6ZWVJQ",
+    "title": "Alligator Attacked and Killed Woman - Graphic Version viewer discretion is advised",
+    "score": 10
+  },
+  {
+    "id": "BmkpsrH_ZuI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Oue8sFE6PuA",
+    "title": "WAV07:  Small-Scale Fading",
+    "score": 10
+  },
+  {
+    "id": "Tm-Uyajcuqs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QASREBVDsLk",
+    "title": "Rod Wave - Fading (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "mBtay3_Ux7c",
+    "title": "Fading in Wireless Communication Channels | Simplified | Antenna and Wave Propagation Module 6 |",
+    "score": 10
+  },
+  {
+    "id": "nIata4K7egE",
+    "title": "Types of Fading Channels",
+    "score": 10
+  },
+  {
+    "id": "SQFf91Pus7k",
+    "title": "California’s Former Pot Towns Are Slowly Fading Away",
+    "score": 10
+  },
+  {
+    "id": "l2TJQdZwLHQ",
+    "title": "fading faith",
+    "score": 10
+  },
+  {
+    "id": "bbYP5Sk3sz0",
+    "title": "SURPRISE: Nicki Minaj Called Onstage By Trump —Then She Sends Message To The Haters",
+    "score": 10
+  },
+  {
+    "id": "9HZ_tx8aWuA",
+    "title": "Dua Lipa: Tiny Desk (Home) Concert",
+    "score": 10
+  },
+  {
+    "id": "6eW4c8tyK10",
+    "title": "Side Taper",
+    "score": 10
+  },
+  {
+    "id": "CipXbhzvuUo",
+    "title": "Thinning Shears",
+    "score": 10
+  },
+  {
+    "id": "AfGhYGmuHD8",
+    "title": "Types Of Small Scale Fading - Mobile Radio Propagation - Mobile Communication System",
+    "score": 10
+  },
+  {
+    "id": "hErxDp3TT6c",
+    "title": "High taper",
+    "score": 10
+  },
+  {
+    "id": "QImeIWcO31Q",
+    "title": "Miley Cyrus: Tiny Desk (Home) Concert",
+    "score": 10
+  },
+  {
+    "id": "W5-yezpcZNU",
+    "title": "World’s first fading comb 😱 - www.blendfrend.com 🛍️",
+    "score": 10
+  },
+  {
+    "id": "s9i6xuPgo7o",
+    "title": "Transformation 🔥 #barber #haircut #faded #tranformation #afro",
+    "score": 10
+  },
+  {
+    "id": "efgyVJkzYYI",
+    "title": "Small scale Fading due to Multipath delay spread \\u0026 Doppler spread",
+    "score": 10
+  },
+  {
+    "id": "RxuP1b7GEOs",
+    "title": "FLAT FADING",
+    "score": 10
+  },
+  {
+    "id": "Ag54UNaCgS0",
+    "title": "Wireless Communications: Small Scale Fading",
+    "score": 10
+  },
+  {
+    "id": "4ibjrRzvJ5E",
+    "title": "The Continuous Time Small Scale Fading Channel Response",
+    "score": 10
+  },
+  {
+    "id": "ItbZs0fPmuk",
+    "title": "Introduction to Small Scale Fading",
+    "score": 10
+  },
+  {
+    "id": "wIsEHtTVjNs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vjCsTsFnNqo",
+    "title": "Types of Small Scale Fading",
+    "score": 10
+  },
+  {
+    "id": "4khsyEeF33k",
+    "title": "Notable California Megachurch Pastor Confirmed Dead At Young Age. TRAGIC DETAILS. Lawrence Blake",
+    "score": 10
+  },
+  {
+    "id": "XnM1WV_7PJ4",
+    "title": "Confirmed: Frey and Walz Folded So Fast It Made Heads Spin – What Forced Their Hand Is BRUTAL",
+    "score": 10
+  },
+  {
+    "id": "60m1KuROF8Y",
+    "title": "BREAKING: It’s CONFIRMED…",
+    "score": 10
+  },
+  {
+    "id": "8egCwmSI5FM",
+    "title": "Donald Trump Just CONFIRMED The US Dollar is about to COLLAPSE!!! | EP 1428",
+    "score": 10
+  },
+  {
+    "id": "Dz1Bq4rac4U",
+    "title": "Trump Just Confirmed What Many Feared About the US Dollar",
+    "score": 10
+  },
+  {
+    "id": "lRZV9r4Buyo",
+    "title": "🚨LATEST CONFIRMED TRANSFER NEWS AHEAD OF JANUARY TRANSFER WINDOW 2026  Wharton ✅️, Alonso, Paquet 🔥 ",
+    "score": 10
+  },
+  {
+    "id": "dXwewr2HhBg",
+    "title": "Coordinators confirmed: All Ears with JP Finlay | NBC4 Washington",
+    "score": 10
+  },
+  {
+    "id": "xgq66Yxbl74",
+    "title": "New Andor Era CONFIRMED for SWGoH! New Cassian, Dedra, Partagaz, and More! Mandalorian + Ahsoka Too?",
+    "score": 10
+  },
+  {
+    "id": "2LVftOVPmMI",
+    "title": "🚨 NEW CONFIRMED TRANSFERS \\u0026 RUMOURS! 🚨🔥 ft. Onana, Casado, Wilson... etc",
+    "score": 10
+  },
+  {
+    "id": "ogPAblAnXOE",
+    "title": "🚨😱 CONFIRMED?! Clark Hunt Breaks Silence on Travis Kelce Retirement! KANSAS CITY CHIEFS NEWS TODAY",
+    "score": 10
+  },
+  {
+    "id": "Fl3hJ1Rke04",
+    "title": "10 SMALLEST Towns in KANSAS",
+    "score": 10
+  },
+  {
+    "id": "pUWm-cLD-BY",
+    "title": "The Warriors are already jumping on this...",
+    "score": 10
+  },
+  {
+    "id": "Fl4LKm_Kwjw",
+    "title": "NVIDIA’S BIG THURSDAY DEAL! 🚨 $10 Billion China Order Confirmed (Jensen Huang’s Masterstroke)",
+    "score": 10
+  },
+  {
+    "id": "-PZmWM2rab8",
+    "title": "The Thursday $10B Shock",
+    "score": 10
+  },
+  {
+    "id": "VYS7NSHmixo",
+    "title": "IT JUST HAPPENED: China SUSPENDED Silver Fund (They Confirmed the PANIC)",
+    "score": 10
+  },
+  {
+    "id": "5Txzr_iq5As",
+    "title": "Prophecy Confirmed: Interstellar Signs and Extreme Weather Are Unfolding #TheStarsAreFalling",
+    "score": 10
+  },
+  {
+    "id": "UhAu0g_35Hs",
+    "title": "ripple xrp david schwartz confirmed moon",
+    "score": 10
+  },
+  {
+    "id": "Eh1tB8FokEI",
+    "title": "After the stolen money was found, it was confirmed that it was stolen by someone else.#tvshow",
+    "score": 10
+  },
+  {
+    "id": "32k-ro7pt2w",
+    "title": "🚨This AFTERNOON 100% CONFIRMED✅ Baleba Want United! 😍 Anderson \\u0026 Wahrton DEAL📈Man United News ",
+    "score": 10
+  },
+  {
+    "id": "55vjvXYnj5U",
+    "title": "Senate in CHAOS as Trump Faces Impeachment from Within His Own Party",
+    "score": 10
+  },
+  {
+    "id": "JVueXX0ua5g",
+    "title": "\\\"SIFUNA STOP HARASSING ME\\\"🔥CICILY MBARIRE HOT EXCHANGE WITH EDWIN SIFUNA AT SENATE ACCOUNT COMMITTEE",
+    "score": 10
+  },
+  {
+    "id": "cJXw6PMlgpA",
+    "title": "Watters: He could lose EVERYTHING if he does this...",
+    "score": 10
+  },
+  {
+    "id": "ntEO15k_rhA",
+    "title": "Greg Gutfeld Show 1/28/26 FULL END SHOW | ᖴO᙭ ᗷᖇEᗩKIᑎG ᑎEᗯS January 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "DQz5C2GFwGk",
+    "title": "Travis Kelce \\u0026 Fiancé Taylor Swift surprised everyone by appearing for dinner in Kansas City",
+    "score": 10
+  },
+  {
+    "id": "wpd6COndLfc",
+    "title": "The Next Cold Blast Will Be BRUTAL...",
+    "score": 10
+  },
+  {
+    "id": "wB8HjpLM4Do",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rK8zDHoTzdE",
+    "title": "Nobody",
+    "score": 10
+  },
+  {
+    "id": "89LsPl0EqKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "E8QLAF4yzjw",
+    "title": "Steve Ray Ladson",
+    "score": 10
+  },
+  {
+    "id": "PuaL9yM6xak",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LGisyDTqwgg",
+    "title": "Why America is empty",
+    "score": 10
+  },
+  {
+    "id": "VYOjWnS4cMY",
+    "title": "I Exposed the State of Poverty in America Nobody Wants to Talk About",
+    "score": 10
+  },
+  {
+    "id": "jnPGNSdbrLU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zvSTfnrp2Uw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yh5bWExjAes",
+    "title": "Tales of the SPOILED, Most Ungrateful \\\"Rich Kids\\\" Meeting Reality! 💳😭📉",
+    "score": 10
+  },
+  {
+    "id": "XT-uxNwIa3E",
+    "title": "Why The US Is Really 12 Nations (Not 50 States)",
+    "score": 10
+  },
+  {
+    "id": "qzOu_fFWyyc",
+    "title": "How hard is it to survive in America?",
+    "score": 10
+  },
+  {
+    "id": "YvUB6VRQsiA",
+    "title": "No Blacks, No Gays: A 'White Only' Community Has Been Built In Arkansas",
+    "score": 10
+  },
+  {
+    "id": "3UY7GaLuKi8",
+    "title": "Kevin Skinner - Audition - AGT 2009 S4",
+    "score": 10
+  },
+  {
+    "id": "fHIvk-wozS4",
+    "title": "30 Hidden Underground Cities in America",
+    "score": 10
+  },
+  {
+    "id": "VKbU0HY4zwE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "h1R8Sq39YiQ",
+    "title": "American Gangster (4/11) Movie CLIP - Diluting the Brand (2007) HD",
+    "score": 10
+  },
+  {
+    "id": "FFJo3KhcZw4",
+    "title": "The Real Cost of Living in America 2026 | Nobody Is Talking About This",
+    "score": 10
+  },
+  {
+    "id": "x50u3soaCqg",
+    "title": "American Gangster: Somebody or Nobody",
+    "score": 10
+  },
+  {
+    "id": "RfJoR9snS98",
+    "title": "Mario - Nobody But Us (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "jld_WpRpFQ8",
+    "title": "'Nobody can take us': Trump praises military operation in Venezuela",
+    "score": 10
+  },
+  {
+    "id": "A1DE2OjbVQE",
+    "title": "The American And Florence / Nobody's Side",
+    "score": 10
+  },
+  {
+    "id": "fO6zSRX6pnk",
+    "title": "Nobody is 'From' America",
+    "score": 10
+  },
+  {
+    "id": "-OHsfw03UTg",
+    "title": "AMERICA IN 2026: NOBODY IS READY FOR WHAT'S COMING!!!",
+    "score": 10
+  },
+  {
+    "id": "3jajgZxchzI",
+    "title": "Trump Just ENDED the North American Alliance (And Nobody's Talking About It)",
+    "score": 10
+  },
+  {
+    "id": "LDXodmBXGkA",
+    "title": "Why Nobody Wants to Visit America Anymore",
+    "score": 10
+  },
+  {
+    "id": "QC0VTTB_auE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NEC7FmFRslE",
+    "title": "Nowhere KANSAS: Towns Where Life Barely Moves In A Quiet Corner Of The State",
+    "score": 10
+  },
+  {
+    "id": "1OKME_NPSTs",
+    "title": "Horton Kansas Is this America  The Heartland?",
+    "score": 10
+  },
+  {
+    "id": "iSYqjyMPtII",
+    "title": "Horton nurse speaks out of hospital conditions",
+    "score": 10
+  },
+  {
+    "id": "tieLri_elqA",
+    "title": "Horton Kansas- The Magic City by Michael Sheets",
+    "score": 10
+  },
+  {
+    "id": "f3WMxsok4fA",
+    "title": "Search Continues For Missing Horton Woman",
+    "score": 10
+  },
+  {
+    "id": "aBDisVQrC2A",
+    "title": "LARRY MOORE",
+    "score": 10
+  },
+  {
+    "id": "Lal_Pwjm6U4",
+    "title": "Horton man behind bars following drug investigation in Brown County",
+    "score": 10
+  },
+  {
+    "id": "Z65XtkHX9e0",
+    "title": "1601 Central Ave Horton, Kansas",
+    "score": 10
+  },
+  {
+    "id": "FjyNdx1_M50",
+    "title": "Dying KANSAS Towns Where Houses Cost Less Than A Pick-Up Truck!",
+    "score": 10
+  },
+  {
+    "id": "nb-dOqiJYEY",
+    "title": "Is This The Most Stagnant City in America?",
+    "score": 10
+  },
+  {
+    "id": "mvcgFmyUtwk",
+    "title": "Rural Kansas Small Towns | What's Really Out Here? - Rice County",
+    "score": 10
+  },
+  {
+    "id": "LmKvsSfKh4k",
+    "title": "Driving Around Hiawatha, Kansas, 2013",
+    "score": 10
+  },
+  {
+    "id": "Z0zg4qZcH8c",
+    "title": "Rare Kansas Tornado Footage Lifting Cows and Hitting Farm | 4K Storm Video",
+    "score": 10
+  },
+  {
+    "id": "2_26akyADLs",
+    "title": "The 10 Most DANGEROUS Cities in Kansas",
+    "score": 10
+  },
+  {
+    "id": "j49NikDYsnc",
+    "title": "Horton woman walking on I-70 killed in morning Topeka crash",
+    "score": 10
+  },
+  {
+    "id": "RdMEN-AvUmM",
+    "title": "Landing at the grass strip in Horton, Kansas",
+    "score": 10
+  },
+  {
+    "id": "Zcq7gRIX0hw",
+    "title": "1173 US 73 Hwy, Horton Kansas",
+    "score": 10
+  },
+  {
+    "id": "LfRDc2vqimU",
+    "title": "Small but beautiful lake",
+    "score": 10
+  },
+  {
+    "id": "ddG61y8Q2IA",
+    "title": "TOPEKA: Just HOW BAD Is It? What We Saw In The Kansas Capital City",
+    "score": 10
+  },
+  {
+    "id": "u7GqI11lRa4",
+    "title": "Pros \\u0026 Cons Of Living In LAWRENCE KANSAS: Moving To Lawrence Kansas | Relocating To Lawrence Kansas",
+    "score": 10
+  },
+  {
+    "id": "4OssHZBVDzc",
+    "title": "Intro to Pros \\u0026 Cons Of Living In Lawrence Kansas",
+    "score": 10
+  },
+  {
+    "id": "DEzzYga0QrY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "geN4Lq3K79Q",
+    "title": "934 3rd Ave W Horton Kansas",
+    "score": 10
+  },
+  {
+    "id": "UyAQnBxztK0",
+    "title": "What Does a $350K Home in Holton, Kansas Look Like? You Won't Believe It! Right outside Kansas City!",
+    "score": 10
+  },
+  {
+    "id": "NR4QcWjRz6U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SwRdhyit_yU",
+    "title": "Kansas - What's On My Mind",
+    "score": 10
+  },
+  {
+    "id": "Z5I7tnZdeCI",
+    "title": "Western Kansas",
+    "score": 10
+  },
+  {
+    "id": "d6VDauyogKk",
+    "title": "Kansas - What's On My Mind",
+    "score": 10
+  },
+  {
+    "id": "-v0z8RXK8vM",
+    "title": "Kansas - What's On My Mind",
+    "score": 10
+  },
+  {
+    "id": "kpyH8koTOi8",
+    "title": "What Is Kansas Known For? | Discover the Heart of the Heartland! 🌻🌪 | Traveling Kangaroo 🦘🏜️",
+    "score": 10
+  },
+  {
+    "id": "8lho2k58WM0",
+    "title": "The Wizard of Oz",
+    "score": 10
+  },
+  {
+    "id": "YaEhCyT7cKc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "10tguSGL6QU",
+    "title": "The 18-Month Window: The End of the Long-Term Debt Cycle",
+    "score": 10
+  },
+  {
+    "id": "vctKpylWDjI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "umt4SAYj4wY",
+    "title": "🚨😱 CONFIRMED! Chiefs Reunite With 6-Foot-3 WR Before Free Agency! KANSAS CITY CHIEFS NEWS TODAY",
+    "score": 10
+  },
+  {
+    "id": "0u7z8hL3ZEM",
+    "title": "Welcome to KANSAS - Educational Facts For Kids about #Kansas",
+    "score": 10
+  },
+  {
+    "id": "D8lSx9DiJ1U",
+    "title": "Kansas Beauty",
+    "score": 10
+  },
+  {
+    "id": "okI82QX8Ukk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GVrp45GwNOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zt46L8LZfTA",
+    "title": "Sidewalk Recording Triggers Police Response Caught on Camera ",
+    "score": 10
+  },
+  {
+    "id": "aE_g-LU0ThM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Rp80KlSgaQs",
+    "title": "Welcome to Kansas",
+    "score": 10
+  },
+  {
+    "id": "EcbPLh6nfYY",
+    "title": "Welcome to Kansas",
+    "score": 10
+  },
+  {
+    "id": "P5ZJui3aPoQ",
+    "title": "The Other Kansas City - Welcome to Kansas!",
+    "score": 10
+  },
+  {
+    "id": "QgTtgPasB1c",
+    "title": "Fetti Up - Welcome To Kansas City (ft Mz Mason x The Popper x Chauncey Clyde)",
+    "score": 10
+  },
+  {
+    "id": "E6MT3NuOhug",
+    "title": "The New Basement Tapes - Kansas City",
+    "score": 10
+  },
+  {
+    "id": "-X3hdFWmerQ",
+    "title": "Kansas: To the Stars",
+    "score": 10
+  },
+  {
+    "id": "mKc7FhVzQ9g",
+    "title": "Welcome to Coldwater, Kansas",
+    "score": 10
+  },
+  {
+    "id": "Jsp_E8uwNMo",
+    "title": "Kansas - Carry On Wayward Son (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "2X_2IdybTV0",
+    "title": "Travis \\u0026 Taylor Look elegant \\u0026 eye-catching at Taylor's Cousin's Wedding in West Hollywood",
+    "score": 10
+  },
+  {
+    "id": "3gF0Xq5rFmo",
+    "title": "🚨🔥 NFL IN SHOCK! A STAR JUST MADE A SECRET MOVE TO THE KANSAS CITY CHIEFS!",
+    "score": 10
+  },
+  {
+    "id": "hDolA60ZkuA",
+    "title": "🚨😱 3800 YARD RB COMING?! Etienne Fit in KC Looks Dangerous! KANSAS CITY CHIEFS NEWS TODAY",
+    "score": 10
+  },
+  {
+    "id": "fVlrLDHiXkU",
+    "title": "Newsom responds as MAJOR fraud allegations surface",
+    "score": 10
+  },
+  {
+    "id": "sMPhcb6kYs0",
+    "title": "URGENT DECISIONS: COULD THIS BE THE CHIEFS’ NEXT SUPERSTAR? - Kansas City Chiefs News Today 2026",
+    "score": 10
+  },
+  {
+    "id": "2tG2IaIYq_I",
+    "title": "15 Underground Cities HIDDEN in the US",
+    "score": 10
+  },
+  {
+    "id": "g8V2u7YT02w",
+    "title": "The Forgotten Tunnels of Portland",
+    "score": 10
+  },
+  {
+    "id": "wccSUiuMQWM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1qm656MM9DM",
+    "title": "Welcome to Kansas City",
+    "score": 10
+  },
+  {
+    "id": "2RGSH_cTCto",
+    "title": "Big City, Small Town - Welcome to Anthony Kansas",
+    "score": 10
+  }
+]

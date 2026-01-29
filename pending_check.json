@@ -1,1 +1,2567 @@
-[]
+[
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון  - 43 - פונקציות",
+    "score": 110
+  },
+  {
+    "id": "o0wyYsNbJeY",
+    "title": "35 - פונקציות (פעולות) - מדריך פייתון למתחילים, קורס מלא בעברית",
+    "score": 110
+  },
+  {
+    "id": "CpS59j4tujA",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "מאברהם ועד מדינת ישראל: 3,750 שנות היסטוריה יהודית #JewishHistory",
+    "score": 110
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "2U8a_4onC4s",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "דניאל ג'ינו- הרצאה- היסטוריה של ארץ ישראל-בר גלים 2015 Daniel Gino",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "איך מנוע 4 פעימות עובד",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "מתכון מדהים ללחם שאור",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "לחם מחמצת 100% כוסמין מלא",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "איך להכין לחם מחמצת- בעד ונגד אכילת לחם מחמצת ומתכון מלא",
+    "score": 60
+  },
+  {
+    "id": "PeCz3UKIQz4",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "XrNDNOkBnS4",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "מגילת ההצלה מול איראן | נתנאל אלינסון | הנס של מלחמת איראן מימי התנ\\\"ך ועד ימינו",
+    "score": 60
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "האם אנחנו בדרך לפיצול בין יהודה לישראל? פודקאסט עם נתנאל אלינסון | ארץ ושמיים פרק 46",
+    "score": 60
+  },
+  {
+    "id": "BX_RXZBP4Tg",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "J1D4sCcFv_4",
+    "title": "סתירות בין ארכיאולוגיה ומקרא-חגי משגב",
+    "score": 60
+  },
+  {
+    "id": "7hB3_bvdhxI",
+    "title": "היסטוריה, מקרא ומה שקרה: ראשיתן של ממלכות ישראל ויהודה",
+    "score": 60
+  },
+  {
+    "id": "Q9J0yAuftNE",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "מלחמת ששת הימים בקיצור",
+    "score": 60
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "אנגלית בחו\\\"ל - המילים שחובה עליכם לדעת | אנגלית למתחילים | לומדים לדבר בביטחון עם ספיזי",
+    "score": 60
+  },
+  {
+    "id": "ESTV1UncsDA",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "WXwYwitcfMg",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "I04F9E77k00",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "es2yKUPStbI",
+    "title": "Restoring a Legend 1970 Tomos Automatic N - Full RESTORATION",
+    "score": 50
+  },
+  {
+    "id": "bFt1lBtvyV4",
+    "title": "Antique Hatchet Restoration. SORT OF...",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "t8pPdKYpowI",
+    "title": "Course Intro \\u0026 Course Overview",
+    "score": 50
+  },
+  {
+    "id": "gTHKEOTF5nA",
+    "title": "How to Make Ballerina Farm Sourdough Loaves",
+    "score": 50
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "The BEST Beginner Sourdough Bread Tutorial on YouTube",
+    "score": 50
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "XnJn4epqEEk",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "2prUjhNE_-E",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "H5AqV9_6vgQ",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "Caterpillar Manufacturing: Inside the Factories Building Behemoths | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "xLJ7y25qE9A",
+    "title": "Megastructures - Airbus A380 Mega Plain Documentary National Geographic.",
+    "score": 50
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "Extreme Construction: Impossible Mega Projects | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "The Vatican: Building a Sacred Megastructure - Full Easy Documentary",
+    "score": 50
+  },
+  {
+    "id": "xTr39yYKFu0",
+    "title": "World’s Most Extreme Railway | Megastructures | Free Documentary",
+    "score": 50
+  },
+  {
+    "id": "6R5k-eZ9PNA",
+    "title": "Building the Impossible in Singapore | Megastructures: Gardens By The Bay | Full Documentary",
+    "score": 50
+  },
+  {
+    "id": "3su96YMYKAA",
+    "title": "UEFA Champions League Predictions: Final League Phase Matchday preview, best bets, value plays",
+    "score": 50
+  },
+  {
+    "id": "JKZQHYkvz0g",
+    "title": "TOOL: An Analysis of Forty Six \\u0026 2",
+    "score": 50
+  },
+  {
+    "id": "DyRDcg6R5qA",
+    "title": "how to write a Tool song",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Facets vs Filters | Grokking Search | Micro-Lesson",
+    "score": 50
+  },
+  {
+    "id": "0uOgH8gsZdY",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "sm5SZwgt_WM",
+    "title": "UEFA Champions League Matchday 8 Preview",
+    "score": 50
+  },
+  {
+    "id": "dfh8B2diSSw",
+    "title": "UEFA Champions League Matchday 8 PREVIEW | Chelsea vs Napoli | PSG vs Newcastle",
+    "score": 50
+  },
+  {
+    "id": "vHNyR_63bhE",
+    "title": "New DMT Experiment Opened a Gateway to an Alien World | Danny Goler",
+    "score": 50
+  },
+  {
+    "id": "-IiOzi05IlA",
+    "title": "In-Phase - Rise Again (Official HQ Preview)",
+    "score": 50
+  },
+  {
+    "id": "dkErNkX2HKM",
+    "title": "8 Things You Must Destroy to Rebuild Your Life After 50",
+    "score": 50
+  },
+  {
+    "id": "j4GzIPOI8lI",
+    "title": "How to Destroy Your Enemy - Sun Tzu",
+    "score": 50
+  },
+  {
+    "id": "pT6It4rnh_o",
+    "title": "Father makes son destroy PS4 after bad grades",
+    "score": 50
+  },
+  {
+    "id": "EsSIpFW_1a0",
+    "title": "Everyone RAVES About This Disney World Restaurant...Are They Right? -- Via Napoli Review",
+    "score": 50
+  },
+  {
+    "id": "16wpK-vcGg8",
+    "title": "Is Renewing Gattuso the Right Choice for Napoli ? |  Analysis",
+    "score": 50
+  },
+  {
+    "id": "Ae_OtlioW3o",
+    "title": "How to drink an espresso ☕️",
+    "score": 50
+  },
+  {
+    "id": "HFSp1wmSxpM",
+    "title": "How to Write a Melody?",
+    "score": 50
+  },
+  {
+    "id": "B-Odc7UKDqc",
+    "title": "make the last word of each line rhyme",
+    "score": 50
+  },
+  {
+    "id": "bKCnzuYBksk",
+    "title": "HOW TO MATCH LYRICS TO YOUR MELODY",
+    "score": 50
+  },
+  {
+    "id": "H78GXVL_9DI",
+    "title": "How to Write GREAT MELODIES in Under 25 Minutes",
+    "score": 50
+  },
+  {
+    "id": "ODjCufSt6_I",
+    "title": "How to put Melody to Lyrics! - Songwriting Hack! | DAWter",
+    "score": 50
+  },
+  {
+    "id": "EhjT6w-b6oY",
+    "title": "Incredible Analysis: Thierry Henry Explains Why Kylian Mbappe is So Lethal With the Ball at His Feet",
+    "score": 50
+  },
+  {
+    "id": "aAPWSSkWQck",
+    "title": "What Makes KDB and Modric So Brilliant? | Thierry Henry Breakdown \\u0026 Analysis | CBS Sports Golazo",
+    "score": 50
+  },
+  {
+    "id": "qkfFHy5Auk8",
+    "title": "Henry's incredible analysis of Arsenal \\u0026 Real Madrid's attack! | UCL Today | CBS Sports Golazo",
+    "score": 50
+  },
+  {
+    "id": "OcCESTmZy3Q",
+    "title": "Full Documentary | Thierry Henry | Arsenal Legends",
+    "score": 50
+  },
+  {
+    "id": "fSJUT8pYNeA",
+    "title": "Thierry Henry - Legend (documentary)",
+    "score": 50
+  },
+  {
+    "id": "jR-qf4ds65o",
+    "title": "Blues Make European History 🏆🔵 | Real Betis 1-4 Chelsea | UEFA Conference League Final Highlights",
+    "score": 50
+  },
+  {
+    "id": "5NA_HGnrnb4",
+    "title": "Shield Crush Wildspeaker | Leveling Guide | Phrecia League Start | PoE1",
+    "score": 50
+  },
+  {
+    "id": "lYjS7S93Iys",
+    "title": "Leveling Guide",
+    "score": 50
+  },
+  {
+    "id": "GwADruxCpWg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "E2Jc88PnPn4",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "TKwplhzRlrk",
+    "title": "Restoring a 'Truffy' Folding Chair from 1910 you've never seen before – From Rust to Elegance",
+    "score": 10
+  },
+  {
+    "id": "50JatlH4mMM",
+    "title": "Chapter 0: Intro Folding Chair",
+    "score": 10
+  },
+  {
+    "id": "Hh3OR6XyNMU",
+    "title": "Electrolysis: water and sodium carbonate solution, parts connected to negative side and steel sacrificial anodes to positive sice of a DC power supply (car battery charger). 2-3 hrs at 10amp.",
+    "score": 10
+  },
+  {
+    "id": "2DQgKrRxV9k",
+    "title": "Square any 2 digit number in 3 seconds I Crazy Math Trick",
+    "score": 10
+  },
+  {
+    "id": "mejvVvOZsdM",
+    "title": "Mental Math Tricks - Addition, Subtraction, Multiplication \\u0026 Division!",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jUIi6jgXXJY",
+    "title": "10 Math Tricks School Didn't Teach You But Should Have",
+    "score": 10
+  },
+  {
+    "id": "itW2Eie2eQ8",
+    "title": "Multiply by 9",
+    "score": 10
+  },
+  {
+    "id": "HE1urpP03aU",
+    "title": "Forbidden MULTIPLICATION Tricks Schools Never Taught You",
+    "score": 10
+  },
+  {
+    "id": "4-qcO4npAro",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How does an Electric Motor work?  (DC Motor)",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "The Only Video You'll Ever Need to Watch to Know how 4 Stroke and 2 Stroke Engines Work and Differ",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pu7g3uIG6Zo",
+    "title": "Clutch, How does it work?",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "3zRIndR9j40",
+    "title": "Combustion Cycle",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "DZt5xU44IfQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DiI-1PF_Mr0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CTuGXdyrWUo",
+    "title": "Beginner Sourdough Bread",
+    "score": 10
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "Simple Sourdough Bread: Step by Step 🍞🍞75% Hydration",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "-9Osn7JsP1Y",
+    "title": "Intro and Sourdough Starter Basics",
+    "score": 10
+  },
+  {
+    "id": "VRs7hu8Nbj0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "m-PcS2ulczc",
+    "title": "The Craziest Treehouses of SEASON 5! | Treehouse Masters | Animal Planet",
+    "score": 10
+  },
+  {
+    "id": "lE7EGwpJfMg",
+    "title": "Tortilla Chips.",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "eZcNmuOHtoY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U4QhCYlyIqE",
+    "title": "Easy English Speaking",
+    "score": 10
+  },
+  {
+    "id": "xvwX6hA12gk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LmaPm5_pckU",
+    "title": "Mega Dams \\u0026 Channels",
+    "score": 10
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "Superstructures: Largest Structures in the World | MEGA EPISODE | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "dysvg0pT0zA",
+    "title": "World’s Highest Double-Span Arch Bridge Revealed. Mega Infrastructure \\u0026 Steel Manufacturing",
+    "score": 10
+  },
+  {
+    "id": "q_D98f0Xgvo",
+    "title": "Record-breaking Chongqing arch bridge megaproject",
+    "score": 10
+  },
+  {
+    "id": "wjBNgSJ3WUU",
+    "title": "China’s $37 Billion Mega Dam That Literally Slowed Down the Earth’s Rotation",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
+    "score": 10
+  },
+  {
+    "id": "SaUVCSt2I58",
+    "title": "Largest Car Factory in the World (Full Episode) | Superstructures: Engineering Marvels | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "NQgal5kteYw",
+    "title": "WORLD MEGAPROJECTS | The Most Amazing Future Megastructures",
+    "score": 10
+  },
+  {
+    "id": "BtpFV5IB7dQ",
+    "title": "The most unbelievable megaprojects in the world",
+    "score": 10
+  },
+  {
+    "id": "P6KH70AwiXk",
+    "title": "Real Madrid's $1 Billion Super Stadium Upgrade (Full Episode) | Megastructures | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "tEm_H280JLc",
+    "title": "World’s Biggest Tent",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "smg-vVPyw1s",
+    "title": "El Burj Khalifa | Megaestructuras: Maravillas de la Ingenieria | Nat Geo en Español",
+    "score": 10
+  },
+  {
+    "id": "00VeaL8a__k",
+    "title": "Construction of the Largest Container Ship Ever Built | Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "uTSpdD6MswA",
+    "title": "Pasi Lautala Railway Engineer",
+    "score": 10
+  },
+  {
+    "id": "HVoifbegJ5E",
+    "title": "Mega Bridges",
+    "score": 10
+  },
+  {
+    "id": "7WnKd_r761k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Hk21mwGutf4",
+    "title": "UCL League Phase Completed | Qualified Teams \\u0026 Play-Offs Confirmed",
+    "score": 10
+  },
+  {
+    "id": "IvGwMEdBiY4",
+    "title": "ACL Rehab: Phase 4 | 6 To 12+ Months (Sprinting | Cutting | Return To Sport)",
+    "score": 10
+  },
+  {
+    "id": "QBmvrti6ULU",
+    "title": "UCL HIGHLIGHT (2-3) NAPOLI VS CHELSEA UEFA CHAMPIONS LEAGUE GOAL 2025/26 JOAO PEDRO GOALS",
+    "score": 10
+  },
+  {
+    "id": "OGjSRO2RE6M",
+    "title": "Phases (Extended Mix)",
+    "score": 10
+  },
+  {
+    "id": "BaInL5_fRbM",
+    "title": "Sekiro: Shadows Die Twice OST - Owl (Father) Second Phase Extended",
+    "score": 10
+  },
+  {
+    "id": "7RvwDMgnZZU",
+    "title": "Half-Life 2 OST — Pulse Phase (Extended Mix)",
+    "score": 10
+  },
+  {
+    "id": "bkVGhQpl4p4",
+    "title": "Elden Ring Nightreign OST - Maris, Fathom of Night (Augur) [Phase 3 Extended]",
+    "score": 10
+  },
+  {
+    "id": "iW9gsZUlEo4",
+    "title": "Inazuma Eleven OST Activate Burning Phase Extended",
+    "score": 10
+  },
+  {
+    "id": "aKKqVv45thY",
+    "title": "Radagon of the Golden Order (Phase 1 Extended)",
+    "score": 10
+  },
+  {
+    "id": "SDpexCxi23o",
+    "title": "Elden Ring OST - Bayle the Dread [Phase 1 Extended]",
+    "score": 10
+  },
+  {
+    "id": "zGRFp3Iu38M",
+    "title": "Parasite Eve OST - Out of Phase [Extended]",
+    "score": 10
+  },
+  {
+    "id": "mbIDq6jqbuk",
+    "title": "Parasite Eve OST - Out of Phase [Extended]",
+    "score": 10
+  },
+  {
+    "id": "0VRgfSGI2wo",
+    "title": "Elden Ring OST - Promised Consort Radahn (Radahn, Consort of Miquella) [Phase 1 Extended]",
+    "score": 10
+  },
+  {
+    "id": "PfUDSehfghw",
+    "title": "Elden Ring OST - Putrescent Knight [Phase 1 Extended]",
+    "score": 10
+  },
+  {
+    "id": "NEhWmaQ67AQ",
+    "title": "Parasite Eve ~ Out of Phase [Extended]",
+    "score": 10
+  },
+  {
+    "id": "z6-22nxtm7c",
+    "title": "Shifting Lunar Phase (Extended Lobby Bgm) | Girls' Frontline 2: Exilium",
+    "score": 10
+  },
+  {
+    "id": "3frYeawoUlQ",
+    "title": "Elden Ring Nightreign OST - Heolstor the Nightlord (Night Aspect) [Phase 3 Extended]",
+    "score": 10
+  },
+  {
+    "id": "MsUpQgSZJOs",
+    "title": "Hollow Knight: Sealed Vessel Extended (Phase 1)",
+    "score": 10
+  },
+  {
+    "id": "B9YrGMyqbL8",
+    "title": "Flying Lotus - Next Phase (Extended)",
+    "score": 10
+  },
+  {
+    "id": "oOfCWN6Sr-U",
+    "title": "Parasite Eve - U.B. 2nd phase [extended to 20 minutes]",
+    "score": 10
+  },
+  {
+    "id": "1k37WMBYVlo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "sYAW_XvvreU",
+    "title": "PHASE Sports Success story - RISE School",
+    "score": 10
+  },
+  {
+    "id": "4npTDSeUsRg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "fBraWDHhx_I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "747ig1qsSDI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ocE2mxkwG_w",
+    "title": "step two tune down to drop tuning play the same riff on the first three strings Ike the true rockstar you are",
+    "score": 10
+  },
+  {
+    "id": "KFivaPl5YKo",
+    "title": "TOOL - Lateralus (Audio)",
+    "score": 10
+  },
+  {
+    "id": "T0EUvhnbWvw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QFgTUDlWIOM",
+    "title": "The (Latest) Bankruptcy Boom",
+    "score": 10
+  },
+  {
+    "id": "W8-lfqYbJJE",
+    "title": "Wir besetzen Filme um (mit Sean David, Alper von Cinema Strikes back und Willis Videotreff",
+    "score": 10
+  },
+  {
+    "id": "7Cp87W72l7k",
+    "title": "Bambu Studio 2.5 Update Every New Feature Explained",
+    "score": 10
+  },
+  {
+    "id": "EueQqsb-k-Y",
+    "title": "Tool - FUNNY MOMENTS COMPILATION",
+    "score": 10
+  },
+  {
+    "id": "LZyeaNPI4uk",
+    "title": "The Genius Of Danny Carey",
+    "score": 10
+  },
+  {
+    "id": "_iHyGeiGc6A",
+    "title": "Tool - No Quarter (FULL HD)",
+    "score": 10
+  },
+  {
+    "id": "qpV6_wRO9J8",
+    "title": "EVERY Google AI Tool Explained (in 8 Minutes)",
+    "score": 10
+  },
+  {
+    "id": "yHk7Vavmc7Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "i27rS_3LHwI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "uiIHbcgvZtU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "h6kv0MxDlYA",
+    "title": "Benfica vs. Real Madrid: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "TAKsELXkp4E",
+    "title": "‘Joao Pedro is AMAZING right now!’ 🔥 Chelsea beat Napoli and seal a top eight spot | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "-aXuTyheSAo",
+    "title": "Henry, Carra \\u0026 Micah's honest opinion of the Saudi Pro League! | UCL Today | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "PmRQlxjUcOI",
+    "title": "Fiorentina vs. Como: Extended Highlights | Coppa Italia | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "PGSoj1xnKGI",
+    "title": "UCL Matchday 8 FIXTURES",
+    "score": 10
+  },
+  {
+    "id": "TyK7V7Fh3T8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "32Xskd53VMg",
+    "title": "Rappers React To TOOL \\\"Lateralus\\\"!!!",
+    "score": 10
+  },
+  {
+    "id": "Rj4dEc-ikH0",
+    "title": "Therapist reacts to HARD ROCK - Lateralus",
+    "score": 10
+  },
+  {
+    "id": "t0wp9pSme94",
+    "title": "MY BRAIN EXPLODED...WHAT?! | Metal Drummer REACTS to TOOL - Lateralus (Audio)",
+    "score": 10
+  },
+  {
+    "id": "4WPSyjYNk0g",
+    "title": "MONUMENTAL MUSICAL ACHIEVEMENT!! | Tool : Lateralus | Philosopher REACTS!!",
+    "score": 10
+  },
+  {
+    "id": "Li_rFINL9dU",
+    "title": "Tool - Lateralus (PIANIST REACTS)",
+    "score": 10
+  },
+  {
+    "id": "wPmlIP0XzWc",
+    "title": "Vocal coach REACTS - Tool 'Lateralus'",
+    "score": 10
+  },
+  {
+    "id": "v7eT-hchuM4",
+    "title": "Jazz Musician Reacts to Tool – “Lateralus” | This Is INSANE",
+    "score": 10
+  },
+  {
+    "id": "BSNnf8Xh2IA",
+    "title": "Classical musician reacts -- LATERALUS -- Tool -- FIRST TIME LISTENING -- *spiral out!!!*",
+    "score": 10
+  },
+  {
+    "id": "eBKbFPy2Qws",
+    "title": "POV: Transcribing Tool’s Lateralus",
+    "score": 10
+  },
+  {
+    "id": "JGHqaUxGZKU",
+    "title": "Classical Composer Reacts to Lateralus (Tool) - The Daily Doug (Episode 48)",
+    "score": 10
+  },
+  {
+    "id": "txySmL_XPzc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iFO_oydYSa4",
+    "title": "Psychotherapist Reacts To Tool - Lateralus",
+    "score": 10
+  },
+  {
+    "id": "ed0hrS9g9WI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KnBS8hDJddA",
+    "title": "Club Brugge vs. Marseille: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "8zfYO9sZjrE",
+    "title": "Monarch 10EE Taper Attachment Covers",
+    "score": 10
+  },
+  {
+    "id": "oxkhz8PLwyE",
+    "title": "Lateralus | @TOOLmusic cover | ft. Samuel Hope and Suphala",
+    "score": 10
+  },
+  {
+    "id": "6E1DkgUNfBc",
+    "title": "Kids Cover Sober By Tool / O'Keefe Music Foundation",
+    "score": 10
+  },
+  {
+    "id": "d6WZNPnSUBI",
+    "title": "Stinkfist - Tool (Acoustic Cover by Summer Woods)",
+    "score": 10
+  },
+  {
+    "id": "twXjqxsKidw",
+    "title": "Ænema | @TOOLmusic cover | ft. Samuel Hope",
+    "score": 10
+  },
+  {
+    "id": "QR-XVJkKoj4",
+    "title": "Kids Cover Sober By Tool / O'Keefe Music Foundation",
+    "score": 10
+  },
+  {
+    "id": "zrRiTygpkhc",
+    "title": "Teens Cover PNEUMA by TOOL",
+    "score": 10
+  },
+  {
+    "id": "pK8WxxzreDg",
+    "title": "Stinkfist - TOOL (70’s Soul/Funk Cover)",
+    "score": 10
+  },
+  {
+    "id": "WfUHpzokw3Y",
+    "title": "TOOL's Discography in One Take (Drum Cover) - Tyler Visser",
+    "score": 10
+  },
+  {
+    "id": "0kO0SnAu8Nc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rVwyAsU4dus",
+    "title": "TOOL \\\"THIRD EYE\\\" (Complete Band Cover w/ Vocals) @TOOLmusic",
+    "score": 10
+  },
+  {
+    "id": "kTbH1RZvfFc",
+    "title": "Cover of \\\"The Pot\\\" By TOOL With Drummer Danny Carey!",
+    "score": 10
+  },
+  {
+    "id": "-JWdh-F1xdQ",
+    "title": "Lateralus - Tool (Acoustic Cover by Summer Woods)",
+    "score": 10
+  },
+  {
+    "id": "2DIJooCINcE",
+    "title": "Forty Six \\u0026 2 | @TOOLmusic cover| ft. Sophia Urista",
+    "score": 10
+  },
+  {
+    "id": "M8LgFVXwAcg",
+    "title": "Tool - Lateralus (Cello Cover) - Break of Reality",
+    "score": 10
+  },
+  {
+    "id": "lFk5-d3Hr6k",
+    "title": "Acoustic TOOL | 1 Hour of Tool and A Perfect Circle for Solo Acoustic Guitar",
+    "score": 10
+  },
+  {
+    "id": "qNAaUuj8nAY",
+    "title": "Pneuma",
+    "score": 10
+  },
+  {
+    "id": "wiwRw8OM--I",
+    "title": "TOOL Ænema (FULL BAND COVER) Maynard Vocals Added @TOOLmusic",
+    "score": 10
+  },
+  {
+    "id": "4hizBLW1vCU",
+    "title": "Saving Escape covering Forty Six \\u0026 2 by TOOL",
+    "score": 10
+  },
+  {
+    "id": "60IYJ5rFY1s",
+    "title": "My Best Maynard Impression - Tool Stinkfist (Full Band Cover) @TOOLmusic",
+    "score": 10
+  },
+  {
+    "id": "3BASNczxkRk",
+    "title": "Ænema (TOOL cover)",
+    "score": 10
+  },
+  {
+    "id": "FfgRgghv7vg",
+    "title": "COMEDY NIGHT WITH CHAMPIONS | Episode 43 | Paul Shah, Usha Uppreti, Simran Pant, Chandra",
+    "score": 10
+  },
+  {
+    "id": "U7x3W-9weV0",
+    "title": "Barcelona vs. Copenhagen: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "KXw8CRapg7k",
+    "title": "The Champions: Seasons 1-4 in Full",
+    "score": 10
+  },
+  {
+    "id": "fSQamlph1Vs",
+    "title": "GOTZE Dortmund",
+    "score": 10
+  },
+  {
+    "id": "BOK8F9caDic",
+    "title": "The Champions: Season 5 In Full",
+    "score": 10
+  },
+  {
+    "id": "OdBLKBE1DdY",
+    "title": "Episode 1",
+    "score": 10
+  },
+  {
+    "id": "P7Twb6sCTF4",
+    "title": "The Champions: Season 7 In Full",
+    "score": 10
+  },
+  {
+    "id": "AfCRaHC7OqA",
+    "title": "Episode 1",
+    "score": 10
+  },
+  {
+    "id": "d5GkgVhFeZY",
+    "title": "🇫🇷 Crouin v Coll 🇳🇿 | Tournament of Champions 2026 | QUARTER FINAL HIGHLIGHTS",
+    "score": 10
+  },
+  {
+    "id": "UKiNpmkkVq0",
+    "title": "The Champions: Season 6 In Full",
+    "score": 10
+  },
+  {
+    "id": "3bzFFalkZE4",
+    "title": "Episode 1",
+    "score": 10
+  },
+  {
+    "id": "fQVM0o8EJp4",
+    "title": "Episode 11 | Rahul Dravid | Breakfast with Champions Season 6 | PART ONE",
+    "score": 10
+  },
+  {
+    "id": "rVRm_2V1j3o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OIlN6U_qAGg",
+    "title": "FINAL CHAMPIONS LEAGUE MATCHDAY WATCHALONG!",
+    "score": 10
+  },
+  {
+    "id": "H1K2GlboNZY",
+    "title": "'CHAMPIONS LEAGUE MIRACLE!' 🔥 Benfica's goalkeeper scores \\u0026 Real Madrid playoff bound | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "AwXJoYTQDpQ",
+    "title": "🇪🇬 Aboelkheir v Orfi 🇪🇬 | Tournament of Champions 2026 | QUARTER FINAL HIGHLIGHTS",
+    "score": 10
+  },
+  {
+    "id": "UJMVMyw8FB4",
+    "title": "Episode 6 | Rohit Sharma \\u0026 Shikhar Dhawan | Breakfast with Champions Season 6",
+    "score": 10
+  },
+  {
+    "id": "hZFNVj505HQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EqYgAX6D43Q",
+    "title": "Danny Hart's 2011 World Championship Winning Downhill Run at Champery",
+    "score": 10
+  },
+  {
+    "id": "6KZV7zfMGTg",
+    "title": "Danny’s Top 10 Teams Outside the Super Bowl 🤨 + Jennings on Potential Rodgers–McCarthy Reunion 👀",
+    "score": 10
+  },
+  {
+    "id": "rb6KJew4nqk",
+    "title": "The World's Hardest Flexer (with Danny Gonzalez)",
+    "score": 10
+  },
+  {
+    "id": "Ughpj5yE_Vw",
+    "title": "DANNY WAY IS UNSTOPPABLE | World of X Games",
+    "score": 10
+  },
+  {
+    "id": "mtwgitJ6u2Q",
+    "title": "The Legend of Danny Way – World of X Games",
+    "score": 10
+  },
+  {
+    "id": "BuaWU8HJnK8",
+    "title": "Danny Joseph and Deon Jones Go Deep Singing \\\"It's a Man's, Man's, Man's World\\\" | Voice Battles | NBC",
+    "score": 10
+  },
+  {
+    "id": "Fk7MKGLEaZ0",
+    "title": "Danny Cocke - World Collapsing - ExtendedMix",
+    "score": 10
+  },
+  {
+    "id": "FotuAE-e1JI",
+    "title": "Danny The Champion of The World, By: Roald Dahl (Audiobook)",
+    "score": 10
+  },
+  {
+    "id": "PqnX6QVk3AE",
+    "title": "DANDY'S WORLD - RUNNING TO FLOOR 50+ (Members Runs)",
+    "score": 10
+  },
+  {
+    "id": "iJkCH9Ab58Y",
+    "title": "Imagining the world anew - redrawing the world map | Danny Dorling | TEDxExeter",
+    "score": 10
+  },
+  {
+    "id": "Ttshw4mELNk",
+    "title": "THE BEST DRUMMER IN THE WORLD - DANNY CAREY | TOOL",
+    "score": 10
+  },
+  {
+    "id": "OxSLe9o5G5c",
+    "title": "DJ Damn Danny - Philippines - 2025 DMC Scratch Wildcard Finals",
+    "score": 10
+  },
+  {
+    "id": "trwvMchwlBc",
+    "title": "Danny The Champion Of The World - Roald Dahl (Adapted by Edward Kelsey)",
+    "score": 10
+  },
+  {
+    "id": "LayEask_EEw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "UGcbSbzULeM",
+    "title": "Benfica vs. Real Madrid: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "gLqKkrrc22w",
+    "title": "chelsea vs napoli 3-2 Highlights | Joao Pedro Brace \\u0026 Enzo fernandez Goal | Champions League 2026",
+    "score": 10
+  },
+  {
+    "id": "i_GF7PRyhtk",
+    "title": "#FULLGAME #UEFA-Champions-League: NAPOLI ( 2 - 3 ) CHELSEA | BENFICA ( 4 - 2 ) REAL MADRID",
+    "score": 10
+  },
+  {
+    "id": "k_aHwuWraAs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZkbMX6rc6as",
+    "title": "Eintracht Frankfurt vs. Galatasaray: Extended Highlights | UCL League Phase MD 1 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "KfHVgM2iVwE",
+    "title": "Atlético Madrid vs. Eintracht Frankfurt: Extended Highlights | UCL League Phase MD 2 | CBS Sports",
+    "score": 10
+  },
+  {
+    "id": "-YAPYKQrw7U",
+    "title": "Napoli vs. Eintracht Frankfurt: Extended Highlights | UCL League Phase MD 4 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "C6cYQl3rfQY",
+    "title": "Back-And-Forth THRILLER Sealed At The Death! | WERDER BREMEN - EINTRACHT FRANKFURT | Bundesliga",
+    "score": 10
+  },
+  {
+    "id": "ZoVyj-ymEdQ",
+    "title": "Eintracht Frankfurt vs. Atalanta: Extended Highlights | UCL League Phase MD 5 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "x1uwmzN-FnE",
+    "title": "PSG vs. Newcastle United: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "GwJCT6hPtiA",
+    "title": "Fenerbahçe vs. Eintracht Frankfurt: Extended Highlights | UEL | Group Stage - MD 6 | CBS Sports G…",
+    "score": 10
+  },
+  {
+    "id": "pG9zodQAClM",
+    "title": "Olympiacos vs. Eintracht Frankfurt: Extended Highlights | UEL Group Stage MD 4 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "J_M8MYjuE5I",
+    "title": "EINTRACHT FRANKFURT - MAINZ 05 | Highlights | Matchday 10 – Bundesliga 2025/26",
+    "score": 10
+  },
+  {
+    "id": "vpZKiCZH11E",
+    "title": "Eintracht Frankfurt vs. Marseille: Extended Highlights | UCL Group Stage MD 5 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "AmQWmeeER3Q",
+    "title": "Roma vs. Eintracht Frankfurt: Extended Highlights | UEL League Phase MD 8 | CBS Sports Golazo Europe",
+    "score": 10
+  },
+  {
+    "id": "Wu2Qxlmcd9A",
+    "title": "PENALTIES TO ADVANCE 👀 Eintracht Frankfurt vs. Borussia Dortmund | German Cup Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "qDOoKQjFn5M",
+    "title": "SCENES AT FULL-TIME: Eintracht Frankfurt 0-2 Tottenham Hotspur: Thomas Frank and the Players",
+    "score": 10
+  },
+  {
+    "id": "Iywz0NUnF1E",
+    "title": "Antwerp vs. Eintracht Frankfurt: Extended Highlights | UEL Group Stage MD2 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "3NgFfNJVpcw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3lrnNUqTmGU",
+    "title": "Moon Phases Explained (Animations and Timelapse)",
+    "score": 10
+  },
+  {
+    "id": "AQ5vty8f9Xc",
+    "title": "Why does the Moon Have Phases?",
+    "score": 10
+  },
+  {
+    "id": "LHD4Pk0D8_g",
+    "title": "Moon Phases Demonstration",
+    "score": 10
+  },
+  {
+    "id": "wz01pTvuMa0",
+    "title": "Next Time You See the MOON",
+    "score": 10
+  },
+  {
+    "id": "BQvo7vyCmuE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1CC0P7y90PU",
+    "title": "March 2018: New",
+    "score": 10
+  },
+  {
+    "id": "Tdxx4MYsv6c",
+    "title": "Rise/Set Times with Moon Phases",
+    "score": 10
+  },
+  {
+    "id": "gL9L_VpGb4o",
+    "title": "Phases of the Moon: Astronomy and Space for Kids - FreeSchool",
+    "score": 10
+  },
+  {
+    "id": "f4ZHdzl6ZWg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AvLAZvyFoQM",
+    "title": "Phases of moon explained using an orrery",
+    "score": 10
+  },
+  {
+    "id": "1sj2otIjZfM",
+    "title": "Waxing Crescent",
+    "score": 10
+  },
+  {
+    "id": "8G4QgQ1pUlA",
+    "title": "Marvel - Phase Four || Rise",
+    "score": 10
+  },
+  {
+    "id": "VUDaaCjfdm0",
+    "title": "Moon Phases II - Rise \\u0026 Set Times",
+    "score": 10
+  },
+  {
+    "id": "yxLh0V1i8gA",
+    "title": "phase rise",
+    "score": 10
+  },
+  {
+    "id": "MIoii2fzWmc",
+    "title": "FINAL FANTASY XIV - \\\"Rise (Alexander Prime Final Phase A12)\\\"【Instrumental Cover】 by Ferdk",
+    "score": 10
+  },
+  {
+    "id": "l_MO-rj_XP0",
+    "title": "Pre-Rut Tactics | Seeking Phase Strategies with Ben Rising",
+    "score": 10
+  },
+  {
+    "id": "Y-Z1c5inLPE",
+    "title": "Ben Rising's Background",
+    "score": 10
+  },
+  {
+    "id": "WOKyBtjcGPU",
+    "title": "Phases of an Action Potential - Resting Potential, Threshold, Rising, Falling, \\u0026 Recovery Phases",
+    "score": 10
+  },
+  {
+    "id": "3YFVg2DenaM",
+    "title": "The action potential can be divided into five phases: the resting potential, threshold, the rising phase, the falling phase, and the recovery phase.",
+    "score": 10
+  },
+  {
+    "id": "2K6oDokC2RI",
+    "title": "Please Don’t Destroy - Gone Too Soon - SNL",
+    "score": 10
+  },
+  {
+    "id": "benj2vseXs0",
+    "title": "The Day After Tomorrow (1/5) Movie CLIP - Tornadoes Destroy Hollywood (2004) HD",
+    "score": 10
+  },
+  {
+    "id": "6qBuJCfEn28",
+    "title": "BREAKING: GOP Turns on JD Vance After Mark Carney Memo Leaks — Billions Lost",
+    "score": 10
+  },
+  {
+    "id": "2P2nVwA5Qi4",
+    "title": "Viral video shows contractor destroy bathroom after he says homeowner refused to pay",
+    "score": 10
+  },
+  {
+    "id": "svQ4Kt4gp-E",
+    "title": "Please Don't Destroy - Skydiving - SNL",
+    "score": 10
+  },
+  {
+    "id": "h3hMnJd4W-E",
+    "title": "Please Don't Destroy - New Personalities - SNL",
+    "score": 10
+  },
+  {
+    "id": "KZnzRhtfSAY",
+    "title": "Please Don't Destroy - Roast - SNL",
+    "score": 10
+  },
+  {
+    "id": "XX_Rxvg8vdo",
+    "title": "There was Another Way to Destroy the Ring and Defeat Sauron",
+    "score": 10
+  },
+  {
+    "id": "Qhnc8TbUrKM",
+    "title": "Avoidants Texted You After Silence? This Brutal Reply Will Destroy Them.",
+    "score": 10
+  },
+  {
+    "id": "BqXS7v7ATmE",
+    "title": "The Brutal Truth: Why They Really Text You",
+    "score": 10
+  },
+  {
+    "id": "gg6dKhCGK2I",
+    "title": "Destroy Your House, Win a New One!",
+    "score": 10
+  },
+  {
+    "id": "uM0oFKlnvbU",
+    "title": "Please Don't Destroy - First Class ft. Bad Bunny - SNL",
+    "score": 10
+  },
+  {
+    "id": "qCzWL9OPpwE",
+    "title": "Please Don't Destroy - Hard Seltzer - SNL",
+    "score": 10
+  },
+  {
+    "id": "iBpgqRbEFVg",
+    "title": "Please Don't Destroy - Missing Person - SNL",
+    "score": 10
+  },
+  {
+    "id": "M9fbdJyd08g",
+    "title": "Scammers FREAK OUT After I DESTROY Them With 10,000 Viruses!",
+    "score": 10
+  },
+  {
+    "id": "BDpeQRyNnA8",
+    "title": "Please Don't Destroy - Jumper - SNL",
+    "score": 10
+  },
+  {
+    "id": "Nk6UTg_EFHs",
+    "title": "Scammer THROWS AWAY his Computer After I DESTROY It!",
+    "score": 10
+  },
+  {
+    "id": "istcD6Xddpw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uC7KHEjxWoE",
+    "title": "Playboi Carti and Destroy Lonely BEFORE and AFTER Fame",
+    "score": 10
+  },
+  {
+    "id": "MMInldN8YZ0",
+    "title": "AI2027: Is this how AI might destroy humanity? - BBC World Service",
+    "score": 10
+  },
+  {
+    "id": "1UufaK3pQMg",
+    "title": "The AI2027 scenario",
+    "score": 10
+  },
+  {
+    "id": "A3mfwzKba-Y",
+    "title": "Real Madrid vs Benfica 2-4 | Goals and Match Highlights | Champions League 2026",
+    "score": 10
+  },
+  {
+    "id": "jGCU7eYiCF0",
+    "title": "SUPER EXTENDE HIGHLIGHTS - Juventus vs Benfica | UEFA Champions League - Jornada 7 2025-26 | TUDN",
+    "score": 10
+  },
+  {
+    "id": "_ayWUcYyb4I",
+    "title": "ÚLTIMA JORNADA DE LA FASE LIGA EN DIRECTO | BENFICA vs REAL MADRID | UEFA CHAMPIONS LEAGUE 2025/26",
+    "score": 10
+  },
+  {
+    "id": "HKAZkfmoT_U",
+    "title": "🔴 SL BENFICA 0-2 FC PORTO (EM DIRETO) - Liga Nos Jornada 3 RELATO",
+    "score": 10
+  },
+  {
+    "id": "bBqJTGUx9EE",
+    "title": "TRUBIN MARCA E BENFICA GOLEIA O REAL MADRID! ESTAMOS NO PLAYOFF!",
+    "score": 10
+  },
+  {
+    "id": "sxmfNozM8qw",
+    "title": "¡Esto es La CHAMPIONS! Desastroso partido del Real Madrid y sin mostrar lo mejor Barcelona pasa",
+    "score": 10
+  },
+  {
+    "id": "H-pmzzU_XW4",
+    "title": "🔴 EM DIRETO | CONFERÊNCIA PÓS-JOGO | Benfica - Real Madrid",
+    "score": 10
+  },
+  {
+    "id": "fXqROHPpS8w",
+    "title": "BENFICA X REAL MADRID (4-2) RELATO DOS GOLOS ANTENA 1 | GOLO TRUBIN PÕE BENFICA NA LIGA DOS CAMPEÕES",
+    "score": 10
+  },
+  {
+    "id": "mkAESjvSUOE",
+    "title": "EL LARGUERO: EL BARÇA, ÚNICO QUE PASA EN EL TOP-8 Y RIDÍCULOS DE ATLÉTICO Y REAL MADRID (28/01/2026)",
+    "score": 10
+  },
+  {
+    "id": "j__X0RqNO3Q",
+    "title": "🫣 \\\"No sé qué es el REAL MADRID\\\", encendida discusión sobre la IDENTIDAD 'Merengue' | El Chiringuito",
+    "score": 10
+  },
+  {
+    "id": "6n7i9nWSB4Y",
+    "title": "Pós-jogo | SL Benfica x Real Madrid CF",
+    "score": 10
+  },
+  {
+    "id": "pooouTzpVAc",
+    "title": "When PRIME Thierry Henry Was Simply Unplayable",
+    "score": 10
+  },
+  {
+    "id": "y_SRqgfGuPo",
+    "title": "Liga BPI | Resumo | SL Benfica 8 - 0 SF Damaiense | Jornada 3",
+    "score": 10
+  },
+  {
+    "id": "yDoPG2azvWc",
+    "title": "⚽ÚLTIMA JORNADA / Champions League  - Benfica 🆚 Real Madrid + FC Barcelona 🆚 Copenhague",
+    "score": 10
+  },
+  {
+    "id": "nmNEhLwfuDA",
+    "title": "HIGHLIGHTS - Newcaste United vs Benfica | UEFA Champions League - Jornada 3 2025-26 | TUDN",
+    "score": 10
+  },
+  {
+    "id": "BXAEwQyPPuE",
+    "title": "Chelsea 1-0 Benfica | HIGHLIGHTS | Champions League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "t7xD6mVBL2M",
+    "title": "Liga BPI | Resumo | SL Benfica 4 - 1 Racing Power FC | Jornada 19",
+    "score": 10
+  },
+  {
+    "id": "Zsd_bKvB78E",
+    "title": "HIGHLIGHTS - Benfica vs Bayer Leverkusen | UEFA Champions League - Jornada 4 2025-26 | TUDN",
+    "score": 10
+  },
+  {
+    "id": "xJ8M7REa0Cc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "w9RN9wsW-Y8",
+    "title": "Atalanta vs. Athletic Club: Extended Highlights | UCL League Phase MD 7 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "-Ea0Aq9amNM",
+    "title": "Roma vs. Stuttgart: Extended Highlights | UEL League Phase MD 7 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "_LbjalzgxZ4",
+    "title": "Dramatic Chelsea snatch point against Manchester City | Premier League Update | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "9PukY7xKxds",
+    "title": "Every Premier League goal from Matchweek 23 (2025-26) | Premier League | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "R2_43UX3o3I",
+    "title": "Arsenal v. Manchester United | PREMIER LEAGUE HIGHLIGHTS | 1/25/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "0lp9kvScS-c",
+    "title": "Manchester United stun Arsenal at the Emirates | Premier League: RAW | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "R76JkdvEZcA",
+    "title": "Newcastle United v. Aston Villa | PREMIER LEAGUE HIGHLIGHTS | 1/25/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "550V-TMl4J4",
+    "title": "Everton v. Leeds United | PREMIER LEAGUE HIGHLIGHTS | 1/26/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "swca5jpdhjU",
+    "title": "West Ham United v. Sunderland | PREMIER LEAGUE HIGHLIGHTS | 1/24/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "mq8xCnjthOY",
+    "title": "Fulham v. Brighton | PREMIER LEAGUE HIGHLIGHTS | 1/24/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "nyQ_cK5gCqk",
+    "title": "Manchester City v. Wolves | PREMIER LEAGUE HIGHLIGHTS | 1/24/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "FiKt0vbIiJ0",
+    "title": "Brentford v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 1/25/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "NvZENYAUAKU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "b7CxLVHMLOc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d_t8Ts05RSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "HZU9DVkWNW4",
+    "title": "Power Apps Search and Filter Functions on Large SharePoint Lists",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "LLMs in Search: Generating Dynamic Filters and Facets",
+    "score": 10
+  },
+  {
+    "id": "B5CveO9hXUE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ne8De4m_SbE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Gd96h9WGdbo",
+    "title": "Matchday Madness Promo Video",
+    "score": 10
+  },
+  {
+    "id": "sDgJukxk6tE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "D4FpmUOMxSE",
+    "title": "Leonardo’s “360-degree” view of the industry",
+    "score": 10
+  },
+  {
+    "id": "tYz2fOYC-Es",
+    "title": "The Real Reason De Bruyne Chose Napoli 😳⚽️",
+    "score": 10
+  },
+  {
+    "id": "Vfjaic0rBzc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qhhpPOwQYGU",
+    "title": "Napoli vs. Chelsea: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "HTcwmsfSfIs",
+    "title": "Napoli vs Chelsea  2-3🔵 Top 8 ✅ | João Pedro Shines ✨ | Palmer Is Back | Liam \\u0026 Joe Cole Reacts",
+    "score": 10
+  },
+  {
+    "id": "YRzJnWYuocU",
+    "title": "Liam Rosenior discusses his journey at Chelsea so far and reflects on huge UCL win over Napoli 🔵",
+    "score": 10
+  },
+  {
+    "id": "Rell_rUIE8M",
+    "title": "Luis Enrique - Napoli, the profile is right but...",
+    "score": 10
+  },
+  {
+    "id": "fvNTrv-yqUI",
+    "title": "I’M VERY, VERY PROUD OF ALL THE MAN UTD PLAYERS! ❤️ | Scott McTominay | Napoli v Chelsea",
+    "score": 10
+  },
+  {
+    "id": "x5FtEcdm29U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jeR61kNSHBk",
+    "title": "HOW NAPOLI COULD LINE UPWITH KEVIN DE BRUYNE",
+    "score": 10
+  },
+  {
+    "id": "nr8Ol-m09pk",
+    "title": "NAPLES - CHELSEA: 2 - 3, THE RIGHT EPILOGUE",
+    "score": 10
+  },
+  {
+    "id": "iP8O3HIwT-k",
+    "title": "Simon Jordan EXPLAINS How Liam Rosenior SHOWS He Is The Right Manager For Chelsea!",
+    "score": 10
+  },
+  {
+    "id": "yxaC4e9VKL0",
+    "title": "⚡ NAPOLI Needs This 19-Year-Old Brazilian BEAST - Here's WHY 🇧🇷",
+    "score": 10
+  },
+  {
+    "id": "9hGGY2Hszws",
+    "title": "NAPOLI IN CRISIS UNDER CONTE?! 😬",
+    "score": 10
+  },
+  {
+    "id": "C9ozJZwoYkc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RG4ZyZhqNHc",
+    "title": "Tool - No Quarter (FULL HD)",
+    "score": 10
+  },
+  {
+    "id": "uDT1tniPD2Q",
+    "title": "Tool - No Quarter (Salival) [Led Zeppelin Cover]",
+    "score": 10
+  },
+  {
+    "id": "rpgdHpbQuDE",
+    "title": "Stinkfist - Tool (Acoustic Cover by Summer Woods)",
+    "score": 10
+  },
+  {
+    "id": "ctt87B6hU1M",
+    "title": "The Pot | @TOOLmusic cover | ft. Sophia Urista",
+    "score": 10
+  },
+  {
+    "id": "AakY_SiLcFk",
+    "title": "I TRIED to Sell $110 Silver to Coin Shops - NOT Good!",
+    "score": 10
+  },
+  {
+    "id": "J8RLGg-BktA",
+    "title": "School of Rock Students Perform \\\"Schism\\\" by Tool",
+    "score": 10
+  },
+  {
+    "id": "FbCRyMDI6x8",
+    "title": "Tool 'Forty Six and 2' (Drum Cover)",
+    "score": 10
+  },
+  {
+    "id": "Lq2lK4NrHEU",
+    "title": "School of Rock Students Perform \\\"Lateralus\\\" by Tool",
+    "score": 10
+  },
+  {
+    "id": "1CZe1sagOS8",
+    "title": "Tool -- Schism (Orchestral Arrangement)",
+    "score": 10
+  },
+  {
+    "id": "0vC1KTCgaME",
+    "title": "Lateralus - Tool (Acoustic Cover by Summer Woods)",
+    "score": 10
+  },
+  {
+    "id": "v-MkaYQe5DU",
+    "title": "Tool - 46 \\u0026 2 (1960's Motown Soul IA Cover)",
+    "score": 10
+  },
+  {
+    "id": "MHScpvEaVq4",
+    "title": "TOOL - Ticks \\u0026 Leeches (Guitar Cover with Play Along Tabs)",
+    "score": 10
+  },
+  {
+    "id": "bCEHpmoe0Qw",
+    "title": "Lateralus (Tool cover)",
+    "score": 10
+  },
+  {
+    "id": "uPd_Wgwl7Bc",
+    "title": "Sober - Tool (Acoustic Cover by Summer Woods)",
+    "score": 10
+  },
+  {
+    "id": "N_mm60jZXmw",
+    "title": "Tool - Lateralus (Cello Cover) - Break of Reality",
+    "score": 10
+  },
+  {
+    "id": "NYR4AjMAX7g",
+    "title": "TOOL - Eulogy (Guitar Cover with Play Along Tabs)",
+    "score": 10
+  },
+  {
+    "id": "ScJETM93xIU",
+    "title": "Intro (A)",
+    "score": 10
+  },
+  {
+    "id": "bQBDwdECd_s",
+    "title": "Tool - Lateralus [clone cover]",
+    "score": 10
+  },
+  {
+    "id": "KJHjLgv1EP4",
+    "title": "Acoustic TOOL | 1 Hour of Tool and A Perfect Circle for Solo Acoustic Guitar",
+    "score": 10
+  },
+  {
+    "id": "-sTl5P-rJns",
+    "title": "Arsenal vs Kirat 3-2 All goals \\u0026 Extended Highlights | Champions league ",
+    "score": 10
+  },
+  {
+    "id": "i947KXaNUCU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gg4qN_vx-PU",
+    "title": "HIGHLIGHTS | Arsenal 2-3 Manchester United | Premier League",
+    "score": 10
+  },
+  {
+    "id": "unk5GXCuOhE",
+    "title": "How Man Utd’s ‘rope-a-dope’ move humbled Arsenal",
+    "score": 10
+  },
+  {
+    "id": "-IfTDb-eMU8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZzLBRidnnXw",
+    "title": "WHAT A WIN!!! 😱 | Arsenal 2-3 Man Utd | Highlights",
+    "score": 10
+  },
+  {
+    "id": "6lW23rVS8ns",
+    "title": "Arsenal DOMINATE Europe! Havertz \\u0026 Gyokeres WERE CLASS! Arsenal 3-2 Kairat",
+    "score": 10
+  },
+  {
+    "id": "W3ZHkr-5bl4",
+    "title": "Arsenal WIN 8 OUT OF 8 in UCL!  PERFECT Run | Arsenal 3–1 Kairat ",
+    "score": 10
+  },
+  {
+    "id": "ddCSUD_8HBY",
+    "title": "Perfect Arsenal! Arsenal 3-2 Kairat | Chelsea COMEBACK! Napoli 2-3 Chelsea | PSG 1-1 Newcastle",
+    "score": 10
+  },
+  {
+    "id": "pI1EbdnjgpI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4Af-OGsMmME",
+    "title": "Havertz takes us to a DIFFERENT LEVEL | Mikel Arteta | Arsenal 3-2 Kairat",
+    "score": 10
+  },
+  {
+    "id": "ICCS17dOy0w",
+    "title": "Intro.",
+    "score": 10
+  },
+  {
+    "id": "AJKi_yCI-Sk",
+    "title": "“Arsenal can’t panic” | Keane, Vieira, Neville \\u0026 Richards discuss Arsenal after defeat to Man Utd",
+    "score": 10
+  },
+  {
+    "id": "LMyXa_3oAHg",
+    "title": "The panel put banter aside to have a serious discussion on Arsenal 2-3 Man United…",
+    "score": 10
+  },
+  {
+    "id": "zj05m-XiUHk",
+    "title": "The panel discuss and predict Arsenal vs Man United ",
+    "score": 10
+  },
+  {
+    "id": "6lRO0QNDa-4",
+    "title": "NORTH LONDON DERBY DELIGHT 🤩 | EXTENDED HIGHLIGHTS | Arsenal v Tottenham Hotspur (4-1) | EPL",
+    "score": 10
+  },
+  {
+    "id": "sRBQpghDdXs",
+    "title": "Gareth Southgate England comparisons for Arteta \\u0026 Arsenal following Man United loss",
+    "score": 10
+  },
+  {
+    "id": "w2a1jVuDJqM",
+    "title": "ARSENAL BEST IN EUROPE! Gyokeres \\u0026 Havertz Shine! Arsenal 3-2 Kairat Almaty",
+    "score": 10
+  },
+  {
+    "id": "suYEyRaclGc",
+    "title": "\\\"HAAAS ANYONE SEEN ARSENAL!\\\" Jason Cundy MOCKS Gunners after LOSING to Man Utd!",
+    "score": 10
+  },
+  {
+    "id": "C__5p1xdE0Q",
+    "title": "DECLAN RICE AND GABRIEL SECURE THRILLING COMEBACK WIN | HIGHLIGHTS | Bournemouth 2 - 3 Arsenal | PL",
+    "score": 10
+  },
+  {
+    "id": "m-pMWFL-lNI",
+    "title": "RICE AND SAKA GOALS SECURE THE WIN! | Arsenal vs West Ham United (2-0) | Premier League",
+    "score": 10
+  },
+  {
+    "id": "s4H5UWxeuDM",
+    "title": "Roy Keane, Patrick Vieira and Micah Richards REACT to Arsenal 2-3 Man Utd",
+    "score": 10
+  },
+  {
+    "id": "51XrjYOzQ_o",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "Kjyeib6P6PU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gZMqgIaj1oY",
+    "title": "Melodic Rhythm and Lyric Rhythm - Part 1 of 4",
+    "score": 10
+  },
+  {
+    "id": "h4q4cg4OvM0",
+    "title": "Bon Iver - There’s A Rhythmn (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "wY0s8-mYQTE",
+    "title": "SNAP! - Rhythm Is A Dancer (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "nN7pIuc2mz4",
+    "title": "Rhythm Of Love - Plain White Ts - (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ndrFbvH6JTc",
+    "title": "Katy Perry - Chained To The Rhythm (Lyrics) ft. Skip Marley",
+    "score": 10
+  },
+  {
+    "id": "6nkGE1qw8Dg",
+    "title": "5 Lyrical Rhythms you NEED to Know",
+    "score": 10
+  },
+  {
+    "id": "rubo4XDbJ5c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eYv_1D8URBY",
+    "title": "Michael Bublé - Sway (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "VmZ8pKZUVfY",
+    "title": "Lyrical Rhythm Matching: The game-changing skill for Songwriters",
+    "score": 10
+  },
+  {
+    "id": "NHaaEiQI4_E",
+    "title": "No More Rhyme (Lyrics Video) - Debbie Gibson",
+    "score": 10
+  },
+  {
+    "id": "F9_NGnoB5V0",
+    "title": "Enrique Iglesias - Rhythm Divine (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rl-V2IsUprQ",
+    "title": "Lyric Writing - Create Awesome Rhythm \\u0026 Rhyme",
+    "score": 10
+  },
+  {
+    "id": "q5-rz9Ax06g",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "SHx5e0RKw-g",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Cjp6RVrOOW0",
+    "title": "The Rhythm",
+    "score": 10
+  },
+  {
+    "id": "ARqAf1U68oo",
+    "title": "RHYTHM OF THE RAIN (The Cascades) Học Tiếng Anh Qua Bài Hát |Thảo Kiara",
+    "score": 10
+  },
+  {
+    "id": "YD8Do2gkY48",
+    "title": "Rhythm Of The Rain | The Cascades (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "MZUG_NdwcRg",
+    "title": "Janet Jackson - Rhythm Nation (Lyrics HD)",
+    "score": 10
+  },
+  {
+    "id": "8sF7CHkDhKU",
+    "title": "In Parallel - I Need A Rhythm (Lyrics) feat. ROZZZQWEEN",
+    "score": 10
+  },
+  {
+    "id": "4eCS-V0RT5g",
+    "title": "Elevation Rhythm - Washed (with lyrics)(2025)",
+    "score": 10
+  },
+  {
+    "id": "zTlMpK7nCac",
+    "title": "Washed (Lyric Video) - ELEVATION RHYTHM",
+    "score": 10
+  },
+  {
+    "id": "q_xaWInkE6s",
+    "title": "THANK GOD I’M FREE | ELEVATION RHYTHM \\u0026 Lizzie Morgan (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "oVogTnCuvNU",
+    "title": "Selena Gomez - Me \\u0026 The Rhythm (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "FPCdlp8nVVs",
+    "title": "Thank God I'm Free (Lyric Video) - ELEVATION RHYTHM + Lizzie Morgan",
+    "score": 10
+  },
+  {
+    "id": "vVQ2zUrKjT0",
+    "title": "Johnny Cash - Get Rhythm (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "UBxQV9VvA80",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wvVs_s1IbrU",
+    "title": "Rhythm of Life Lyrics for Choir!! :D",
+    "score": 10
+  },
+  {
+    "id": "tx9BIMAXuac",
+    "title": "SNAP! - Rhythm Is A Dancer (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "DMiREvBzGY0",
+    "title": "Gloria Estefan \\u0026 Miami Sound Machine - Rhythm is Gonna Get You (Lyrics version)",
+    "score": 10
+  },
+  {
+    "id": "xs8KmUwoYYw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "e89F5X0bIxE",
+    "title": "12 Times Thierry Henry Shocked The World",
+    "score": 10
+  },
+  {
+    "id": "CjG_XOfXFlc",
+    "title": "Prime Thierry Henry Was UNSTOPPABLE 😱",
+    "score": 10
+  },
+  {
+    "id": "TBUolnYQO0k",
+    "title": "Thierry Henry: I Was Depressed, Crying \\u0026 Dealing With Trauma!",
+    "score": 10
+  },
+  {
+    "id": "aivpDPCP7Q8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QdsXq6WkKWc",
+    "title": "Henry: Arsenal Glory, Barca Battles \\u0026 Premier League Legacy | Stick to Football EP 85",
+    "score": 10
+  },
+  {
+    "id": "UFR07iPUnZM",
+    "title": "Thierry Henry's best goals for FC Barcelona",
+    "score": 10
+  },
+  {
+    "id": "Ku4BlsoPw9k",
+    "title": "Thierry Henry after winning the Champions League with Barcelona",
+    "score": 10
+  },
+  {
+    "id": "k6dSyiDkIIc",
+    "title": "Premier League Legends Talk About Thierry Henry",
+    "score": 10
+  },
+  {
+    "id": "318i0pCXbgY",
+    "title": "Thierry Henry, Jamie Carragher \\u0026 Micah Richards Rank the Top-5 UCL Teams Ever | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "VgLYrhpMDXE",
+    "title": "Thierry Henry ● FC Barcelona ● 2007-2010 HD",
+    "score": 10
+  },
+  {
+    "id": "xCOSljAqDEg",
+    "title": "Thierry Henry Was An Absolute Beast In His Prime 🤯",
+    "score": 10
+  },
+  {
+    "id": "K9Q5_GkknxE",
+    "title": "UCL Today FULL SHOW: Real Madrid OUT of Champions League top eight! | Thierry, Jamie, Kate \\u0026 Micah",
+    "score": 10
+  },
+  {
+    "id": "6XPeeOvP5zM",
+    "title": "Thierry Henry EXPOSES How Man United Outsmarted Man City 2–0",
+    "score": 10
+  },
+  {
+    "id": "hrjTLhBzTu4",
+    "title": "Thierry Henry brilliantly breaks down Kylian Mbappe's major issue at Real Madrid | UCL Today | CBS",
+    "score": 10
+  },
+  {
+    "id": "PHpP3JdmL6c",
+    "title": "Thierry Henry's masterclass on how Haaland can improve on-and-off the ball | UCL Today | CBS Sports",
+    "score": 10
+  },
+  {
+    "id": "k6KpfMo_rYk",
+    "title": "Thierry Henry's incredible masterclass on Kylian Mbappé's finishing | UCL Today | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "lbtx3j2mxc0",
+    "title": "10 AMAZING Arsenal goals scored by Thierry Henry | Premier League",
+    "score": 10
+  },
+  {
+    "id": "bKZLiBOuJq4",
+    "title": "Thierry Henry's BEST moments of 2023 🤩 | UCL Today | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "l933aX_h7hU",
+    "title": "Thierry Henry Reacts To AFCON Final 🍿🏆 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "IwB-iPkMq8A",
+    "title": "Thierry Henry's Career Defining Moments | The Moments That Made Them",
+    "score": 10
+  },
+  {
+    "id": "0kFgpKrVvlc",
+    "title": "2003 Thierry Henry was actually INSANE",
+    "score": 10
+  },
+  {
+    "id": "ksBTx23OGL4",
+    "title": "The Greatest Ever Arsenal Player - Thierry Henry",
+    "score": 10
+  },
+  {
+    "id": "0ejI30Yx6UA",
+    "title": "Why Nobody Can Touch Thierry Henry | The EPL GOAT",
+    "score": 10
+  },
+  {
+    "id": "ZFJArIeTs68",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tGzI38BF-FI",
+    "title": "Prime Henry making commentators moan and scream",
+    "score": 10
+  },
+  {
+    "id": "Pba2OLQPO1U",
+    "title": "Thierry Henry had to remind us who bossed the 2006 Champions League. 😂",
+    "score": 10
+  },
+  {
+    "id": "NaOevKsAfFY",
+    "title": "Thierry Henry is Arsenal through and through ❤️",
+    "score": 10
+  },
+  {
+    "id": "4XlqygB_RzI",
+    "title": "Premier League Legends Talk About Thierry Henry",
+    "score": 10
+  },
+  {
+    "id": "1vhdQTULX2c",
+    "title": "Antonio Conte as a manager",
+    "score": 10
+  },
+  {
+    "id": "-vp-MP5K9ng",
+    "title": "Chelsea 3-0 Barcelona | HIGHLIGHTS | Champions League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "DKR_IkLqpaM",
+    "title": "Napoli - Chelsea | 2-3 | Highlights | UEFA Champions League 2025-26 | napoli chelsea",
+    "score": 10
+  },
+  {
+    "id": "q4rcnFyAyK4",
+    "title": "VS Sevilla (h)",
+    "score": 10
+  },
+  {
+    "id": "iBrCs_vYh4I",
+    "title": "Chelsea - Road To Victory • U.C.L 2012",
+    "score": 10
+  },
+  {
+    "id": "mv99LH-D3YI",
+    "title": "Group stage",
+    "score": 10
+  },
+  {
+    "id": "xQ-LUe_eNO4",
+    "title": "Chelsea 1-0 Pafos | HIGHLIGHTS | Champions League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "wfncb0d5YLs",
+    "title": "Crystal Palace 1-3 Chelsea | HIGHLIGHTS | Premier League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "lKK8c7ib3Bw",
+    "title": "Chelsea ⌑ Road to Victory - UCL 2021",
+    "score": 10
+  },
+  {
+    "id": "sUPd4HqW28s",
+    "title": "Group Stage",
+    "score": 10
+  },
+  {
+    "id": "SIs2qrU98hY",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "x8SuMoRhqzE",
+    "title": "PSV vs. Bayern: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "awtbcWrgnUY",
+    "title": "FULL HIGHLIGHT (2-3) NAPOLI VS CHELSEA !!! UEFA CHAMPIONS LEAGUE 2025/26 HOJLUND ENZO GOALS FANSCAM",
+    "score": 10
+  },
+  {
+    "id": "T78dyjaOg6o",
+    "title": "HIGHLIGHTS - Manchester City vs Galatasaray | UEFA Champions League - Jornada 8 2025-26 | TUDN",
+    "score": 10
+  }
+]

@@ -1,1 +1,3457 @@
-[]
+[
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "6MmzVZVJJWI",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "אנגלית בחו\\\"ל - המילים שחובה עליכם לדעת | אנגלית למתחילים | לומדים לדבר בביטחון עם ספיזי",
+    "score": 60
+  },
+  {
+    "id": "xu5C00bbcNE",
+    "title": "תרגול דיבור באנגלית למתחילים | תרגול שיחות בסיסיות באנגלית",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "4VTMH2UZMm8",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "רפאל המטייל ויאנצ׳יקס בניסוי מדעי מטורף ! מכינים מנורת לבה!!! | ניסויים מדעיים עם ילדים",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "ניסוי מדעי קל בסבון לילדים! #מדע #ניסוי",
+    "score": 60
+  },
+  {
+    "id": "Alegd3R7i6w",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "WCM65ION4nE",
+    "title": "Learn Python for FREE in 2025",
+    "score": 50
+  },
+  {
+    "id": "q2-pnQffZik",
+    "title": "How I Would Learn Python (if I could start over)",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Learn Spanish While you Sleep MUST KNOW PHRASES",
+    "score": 50
+  },
+  {
+    "id": "RWo2MYVUPzM",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "pA69U4L9KOY",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "MgthcVIh1ZQ",
+    "title": "Easy Oil Painting Techniques EVERYONE Should Know! (Step by Step Oil Painting Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "_KIzFIgzuYQ",
+    "title": "The World in 2030: Top 20 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "FUTURE TECHNOLOGY (feat. IMA)",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "20 Coolest Tech at CES 2025",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "22 Future Technologies That Could Rewrite Reality",
+    "score": 50
+  },
+  {
+    "id": "uUdDQSb5Jqo",
+    "title": "Top 15 New Technology Trends That Will Define The Collapse of Entire Industries",
+    "score": 50
+  },
+  {
+    "id": "gXjUlez98MA",
+    "title": "Magnetic Thrusters: The FUTURE of Propulsion Technology",
+    "score": 50
+  },
+  {
+    "id": "CbOmgCF8KCE",
+    "title": "Top 10 Future Technologies In 2026 | High Paying Future Technology 2026 | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "5 Future Technologies That Will Be Normal by 2030",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "Top 15 New Technology Trends That Will Define 2026 [Part 2]",
+    "score": 50
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "$1 vs $1,000,000,000 Futuristic Tech!",
+    "score": 50
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "America CAN'T Compete with China’s High-Tech Future! 🇨🇳",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "dwqtp89L9bA",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "2prUjhNE_-E",
+    "title": "Extreme Construction: Impossible Mega Projects | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "dysvg0pT0zA",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "IkFB4VM3zeg",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "6I6D3TT5Vmk",
+    "title": "IMPOSSIBLE CHINA | The Most Incredible Mountain Worlds Ever Seen | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "BtpFV5IB7dQ",
+    "title": "Incredible Engineering: Enormous Construction | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "The Vatican: Building a Sacred Megastructure - Full Easy Documentary",
+    "score": 50
+  },
+  {
+    "id": "00VeaL8a__k",
+    "title": "Products Exploding With Color! | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "7WnKd_r761k",
+    "title": "MegaStructures - Super Copters (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "B_ze4ifuDZI",
+    "title": "Get up friend ITS TIME TO PRAY | Morning Prayer : James 1:5-8 🙏🏽✨ #explore #biblestudy #fyp #prayer ",
+    "score": 50
+  },
+  {
+    "id": "Z0HK3gE4OSM",
+    "title": "How To Control Anger? Ghussey Ko Kese Control Krain? | Self-Improvement | World of Wisdom",
+    "score": 50
+  },
+  {
+    "id": "OIJf48kciSg",
+    "title": "How To Attract Anyone Towards You? | Kisi Ko Apni Taraf Kese Mail Krein? | World of Wisdom",
+    "score": 50
+  },
+  {
+    "id": "no-_voyVz4U",
+    "title": "Taoism's World Changing Wisdom [DOCUMENTARY]",
+    "score": 50
+  },
+  {
+    "id": "0soRUOTDWBg",
+    "title": "Documentary of Stuttering John Part 2: First Blood",
+    "score": 50
+  },
+  {
+    "id": "oSc91yxUF7g",
+    "title": "Documentary of Stuttering John Part 1: The Genesis of The Dabbleverse",
+    "score": 50
+  },
+  {
+    "id": "duWBmKWlynY",
+    "title": "Interstellar Secrets of Ancient Civilizations | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "A7vfjK9oNLs",
+    "title": "Have Aliens Been Visiting Earth for Millions of Years? | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "2GBTZb06xf4",
+    "title": "Evidence of Early Alien Contact with Earth | Ancient Aliens (S1, E99) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "5cJ8BpQuyXc",
+    "title": "The Terrible World-building Of Harry Potter Maps",
+    "score": 50
+  },
+  {
+    "id": "u0_3yHVIyXk",
+    "title": "Luka Doncic Is The Worst Defender In NBA History",
+    "score": 50
+  },
+  {
+    "id": "7dtFu8gOgws",
+    "title": "The Greatest General in History? Alexander the Great (All Parts)",
+    "score": 50
+  },
+  {
+    "id": "XLtwqX9iQ5U",
+    "title": "15 EPIC Battles in History",
+    "score": 50
+  },
+  {
+    "id": "v8uxnJnvbMw",
+    "title": "THE LARGEST Ancient Battles in History",
+    "score": 50
+  },
+  {
+    "id": "5XYShlRdpHg",
+    "title": "Battle of Agincourt, 1415 (ALL PARTS) ⚔️ England vs France ⚔️ Hundred Years' War DOCUMENTARY",
+    "score": 50
+  },
+  {
+    "id": "HkdeT04U1sI",
+    "title": "Megiddo 1457 BC  - Oldest Battle in History - Bronze Age DOCUMENTARY",
+    "score": 50
+  },
+  {
+    "id": "79F_Mu4-oQk",
+    "title": "Timelapse of Every Battle in History",
+    "score": 50
+  },
+  {
+    "id": "HK5OsDWYJmQ",
+    "title": "Epic Battles That Changed History Forever",
+    "score": 50
+  },
+  {
+    "id": "swKv-Q7Nn5E",
+    "title": "The Most Insane Battle in History",
+    "score": 50
+  },
+  {
+    "id": "7_3yDImIQYU",
+    "title": "The Battle of Leyte Gulf - Most INSANE Naval Battle in History",
+    "score": 50
+  },
+  {
+    "id": "0wQLflDq-yU",
+    "title": "70 Life Lessons That Will Fix 93% Of Your Problems",
+    "score": 50
+  },
+  {
+    "id": "_lCLdb8zbdM",
+    "title": "How To Be Happy And Positive All The Time | Positive Thinking | Motivational Story |",
+    "score": 50
+  },
+  {
+    "id": "RVmyBiW5GyM",
+    "title": "When Life Is So Unfair | A Life Lesson Story About Patience |",
+    "score": 50
+  },
+  {
+    "id": "u0Ptw0r0Pq0",
+    "title": "These Life Lessons Are Requirements In Life, Not Choices",
+    "score": 50
+  },
+  {
+    "id": "c0MxQP1fC8M",
+    "title": "1 Hour Of The Greatest Motivational Quotes From History",
+    "score": 50
+  },
+  {
+    "id": "V8mkD6g9Ujc",
+    "title": "Why WorldFirst? The Complete Guide",
+    "score": 50
+  },
+  {
+    "id": "apxsIiKuLxU",
+    "title": "How To CREATE WorldFirst Account (2025)",
+    "score": 50
+  },
+  {
+    "id": "ROQNfVc4BYI",
+    "title": "How to Create a WorldFirst Bank Account 🌍 | Step-by-Step Full Setup for E-Commerce Sellers (2025)",
+    "score": 50
+  },
+  {
+    "id": "MwMiniOYrAw",
+    "title": "@tokenhiphop \\u0026 @therealtechn9ne  PETER OPEN VERSE  @UtahDoesntExistUDX @SammiAutoTV #THEPLATFORMTOUR",
+    "score": 50
+  },
+  {
+    "id": "qYyIN6mbsPI",
+    "title": "Can I make it through FINAL OPEN QUALIFYING? (every shot shown)",
+    "score": 50
+  },
+  {
+    "id": "KWrjew6MwRk",
+    "title": "How to Play Patterns That Don't Sound Like Patterns - Peter Martin | 2 Minute Jazz",
+    "score": 50
+  },
+  {
+    "id": "B_2zKwhPfdE",
+    "title": "How to filter searches on the YouTube iOS app",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Facets vs Filters | Grokking Search | Micro-Lesson",
+    "score": 50
+  },
+  {
+    "id": "ccYuhCMPimg",
+    "title": "Jon Rahm vs Brooks Koepka Highlights | 2022 WGC-Dell Technologies Match Play",
+    "score": 50
+  },
+  {
+    "id": "pWoQUJ7m73c",
+    "title": "How To Finish Drywall - THE BASICS FOR BEGINNERS!",
+    "score": 50
+  },
+  {
+    "id": "ZMMUemMiocs",
+    "title": "From Jesus to Christ: The First Christians, Part One (full documentary) | FRONTLINE",
+    "score": 50
+  },
+  {
+    "id": "Dwsi7x2Kg3s",
+    "title": "4-6 year old BOY shows ALL, how to FINISH CONCRETE",
+    "score": 50
+  },
+  {
+    "id": "0sQ0opC123Y",
+    "title": "How To Style A Navy Suit",
+    "score": 50
+  },
+  {
+    "id": "_fpeFfLduWs",
+    "title": "How To Wear Navy in 2023 (Outfits, Makeup, Color Pairings \\u0026 More)",
+    "score": 50
+  },
+  {
+    "id": "fKw_4uaK7pY",
+    "title": "How to Wear Navy, Camel \\u0026 Grey",
+    "score": 50
+  },
+  {
+    "id": "lTHr9UcvWko",
+    "title": "The Lord's my \"},{\"text\":\"shepherd\",\"bold\":true},{\"text\":\", I'll not want. He makes me ...",
+    "score": 50
+  },
+  {
+    "id": "13433v7AKEc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-qiMuTAnnlU",
+    "title": "10 Important Python Concepts In 20 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Gx5qb1uHss4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ESTV1UncsDA",
+    "title": "Want to start speaking English? Start with these sentences | English sentences everyone should kn...",
+    "score": 10
+  },
+  {
+    "id": "xvwX6hA12gk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EeiPpjRn0vg",
+    "title": "Improve your SPANISH listening by up to 90% in just 45 minutes!",
+    "score": 10
+  },
+  {
+    "id": "5Ga566gw01Q",
+    "title": "Master Speaking Basic Spanish in 2 Hours with This Video",
+    "score": 10
+  },
+  {
+    "id": "LOmHVNYz0Mw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JYpgk69XCdc",
+    "title": "Understanding Wood Joints | Ask This Old House",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dPw8J2G7cqI",
+    "title": "Oil Painting Basics",
+    "score": 10
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Introduction to the Deep Ocean",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "Exploring the Ocean's Secrets with James Cameron | OceanXplorers | MEGA EPISODE | Nat Geo Animals",
+    "score": 10
+  },
+  {
+    "id": "IF-Gj1tZnWw",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "This Discovery in the Mariana Trench Will Transform Geopolitics (4K)",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "T6BOb8J7Wi0",
+    "title": "Deep Trouble (2023)",
+    "score": 10
+  },
+  {
+    "id": "elhlCZ7EEIo",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "HAhLl4xkt9k",
+    "title": "Why Deep Sea Creatures Get Creepier the Deeper You Go",
+    "score": 10
+  },
+  {
+    "id": "mzeN0BXR4e0",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Deep Sea Gigantism | Why the Ocean Breeds Giants",
+    "score": 10
+  },
+  {
+    "id": "Jc7ogKSFs_4",
+    "title": "The Bridge at Dusk - Alternate Version by Jim Gifford [from Waterwick: Prologue Short Film Soundtrack]",
+    "score": 10
+  },
+  {
+    "id": "bxIV_itPWkU",
+    "title": "15 Massive Sea Creatures Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "khU9e86ovas",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "En4RWAZB6Yo",
+    "title": "28 Inventions of the Future that will soon be Available to Everyone",
+    "score": 10
+  },
+  {
+    "id": "s4ET7Vn3nz4",
+    "title": "AutoKeybo",
+    "score": 10
+  },
+  {
+    "id": "L2pMSsfLoSM",
+    "title": "Conscious AI",
+    "score": 10
+  },
+  {
+    "id": "PFVvCs9iQco",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N9NdQUBE4Cw",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "5VuW76Bc5Mw",
+    "title": "2030",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "t5oSxg5iG44",
+    "title": "China Is Living in 2050",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sKR5_TWp8DQ",
+    "title": "John Part Vs Peter Manley - 4th round - 2003 PDC UK open",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qkbQ4KJICqs",
+    "title": "Cabbie vs John | Part 2",
+    "score": 10
+  },
+  {
+    "id": "iQacscSsGXQ",
+    "title": "PDC MOMENTS | John Part wins first PDC World Title",
+    "score": 10
+  },
+  {
+    "id": "trjdNSy6k7w",
+    "title": "Glen Durrant | Tungsten Masterclass",
+    "score": 10
+  },
+  {
+    "id": "wOmFA9kmvnQ",
+    "title": "Hal Lindsey Ministries ~ NEW SERIES ~ The Book of John (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "B2TGEm5lF-0",
+    "title": "John Part | The Darts Show Podcast Special | Episode 9",
+    "score": 10
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Shanghai Super Tower: The 60,000 Ton Behemoth Made Out Of Steel | Megastructures Episode 4",
+    "score": 10
+  },
+  {
+    "id": "P6KH70AwiXk",
+    "title": "China’s Mega Machines Just Broke Every Rule of Physics — Experts Are Stunned",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "How Billions Canned Tuna Are Processed - Amazing Tuna Harvesting \\u0026 Processing In Factory",
+    "score": 10
+  },
+  {
+    "id": "v4XZiwQa3jc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "100 Most Dangerous And Most Powerful Machines | Ingenious Tools And Equipment",
+    "score": 10
+  },
+  {
+    "id": "RglPFY6xh6c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "84wpH1UjpPY",
+    "title": "The most unbelievable megaprojects in the world",
+    "score": 10
+  },
+  {
+    "id": "xLJ7y25qE9A",
+    "title": "WORLD MEGAPROJECTS | The Most Amazing Future Megastructures",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "uTSpdD6MswA",
+    "title": "Pasi Lautala Railway Engineer",
+    "score": 10
+  },
+  {
+    "id": "HVoifbegJ5E",
+    "title": "Mega Bridges",
+    "score": 10
+  },
+  {
+    "id": "tEm_H280JLc",
+    "title": "World’s Biggest Tent",
+    "score": 10
+  },
+  {
+    "id": "xTr39yYKFu0",
+    "title": "Real Madrid's $1 Billion Super Stadium Upgrade (Full Episode) | Megastructures | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "smg-vVPyw1s",
+    "title": "The Craziest Treehouses of SEASON 5! | Treehouse Masters | Animal Planet",
+    "score": 10
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "Singapore's Vegas: Inside Singapore's Most Luxurious Casino Resort | Megastructures Episode 1",
+    "score": 10
+  },
+  {
+    "id": "V_HYOpcknjU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-ktiaCo9y0c",
+    "title": "First First World Darts Champion - Dennis Priestley 1994",
+    "score": 10
+  },
+  {
+    "id": "zZETAGc0QDA",
+    "title": "John Lowe 9-dart finish FIRST EVER ON TV",
+    "score": 10
+  },
+  {
+    "id": "AAxxGoajAKA",
+    "title": "John Part Walk On 2008",
+    "score": 10
+  },
+  {
+    "id": "1RRKVlU27xc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "zAlCtm48t7Y",
+    "title": "van barneveld vs john part UK 2009",
+    "score": 10
+  },
+  {
+    "id": "IexVpFZIWNo",
+    "title": "John Part - 2008 World Champion",
+    "score": 10
+  },
+  {
+    "id": "YIfrAjkc83w",
+    "title": "New world of active wisdom | Mary Catherine Bateson | TEDxCapeMay",
+    "score": 10
+  },
+  {
+    "id": "1CkaD_aoVBw",
+    "title": "Hail Mary, Gentle Woman | Carey Landry | Catholic Hymn | Choir (SATB) with Lyrics | Sunday 7pm Choir",
+    "score": 10
+  },
+  {
+    "id": "OUey6ytEXqY",
+    "title": "The Gospel of Mary - Christian Gnosticism - Christian Mystics",
+    "score": 10
+  },
+  {
+    "id": "nINPLVLeSnM",
+    "title": "Wisdom of The World (Queen Mary’s Castle) - MOTHER / EARTHBOUND BEGINNINGS",
+    "score": 10
+  },
+  {
+    "id": "XTmA6Xx7eFw",
+    "title": "WISDOM \\u0026 WONDER | Marriage. Divorce. Singleness. | Matthew 19:1-12 | Philip Anthony Mitchell",
+    "score": 10
+  },
+  {
+    "id": "VAm-MKthQ_8",
+    "title": "Wisdom",
+    "score": 10
+  },
+  {
+    "id": "OMdoNhInmtQ",
+    "title": "WISDOM AND WONDER | Growing Through Storms | Matthew 14:22-33 | Philip Anthony Mitchell",
+    "score": 10
+  },
+  {
+    "id": "4up1kCSyG34",
+    "title": "Mary's Wisdom (with Mary Joe)",
+    "score": 10
+  },
+  {
+    "id": "OYpJvdwEsJs",
+    "title": "The old man whose medicine I paid for said so.: 'After your son leaves, don't rake the garden.'",
+    "score": 10
+  },
+  {
+    "id": "qdrky27F2tI",
+    "title": "#كورس#صاروخي#مجاني عن ان بي سي وكيف تتعرف عليهم لتحمي طاقتك منهم شاهد نماذج حية عليهم داخل الفيديو",
+    "score": 10
+  },
+  {
+    "id": "eHWj7syY_EM",
+    "title": "Stop Worrying and Start Living in Peace |  Philip Anthony Mitchell (2819 Church)",
+    "score": 10
+  },
+  {
+    "id": "pAcJ7VBc9yc",
+    "title": "THURSDAY Rosary Prayer \\u0026 Chaplet 🌹LUMINOUS Mysteries of the Rosary Catholic Prayer, January 29, 2026",
+    "score": 10
+  },
+  {
+    "id": "eWDMujlY7K4",
+    "title": "Today's Rosary - The Luminous Mysteries",
+    "score": 10
+  },
+  {
+    "id": "DZq4HbYNDu8",
+    "title": "God Commands you to stay until the end",
+    "score": 10
+  },
+  {
+    "id": "8R2KoMedf9Q",
+    "title": "Quiet Morning Prayer Before Sunrise | A Peaceful Moment With God",
+    "score": 10
+  },
+  {
+    "id": "gs6aYAXl2Gg",
+    "title": "STOP STRESSING, GOD CHOSE YOU | Stop Worrying \\u0026 Let God Work | Philip Anthony Mitchell (2819 Church)",
+    "score": 10
+  },
+  {
+    "id": "_OHByuShZyE",
+    "title": "Thursday, January 29th | Miracle Prayer | Prayer for God’s Help",
+    "score": 10
+  },
+  {
+    "id": "i626unENHV0",
+    "title": "The Dark Side Of Feminism's \\\"Liberation\\\" - Mary Harrington",
+    "score": 10
+  },
+  {
+    "id": "8-pTX3X4yVE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6Pvs4ORRjCc",
+    "title": "Total Consecration to Jesus Incarnate Wisdom thru Mary (by: St. Louis Marie de Montfort)",
+    "score": 10
+  },
+  {
+    "id": "iWsSn8RzFf0",
+    "title": "WISDOM AND WONDER | Give Me A Sign | Matthew 12:38-45 | Philip Anthony Mitchell",
+    "score": 10
+  },
+  {
+    "id": "a1SQSEiYDDs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yPfkf3DBfOs",
+    "title": "The War on Reality, Mary Harrington \\u0026 Paul Kingsnorth",
+    "score": 10
+  },
+  {
+    "id": "x4kms2jkKbA",
+    "title": "Louise Perry",
+    "score": 10
+  },
+  {
+    "id": "Ci1H-dWj5zI",
+    "title": "CREATION Painting of Michaelangelo",
+    "score": 10
+  },
+  {
+    "id": "9QYXDTAG03I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "uj79qX2vpQg",
+    "title": "The Art of Worldly Wisdom by Baltasar Gracian [Audiobook]  #300maximsforlife #classicliterature",
+    "score": 10
+  },
+  {
+    "id": "IPncLmBqVdY",
+    "title": "Hidden Psychology Facts About Human Behavior | Mind Blowing Psychology Quotes | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "RkQbYWJ5JeA",
+    "title": "30 Interesting Psychology Facts About Human Behavior - Psychology Facts | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "wQr47ipMnfw",
+    "title": "150 Wisdom Quotes of Hazrat Ali R.A | 150 Hikmat Bhari Baatein of Hazrat Ali R.A | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "ZGzA9wPIHII",
+    "title": "Hazrat Ali (R.A) Ne Irshad Farmaya | Jis Insan Ko Ghussa Ziyada Ata Ha |  World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "VKsQVs9aYhU",
+    "title": "Hazrat Ali (A.S) Ne Farmaya | Jab Tum Ander Se Toot Jao | Tanha Ho Jao To Meri Aik Baat Yaad Rkhna",
+    "score": 10
+  },
+  {
+    "id": "53DUoW3Umc4",
+    "title": "If you want to talk to Allah in solitude then | Golden Words | Deep Wisdom Quotes | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "LTR4rLrkBDg",
+    "title": "Hazrat Ali R.A Quotes | Golden Words Hikmat Ki Batain | Danai ki batain Part- 3 | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "0BXmZKVTuBM",
+    "title": "Rishte Motiyun Ki Trah Hote Hain | Khoobsurat Aqwal | Golden Quotes of Life | World of Wisdom",
+    "score": 10
+  },
+  {
+    "id": "lppzGcedWb8",
+    "title": "Wisdom of The World (Queen Mary’s Castle) - MOTHER / EARTHBOUND BEGINNINGS",
+    "score": 10
+  },
+  {
+    "id": "kBMkbTv1Y8k",
+    "title": "World Wisdom- Chief Arvol",
+    "score": 10
+  },
+  {
+    "id": "CE9vH3vtrr4",
+    "title": "BRISTOL, UK JANUARY 2020",
+    "score": 10
+  },
+  {
+    "id": "j7ZMgiRfpoY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "37Oe6brSmJM",
+    "title": "PDC MOMENTS | John Part wins first PDC World Title",
+    "score": 10
+  },
+  {
+    "id": "yo1Tgg4fYTI",
+    "title": "MOMENT JOHN PART BEAT THE \\\"UNBEATABLE\\\" PHIL TAYLOR IN 2003 WORLD DARTS CHAMPIONSHIP FINAL",
+    "score": 10
+  },
+  {
+    "id": "nTMLEmOVsKc",
+    "title": "2024 Canadian Open Men's Singles - Kiley Edmunds vs John Part",
+    "score": 10
+  },
+  {
+    "id": "UHwZOjzyZfc",
+    "title": "The SECRET Book of John Part 1 | The Hidden God Revealed (Gnosticism)",
+    "score": 10
+  },
+  {
+    "id": "bEL5K_DMquA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EHXiM8JdzTY",
+    "title": "Mardle \\u0026 Part",
+    "score": 10
+  },
+  {
+    "id": "mk_0wa9RHso",
+    "title": "Taylor v Part - 2002 World Matchplay Final - Extended Highlights",
+    "score": 10
+  },
+  {
+    "id": "2eQrdlfWIlM",
+    "title": "NINE-DARTER! | John Part v Mark Webster!",
+    "score": 10
+  },
+  {
+    "id": "bYocR9udWDc",
+    "title": "John Part Dart Throw",
+    "score": 10
+  },
+  {
+    "id": "8ZppqcJRS8I",
+    "title": "John Part's EPIC Star Wars walk-on ahead of the World Darts Championship final in 2008",
+    "score": 10
+  },
+  {
+    "id": "7x3FxfkJqLI",
+    "title": "The CREATION and ENSLAVEMENT of HUMANITY | The SECRET Book of John Part 3 | Gnosticism",
+    "score": 10
+  },
+  {
+    "id": "hlSwE-o8F-E",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "5iPpcYVvQDU",
+    "title": "John Part feels disrespected by the PDC",
+    "score": 10
+  },
+  {
+    "id": "VPzp51qfqB8",
+    "title": "Magic and the Extraterrestrial Hypothesis",
+    "score": 10
+  },
+  {
+    "id": "VzI8MczxsSI",
+    "title": "Ancient Earth (2026) The Forbidden Truth About Earth’s Lost Civilizations",
+    "score": 10
+  },
+  {
+    "id": "S2xju2teNSw",
+    "title": "【FULL】Ancient Princess Reborn as a Country Girl,The True Heiress Dominates Her New World#女频",
+    "score": 10
+  },
+  {
+    "id": "9cdUxZuarL0",
+    "title": "The Nile and the First Megastructures",
+    "score": 10
+  },
+  {
+    "id": "2-TPpCwmb_c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AlARXYpfqDU",
+    "title": "10 ANCIENT MYTHS WHICH TURNED OUT TO BE TRUE",
+    "score": 10
+  },
+  {
+    "id": "TfQ6K8h_FBw",
+    "title": "Zecharia Sitchin Introduces The Anunnaki Theory",
+    "score": 10
+  },
+  {
+    "id": "rqTMNdJem00",
+    "title": "The Real FLASH: Ancient Legend Behind The Myth",
+    "score": 10
+  },
+  {
+    "id": "dn7oemOPmGg",
+    "title": "Top 30 Ancient Greek Myths That Turned Out To Be TRUE",
+    "score": 10
+  },
+  {
+    "id": "UfPz00kHFyY",
+    "title": "The Ancient Astronaut Theory",
+    "score": 10
+  },
+  {
+    "id": "5pAQUw6kWag",
+    "title": "Best of TopTenz: Ancient Myths that Turned Out to Be True",
+    "score": 10
+  },
+  {
+    "id": "awZAbxAUecA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Qfm6nfz1QNQ",
+    "title": "The Wizarding World of Harry Potter: A Rainy Evening at Hogwarts Ambience \\u0026 Music",
+    "score": 10
+  },
+  {
+    "id": "-DCiemPA8QY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "I8Qb8GjYDno",
+    "title": "We Tried Every Drink at Harry Potter World (Ranked 1-12)",
+    "score": 10
+  },
+  {
+    "id": "jss0p6pv4LU",
+    "title": "This is how Real Madrid fans reacted to Benfica's 4-2 win over Real Madrid and Barcelona's 4-1 vi...",
+    "score": 10
+  },
+  {
+    "id": "l394jwTDGIg",
+    "title": "All 12 RICHEST Wizarding Families in Harry Potter EXPLAINED in Detail",
+    "score": 10
+  },
+  {
+    "id": "if2VyOC3Dt8",
+    "title": "[1818 Golden Eye] Why is it not considered a hit-and-run when a Mercedes-Benz drove away directly...",
+    "score": 10
+  },
+  {
+    "id": "JH3l7PySHzM",
+    "title": "Creating the World of Harry Potter, Part 5: Evolution",
+    "score": 10
+  },
+  {
+    "id": "7hQ1Pp6Y09I",
+    "title": "Epic Universe Is Officially Florida’s Lowest-Rated Theme Park",
+    "score": 10
+  },
+  {
+    "id": "Zxfirn0r4Hg",
+    "title": "I ATE AT BRITAIN'S RUDEST RESTAURANT!",
+    "score": 10
+  },
+  {
+    "id": "ksKTaCBC5os",
+    "title": "The Ultimate Harry Potter Behind The Scenes Moments",
+    "score": 10
+  },
+  {
+    "id": "F0C23cm5aiA",
+    "title": "Rupert's Audition",
+    "score": 10
+  },
+  {
+    "id": "B233NCo5Y3c",
+    "title": "DHS Shooting Debate Explodes On Rogan Podcast | HasanAbi Archive",
+    "score": 10
+  },
+  {
+    "id": "wnheLK_BzY0",
+    "title": "Highguard is the biggest cope I've ever seen",
+    "score": 10
+  },
+  {
+    "id": "MgGc3g308OU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U7R66LP7nYI",
+    "title": "Castle Wizard",
+    "score": 10
+  },
+  {
+    "id": "lILkujIjE60",
+    "title": "Harry Potter",
+    "score": 10
+  },
+  {
+    "id": "-1iaJWSwUZs",
+    "title": "Harry Potter Books",
+    "score": 10
+  },
+  {
+    "id": "oE-pXV-G9aY",
+    "title": "Harry Potter: The World Needs Hufflepuffs",
+    "score": 10
+  },
+  {
+    "id": "bbKKMA6y3_U",
+    "title": "Animal THE BADGER",
+    "score": 10
+  },
+  {
+    "id": "Bye-zOAjYco",
+    "title": "The Weird World of Harry Potter Knock-Off Movies",
+    "score": 10
+  },
+  {
+    "id": "xHJX07wCgeY",
+    "title": "The Absurd Introduction",
+    "score": 10
+  },
+  {
+    "id": "opjox65bQT4",
+    "title": "This Is Why You NEVER Disrespect Jon Jones 😮🥶",
+    "score": 10
+  },
+  {
+    "id": "06iFTmbZKEs",
+    "title": "Dude gets humbled by Jon Jones 😭 (@thejensendean via IG)",
+    "score": 10
+  },
+  {
+    "id": "orBQjBF6o8E",
+    "title": "John Cena roasts Logan Paul",
+    "score": 10
+  },
+  {
+    "id": "QAWD_7QxC50",
+    "title": "‘F*** off’: World HITS BACK as Trump’s aggression shocks global leaders",
+    "score": 10
+  },
+  {
+    "id": "Rlyp8PLqFS0",
+    "title": "My Boyfriend is Jealous of My Guy Friends! (What Should I Do?)",
+    "score": 10
+  },
+  {
+    "id": "CqZu9o_8f3Q",
+    "title": "MUST WATCH: Jim Jordan Shows Absolutely No Mercy To Jack Smith In Brutal Grilling",
+    "score": 10
+  },
+  {
+    "id": "2BLFC1vr9d4",
+    "title": "My Girlfriend Has Gained Weight! What Should I Do?!",
+    "score": 10
+  },
+  {
+    "id": "Ct79PRG8-jg",
+    "title": "FED-UP Protesters CLAP BACK at Trump’s ICE MN INVASION",
+    "score": 10
+  },
+  {
+    "id": "6vMGc8Lu35w",
+    "title": "Compared us to Venezuela: Walz slams Trump \\u0026 Homan deployment in Minnesota | MS NOW FULL INTERVIEW",
+    "score": 10
+  },
+  {
+    "id": "YzqwCdaKkcs",
+    "title": "Why is Shawn Kemp disrespected from the NBA?",
+    "score": 10
+  },
+  {
+    "id": "DIzms6qwpJI",
+    "title": "Did Shawn Kemp play college basketball?",
+    "score": 10
+  },
+  {
+    "id": "ngRACHwK6l4",
+    "title": "MIKAEL SODERLINDH \\u0026 MARC LICKFETT KNIFE AID",
+    "score": 10
+  },
+  {
+    "id": "L1tcBIUnwKI",
+    "title": "Disrespected - Why John Stockton is the best PG ever",
+    "score": 10
+  },
+  {
+    "id": "NS_gi0-mXPA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lDr1D7XE8dc",
+    "title": "Evil john cena making kids cry :(",
+    "score": 10
+  },
+  {
+    "id": "ABLhLz0JowU",
+    "title": "John Part feels disrespected by the PDC",
+    "score": 10
+  },
+  {
+    "id": "enqDqL4G8ZM",
+    "title": "I Accidentally Disrespected Messi...My Apology Video.",
+    "score": 10
+  },
+  {
+    "id": "val4TSm8Ggg",
+    "title": "Messi Montage Madness",
+    "score": 10
+  },
+  {
+    "id": "2OpLGD2v7DI",
+    "title": "The Day Jon Jones Finally Respected Daniel Cormier",
+    "score": 10
+  },
+  {
+    "id": "wgCuKdP3iXQ",
+    "title": "My Dad Disrespected My Wife IN OUR HOME! (What Should I Do?)",
+    "score": 10
+  },
+  {
+    "id": "nHoEAr5BKIs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B_XvW-Oad2A",
+    "title": "John Cena destroying people on the mic: 30-minute WWE compilation",
+    "score": 10
+  },
+  {
+    "id": "eVKby6AoA5M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EzFVtmwgHZI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "6LzkjGBey-Q",
+    "title": "Evan Finds Ryan's World  Mega Mystery Treasure Chest Pirate Toy",
+    "score": 10
+  },
+  {
+    "id": "9iR5WBYnyfc",
+    "title": "AI Eats the World: Benedict Evans on the Next Platform Shift",
+    "score": 10
+  },
+  {
+    "id": "RH9vJNxFKDA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6vX6SHpnmDU",
+    "title": "AI Eats the World | Benedict Evans",
+    "score": 10
+  },
+  {
+    "id": "rTrFb-cSiwE",
+    "title": "Military Toy Rescue After Big Thunderstorm Crushed My Playground",
+    "score": 10
+  },
+  {
+    "id": "tKMnBHWZYe0",
+    "title": "Are You Living by God’s Truth or the World’s Lies? | Tony Evans Sermon",
+    "score": 10
+  },
+  {
+    "id": "UHgY3-fzx2M",
+    "title": "Stop Trading God’s Love for the World’s Lies | Tony Evans Sermon",
+    "score": 10
+  },
+  {
+    "id": "DkAtTXJP9Sk",
+    "title": "Rapid Ricky Evans - World's Fastest 180 - 2.65 Seconds",
+    "score": 10
+  },
+  {
+    "id": "i6Emnll1IDI",
+    "title": "Schalk/Shaw vs. Evans/Budinger - Beach World Championships 2025 | Highlights | Pool Phase",
+    "score": 10
+  },
+  {
+    "id": "arVbSMaUpGM",
+    "title": "🚨SILVER Absolutely ERUPTS | Sellers Regret Floods Market",
+    "score": 10
+  },
+  {
+    "id": "Pa0B0ykS-XI",
+    "title": "SURPRISE: Nicki Minaj Called Onstage By Trump —Then She Sends Message To The Haters",
+    "score": 10
+  },
+  {
+    "id": "0IxSul5Mf5Q",
+    "title": "Bank of Canada Just Surrendered to US Fed | 1.2 Million Mortgages Hit Renewal Wall in 2026",
+    "score": 10
+  },
+  {
+    "id": "apkzmvZXMOg",
+    "title": "The Bank of Canada's Surrender",
+    "score": 10
+  },
+  {
+    "id": "Uy2DtNyZiog",
+    "title": "DD IS GONE 💔! CLOCKING TEA ☕️! (MUST WATCH) ",
+    "score": 10
+  },
+  {
+    "id": "nKFyFm6by4E",
+    "title": "We Barely Made It to Practice! ",
+    "score": 10
+  },
+  {
+    "id": "zZPYNxTmlj8",
+    "title": "Put God First and Watch Him Handle the Rest | Tony Evans Sermon",
+    "score": 10
+  },
+  {
+    "id": "Rd0wx_zfMO0",
+    "title": "Kali Muscle Had Another Heart Attack + Sam Sulek's Best Legs Upate So Far + CBum Selling His Camaro",
+    "score": 10
+  },
+  {
+    "id": "mcRx3Jqjm7E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FTjTcrX-aGw",
+    "title": "Family Cruise on Royal Caribbean | Ship Tour, Food, \\u0026 Creator Getaway",
+    "score": 10
+  },
+  {
+    "id": "MJE7OzV5JZw",
+    "title": "What does it mean to be a citizen of the world? | Hugh Evans",
+    "score": 10
+  },
+  {
+    "id": "ODLg_00f9BE",
+    "title": "KEVIN RUDD Former Prime Minister of Australia",
+    "score": 10
+  },
+  {
+    "id": "niJpDnNtNp4",
+    "title": "Ruby Evans (GBR) Key Events 2025 World Championships All Around Final",
+    "score": 10
+  },
+  {
+    "id": "dSRpK1O7oXk",
+    "title": "Merry Xmas! Ricky Evans with a classic Christmas walk-on 🎄",
+    "score": 10
+  },
+  {
+    "id": "VLMDxjpP87I",
+    "title": "Grey Skye Evans - Made Up Story  (Official Lyric Video) ",
+    "score": 10
+  },
+  {
+    "id": "yl53fYRc8mA",
+    "title": "Ruby Evans (GBR) - 13,600 Floor - Paris World Cup 2025",
+    "score": 10
+  },
+  {
+    "id": "1Mlii7j8Nrc",
+    "title": "Ricky Evans REACTS to his first round win over Man Lok Leung in the PDC World Championships",
+    "score": 10
+  },
+  {
+    "id": "Ae3hlfpynFc",
+    "title": "Ruby Evans 🇬🇧 | Interview with World Silver Medalist on Floor | 2025 World Championships Jakarta",
+    "score": 10
+  },
+  {
+    "id": "wn4vIAFqlig",
+    "title": "Ricky Evans ICONIC walk-on with pom-poms!",
+    "score": 10
+  },
+  {
+    "id": "QHFJn9khnm8",
+    "title": "Ruby Evans (GBR) FX EF 🥈2025 World Championships Finals ",
+    "score": 10
+  },
+  {
+    "id": "SW8zpEm_3mQ",
+    "title": "Reanne Evans: Winning 12 World Championships, Women's Snooker Tour \\u0026 Partnering With Ronnie",
+    "score": 10
+  },
+  {
+    "id": "rcUTUPPVShc",
+    "title": "Hot Wheels Wednesday: Buried Hot Wheels and Matchbox Treasure Hunt Off Road Trucks at the Park",
+    "score": 10
+  },
+  {
+    "id": "4QKLb6PDGW0",
+    "title": "Giovanni Cischke vs James Evans - Pokémon VGC Masters Finals | 2025 Pokémon World Championships",
+    "score": 10
+  },
+  {
+    "id": "7QbCWOAuNlQ",
+    "title": "Why They Are Re-Writing World War 2 — Sir Richard Evans",
+    "score": 10
+  },
+  {
+    "id": "-1HGEfIO1cI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "vBy7FaapGRo",
+    "title": "Daniel Caesar - Best Part (Audio) ft. H.E.R.",
+    "score": 10
+  },
+  {
+    "id": "75-Com9Bo_s",
+    "title": "Daniel Caesar (feat. H.E.R.) perform Best Part on Later... with Jools",
+    "score": 10
+  },
+  {
+    "id": "j045yEf2cLg",
+    "title": "Best Part (feat. Naomi Raine, Chandler Moore \\u0026 Mav City Gospel Choir) | Maverick City Music | TRIBL",
+    "score": 10
+  },
+  {
+    "id": "GjlbEkYes6c",
+    "title": "H.E.R. - Best Part | Lollapalooza 2020",
+    "score": 10
+  },
+  {
+    "id": "vAcrk7UTw2Y",
+    "title": "gardenstate, Bien - The Best Part (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "2a8TQiCqEaA",
+    "title": "SAINt JHN - THE BEST PART OF LIFE (LYRIC VIDEO)",
+    "score": 10
+  },
+  {
+    "id": "4tRqLQ-hal8",
+    "title": "Daniel Caesar \\u0026 H.E.R. - Best Part, a Visual",
+    "score": 10
+  },
+  {
+    "id": "hKgl5-lkT8U",
+    "title": "Daniel Ceaser - Best Part (Lyrics) Feat. H.E.R",
+    "score": 10
+  },
+  {
+    "id": "nqxab2zNbgs",
+    "title": "Kim Cruse Leaves Coaches Speechless with Daniel Caesar's \\\"Best Part\\\" | Voice Blind Auditions 2022",
+    "score": 10
+  },
+  {
+    "id": "wGyh_53ecgg",
+    "title": "Mc Muah, nagpakatotoo sa isyu nila ni Vice Ganda! | Ogie Diaz",
+    "score": 10
+  },
+  {
+    "id": "1d_rWAYRo3s",
+    "title": "6 na pulis-Maynila, inaresto dahil sa umano’y panghoholdap  at pananakit sa Makati | 24 Oras",
+    "score": 10
+  },
+  {
+    "id": "VntmLkRQXo8",
+    "title": "The Greatest Showman - Never Enough Lyric Video",
+    "score": 10
+  },
+  {
+    "id": "eiDiKwbGfIY",
+    "title": "30 Minutes of Negreanu’s Most Incredible Reads!",
+    "score": 10
+  },
+  {
+    "id": "AxlnDhEPPdY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R7EAAezffIo",
+    "title": "1. gardenstate - Dark Waters",
+    "score": 10
+  },
+  {
+    "id": "sUiWaFx1haY",
+    "title": "There’s A SIDE OF YOU That Made Their Jaws Drop — They Never Expected This",
+    "score": 10
+  },
+  {
+    "id": "rh_NCPwd9eI",
+    "title": "Best Part (Male Part Only - Karaoke) - Daniel Caesar ft. H.E.R.",
+    "score": 10
+  },
+  {
+    "id": "W-yUxWOeVbs",
+    "title": "The Best of Me (FEMALE PART ONLY KARAOKE) - David Foster \\u0026 Olivia Newton-John",
+    "score": 10
+  },
+  {
+    "id": "K7lb6KWBanI",
+    "title": "Alexander King of Macedonia",
+    "score": 10
+  },
+  {
+    "id": "upn9pRYJatg",
+    "title": "The Best Part",
+    "score": 10
+  },
+  {
+    "id": "g8ehl-syOwg",
+    "title": "Will Dempsey - Best Parts of Me",
+    "score": 10
+  },
+  {
+    "id": "WGiToXsxXbU",
+    "title": "H.E.R. - Best Part (1Xtra Session)",
+    "score": 10
+  },
+  {
+    "id": "PS7M8ySeCP4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gt8VBNlSK9A",
+    "title": "Be PREPARED! It’s Time To Go HOME... (The GREAT FLASH is COMING)",
+    "score": 10
+  },
+  {
+    "id": "z3o8XrIpHc4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s5JaOnul46A",
+    "title": "Rev Run Words Of Wisdom - \\\"Movement\\\"",
+    "score": 10
+  },
+  {
+    "id": "jVPHumbsdUs",
+    "title": "Patrick Wisdom's Go-Ahead Solo Home Run in the 8th",
+    "score": 10
+  },
+  {
+    "id": "LY2E5smNFuU",
+    "title": "Frank Schwindel, Patrick Wisdom Hit Back-to-Back Home Runs",
+    "score": 10
+  },
+  {
+    "id": "QuJWAjyDqPI",
+    "title": "Game Highlights: Wisdom Crushes 2 Home Runs, Wesneski Records 7 Quality IP in Cubs Win | 4/17/23",
+    "score": 10
+  },
+  {
+    "id": "shsN7MiaZt0",
+    "title": "Patrick Wisdom Mashes Two Home Runs on Birthday",
+    "score": 10
+  },
+  {
+    "id": "rb7NMhW89VI",
+    "title": "Patrick Wisdom pinch-hit 2-run Home Run: 4/19/2022",
+    "score": 10
+  },
+  {
+    "id": "b6pX4CxHzHs",
+    "title": "Patrick Wisdom's 2-Run Home Run",
+    "score": 10
+  },
+  {
+    "id": "ixLXQz8b4n4",
+    "title": "3 Levels of Wisdom - How God Trains You to See Like Him",
+    "score": 10
+  },
+  {
+    "id": "n_Z1mMp-4rc",
+    "title": "Introduction.",
+    "score": 10
+  },
+  {
+    "id": "31AEcriZHH8",
+    "title": "Patrick Wisdom's Pinch-Hit Game-Tying 2-Run Moonshot",
+    "score": 10
+  },
+  {
+    "id": "KjyLM-xBhfc",
+    "title": "I Beat Echoes of Wisdom using Only Tables",
+    "score": 10
+  },
+  {
+    "id": "Q196YTCt8KA",
+    "title": "Echoes of Wisdom speedruns (probably)",
+    "score": 10
+  },
+  {
+    "id": "KoZmhCWcg2M",
+    "title": "Crazy Wisdom - @authenticandyanderson",
+    "score": 10
+  },
+  {
+    "id": "vRj11yZO9Ck",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "X_AfMHCVoxA",
+    "title": "Led Zeppelin - The Battle of Evermore (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "wCQiPXDZHcc",
+    "title": "Here Are 7 of the Deadliest Battles Ever Fought",
+    "score": 10
+  },
+  {
+    "id": "cvm7lAd1_mg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4TLD1eb-JJ4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aqsdkKCUUfI",
+    "title": "The Greatest Battle Ever Fought (William Branham 62/03/11)",
+    "score": 10
+  },
+  {
+    "id": "HFpgnn67Ip0",
+    "title": "The Greatest Medieval Battle Ever Filmed!",
+    "score": 10
+  },
+  {
+    "id": "08VZV1KHaJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Zsazz-35ss8",
+    "title": "Was this the Greatest tactical victory of all time? - Battle of CARRHAE 53 BC",
+    "score": 10
+  },
+  {
+    "id": "8Xza3yXTtDA",
+    "title": "Top Official SPILLS BEANS on SECRET BANK ACCOUNT: Rubio Admits $200M \\\"Stashed\\\" in Qatar",
+    "score": 10
+  },
+  {
+    "id": "mJ6z0iErwss",
+    "title": "El Alamein 1942 - Rommel Launches His Assault - Animated",
+    "score": 10
+  },
+  {
+    "id": "EshnXpKbs1Q",
+    "title": "Battle of the Philippine Sea  - The US Navy Knocks Out The Japanese Carriers (2/2) - Animated",
+    "score": 10
+  },
+  {
+    "id": "RKXv5eQSj_k",
+    "title": "Battle of the Boyne, 1690 ⚔️ When the balance of power in Europe changed forever",
+    "score": 10
+  },
+  {
+    "id": "6Xy9ZZebm48",
+    "title": "Modern US ARMY Beach Defense VS 7,000,000 ROMAN ARMY! - UEBS 2: Ultimate Epic Battle Simulator 2",
+    "score": 10
+  },
+  {
+    "id": "WBAGWgu4ceA",
+    "title": "Hürtgen Forest: The Longest US Battle On German Soil",
+    "score": 10
+  },
+  {
+    "id": "bf-SUOCqbrI",
+    "title": "Third Pharaoh",
+    "score": 10
+  },
+  {
+    "id": "_-oPpJ2lVQM",
+    "title": "20 MARCH 1413",
+    "score": 10
+  },
+  {
+    "id": "RMW7795Nj3M",
+    "title": "The Battle Of The 13 Side (1204)",
+    "score": 10
+  },
+  {
+    "id": "daFdUZLZimA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CnMQzyc8tVg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fdtofwHj3wE",
+    "title": "Led Zeppelin - The Battle Of Evermore",
+    "score": 10
+  },
+  {
+    "id": "Z4mPUWWI_o8",
+    "title": "October 25th, 1944",
+    "score": 10
+  },
+  {
+    "id": "ceZ1plIIirM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_hEhGuj5LwI",
+    "title": "The ICE Age of Surveillance and Enforcement | The Weekly Show with Jon Stewart",
+    "score": 10
+  },
+  {
+    "id": "I-eNduwugmY",
+    "title": "Jon Stewart's TDS Welcome",
+    "score": 10
+  },
+  {
+    "id": "04IbAbTFd9c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Avi7ovNwq4g",
+    "title": "Talk Show - John",
+    "score": 10
+  },
+  {
+    "id": "Ro6XxXVTzoU",
+    "title": "Greg Gutfeld Show 1/28/26 FULL END SHOW | ᖴO᙭ ᗷᖇEᗩKIᑎG ᑎEᗯS January 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "G-I963KEgis",
+    "title": "ICE Outrage Goes Viral | White House Blame Game | Ilhan Omar: Tough Under Pressure | Poo-tomac River",
+    "score": 10
+  },
+  {
+    "id": "lbVaI9TjPzc",
+    "title": "Tommaso Ciampa is All Elite | AEW Dynamite | Wrestling Observer Radio",
+    "score": 10
+  },
+  {
+    "id": "Khemy_3f7aA",
+    "title": "I Don’t Trust That I Can Stay Faithful to My Husband",
+    "score": 10
+  },
+  {
+    "id": "Q2fP7AkYzQ0",
+    "title": "Insurrection in Minneapolis? Bill O’Reilly, Chris Cuomo lock horns",
+    "score": 10
+  },
+  {
+    "id": "B_dexD0HuYM",
+    "title": "Watters: He could lose EVERYTHING if he does this...",
+    "score": 10
+  },
+  {
+    "id": "1SPG_es4KZo",
+    "title": "Countdown with Keith Olbermann is a Production of iHeartRadio",
+    "score": 10
+  },
+  {
+    "id": "VbDH4gZGkxs",
+    "title": "The Evening Show with Uncle Jhonn…",
+    "score": 10
+  },
+  {
+    "id": "dB1-lg-xZWc",
+    "title": "I'm Not Ready For This",
+    "score": 10
+  },
+  {
+    "id": "XXypYiZIS10",
+    "title": "John Legend - Vevo Go Shows: All Of Me",
+    "score": 10
+  },
+  {
+    "id": "ftGQLvUwzjY",
+    "title": "SiR - John Redcorn | A COLORS SHOW",
+    "score": 10
+  },
+  {
+    "id": "N4JNGcbWRak",
+    "title": "John Green - “Everything Is Tuberculosis” | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "2uppLo4lZRc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "coppuywkIwg",
+    "title": "Your Laws (冲上云霄II英文插曲）",
+    "score": 10
+  },
+  {
+    "id": "9raIEWvUWWQ",
+    "title": "7 Hidden Spiritual Laws That Govern Your Money | Napoleon Hill #motivation",
+    "score": 10
+  },
+  {
+    "id": "4LSOHnAYxic",
+    "title": "10 Laws that will Change your Life FOREVER | Napoleon Hill",
+    "score": 10
+  },
+  {
+    "id": "jEUgyqoWgE0",
+    "title": "Are Your Hands Deadly Weapons? #standyourground #legal #fight",
+    "score": 10
+  },
+  {
+    "id": "Z9uP9xot9uc",
+    "title": "THE LAWS OF THE MIND: Discover How the Subconscious Mind Creates Your Reality by Joseph Murphy",
+    "score": 10
+  },
+  {
+    "id": "kvnSY4NIUFk",
+    "title": "Introduction: The Universe's Toolbox",
+    "score": 10
+  },
+  {
+    "id": "jD3b1s-s9bk",
+    "title": "Meow",
+    "score": 10
+  },
+  {
+    "id": "f8Le5tl4KsM",
+    "title": "Is Your Neighbor a Criminal? 5 Laws They Might Be Breaking!",
+    "score": 10
+  },
+  {
+    "id": "Fe9DASaLWYg",
+    "title": "When did your in-laws realize you weren't a gold digger?",
+    "score": 10
+  },
+  {
+    "id": "5C53bB_RViA",
+    "title": "100 Laws of Life so You Don't Screw Your Life Up Like I Did",
+    "score": 10
+  },
+  {
+    "id": "hCqqTAv_Z8w",
+    "title": "A wise person always hides 3 things about himself - Charlie Chaplin's Words of Wisdom:Quotes Library",
+    "score": 10
+  },
+  {
+    "id": "0m3NVS5_Ysc",
+    "title": "When did your in-laws stop treating you like a gold digger?",
+    "score": 10
+  },
+  {
+    "id": "t6KnThqexxo",
+    "title": "The 48 Laws of Power in Under 30 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Su36tpkuo1I",
+    "title": "Illinois Official Thinks Laws Don't Apply to Her",
+    "score": 10
+  },
+  {
+    "id": "UJ0oJCo8x1E",
+    "title": "Breaking News 2026: New California Traffic Laws Start Feb 1 – Know This or Pay a $1,000 Fine!",
+    "score": 10
+  },
+  {
+    "id": "aeokRoz0JdA",
+    "title": "When did your in-laws realize you weren't just a stay-at-home mom?",
+    "score": 10
+  },
+  {
+    "id": "aOjpXYAKSFU",
+    "title": "Laws Every Kid Should Know",
+    "score": 10
+  },
+  {
+    "id": "xoodr-bIbVM",
+    "title": "Strangest Driving Laws Around The World",
+    "score": 10
+  },
+  {
+    "id": "LRbxtcu_OT8",
+    "title": "Castle Doctrine, Stand Your Ground, \\u0026 Duty To Retreat Breakdown | Gun Laws that you should know",
+    "score": 10
+  },
+  {
+    "id": "rfG0OZPy1jY",
+    "title": "Castle Doctrine",
+    "score": 10
+  },
+  {
+    "id": "XQlemQFx4w4",
+    "title": "Go to your in-laws' house and ask them to go get a massage",
+    "score": 10
+  },
+  {
+    "id": "IAH9FO0sBSI",
+    "title": "Three Employment Laws Your Boss May Be Breaking #workersrights #california",
+    "score": 10
+  },
+  {
+    "id": "URUDaX3AOD8",
+    "title": "Arizona Gun Laws KNOW YOUR RIGHTS",
+    "score": 10
+  },
+  {
+    "id": "sNIj_IdvepE",
+    "title": "Arizona's Wild West Legacy and Gun Rights",
+    "score": 10
+  },
+  {
+    "id": "Jfj6roeBH0Y",
+    "title": "5 powerful Things You Must Tell Yourself Every Morning | Buddhist Wisdom",
+    "score": 10
+  },
+  {
+    "id": "DXL2xAoVpkE",
+    "title": "Wise Quotes",
+    "score": 10
+  },
+  {
+    "id": "dlKkFQQg9_Q",
+    "title": "The 7 Laws of Wisdom - These Genius Minds Will Change Your Life (Ancient Philosophy)",
+    "score": 10
+  },
+  {
+    "id": "BLxwfRS3WlQ",
+    "title": "100 Laws of Life so You Don't Screw Your Life Up Like I Did",
+    "score": 10
+  },
+  {
+    "id": "gtngU_Atwo0",
+    "title": "Empty Your Mind and Stop Overthinking | A Powerful Short Motivational Story |",
+    "score": 10
+  },
+  {
+    "id": "I5REVnU2j0c",
+    "title": "Buddha’s Timeless Words That Every Soul Needs | Buddha Quotes |",
+    "score": 10
+  },
+  {
+    "id": "jpMnOsjWgF4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NoCZCCPiyqk",
+    "title": "Obstacles In Your Path | The Most Inspiring Story About Focus and Discipline |",
+    "score": 10
+  },
+  {
+    "id": "9AoArZ9-iS0",
+    "title": "The Power of Positive Thinking | A Story That Will Change Your Mindset | MOTIVATIONAL STORY",
+    "score": 10
+  },
+  {
+    "id": "NBQKIS2CRlc",
+    "title": "You Will Never Give Up in Life | Powerful Story Of A Donkey | Life Changing Motivational Story |",
+    "score": 10
+  },
+  {
+    "id": "cs_7K6NtfCc",
+    "title": "For Those Who Are Facing Difficulties In Life | Gautam Buddha Motivational Story |",
+    "score": 10
+  },
+  {
+    "id": "gkpA6JQqVw8",
+    "title": "ANCIENT PROVERBS (True Wisdom)",
+    "score": 10
+  },
+  {
+    "id": "uxwWfARUObM",
+    "title": "Powerful Eastern Wisdom - Philosophy Quotes For Life",
+    "score": 10
+  },
+  {
+    "id": "ZQzbGwYRKWs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vru6gjGNmSA",
+    "title": "Give Me 25 Minutes of Your Attention, I'll Improve Your Next 7 Years",
+    "score": 10
+  },
+  {
+    "id": "ZTmU3Aqb05E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XYmwwfZh_ZQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ryuNlxQf3S8",
+    "title": "WORLD FIRST MYTHIC DIMENSIUS (Liquid vs Mythic Dimensius)",
+    "score": 10
+  },
+  {
+    "id": "HN58N3Z19wE",
+    "title": "Decoding The World's First Solid State Battery",
+    "score": 10
+  },
+  {
+    "id": "hcJrehjjJRc",
+    "title": "Liquid vs WORLD FIRST Mythic Dimensius - Manaforge Omega",
+    "score": 10
+  },
+  {
+    "id": "0DBR6NCxZmM",
+    "title": "I Skied Down Mount Everest (world first, no oxygen)",
+    "score": 10
+  },
+  {
+    "id": "cjZvFY6__qw",
+    "title": "Race to World First 11.2 - Manaforge Omega- Day 12",
+    "score": 10
+  },
+  {
+    "id": "fi6izz3vugs",
+    "title": "Race to World First 11.2 - Manaforge Omega - Day 7",
+    "score": 10
+  },
+  {
+    "id": "XyXSUdkKRj0",
+    "title": "World’s First Tool-Using Cow Shocked Cognitive Scientists",
+    "score": 10
+  },
+  {
+    "id": "dq3odE3OuGA",
+    "title": "Veronika the genius cow!",
+    "score": 10
+  },
+  {
+    "id": "RCCq6QQdcG8",
+    "title": "Top 10 RWF (Race to World First) Moments",
+    "score": 10
+  },
+  {
+    "id": "EKmm-VSRzdE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B12vl0wA5jg",
+    "title": "Germany and Italy’s Plan for Europe Explained",
+    "score": 10
+  },
+  {
+    "id": "nZcTP8m-Brk",
+    "title": "How The Lich King Was Defeated in 2023",
+    "score": 10
+  },
+  {
+    "id": "YiYb9ZIDkhQ",
+    "title": "US Just Threatened Canada's Sovereignty Over Fighter Jets",
+    "score": 10
+  },
+  {
+    "id": "NML-xHCKWeg",
+    "title": "Energy Ceasefire?⚡️🕊️ The Transnistria Issue❓Offensive Along the Border⚔️Military Summary 2026.01.29",
+    "score": 10
+  },
+  {
+    "id": "1VnlgMpJS34",
+    "title": "The Absurd Case of Thinking Machines",
+    "score": 10
+  },
+  {
+    "id": "kj-SOMwDNhA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "STyrbZ8G39M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7vB2oL4Wf-E",
+    "title": "Worldfirst vs Wise (2026) - Which One is BETTER?",
+    "score": 10
+  },
+  {
+    "id": "tNKYFFkKLOc",
+    "title": "World's First Tricks that Changed Extreme Sports Forever",
+    "score": 10
+  },
+  {
+    "id": "c91ubWYfTmQ",
+    "title": "WORLD FIRST NEXUS-KING SALHADAAR",
+    "score": 10
+  },
+  {
+    "id": "_BJ9rfDrP2o",
+    "title": "بنك WorldFirst يغلق الحسابات الفردية🚨السبب وراء ذلك وماهي الحلول❗️افضل البدائل للشراء من الأنثرنت💳",
+    "score": 10
+  },
+  {
+    "id": "yqDt9QgEDp4",
+    "title": "Most World First’s Landed in 3 Hours EVER!",
+    "score": 10
+  },
+  {
+    "id": "_mCA4_AbgkM",
+    "title": "Max's Thoughts After Taking World First Dimensius",
+    "score": 10
+  },
+  {
+    "id": "Ur_J--qj8FY",
+    "title": "Liquid vs WORLD FIRST Mythic Nexus-King Salhadaar - Manaforge Omega",
+    "score": 10
+  },
+  {
+    "id": "Y5o2kz5kWfs",
+    "title": "WORLD FIRST MYTHIC FORGEWEAVER ARAZ",
+    "score": 10
+  },
+  {
+    "id": "PcoS2fVGQiM",
+    "title": "تجربة بطاقة و بنك World First في الجزائر/ شحن الحساب و الشراء بالبطاقة ",
+    "score": 10
+  },
+  {
+    "id": "x4JanM_bKAs",
+    "title": "Liquid VS Anduin Wyrnn World First Mythic Kill - Sepulcher of the First Ones",
+    "score": 10
+  },
+  {
+    "id": "6ZRMSS6SF3w",
+    "title": "Limit vs Mythic N'zoth WORLD FIRST - Ny'alotha, The Waking City",
+    "score": 10
+  },
+  {
+    "id": "Kgzm2XP1hMo",
+    "title": "Tenniix at CES 2026 -  World's First Vision-Based Tennis Robot - Only 19 lbs, 4hr of Playtime",
+    "score": 10
+  },
+  {
+    "id": "UBwBfUBzmqU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "R4vkian6Ay8",
+    "title": "غلق الحسابات في world first و معلومة هامة جدا عن هاذا البنك",
+    "score": 10
+  },
+  {
+    "id": "XQq2pmU9ZAk",
+    "title": "World’s First Iron Man in Antarctica – PROJECT ICEMAN (4K Full Film)",
+    "score": 10
+  },
+  {
+    "id": "BtZDEm69Kq4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OX-ZynF1aFc",
+    "title": "Lamine Yamal, Raphinha and Dani Olmo GOALS 💥 Barcelona vs. Real Oviedo | LALIGA Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "y6999gc5HsI",
+    "title": "Barcelona vs Copenhagen 4-1 Highlights \\u0026 All Goals • Rashford \\u0026lamine Yamal \\u0026 Raphinha Goals",
+    "score": 10
+  },
+  {
+    "id": "5LJ8YJBFHac",
+    "title": "Barcelona vs  Copenhagen 4-1 Highlights | Yamal \\u0026 Raphinha \\u0026 Lewandowski Goals",
+    "score": 10
+  },
+  {
+    "id": "Hm-vjb3JW8k",
+    "title": "Day 1 Highlights | 2026 F1 Barcelona Shakedown",
+    "score": 10
+  },
+  {
+    "id": "QMKPvfNB6l0",
+    "title": "Day 2 Highlights | 2026 F1 Barcelona Shakedown",
+    "score": 10
+  },
+  {
+    "id": "CwM1ACkxJfw",
+    "title": "🔵🔴Barcelona vs Copenhagen (4-1) Extended HIGHLIGHTS | UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "gDzjcGfRTSE",
+    "title": "FC BARCELONA 3 vs 0 REAL OVIEDO | LALIGA 2025/26 MD21 🔵🔴",
+    "score": 10
+  },
+  {
+    "id": "ZISaY2ID0YI",
+    "title": "Slavia Praha vs. Barcelona: Extended Highlights | UCL League Phase MD 7 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "UHr6LMxicFk",
+    "title": "Benfica vs. Real Madrid: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "4O7OubF75Cs",
+    "title": "Barcelona vs FC Copenhagen 4-1 || Highlights \\u0026 All Goals || UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "AQToaHBoJ8g",
+    "title": "Day 3 Highlights | 2026 F1 Barcelona Shakedown",
+    "score": 10
+  },
+  {
+    "id": "gZOj0zdGNjc",
+    "title": "The Day Raphinha Destroyed Bayern Munich (Single-handedly)",
+    "score": 10
+  },
+  {
+    "id": "kATb4e3MKR8",
+    "title": "Barcelona vs Copenhagen 4-1 Highlights \\u0026 All Goals | Champions League 2025/26 | Barcelona Copenhagen",
+    "score": 10
+  },
+  {
+    "id": "UmuNiSEsZME",
+    "title": "CHAOTIC EL CLASICO 🍿 Barcelona vs. Real Madrid | Spanish Supercopa Final Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "ILjqEg-k6yg",
+    "title": "Barcelona vs Copenhagen 4-1 Highlights \\u0026 All Goals (UEFA Champions League) Barcelona Copenhagen",
+    "score": 10
+  },
+  {
+    "id": "H9Pj5D-vRdI",
+    "title": "CAMP NOU REOPENING 🔥 Athletic Club vs. Barcelona | LALIGA Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "7UWAEIWEfmk",
+    "title": "THRILLING MATCH 🍿 Barcelona vs. Atletico Madrid | LALIGA Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "RU1BZ5bhn00",
+    "title": "FULL HIGHLIGHT (4-1) BARCELONA VS FC COPENHAGEN !!! UEFA CHAMPIONS LEAGUE 2025/26 LAMINE YAMAL GOAL",
+    "score": 10
+  },
+  {
+    "id": "7wrp6HbXXGI",
+    "title": "Barcelona vs FC Copenhagen 4-1 || Highlights \\u0026 All Goals || UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "WyFFAZIKQ58",
+    "title": "Barcelona vs. Olympiacos: Extended Highlights | UCL League Phase MD 3 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "iCqnvBkC7E8",
+    "title": "Barcelona ALL GOALS in the LEAGUE PHASE of the UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "S-ROzOQhM9Q",
+    "title": "Marcus Rashford vs. Newcastle United",
+    "score": 10
+  },
+  {
+    "id": "7oG2XWGjkfs",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "SXKlJuO07eM",
+    "title": "Jodi Benson - Part of Your World (From \\\"The Little Mermaid\\\")",
+    "score": 10
+  },
+  {
+    "id": "kf7Dss2gCe0",
+    "title": "The Little Mermaid - Part Of Your World (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "wnWKoEATxh8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XE0sKZmtyqA",
+    "title": "Halle Bailey - “Part of Your World” at Disneyland",
+    "score": 10
+  },
+  {
+    "id": "BCKna5ZoyN4",
+    "title": "Halle Bailey - Part Of Your World - Lyrics (The Little Mermaid)",
+    "score": 10
+  },
+  {
+    "id": "KrPAkP5kWTg",
+    "title": "Part of Your World",
+    "score": 10
+  },
+  {
+    "id": "sg1Y6Vxl6Nk",
+    "title": "Halle - Part of Your World (From \\\"The Little Mermaid\\\"/Sing-Along)",
+    "score": 10
+  },
+  {
+    "id": "ASANPU6K8Yo",
+    "title": "The Little Mermaid",
+    "score": 10
+  },
+  {
+    "id": "5tXg_vSFcLA",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "3IOqRLR3Oug",
+    "title": "Disney -  The Little Mermaid - Part Of Your World",
+    "score": 10
+  },
+  {
+    "id": "kfTlyrAzbUY",
+    "title": "Part Of Your World (Little Mermaid) - Eleanor Grant | Hollywood in Vienna 2022",
+    "score": 10
+  },
+  {
+    "id": "pBKPSSEOszk",
+    "title": "\\\"Part of Your World\\\" at Disneyland | The Little Mermaid | Disney UK",
+    "score": 10
+  },
+  {
+    "id": "qPAPOL5x4YM",
+    "title": "Boy Born In a Strange World Anime Part - 367 | Fantasy Series Summarized Story Hindi/Urdu #AnimeLand",
+    "score": 10
+  },
+  {
+    "id": "ULXmJcJhGQk",
+    "title": "✨ 4-Year-Old Angelica Nero Sings “Part of Your World” | Little Mermaid Cover 🌊🐚",
+    "score": 10
+  },
+  {
+    "id": "-sv8bawb014",
+    "title": "Sierra Boggess Performs \\\"Part of Your World\\\" for Disney on Broadway at Walt Disney World",
+    "score": 10
+  },
+  {
+    "id": "9KBf1d3ovMg",
+    "title": "The Little Mermaid - Part of Your World - Halle Bailey (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "V05je3HMj1o",
+    "title": "Part of Your World - The Little Mermaid (Piano Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "ulZpJst2b_Y",
+    "title": "Part of Your World Piano",
+    "score": 10
+  },
+  {
+    "id": "M_aVtIc7Dn8",
+    "title": "Part of Your World - แบมแบม | The X Factor Thailand",
+    "score": 10
+  },
+  {
+    "id": "o2gIUpl2dD8",
+    "title": "Halle - Part Of Your World (Karaoke)",
+    "score": 10
+  },
+  {
+    "id": "us6gm0jO_FY",
+    "title": "'Part Of Your World (Karaoke)' Intro",
+    "score": 10
+  },
+  {
+    "id": "lWB9cVwH2FY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DiIQKmAOvzw",
+    "title": "Half Nation Of Sorrow",
+    "score": 10
+  },
+  {
+    "id": "EfJ4KrlQrxg",
+    "title": "HALF SORROW",
+    "score": 10
+  },
+  {
+    "id": "sEkoXIx2DKQ",
+    "title": "Half a Sorrow Speaking at MacDill Air Force Base!",
+    "score": 10
+  },
+  {
+    "id": "ylIX3_GLY3w",
+    "title": "Cắt Đôi Nỗi Sầu Tiếng Anh - Cut The Sorrow In The Half",
+    "score": 10
+  },
+  {
+    "id": "xvkEnkwxb5Q",
+    "title": "Pink Floyd - Sorrow (New Edition)",
+    "score": 10
+  },
+  {
+    "id": "ln5p-SnPvZ0",
+    "title": "Cắt đôi nỗi sầu - Cut the sorrow in half - English Version - (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "GTme9X9HC_Y",
+    "title": "I Am A Man Of Constant Sorrow (With Band)",
+    "score": 10
+  },
+  {
+    "id": "zHamgwlQ1yo",
+    "title": "shared sorrow is half the sorrow",
+    "score": 10
+  },
+  {
+    "id": "GYMlQyeEDYs",
+    "title": "A Fundraiser for Half a Sorrow!",
+    "score": 10
+  },
+  {
+    "id": "NpPsxDya2YA",
+    "title": "Message from Half a Sorrow | An Appeal for YOUR Support!",
+    "score": 10
+  },
+  {
+    "id": "lcyBArs9mNY",
+    "title": "Half a Sorrow Foundation works to combat loneliness epidemic",
+    "score": 10
+  },
+  {
+    "id": "M4Q4ikq1aww",
+    "title": "Harvester of Sorrow (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "fPufVcLAwdg",
+    "title": "Kids and Texting | Half a Sorrow Foundation",
+    "score": 10
+  },
+  {
+    "id": "T6N9_Lfv8XA",
+    "title": "HALF A SORROW FOUNDATION LAUNCH",
+    "score": 10
+  },
+  {
+    "id": "XyO2Wrehroo",
+    "title": "有一種悲傷 (A Kind of Sorrow) - Sam Tsui \\u0026 Madilyn Chinese/English Cover (A-Lin)",
+    "score": 10
+  },
+  {
+    "id": "JWU8gw1zis8",
+    "title": "Half a Sorrow Foundation | Update",
+    "score": 10
+  },
+  {
+    "id": "CpvUyKZmv_A",
+    "title": "How we came up with the name for the Half a Sorrow Foundation!",
+    "score": 10
+  },
+  {
+    "id": "MR21YqRcS38",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5nvVVcYD-0w",
+    "title": "Summary of historical background, context and meaning",
+    "score": 10
+  },
+  {
+    "id": "TstkLVLXuGA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kOYy8iCfIJ4",
+    "title": "Opening Section",
+    "score": 10
+  },
+  {
+    "id": "J4LE0gvrMuY",
+    "title": "🚨 BREAKING: Anti-IRGC Spy Infiltrates Khamenei's HQ - Islamic Regime To Strike Tel Aviv",
+    "score": 10
+  },
+  {
+    "id": "nDpjNM5erLA",
+    "title": "An Easy Way to Visualize \\u0026 Understand the Old Testament | A Simple Timeline",
+    "score": 10
+  },
+  {
+    "id": "AQBkzYfYiXA",
+    "title": "Watters: He could lose EVERYTHING if he does this...",
+    "score": 10
+  },
+  {
+    "id": "j9phNEaPrv8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qB3UbHlRbWU",
+    "title": "Gospel of Luke Summary: A Complete Animated Overview (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "XIb_dCIxzr0",
+    "title": "Books Design",
+    "score": 10
+  },
+  {
+    "id": "Y71r-T98E2Q",
+    "title": "exploring the story of the gospel",
+    "score": 10
+  },
+  {
+    "id": "Spd84PDtwjE",
+    "title": "Prelude",
+    "score": 10
+  },
+  {
+    "id": "PIU9qZLvaPg",
+    "title": "Family Guy - Peter attempts to open the blinds",
+    "score": 10
+  },
+  {
+    "id": "AquuStNK9ng",
+    "title": "Separation from Alcohol",
+    "score": 10
+  },
+  {
+    "id": "cMfaqRMu5to",
+    "title": "Powell's Absurd Admissions Send Gold \\u0026 Silver Soaring",
+    "score": 10
+  },
+  {
+    "id": "kOEoXjTNUWU",
+    "title": "Peter Alliss | Five Of The Best Commentary Moments",
+    "score": 10
+  },
+  {
+    "id": "u-EIshvNbVM",
+    "title": "Peter Gilchrist v Steve Mifsud | Final | Singapore Open Billiards Championship 2022",
+    "score": 10
+  },
+  {
+    "id": "LNTap63kips",
+    "title": "Great Gospel Flavor for your Jazz Playing - Peter Martin | 2 Minute Jazz",
+    "score": 10
+  },
+  {
+    "id": "49Z8x0b5Bhw",
+    "title": "A short feature on 5 times The Open champion Peter Thomson. Beautiful footage.",
+    "score": 10
+  },
+  {
+    "id": "s1al0fYGQ84",
+    "title": "Cherokee with Peter Martin, Ulysses Owens Jr. and Bob DeBoo",
+    "score": 10
+  },
+  {
+    "id": "4ZJ7mEpZ09M",
+    "title": "peter put up an open sign (family guy?",
+    "score": 10
+  },
+  {
+    "id": "5rClgUgbET4",
+    "title": "Family Guy- Peter Opens His Own Restaurant",
+    "score": 10
+  },
+  {
+    "id": "Z-XfMestaBw",
+    "title": "An ESSENTIAL Blues Line with Peter Martin",
+    "score": 10
+  },
+  {
+    "id": "Ej0GyWpcoMU",
+    "title": "The Quest For The Open 2025 BEGINS!!",
+    "score": 10
+  },
+  {
+    "id": "ssmPuXPaXbE",
+    "title": "🦞 Moltbot / Clawdbot Creator Peter Steinberger, Palmer Luckey, and more",
+    "score": 10
+  },
+  {
+    "id": "c4kLgSWUfC8",
+    "title": "START",
+    "score": 10
+  },
+  {
+    "id": "miJvNd3ikVA",
+    "title": "Family Guy - Peter Opens a Food Truck | Junk Food Selection",
+    "score": 10
+  },
+  {
+    "id": "T8drd96RHJM",
+    "title": "One Simple Practice Hack for Playing Fast - Peter Martin | 2 Minute Jazz",
+    "score": 10
+  },
+  {
+    "id": "pP3W2wNNakg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IUZJJCUna9Q",
+    "title": "Creating a search",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "QP9BGdrnfPI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b7CxLVHMLOc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HZU9DVkWNW4",
+    "title": "Search \\u0026 Filter Pro WordPress Plugin - Better than SearchWP \\u0026 FacetWP?",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "lYi24okXDPs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HHJDXoewU3M",
+    "title": "Search Jira",
+    "score": 10
+  },
+  {
+    "id": "WoukNZDEJ40",
+    "title": "Two ways to easily add search and filters to your Webflow site – Workflow series",
+    "score": 10
+  },
+  {
+    "id": "BtiVbY7lhqw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "LLMs in Search: Generating Dynamic Filters and Facets",
+    "score": 10
+  },
+  {
+    "id": "zrD1Q_KKxUw",
+    "title": "Google Search Tricks - Google Advanced Search Filters -  Google Search Filters",
+    "score": 10
+  },
+  {
+    "id": "VV01BSNfjEE",
+    "title": "🔴Benfica vs Real Madrid (4-2) Extended HIGHLIGHTS | UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "6XPeeOvP5zM",
+    "title": "Benfica vs Real Madrid 3-2 HIGHLIGHTS \\u0026 GOALSChampions League 25/26",
+    "score": 10
+  },
+  {
+    "id": "1W7FOHs4KFQ",
+    "title": "UNBELIEVABLE! Benfica vs Real Madrid 4-2 HIGHLIGHTS Champions League 25/26 - Real outside the G8",
+    "score": 10
+  },
+  {
+    "id": "OfUuoxNJ4cw",
+    "title": "Real Madrid vs Benfica new 2026   Mbappé 2 Goals",
+    "score": 10
+  },
+  {
+    "id": "UDF_DEQnlnM",
+    "title": "Napoli vs. Chelsea: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "r0kWtrnWEag",
+    "title": "Simon Jordan Reacts to INCREDIBLE Champions League Action Including Benfica's EPIC Real Madrid Win!",
+    "score": 10
+  },
+  {
+    "id": "JnyL1K6RQ60",
+    "title": "WTF DID I JUST WITNESS 😭😭 BENFICA 4-2 REAL MADRID",
+    "score": 10
+  },
+  {
+    "id": "JHwnGxIct-U",
+    "title": "PSG vs. Newcastle United: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "Ufd7Pf0x9Xg",
+    "title": "Benfica vs Real Madrid (4-2) Highlights | UEFA Champions League 2025/2026",
+    "score": 10
+  },
+  {
+    "id": "BMx1mD2VrRs",
+    "title": "Villarreal vs. Real Madrid | LALIGA Highlights | ESPN FC",
+    "score": 10
+  },
+  {
+    "id": "8uvMowzqeF0",
+    "title": "GREAT GOALS BEFORE BENFICA! | Real Madrid training",
+    "score": 10
+  },
+  {
+    "id": "zPbt252g-f0",
+    "title": "RANKING UEFA Champions League teams after the League Phase!",
+    "score": 10
+  },
+  {
+    "id": "xVrjWXFzluo",
+    "title": "HIGHLIGHTS | Villarreal 0-2 Real Madrid | LaLiga",
+    "score": 10
+  },
+  {
+    "id": "Qp4hLjNXcxU",
+    "title": "Benfica vs Real Madrid 4-2 || Highlights \\u0026 All Goals || UEFA Champions League",
+    "score": 10
+  },
+  {
+    "id": "PeTdDDUyePM",
+    "title": "Real Madrid SHOCKED by Benfica LAST MINUTE goalkeeper goal",
+    "score": 10
+  },
+  {
+    "id": "o_HmLlYN8qM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6vClm9-HFQo",
+    "title": "John Daly vs. Tiger Woods | EPIC playoff | 2005 WGC Championship",
+    "score": 10
+  },
+  {
+    "id": "OmV4tUGeu70",
+    "title": "World Matchplay Semi-final 2002 - John Lowe Vs Phil Taylor",
+    "score": 10
+  },
+  {
+    "id": "A8ZgtQ5DCb8",
+    "title": "Taylor v Part - 2002 World Matchplay Final - Extended Highlights",
+    "score": 10
+  },
+  {
+    "id": "iwvzbSgaZF0",
+    "title": "CLASSIC HIGGINS! Vintage John Higgins Matchplay Wins Frame Over  Guodong | Halo World Championship",
+    "score": 10
+  },
+  {
+    "id": "BUnLUAPI-xM",
+    "title": "My FIRST Match Play Tournament…",
+    "score": 10
+  },
+  {
+    "id": "4M4I0y1EWNk",
+    "title": "Highlights | Scottie Scheffler vs. Jon Rahm | WGC-Dell Match Play | 2021",
+    "score": 10
+  },
+  {
+    "id": "Dkf1bIhvLZY",
+    "title": "Phil Taylor v John Lowe 1995 World Darts Semi Final",
+    "score": 10
+  },
+  {
+    "id": "t1QvAd36X7o",
+    "title": "John Part - Greatest 100+ Darts Finishes 1994-2020",
+    "score": 10
+  },
+  {
+    "id": "zwCJUEj-N8w",
+    "title": "We Played A Match With NFL Legend Jon Gruden",
+    "score": 10
+  },
+  {
+    "id": "SyOZb2C-jJM",
+    "title": "John Lowe vs Phil Taylor - 2002 World Matchplay Semi Finals Part 10",
+    "score": 10
+  },
+  {
+    "id": "apINCDGWjYw",
+    "title": "Tiger Woods vs Jon Rahm | Extended Highlights | 2018 Ryder Cup",
+    "score": 10
+  },
+  {
+    "id": "kXFnXqaQ8lg",
+    "title": "John Lowe vs Phil Taylor - 2002 World Matchplay Semi Finals Part 11",
+    "score": 10
+  },
+  {
+    "id": "NY3A-hSBPt0",
+    "title": "Colin Lloyd vs John Part - 2002 World Matchplay Semi Finals Part 1",
+    "score": 10
+  },
+  {
+    "id": "c8fYh_IITZA",
+    "title": "John Part - Phil Taylor - 2005 Matchplay",
+    "score": 10
+  },
+  {
+    "id": "u2fpHZGYyK4",
+    "title": "The Strategy Mistake Costing Golfers Strokes (and Money)",
+    "score": 10
+  },
+  {
+    "id": "Ui1nesfRi-I",
+    "title": "John Part 9 Dart Finish 2011 Sky Bet Mobile World Matchplay OPENING NIGHT",
+    "score": 10
+  },
+  {
+    "id": "NffSc1ABzg8",
+    "title": "Darts World Matchplay 1984 John Lowe Perfect Leg 9 Darter",
+    "score": 10
+  },
+  {
+    "id": "FmwUKuh7x_w",
+    "title": "9 Darter - John Part | PDC World Matchplay 2011",
+    "score": 10
+  },
+  {
+    "id": "znf3bPzFSEQ",
+    "title": "John Lowe vs Phil Taylor   2000 World Matchplay Quarter Finals Part 1",
+    "score": 10
+  },
+  {
+    "id": "Z3jhl37WKf8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cYlV2zf6K08",
+    "title": "Which To Buy First, Finish Nailer Or Brad Nailer?",
+    "score": 10
+  },
+  {
+    "id": "ZljEwufYAms",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o_m-vkg5Muo",
+    "title": "School VS College: First To Finish Test",
+    "score": 10
+  },
+  {
+    "id": "jWUlMsk6Zjg",
+    "title": "John Lowe 9-dart finish FIRST EVER ON TV",
+    "score": 10
+  },
+  {
+    "id": "cKfEzavR0GY",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "70zXwr1wPXs",
+    "title": "COMISSIONERS COOK General Senona “It Doesn’t Matter If Advocate Isn’t Happy With My Response”",
+    "score": 10
+  },
+  {
+    "id": "A0l4gOYIF5I",
+    "title": "Tin Tổng Hợp LSTV P2 (01-28-2026) Sài Gòn chuẩn bị cách ly ʙệɴʜ ɴɪᴘᴀʜ ɴɢᴜʏ ʜɪểᴍ",
+    "score": 10
+  },
+  {
+    "id": "Tfl7rjkxPJQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NLcQsqwHe2I",
+    "title": "EATING COMPETITION FIRST PERSON TO FINISH FUFU AND OKRO SOUP WIN 100,000",
+    "score": 10
+  },
+  {
+    "id": "aVboymEvCCk",
+    "title": "Trump Awards Cold Open - SNL",
+    "score": 10
+  },
+  {
+    "id": "2sVn0q_Yi9w",
+    "title": "I Renovated This $1 House (Start To Finish)",
+    "score": 10
+  },
+  {
+    "id": "4hGTAEWbg3k",
+    "title": "Nice Guys Finish First: Ep. 3",
+    "score": 10
+  },
+  {
+    "id": "G8EUFCSDgoU",
+    "title": "Mazda MX-5 Cup and First to The Finish on Amazon Prime!",
+    "score": 10
+  },
+  {
+    "id": "FJfa5Dcpj1g",
+    "title": "When You’re The First To Finish Dinner",
+    "score": 10
+  },
+  {
+    "id": "KOhlvQKF3SQ",
+    "title": "Finish First Intro",
+    "score": 10
+  },
+  {
+    "id": "wC37MphkogM",
+    "title": "FIRST ONE TO FINISH WINS @Davdngo",
+    "score": 10
+  },
+  {
+    "id": "gOCGYfNNS0o",
+    "title": "50 Checkpoint Stunt Race. First to Finish Wins",
+    "score": 10
+  },
+  {
+    "id": "efPx9XtCzEM",
+    "title": "A FIGHT TO FINISH - DESTINY ETIKO, LIZZY GOLD, BLESSING CEO, MALEEK MILTON, LATEST NIGERIAN MOVIE",
+    "score": 10
+  },
+  {
+    "id": "0n7_imuuNws",
+    "title": "Sometimes The Good Guys Finish First (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "O0xKQEvcbtQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_jf98aSqhoQ",
+    "title": "Every Uniform In A Navy Sailor's Seabag | Loadout | Business Insider",
+    "score": 10
+  },
+  {
+    "id": "dS-QGTqphWE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "T9MXw_hfAok",
+    "title": "Shoes",
+    "score": 10
+  },
+  {
+    "id": "ViJBf_4mh4g",
+    "title": "What did a Navy Corpsman wear on D-Day?",
+    "score": 10
+  },
+  {
+    "id": "pTg3KaJ9bAE",
+    "title": "These colours look great with Navy and LOOK EXPENSIVE",
+    "score": 10
+  },
+  {
+    "id": "PoUswm6ociw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "naT7CCQWHD0",
+    "title": "Why Does The Navy Wear Camouflage?",
+    "score": 10
+  },
+  {
+    "id": "zTTleyEh6YI",
+    "title": "Should You Wear Black \\u0026 Navy Together? #menfashion #stylingtips #fashion",
+    "score": 10
+  },
+  {
+    "id": "YgNqqs2rtrs",
+    "title": "Black \\u0026 Navy?!? Yes or No???",
+    "score": 10
+  },
+  {
+    "id": "Uidt01Mj5r0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_4WhlHUb5ZI",
+    "title": "5 Ways To Wear A Navy Suit",
+    "score": 10
+  },
+  {
+    "id": "oojIo5w6cb8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ReyrXqepo6k",
+    "title": "Top 5 Military Dress Uniforms",
+    "score": 10
+  },
+  {
+    "id": "SYDaQQ_-p_E",
+    "title": "12 Stylish Navy Blazer Looks - Get the Most Out of Your Navy Blazer",
+    "score": 10
+  },
+  {
+    "id": "m8KfzihNSgs",
+    "title": "5 Ways To Wear A Navy Suit | Classic Men's Style Lookbook",
+    "score": 10
+  },
+  {
+    "id": "M0L823y_mLs",
+    "title": "DRESSED DOWN",
+    "score": 10
+  },
+  {
+    "id": "kKSzfULI0CM",
+    "title": "8 Ways to Wear your Navy Blue Suit",
+    "score": 10
+  },
+  {
+    "id": "jQjAFeROo5U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mRpAIio0r4Q",
+    "title": "RELAXED BUSINESS LOOK 1",
+    "score": 10
+  },
+  {
+    "id": "_CSPiewOWOQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "O5NGs8WeX3o",
+    "title": "CeCe Winans - Shepherd (Acoustic One Take)",
+    "score": 10
+  },
+  {
+    "id": "iSJXo_Vlsbw",
+    "title": "The Lord's My Shepherd, I'll Not Want",
+    "score": 10
+  },
+  {
+    "id": "l0Yp2SZlHT8",
+    "title": "The Lord Is My Shepherd | Psalm 23 Song (Two-Part Extended Worship)",
+    "score": 10
+  },
+  {
+    "id": "BN9GU2yGTrQ",
+    "title": "Parable of the Fig Tree ~ Part 1 ~ Shepherd's Chapel Parable of the Fig Tree",
+    "score": 10
+  },
+  {
+    "id": "9OyKILMZiRo",
+    "title": "Parable of the Fig Tree",
+    "score": 10
+  },
+  {
+    "id": "ZoMAbc4gAnU",
+    "title": "Aerobic Preaching",
+    "score": 10
+  },
+  {
+    "id": "SF4efkI4E2k",
+    "title": "dEEP SHEPHERD - PART 10 Global Underground (2023)",
+    "score": 10
+  },
+  {
+    "id": "bHIKN01EQzU",
+    "title": "Parable of the Fig Tree ~ Part 2 ~ Shepherd's Chapel Parable of the Fig Tree",
+    "score": 10
+  },
+  {
+    "id": "tjLQHmWIWks",
+    "title": "Verse 2",
+    "score": 10
+  },
+  {
+    "id": "6_Y4eEadAvU",
+    "title": "dEEP SHEPHERD - PART 7 Mystery Global Underground",
+    "score": 10
+  },
+  {
+    "id": "7fVWHCXPKpM",
+    "title": "𝑹𝒆𝒎𝒐𝒗𝒊𝒏𝒈 𝑯𝒊𝒅𝒅𝒆𝒏 𝑫𝒊𝒓𝒕 𝑭𝒓𝒐𝒎 𝑷𝒐𝒓𝒆𝒔 | 𝑺𝒐𝒐𝒕𝒉𝒊𝒏𝒈 \\u0026 𝑺𝒂𝒕𝒊𝒔𝒇𝒚𝒊𝒏𝒈 5820",
+    "score": 10
+  },
+  {
+    "id": "u_SIGGDfGME",
+    "title": "Surviving shepherd life in one of the coldest regions of Afghanistan|A snowy freezing winter morning",
+    "score": 10
+  },
+  {
+    "id": "tlS3OwJjQA0",
+    "title": "CEO Of Dutch Bros FINALLY RESPONDS To Governor Of Oregon After Leaving For Arizona",
+    "score": 10
+  },
+  {
+    "id": "_iHyGeiGc6A",
+    "title": "German shepherd saves six-year-old from being attacked by another dog",
+    "score": 10
+  },
+  {
+    "id": "ADjV9jDCqkQ",
+    "title": "My Most Dangerous Case - A German Shepherd That Attacks 24/7 | Cesar 911 Season 3, Ep. 5 - Part 1",
+    "score": 10
+  },
+  {
+    "id": "A5OrAPOhrV8",
+    "title": "The SECRET of Psalm 23 That Will Change Your Life Forever – Most People MISS This! | Biblical Wisdom",
+    "score": 10
+  },
+  {
+    "id": "VhaSKhWrYac",
+    "title": "Don't Skip.",
+    "score": 10
+  },
+  {
+    "id": "Vfp1tpciQuM",
+    "title": "WE FOUND HER CAR 50 DAYS LATER – Christina Murphy's Story",
+    "score": 10
+  },
+  {
+    "id": "K6bpXqvNkGQ",
+    "title": "SOLVED 7-Month-Old Missing Persons Cold Case (BILL SIMMONS)",
+    "score": 10
+  },
+  {
+    "id": "A90BDh1ZrHI",
+    "title": "Lock Two Park",
+    "score": 10
+  },
+  {
+    "id": "FumupMoQO3E",
+    "title": "When Israel First Begin To Acquire Horses",
+    "score": 10
+  },
+  {
+    "id": "kMa0f56obr0",
+    "title": "Season 3 EP.2 #85 \\\"The Lord Is My Shepherd” – Part 2 Recap!",
+    "score": 10
+  },
+  {
+    "id": "B-GiFP1GP3U",
+    "title": "The Shepherd: A Story of the First Christmas",
+    "score": 10
+  },
+  {
+    "id": "lVt14Ug-GOs",
+    "title": "Worm Shepherd - The Frozen Lake Pt 2 (The Ruined)",
+    "score": 10
+  },
+  {
+    "id": "zkRn4H2XTBI",
+    "title": "Hades 2 - Sightless Shepherd (Part 2) Extended",
+    "score": 10
+  },
+  {
+    "id": "8ZtK_s1ReOc",
+    "title": "Sheltered by the Shepherd",
+    "score": 10
+  },
+  {
+    "id": "FcucBYg4otU",
+    "title": "Joyce Meyer",
+    "score": 10
+  },
+  {
+    "id": "dtqliuDZlKA",
+    "title": "Search filters",
+    "score": 10
+  }
+]

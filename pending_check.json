@@ -1,1 +1,3072 @@
-[]
+[
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך פייתון למתחילים בעברית",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "35 - פונקציות (פעולות) - מדריך פייתון למתחילים, קורס מלא בעברית",
+    "score": 110
+  },
+  {
+    "id": "zTj9MXbgruI",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "מדריך Microsoft Excel למתחילים - קורס מלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "VLOOKUP - לימוד אקסל- שיעור 5 - נוסחת / פונקציית VLOOKUP ,הצלבת נתונים בין שתי טבלאות",
+    "score": 110
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "FxBCf8uyZBs",
+    "title": "כוכב לכת כדור הארץ מערכת השמש חלל לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "מסלול כדור הארץ עונות השנה מסע במערכת השמש 27",
+    "score": 60
+  },
+  {
+    "id": "N0nGQDVlH-c",
+    "title": "מסע במערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "חידון חלל מערכת השמש גלקסיית שביל החלב כמה אתם מכירים את החלל?",
+    "score": 60
+  },
+  {
+    "id": "MK5E_7hOi-k",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "zkCKx3fpk4Q",
+    "title": "התנועה המפתיעה של השמש לרוחב השמיים - גורדון וויליאמסון",
+    "score": 60
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "שווה לנסות - פרק 19",
+    "score": 60
+  },
+  {
+    "id": "T-446AjBMjg",
+    "title": "גלידה ביתית ב-10 דקות בעזרת קילו מלח",
+    "score": 60
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "ניסוי הר געש מתפרץ !  | ניסויים מדעיים עם ילדים | רפאל המטייל ויאנצ'יקס | ניסוי מדעי",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "ניסוי אדיר שכל אחד יכול לעשות בבית!!\\\\\\\\ ניסויים😱",
+    "score": 60
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "100 EASY SCIENCE EXPERIMENTS with Explanation - PART 1 (1-50)",
+    "score": 50
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "29 SCIENCE TRICKS that look like real MAGIC",
+    "score": 50
+  },
+  {
+    "id": "dwqtp89L9bA",
+    "title": "40 Science Experiments - Experiments You Can Do at Home Compilation by Inventor 101",
+    "score": 50
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "How to Calculate Faster than a Calculator - Mental Math #1",
+    "score": 50
+  },
+  {
+    "id": "cYKVTbdyxQ8",
+    "title": "What the Tech: App of the day - Mathway",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "Learn Python in Only 30 Minutes (Beginner Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "20 Emerging Technologies That Will Change The World",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "The Year 3000 \\u0026 Beyond: 300 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "$1 vs $1,000,000,000 Futuristic Tech!",
+    "score": 50
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "v9C2YnZqyIQ",
+    "title": "Taking On Unfinished Restoration Projects",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "I Found a $100 Suzuki Hayabusa Junk | Full Restoration hayabusa GSX1300R Two-stroke engine bike",
+    "score": 50
+  },
+  {
+    "id": "WXwYwitcfMg",
+    "title": "Restoration the Miter Saw I bought for $10",
+    "score": 50
+  },
+  {
+    "id": "mqCP82rubho",
+    "title": "1965 Austin-Healey MK III - Car Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "WUxAtk8Q_LE",
+    "title": "Jay's Restoration Projects in Progress - Jay Leno's Garage",
+    "score": 50
+  },
+  {
+    "id": "YO_cs_aLw7s",
+    "title": "How the Building Blocks of a Home are Made | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "mplRtR7NMtg",
+    "title": "It's Spring Cleaning Time! | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "P_PaIGG1-rI",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Learn Spanish: Repeat This 12- Word Loop Until Conversationally Fluent",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Learn Once, Use Forever: 300 Spanish Phrases for Life",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "8yuiUvi568I",
+    "title": "Rock 'N Learn Title Screen",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Learn Spanish in 30 minutes: The 100 Spanish phrases you need to know!",
+    "score": 50
+  },
+  {
+    "id": "pA69U4L9KOY",
+    "title": "Learn Spanish in 4 Hours - ALL the Spanish Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish While you Sleep MUST KNOW PHRASES",
+    "score": 50
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "LEARN SPANISH with Simple Story for beginners – Ser feliz",
+    "score": 50
+  },
+  {
+    "id": "245RCAuFACg",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "How I Would Learn Python FAST (If I Could Start Over)",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python Full Course 2026 | Learn Python in 12 Hours | Python Tutorial for Beginners | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "t8pPdKYpowI",
+    "title": "Course Intro \\u0026 Course Overview",
+    "score": 50
+  },
+  {
+    "id": "JGgzshLagpQ",
+    "title": "JUST NOW: Trump Impeachment 3.0: 212 Lawmakers Sign Resolution - Here's What Happens Next!!!",
+    "score": 50
+  },
+  {
+    "id": "hgLtLmqqL3Q",
+    "title": "Analysis: Trump says he’ll ‘acquire’ Greenland. Here’s what the Constitution says",
+    "score": 50
+  },
+  {
+    "id": "VSokSvKRdIM",
+    "title": "HUGE NEWS! Midnight Pre Patch! Make GOLD \\u0026 Gear",
+    "score": 50
+  },
+  {
+    "id": "agz1CBmCKCM",
+    "title": "The Complete WoW Midnight CLASS Picking Guide (What To Play in 2026?)",
+    "score": 50
+  },
+  {
+    "id": "0vLUPS3Aoh4",
+    "title": "'PLAYING WITH FIRE': Trump hits back at Minn. leaders ahead of 'largest protest in American history'",
+    "score": 50
+  },
+  {
+    "id": "wzWn3CeinwE",
+    "title": "Trump lectures world leaders at UN",
+    "score": 50
+  },
+  {
+    "id": "W5u9f8jVFwA",
+    "title": "2023 Royal Enfield Hunter 350 | First Ride Review",
+    "score": 50
+  },
+  {
+    "id": "va3uP_OuK0A",
+    "title": "2025 Royal Enfield Hunter 350 Ride \\u0026 Review 🔥 | Real Performance Test, Mileage \\u0026 Verdict! #hunter",
+    "score": 50
+  },
+  {
+    "id": "56LQiUJiRZ4",
+    "title": "2026 Royal Enfield Hunter 350 Ride Review | Pros \\u0026 Cons | Everything You Need To Know! | ",
+    "score": 50
+  },
+  {
+    "id": "kvYMQGDWDv4",
+    "title": "New Hunter 350 Ride Review | OLD vs NEW | Off roading and Suspension Check",
+    "score": 50
+  },
+  {
+    "id": "74LBcCvokiM",
+    "title": "Sleeping Bear Dunes climb. 2 min down, 30 min up.  $3,000 if you don’t make it.",
+    "score": 50
+  },
+  {
+    "id": "apf28jyKMmg",
+    "title": "How To Carve A Black Bear Climbing",
+    "score": 50
+  },
+  {
+    "id": "7y1XhyTe4Zs",
+    "title": "PHOENIX REMAKE - Last Man Standing (Two Time vs. Azure) | Lyrics",
+    "score": 50
+  },
+  {
+    "id": "Gd3ByDl6JZQ",
+    "title": "The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History",
+    "score": 50
+  },
+  {
+    "id": "WW8UwUPturo",
+    "title": "The Best Things To Do in Phoenix, Arizona 🇺🇸 | Travel Guide ScanTrip",
+    "score": 50
+  },
+  {
+    "id": "ldR-BtmZuSg",
+    "title": "How to Read Column Plan Details?  | How to Place Column for Building?|",
+    "score": 50
+  },
+  {
+    "id": "tLC0e82iias",
+    "title": "HOW TO PLAY SOLO MODE IN STUMBLE GUYS #stumbleguys #solomode",
+    "score": 50
+  },
+  {
+    "id": "eiv2Z58-dnY",
+    "title": "HOW TO SOLO NIGHT 1 HARD MODE WITH NO SPECIAL TOWERS HALLOWEEN EVENT 2025 | TDS",
+    "score": 50
+  },
+  {
+    "id": "JP5JcSvrA34",
+    "title": "Ark Nova Board Game Solo Review | My Impressions of the Solo Mode of this Popular Board Game",
+    "score": 50
+  },
+  {
+    "id": "2APFkfY3jn4",
+    "title": "Lost Ark Solo Mode Act 2 \\u0026 Act 3 Guide",
+    "score": 50
+  },
+  {
+    "id": "Rod2Hr3hCK8",
+    "title": "The STRONGEST Build in BG3: Solo Stealth Archer PRO Walkthrough Dark Urge Patch 7 NEW EVIL ENDING",
+    "score": 50
+  },
+  {
+    "id": "ajXM-kj5-Qs",
+    "title": "Real City Construction Simulator 3D - City Road Builder Excavator Trucks - Android Gameplay",
+    "score": 50
+  },
+  {
+    "id": "0iHxJmYVyus",
+    "title": "BREAKING: Trump Threatens 100% Tariffs On Canada 'If Governor Carney' Makes Trade Deal With China",
+    "score": 50
+  },
+  {
+    "id": "9Ftp8d5jrP4",
+    "title": "Greenland -  Between Denmark and Trump | DW Documentary",
+    "score": 50
+  },
+  {
+    "id": "MJ3O6PwfUUE",
+    "title": "Trump’s Power \\u0026 the Rule of Law (full documentary) | FRONTLINE",
+    "score": 50
+  },
+  {
+    "id": "MeoQ6VDzV5g",
+    "title": "Trump doubles down on Republicans ending the filibuster as government shutdown makes history",
+    "score": 50
+  },
+  {
+    "id": "t3413csxEtI",
+    "title": "Acid vs. Base: 🧪 A Fun Chemistry Showdown for Kids! | The Science of pH Scale Explained",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "f3Xxg4FuKPM",
+    "title": "Earth, Planets and Sun Size Comparison - 3D",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "7kNjNvEVuUg",
+    "title": "4k video ultra hd solar system | space travel in (sun) moon and mars earth",
+    "score": 10
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "How Many Earths Can Fit Into The Sun? | Planet Size Comparison",
+    "score": 10
+  },
+  {
+    "id": "Y60kc5I94Jc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "NCjf6og4qHk",
+    "title": "Corn flakes and magnet",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "O86CweicQ6k",
+    "title": "Square any 2 digit number in 3 seconds I Crazy Math Trick",
+    "score": 10
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Mental Math Tricks",
+    "score": 10
+  },
+  {
+    "id": "k8mdltWUWWY",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LERb-94P8po",
+    "title": "Adding fractions",
+    "score": 10
+  },
+  {
+    "id": "yFnFhu75CKc",
+    "title": "Step 1",
+    "score": 10
+  },
+  {
+    "id": "mO01HHe-k2s",
+    "title": "This Math Trick is Black Magic",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "D6IqViNgGbk",
+    "title": "Calculator - Fractions",
+    "score": 10
+  },
+  {
+    "id": "i3yPTC_2sVQ",
+    "title": "Mental Math Tricks - Addition, Subtraction, Multiplication \\u0026 Division!",
+    "score": 10
+  },
+  {
+    "id": "nTn9gVqRfKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VLOou59juGo",
+    "title": "99% of people don't know this secret math trick",
+    "score": 10
+  },
+  {
+    "id": "ObiqJzfyACM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "PFVvCs9iQco",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5VuW76Bc5Mw",
+    "title": "2030",
+    "score": 10
+  },
+  {
+    "id": "SzMiJFOa6w8",
+    "title": "Artificial General Intelligence",
+    "score": 10
+  },
+  {
+    "id": "SwkGVPh8jYs",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "5fTNGvuPTMU",
+    "title": "Type 1 Civilization (Planetary)",
+    "score": 10
+  },
+  {
+    "id": "ZjOfJTloxfM",
+    "title": "1932 Rolls Royce P2 Chassis with a Merlin Engine",
+    "score": 10
+  },
+  {
+    "id": "5TXYl9-lnv4",
+    "title": "We're Restoring a Castle in Scotland: Our Dream Project Begins",
+    "score": 10
+  },
+  {
+    "id": "uVSFjRyQ0v4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Sandwich Cookies- Originally aired 2009",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "S2i23eHa8Wk",
+    "title": "Diving Helmet",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "qCjH8J76uJQ",
+    "title": "Bandages - Originally aired 2005",
+    "score": 10
+  },
+  {
+    "id": "zL93IObiPbw",
+    "title": "Glass Paperweights - Originally aired 2010",
+    "score": 10
+  },
+  {
+    "id": "6as_1m9YAG0",
+    "title": "Fresh Cut Flowers.",
+    "score": 10
+  },
+  {
+    "id": "Hb4pYpTWJhg",
+    "title": "Playground Spring Riders",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "_cYGuh5Ax_E",
+    "title": "Dumplings.",
+    "score": 10
+  },
+  {
+    "id": "jCudYf2n0VI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lE7EGwpJfMg",
+    "title": "Tortilla Chips.",
+    "score": 10
+  },
+  {
+    "id": "jLTBvAoL9pI",
+    "title": "Donuts.",
+    "score": 10
+  },
+  {
+    "id": "9w2mfu0YOVE",
+    "title": "Induction Cooktops",
+    "score": 10
+  },
+  {
+    "id": "9hlKGcdytFQ",
+    "title": "Aluminum Pots and Pans.",
+    "score": 10
+  },
+  {
+    "id": "ymPZiWKg1Ys",
+    "title": "Trump reveals details of Greenland ‘framework’ plan",
+    "score": 10
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LGMKg6MUdxI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Ozf-mSpMFk",
+    "title": "Improve your SPANISH listening by up to 90% in just 45 minutes!",
+    "score": 10
+  },
+  {
+    "id": "5Ga566gw01Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TkRmrPQDPFw",
+    "title": "At Davos, Trump's Greenland agenda causes \\\"rupture\\\" in relations with America's allies",
+    "score": 10
+  },
+  {
+    "id": "fToSINpITRU",
+    "title": "Danish veteran who served in Afghanistan reacts to Trump's comments on Greenland",
+    "score": 10
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "9 HOURS of Python Projects - From Beginner to Advanced",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "1-2eFk6D2uA",
+    "title": "Here is Trump's plan for Greenland",
+    "score": 10
+  },
+  {
+    "id": "QrEQ1lOdOVg",
+    "title": "Trump and Walz just spoke over the phone. Here's what to know",
+    "score": 10
+  },
+  {
+    "id": "WrItMGVP5Ig",
+    "title": "Iran: ‘Time is running out’ to reach a deal, Trump says • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "JOZny9Tqvts",
+    "title": "‘Who was here in 2021?’ Trump responds to question on white supremacists in Howell, Michigan",
+    "score": 10
+  },
+  {
+    "id": "Nn_9KF-8LIU",
+    "title": "Here's why President Donald Trump will not be attending Super Bowl 60",
+    "score": 10
+  },
+  {
+    "id": "o4TgOeNKHxA",
+    "title": "Here is the 'untold story' of Trump's first term",
+    "score": 10
+  },
+  {
+    "id": "WoiW2BUtNbA",
+    "title": "President Trump announces Greenland deal at Davos, here’s what it looks like",
+    "score": 10
+  },
+  {
+    "id": "s4_eGkF28WY",
+    "title": "NYT Columnist Thomas Friedman: “The World Will Push Back” Against Trump | Amanpour and Company",
+    "score": 10
+  },
+  {
+    "id": "xe-XOhc7e7Q",
+    "title": "Trump Just Banned Wall Street From Buying Homes? Here's The Truth  #ocrealestate",
+    "score": 10
+  },
+  {
+    "id": "hi0fbGLsfdQ",
+    "title": "Trump FAKES Greenland victory — here's the truth.",
+    "score": 10
+  },
+  {
+    "id": "zqjiZ0nz1qI",
+    "title": "Here's the 'bigger question' for Gavin Newsom: Lara Trump",
+    "score": 10
+  },
+  {
+    "id": "9suIJDmg0vc",
+    "title": "Inside Trump’s Turnabout on Greenland",
+    "score": 10
+  },
+  {
+    "id": "JeHbnKoWUtI",
+    "title": "Ilhan Omar Attacked with Syringe. Trump Says It Was Probably Faked.",
+    "score": 10
+  },
+  {
+    "id": "YluhblQLXgo",
+    "title": "Trump Confirms: A Global Monetary Reordering IS HERE- The End of the Dollar's Reserve Status",
+    "score": 10
+  },
+  {
+    "id": "A1stBL2W4Eo",
+    "title": "Trump Announces US to Give $1,000 for Newborn Investment Accounts - Here's How They Work",
+    "score": 10
+  },
+  {
+    "id": "-cRIfBBlwGA",
+    "title": "America First or China #1?",
+    "score": 10
+  },
+  {
+    "id": "U34Z2Ck-gdA",
+    "title": "Why the United States and NATO Just Agreed on a New Strategic Framework for the Arctic",
+    "score": 10
+  },
+  {
+    "id": "n3E606u_E6k",
+    "title": "Just How MASSIVE Is NATO's Military",
+    "score": 10
+  },
+  {
+    "id": "ORiQU6qQNII",
+    "title": "Trump's Davos Speech Highlights",
+    "score": 10
+  },
+  {
+    "id": "dXrSQI4sOHs",
+    "title": "In Just 44 Hours, NATO Nation Ends Greenland Mission As Trump’s Tariff Rattle Europe | Bundeswehr",
+    "score": 10
+  },
+  {
+    "id": "7ZlACf2LdPY",
+    "title": "BUCKLE UP! Trump Just Placed A GAMBLE That Can Bring Peace To The Entire World!",
+    "score": 10
+  },
+  {
+    "id": "cYLUm1Cj8WE",
+    "title": "Chaos everywhere… but there’s a method",
+    "score": 10
+  },
+  {
+    "id": "xaaQ7Ykb24c",
+    "title": "JUST IN: NATO’s Rutte, Finland’s Stubb, Poland’s Nawrocki Reject Russian Threats to Europe | AQ1B",
+    "score": 10
+  },
+  {
+    "id": "WnBh6qntPpk",
+    "title": "Ursula SOLD Greenland To SAVE Germany And European Union? Ursula's 'SECRET DEAL' With Trump!",
+    "score": 10
+  },
+  {
+    "id": "dfr-lXlLyS4",
+    "title": "'NO. 1 MISSION': Trump's GOLDEN DOME protection plan revealed",
+    "score": 10
+  },
+  {
+    "id": "B_X9eXVfIqs",
+    "title": "\\\"Treason\\\": BC premier calls out Alberta separatist group for seeking US help to 'break up' Canada",
+    "score": 10
+  },
+  {
+    "id": "pn4qmgywvtQ",
+    "title": "NATO Chief Fires Back at Trump: “Europe WILL Defend America!”",
+    "score": 10
+  },
+  {
+    "id": "ykuooSNkwTk",
+    "title": "President Trump says he won't use force for Greenland",
+    "score": 10
+  },
+  {
+    "id": "yy28zmb_KI0",
+    "title": "Marco Rubio says NATO ‘needs to be reimagined'",
+    "score": 10
+  },
+  {
+    "id": "2VlUMBsm_t0",
+    "title": "Intro: Trump, Greenland \\u0026 Europe’s security question",
+    "score": 10
+  },
+  {
+    "id": "CvdnImxHQhg",
+    "title": "Trump's 47-Minute NATO Meeting Just BROKE the $4.7T Alliance (While China SMILED)",
+    "score": 10
+  },
+  {
+    "id": "9m0DLqGqUqg",
+    "title": "JUST IN: Trump Cancels NATO — Then Europe Signs a Deal That Changes Everything | Warren Buffett",
+    "score": 10
+  },
+  {
+    "id": "9f6IRsvClPY",
+    "title": "JUST IN: Trump Ends NATO — Europe’s $2 Trillion Alliance Leaves America Behind | Buffett Warns",
+    "score": 10
+  },
+  {
+    "id": "E93Jyq6s9ZY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "u6C3xG5RWeQ",
+    "title": "US, Denmark will 'have something' on Greenland in 2 weeks: Trump",
+    "score": 10
+  },
+  {
+    "id": "gN0PZCe-kwQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "PIoc3EosRos",
+    "title": "Pick Your Midnight Main the Smart Way (Reroll Proof)",
+    "score": 10
+  },
+  {
+    "id": "Dl_n2_ekfN4",
+    "title": "*NEW* Class Changes - THE DEATH OF HOLY PALADINS? | World of Warcraft Midnight",
+    "score": 10
+  },
+  {
+    "id": "zgREkFtGe9M",
+    "title": "Class Spotlight: HUNTER in WoW Midnight",
+    "score": 10
+  },
+  {
+    "id": "8Ljb_11VC04",
+    "title": "The EASIEST DPS Specs That Are PUMPING in Midnight",
+    "score": 10
+  },
+  {
+    "id": "WLHratp7H2c",
+    "title": "Spec #1",
+    "score": 10
+  },
+  {
+    "id": "sxiuf6PsDWA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "S457uPDsR2c",
+    "title": "Melee DPS Specs",
+    "score": 10
+  },
+  {
+    "id": "ZGXHiABnNRE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_8CUAHjNd2k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ee8NO45nBHU",
+    "title": "World of Warcraft - The State of Azeroth",
+    "score": 10
+  },
+  {
+    "id": "QkNZd3XO6LI",
+    "title": "Top 5 DPS To PLAY in WoW Midnight",
+    "score": 10
+  },
+  {
+    "id": "ozFeCrBgn8g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rhIJdGV9eRI",
+    "title": "World of Warcraft - The State of Azeroth",
+    "score": 10
+  },
+  {
+    "id": "jontGcshyaM",
+    "title": "The EASIEST Melee DPS Specs You could Main in Midnight WoW | Tier List",
+    "score": 10
+  },
+  {
+    "id": "M3S_OxYBecY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pkFMkdZWxdk",
+    "title": "УВАГА! Всіх українців залишають в Польщі! Сенат підтримав уставу",
+    "score": 10
+  },
+  {
+    "id": "LKKdIaE6a9U",
+    "title": "Midnight Hpal Beta Changes - WHO WANTED THIS??",
+    "score": 10
+  },
+  {
+    "id": "u_Y85XVKh6Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "10t5CH7gMRc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TloSeUQ5LbY",
+    "title": "The Best Midnight PUG/SOLO Player Specs To Main! No More \\\"META\\\"!",
+    "score": 10
+  },
+  {
+    "id": "u4jq6SXxjlY",
+    "title": "Intro \\u0026 Giveaway!",
+    "score": 10
+  },
+  {
+    "id": "V5P8LU0HcnA",
+    "title": "Midnight Classes",
+    "score": 10
+  },
+  {
+    "id": "qyAleahorrE",
+    "title": "The Tank Is Changing",
+    "score": 10
+  },
+  {
+    "id": "0prBUoSxuDI",
+    "title": "Do this FIRST in Midnight Prepatch",
+    "score": 10
+  },
+  {
+    "id": "a77tu7PP-Mo",
+    "title": "Intro \\u0026 Giveaway",
+    "score": 10
+  },
+  {
+    "id": "IA5Zc_GZIbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qWlBQsKo-vI",
+    "title": "Trump Says He Has ‘Many Friends, a Few Enemies' at Davos",
+    "score": 10
+  },
+  {
+    "id": "xIv6nYF7RUs",
+    "title": "Clergy joins the fight as Trump crosses moral lines",
+    "score": 10
+  },
+  {
+    "id": "j5sO0Ug7L68",
+    "title": "1 MIN AGO: Furious Senate Leaders Abandon Trump - Washington Erupts Into Open Revolt!",
+    "score": 10
+  },
+  {
+    "id": "cJXw6PMlgpA",
+    "title": "Something EXTRAORDINARY Is Happenings - World Leaders BAN Trump : \\\"NATO is Broken\\\"",
+    "score": 10
+  },
+  {
+    "id": "GOB8EF5svcI",
+    "title": "DETAILS: Danish leaders REFUTE Trump on Greenland deal",
+    "score": 10
+  },
+  {
+    "id": "llL8vpU_tDY",
+    "title": "World Leaders CALL Trump’s BLUFF and WATCH HIM SUFFER!!!",
+    "score": 10
+  },
+  {
+    "id": "g1uLVlESvKo",
+    "title": "Newsom SMOKES 'pathetic' World leaders sucking up to 'T-Rex' Trump",
+    "score": 10
+  },
+  {
+    "id": "qzOKsGVjjWw",
+    "title": "Trump REJECTED by World Leaders in Global Humiliation",
+    "score": 10
+  },
+  {
+    "id": "teCMhkU6aC8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pjI1f4ahigY",
+    "title": "The Recording That Changed Everything",
+    "score": 10
+  },
+  {
+    "id": "dcavPW61OHw",
+    "title": "Just in: Zhang Youxia’s Secret Letter and the Fracture Inside China’s Military",
+    "score": 10
+  },
+  {
+    "id": "47qaB1K0TKk",
+    "title": "Major: Close ally of Trump told world leaders that Trump’s mental state was dangerous.",
+    "score": 10
+  },
+  {
+    "id": "nYJWzlU4T5g",
+    "title": "Trump Arrives at World Economic Forum in Davos, Switzerland",
+    "score": 10
+  },
+  {
+    "id": "porw12rU_JU",
+    "title": "Rutte Tells Trump NATO Will Defend US in Conflict",
+    "score": 10
+  },
+  {
+    "id": "NiKQ9GXZwGA",
+    "title": "World leaders react to Trump's attack on Venezuela, ousting Maduro",
+    "score": 10
+  },
+  {
+    "id": "r9JOfIp4ds0",
+    "title": "European leaders react to Trump’s latest comment about annexing Greenland",
+    "score": 10
+  },
+  {
+    "id": "HX-OOEUowfo",
+    "title": "‘F*** off’: World HITS BACK as Trump’s aggression shocks global leaders",
+    "score": 10
+  },
+  {
+    "id": "u0_3yHVIyXk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "y4NI4RWVWuE",
+    "title": "'Handover Greenland To U.S. By June 1, Or...': Trump's HUGE ULTIMATUM \\u0026 Threat To Europe",
+    "score": 10
+  },
+  {
+    "id": "31Ls2L3zGS4",
+    "title": "‘This is just insane’: Trump’s Greenland threats put U.S. military personnel in unthinkable position",
+    "score": 10
+  },
+  {
+    "id": "Uz1X2DasbrY",
+    "title": "Trump presses Greenland deal, giving Denmark two-week deadline",
+    "score": 10
+  },
+  {
+    "id": "h7IHA3lF11Y",
+    "title": "US, Denmark will 'have something' on Greenland in 2 weeks: Trump",
+    "score": 10
+  },
+  {
+    "id": "ptjRstZF0tQ",
+    "title": "SHOCK STATEMENT: Trump Says 'We'll Worry About Greenland In About Two Months' After Maduro Capture",
+    "score": 10
+  },
+  {
+    "id": "vqWrh6syCd0",
+    "title": "Trump’s Greenland deal framework still unclear",
+    "score": 10
+  },
+  {
+    "id": "abMTvr7_1CY",
+    "title": "Trump ally ‘traumatised’ by meeting with ‘out of his mind’ President",
+    "score": 10
+  },
+  {
+    "id": "I8fPtyqFJdI",
+    "title": "'NO. 1 MISSION': Trump's GOLDEN DOME protection plan revealed",
+    "score": 10
+  },
+  {
+    "id": "2qjPIi2p2oQ",
+    "title": "JUST IN: Chris Coons Confronts Rubio About Trump's 'Appalling' Greenland Threats And NATO Comments",
+    "score": 10
+  },
+  {
+    "id": "wnyQ2vmLrCg",
+    "title": "'NO. 1 MISSION': Trump's GOLDEN DOME protection plan revealed",
+    "score": 10
+  },
+  {
+    "id": "2CM65BPFqis",
+    "title": "Trump’s Greenland Deadline Shocks Denmark | What Happens Next? #news",
+    "score": 10
+  },
+  {
+    "id": "UdotI--7VF8",
+    "title": "How is Greenland Reacting to Trump's Calls to Take Over?",
+    "score": 10
+  },
+  {
+    "id": "SlcJAC_Hj9I",
+    "title": "Denmark Slams Trump Over Greenland Pressure",
+    "score": 10
+  },
+  {
+    "id": "7sjcbxwLeF4",
+    "title": "President Trump says he reached a ‘concept of a deal’ with Greenland",
+    "score": 10
+  },
+  {
+    "id": "BLQYnfYyE9w",
+    "title": "Donald Trump refuses to rule out an attack of a NATO ally, with Greenland threats",
+    "score": 10
+  },
+  {
+    "id": "_GKdovkmjRI",
+    "title": "Trump confuses Greenland with Iceland in a rambling, incoherent speech in front of world leaders ",
+    "score": 10
+  },
+  {
+    "id": "c36Lzz7nKeE",
+    "title": "Leavitt: Greenland Is Still A Priority For Trump, However No Deadline For Acquisition | TRENDING",
+    "score": 10
+  },
+  {
+    "id": "TTXTxvyBbqw",
+    "title": "White House officials discuss Greenland acquisition Wednesday",
+    "score": 10
+  },
+  {
+    "id": "saHViNIWPjU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "dtUb3aWugEI",
+    "title": "Air Supply - Come What May (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ElPBcBgGtnU",
+    "title": "Jessie Murph - The Man That Came Back (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ph0aYK-n0Fc",
+    "title": "Calvin Harris, Rihanna - This Is What You Came For (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "ipLRRzJ9sWg",
+    "title": "Which Came First,  Chicken or Egg? 🐓🥚",
+    "score": 10
+  },
+  {
+    "id": "MLrDNw-54rQ",
+    "title": "Luke Bryan - Country Song Came On (Official Audio Video)",
+    "score": 10
+  },
+  {
+    "id": "WOCCashLi4Q",
+    "title": "Fridayy - Came Too Far (Audio) ft. Maverick City Music, My Mom",
+    "score": 10
+  },
+  {
+    "id": "azCEpoYLxeg",
+    "title": "How Was Steal a Brainrot When It Came Out?",
+    "score": 10
+  },
+  {
+    "id": "gd88NlsG5BM",
+    "title": "Bee Gees - This Is Where I Came In",
+    "score": 10
+  },
+  {
+    "id": "p5SOwQQY_-k",
+    "title": "I Came To Tell You",
+    "score": 10
+  },
+  {
+    "id": "rwIGSMzMUik",
+    "title": "Meek Mill - HOW FAR WE CAME (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "3BqbFfFCEE8",
+    "title": "How Was Grow a Garden When It Came Out?",
+    "score": 10
+  },
+  {
+    "id": "FVL27mgdqME",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eM60wOowvW8",
+    "title": "Winning Round: $50,000 USHJA International Hunter Derby (Handy Round)",
+    "score": 10
+  },
+  {
+    "id": "E_Lci6HB5Yw",
+    "title": "If This Isn’t Freedom, I Don’t Know What Is | Hunter 350 Pov",
+    "score": 10
+  },
+  {
+    "id": "7rbHBlK42RY",
+    "title": "Hunter - The Ride",
+    "score": 10
+  },
+  {
+    "id": "hM9itgRIyRg",
+    "title": "A Really Clean Platform",
+    "score": 10
+  },
+  {
+    "id": "jCkcCzOHYyg",
+    "title": "Royal Enfield Hunter 2022 | POV | Pure Sound",
+    "score": 10
+  },
+  {
+    "id": "sWnvhiDOXPs",
+    "title": "Hunter 350 by Royal Enfield - Epic Test Ride!",
+    "score": 10
+  },
+  {
+    "id": "Nrdq2-MqlUA",
+    "title": "Royal Enfield Hunter 350 First Impressions 👀 | Full Day Riding | Motorcycle Photography",
+    "score": 10
+  },
+  {
+    "id": "rNPDFLNNZH8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zWjnCboN280",
+    "title": "Matt Hunter-  Ride (Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "xhmTTQwrq5E",
+    "title": "Three reasons to buy a #Hunter!",
+    "score": 10
+  },
+  {
+    "id": "CNxDjiJD18g",
+    "title": "Finally 2025 Yamaha XSR 155 VS Royal Enfield Hunter 350 Ride Comparison.",
+    "score": 10
+  },
+  {
+    "id": "K1mJ9sNvc8Q",
+    "title": "Royal Enfield Hunter 350 🔥: Must-Know Pros \\u0026 Cons Before Buying 🛑\\\"",
+    "score": 10
+  },
+  {
+    "id": "L5eFCg_xl3U",
+    "title": "EPISODE 4 | IS  HUNTER 350 GOOD FOR LONG TOUR ?  NITI VA,LEY | |MOUNTAINS RIDE ON ROYAL ENFIELD",
+    "score": 10
+  },
+  {
+    "id": "8msalQPrlrw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "x33qe6YSM7Y",
+    "title": "🚨Europe Just STUNNED Trump With SURPRISE SUNDAY Retaliation!",
+    "score": 10
+  },
+  {
+    "id": "Prm3TEdqm3M",
+    "title": "A stunned Europe says Trump’s pressure over Greenland is ‘wrong’ and ‘unacceptable’",
+    "score": 10
+  },
+  {
+    "id": "2hGnNdh7gqk",
+    "title": "Real Madrid STUNNED by Benfica in Europe 😳 #UCL #ChampionsLeague",
+    "score": 10
+  },
+  {
+    "id": "BDcP-_rZofs",
+    "title": "‘Europe Needs To…’: EU Foreign Policy Chief Gives Reality Check On Trump After Carney’s Davos Speech",
+    "score": 10
+  },
+  {
+    "id": "8aec_iGFoMQ",
+    "title": "Donald Trump STUNNED as Europe Quietly Triggers a TRILLION-Dollar “SELL AMERICA” Shock",
+    "score": 10
+  },
+  {
+    "id": "ciDfFROwPo0",
+    "title": "Trump's Bold Greenland Push Leaves Denmark Stunned, Europe Panics Amid Arctic Tensions | US, Russia",
+    "score": 10
+  },
+  {
+    "id": "jHS0wjDDc-A",
+    "title": "A Stunned Europe Reacts to Trumps Greenland Threat #europe #trump #greenland #denmark #nato  #news",
+    "score": 10
+  },
+  {
+    "id": "iWyKfCqh8IY",
+    "title": "Ukraine and Europe watch opening moments of Trump-Putin summit in ‘stunned silence’",
+    "score": 10
+  },
+  {
+    "id": "o6Unclft4pE",
+    "title": "Europe Stunned: Trump Hands Putin Crimea \\u0026 Nixes Ukraine NATO Future 8/18/25",
+    "score": 10
+  },
+  {
+    "id": "2SKMtddzTPw",
+    "title": "Europe Stunned: Trump Admits Collusion with Russia!",
+    "score": 10
+  },
+  {
+    "id": "xaIuXRfc6aU",
+    "title": "Europe Reacts to Trump’s Peace Plan",
+    "score": 10
+  },
+  {
+    "id": "wn4PY--tp10",
+    "title": "American STUNNED by Europe’s Christmas Markets 🎄 The Vibes Are Unreal!",
+    "score": 10
+  },
+  {
+    "id": "QSxomcFPZ-s",
+    "title": "⚡️France shocked Ukrainians with its statement! Putin was stunned by news. Tough decision on Russia",
+    "score": 10
+  },
+  {
+    "id": "KjiRCaSbupM",
+    "title": "Trump Shakes Up the World—Europe Stunned, Zelensky Left Out",
+    "score": 10
+  },
+  {
+    "id": "4gzyP-MQd8s",
+    "title": "Introductions and Program Overview",
+    "score": 10
+  },
+  {
+    "id": "lxYTGyWqayU",
+    "title": "Northern lights stun Europe as most powerful solar storm since 2003 hits Earth • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "uG-UJXadczc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ko70cExuzZM",
+    "title": "Spotify VIRAL Music 2026 ~ Top Spotify Songs Mix 🎧 Trending Songs 2026 ~ Best Pop Hits Playlist 2026",
+    "score": 10
+  },
+  {
+    "id": "Vpda2e0Q0Bw",
+    "title": "FORGOTTEN SOLDIER - Lone Survivor | Full Movie 2025 | Action | English | 4K",
+    "score": 10
+  },
+  {
+    "id": "Ap-UM1O9RBU",
+    "title": "Jason Momoa In THE LYCAN - Hollywood Free English Movie | Blockbuster Action Horror Movie In English",
+    "score": 10
+  },
+  {
+    "id": "1KmztiIHhDA",
+    "title": "Best Acoustic Songs 2025 💖 Chill English Acoustic Love Songs Cover 💖 Acoustic Songs 2025 Playlist",
+    "score": 10
+  },
+  {
+    "id": "xESVaYvG4xE",
+    "title": "Timmy Commerford, lost., Pop Mage - At My Worst",
+    "score": 10
+  },
+  {
+    "id": "WxNNWhOHcsQ",
+    "title": "Billboard Pop Songs 2025 Playlist ✨Ed Sheeran, The Weeknd, Bruno Mars, Rihanna, Sia, Adele, Dua Lipa",
+    "score": 10
+  },
+  {
+    "id": "ed1RJCuNWAo",
+    "title": "Pop Music 2025 - Top Pop Songs 2025 - Billboard Top 100 🎧🔥 Justin Bieber Billie Eilish Miley Cyrus",
+    "score": 10
+  },
+  {
+    "id": "E0Y8OEo_zOc",
+    "title": "As It Was",
+    "score": 10
+  },
+  {
+    "id": "nXeEQTnfljo",
+    "title": "Billboard Hot 50 This Week 🌙🔥 Viral Pop Hits – Justin Bieber, Taylor Swift, Ava Max, Ed Sheeran,...",
+    "score": 10
+  },
+  {
+    "id": "wPAqnzx2rU4",
+    "title": "New OPM Trending 2025 🎧Best Tagalog Love Songs With Lyrics | Most Played Philippines Songs",
+    "score": 10
+  },
+  {
+    "id": "yOOYwODkOpc",
+    "title": "Top Pop Songs 2026 🎶 Maroon5, Ed Sheeran, Avicii, Justin Bieber, Alan Waker, The Weeknd | Pop Music",
+    "score": 10
+  },
+  {
+    "id": "3MOrgUjiigE",
+    "title": "Iblees Episode 19 [Eng Sub] - Hibba Aziz - Farhan Ahmed Malhi - Fajjer Khan - 29th January 2026",
+    "score": 10
+  },
+  {
+    "id": "ExPi7hay6wo",
+    "title": "BAD WOMEN : Angelina Jolie, Scarlett Johansson | New Action Movie 2026 | Full Movie 4K #actionmovies",
+    "score": 10
+  },
+  {
+    "id": "pBS9xbw0upk",
+    "title": "CALL OF DUTY (2025) | English | Latest Hollywood Blockbuster Full Action Movie",
+    "score": 10
+  },
+  {
+    "id": "JnttcoZFFI8",
+    "title": "The Last Mission : Liam Neeson | New Action Movie AI. 2025 | Full Movie | 4K HDR #actionmovies",
+    "score": 10
+  },
+  {
+    "id": "sjN4lopIMfY",
+    "title": "THE EMPEROR - JASON STATHAM New Action Movie 2025 full movie english Action Movies 2025",
+    "score": 10
+  },
+  {
+    "id": "gbXH_98HN4M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "i1uLe-pWkmk",
+    "title": "Watch moment rock climber fights off bear on mountain cliff edge",
+    "score": 10
+  },
+  {
+    "id": "R2KEWofvmss",
+    "title": "Bear Climbs into Tree Stand with Hunter!",
+    "score": 10
+  },
+  {
+    "id": "rb4UgTUMph0",
+    "title": "Bear Climbs Hunters Tree Stand",
+    "score": 10
+  },
+  {
+    "id": "ZdeNz4ybF34",
+    "title": "EPIC | Baby Bear Cub struggling to climb a snowy mountain to reach its mom | Motivational",
+    "score": 10
+  },
+  {
+    "id": "w9WfhZ_7l24",
+    "title": "Black Bear climbs very high in tree",
+    "score": 10
+  },
+  {
+    "id": "aUhkpqKpdo0",
+    "title": "Bear cub climbs mountain to reunite with mama bear",
+    "score": 10
+  },
+  {
+    "id": "rhjBXnEFKQs",
+    "title": "Baby Bears Climb Trees",
+    "score": 10
+  },
+  {
+    "id": "rJt9zDLHtBc",
+    "title": "Rock Climbing Bears",
+    "score": 10
+  },
+  {
+    "id": "xAB9-VGIkzM",
+    "title": "Determined Baby Bear Climbs Steep Mountain to Reunite With Mama",
+    "score": 10
+  },
+  {
+    "id": "rQLNFvrTV-Y",
+    "title": "BEAR ATTACKS MOUNTAIN CLIMBER 🐻#mountains #climbing #bear #wildlife#iran #russia #ukraine #news",
+    "score": 10
+  },
+  {
+    "id": "0a6WfKIXo6c",
+    "title": "Big Black Bear Climbs Tree In Fear",
+    "score": 10
+  },
+  {
+    "id": "9oqq70wx76U",
+    "title": "Curious Black Bear Climbs Ladder || ViralHog",
+    "score": 10
+  },
+  {
+    "id": "iejiFavbigQ",
+    "title": "bear climbs hunters stand",
+    "score": 10
+  },
+  {
+    "id": "uVy5p6BxFyE",
+    "title": "Can Grizzly Bears Climb Trees?",
+    "score": 10
+  },
+  {
+    "id": "Sq4dVwfGDtQ",
+    "title": "Black Bear Attempts Vertical Rock Wall Climb || ViralHog",
+    "score": 10
+  },
+  {
+    "id": "fyRnZ8DcaaI",
+    "title": "Black bear climbs a tree and tight rope to get food",
+    "score": 10
+  },
+  {
+    "id": "ZJ1KQbi2sSI",
+    "title": "Bear Grylls Reveals What Climbing Mount Everest Is Really Like",
+    "score": 10
+  },
+  {
+    "id": "88Utt9gbW8c",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eC5OsxKjPlc",
+    "title": "Fall Out Boy - The Phoenix (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "5hDZbroaQDc",
+    "title": "10 Realities of Living in Phoenix, Arizona | YOU Need to Know",
+    "score": 10
+  },
+  {
+    "id": "3sbiAFO1lNA",
+    "title": "Phoenix - If I Ever Feel Better",
+    "score": 10
+  },
+  {
+    "id": "ub36ffWAqgQ",
+    "title": "Netrum \\u0026 Halvorsen - Phoenix (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "hyjzrs2f5KA",
+    "title": "BIRDS AND PEOPLE ARE LIVING TOGETHER IN SEEMINGLY PERFECT HARMONY",
+    "score": 10
+  },
+  {
+    "id": "W7-ts95lyfQ",
+    "title": "BEST OF Peter Kay's Phoenix Nights | Comedy Compilation",
+    "score": 10
+  },
+  {
+    "id": "0MbQ1MCDNGU",
+    "title": "Phoenix - If I Ever Feel Better",
+    "score": 10
+  },
+  {
+    "id": "jJp3kVelU3c",
+    "title": "Best Things To Do in Phoenix Arizona 4K",
+    "score": 10
+  },
+  {
+    "id": "QTTBO73N-c4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ni_EHc8Lw3g",
+    "title": "The Phoenix Bird Story Rise from The Ashes (Greek Mythology)",
+    "score": 10
+  },
+  {
+    "id": "sOazY2_IIjU",
+    "title": "Introduction to the Phoenix",
+    "score": 10
+  },
+  {
+    "id": "qCWRfTH9TEs",
+    "title": "Top 10 Reasons NOT to Move to Phoenix, Arizona",
+    "score": 10
+  },
+  {
+    "id": "NkCcJ3CK014",
+    "title": "The Top Reasons People Regret Moving To Phoenix Arizona",
+    "score": 10
+  },
+  {
+    "id": "XcDDofS5Huw",
+    "title": "The Unexplained Phoenix Lights Phenomenon",
+    "score": 10
+  },
+  {
+    "id": "npeCDLsyJwE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hTi_4lGQHq8",
+    "title": "Welcome to Phoenix",
+    "score": 10
+  },
+  {
+    "id": "MPLSHK9yyCw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ihhq8Z21L10",
+    "title": "Greenlanders Protest Against Trump's Takeover Threat",
+    "score": 10
+  },
+  {
+    "id": "aDkm9az6x4A",
+    "title": "Trump issues warning on Greenland: 'WE WILL REMEMBER' #foxnews #news #us #fox",
+    "score": 10
+  },
+  {
+    "id": "120DqRMsGGk",
+    "title": "President Trump’s statement on Greenland",
+    "score": 10
+  },
+  {
+    "id": "nr6aatMxNP0",
+    "title": "Trump issues warning on Greenland: 'WE WILL REMEMBER' #foxnews #news #us #fox",
+    "score": 10
+  },
+  {
+    "id": "xFwWbgHrZs4",
+    "title": "BOVINO OUT, HOMAN IN: Trump has 'had enough'",
+    "score": 10
+  },
+  {
+    "id": "SAlMfVCLhQ8",
+    "title": "Trump’s obsession with Greenland: The real reasons behind his threats • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "rMBZRUw6yoc",
+    "title": "Why is Donald Trump so interested in Greenland? | AFP",
+    "score": 10
+  },
+  {
+    "id": "Sw6Th1huXNM",
+    "title": "Trump reveals DEADLINE for Greenland deal",
+    "score": 10
+  },
+  {
+    "id": "z-ES0zPAruQ",
+    "title": "Why does Trump want to own #Greenland?",
+    "score": 10
+  },
+  {
+    "id": "pv28ndHSd0I",
+    "title": "Trump Says Agreement Reached On Greenland—Cancels New Tariffs On Europe",
+    "score": 10
+  },
+  {
+    "id": "3R-mg1I1p14",
+    "title": "What we know about Trump's 'Greenland deal’",
+    "score": 10
+  },
+  {
+    "id": "pG8jDpymTOM",
+    "title": "US-Greenland deal follows a ‘proven model,’ ‘not some radical idea’: Israeli special ops veteran",
+    "score": 10
+  },
+  {
+    "id": "XKLz6u2cU-o",
+    "title": "How Greenland’s tranquility contrasts with latest Trump threat",
+    "score": 10
+  },
+  {
+    "id": "6oJ-Yh59GEs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ToIbpAJ7VW4",
+    "title": "A Hunter's Life",
+    "score": 10
+  },
+  {
+    "id": "4poeKQKerCs",
+    "title": "two hunters life in a deep forest far from civilization",
+    "score": 10
+  },
+  {
+    "id": "xyScvNAlYc8",
+    "title": "Charles Beaty: The Prince of Poachers | The Life of an Outlaw Hunter",
+    "score": 10
+  },
+  {
+    "id": "czqB8I4-BQY",
+    "title": "Survival Tools",
+    "score": 10
+  },
+  {
+    "id": "IsiJz6TXm3Q",
+    "title": "Asking Hunter-Gatherers Life's Toughest Questions",
+    "score": 10
+  },
+  {
+    "id": "TAGjuRwx_Y8",
+    "title": "What's the Most Important Thing in Life",
+    "score": 10
+  },
+  {
+    "id": "m7IiDyB6ICk",
+    "title": "BEST Hunt of My Life! 7 Day Solo Deer Hunt (Rut)",
+    "score": 10
+  },
+  {
+    "id": "8SncSXQM_x4",
+    "title": "This Hidden Tribe Hunt Jungle Animals With Deadly Precision | Man Hunt S1 E2 | Wonder",
+    "score": 10
+  },
+  {
+    "id": "g9G9VyfzSF0",
+    "title": "Dusky Leaf Monkeys",
+    "score": 10
+  },
+  {
+    "id": "ea0S3oySXic",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C_A7wD7Tj5k",
+    "title": "WILD Baboon Monkey HUNT with Africa's MOST FEARLESS Hadzabe Tribe!",
+    "score": 10
+  },
+  {
+    "id": "bsRtytiMpLs",
+    "title": "Tribe Man BBQ a WHOLE DEER After Hunt! #food #asianvillagecooking",
+    "score": 10
+  },
+  {
+    "id": "IDjk2W1xxvA",
+    "title": "The life of a HUNTER main",
+    "score": 10
+  },
+  {
+    "id": "_UcXVLw1b2s",
+    "title": "The life of an Il Torobo hunter-gatherer",
+    "score": 10
+  },
+  {
+    "id": "SfQoTCitY1M",
+    "title": "10 Hunters Compete for $1,000",
+    "score": 10
+  },
+  {
+    "id": "1-JyzMB_I1Y",
+    "title": "NAVY SEAL SNIPER vs. HUNTERS - Long Range Competition!",
+    "score": 10
+  },
+  {
+    "id": "xfco39PmHWc",
+    "title": "Way of the Hunter - Mechanics Deep Dive:  Life Cycle and Sleep",
+    "score": 10
+  },
+  {
+    "id": "Gi1qz8V4CF4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Fj_0S0nHmYU",
+    "title": "Squirrel 🐿️ Hunter #alaska #hunting #squirrel #indigenous",
+    "score": 10
+  },
+  {
+    "id": "_2Lzg5k09qg",
+    "title": "I Spend 5 Days With the Hadza Hunter-Gatherers | Superskilled with Eva zu Beck",
+    "score": 10
+  },
+  {
+    "id": "hLIE7XVLhtw",
+    "title": "Hunter",
+    "score": 10
+  },
+  {
+    "id": "F9dAflAUnJI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mgBu120YHpc",
+    "title": "Go to netflix.com and navigate to \\\"Account\\\"",
+    "score": 10
+  },
+  {
+    "id": "_1-cVhKBWno",
+    "title": "Netflix Basic Plan Details !",
+    "score": 10
+  },
+  {
+    "id": "esITCTT3ODU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hxbLCTqvS_k",
+    "title": "Column Plan",
+    "score": 10
+  },
+  {
+    "id": "VViMsFN3cWU",
+    "title": "Jio Launch 195 New Plan | 90 Day's Validity | Jio 195 Plan Details | 195 Plan Jio",
+    "score": 10
+  },
+  {
+    "id": "QRol5yA_bLY",
+    "title": "Niva Bupa Aspire Plan Details | LATEST Niva Bupa Health Insurance Plan | *NEW* | Gurleen Kaur Tikku",
+    "score": 10
+  },
+  {
+    "id": "f0_m_6fBdrM",
+    "title": "Introduction of Niva Bupa Aspire",
+    "score": 10
+  },
+  {
+    "id": "stDukuwhZLI",
+    "title": "Airtel Airfiber installation process | 40 Mbps Plan Details | Unlimited Data, Plans, Speed, calling",
+    "score": 10
+  },
+  {
+    "id": "_0w35AmKdKA",
+    "title": "jio 175 plan details jio 175 recharge details",
+    "score": 10
+  },
+  {
+    "id": "3Mf0Xpg7f-0",
+    "title": "Airtel 469 Plan Details | Airtel 548 Plan Details | Airtel 1849 Plan Details | Airtel 2249 Plan",
+    "score": 10
+  },
+  {
+    "id": "Qfus7-Ow8NI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Z2qxSF3nrSk",
+    "title": "Bsnl Calling Recharge Plans 102 107 147 and 319 plan details",
+    "score": 10
+  },
+  {
+    "id": "VOoNzDvy_DU",
+    "title": "BSNL ₹107 Recharge Plan All Details And Velidity 🔥 | BSNL Plan ₹2025 #shortvideo",
+    "score": 10
+  },
+  {
+    "id": "mQvZLRlTnWg",
+    "title": "|| Lic's Jeevan Labh Plan All Details 💯👍 || Best Plan Forever ||",
+    "score": 10
+  },
+  {
+    "id": "plyqLa1Yeqo",
+    "title": "JEE B.Arch Paper 2 Exam Day Essentials: Full Stationery Checklist ✅",
+    "score": 10
+  },
+  {
+    "id": "whyZ051N0Fw",
+    "title": "Vi ₹365 Plan Details Unlimited 4G Data 🔥| Vi 365 Unlimited Data Plan | Vi New Unlimited 4G Plans 365",
+    "score": 10
+  },
+  {
+    "id": "AIlhwEWh3so",
+    "title": "vi 139 plan details unlimited data | vi 139 unlimited data plan | vi 139 plan details 2026",
+    "score": 10
+  },
+  {
+    "id": "Krd621ppX7k",
+    "title": "Lic jeevan labh 736-12-25 plan details||lic best plans 2025 #lic#policy#insurance#investing#trending",
+    "score": 10
+  },
+  {
+    "id": "Mb5j9yuBOf4",
+    "title": "Vi 299 Recharge Plan Details | Vi 299 Unlimited Recharge Plan Details",
+    "score": 10
+  },
+  {
+    "id": "Ec-FDoLnppE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qAwqdwMjFM8",
+    "title": "Solo The Final Act Hard Mode Triumph With Rebalanced Towers | No Bug Abusing | TDS XMAS EVENT",
+    "score": 10
+  },
+  {
+    "id": "qtPIH2K_YaA",
+    "title": "Arensky \\u0026 Joan Ember - Solo Mode [No Copyright]",
+    "score": 10
+  },
+  {
+    "id": "SjYJ776Jb-M",
+    "title": "Making A Solo Out Of ALL The Modes! feat. Shredmaster Scott",
+    "score": 10
+  },
+  {
+    "id": "z3lARLdBjRQ",
+    "title": "IONIAN",
+    "score": 10
+  },
+  {
+    "id": "36zJoHq3ao8",
+    "title": "Lightning Sorcerer SHOCKS through Honour Mode SOLO",
+    "score": 10
+  },
+  {
+    "id": "BybJwB1dfMk",
+    "title": "Solo Mode… Worth Playing?",
+    "score": 10
+  },
+  {
+    "id": "FTtyr8yBjxY",
+    "title": "Delta force Solo Mode",
+    "score": 10
+  },
+  {
+    "id": "Rqji3iEXimQ",
+    "title": "Trae SOLO: NEW SOLO Mode in TRAE is ACTUALLY AMAZING!",
+    "score": 10
+  },
+  {
+    "id": "VDeG8N_9qOw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HRGINt3DpGs",
+    "title": "Tend - BGG Solo-Mode w/ Foster the Meeple",
+    "score": 10
+  },
+  {
+    "id": "7dzAqtxWVF0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_4tRiDEVqxQ",
+    "title": "Solo Mode - PauLx (lyrics video)",
+    "score": 10
+  },
+  {
+    "id": "lYhA5LvKYjQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YqbvBkhNdeo",
+    "title": "Heroes of Normandie - Solo mode components and set up",
+    "score": 10
+  },
+  {
+    "id": "aaLKecF5COk",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "qkkh5HR3OLg",
+    "title": "UFL - Football Game 2026 Mobile Gameplay Walkthrough Part 1 (iOS, Android)",
+    "score": 10
+  },
+  {
+    "id": "LtNVbUAT6hM",
+    "title": "Red Dead Redemption Mobile Netflix Gameplay Walkthrough Part 1 (Android/iOS)",
+    "score": 10
+  },
+  {
+    "id": "Bgvy-38nuD0",
+    "title": "Warframe Mobile Android Gameplay",
+    "score": 10
+  },
+  {
+    "id": "hi9VF08OklI",
+    "title": "UFL - Soccer Game 2026 Android Gameplay",
+    "score": 10
+  },
+  {
+    "id": "wBn3pKn3voU",
+    "title": "Slice it all - All Levels Gameplay Android, iOS NEW UPDATE",
+    "score": 10
+  },
+  {
+    "id": "1MOR2aTTOi8",
+    "title": "Top 10 Best Mobile RPGs of January 2026 | Android \\u0026 iOS Games",
+    "score": 10
+  },
+  {
+    "id": "I2l98DceQu8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "W-UJ-fQehH4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ua9TkHAnVIw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8PGiRMXwXxs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xX5nOFNFAv0",
+    "title": "WWE 2K25 Mobile New Royal Rumble Gameplay (iOS, Android) -  Part 14",
+    "score": 10
+  },
+  {
+    "id": "pMXRN0Hzu8E",
+    "title": "🔥New Large City Road Construction Gameplay 🚧 - Android Gameplay",
+    "score": 10
+  },
+  {
+    "id": "i_1dRuJK-Tw",
+    "title": "🚨 Police Chase Simulator 3D – Real City Crime Pursuit Gameplay (Android)",
+    "score": 10
+  },
+  {
+    "id": "yhnejUs2T5Y",
+    "title": "Countryside Taxi Driver Simulator #2 - Taxi Car Without Roof - Android Gameplay",
+    "score": 10
+  },
+  {
+    "id": "_2V8bcdTbYs",
+    "title": "Modern Tractor Farming Driving Simulator 3D - New Tractor Games - Android Gameplay",
+    "score": 10
+  },
+  {
+    "id": "rnxBr59p2fs",
+    "title": "Top 10 Best NEW Mobile Games of November 2025 (Android \\u0026 iOS)",
+    "score": 10
+  },
+  {
+    "id": "TpMxgochZA8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WgXyPYk35qA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1bMuBgioGT0",
+    "title": "Trump ally ‘traumatised’ by meeting with ‘out of his mind’ President",
+    "score": 10
+  },
+  {
+    "id": "95AyrNmoEYg",
+    "title": "'Officers, Two Of Them, Shot Him Ten Times!': Peter Welch Explodes At Sec. Noem Over Pretti Shooting",
+    "score": 10
+  },
+  {
+    "id": "ReSQBf5KIus",
+    "title": "'Unacceptable, unethical': Doug Ford reacts to Alberta separatist group asking for US assistance",
+    "score": 10
+  },
+  {
+    "id": "eyE5cO-v5p0",
+    "title": "Macron Meets Leaders of Greenland, Denmark in Paris",
+    "score": 10
+  },
+  {
+    "id": "Hstz__qLly4",
+    "title": "FactCheck: Altered Video Claims Danish Parliament Laughed Over Trump's 'Nobel' Greenland Demand",
+    "score": 10
+  },
+  {
+    "id": "6h0sd66FG9E",
+    "title": "FULL PRESSER: Denmark, France, Greenland Issue Strong Warning to Trump, Stand United | AC1G",
+    "score": 10
+  },
+  {
+    "id": "65RA1axGdqk",
+    "title": "Danish military plane lands in Greenland amid Trump tensions | REUTERS",
+    "score": 10
+  },
+  {
+    "id": "0R_lmfC4C4o",
+    "title": "DETAILS: Danish leaders REFUTE Trump on Greenland deal",
+    "score": 10
+  },
+  {
+    "id": "ovEmO5ggqo8",
+    "title": "Denmark's Arctic commander tells CNN training is expanding in Greenland",
+    "score": 10
+  },
+  {
+    "id": "GTy_4Yql8do",
+    "title": "Why Trump's navy would fail to take Greenland from Denmark",
+    "score": 10
+  },
+  {
+    "id": "RxqN_xWoA3Y",
+    "title": "Trump ally ‘traumatised’ by meeting with ‘out of his mind’ President",
+    "score": 10
+  },
+  {
+    "id": "G1gmRFPGNzA",
+    "title": "The Last Hunters of Greenland",
+    "score": 10
+  },
+  {
+    "id": "zN0KqvgJggE",
+    "title": "'Officers, Two Of Them, Shot Him Ten Times!': Peter Welch Explodes At Sec. Noem Over Pretti Shooting",
+    "score": 10
+  },
+  {
+    "id": "ryU8E_x-wrQ",
+    "title": "Trump vs Denmark: Inside the Military Effort to Protect Greenland | WSJ",
+    "score": 10
+  },
+  {
+    "id": "uVSeMXncHZ0",
+    "title": "Inside a military helicopter in Greenland",
+    "score": 10
+  },
+  {
+    "id": "kYQATGh7r6U",
+    "title": "Trump Says He's Not Sure NATO Would Defend US",
+    "score": 10
+  },
+  {
+    "id": "qO-BdX0jRfk",
+    "title": "‘Frankly stupid’: Danish official on Trump’s latest Greenland salvo",
+    "score": 10
+  },
+  {
+    "id": "z3wRFMVVA8U",
+    "title": "President Donald Trump speaks about needing Greenland",
+    "score": 10
+  },
+  {
+    "id": "mppJaqQKflY",
+    "title": "New images of troops in Greenland",
+    "score": 10
+  },
+  {
+    "id": "KDol6P5OmY8",
+    "title": "Denmark’s Army Chief Says He’s Ready to Defend Greenland",
+    "score": 10
+  },
+  {
+    "id": "1QqqN2GguKA",
+    "title": "Residents in Greenland, Denmark on edge over Trump’s push to take over arctic island",
+    "score": 10
+  },
+  {
+    "id": "0FJ0ZNLCJXA",
+    "title": "FULL PRESSER: Macron, Denmark, and Greenland Leaders Reject Trump’s Threats Over the Arctic | AC1B",
+    "score": 10
+  },
+  {
+    "id": "_E6uTQprDJA",
+    "title": "Why Does Denmark Own Greenland",
+    "score": 10
+  },
+  {
+    "id": "y_9nLQeK3KU",
+    "title": "Denmark announces increased military presence 'in and around Greenland'",
+    "score": 10
+  },
+  {
+    "id": "VgDcoQ6v3-g",
+    "title": "Former U.S. ambassador to Denmark says Trump's Greenland push \\\"weakens national security\\\"",
+    "score": 10
+  },
+  {
+    "id": "zZTKTeWSiEY",
+    "title": "Macron speaks Greenlandic, Danish in solidarity with Greenland",
+    "score": 10
+  },
+  {
+    "id": "3tIA-TLw5xM",
+    "title": "France's Macron speaks Greenlandic, Danish in solidarity with Greenland",
+    "score": 10
+  },
+  {
+    "id": "tQo-U9nfhcE",
+    "title": "Macron speaks Greenlandic and Danish as he expresses support for Greenland",
+    "score": 10
+  },
+  {
+    "id": "JQo7kGE1wwU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jcqqJVSTkqo",
+    "title": "Trump Teams Up with Nicki Minaj, Details on Rep. Omar Incident, Rubio vs Senate Dems: AM Update 1/29",
+    "score": 10
+  },
+  {
+    "id": "D-OckQe8Tiw",
+    "title": "How Trump Can Get CREATIVE With Solving Illegal Immigration Crisis in America, with Emily Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "qvPExrgURWQ",
+    "title": "Leftists Melt Down Over Stephen Miller, Katy Perry's Hypocrisy, Toprah Interviews Mom, w/ Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "7u6c8DsrAVw",
+    "title": "Why Kara Swisher's Disgusting Smear of Stephen Miller Could \\\"Get Him Killed,\\\" with Emily Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "TCej5QlJK4o",
+    "title": "Toprah Dokoupil Actually Interviews His MOM on the CBS Evening News, with Emily Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "QW8lxeuLm8k",
+    "title": "Smug Celebrities Like Ethan Hawke and Ellen DeGeneres Whine About America, with Emily Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "mteaEJpJb24",
+    "title": "Katy Perry's Gross Relationship With Justin Trudeau and Hypocritical Activism, with Emily Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "veXX2Wqu1SY",
+    "title": "Homan Gets to Work in MN and Meets Walz, Inside the Funding of MN Activist Networks: AM Update 1/28",
+    "score": 10
+  },
+  {
+    "id": "I20FoADM4tc",
+    "title": "The REAL Story About How Trump is Navigating the Issue of Deporting MILLIONS of Illegal Migrants",
+    "score": 10
+  },
+  {
+    "id": "610LJBLB02s",
+    "title": "Leftists Melt Down Over Stephen Miller, Katy Perry's Hypocrisy, Toprah Interviews Mom, w/ Jashinsky",
+    "score": 10
+  },
+  {
+    "id": "kAZhIPbcyso",
+    "title": "Megyn Kelly on Bombshell New Article About Alex Pretti's PAST Interaction with ICE Before Shooting",
+    "score": 10
+  },
+  {
+    "id": "BvDPEbgyVHI",
+    "title": "Anti-ICE Agitators and Don Lemon Disrupt MN Church Service, with Michael Knowles and Matt Walsh",
+    "score": 10
+  },
+  {
+    "id": "0d4rMcF7phM",
+    "title": "Shock Report on Pretti and ICE, and Michelle Obama's Wild New Barack Complaints, with Ruthless Hosts",
+    "score": 10
+  },
+  {
+    "id": "yJFmCVc6LEc",
+    "title": "James O'Keefe Reveals Shocking Details of Army of Anti-ICE Agitators Who Have TAKEN OVER Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "oUOPFfDTuos",
+    "title": "Michelle Obama TRASHES Barack Again and How Much \\\"Work\\\" Marriage is on \\\"Call Her Daddy,\\\" w/ Ruthless",
+    "score": 10
+  },
+  {
+    "id": "xSBXwGra6gI",
+    "title": "Megyn Kelly Breaks Down the TRUTH About the Shooting of Alex Pretti and What Really Happened Before",
+    "score": 10
+  },
+  {
+    "id": "j4nJVPF3tK8",
+    "title": "Crucial Questions After Shooting in Minneapolis, w/ James O'Keefe, Dave Aronberg, and Andrew Branca",
+    "score": 10
+  },
+  {
+    "id": "U5A_eYIyHzk",
+    "title": "Megyn Kelly Slams \\\"Rich B*tch\\\" Natalie Portman and Jimmy Kimmel's FAKE Tears Over ICE Attacks",
+    "score": 10
+  },
+  {
+    "id": "9CjNoZTmVww",
+    "title": "Megyn Kelly on the TRUTH About Alex Pretti: \\\"He Died Because of His Own Terrible Decision-Making\\\"",
+    "score": 10
+  },
+  {
+    "id": "V8C9vr4MTxI",
+    "title": "Leftists Like Glenn Close and Whoopi Goldberg are Spinning Fake Narratives About ICE, with Ruthless",
+    "score": 10
+  },
+  {
+    "id": "UQxONPXpV7I",
+    "title": "Megyn Kelly Slams \\\"Idiot\\\" Whoopi Goldberg Ridiculous Framing of Alex Pretti Shooting",
+    "score": 10
+  },
+  {
+    "id": "eNTDteVQYq8",
+    "title": "Megyn Kelly SMEARS Alex Pretti",
+    "score": 10
+  },
+  {
+    "id": "_Pznn6iRLjs",
+    "title": "Megyn Kelly on Michelle Obama Complaining About How She's Tired of People Talking About Her Fashion",
+    "score": 10
+  },
+  {
+    "id": "XG57UJ_DDv0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pfbNIb2-0ks",
+    "title": "Raw: Trump Pushes Past Montenegro PM at NATO",
+    "score": 10
+  },
+  {
+    "id": "Iimj0j4NYME",
+    "title": "Gun-rights groups push back on Trump administration over protester's right to be armed",
+    "score": 10
+  },
+  {
+    "id": "Sdn5cj5Hmk0",
+    "title": "Push Back Against Trump I Anthony Scaramucci",
+    "score": 10
+  },
+  {
+    "id": "kH5RRE-cNoA",
+    "title": "Trump rallies supporters in Iowa as he kicks off early push toward 2026 midterms",
+    "score": 10
+  },
+  {
+    "id": "_axvR5eV3bQ",
+    "title": "Trump pushes past Montenegro’s PM - BBC News",
+    "score": 10
+  },
+  {
+    "id": "vIdrTSjzGKY",
+    "title": "SHOCKING Report: Trump Pushing For Regime Change In Cuba!",
+    "score": 10
+  },
+  {
+    "id": "OTtKgAZn8-M",
+    "title": "Trump Shoves Prime Minister of Montenegro at NATO Meeting",
+    "score": 10
+  },
+  {
+    "id": "IZIUFf6nQIA",
+    "title": "Trump alienates America’s allies",
+    "score": 10
+  },
+  {
+    "id": "f2FkKydu0Ok",
+    "title": "Greenlanders Protest Against Trump's Takeover Threat",
+    "score": 10
+  },
+  {
+    "id": "KzGY1kr8NXA",
+    "title": "Canada's PM says Canada does not need the U.S.",
+    "score": 10
+  },
+  {
+    "id": "_p1HMv2ROxQ",
+    "title": "Trump appears to push past Montenegrin prime minister",
+    "score": 10
+  },
+  {
+    "id": "0SDqIrE-OeI",
+    "title": "Trump says last Cabinet meeting 'got pretty boring'",
+    "score": 10
+  },
+  {
+    "id": "Oz8-QYhutsM",
+    "title": "Donald Trump pushes for 'complete and total control' of Greenland as threats escalate",
+    "score": 10
+  },
+  {
+    "id": "HpAdZwLoA8c",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_erBYFSuWYY",
+    "title": "The Real Reason Trump Is Addicted To Chaos",
+    "score": 10
+  },
+  {
+    "id": "5T4d2n3PMEg",
+    "title": "How Will Dems Reign in ICE? | Trump Starting Midterms Rigging Early | Musk Tanks Tesla Profits",
+    "score": 10
+  },
+  {
+    "id": "BrtWxauX_gM",
+    "title": "Donald Trump presents Europe a dilemma on Greenland | BBC News",
+    "score": 10
+  },
+  {
+    "id": "T4bdgu-6YpY",
+    "title": "At Davos, Trump's Greenland agenda causes \\\"rupture\\\" in relations with America's allies",
+    "score": 10
+  },
+  {
+    "id": "wD1-QL9flpg",
+    "title": "Jasmien Crockett on Trump's Cognitive Decline",
+    "score": 10
+  },
+  {
+    "id": "ZLJ9adwZnR0",
+    "title": "Why Trump Attacked Venezuela and What It Means Now",
+    "score": 10
+  },
+  {
+    "id": "28sQyweAPRs",
+    "title": "Common symptoms and causes of Trump’s chronic venous insufficiency",
+    "score": 10
+  },
+  {
+    "id": "7nEbboVGsGY",
+    "title": "President Trump Remarks in Iowa",
+    "score": 10
+  },
+  {
+    "id": "bLdjfnxAnRQ",
+    "title": "Trump ally ‘traumatised’ by meeting with ‘out of his mind’ President",
+    "score": 10
+  },
+  {
+    "id": "xUMP1DQcLvI",
+    "title": "This Cold Blast Is About To Be RECORD BREAKING...",
+    "score": 10
+  },
+  {
+    "id": "edzOgS7qpNs",
+    "title": "Trump claims acetaminophen use during pregnancy may cause autism",
+    "score": 10
+  },
+  {
+    "id": "whwnVZRFVNU",
+    "title": "FAST FACTS: Here’s what happened with inflation under the Trump and Biden administrations.",
+    "score": 10
+  },
+  {
+    "id": "Hcfi7ExCklw",
+    "title": "Why Economists Hate Trump's Tariff Plan | WSJ",
+    "score": 10
+  },
+  {
+    "id": "_-eHOSq3oqI",
+    "title": "‘The Chicken War’",
+    "score": 10
+  },
+  {
+    "id": "i-1xjPkdmWk",
+    "title": "Donald Trump and Business Community Tension I Anthony Scaramucci",
+    "score": 10
+  },
+  {
+    "id": "PiXXsimV3YQ",
+    "title": "Trump’s US Open attendance causes security nightmare",
+    "score": 10
+  },
+  {
+    "id": "LLseUYxWYIY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eYSnUAhzTBw",
+    "title": "Acid and Base | Acids, Bases \\u0026 pH | Video for Kids",
+    "score": 10
+  },
+  {
+    "id": "V5Mq_cL9Bck",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_sGdpMYQqrI",
+    "title": "Base 10",
+    "score": 10
+  },
+  {
+    "id": "ivRczDkilAI",
+    "title": "Introduction to acids and bases",
+    "score": 10
+  },
+  {
+    "id": "DupXDD87oHc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NNXvokAcSuE",
+    "title": "equilibrium expression",
+    "score": 10
+  },
+  {
+    "id": "EhUpsq2i6k0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t5eUOXm-wiE",
+    "title": "Water",
+    "score": 10
+  },
+  {
+    "id": "EyBkPwsRY2E",
+    "title": "2 Minute Classroom",
+    "score": 10
+  },
+  {
+    "id": "ANi709MYnWg",
+    "title": "Chemistry Can Cause Death",
+    "score": 10
+  },
+  {
+    "id": "M4uXlIAh3ps",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mnbS56HQbaU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Og8mRiIATJw",
+    "title": "Respiratory Therapy - Base Excess vs Deficit",
+    "score": 10
+  },
+  {
+    "id": "_k1Um_oWUzQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KfWvdSyW6Io",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LS67vS10O5Y",
+    "title": "HYDROGEN",
+    "score": 10
+  },
+  {
+    "id": "1rj1oNl7hgU",
+    "title": "Intro: The Ultimate Showdown!",
+    "score": 10
+  },
+  {
+    "id": "X-Cnx0QPb3Q",
+    "title": "Stealing a Base",
+    "score": 10
+  },
+  {
+    "id": "bTW9nWGlMZ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8WovXcbQ7oI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jdmHjFp_35I",
+    "title": "AcidBase Equilibria",
+    "score": 10
+  },
+  {
+    "id": "yBysp1ysA64",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3Fdg-lJDooE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "Search Filter in React JS - Filter Through Results",
+    "score": 10
+  },
+  {
+    "id": "lWmYkZz946Y",
+    "title": "Starting soon",
+    "score": 10
+  },
+  {
+    "id": "-BO4g2g2_hg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bFKUorV_DUs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "efwHEn58N6I",
+    "title": "NATO Says",
+    "score": 10
+  },
+  {
+    "id": "Ea3ftznwExk",
+    "title": "NATO chief says 'good luck' to those who think Europe can defend itself without US",
+    "score": 10
+  },
+  {
+    "id": "LrZwt_8E7is",
+    "title": "Trump claims NATO allies were \\\"a little off the front lines\\\" in Afghanistan",
+    "score": 10
+  },
+  {
+    "id": "aBN8doi22Fk",
+    "title": "Trump ally ‘traumatised’ by meeting with ‘out of his mind’ President",
+    "score": 10
+  },
+  {
+    "id": "WI-GJJo1p3Y",
+    "title": "'NO. 1 MISSION': Trump's GOLDEN DOME protection plan revealed",
+    "score": 10
+  },
+  {
+    "id": "Oyi0Sbzarrk",
+    "title": "‘It’s completely unacceptable’ | Gallant on Smith participating in meetings amid separatism movement",
+    "score": 10
+  },
+  {
+    "id": "3cfHdLx1M-k",
+    "title": "NATO Head Says Europe Can't Defend Itself Without US #NATO #news #politics #europe #eu",
+    "score": 10
+  },
+  {
+    "id": "oZxWFkWAd2U",
+    "title": "BLEH! Trump thinks he's NATO's 'Daddy'",
+    "score": 10
+  },
+  {
+    "id": "f8AnCc4_314",
+    "title": "UK Prime Minister Rips Trump For ‘Insulting’ Remarks On NATO Troops",
+    "score": 10
+  },
+  {
+    "id": "UhjfR3Rfsdo",
+    "title": "Europeans will ‘not forget’ Trump’s threats over Greenland, fmr. NATO ambassador says",
+    "score": 10
+  },
+  {
+    "id": "PbATwQRCWtY",
+    "title": "Trump made 'mistake' with Nato troop comments, says Republican Overseas representative. #BBCNews",
+    "score": 10
+  },
+  {
+    "id": "gTYxayhKQNQ",
+    "title": "NATO Says : Canada Is Back",
+    "score": 10
+  },
+  {
+    "id": "6lvSBUsMWxo",
+    "title": "“There Is No Alternative”: Europe Can’t Rely on US, Says NATO Chief Rutte in Brussels Address | AC1G",
+    "score": 10
+  },
+  {
+    "id": "3l2Ie1jU9Eg",
+    "title": "Trump Says NATO Did Nothing — Adam Kinzinger Sets the Record Straight",
+    "score": 10
+  },
+  {
+    "id": "4Ish3D7m9Wc",
+    "title": "Starmer says Trump's comments on Nato and Afghanistan are ‘insulting’",
+    "score": 10
+  },
+  {
+    "id": "snRagtJAV0U",
+    "title": "President Trump says he won't use force for Greenland",
+    "score": 10
+  },
+  {
+    "id": "Lx6HX-SpHrM",
+    "title": "President Trump says NATO calls him 'daddy' at keynote address",
+    "score": 10
+  },
+  {
+    "id": "_lFA9Ia9dLE",
+    "title": "Canadian war vet angry, disappointed after Trump says NATO troops avoided Afghanistan front lines",
+    "score": 10
+  },
+  {
+    "id": "PJtf_Eh0m3Q",
+    "title": "Rutte says Europe cannot defend itself without the US",
+    "score": 10
+  },
+  {
+    "id": "e57TXnpvbs4",
+    "title": "Khamenei and Trump Dilemma with Oil 🤣 Putin Shocked Trump",
+    "score": 10
+  },
+  {
+    "id": "YdYesT4S5Go",
+    "title": "The Trump Dilemma",
+    "score": 10
+  },
+  {
+    "id": "3scHKiu05sA",
+    "title": "How Will Dems Reign in ICE? | Trump Starting Midterms Rigging Early | Musk Tanks Tesla Profits",
+    "score": 10
+  },
+  {
+    "id": "45d2qQeLjlA",
+    "title": "Why is Trump obsessed with Minneapolis? | Today, Explained",
+    "score": 10
+  },
+  {
+    "id": "n9HrGurwwec",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Bjkus_uZBbQ",
+    "title": "Walter Shaub: Justice Scalia warned of the ethics dilemma Trump faces",
+    "score": 10
+  },
+  {
+    "id": "21gIp2C7Rpk",
+    "title": "🧐 WHY TRUMP IS THREATENING TARIFFS: THE TRIFFIN'S DILEMMA",
+    "score": 10
+  },
+  {
+    "id": "4WECaq_ZcBo",
+    "title": "Trump's Greenland Gambit Backfires",
+    "score": 10
+  },
+  {
+    "id": "qi5ZKSDONyY",
+    "title": "Trump greets Iowa supporters before Cline rally and speech on economy",
+    "score": 10
+  },
+  {
+    "id": "FSswNM3M6LQ",
+    "title": "Housing costs a long-term dilemma for Trump administration: Kevin O’Leary | The Hill",
+    "score": 10
+  },
+  {
+    "id": "lM9qVpyt4Uk",
+    "title": "Deal or Dilemma: Why Did Pakistan Approve Trump’s Peace Board?#eon #trump #pakistanpolitics",
+    "score": 10
+  },
+  {
+    "id": "K_5CN2seJAo",
+    "title": "Andy Kim Calls On Trump Administration To Fire Miller, Homan, Noem In Wake Of Minneapolis Killings",
+    "score": 10
+  },
+  {
+    "id": "5PVtu2eyrrs",
+    "title": "Trump urges to 'de-escalate' approach in Minnesota amid calls for Kristi Noem's resignation",
+    "score": 10
+  },
+  {
+    "id": "Z-m6KwFHdT4",
+    "title": "Search filters",
+    "score": 10
+  }
+]

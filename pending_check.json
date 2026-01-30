@@ -1,1 +1,2887 @@
-[]
+[
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "_XRCYUIYlHU",
+    "title": "לימוד שיחות באנגלית למתחילים | תרגול דיבור באנגלית בהאזנה וחזרה (A2-B1)",
+    "score": 110
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "ניסוי אדיר שכל אחד יכול לעשות בבית!!\\\\\\\\ ניסויים😱",
+    "score": 60
+  },
+  {
+    "id": "4VTMH2UZMm8",
+    "title": "גלידה ביתית ב-10 דקות בעזרת קילו מלח",
+    "score": 60
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "SLmWY_ycFUA",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "xu5C00bbcNE",
+    "title": "אנגלית בחו\\\"ל - המילים שחובה עליכם לדעת | אנגלית למתחילים | לומדים לדבר בביטחון עם ספיזי",
+    "score": 60
+  },
+  {
+    "id": "ESTV1UncsDA",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "אנגלית למתחילים - חלק 1",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "6UDum8diOfg",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "OHc8E4yYM6g",
+    "title": "איך מחדשים רהיט עץ מלא",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "5 Ways to Start an Oil Painting - Art Techniques for Beginners and Advanced",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "By5ryf3wbAw",
+    "title": "What Makes Good Brush Work? - Oil Painting Instruction",
+    "score": 50
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "Essential Home Repair Tips: Your DIY Guide",
+    "score": 50
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+    "score": 50
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "20 Future Technologies That Will Change The World",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "15 CRAZY FUTURE TECHNOLOGY IDEAS YOU'LL SEE SOON",
+    "score": 50
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "Future Technology | 60 Minutes Marathon",
+    "score": 50
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "The Future of the World (2030 to 10,000 A.D.+): 130 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "China Just Shocked the World With What They’re Building!",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "I bought the most FUTURISTIC Tech in the World",
+    "score": 50
+  },
+  {
+    "id": "b0HfmY64eSE",
+    "title": "TIMELAPSE OF FUTURE TECHNOLOGY: 2022 - 4000+",
+    "score": 50
+  },
+  {
+    "id": "UmvcXdXua08",
+    "title": "Street Hawk Theme (Cover/Remake by Enzo Margaglio)",
+    "score": 50
+  },
+  {
+    "id": "6trng9DJuEQ",
+    "title": "The fighter Tribute for the history of Micky Warm Audiomachine-Reaching FULL HD",
+    "score": 50
+  },
+  {
+    "id": "t4OZerx3Xsw",
+    "title": "LARVA 20226: Tech Red | FUNNY LARVA COMEDY 2026 | COMIC MOVIE",
+    "score": 50
+  },
+  {
+    "id": "Y9E4eSNNsrs",
+    "title": "Daft Punk - The Grid (pierrotechnique Remix)",
+    "score": 50
+  },
+  {
+    "id": "xrMoxJ_2aBI",
+    "title": "Airwolf Theme (Cover/Remake by Enzo Margaglio)",
+    "score": 50
+  },
+  {
+    "id": "6FkHOevGjAU",
+    "title": "Knight Rider Theme 2020 (Cover/Remake by Enzo Margaglio)",
+    "score": 50
+  },
+  {
+    "id": "HQ1JHrKJ26A",
+    "title": "Full Short Haircut Tutorial with Clippers | Natural Hair",
+    "score": 50
+  },
+  {
+    "id": "Q8-J_W1rqno",
+    "title": "Extended Hair On Short Natural Hair Without Glue?😈 Messy Bun Hairstyle Tutorial #Elfinhair",
+    "score": 50
+  },
+  {
+    "id": "87-qPxa6lNE",
+    "title": "How to Use Revair on Short Natural Hair",
+    "score": 50
+  },
+  {
+    "id": "yUsuxCfV6QE",
+    "title": "how to feel beautiful in *short* natural hair",
+    "score": 50
+  },
+  {
+    "id": "4BTs7sA_XTU",
+    "title": "What A Simple \\u0026 Quick Method Of Styling Short Natural Hair Ponytail Tutorial.",
+    "score": 50
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "How To Search For Filters On Instagram Story",
+    "score": 50
+  },
+  {
+    "id": "MN6Fmdz5uLk",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Use Search Filters in YouTube App",
+    "score": 50
+  },
+  {
+    "id": "6dspd7PktPk",
+    "title": "Turbo Eclipse CRASHES Super Street Meet! (You Won't Believe These Builds)",
+    "score": 50
+  },
+  {
+    "id": "LsrFJc7vVAU",
+    "title": "Super Street - The Game Review: Super Lemon",
+    "score": 50
+  },
+  {
+    "id": "wmmz-SGr-E4",
+    "title": "Super Street: Racer (Switch) Review",
+    "score": 50
+  },
+  {
+    "id": "vmE9ADLbxk4",
+    "title": "NEON AWAKENING | BEAT CREATURES (Techno-Animationsserie/Techno Animation Series)",
+    "score": 50
+  },
+  {
+    "id": "oPVte6aMprI",
+    "title": "Deep Focus - Music For Studying, Concentration and Work",
+    "score": 50
+  },
+  {
+    "id": "DfSkKYQiwoU",
+    "title": "Deep Focus - Music For Studying | Improve Your Focus - Study Music",
+    "score": 50
+  },
+  {
+    "id": "hIH1joP9_FU",
+    "title": "Intense Study - 40Hz Gamma Binaural Beats to Increase Productivity and Focus",
+    "score": 50
+  },
+  {
+    "id": "lkkGlVWvkLk",
+    "title": "🔴 Deep Focus 24/7 - Ambient Music For Studying, Concentration, Work And Meditation",
+    "score": 50
+  },
+  {
+    "id": "_bLX5WfDQfM",
+    "title": "Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate #745",
+    "score": 50
+  },
+  {
+    "id": "CoQfichK5Iw",
+    "title": "Focus Music for Work and Studying, Background Music for Concentration, Study Music",
+    "score": 50
+  },
+  {
+    "id": "_4kHxtiuML0",
+    "title": "Deep Focus Music with 432 Hz Tuning and Binaural Beats for Concentration - Study Music",
+    "score": 50
+  },
+  {
+    "id": "RYcaG64JkqM",
+    "title": "4 Hours of Deep Focus Music for Studying - Concentration Music For Deep Thinking And Focus",
+    "score": 50
+  },
+  {
+    "id": "Ie5GGRkjSXE",
+    "title": "Study Music Alpha Waves: Relaxing Studying Music, Brain Power, Focus Concentration Music, ☯161",
+    "score": 50
+  },
+  {
+    "id": "WPni755-Krg",
+    "title": "Deep Work Music for Intense Focus | Relaxing Study Beats \\u0026 Concentration Sounds",
+    "score": 50
+  },
+  {
+    "id": "0HDuzhQOhuM",
+    "title": "Deep Focus Music To Improve Concentration - 12 Hours of Ambient Study Music to Concentrate #746",
+    "score": 50
+  },
+  {
+    "id": "GKLrkPP3gdg",
+    "title": "Upbeat Study Music - Deep Focus for Complex Tasks",
+    "score": 50
+  },
+  {
+    "id": "5_4KRUx2iKY",
+    "title": "Ambient Study Music To Concentrate - 4 Hours of Music for Studying, Concentration and Memory",
+    "score": 50
+  },
+  {
+    "id": "W_5AzO-NeDk",
+    "title": "Why Guile Isn't The Best At Being Guile Anymore - SF6 Analysis",
+    "score": 50
+  },
+  {
+    "id": "NQFq3FsThB0",
+    "title": "CODE: MW180 | Mr.Within - Worlds Beyond Words (Lecture on \\\"Moments of emptiness.\\\")",
+    "score": 50
+  },
+  {
+    "id": "yUu26tcUri0",
+    "title": "CODE: MW431 | Mr.Within - Confronting The Emptiness Of Reality (Lecture on \\\"The void.\\\")",
+    "score": 50
+  },
+  {
+    "id": "rklhJSZ6Eks",
+    "title": "How to Turn Emptiness Into Purpose",
+    "score": 50
+  },
+  {
+    "id": "6rS-eREVd5s",
+    "title": "Emptiness Song Intro Guitar #emptiness Full Tutorial Uploaded",
+    "score": 50
+  },
+  {
+    "id": "41C7FWwBbbI",
+    "title": "Chun-Li Stage Theme Remake - Street Fighter Tribute Album",
+    "score": 50
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gx5qb1uHss4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lcZTcfdZ3Ow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "Uncovering the Secrets of the Sun (Full Episode) | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "e8YzKyot4Pc",
+    "title": "Introduction to our solar system",
+    "score": 10
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U4QhCYlyIqE",
+    "title": "Easy English Speaking",
+    "score": 10
+  },
+  {
+    "id": "rJWs9AW5eQU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GGZocUaWTwc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "F7qS1lvjGAs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "uSRZm9qUdqw",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "Y7Iyuhwz1f4",
+    "title": "Top 10 Home Improvement Hacks You Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "dEPXeBn79Bk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "spjVZLwvVt8",
+    "title": "1. Kool-Aid Toilet Hack",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Top 6 Tools for any DIY Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PCqCWlbJWUk",
+    "title": "From Crack House to Curb Appeal! (Incredible DIY Transformation)",
+    "score": 10
+  },
+  {
+    "id": "Dv_AVac44Nk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "40tsymgNXbc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2ugw9-g3Tgs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zBNSM5BqMqs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "آموزش جامع پایتون: از مبتدی تا پیشرفته در ۱۲ ساعت – برنامه‌نویسی پایتون را حرفه‌ای بیاموزید",
+    "score": 10
+  },
+  {
+    "id": "eCyODUip87c",
+    "title": "مقدمه",
+    "score": 10
+  },
+  {
+    "id": "UrsmFxEIp5k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8q2NPoWR0Zw",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "tyXeh8-U780",
+    "title": "Infinity Sunset - Synthwave / Retrowave Mix",
+    "score": 10
+  },
+  {
+    "id": "KG7hcmVbaMA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "XiiOJYUswWY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L2pMSsfLoSM",
+    "title": "Conscious AI",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5VuW76Bc5Mw",
+    "title": "2030",
+    "score": 10
+  },
+  {
+    "id": "pAnGwRiQ4-4",
+    "title": "Kardashev Scale Explained: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "wD6hyGXRcgk",
+    "title": "Universal Translator",
+    "score": 10
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "The Future of AI: 130 Predictions",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "Oa9aWdcCC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SzMiJFOa6w8",
+    "title": "Artificial General Intelligence",
+    "score": 10
+  },
+  {
+    "id": "SwkGVPh8jYs",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "zAmZ7tS2Cdk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9He9hoo3agk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CLpf8O2QhC8",
+    "title": "Gardening for Beginners Series:  Gardening Basics for Beginners",
+    "score": 10
+  },
+  {
+    "id": "b3E38LJeDZ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "J1AZwJPLur8",
+    "title": "35 Amish Vegetable Gardening Hacks You'll Wish You Knew Sooner",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "No need to buy potting soil again! | Garden tips \\u0026 tricks #greenhouse #homestead",
+    "score": 10
+  },
+  {
+    "id": "9fOe2bnZHrY",
+    "title": "9 Beginner Gardening Mistakes to Avoid 😱 ❌",
+    "score": 10
+  },
+  {
+    "id": "fwb6UDdpGEo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s5bZgYY72Z0",
+    "title": "Neon Afterglow",
+    "score": 10
+  },
+  {
+    "id": "qMJozfELJ0o",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "3mHdz6jgq5s",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "SI2spjyD4w0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "OwWpbY4YuRo",
+    "title": "W O L F C L U B - Infinity",
+    "score": 10
+  },
+  {
+    "id": "ubIL0Jj4Xtw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "O5aY5KBGGDo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "l_ddxKWNZqI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "_knjUoFgvnM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "o85w80g2Aq4",
+    "title": "INFINITY - A Synthwave Chillwave Special Mix",
+    "score": 10
+  },
+  {
+    "id": "VlS_8aFhm8w",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "uel3WJCHtYw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Y1iqJqNHX_g",
+    "title": "Street Fighter 2 - Guile's Theme",
+    "score": 10
+  },
+  {
+    "id": "MYu_uxoZZM8",
+    "title": "Street Fighter II OST Guile Theme",
+    "score": 10
+  },
+  {
+    "id": "4qwKCQ4M2Nw",
+    "title": "Street Fighter 2 Full Soundtrack (All Themes) Electric Guitar - Charlie Parra",
+    "score": 10
+  },
+  {
+    "id": "VchglFlNIvo",
+    "title": "Street Fighter II SNES-Guile Stage",
+    "score": 10
+  },
+  {
+    "id": "Xp7kptPq5M8",
+    "title": "Guile's Theme 8 Bit Remix - Street Fighter 2",
+    "score": 10
+  },
+  {
+    "id": "kucS8dNTHuM",
+    "title": "Street Fighter II - Guile's Theme [METAL VERSION]",
+    "score": 10
+  },
+  {
+    "id": "5ZD5QLuu39w",
+    "title": "Super Street Fighter IV Theme of Guile (Extended)",
+    "score": 10
+  },
+  {
+    "id": "GY66zKuLtyE",
+    "title": "Evolution of Guile's Theme from Street Fighter 2 | 1992 - 2021",
+    "score": 10
+  },
+  {
+    "id": "CohAVH2u5aI",
+    "title": "Street Fighter 2",
+    "score": 10
+  },
+  {
+    "id": "zU2mCo37DZU",
+    "title": "Super Street Fighter IV - Theme of Guile",
+    "score": 10
+  },
+  {
+    "id": "DpJOFHBCFAM",
+    "title": "Guile's Theme Song Goes with Everything Fresh Prince Pool Hustle",
+    "score": 10
+  },
+  {
+    "id": "dxf6TGoJRaQ",
+    "title": "Street Fighter - Guile Theme (EPIC VERSION) - REMASTERED",
+    "score": 10
+  },
+  {
+    "id": "M5EaKrUVJ20",
+    "title": "Back to Work • Focus Music Mix for Productivity",
+    "score": 10
+  },
+  {
+    "id": "LHy-_VXJ8Ow",
+    "title": "The Best of Bach",
+    "score": 10
+  },
+  {
+    "id": "6JQm5aSjX6g",
+    "title": "Allegro",
+    "score": 10
+  },
+  {
+    "id": "kvNnzaOPLU0",
+    "title": "Total Back Cure Frequency \\\"100% Effective\\\" | Instant Back Pain Relief Binaural Beats Music #V090",
+    "score": 10
+  },
+  {
+    "id": "KB-2WVBM978",
+    "title": "80's Music Greatest Hits  - Back To The 1980s - Classic Music 80S Hits",
+    "score": 10
+  },
+  {
+    "id": "rXPfovXw2tw",
+    "title": "Player - Baby Come Back",
+    "score": 10
+  },
+  {
+    "id": "0-Tm65i96TY",
+    "title": "sombr - back to friends (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "kwL3x2b8u0g",
+    "title": "Back To School  |  IT'S MUSIC Kids Songs",
+    "score": 10
+  },
+  {
+    "id": "GKf-pS_jJ0g",
+    "title": "Winx Club: the Magic is Back MUSIC - Winx Universe (Official Series Video)",
+    "score": 10
+  },
+  {
+    "id": "f04MFJjCA6s",
+    "title": "ELDEN RING NIGHTREIGN SONG by JT Music - \\\"Come Back to Night\\\" (feat. Andrea Storm Kaden)",
+    "score": 10
+  },
+  {
+    "id": "2-64isyJgpw",
+    "title": "Back To The Future Original Soundtrack | Back To The Future Background Music| Back To The Future BGM",
+    "score": 10
+  },
+  {
+    "id": "gwS9BIqbffU",
+    "title": "[ Back to Sleep ] Part 3 ✧ FALL ASLEEP FAST - Deep Sleeping Music + Binaural Beats",
+    "score": 10
+  },
+  {
+    "id": "n6xzAbCyGcc",
+    "title": "200 Best Beautiful Piano Instrumental Love Songs Ever - Music That Bring Back Sweet Memories Of 80's",
+    "score": 10
+  },
+  {
+    "id": "k550PQyKRzY",
+    "title": "【Country Relax 27】Country Music With Gentle Melodies Takes You Back to the Old Memories",
+    "score": 10
+  },
+  {
+    "id": "W5i95-40a1k",
+    "title": "In Case You Didn't Know",
+    "score": 10
+  },
+  {
+    "id": "_NX7FNdWz0E",
+    "title": "Back to the Future Ambience | Soft Ambient Music for Deep Focus \\u0026 Relaxation (8 Hours)",
+    "score": 10
+  },
+  {
+    "id": "43jclb8cThw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0w80F8FffQ4",
+    "title": "Flow State - Chillstep \\u0026 Synthwave for Deep Focus | Coding Session",
+    "score": 10
+  },
+  {
+    "id": "cPdvk2TLliY",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "ADOQQiwgU0Y",
+    "title": "Tracklist: 1..min Galaxy 3 Gate I",
+    "score": 10
+  },
+  {
+    "id": "bmMuLwtofeQ",
+    "title": "PINK FLOYD Full Album \\\"The Solar System\\\" Tribute 17 by Cave of Creation",
+    "score": 10
+  },
+  {
+    "id": "HR1z_eamkjg",
+    "title": "Tenacious D- Tribute HD",
+    "score": 10
+  },
+  {
+    "id": "xy5S8s6rTH0",
+    "title": "PINK FLOYD THE ENDLESS RIVER FULL ALBUM Tribute Part 8 of 10 From Here to Reality Cave of Creation",
+    "score": 10
+  },
+  {
+    "id": "5N4RE6Q4tsI",
+    "title": "My Tribute (To God Be The Glory) - Andrae Crouch \\u0026 All Star Choir - Tribute Album",
+    "score": 10
+  },
+  {
+    "id": "0RZTYDPavEY",
+    "title": "ProleteR - Tribute to the Masters Vol.1 \\u0026 2 (FULL ALBUMS Remastered)",
+    "score": 10
+  },
+  {
+    "id": "fktJd7s4dmk",
+    "title": "Frank Sinatra - That's life",
+    "score": 10
+  },
+  {
+    "id": "h34iLZXZMHw",
+    "title": "Ledisi \\u0026 Bilal - A Tribute To Curtis Mayfield | WDR BIG BAND",
+    "score": 10
+  },
+  {
+    "id": "R3E3Fl48C1Y",
+    "title": "We’re A Winner",
+    "score": 10
+  },
+  {
+    "id": "1sM8n6zHcZk",
+    "title": "PINK FLOYD THE ENDLESS RIVER FULL ALBUM Tribute Part 2 of 10 Hour Relaxing Music by Cave of Creation",
+    "score": 10
+  },
+  {
+    "id": "Es4kfcY5lc0",
+    "title": "PINK FLOYD Full Album Tribute 6 Andromeda 2024",
+    "score": 10
+  },
+  {
+    "id": "8aCL9nB2NnE",
+    "title": "All-Star Tribute to Ozzy Osbourne | 2024 Induction Ceremony",
+    "score": 10
+  },
+  {
+    "id": "6SLh0b1dRYg",
+    "title": "Jack Black \\u0026 Ozzy intro",
+    "score": 10
+  },
+  {
+    "id": "36YzLlzJj50",
+    "title": "Yanni – “Tribute ”… The “Tribute” Concerts!... 1080p Digitally Remastered \\u0026 Restored",
+    "score": 10
+  },
+  {
+    "id": "ibuNS5hS1js",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QqjVD-qPZ3M",
+    "title": "Retrowave Classics Vol. 1",
+    "score": 10
+  },
+  {
+    "id": "9UB4XE4kWOk",
+    "title": "1. Mellow Fields - Velvet Shadows",
+    "score": 10
+  },
+  {
+    "id": "wjbVhOksfYg",
+    "title": "Simulated Heartbeat",
+    "score": 10
+  },
+  {
+    "id": "K09XrEiBSEk",
+    "title": "W O L F C L U B - Infinity (Full Album)",
+    "score": 10
+  },
+  {
+    "id": "iiL2VgVBpdA",
+    "title": "Opening titles, season one.",
+    "score": 10
+  },
+  {
+    "id": "_2Y3UBG1oOs",
+    "title": "Xynapsis - Guile's Theme | A Synthwave Street Fighter Tribute",
+    "score": 10
+  },
+  {
+    "id": "7E7b_gZeb58",
+    "title": "Classic TV Theme: Street Justice (Full Stereo)",
+    "score": 10
+  },
+  {
+    "id": "NyupWUVoAm4",
+    "title": "Season one opening titles",
+    "score": 10
+  },
+  {
+    "id": "z58lqB7aF0o",
+    "title": "Street Fighter 6 Alex's Theme - Go! Alex! Hope is Born! by JAM Project",
+    "score": 10
+  },
+  {
+    "id": "nu4pDfXRsMA",
+    "title": "Street Fighter 6 Alex's Theme - Jazzy NYC SF6 Arrange",
+    "score": 10
+  },
+  {
+    "id": "a9lcx6hTCHc",
+    "title": "Street Fighter 6 Luke's Theme - Taking Aim",
+    "score": 10
+  },
+  {
+    "id": "0MZPZFAaJ7w",
+    "title": "Street Fighter II Guile’s Theme (Synthwave Remix) | Retro VGM Reimagined #gamemusic #streetfighter",
+    "score": 10
+  },
+  {
+    "id": "1aSKyEzkNcY",
+    "title": "Street Hawk Theme Song ( Extended Title Sequence ) HD",
+    "score": 10
+  },
+  {
+    "id": "TCWbUM4tcks",
+    "title": "The Streets of San Francisco Theme (Intro \\u0026 Outro)",
+    "score": 10
+  },
+  {
+    "id": "mijBMpnS3a4",
+    "title": "Street Fighter 6 Dhalsim Theme - The Great Sunlight",
+    "score": 10
+  },
+  {
+    "id": "EELQyo7FX4k",
+    "title": "Sean's Street Fighter 3 2nd Impact \\\"Sao Paulo\\\" theme concept (Smooth House RMX)",
+    "score": 10
+  },
+  {
+    "id": "J-CL0TvaUrs",
+    "title": "Street Fighter 6 - Sagat Theme Extended - The Silent Ascetic",
+    "score": 10
+  },
+  {
+    "id": "IAVpJxH75nM",
+    "title": "Street Fighter 6 Jamie's Theme - Mr. Top Player",
+    "score": 10
+  },
+  {
+    "id": "TjALmQn5iKc",
+    "title": "Super Street Fighter IV - Theme of Cammy",
+    "score": 10
+  },
+  {
+    "id": "6SIfuks6do0",
+    "title": "Streets of Rage - Boss theme",
+    "score": 10
+  },
+  {
+    "id": "LwS3_SRO2yQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wOMwO5T3yT4",
+    "title": "synthwave radio 🌌 beats to chill/game to",
+    "score": 10
+  },
+  {
+    "id": "XWPlbUdrXIo",
+    "title": "Night Drive 1985 – Cruising Through Synthwave Heaven",
+    "score": 10
+  },
+  {
+    "id": "Hz30YoWEhdY",
+    "title": "SHIKIMO \\u0026 Gibarian - Above The Clouds",
+    "score": 10
+  },
+  {
+    "id": "35scgD4nHqw",
+    "title": "MEGAS \\u0026 wavetearz - Skylines",
+    "score": 10
+  },
+  {
+    "id": "Ds8S7fIbxUg",
+    "title": "Luminous Beings - Rulmyno",
+    "score": 10
+  },
+  {
+    "id": "_Ojv9Zu1IZY",
+    "title": "Neon Dusk Drive",
+    "score": 10
+  },
+  {
+    "id": "sG6iaBk8vGg",
+    "title": "System Breach",
+    "score": 10
+  },
+  {
+    "id": "GBUCmMxmup0",
+    "title": "hello meteor - Breeze Bay",
+    "score": 10
+  },
+  {
+    "id": "u1jICOLIP1A",
+    "title": "Darknet Mirage",
+    "score": 10
+  },
+  {
+    "id": "jUyk52REKKg",
+    "title": "𝟭𝟵𝟵𝟰 𝗗𝗘𝗖𝗢𝗗𝗘 𝗧𝗛𝗘 𝗠𝗔𝗧𝗥𝗜𝗫 // Synthwave, Vaporwave, Cyberpunk, Chillwave, Retrowave, Funkwave Playlist",
+    "score": 10
+  },
+  {
+    "id": "ZdkBcZR4hO4",
+    "title": "Neon Rider",
+    "score": 10
+  },
+  {
+    "id": "_Gajv2yJt5M",
+    "title": "Pulse Reconnected",
+    "score": 10
+  },
+  {
+    "id": "Zu4xeXf8fA0",
+    "title": "Haze Voyager",
+    "score": 10
+  },
+  {
+    "id": "kADPaRSnifE",
+    "title": "1. Highway Superstar - Skylines",
+    "score": 10
+  },
+  {
+    "id": "FwSZX681dMw",
+    "title": "Neon Mirage",
+    "score": 10
+  },
+  {
+    "id": "-WEWVsC8CyA",
+    "title": "Boot the System",
+    "score": 10
+  },
+  {
+    "id": "uouhmQR8I0Y",
+    "title": "Singularity (Synthwave - Retrowave - Chillwave Mix).",
+    "score": 10
+  },
+  {
+    "id": "1V9P8MclLmI",
+    "title": "𝟮𝟬𝟳𝟳 𝗕𝗨𝗥𝗡 𝗧𝗛𝗘 𝗣𝗔𝗦𝗧 // Dark Synth, Synthwave, Vaporwave, Chillwave, Retrowave Playlist",
+    "score": 10
+  },
+  {
+    "id": "DG5N4ARcHEI",
+    "title": "80s Synthwave Music Mix 2 - Dreamy Nostalgic Retrowave Chillwave Synthwave",
+    "score": 10
+  },
+  {
+    "id": "LG55Pad1Mig",
+    "title": "Dead Signal",
+    "score": 10
+  },
+  {
+    "id": "2UubprLhWrc",
+    "title": "FIGHTERS ARE AWESOME 18 ᵇᵐᵗᵛ",
+    "score": 10
+  },
+  {
+    "id": "p_Xga_hg-c4",
+    "title": "Fighter (A Tony Stark Tribute)",
+    "score": 10
+  },
+  {
+    "id": "Zjgybisy5hU",
+    "title": "| The Fighter | A Tribute to Miguel Cotto",
+    "score": 10
+  },
+  {
+    "id": "wB-OLo13pZE",
+    "title": "So You Want To Be a Fighter?",
+    "score": 10
+  },
+  {
+    "id": "VpxzpGhThLg",
+    "title": "Xynapsis - Guile's Theme | A Synthwave Street Fighter Tribute",
+    "score": 10
+  },
+  {
+    "id": "7BknQt3hRWQ",
+    "title": "'Jet Fighter' - The Ultimate Jet Li Tribute",
+    "score": 10
+  },
+  {
+    "id": "fmb22k7bI_Y",
+    "title": "Street Fighter Tribute Album - Ken",
+    "score": 10
+  },
+  {
+    "id": "J0finfIPz7I",
+    "title": "Street Fighter Tribute Album - Guile",
+    "score": 10
+  },
+  {
+    "id": "i6XsFAEpOCY",
+    "title": "People Are Awesome - Fighter Pilots 2023",
+    "score": 10
+  },
+  {
+    "id": "r9uNYGUfDnQ",
+    "title": "Mike Möller Tribute - Urban fighter",
+    "score": 10
+  },
+  {
+    "id": "DcDR0kHqrQ0",
+    "title": "Mass Effect 3 - The Fighter (Story Tribute)",
+    "score": 10
+  },
+  {
+    "id": "DyWq2wEEnXk",
+    "title": "Trump Tribute “Fighter” Plays at Trump’s Return to Butler Rally",
+    "score": 10
+  },
+  {
+    "id": "boK1MJzfhX0",
+    "title": "WE ARE CAGE FIGHTERS  (MMA Tribute)",
+    "score": 10
+  },
+  {
+    "id": "lVVrNOQtlzY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mm5Atx38z8I",
+    "title": "The School Bully vs. The A-Student | Short Film \\\"Paulie\\\"",
+    "score": 10
+  },
+  {
+    "id": "md6ivFocb_I",
+    "title": "Third Eye or Just Heart’s Instinct? 👀🔥 #linhchihihi #messyclassroom #schoolcrush #schooldrama",
+    "score": 10
+  },
+  {
+    "id": "H5MWgMPPjXU",
+    "title": "🤣👌👌👌2026 pov Must-Watch Crazy Clips Compilation #humor #fypシ #pov #fyp #foryou 😍😜",
+    "score": 10
+  },
+  {
+    "id": "jTNtFFpfuWQ",
+    "title": "Testing FAKE Escape Tsunami For Brainrots Games..",
+    "score": 10
+  },
+  {
+    "id": "wMpgP4C66YE",
+    "title": "Village lo Drunk and Drive  | My Village Show Comedy | Gangavva",
+    "score": 10
+  },
+  {
+    "id": "zMpSNRCH6Gc",
+    "title": "BFDIE 5: The Three Leg Three-Legged Race",
+    "score": 10
+  },
+  {
+    "id": "r3SMDnxT3aE",
+    "title": "LAADLIYAN | ਲਾਡਲੀਆਂ | EPISODE 68 | लाडलियां | لاڈلیاں | #mrmrsdevgan #punjabiwebseries #drama #mindo",
+    "score": 10
+  },
+  {
+    "id": "8MIaPpBiQYI",
+    "title": "Bay Area cheer squad secures national win",
+    "score": 10
+  },
+  {
+    "id": "9pFc6-_sSC0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4KFGyRF4-zI",
+    "title": "About Sun Valley Elementary",
+    "score": 10
+  },
+  {
+    "id": "X4YoL6r_LSo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fKAyD7kd-dw",
+    "title": "Stranger Things Theme Song (C418 REMIX)",
+    "score": 10
+  },
+  {
+    "id": "luOyN6tjLjc",
+    "title": "DBZ - Perfect Cell Theme Remix",
+    "score": 10
+  },
+  {
+    "id": "Hfb3DL6SthY",
+    "title": "1000 BC – Egypt",
+    "score": 10
+  },
+  {
+    "id": "oRLJIQCwEvw",
+    "title": "Hans Zimmer - Time (Cyberdesign Remix)",
+    "score": 10
+  },
+  {
+    "id": "EwbMkIROOGU",
+    "title": "Hans Zimmer - S.T.A.Y. (Madis Remix) Interstellar Theme (2015)",
+    "score": 10
+  },
+  {
+    "id": "CbS8uwcJTO0",
+    "title": "Battle! Gym Leader - Remix Cover (Pokémon Sword and Shield)",
+    "score": 10
+  },
+  {
+    "id": "-dljGhAnNGI",
+    "title": "Backyardigans, C\\u0026P, E\\u0026R, LC, M\\u0026R, Pinky Dinky Doo, P\\u0026P, S\\u0026S, Nature Cat And Super Why! Theme Remix",
+    "score": 10
+  },
+  {
+    "id": "oCND0u7_i2E",
+    "title": "SPECTRE - James Bond 007 Theme Remix by DeWolf",
+    "score": 10
+  },
+  {
+    "id": "mNgdH1OVs4Q",
+    "title": "Avengers Theme Remix",
+    "score": 10
+  },
+  {
+    "id": "KZqdquCuByA",
+    "title": "SayMaxWell - Danganronpa Theme [Remix]",
+    "score": 10
+  },
+  {
+    "id": "EVXkphT70Mo",
+    "title": "Skyrim Theme Remix - Elder Scrolls Theme Orchestra",
+    "score": 10
+  },
+  {
+    "id": "VaYy9d8PJC4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "kN_RPdDoZr0",
+    "title": "FREQUENCY - INFINITY (ULTRA SLOWED) THE MOST BEAUTIFUL SYNTHWAVE",
+    "score": 10
+  },
+  {
+    "id": "LpyWd02hh5s",
+    "title": "W O L F C L U B - Infinity (Full Album)",
+    "score": 10
+  },
+  {
+    "id": "IK6k8QgLteE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "M9XzIHs9b_U",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "wiNp7JZRSzE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "_ewFw_eb8Yw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "JFiL5vjc3cw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "yNQ4jv0T5Yo",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "G7GD4G0Q0wA",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "KlzrPuZvtko",
+    "title": "5 Minute Wash \\u0026 Go With INSANE Definition! | Short Natural Hair",
+    "score": 10
+  },
+  {
+    "id": "P8KkXuxX5vQ",
+    "title": "Searches related to \"},{\"text\":\"Natural short\",\"bold\":true}]},\"trackingParams\":\"CIACEK2qASITCKvLpNWvs5IDFeBy7QId9cYZ3g==\",\"icon\":{\"iconType\":\"SEARCH\"}}},\"style\":{\"type\":\"HORIZONTAL_CARD_LIST_STYLE_TYPE_NARROW_SHELF\"},\"previousButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_LEFT\"},\"trackingParams\":\"CP8BEPBbIhMIq8uk1a-zkgMV4HLtAh31xhne\"}},\"nextButton\":{\"buttonRenderer\":{\"style\":\"STYLE_DEFAULT\",\"size\":\"SIZE_DEFAULT\",\"isDisabled\":false,\"icon\":{\"iconType\":\"CHEVRON_RIGHT\"},\"trackingParams\":\"CP4BEPBbIhMIq8uk1a-zkgMV4HLtAh31xhne\"}}}},{\"videoRenderer\":{\"videoId\":\"Q8-J_W1rqno\",\"thumbnail\":{\"thumbnails\":[{\"url\":\"https://i.ytimg.com/vi/Q8-J_W1rqno/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhZIGIoZTAP\\u0026rs=AOn4CLBXi-TYFxBxQJXPkmrwifv81bPKnQ\",\"width\":360,\"height\":202},{\"url\":\"https://i.ytimg.com/vi/Q8-J_W1rqno/hq720_2.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhZIGIoZTAP\\u0026rs=AOn4CLBLrWvOPta19ndfNj5lCsbowe5xug\",\"width\":720,\"height\":404}]},\"title\":{\"runs\":[{\"text\":\"Super Cute Natural Hair Transformation",
+    "score": 10
+  },
+  {
+    "id": "uKQIvseOByM",
+    "title": "natural short hairstyles for black women",
+    "score": 10
+  },
+  {
+    "id": "Gjf20cmS5QU",
+    "title": "How I style my short natural hair #bigchop #twa",
+    "score": 10
+  },
+  {
+    "id": "7zqjFvAFdAw",
+    "title": "Short Natural Hair Cut and Style (Wash \\u0026 Go)",
+    "score": 10
+  },
+  {
+    "id": "v5UUNntVcSs",
+    "title": "Short hair?No problem #type4hair #twa #twastyles #naturalhair #natural #naturalhairstyles #twastyles",
+    "score": 10
+  },
+  {
+    "id": "wdw_Dxa0eOc",
+    "title": "Short 4C NATURAL HAIR Can't Slick BACK?? Must Watch!!!",
+    "score": 10
+  },
+  {
+    "id": "c_UAXVoJRlg",
+    "title": "DIY short natural tapered haircut",
+    "score": 10
+  },
+  {
+    "id": "jB197Hc6xPo",
+    "title": "STYLING MY TWA (NATURAL SHORT HAIR) + GRWM",
+    "score": 10
+  },
+  {
+    "id": "m0Y5RB_ChZw",
+    "title": "20 Youthful Short Natural Haircuts for Black Women Over 50 | Elegant Hairstyling Hairstyle Ideas",
+    "score": 10
+  },
+  {
+    "id": "fsPPCvjTZPg",
+    "title": "Finger Coils on Short Natural hair Made Easy!  #naturalhair #shorthair #shorthairstyles #curlyhair",
+    "score": 10
+  },
+  {
+    "id": "XUepJ91h5ws",
+    "title": "Short natural hairstyle 😍 #twa #curlyhair",
+    "score": 10
+  },
+  {
+    "id": "1oDgZwygGm0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gfxn5SD2I4Q",
+    "title": "Street Fighter II Guile’s Theme 1-Hour Synthwave Remix | Retro VGM #gamemusic #streetfighter",
+    "score": 10
+  },
+  {
+    "id": "inqF7bHJWrY",
+    "title": "The Guile Controversy: Is He the Real Main Character of Street Fighter?",
+    "score": 10
+  },
+  {
+    "id": "UBexM4k_hAc",
+    "title": "SF6 ▰ HIGUCHI (#1 Ranked Guile) vs KOBAYAN (Zangief) ▰ High Level Gameplay",
+    "score": 10
+  },
+  {
+    "id": "UTrBEgoUOVc",
+    "title": "All American Man - A Tribute To Guile",
+    "score": 10
+  },
+  {
+    "id": "NUIHW87MH5M",
+    "title": "TWT GLOBAL FINALS 2025 - GLOBAL GROUP STAGE",
+    "score": 10
+  },
+  {
+    "id": "vWgBW_czY0A",
+    "title": "SF6 Blaz (Ryu) VS Syuji (Guile)💥Messatsu!💥スト6💥Street fighter 6",
+    "score": 10
+  },
+  {
+    "id": "IJz5bLGQWn8",
+    "title": "The Best of KojiKOG at Evo",
+    "score": 10
+  },
+  {
+    "id": "batRyjXao_8",
+    "title": "There's no running",
+    "score": 10
+  },
+  {
+    "id": "zlz7KmdCc4I",
+    "title": "Street Fighter - Guile Theme (EPIC VERSION) - REMASTERED",
+    "score": 10
+  },
+  {
+    "id": "Mi8yQkpaUKM",
+    "title": "street fighter guile theme song (heavy version)",
+    "score": 10
+  },
+  {
+    "id": "Mt7vLnKzH60",
+    "title": "1 9 8 9　ＦRＥQ U E Ｎ C Y // Synthwave, Cyberwave, Retrowave, Chillsynth",
+    "score": 10
+  },
+  {
+    "id": "RXhBib027OM",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "b--mrHHboTc",
+    "title": "Infinite Theme (Synthwave/metal Cover)",
+    "score": 10
+  },
+  {
+    "id": "RC9SNyRpbso",
+    "title": "Superman Theme Epic Cover Version",
+    "score": 10
+  },
+  {
+    "id": "RLTJ95kj9ng",
+    "title": "Star Wars: The Force Theme x Main Theme | EPIC VERSION (Kenobi Tribute)",
+    "score": 10
+  },
+  {
+    "id": "LtFeTNduo18",
+    "title": "Airwolf - Theme Cover (KOSmusic Version)",
+    "score": 10
+  },
+  {
+    "id": "2z_ESg4U-4g",
+    "title": "Convoy • Theme Song (Film Version) • C.W. McCall",
+    "score": 10
+  },
+  {
+    "id": "Uxp6OG8izQg",
+    "title": "Theme of Sonic The Hedgehog -2006 E3 Version-",
+    "score": 10
+  },
+  {
+    "id": "UVK6gDygMzI",
+    "title": "Elden Ring Main Theme (The Final Battle) | EPIC VERSION",
+    "score": 10
+  },
+  {
+    "id": "ZdmB5PaWTmU",
+    "title": "Claudia's Theme (Version Eight)",
+    "score": 10
+  },
+  {
+    "id": "kO-2zldx61o",
+    "title": "Rick and Morty: Evil Morty Theme (For The Damaged Coda) | EPIC VERSION [Attack on Titan Style]",
+    "score": 10
+  },
+  {
+    "id": "zh4gzV_x3UM",
+    "title": "Mission Impossible Theme (Full Theme)",
+    "score": 10
+  },
+  {
+    "id": "XAYhNHhxN0A",
+    "title": "The Batman Theme | EPIC VERSION (feat. 1989 x The Dark Knight Theme)",
+    "score": 10
+  },
+  {
+    "id": "7rDgwmyy4zg",
+    "title": "Pokémon Red/Blue/Yellow - Champion Battle Theme [EPIC VERSION]",
+    "score": 10
+  },
+  {
+    "id": "PtyRKK5UYyo",
+    "title": "Gracie Films Theme [EVOLUTION]",
+    "score": 10
+  },
+  {
+    "id": "0hoTp3z3sEg",
+    "title": "Halo Theme x Duel of the Fates 【HALO INFINITE x STAR WARS EPIC ORCHESTRA】",
+    "score": 10
+  },
+  {
+    "id": "Bq3PiK8sQ70",
+    "title": "His World (Instrumental)",
+    "score": 10
+  },
+  {
+    "id": "CMpo1-o54RI",
+    "title": "The Expanse Extended Theme",
+    "score": 10
+  },
+  {
+    "id": "C4yHf4bYmqw",
+    "title": "Superman II OST: Main Title March",
+    "score": 10
+  },
+  {
+    "id": "BvUn6AWoqUE",
+    "title": "Gigguk's Editor Initially Didn't Want Orb to Be His Best Anime of 2025",
+    "score": 10
+  },
+  {
+    "id": "nn--MFCSh-c",
+    "title": "Star Wars: The Clones Theme | EPIC MEDIEVAL STYLE",
+    "score": 10
+  },
+  {
+    "id": "mtOuasYJnv8",
+    "title": "Jan Hammer - Crockett's Theme (Moreno J Remix)",
+    "score": 10
+  },
+  {
+    "id": "YVsIwZEaYKU",
+    "title": "The Expanse | Epic Extended Theme Cover (Long Version) - now on Spotify",
+    "score": 10
+  },
+  {
+    "id": "rxYoxdATveI",
+    "title": "Arthur - Theme Song (Horror Version) 😱",
+    "score": 10
+  },
+  {
+    "id": "oiMcIL9D83I",
+    "title": "Thomas \\u0026 Friends (Season 19) - Theme Song (Horror Version) 😱",
+    "score": 10
+  },
+  {
+    "id": "0V2UlPGG-aQ",
+    "title": "X-Men The Animated Series Theme | EPIC Version",
+    "score": 10
+  },
+  {
+    "id": "_Bbre2KWU0o",
+    "title": "John Wick Theme | EPIC VERSION",
+    "score": 10
+  },
+  {
+    "id": "pCkSuiSMLdk",
+    "title": "Jan Hammer Project feat. TQ - Crockett's Theme (Radio Version)  [OFFICIAL AUDIO]",
+    "score": 10
+  },
+  {
+    "id": "oyTXWnLmYo8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "isMS4918XqY",
+    "title": "Doja Cat x The Weeknd x Lana Del Rey - Streets / One Of The Girls / White Mustang [LIBERTO Remix]",
+    "score": 10
+  },
+  {
+    "id": "1hXYhZaGl0o",
+    "title": "Doja Cat \\u0026 Rihanna - Streets x Needed Me (Mashup)",
+    "score": 10
+  },
+  {
+    "id": "j79nbv6f85U",
+    "title": "Doja Cat - Streets (Silhouette Remix) [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "lt9ZHb4eGtg",
+    "title": "Beyonce x Doja Cat - Partition x Streets (mashup)",
+    "score": 10
+  },
+  {
+    "id": "Q-Z2VlZd4BQ",
+    "title": "streets x needed me remix - slowed",
+    "score": 10
+  },
+  {
+    "id": "9htwFiUkp7s",
+    "title": "Doja Cat - Streets (XZIIE Remix)",
+    "score": 10
+  },
+  {
+    "id": "bPdaLMEuHEI",
+    "title": "Doja Cat - Streets (Disclosure Remix - Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "WXGk4WAN7ss",
+    "title": "Doja Cat Ft. Nicki Minaj - Streets (Your Love Remix)",
+    "score": 10
+  },
+  {
+    "id": "Ed3f709Ig1o",
+    "title": "CHIHIRO × STREETS (REMIX) - Billie Eilish, Doja Cat",
+    "score": 10
+  },
+  {
+    "id": "vAE2WuRzviA",
+    "title": "PART I: You're so far away... Do you feel it too?",
+    "score": 10
+  },
+  {
+    "id": "rrApgq1zwWc",
+    "title": "Desert Rose x Renegade x Streets (GOBAITH MASHUP)",
+    "score": 10
+  },
+  {
+    "id": "DRXHrc8vi9w",
+    "title": "Lana Del Rey Late Night Drive Songs",
+    "score": 10
+  },
+  {
+    "id": "dCn84j3Ijg0",
+    "title": "Born To Die",
+    "score": 10
+  },
+  {
+    "id": "5p8xlWla8lc",
+    "title": "Doja cat - Freak x Streets (mashup)",
+    "score": 10
+  },
+  {
+    "id": "XQhPS3kmGVk",
+    "title": "50 Cent – I’m The Man | Moroccan Gnawa Fusion 🇲🇦🔥",
+    "score": 10
+  },
+  {
+    "id": "slnL3VyM4uU",
+    "title": "doja cat - streets (sped up) [Silhouette Remix]",
+    "score": 10
+  },
+  {
+    "id": "aLILsGR8YtE",
+    "title": "Billie Eilish - CHIHIRO (Black Coffee Remix)",
+    "score": 10
+  },
+  {
+    "id": "I0MYy8bnNlw",
+    "title": "Mobb Deep - Rare Species (59th Street Bridge Remix)",
+    "score": 10
+  },
+  {
+    "id": "XFlcvXtjrW0",
+    "title": "𝑺𝑻𝑹𝑬𝑬𝑻 𝐱 𝑹𝑶𝑴𝑨𝑵𝑰𝑨𝑵 𝑹𝑬𝑴𝑰𝑿  𝑺𝒍𝒐𝒘𝒆𝒅/𝑹𝒆𝒗𝒆𝒓𝒃",
+    "score": 10
+  },
+  {
+    "id": "eBmdX3oQLfs",
+    "title": "𝘋𝘖𝘑𝘈 𝘊𝘈𝘛 - 𝘚𝘛𝘙𝘌𝘌𝘛𝘚 ( 𝘚𝘗𝘌𝘌𝘋 𝘜𝘗 - 𝘙𝘌𝘝𝘌𝘙𝘉 )",
+    "score": 10
+  },
+  {
+    "id": "XCUrAI5sySE",
+    "title": "The Streets - In The Middle (Nero Remix)",
+    "score": 10
+  },
+  {
+    "id": "_SvQ_qdVKTg",
+    "title": "Doja Cat - Streets (XZIIE Remix) (Instrumental)",
+    "score": 10
+  },
+  {
+    "id": "foTugoH8lAI",
+    "title": "like you (streets remix)",
+    "score": 10
+  },
+  {
+    "id": "2UwAV-0EzYk",
+    "title": "Doja Cat - Streets (feat. Micky Weekes) [Remix]",
+    "score": 10
+  },
+  {
+    "id": "gRham-0SGWE",
+    "title": "Doja Cat - Streets (DJ Sliink Remix - Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "NM-NpJFSpqQ",
+    "title": "Doja Cat Ft. Nicki Minaj \\u0026 Drake - Streets (Remix)",
+    "score": 10
+  },
+  {
+    "id": "n6URJ5oJdfk",
+    "title": "doja cat - streets (silhouette remix) (slowed + reverb)",
+    "score": 10
+  },
+  {
+    "id": "4RcMHVE-8iY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "P6nTSCK85Ec",
+    "title": "Custom Search Filters | LinkedIn Minutes",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "f7W4qIMBbBg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BtiVbY7lhqw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "del3F5riDPw",
+    "title": "NHRA Super Street ELIMINATIONS Round 1 JEGS SportsNationals 2024",
+    "score": 10
+  },
+  {
+    "id": "yTQDxQz3L_4",
+    "title": "This Racing Game Could Have Been Great… But It’s Not [Super Street The Game]",
+    "score": 10
+  },
+  {
+    "id": "DaPEwqYAGE8",
+    "title": "Super Street VW Drag Racing: PRA '95, Ocean Street Video",
+    "score": 10
+  },
+  {
+    "id": "8qucFgFsfZo",
+    "title": "Pra Point Standings",
+    "score": 10
+  },
+  {
+    "id": "7dsxPeCGSFw",
+    "title": "PDRA World Finals - Super Street Eliminations!",
+    "score": 10
+  },
+  {
+    "id": "r3rfV3ixzQk",
+    "title": "Super Street Fighter II Turbo - Akuma (Arcade / 1994) 4K 60FPS",
+    "score": 10
+  },
+  {
+    "id": "U_6tlx-Sm2Y",
+    "title": "SUPER STREET AFTER DARK 2025 | The Bronco Adventures",
+    "score": 10
+  },
+  {
+    "id": "G2B6pnvUJ7o",
+    "title": "Is Super Street: The Game REALLY BAD?",
+    "score": 10
+  },
+  {
+    "id": "Xa5TMrHcE30",
+    "title": "Easy Cars To Start",
+    "score": 10
+  },
+  {
+    "id": "5EYSDZ7azFE",
+    "title": "2025 Ultraviolette F77 recon Super Street",
+    "score": 10
+  },
+  {
+    "id": "InVBdYzfzqY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Omatm8gzZ8c",
+    "title": "Premise",
+    "score": 10
+  },
+  {
+    "id": "Vr6QuAmJgwI",
+    "title": "Super Street: After Dark 2025",
+    "score": 10
+  },
+  {
+    "id": "kdHECLPReZc",
+    "title": "L.A.'s 'Super Street' car community opens their doors (and engines) to the public",
+    "score": 10
+  },
+  {
+    "id": "BMYfWPCAiqw",
+    "title": "SUPER STREET MUD RACING TRUCKS ARE ROWDY!",
+    "score": 10
+  },
+  {
+    "id": "7VGGm9I_ZYQ",
+    "title": "Super Street \\u0026 Super Sedan @ Day Two of the Championship Drag Racing Grand Finals  | Perth Motorplex",
+    "score": 10
+  },
+  {
+    "id": "jJm055Pqv1o",
+    "title": "Gameplay",
+    "score": 10
+  },
+  {
+    "id": "jQZCWje86Z0",
+    "title": "Character Select",
+    "score": 10
+  },
+  {
+    "id": "EAYfJckSEN0",
+    "title": "Street Fighter Synthwave/Retrowave Mix (pt. 2)✨",
+    "score": 10
+  },
+  {
+    "id": "bJyVvfcFN7Y",
+    "title": "Dragonan - Guile's Theme (Street Fighter II)",
+    "score": 10
+  },
+  {
+    "id": "o39IAQBzDiI",
+    "title": "Ryu's Theme - Street Fighter 2",
+    "score": 10
+  },
+  {
+    "id": "hp3n-ucFP6o",
+    "title": "Street Fighter II Complete OST Synthwave Remix.",
+    "score": 10
+  },
+  {
+    "id": "0a_PV4fRxiM",
+    "title": "Opening Theme Street Fighter II",
+    "score": 10
+  },
+  {
+    "id": "kvKyZc8eCe4",
+    "title": "Street Fighter Main Theme",
+    "score": 10
+  },
+  {
+    "id": "7wq447cbvAQ",
+    "title": "Timecop1983 - Afterglow",
+    "score": 10
+  },
+  {
+    "id": "JWrShBnJNSA",
+    "title": "Xynapsis - Ken's Theme | Street Fighter Synthwave Rock Remix (SNES + Anime Tribute)",
+    "score": 10
+  },
+  {
+    "id": "304TBwzBZBM",
+    "title": "Crimson Skies | The 80s Fighter Jet Synthwave Mix | Retro Action Soundtrack",
+    "score": 10
+  },
+  {
+    "id": "ThVUdu2JybI",
+    "title": "☆ PUMP ACTION ☆ | A Synthwave Mix 🎛🎚 by Megahit 🎧🔥",
+    "score": 10
+  },
+  {
+    "id": "3MIj0MffBsI",
+    "title": "Harold Faltermeyer - The Running Man Intro (Bakersfield)",
+    "score": 10
+  },
+  {
+    "id": "Z8ZZ14yA_Qw",
+    "title": "𝟏𝟗𝟖𝟐 𝐈𝐧𝐟𝐢𝐧𝐢𝐭𝐞 𝐑𝐞𝐝𝐥𝐢𝐧𝐞 | Cyberpunk Music Playlist, Dark Synthwave, Futuristic Beats, Sci-Fi Ambient",
+    "score": 10
+  },
+  {
+    "id": "t5OJNXxwmKA",
+    "title": "Static Halo",
+    "score": 10
+  },
+  {
+    "id": "TlWYgGyNnJo",
+    "title": "Voyage - Beyond",
+    "score": 10
+  },
+  {
+    "id": "fKKhfYeCR-g",
+    "title": "Static Bloom",
+    "score": 10
+  },
+  {
+    "id": "rgmpCmimmBg",
+    "title": "Infinity Train Theme(Synthwave Remix)",
+    "score": 10
+  },
+  {
+    "id": "1TDDnv25u9c",
+    "title": "1972　ＩＮＦＩＮＩＴＥ ＳＣＲＥＥＮ // Synthwave, Dreamwave, Vaporwave",
+    "score": 10
+  },
+  {
+    "id": "nRzBx3H1S4Y",
+    "title": "wired tracer",
+    "score": 10
+  },
+  {
+    "id": "gQI0LcKKddE",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "oxeeutn1I5Y",
+    "title": "Neon Awakening — Jazz Fusion Intro (Synthwave Trumpet Tribute)",
+    "score": 10
+  },
+  {
+    "id": "azbj4ajVzxI",
+    "title": "Neon Pulse | Awakening the Machine Within (Cyberpunk Darkwave Story)",
+    "score": 10
+  },
+  {
+    "id": "8_hf1q06ADw",
+    "title": "Neon Scars",
+    "score": 10
+  },
+  {
+    "id": "xmr0wMdcDB8",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "xcuieG6yUgc",
+    "title": "Neon Awakening ☣️ Dark Industrial Rock | Heavy Cyberpunk Music \\u0026 Gritty Cinematic",
+    "score": 10
+  },
+  {
+    "id": "1SOeYplg738",
+    "title": "Neon Awakening — Synthwave Meets Evangelion Dreams",
+    "score": 10
+  },
+  {
+    "id": "70eNF15hMFU",
+    "title": "Neon Awakening: AI's Shocking Self-Discovery",
+    "score": 10
+  },
+  {
+    "id": "z0tGC69aPOU",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "TuyPNg2rcLw",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "zy5MoI8vLYY",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "X7P4RT4PF-Y",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "GXFTsVBIiMg",
+    "title": "The Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "_bnMOTkIp8k",
+    "title": "Neon- AWAKENING (COMING SOON )",
+    "score": 10
+  },
+  {
+    "id": "rYBg0Fo1RVs",
+    "title": "Neon Awakening",
+    "score": 10
+  },
+  {
+    "id": "uShYijBO9xk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "F5tSoaJ93ac",
+    "title": "Duncan Laurence - Arcade (Lyric Video) ft. FLETCHER",
+    "score": 10
+  },
+  {
+    "id": "51u5fnyrGj4",
+    "title": "Duncan Laurence - Arcade (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "afLScXH8uts",
+    "title": "The New WWE Wrestlefest Arcade Cabinet Is A DISASTER!",
+    "score": 10
+  },
+  {
+    "id": "pOJ369Zth_s",
+    "title": "Imagine Dragons x J.I.D - Enemy (from the series Arcane League of Legends)",
+    "score": 10
+  },
+  {
+    "id": "D9G1VOjN_84",
+    "title": "Jurassic Park Arcade Series - All Bosses \\u0026 Endings",
+    "score": 10
+  },
+  {
+    "id": "7j5gYeBk5WQ",
+    "title": "T-Rex 1",
+    "score": 10
+  },
+  {
+    "id": "Qk7-X8ZxP7I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "m_nhBOUMo3U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dt0ImhJG24U",
+    "title": "The Arcade Experience at Home - The Complete Series",
+    "score": 10
+  },
+  {
+    "id": "vEKo7yqwIJQ",
+    "title": "Galaxian",
+    "score": 10
+  },
+  {
+    "id": "5qA-ZUbj9bU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oBCQKpTD2_4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "j_fGKY44DaI",
+    "title": "The Arcade Treasures Series",
+    "score": 10
+  },
+  {
+    "id": "YF84--RgvYU",
+    "title": "Robocop",
+    "score": 10
+  },
+  {
+    "id": "xmSxqDicu-E",
+    "title": "I Bought The NEW WWE WrestleFest Arcade… And I Have Thoughts",
+    "score": 10
+  },
+  {
+    "id": "Xr8QJ3nMvak",
+    "title": "I Worked At An Arcade…",
+    "score": 10
+  },
+  {
+    "id": "ddrUEKGthDU",
+    "title": "Locked In An Arcade Until We Win A Xbox!",
+    "score": 10
+  },
+  {
+    "id": "uOz1eN-NDkE",
+    "title": "Lego Arcade Game Series",
+    "score": 10
+  },
+  {
+    "id": "WhJCGCp9zbQ",
+    "title": "ANIMAL CONTROL",
+    "score": 10
+  },
+  {
+    "id": "MmsQY8iD4gM",
+    "title": "How do people come to work for Penny Arcade?",
+    "score": 10
+  },
+  {
+    "id": "7sK1dBh7nSE",
+    "title": "DEEP FOCUS | Mystical Music to Support Concentration and Inner Immersion | 174Hz",
+    "score": 10
+  },
+  {
+    "id": "0rZ-SRGfeWg",
+    "title": "Music for Work — Deep Focus Mix for Programming, Coding",
+    "score": 10
+  },
+  {
+    "id": "xAR6N9N8e6U",
+    "title": "Aurum - Spacesounds",
+    "score": 10
+  },
+  {
+    "id": "wELOA2U7FPQ",
+    "title": "Music for Deep Intense Focus of Work and Long Hours of Peak Performance",
+    "score": 10
+  },
+  {
+    "id": "sjkrrmBnpGE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FaWLDozIylU",
+    "title": "Neo-Tokyo",
+    "score": 10
+  },
+  {
+    "id": "Oi7SWzcD04Q",
+    "title": "01. Baton - quiescent",
+    "score": 10
+  },
+  {
+    "id": "K0JBpWUOYTQ",
+    "title": "Street Fighter II The World Warrior Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "XigrLEVAWFw",
+    "title": "SSF4 Story - Guile's Ending",
+    "score": 10
+  },
+  {
+    "id": "u-w3IWYp3-c",
+    "title": "Street Fighter 2: World Warrior - Guile's ending",
+    "score": 10
+  },
+  {
+    "id": "SK4Qmm8d_6g",
+    "title": "Street Fighter 2 (1992) [SNES] Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "c8kC8uLVDYU",
+    "title": "Street Fighter Alpha 3 - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "bXaWeq55Swk",
+    "title": "Super Street Fighter II Turbo HD Remix - XBLA - Guile - ENDING",
+    "score": 10
+  },
+  {
+    "id": "o0Qh1ETHYoQ",
+    "title": "Street Fighter 4 Guile Ending HD",
+    "score": 10
+  },
+  {
+    "id": "RAdkohTDlLY",
+    "title": "Street Fighter Alpha 3 Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "kIwdxpdU0hI",
+    "title": "Guile's Ending - Hyper Street Fighter II: The Anniversary Edition OST Extended",
+    "score": 10
+  },
+  {
+    "id": "YJeFYvSVbdU",
+    "title": "Street Fighter II SNES - Guile vs. M. Bison - Hardest Setting (+ Best Ending)",
+    "score": 10
+  },
+  {
+    "id": "1ZIrgNpejLQ",
+    "title": "Street Fighter: The Movie (Sega Saturn/1995) - Zangief [Playthrough/LongPlay]",
+    "score": 10
+  },
+  {
+    "id": "5AejJrrEEkk",
+    "title": "Game Start",
+    "score": 10
+  },
+  {
+    "id": "0gLUuV7oo18",
+    "title": "Street Fighter EX3 [PCSX2]: Chun-Li - Arcade Mode Playthrough - Hard Difficulty - Color 3",
+    "score": 10
+  },
+  {
+    "id": "wXi1zG6HZgc",
+    "title": "Boot-up and Game Intro",
+    "score": 10
+  },
+  {
+    "id": "DWhcXsdxwSU",
+    "title": "Hyper Street Fighter 2 Guile's Ending",
+    "score": 10
+  },
+  {
+    "id": "VBytLChKI6M",
+    "title": "Perfectly Timed Guile's Theme Compilation",
+    "score": 10
+  },
+  {
+    "id": "0qzWOfZGxeE",
+    "title": "Street Fighter II - ALL Endings (All Characters) 4K 60ᶠᵖˢ",
+    "score": 10
+  },
+  {
+    "id": "VU8LvdFS6Qs",
+    "title": "Super Street Fighter 2 - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "L_Na_3TaOkU",
+    "title": "The Most Obscure Secret in Street Fighter!   feat. GuileWinQuote",
+    "score": 10
+  },
+  {
+    "id": "ybUlgFQWLKA",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "StKr61TJZb4",
+    "title": "Guile's Ending - Super Street Fighter II Turbo",
+    "score": 10
+  },
+  {
+    "id": "Hwc3vktPxFg",
+    "title": "Street Fighter The Movie - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "NhpMf3NffFA",
+    "title": "Street Fighter V - Guile 04 Ending",
+    "score": 10
+  },
+  {
+    "id": "pGxmwb3s8Jc",
+    "title": "Guile's Ending - Street Fighter II' Hyper Fighting (CPS-1) OST Extended",
+    "score": 10
+  },
+  {
+    "id": "Ocv-dPWeiiM",
+    "title": "Street Fighter II - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "kDohswBrziw",
+    "title": "Street Fighter EX Plus α - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "_VdBcpOfCzo",
+    "title": "Street Fighter Alpha 3 - Guile Ending",
+    "score": 10
+  },
+  {
+    "id": "qChq8CKpWuA",
+    "title": "Super Street Fighter II Turbo Revival: Guile's Ending",
+    "score": 10
+  },
+  {
+    "id": "wf7orbqFTsA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Vbi8ETJfEno",
+    "title": "Emptiness (Lyrics and Chords)",
+    "score": 10
+  },
+  {
+    "id": "6WDEbsGgU8U",
+    "title": "Ghost Dog - Emptiness is Form",
+    "score": 10
+  },
+  {
+    "id": "iFMY4jJ6SVE",
+    "title": "Carl Jung: The Hidden Code to Transform Emptiness and Anxiety into Spiritual Power",
+    "score": 10
+  },
+  {
+    "id": "EczIkelKAzE",
+    "title": "Deciphering DE (Death \\u0026 Emptiness) in BaZi | Mastering BaZi Fundamentals",
+    "score": 10
+  },
+  {
+    "id": "EOJFQJi0Ddc",
+    "title": "FT Island Emptiness Color Code Lyrics Rom English Indonesia Trans",
+    "score": 10
+  },
+  {
+    "id": "svgaMqpQxyw",
+    "title": "Emptiness | Guitar Intro Tabs |",
+    "score": 10
+  },
+  {
+    "id": "XgYll5vmgkk",
+    "title": "Rohan Rathore - Emptiness ( Originial )",
+    "score": 10
+  },
+  {
+    "id": "kiqIA9DGGMs",
+    "title": "Gajendra Verma - Tune Mere Jaana Kabhi Nahi Jaana I Emptiness | Gajendra Verma Songs | Sonotek Music",
+    "score": 10
+  },
+  {
+    "id": "zoiKeyBT3_0",
+    "title": "Emptiness",
+    "score": 10
+  },
+  {
+    "id": "1uD_ivJxLBo",
+    "title": "Emptiness",
+    "score": 10
+  },
+  {
+    "id": "g-BfhlH2o1c",
+    "title": "EMPTINESS: Prayer Activation Codes - O.F.I.I.",
+    "score": 10
+  },
+  {
+    "id": "AuZzIst2FoI",
+    "title": "I Was Dying Inside | A  Journey from Emptiness to Inner Peace",
+    "score": 10
+  },
+  {
+    "id": "XrblZ1td-F0",
+    "title": "Emptiness code",
+    "score": 10
+  },
+  {
+    "id": "ICsbNW4Y1PM",
+    "title": "Emptiness",
+    "score": 10
+  },
+  {
+    "id": "IC0qhH-ja1c",
+    "title": "Code: Pandorum - Renaissance  ft The Boundary of Emptiness:The Garden of Sinners",
+    "score": 10
+  },
+  {
+    "id": "aPJl9L5UGs0",
+    "title": "Sad Piano Music 'Emptiness'",
+    "score": 10
+  },
+  {
+    "id": "q5aNcG1tcOU",
+    "title": "Code of Emptiness",
+    "score": 10
+  },
+  {
+    "id": "xtol-2B_7t0",
+    "title": "Emptiness (Easy chord and lyrics)",
+    "score": 10
+  },
+  {
+    "id": "7wurxPPfmbY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Wswrqe2YAWs",
+    "title": "Chi Kuan Chun Tribute",
+    "score": 10
+  },
+  {
+    "id": "u0kSfXecbKA",
+    "title": "ULTIMATE MARVEL VS CAPCOM 3 COMBOS BY THETANG225",
+    "score": 10
+  },
+  {
+    "id": "wZtA8fKi5uQ",
+    "title": "SF25th Anniversary Music Tribute: Breakin' In China (Chun-Li's SFA2+SFIII Remix)",
+    "score": 10
+  },
+  {
+    "id": "uy1ocL19Lrw",
+    "title": "CHUN-LI TRIBUTE THEME",
+    "score": 10
+  },
+  {
+    "id": "hjuB5dNNOaM",
+    "title": "Best Wing Chun Kung Fu Motivation",
+    "score": 10
+  },
+  {
+    "id": "NdwIhPy1GQk",
+    "title": "CHUN LI TRIBUTE",
+    "score": 10
+  },
+  {
+    "id": "C-gwZ8oeozU",
+    "title": "Street Fighter Tribute Album Theme of Chun-Li",
+    "score": 10
+  },
+  {
+    "id": "6dATEd2t8xY",
+    "title": "Kung Fu with Chi Kuan Chun.",
+    "score": 10
+  },
+  {
+    "id": "sSXZct2DMmQ",
+    "title": "张晋 精彩打斗合集  max zhang  Best Fight Scene collection",
+    "score": 10
+  },
+  {
+    "id": "pxTk8S0mfAk",
+    "title": "虎鶴双形拳  由戚冠軍師傳示範 chi kuan chun.avi",
+    "score": 10
+  },
+  {
+    "id": "YxiGaX0wJwE",
+    "title": "3 STYLES OF HUNG SCHOOL'S KUNG FU (1973)",
+    "score": 10
+  },
+  {
+    "id": "fti9DutGXYs",
+    "title": "Best Epic Wing Chun Kung Fu Motivation",
+    "score": 10
+  },
+  {
+    "id": "tVJ6-bBhp18",
+    "title": "Chun li Theme Beat(RAP)",
+    "score": 10
+  },
+  {
+    "id": "u9bLfC4d3-U",
+    "title": "Wing Chun motivation",
+    "score": 10
+  },
+  {
+    "id": "zyTukPCYtAU",
+    "title": "Wingchun 咏春 | Spring Festival Gala of Chinese New Year Eve 2024 (Fowarded Video)",
+    "score": 10
+  },
+  {
+    "id": "aZnlgOkkNsM",
+    "title": "Chung Tin-chi vs. Dave Batista at the salon in the movie Master Z: Ip Man Legacy (2018)",
+    "score": 10
+  },
+  {
+    "id": "IERAnbiAxt0",
+    "title": "Wing Chun Tribute",
+    "score": 10
+  },
+  {
+    "id": "GeaoXhkL2ws",
+    "title": "5 animal styles - Chi Kuan-chun",
+    "score": 10
+  },
+  {
+    "id": "CYWM1JB4uHw",
+    "title": "The Tribute to the late Weng Chun GM Tang Yick Revisted",
+    "score": 10
+  },
+  {
+    "id": "yjoYQBmobAM",
+    "title": "Chun Li Theme (Tribute Album)",
+    "score": 10
+  },
+  {
+    "id": "04byiU7OLIw",
+    "title": "Chun Li Tribute: Street Fighter 2/2V [Short AMV] Mashup",
+    "score": 10
+  },
+  {
+    "id": "9e2nTChtdu0",
+    "title": "Lucas Godoy | Chun-Li Theme | SFII Tribute",
+    "score": 10
+  },
+  {
+    "id": "Ro2zHHAd8X0",
+    "title": "Get Ready For This || A Chun-Li \\u0026 Cammy tribute video",
+    "score": 10
+  },
+  {
+    "id": "qkZPSlwfsfc",
+    "title": "MegamanK284 Presents: A Chun Li Tribute",
+    "score": 10
+  },
+  {
+    "id": "_DspZGAyj9M",
+    "title": "A Tribute To Chun Li",
+    "score": 10
+  },
+  {
+    "id": "pKCO2ji5NKw",
+    "title": "A Son's Tribute - Arnold Chun",
+    "score": 10
+  },
+  {
+    "id": "6zveLJM47yw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MxGJCjNa-80",
+    "title": "Jessie Frye - Faded Memory",
+    "score": 10
+  },
+  {
+    "id": "EAVXXA8xTNA",
+    "title": "ＶＨＳ  １９９８． // Synthwave, Dreamwave, Vaporwave, Chillsynth",
+    "score": 10
+  },
+  {
+    "id": "LZEqs6VPYWw",
+    "title": "Lavaros – Sol City (Audio Visualizer) | Synthwave \\u0026 Retrowave Music Release",
+    "score": 10
+  },
+  {
+    "id": "b3IBzFCrSAk",
+    "title": "Syst3m Glitch - Another Heartbreak",
+    "score": 10
+  },
+  {
+    "id": "AlnNctQsMZI",
+    "title": "Centurion - Royalty Free Retrowave / Synthwave (Copyright Safe)",
+    "score": 10
+  },
+  {
+    "id": "c7RHJIFXMWU",
+    "title": "Popcorn Kid \\u0026 Noxigen - Cité Du Vice (Official Audio) [Synthwave - Retrowave - 80s]",
+    "score": 10
+  },
+  {
+    "id": "gxb7EgS3svI",
+    "title": "1 9 8 9　ＦRＥQ U E Ｎ C Y // Synthwave, Cyberwave, Retrowave, Chillsynth",
+    "score": 10
+  },
+  {
+    "id": "ssOmYzEq7VY",
+    "title": "W O L F C L U B - Summer Lights",
+    "score": 10
+  },
+  {
+    "id": "sF80I-TQiW0",
+    "title": "CULT - A Darksynth Synthwave Mix",
+    "score": 10
+  },
+  {
+    "id": "nM5_37r7TLs",
+    "title": "GosT - Commencement",
+    "score": 10
+  },
+  {
+    "id": "slY934-V06Q",
+    "title": "Seamless Transitions",
+    "score": 10
+  }
+]

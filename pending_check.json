@@ -1,1 +1,3247 @@
-[]
+[
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "לימוד אקסל שיעור 67 - טבלת ציר אקסל פיבוט PIVOT TABLE",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "לימוד אקסל שיעור 2 - מושגי בסיס - חלק א' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "קורס אקסל למתחילים - שיעור 12 - ניקוי תאים -",
+    "score": 110
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "הילימוד ברצף - מערכת השמש וכוכבי הלכת - מיוחד לילדים",
+    "score": 110
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "TW3KBnBW9_M",
+    "title": "מרד בר כוכבא - פרופ' זאב ספראי, המחלקה ללימודי ארץ ישראל וארכיאולוגיה באוניברסיטת בר-אילן",
+    "score": 110
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך פייתון למתחילים בעברית",
+    "score": 110
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "👩‍💻 מדריך פייתון למתחילים",
+    "score": 110
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "אקסל VLOOKUP למתחילים",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "7oiDM55WyqE",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הקיטור של ג'יימס ואט",
+    "score": 60
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "קלוד קוד - Claude Code - סקירה כללית",
+    "score": 60
+  },
+  {
+    "id": "f0RX4rYySh8",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "Excel Full Course Tutorial (4+ Hours)",
+    "score": 50
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "Excel for Beginners - The Complete Course",
+    "score": 50
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "Learning Excel Lesson 4 - Basic Concepts - Part 3 (Excel for Beginners)",
+    "score": 50
+  },
+  {
+    "id": "61ExOy36b_g",
+    "title": "️ The Skyline: The Tallest Building in Mahane Yehuda",
+    "score": 50
+  },
+  {
+    "id": "eAAIpfA3_gw",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "vCaPxlbj6JE",
+    "title": "WORLD CITIES \\u0026 Globalization, Explained [AP Human Geo Review—Unit 6 Topic 3]",
+    "score": 50
+  },
+  {
+    "id": "VI4CPe2I8WI",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "rhgDGjSN13g",
+    "title": "Genius Inventions: Technical Marvels That Will Shape Tomorrow | Full Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "Here Is Why Extra Dimensions ACTUALLY Make Sense",
+    "score": 50
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "How to study PHYSICS so FAST that it feels ILLEGAL (No Boring Stuff)",
+    "score": 50
+  },
+  {
+    "id": "0tGiwd_Zs00",
+    "title": "Decoding the Universe: Quantum | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "bucn_oCKKSE",
+    "title": "Python Tutorial For Beginners in Hindi | Complete Python Course 🔥",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Python for Data Analytics - Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "YO_cs_aLw7s",
+    "title": "How the Building Blocks of a Home are Made | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "afKf6WAzfCo",
+    "title": "50 Most Beautiful Places To Visit In Europe | 4K Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Learn Python in Less than 10 Minutes for Beginners (Fast \\u0026 Easy)",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ITSMDeOgXxw",
+    "title": "Introduction to Python Full Course 2026",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Learn Python for Data Science – Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Data Analysis with Python Course - Numpy, Pandas, Data Visualization",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "dxXJAqOU00g",
+    "title": "Melania's $40 Million Docu-Bribe Movie Premieres \\u0026 Dems Make ICE Demands | The Daily Show",
+    "score": 50
+  },
+  {
+    "id": "1KZrMw-iR-0",
+    "title": "WATCH: Melania Trump Takes Questions From Reporters On Red Carpet Of Her Documentary 'Melania'",
+    "score": 50
+  },
+  {
+    "id": "it8JXwL62bU",
+    "title": "Melania Trump Promotes Her New Self-Titled Documentary",
+    "score": 50
+  },
+  {
+    "id": "do8vZ9WcUUE",
+    "title": "WATCH: First lady Melania Trump speaks at the premiere of her documentary 'Melania'",
+    "score": 50
+  },
+  {
+    "id": "8nDZFM4oMF8",
+    "title": "Melania Trump's Documentary Premieres Worldwide",
+    "score": 50
+  },
+  {
+    "id": "mtts7jGxI6Y",
+    "title": "The First Lady previews the MELANIA movie 🎬🍿",
+    "score": 50
+  },
+  {
+    "id": "aPSlA0gXwFs",
+    "title": "Melania's $40 Million Docu-Bribe Movie Premieres \\u0026 Dems Make ICE Demands | The Daily Show",
+    "score": 50
+  },
+  {
+    "id": "OvO65kGUo3k",
+    "title": "What's the battery life of the galaxy watch ultra? How to get MORE Battery!",
+    "score": 50
+  },
+  {
+    "id": "S5DMDzvZ5YA",
+    "title": "Tips, Tricks Hidden Features Full Tutorial",
+    "score": 50
+  },
+  {
+    "id": "B6pFSBbp9kk",
+    "title": "1000 Years of Netherlands Alternative History / Paradox Mega Campaign / RP Narration",
+    "score": 50
+  },
+  {
+    "id": "9GX4yoEEMu4",
+    "title": "😱OMG! MASSIVE! HISTORY MADE! My LARGEST GOLDEN CENTURY DRAGON LINK JACKPOT of ALL TIME!",
+    "score": 50
+  },
+  {
+    "id": "8YdjLBvqsI8",
+    "title": "50 Most Beautiful Places To Visit In Europe | 4K Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "IpzsZuazTpU",
+    "title": "Welcome to Europe: Birthplace of Industry, Home of Frontier Tech",
+    "score": 50
+  },
+  {
+    "id": "Rad_CEAAZXA",
+    "title": "How a dozen scheduled city trials took drastically different courses",
+    "score": 50
+  },
+  {
+    "id": "dxBmoPMjfgM",
+    "title": "CITY BUS MANAGER TUTORIAL - HOW TO SCHEDULE SHIFTS | TUTORIAL 4",
+    "score": 50
+  },
+  {
+    "id": "piIKvo-U8Qk",
+    "title": "WONDERS OF PLANET EARTH | Most Magnificent Places | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "ReWyIZs-7sg",
+    "title": "A LITTLE GIRLS FIRST MOVE SHOCKED EVERYONE #USA #usastory  #usatoday  #LifeLessons #FaithInHumanity ",
+    "score": 50
+  },
+  {
+    "id": "thoGWMmw7Fk",
+    "title": "Every Move I Make - Hillsong Kids (Dance Cover) by Piumrak Kids",
+    "score": 50
+  },
+  {
+    "id": "PNA0zzKcXEA",
+    "title": "The Viral Dance Move Everyone’s Searching For 🔍🔥 (Learn It Fast)",
+    "score": 50
+  },
+  {
+    "id": "Kt4-7sYxXnE",
+    "title": "The Hidden Power Behind Gold (S3, E4) | America's Book of Secrets | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "IPBdV0KBC18",
+    "title": "The UnXplained: Gold Has Been Coveted for Centuries (S2, E12) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "sqfpS_sFCWo",
+    "title": "Modern Marvels: Gold Mines (S6, E24) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "gOTRnYOlRtQ",
+    "title": "IMPOSSIBLE  WORLD | The Most Amazing Places Few People Visit | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "RiWgdjal290",
+    "title": "IMPOSSIBLE CHINA | The Most Incredible Mountain Worlds Ever Seen | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "dYukUd1dkgE",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "kjBeW2bujnU",
+    "title": "How To See Hidden Videos On YouTube Playlist - Full Guide",
+    "score": 50
+  },
+  {
+    "id": "cqa8O1ktxk8",
+    "title": "Here's a Simple Technique to Find Hidden Cameras in an Airbnb",
+    "score": 50
+  },
+  {
+    "id": "3zE8Tf9chEA",
+    "title": "How To See Hidden Videos On YouTube Playlist",
+    "score": 50
+  },
+  {
+    "id": "Z4DqCevajw4",
+    "title": "How to See Hidden Videos on YouTube Playlist (2025) – Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "IBLruNfUqUs",
+    "title": "Chris plays with Hot Wheels cars and builds Hot Wheels City",
+    "score": 50
+  },
+  {
+    "id": "eczLJywiHm4",
+    "title": "I‘m using Filter? 😳🤭.. #secret #makeup #filter",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "QRadar: How to use search filters",
+    "score": 50
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "How To Use Search Filters In X (Twitter) (Updated)",
+    "score": 50
+  },
+  {
+    "id": "WoukNZDEJ40",
+    "title": "How to filter searches on the YouTube iOS app",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FxBCf8uyZBs",
+    "title": "How Many Earths Can Fit Into The Sun? | Planet Size Comparison",
+    "score": 10
+  },
+  {
+    "id": "MK5E_7hOi-k",
+    "title": "Universe Size 3D comparison | Solar System | Part 1",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "X40Re7j1WlI",
+    "title": "The Collapse of the Solar Nebula",
+    "score": 10
+  },
+  {
+    "id": "gnFEanFP-7I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wPyD-euEubc",
+    "title": "The REAL Jerusalem 🇮🇱 – What Tourists NEVER See on the News [4K]",
+    "score": 10
+  },
+  {
+    "id": "NZm14dEjom0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CF2YDfQgnVg",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Bridges That Defined Modern Engineering | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "Transforming a Supertanker Into a Giant Facility | Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "LmaPm5_pckU",
+    "title": "Mega Dams \\u0026 Channels",
+    "score": 10
+  },
+  {
+    "id": "HQgGvVOQdYg",
+    "title": "Eurofighter Typhoon – Power \\u0026 Program",
+    "score": 10
+  },
+  {
+    "id": "V5MYhFET9vQ",
+    "title": "2+ Hours Of Engineering Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "bCm6tWIU89Q",
+    "title": "Fast: World's Largest Radio Telescope",
+    "score": 10
+  },
+  {
+    "id": "Unq1etYduBg",
+    "title": "London's Super Sewer",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gxqPbGqYACw",
+    "title": "The Rise and Fall of Julius Caesar",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "7PZlm89lfCA",
+    "title": "Survival Skills: Made Soap Kindling for Survival 🌳 #survival #bushcraft #camping #outdoors",
+    "score": 10
+  },
+  {
+    "id": "xlMmWmRQe-I",
+    "title": "Her Survival skills will Fry 🔪 #camping #survival #bushcraft #outdoors #lifehack",
+    "score": 10
+  },
+  {
+    "id": "-bkiQCQ3W2Y",
+    "title": "The GIRL's skills are AMAZING🔪🎋#camping #survival #bushcraft #outdoors #lifehack",
+    "score": 10
+  },
+  {
+    "id": "KAU_4i4aFy0",
+    "title": "15 Genius Medieval Survival Skills Modern Preppers Have Forgotten",
+    "score": 10
+  },
+  {
+    "id": "8VrgeLeruFo",
+    "title": "✅Wild Survival Skills: Filter Muddy Water 🌿💧 #camping #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "GSxIDoQ5xuM",
+    "title": "... Charcoal the Easy Way – Brilliant \"},{\"text\":\"Survival\",\"bold\":true},{\"text\":\" Hack!",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "Survival Skills: Fire Bomb For Extreme Conditions #survival #camping #lifehacks",
+    "score": 10
+  },
+  {
+    "id": "MY3Z5HMOrok",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How is a car engine assembled",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "How Engines Work - (See Through Engine in Slow Motion) - Smarter Every Day 166",
+    "score": 10
+  },
+  {
+    "id": "xflY5uS-nnw",
+    "title": "INTAKE",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "Pu7g3uIG6Zo",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "L24Wf0VlTE0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "DKF5dKo_r_Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DZt5xU44IfQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1ZKBaRsP1gY",
+    "title": "The Densest City on Earth",
+    "score": 10
+  },
+  {
+    "id": "y9PTNTSpGJs",
+    "title": "Which city's are world Cities?",
+    "score": 10
+  },
+  {
+    "id": "0awS5j1l_2k",
+    "title": "Every Insanely Well Designed Cities Explained in 8 Minutes",
+    "score": 10
+  },
+  {
+    "id": "OBl6n6ECVUA",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "HuMxQzX0uso",
+    "title": "50 Cities That Shouldn’t Exist (But Do)",
+    "score": 10
+  },
+  {
+    "id": "7X8KpxnlKWY",
+    "title": "Titans of Power: How Three Cities Ruled the World",
+    "score": 10
+  },
+  {
+    "id": "DC44yf8acNY",
+    "title": "How Physicists Approximate (Almost) Anything",
+    "score": 10
+  },
+  {
+    "id": "SGUMC19IISY",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "Classical Mechanics",
+    "score": 10
+  },
+  {
+    "id": "ZawOeUSzmY4",
+    "title": "Is There an Ultimate Limit to Brightness?",
+    "score": 10
+  },
+  {
+    "id": "5eyAAp5wG0c",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "The One Principle That Explains All of Physics",
+    "score": 10
+  },
+  {
+    "id": "1J0UkL0zQOs",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "Why Supermassive Black Holes Are Actually Safe",
+    "score": 10
+  },
+  {
+    "id": "XcNsvqEduJ8",
+    "title": "The Man Who Discovered the Laws of Infinity",
+    "score": 10
+  },
+  {
+    "id": "Jfk4_BsNn1g",
+    "title": "What the Higgs Boson Actually Is (No Analogies)",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "But What Actually Is a Particle? How Quantum Fields Shape Reality",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "Physicist Brian Cox explains quantum physics in 22 minutes",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "_TBNJyztai0",
+    "title": "Radical simplicity in physics",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "kGBv_vZFnvw",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "What is the Schrödinger Equation? A basic introduction to Quantum Mechanics",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "jOSgc6rY4wM",
+    "title": "Chapter 1 — What Is Particle Physics? A Map of the Invisible",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "How Did One Equation Predict Antimatter (…and Spin)?",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "lcjdwSY2AzM",
+    "title": "What is symmetry?",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "UrsmFxEIp5k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "R2DU85qLfJQ",
+    "title": "Busy Cities Of The World | BBC Earth Explore | BBC Studios",
+    "score": 10
+  },
+  {
+    "id": "NwTUOTkABIQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "7u0_nrsfxXs",
+    "title": "Why Tokyo Is the Opposite of Every Major City",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "j-okLUwuqn8",
+    "title": "Washing Machines",
+    "score": 10
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Sandwich Cookies- Originally aired 2009",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "6as_1m9YAG0",
+    "title": "Fresh Cut Flowers.",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "qCjH8J76uJQ",
+    "title": "Bandages - Originally aired 2005",
+    "score": 10
+  },
+  {
+    "id": "1uWA6iEz37Q",
+    "title": "Filing Cabinets",
+    "score": 10
+  },
+  {
+    "id": "lE7EGwpJfMg",
+    "title": "Tortilla Chips.",
+    "score": 10
+  },
+  {
+    "id": "4XIOyq67j1w",
+    "title": "USS Ronald Reagan: The World's Biggest Aircraft Carrier",
+    "score": 10
+  },
+  {
+    "id": "RCbZKmtbNwc",
+    "title": "35 Most Beautiful Cities in the World | Travel Video 2024",
+    "score": 10
+  },
+  {
+    "id": "J6MwTuZ4lHk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ThP0LgKpeoM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "pxoq8jEGbBo",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ZCcVtsFSbbs",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "WYBL3EMxt7Y",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "FicDbWkofnI",
+    "title": "Tips to Use Python in Excel",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "f79MRyMsjrQ",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "yE9v9rt6ziw",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gx5qb1uHss4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wUSDVGivd-8",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "L_lJ6lJNt4c",
+    "title": "NEPAL: The Most Impossible Country on Earth",
+    "score": 10
+  },
+  {
+    "id": "S6-QyBYpAOo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "-0MxaZ-_MUY",
+    "title": "25 World Geography Facts That Are Fake (But You Believed Them)",
+    "score": 10
+  },
+  {
+    "id": "OndXawgRAeo",
+    "title": "How The Most Isolated Towns Actually Work",
+    "score": 10
+  },
+  {
+    "id": "jWrEsPjZ8LY",
+    "title": "CITADEL Mountain Outpost | Relaxing Sci-Fi Ambience for Focus \\u0026 Sleep 4K",
+    "score": 10
+  },
+  {
+    "id": "2Z3zQAPp7CY",
+    "title": "MAGA Star Nicki Minaj Attends 'Melania' Film Premiere in D.C. | TMZ",
+    "score": 10
+  },
+  {
+    "id": "pOCYRy2JY6E",
+    "title": "MAGA Star Nicki Minaj Attends 'Melania' Film Premiere in D.C.",
+    "score": 10
+  },
+  {
+    "id": "IhAXXY4SqW0",
+    "title": "Nicki Minaj on support of Donald Trump at Trump Account summit: 'Hate ... does not affect me at all'",
+    "score": 10
+  },
+  {
+    "id": "MsP4KJGYV8I",
+    "title": "‼️Nicki Minaj STUNS at the PREMIERE of Melania! Cardi B called a BIRD by Shannon Sharpe, Amber Rose",
+    "score": 10
+  },
+  {
+    "id": "zXYmiB-hhX0",
+    "title": "The Odds: Will \\\"Melania\\\" be a blockbuster hit?",
+    "score": 10
+  },
+  {
+    "id": "uYqU5C--HBg",
+    "title": "Critical Flop Melania Doc Premieres at Kennedy Center | The Tonight Show Starring Jimmy Fallon",
+    "score": 10
+  },
+  {
+    "id": "BKENoSIweJk",
+    "title": "First Lady calls Trump ‘America’s director’ during world premiere of ‘Melania’",
+    "score": 10
+  },
+  {
+    "id": "tqrZHhL3z6A",
+    "title": "How Nicki Minaj went from Trump critic to fan",
+    "score": 10
+  },
+  {
+    "id": "VfFOgai3L90",
+    "title": "King Charles, Melania Trump \\u0026 Nicki Minaj — What’s Really Going On?",
+    "score": 10
+  },
+  {
+    "id": "2EEORbSkbWA",
+    "title": "Here's all the celebrities and political figures that stepped out for 'Melania'",
+    "score": 10
+  },
+  {
+    "id": "U6CRgzTswks",
+    "title": "Melania the \\\"Trophy Wife,\\\" Nicki’s MAGA Turn, and Black Prestige Media With Ashley Allison",
+    "score": 10
+  },
+  {
+    "id": "rpcPf74dbGY",
+    "title": "Black Panther Party",
+    "score": 10
+  },
+  {
+    "id": "uJBL7kuzvsg",
+    "title": "Nicki Minaj LAUGHS at Melania Trumps movie premiere 🦄",
+    "score": 10
+  },
+  {
+    "id": "5siZR0wcTL8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JkaxUblCGz0",
+    "title": "UNSEEN WONDERS | Hidden Places Even Locals Can’t Believe Exist | Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "yUQ3dyzYUis",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "hc65W5V5jJQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "0wqgFiyDpq4",
+    "title": "I Investigated \\\"Murder City\\\" - Death, Drugs, \\u0026 Serial Killers",
+    "score": 10
+  },
+  {
+    "id": "gvdUMD0h_Ic",
+    "title": "The City of the Dead - 1960 (Patricia Jessel, Dennis Lotis, Christopher Lee) Full Movie - 4K Colour",
+    "score": 10
+  },
+  {
+    "id": "_Qidur-bVBU",
+    "title": "6arelyhuman \\u0026 Syris - Death City (AMV)",
+    "score": 10
+  },
+  {
+    "id": "v3W_BgPA2no",
+    "title": "The Walking Dead: Dead City Season 2 First Scene | Premieres May 4 on AMC \\u0026 AMC+",
+    "score": 10
+  },
+  {
+    "id": "ewSY2KWW9t4",
+    "title": "Scheduled Execution (02/12/26): Kendrick Simpson – Oklahoma Death Row – Murders in Oklahoma City",
+    "score": 10
+  },
+  {
+    "id": "s1xjv2iCQUc",
+    "title": "Dead City Season 3 Set Leak Reveals Huge Returning Character! - The Walking Dead",
+    "score": 10
+  },
+  {
+    "id": "cHnCfS25PjE",
+    "title": "The Walking Dead | Dead City | Season 2 Tease",
+    "score": 10
+  },
+  {
+    "id": "9z7iqJnzUVc",
+    "title": "6arelyhuman - Death City + Syris",
+    "score": 10
+  },
+  {
+    "id": "mi_YbanOvks",
+    "title": "The Walking Dead: Dead City RECAP: Season 1",
+    "score": 10
+  },
+  {
+    "id": "mrY5o-tpVuk",
+    "title": "The Walking Dead: Dead City Season 1 Recap - Everything You Need to Know!",
+    "score": 10
+  },
+  {
+    "id": "5BrxH3wAFT4",
+    "title": "Lil Boom - Death City",
+    "score": 10
+  },
+  {
+    "id": "Lyh8C1NB6PI",
+    "title": "The Walking Dead: Dead City S02 E01 'First Scene' Sneak Peek",
+    "score": 10
+  },
+  {
+    "id": "IoE9CI2hlTU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "S2-AJluX5mc",
+    "title": "TOP 50 • Most Beautiful COUNTRIES in the World 8K ULTRA HD - Travel Tips \\u0026 Tourist Places",
+    "score": 10
+  },
+  {
+    "id": "BGu7vGxL36w",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "5uDIOUN3gVE",
+    "title": "Teen Titans Go😍| Jam to Save Jump City!😎| Best Cartoon 😍| Cartoon in English | @cnindia",
+    "score": 10
+  },
+  {
+    "id": "Tfh4QWnXW30",
+    "title": "Robert Saleh's BIGGEST AREAS To Improve As Titans Head Coach | MCA Titans Podcast",
+    "score": 10
+  },
+  {
+    "id": "hAVrdg_f8mM",
+    "title": "Robert Saleh Talk",
+    "score": 10
+  },
+  {
+    "id": "2QZTrKE8UuI",
+    "title": "The BEST Robert Saleh Quotes from Titans Introductory Presser",
+    "score": 10
+  },
+  {
+    "id": "U6_mtG8rWkQ",
+    "title": "How the Titans Can QUICKLY COMPETE in 2026 (with Mike Herndon) | MCA Titans Podcast",
+    "score": 10
+  },
+  {
+    "id": "Lv7aUVuGwwc",
+    "title": "How the Titans can turn things around in 2026?",
+    "score": 10
+  },
+  {
+    "id": "Iat8n_z5bkI",
+    "title": "Titans Hire Robert Saleh",
+    "score": 10
+  },
+  {
+    "id": "t76zklFCD0s",
+    "title": "Proof the Tennessee Titans are Changing Their Logo in 2026 (Leaks \\u0026 Filings) | NFL Football",
+    "score": 10
+  },
+  {
+    "id": "c-Kstz1p-SQ",
+    "title": "Cartoon Network City - Teen Titans Bumpers (HD)",
+    "score": 10
+  },
+  {
+    "id": "wDwAvzqG9v0",
+    "title": "Fallout Season 2 - Mr. House activation scene",
+    "score": 10
+  },
+  {
+    "id": "38PFwd8du1w",
+    "title": "GIANT T-REX DESTROYS CASTLE! (Teardown)",
+    "score": 10
+  },
+  {
+    "id": "Kntk6I8sbJQ",
+    "title": "MICHAEL MYERS IS AFTER ME in Teardown!",
+    "score": 10
+  },
+  {
+    "id": "L1tMeJ2gA0w",
+    "title": "JP Performance - Jetzt sind wir Teil der Elite! Für meine Yacht auf die BOOT!",
+    "score": 10
+  },
+  {
+    "id": "wk57yJUNSpU",
+    "title": "Adam Schefter's top stories",
+    "score": 10
+  },
+  {
+    "id": "YvRUYj2ocbk",
+    "title": "NFL Uniform and Helmet Rumors 2026",
+    "score": 10
+  },
+  {
+    "id": "WxGCIx6lKdw",
+    "title": "Robert Saleh FAST \\u0026 VIOLENT Tennessee Titans Plan, Daboll's Staff is Complete \\u0026 This Ain't Callahan",
+    "score": 10
+  },
+  {
+    "id": "0k-yYTATd1Q",
+    "title": "REALISTIC AMONG US DESTRUCTION! (Teardown)",
+    "score": 10
+  },
+  {
+    "id": "kpq0nfXWPjI",
+    "title": "Titans Must Go ALL IN on John Harbaugh + SHOCKING Interview Request | MCA Titans Podcast",
+    "score": 10
+  },
+  {
+    "id": "ESGK6q6chdQ",
+    "title": "Wednesday Titans News!",
+    "score": 10
+  },
+  {
+    "id": "0BpN2WJtAI0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sXn4EYOwWfs",
+    "title": "Razihel \\u0026 Aero Chord - Titans",
+    "score": 10
+  },
+  {
+    "id": "tWMjC2T-D4k",
+    "title": "Robert Saleh's Ideal OC Is PERFECT FIT for Cam Ward \\u0026 Titans | MCA Titans Podcast",
+    "score": 10
+  },
+  {
+    "id": "17KwyLGuqZA",
+    "title": "RIP McDaniel Watch",
+    "score": 10
+  },
+  {
+    "id": "pFoty21X370",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7RI6pNQOfak",
+    "title": "Searching for A Player Who Doesn't Exist",
+    "score": 10
+  },
+  {
+    "id": "rtxAq4VcxVU",
+    "title": "Laws That Exist Because of One Terrible Incident",
+    "score": 10
+  },
+  {
+    "id": "P0umt5GLldI",
+    "title": "Weird Laws That Exist Because of  One Strange  Court Case",
+    "score": 10
+  },
+  {
+    "id": "ISxunyrjbr4",
+    "title": "Tomatoes Are Vegetables.",
+    "score": 10
+  },
+  {
+    "id": "s1m_yhi9oqA",
+    "title": "Square watermelons",
+    "score": 10
+  },
+  {
+    "id": "5nYSEE6Zmhk",
+    "title": "Searching For A World That Doesn’t Exist",
+    "score": 10
+  },
+  {
+    "id": "z5QLbnuSoTI",
+    "title": "10 Mythical Creatures That Exist In the Wild",
+    "score": 10
+  },
+  {
+    "id": "hx940pqI49o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RMnR-zjtArg",
+    "title": "Unbelievable Photos You Won't Believe Exist!",
+    "score": 10
+  },
+  {
+    "id": "7nwG_1ScGoo",
+    "title": "10 Most BIZARRE CULTS that Exist RIGHT NOW!",
+    "score": 10
+  },
+  {
+    "id": "Y5xoKgpzrsY",
+    "title": "10 MOST BIZARRE CULTS EXIST RIGHT",
+    "score": 10
+  },
+  {
+    "id": "6N_E8j7xC3o",
+    "title": "Real Life Pokemon-Like Creatures That Exist In The World",
+    "score": 10
+  },
+  {
+    "id": "OxSZBk7D0hU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ExMWdyO-aCE",
+    "title": "Do Not Lift Mower to Trim Hedges",
+    "score": 10
+  },
+  {
+    "id": "uXkOPvi6Wns",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zq-JBC3wWbw",
+    "title": "Mastering Ultra Running | Tips From The Best Ultramarathoner In The World",
+    "score": 10
+  },
+  {
+    "id": "qXOKb6muhRs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2vawHfiy-gE",
+    "title": "LOW LIGHT MODE",
+    "score": 10
+  },
+  {
+    "id": "3zH5gLJFl0s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7kqvE63fnE4",
+    "title": "Unboxing",
+    "score": 10
+  },
+  {
+    "id": "MyfvF5t7WtA",
+    "title": "Hello",
+    "score": 10
+  },
+  {
+    "id": "vXi9vGTEF94",
+    "title": "Intro \\u0026 My Experience",
+    "score": 10
+  },
+  {
+    "id": "5Vq-aYReot0",
+    "title": "Galaxy Watch Ultra | TIPS TRICKS \\u0026 HIDDEN FEATURES!!!",
+    "score": 10
+  },
+  {
+    "id": "bG_Bdony0uI",
+    "title": "Double Pinch Gesture",
+    "score": 10
+  },
+  {
+    "id": "c2GVX8xZLBw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Rihz9i5RqnE",
+    "title": "盧比奧點名張又俠 美緊盯軍方異動 中南海現裂縫",
+    "score": 10
+  },
+  {
+    "id": "2SX9ROnQQJs",
+    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj \\u0026 Government Shutdown Looms",
+    "score": 10
+  },
+  {
+    "id": "3kRydCCrte4",
+    "title": "FLU A: Even Dr. Drew Got Wrecked By \\\"Unnatural\\\" Super Flu Attacking USA w/ Naomi Wolf – Ask Dr. Drew",
+    "score": 10
+  },
+  {
+    "id": "xdmbE8gfJXY",
+    "title": "Why all the e-bike startups went bankrupt",
+    "score": 10
+  },
+  {
+    "id": "19gTziaB6SA",
+    "title": "Nobody believes it, but it really works! 15 kitchen hacks you'll use every day!",
+    "score": 10
+  },
+  {
+    "id": "YBJkD84--BI",
+    "title": "Start ▶️",
+    "score": 10
+  },
+  {
+    "id": "FbIZS-n4OT4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "r2S8JUs0cOc",
+    "title": "Keep Track of Your Aid Station Time",
+    "score": 10
+  },
+  {
+    "id": "QsEpcP8ulGw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xG1ZkFhNsI4",
+    "title": "1. S Pen Auto-Straighten Trick",
+    "score": 10
+  },
+  {
+    "id": "D-dVXJejl24",
+    "title": "Finger print edge lighting",
+    "score": 10
+  },
+  {
+    "id": "2z4kmas8ztM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "emrLEDH52e0",
+    "title": "S24 Ultra Alarm Animated Backgrounds",
+    "score": 10
+  },
+  {
+    "id": "3F4ZClJck80",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Uk2Ayv-z0EE",
+    "title": "LH4L, Billion Dollars - Neoprene (Skrillex Remix) (ULTRA INTRO)",
+    "score": 10
+  },
+  {
+    "id": "ni2pGkTPLDo",
+    "title": "Skrillex - ULTRA INTRO",
+    "score": 10
+  },
+  {
+    "id": "CW3ihbNBlFA",
+    "title": "Toronto Ultra 2024 Introduction (Opening Weekend)",
+    "score": 10
+  },
+  {
+    "id": "V2VmcuOEqEg",
+    "title": "Toronto Ultra 2025 Introduction (Opening Weekend)",
+    "score": 10
+  },
+  {
+    "id": "0m_Z2BocGa4",
+    "title": "Toronto Ultra CDL 2023 Introduction (Ultra Major 5)",
+    "score": 10
+  },
+  {
+    "id": "WVJO0CW5D8I",
+    "title": "Skrillex \\u0026 Nitepunk - POOSHA (Miami 2025 Intro) [Skrillex @ Ultra Miami 2025]",
+    "score": 10
+  },
+  {
+    "id": "xso9X1auass",
+    "title": "ALL ULTRA INTRO ANIMATIONS ( Updated January 2026 ) Dragon Ball Legends",
+    "score": 10
+  },
+  {
+    "id": "o2TZRAJVEjY",
+    "title": "Toronto Ultra CDL 2022 Team Introduction (Opening Weekend)",
+    "score": 10
+  },
+  {
+    "id": "3XqmzwAwUMU",
+    "title": "ULTRA MIAMI 2025 - INTO HYPERSPACE (Official Aftermovie)",
+    "score": 10
+  },
+  {
+    "id": "5eDxz3cLyHw",
+    "title": "Ultra Music Festival - 2016 Official Intro",
+    "score": 10
+  },
+  {
+    "id": "IzChEeXVKbE",
+    "title": "Ultra hype intro",
+    "score": 10
+  },
+  {
+    "id": "mIhqpUfJ7uM",
+    "title": "Toronto Ultra CDL 2022 Cod Champs Team Introduction (Championship Weekend)",
+    "score": 10
+  },
+  {
+    "id": "WxctIwSTaCc",
+    "title": "Hardwell EPIC Intro @ Ultra Music Festival Miami 2023",
+    "score": 10
+  },
+  {
+    "id": "16lunKpuQ1Y",
+    "title": "Skrillex \\u0026 LH4L - ULTRA INTRO",
+    "score": 10
+  },
+  {
+    "id": "bHQfSi99q7M",
+    "title": "OpTic Texas 2025 Introduction (CDL Championship Weekend Hosted By Toronto Ultra)",
+    "score": 10
+  },
+  {
+    "id": "bKWGfaGd180",
+    "title": "Kirby Super Star Ultra Intro",
+    "score": 10
+  },
+  {
+    "id": "rKIwu76Nn8M",
+    "title": "the xx -  intro - Incredibly Ultra Slowed + Ultra Reverb + echoed effect (Best Version)",
+    "score": 10
+  },
+  {
+    "id": "REPvnBcTg4I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ofcmid_L2fY",
+    "title": "All Aboard: Golden Century and Fire Legend.",
+    "score": 10
+  },
+  {
+    "id": "ugU8DMwK4pw",
+    "title": "I Was Not Ready For This MEGA JACKPOT on Golden Century Dragon Link Slot",
+    "score": 10
+  },
+  {
+    "id": "OdHWhwS2rqY",
+    "title": "What a Awesome day on Golden Century #casino #slot #gambling #subscribe",
+    "score": 10
+  },
+  {
+    "id": "Q0iznCV1Csg",
+    "title": "Golden Age",
+    "score": 10
+  },
+  {
+    "id": "jKY-gAkSwOM",
+    "title": "Omg Look At That Unbelievable Screen! High Limit Golden Century Slot Machine",
+    "score": 10
+  },
+  {
+    "id": "3liAN2kBJck",
+    "title": "Initial D - Golden Age (HD)",
+    "score": 10
+  },
+  {
+    "id": "nVsGw3h6A_4",
+    "title": "Dragon Link Slot Machine 🐲🔗🎰| Golden Century Casino Session 🏯 :: Happy Halloween! 🎃::",
+    "score": 10
+  },
+  {
+    "id": "82p9fA-JSdE",
+    "title": "Golden Century $5000 Session - Broken Button Edition!  Up to $50, Max Bet Spins!",
+    "score": 10
+  },
+  {
+    "id": "91pnsTsfgmI",
+    "title": "TOTALLY EPIC JACKPOT! I Turned $300 into Thousands! Dragon Link Golden Century",
+    "score": 10
+  },
+  {
+    "id": "pnuhKbjrhfg",
+    "title": "High Limit VS Low Limit Battle: Golden Century Slot Machine",
+    "score": 10
+  },
+  {
+    "id": "AoeYJhhdENI",
+    "title": "Dragon Link Golden Century Slot Machine Bonuses $10 bet #slotmachine #lasvegas #casino",
+    "score": 10
+  },
+  {
+    "id": "_w95xqdjQfo",
+    "title": "Dragon Link Golden Century Intro",
+    "score": 10
+  },
+  {
+    "id": "y8c8lEdPW8Y",
+    "title": "BIG JACKPOT ON THE 3RD SPIN! Golden Century ~ Dragon Link up to $125 BETS  Casino Slot Play HANDPAY!",
+    "score": 10
+  },
+  {
+    "id": "RBi_BeG48gY",
+    "title": "Golden Century  bonus 50cent denom 12.50$ bet",
+    "score": 10
+  },
+  {
+    "id": "t382xY9elXU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0iKObc8sCMg",
+    "title": "Welcome to the Europe ",
+    "score": 10
+  },
+  {
+    "id": "TFZvsHsgVN4",
+    "title": "Welcome to Europa",
+    "score": 10
+  },
+  {
+    "id": "nb-GSax0Vj8",
+    "title": "\\\"L'amour toujours\\\" || Nationalist Hymn of Europe",
+    "score": 10
+  },
+  {
+    "id": "IwcIdaLzbgA",
+    "title": "Welcome To Europe",
+    "score": 10
+  },
+  {
+    "id": "JrgS8Irbgag",
+    "title": "Squarepusher - Welcome to Europe",
+    "score": 10
+  },
+  {
+    "id": "eAFWMIgLIgs",
+    "title": "My Life Is Transforming In Europe @ HITWAY",
+    "score": 10
+  },
+  {
+    "id": "ZeiIfDv6ZBU",
+    "title": "Трамп уговорил путина? Демократы выиграли Миннесоту. Куба в блокаде.",
+    "score": 10
+  },
+  {
+    "id": "6CvjKBwfQEk",
+    "title": "Трамп остановил обстрелы Киева?",
+    "score": 10
+  },
+  {
+    "id": "XDq6pREisMk",
+    "title": "Edicioni Informativ, 30 Janar 2026, Ora 12:00 - Top Channel Albania - News - Lajme",
+    "score": 10
+  },
+  {
+    "id": "RaJ4mmHr2kI",
+    "title": "SERIOUS WARNING ⚠️ Murimi Threatens Father \\u0026Anesto Chaos Unfolds!congratulations@davyjnr3009",
+    "score": 10
+  },
+  {
+    "id": "B47fu4jPe9M",
+    "title": "Trump's New Ukraine Peace Plan Explained",
+    "score": 10
+  },
+  {
+    "id": "5PyhZrWh62A",
+    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj \\u0026 Government Shutdown Looms",
+    "score": 10
+  },
+  {
+    "id": "GCtIkkQ62oI",
+    "title": "'China is welcome': Macron calls for more Chinese investment in Europe's key sectors",
+    "score": 10
+  },
+  {
+    "id": "ZMJqIohjPYs",
+    "title": "This is Europa  The European Civilization",
+    "score": 10
+  },
+  {
+    "id": "QOiSAtskrkg",
+    "title": "Europe - The Final Countdown (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "-l1Wf3ldPfQ",
+    "title": "Are Americans Still Welcome in Europe?",
+    "score": 10
+  },
+  {
+    "id": "_JL5ZkKoHIY",
+    "title": "Are Americans Welcome in Europe Now? (Updates for Spain, France, Portugal, Italy, Poland, etc)",
+    "score": 10
+  },
+  {
+    "id": "4uhhFSVwSek",
+    "title": "Meet the Europe || 3D Countryballs",
+    "score": 10
+  },
+  {
+    "id": "7DbkZSvNalQ",
+    "title": "Joost Klein - Europapa (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "L_tWbrvd3E0",
+    "title": "Why India–EU Trade Deal Talks Matter Now: What You Can Expect From Modi-EU Meet",
+    "score": 10
+  },
+  {
+    "id": "Op4kKppxN2Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "km6sdtqn5dA",
+    "title": "Try Guys' Keith Habersberger Eats His Last Meal",
+    "score": 10
+  },
+  {
+    "id": "rX5WCm0_flI",
+    "title": "Rainn Wilson Eats His Last Meal",
+    "score": 10
+  },
+  {
+    "id": "GI9314kbYKw",
+    "title": "Rainn's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "spwFlJDlK1M",
+    "title": "Vic's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "DUsUx-Hhiyo",
+    "title": "Terry's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "ENhfIeZF_AY",
+    "title": "Gordon's Last Meal Menu",
+    "score": 10
+  },
+  {
+    "id": "CLVdWyNljP8",
+    "title": "Brennan's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "3JLmNRBi5GU",
+    "title": "Macaulay's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "wGSOMKSRjkc",
+    "title": "Critical Role's Matthew Mercer Eats His Last Meal",
+    "score": 10
+  },
+  {
+    "id": "_0ZAIHERgFc",
+    "title": "Matthew's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "xxSyov0Hjz8",
+    "title": "Kathryn Hahn Eats Her Last Meal",
+    "score": 10
+  },
+  {
+    "id": "AuH68t1gLw4",
+    "title": "Kathryn's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "UxiZUsNMQaA",
+    "title": "Finn's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "1PdM23qlYxU",
+    "title": "Hank's Last Meal Menu",
+    "score": 10
+  },
+  {
+    "id": "iL7lW-jOI_M",
+    "title": "Caleb's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "ZgLs4fDr8aI",
+    "title": "Sean's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "8hrgGfOf49g",
+    "title": "Matty's Last Meal",
+    "score": 10
+  },
+  {
+    "id": "utLTBxyUqIo",
+    "title": "The Most Organized City in the World",
+    "score": 10
+  },
+  {
+    "id": "B57LWDDLke8",
+    "title": "Scheduled Execution (02/12/26): Kendrick Simpson – Oklahoma Death Row – Murders in Oklahoma City",
+    "score": 10
+  },
+  {
+    "id": "S_7VwD-2ZWY",
+    "title": "I Own the City | Schedule 1",
+    "score": 10
+  },
+  {
+    "id": "H4wLdt346Os",
+    "title": "Sioux City’s Mardi Gras Parade scheduled for the first week of July",
+    "score": 10
+  },
+  {
+    "id": "kLDQccF7-1A",
+    "title": "City of Columbus trash collection to run as scheduled Monday after winter storm",
+    "score": 10
+  },
+  {
+    "id": "PnJAAEk0Oco",
+    "title": "South Bend’s new city hall scheduled to open next month",
+    "score": 10
+  },
+  {
+    "id": "oQrT3NHsl1o",
+    "title": "Several Road Closures Saturday In Center City Due To Scheduled Protest",
+    "score": 10
+  },
+  {
+    "id": "mqccCDHtCYA",
+    "title": "PRAYER RAIN SERVICE AT PRAYER CITY  30-01-2026",
+    "score": 10
+  },
+  {
+    "id": "GDWlohvZVMo",
+    "title": "2025-26 Kansas City Chiefs Schedule: Dates, Times, Opponents \\u0026 TV Info",
+    "score": 10
+  },
+  {
+    "id": "auC4869X9L0",
+    "title": "Hidden Cities Built Underground? (S4, E2) | Cities of the Underworld | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "wxpk9KcEpzY",
+    "title": "SCHEDULED CITY #ai #aiart #aivideo #creative",
+    "score": 10
+  },
+  {
+    "id": "_ggmw53oetU",
+    "title": "View of McDonald's in Ocean City scheduled to be demolished",
+    "score": 10
+  },
+  {
+    "id": "yvLaxrX0XPo",
+    "title": "AUTO SCHEDULE IS HERE!! in City Bus Manager School #13",
+    "score": 10
+  },
+  {
+    "id": "NhDKLz8guZk",
+    "title": "City View Road in Westfield scheduled to reopen after culvert project",
+    "score": 10
+  },
+  {
+    "id": "56swrkAlf6M",
+    "title": "MINNEAPOLIS LATEST: Tom Homan in the city to oversee immigration operations",
+    "score": 10
+  },
+  {
+    "id": "MFrstZh8blM",
+    "title": "NYC Mayor Zohran Mamdani gives update on major winter storm | Full press conference",
+    "score": 10
+  },
+  {
+    "id": "bsEhGubQNio",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XhbXDH7dwhw",
+    "title": "DEAD KANSAS - I Found 5 Towns Devoid Of Life",
+    "score": 10
+  },
+  {
+    "id": "Svy_uZEvxII",
+    "title": "The Exploited - Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "L9JNsZhKa-o",
+    "title": "The Exploited - Punk's Not Dead",
+    "score": 10
+  },
+  {
+    "id": "FZLBmqFiGjY",
+    "title": "The Exploited - Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "AMZCgoA3s2s",
+    "title": "The Exploited - Punks Not Dead 1981",
+    "score": 10
+  },
+  {
+    "id": "lUU5B1uE1Ps",
+    "title": "V.A. Punk's not Dead (A Tribute to The Exploited 1999)",
+    "score": 10
+  },
+  {
+    "id": "OnaQ7prp3EI",
+    "title": "THE EXPLOITED - \\\"Jesus Is Dead\\\" (EP, 1986)",
+    "score": 10
+  },
+  {
+    "id": "TIK0g4kM38M",
+    "title": "drug squad man",
+    "score": 10
+  },
+  {
+    "id": "1VvPrXKYj_Y",
+    "title": "The Exploited @ Lee's Palace - Toronto Canada - Friday September 13th 2024",
+    "score": 10
+  },
+  {
+    "id": "tu_fR7_mT4o",
+    "title": "Interview with Wattie Buchan of The Exploited",
+    "score": 10
+  },
+  {
+    "id": "MzZR94bI34s",
+    "title": "Exploited \\\"The Massacre\\\"",
+    "score": 10
+  },
+  {
+    "id": "jJkE1LgZTKg",
+    "title": "The Exploited - 25 Years Of Anarchy And Chaos part 1",
+    "score": 10
+  },
+  {
+    "id": "SL4snOETi00",
+    "title": "Exploited - Dead Cities (TOTP)",
+    "score": 10
+  },
+  {
+    "id": "OEvh3BRvSRU",
+    "title": "Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "nvB07s7s3fo",
+    "title": "Exploited - Dead Cities - TOTP 1981",
+    "score": 10
+  },
+  {
+    "id": "wps8QIzdsW4",
+    "title": "Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "B-QKrGtGLe0",
+    "title": "The Exploited - 01 War now",
+    "score": 10
+  },
+  {
+    "id": "5hFSeNCQQ58",
+    "title": "The Exploited - Army Life (EP 1980)",
+    "score": 10
+  },
+  {
+    "id": "GZoELy_VVco",
+    "title": "The Exploited-Law for the Rich",
+    "score": 10
+  },
+  {
+    "id": "pN6mRC5dA78",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "a-8XiE7W7u4",
+    "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, in 4k \\\"Dreams of Italy\\\" by Tim Janis",
+    "score": 10
+  },
+  {
+    "id": "3YTohytF9oE",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "n-J5UN2cAgs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "WZFIo4yj17c",
+    "title": "Relaxing Piano Music \\u0026 Rain Sounds for Deep Sleep, Stress Relief and Anxiety, Meditation, Calming",
+    "score": 10
+  },
+  {
+    "id": "RvQ28Cc393c",
+    "title": "The Beauty Of Earth",
+    "score": 10
+  },
+  {
+    "id": "Cl_kXbhTi8k",
+    "title": "The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) |",
+    "score": 10
+  },
+  {
+    "id": "UYmvFzDuO5k",
+    "title": "Canada (4K UHD) Amazing Beautiful Nature Scenery - Travel Nature | 4K Planet Earth",
+    "score": 10
+  },
+  {
+    "id": "05MF_6XN374",
+    "title": "UNREAL WONDERS OF PLANET | The Most Beautiful Places to Visit in The World |Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "BIPxAeECjjw",
+    "title": "INTRO | wonders of planet",
+    "score": 10
+  },
+  {
+    "id": "gJntKcGKsB4",
+    "title": "UNREAL PLACES - The Most Unbelievable Wonders of Planet Earth",
+    "score": 10
+  },
+  {
+    "id": "-IkEMMKSqcw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Hzt6s0F_l_I",
+    "title": "BEAUTIFUL PLANET | The most beautiful places on Earth",
+    "score": 10
+  },
+  {
+    "id": "ExJf59ankJo",
+    "title": "3 Hour 4K Amazing Aerial Views of the Earth with Relaxation Music",
+    "score": 10
+  },
+  {
+    "id": "ofUOATVjKF0",
+    "title": "WONDERS OF PLANET - Top 50 Most Breathtaking Destinations on Earth (4K Video)",
+    "score": 10
+  },
+  {
+    "id": "vj9XngP5MWY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YFhwEJosUsU",
+    "title": "Intro 8K ULTRA HD",
+    "score": 10
+  },
+  {
+    "id": "653re_34MbM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wZikosrIKEg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YQZX0ams8dc",
+    "title": "Hollywood Undead - City [Lyrics]",
+    "score": 10
+  },
+  {
+    "id": "OxWO0Cni0YU",
+    "title": "Alkaline - City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "9rwpu2PPb6E",
+    "title": "In The City - Joe Walsh - w/lyrics",
+    "score": 10
+  },
+  {
+    "id": "SMLGS_EVUR0",
+    "title": "Sam Fischer - This City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "z4_lzaMdLo8",
+    "title": "PARTYNEXTDOOR -  Belong To The City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "hTzeekwk8FA",
+    "title": "Shanti Dope - City Girl (Lyrics) | 24Vibes",
+    "score": 10
+  },
+  {
+    "id": "BHKPN0ymY7A",
+    "title": "Starship - We Built This City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "JW1kfoXtxzY",
+    "title": "Sam Fischer - This City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "t6lNILFU8Pg",
+    "title": "Shanti Dope - City Girl (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "5nW_7byeCt4",
+    "title": "City of New Orleans (Willie Nelson) w/ lyrics",
+    "score": 10
+  },
+  {
+    "id": "aHWNcTYbcPU",
+    "title": "Sam Fischer - This City (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "p2KyJLxzirc",
+    "title": "Charli XCX - In The City (feat. Sam Smith) | Lyrics",
+    "score": 10
+  },
+  {
+    "id": "Pd_i2yuthBc",
+    "title": "City on the Hill -Casting Crowns (With Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "XJ5R08xDC6c",
+    "title": "Chris Brown - In The City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "xqpkRKHo7_Q",
+    "title": "Have My Heart (feat. Chandler Moore \\u0026 Chris Brown) | Maverick City Music | TRIBL",
+    "score": 10
+  },
+  {
+    "id": "cEFGr1S8SkA",
+    "title": "Chris Brown, Young Thug - City Girls (Audio)",
+    "score": 10
+  },
+  {
+    "id": "QBgl4rVz3Ks",
+    "title": "Eurielle - City of The Dead (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "lbUM0HpxdBI",
+    "title": "Team - Lorde (Lyrics) 🎵",
+    "score": 10
+  },
+  {
+    "id": "YQxK8OmNbWE",
+    "title": "Bruce Springsteen - Streets Of Minneapolis (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "GDaPdpwA4Iw",
+    "title": "YNW Melly - City Girls (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "Ihxl1r3S9hM",
+    "title": "The Lumineers - Life In The City (Lyrics / Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "0oFXWvXrJg4",
+    "title": "24KGoldn - City Of Angels (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "-x8kDmnk2x4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6jrjkofvTgs",
+    "title": "CITY RAIN • 10H Rain, Traffic Noise, Busy Cafe Chatter",
+    "score": 10
+  },
+  {
+    "id": "AW5wEdh9wfU",
+    "title": "Part 1: Cars and City Traffic",
+    "score": 10
+  },
+  {
+    "id": "xY0GEpbWreY",
+    "title": "Busy Cities Of The World | BBC Earth Explore | BBC Studios",
+    "score": 10
+  },
+  {
+    "id": "V80gUbDBIkY",
+    "title": "London's City Ambience: ASMR Traffic Soundscape \\u0026 4K HDR Video - City Sounds \\u0026 Car Sounds Effect!",
+    "score": 10
+  },
+  {
+    "id": "sXJLT3kYdhk",
+    "title": "CITY SOUNDS: Busy Bar in the Evening/Night - 2 HOURS of Ambiance for Relaxation",
+    "score": 10
+  },
+  {
+    "id": "ZSrVznkaMEM",
+    "title": "Busy Saturday In New York City 4k Walk",
+    "score": 10
+  },
+  {
+    "id": "oyUpv38WeYk",
+    "title": "A Powerful Winter Storm Is Rapidly Developing...",
+    "score": 10
+  },
+  {
+    "id": "mV0j1AOtzdQ",
+    "title": "🇵🇭 What was I thinking?? This place is not what I expected",
+    "score": 10
+  },
+  {
+    "id": "7kFDSnWTpMo",
+    "title": "24 January 2026 ☀️ | Paris City Center 2026 | Downtown 4K Paris Walk with Captions",
+    "score": 10
+  },
+  {
+    "id": "PwWVEa7vGuU",
+    "title": "New York City Ambience Sounds | 10 Hours (City Sounds, Traffic, Sound Effects, Times Square) 4k",
+    "score": 10
+  },
+  {
+    "id": "eZe4Q_58UTU",
+    "title": "Elon Musk’s Insane Plan You Need to Know Immediately",
+    "score": 10
+  },
+  {
+    "id": "jUgG4uXp3-M",
+    "title": "UNSEEN WONDERS | Hidden Places Even Locals Can’t Believe Exist | Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "EHNdBT08eVQ",
+    "title": "Cars, Busy Streets, City Traffic - No Copyright Royalty Free Stock Videos",
+    "score": 10
+  },
+  {
+    "id": "LfnTZLage8g",
+    "title": "New York Street Ambience 4k Video - City Sounds, Traffic, Sound Effects, 5th Avenue",
+    "score": 10
+  },
+  {
+    "id": "BAw342Xqxhs",
+    "title": "BUSY CITY SOUND: DESENSITIZATION TO CITY SOUNDS FOR CANINE",
+    "score": 10
+  },
+  {
+    "id": "xydA77EyqJA",
+    "title": "New Delhi, Paharganj - Walking EXTREMLY BUSY Streets | India Walking Tour 4K HDR",
+    "score": 10
+  },
+  {
+    "id": "-Xlzej8RTTU",
+    "title": "The 10 Most Traffic Congested Cities of the World",
+    "score": 10
+  },
+  {
+    "id": "M9S-NtkLPkA",
+    "title": "THE MOST TRAFFIC CONGESTED CITIES",
+    "score": 10
+  },
+  {
+    "id": "-BSe3y0SsYQ",
+    "title": "First Impressions Of Bangkok Thailand (Day #1)",
+    "score": 10
+  },
+  {
+    "id": "TgEMG_lYHkg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lE6RYpe9IT0",
+    "title": "Relaxing Music with Nature Sounds - Waterfall HD",
+    "score": 10
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "Cute Baby Animals 🐻 4K - Relaxation Film with Peaceful Relaxing Music and Animals Video Ultra HD",
+    "score": 10
+  },
+  {
+    "id": "RhOwyHWGqWg",
+    "title": "Alaska 4K Amazing Nature Film - Peaceful Piano Music - Travel Nature",
+    "score": 10
+  },
+  {
+    "id": "vyJgNw6CYgE",
+    "title": "Deep Healing Music, Underwater Relaxation Music, Instant Relief from Stress and Anxiety, Calm Nature",
+    "score": 10
+  },
+  {
+    "id": "vNeRn90QjyA",
+    "title": "Beautiful Relaxing Music, Peaceful Soothing music \\\"September Autumn Leaves\\\" in 4k by Tim Janis",
+    "score": 10
+  },
+  {
+    "id": "rpWwqFugjmo",
+    "title": "Sunny Mornings: Beautiful Relaxing Music with Piano, Guitar \\u0026 Bird Sounds by Peder B. Helland",
+    "score": 10
+  },
+  {
+    "id": "hlWiI4xVXKY",
+    "title": "Beautiful Calming Music for Stress, Worry and Overthinking 🌿 Relaxing Music for Emotional Balance",
+    "score": 10
+  },
+  {
+    "id": "cDQ-krl38yE",
+    "title": "Most Beautiful Places in the World in 4K UHD | Relaxing Cinematic Nature Film",
+    "score": 10
+  },
+  {
+    "id": "Rs3-OJBYKSY",
+    "title": "11 HOURS Stunning 4K Underwater footage + Music | Nature Relaxation™ Rare \\u0026 Colorful Sea Life Video",
+    "score": 10
+  },
+  {
+    "id": "G52dUQLxPzg",
+    "title": "Relaxing Music For Stress Relief, Anxiety and Depressive States • Heal Mind, Body and Soul",
+    "score": 10
+  },
+  {
+    "id": "YolaW-27tOo",
+    "title": "Relaxing music Relieves stress, Anxiety and Depression 🌿 Heals the Mind, body and Soul - Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "I3OJUwILelU",
+    "title": "QUIET TIME WITH GOD | Instrumental Worship \\u0026 Scriptures with Nature | Christian Piano",
+    "score": 10
+  },
+  {
+    "id": "QCJPp20ZV4c",
+    "title": "6 hours Magnificent Views of the Earth 4k with Relaxation Music",
+    "score": 10
+  },
+  {
+    "id": "eKO9BGdQ7Wk",
+    "title": "Deep Healing Music, Healing Your Nervous System, Instant Relief from Stress and Anxiety, Calm Nature",
+    "score": 10
+  },
+  {
+    "id": "OEip4ee3b2o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "G8-yqje7jTM",
+    "title": "Visiting the Most Crowded Island on Earth (I can’t forget what I saw)",
+    "score": 10
+  },
+  {
+    "id": "fG1qW6z7hwU",
+    "title": "Top 10 Most Populated Countries in the world 2024 (UPDATED)",
+    "score": 10
+  },
+  {
+    "id": "XWGQrQe5YwQ",
+    "title": "What Are The Most Populated Islands On Earth?",
+    "score": 10
+  },
+  {
+    "id": "ZHcC2Izheqw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EuJIK0fN_F0",
+    "title": "What is The Most Over Populated City on Earth? 🤔",
+    "score": 10
+  },
+  {
+    "id": "XAVhNPBvNN0",
+    "title": "10 Most Populated Countries in the World 2025",
+    "score": 10
+  },
+  {
+    "id": "yAVfV3-0gOg",
+    "title": "Top 100 Most Populated Cities in Europe (2026)",
+    "score": 10
+  },
+  {
+    "id": "e6_nZ1TLK60",
+    "title": "Living on the Most Crowded Island on Earth",
+    "score": 10
+  },
+  {
+    "id": "G63TF6OMa_8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3CWCHEnscfw",
+    "title": "Top 10 Most Populated Countries of the World Compilation",
+    "score": 10
+  },
+  {
+    "id": "T2_-FmhOCaM",
+    "title": "India",
+    "score": 10
+  },
+  {
+    "id": "wNr9JqvodK8",
+    "title": "1950 vs 2025: Top 7 Most Populous Countries 🌍📊",
+    "score": 10
+  },
+  {
+    "id": "URbDSNeWRbM",
+    "title": "Top 10 Most Populated Countries in the World 2019/Top 10 Most Populous Countries 2019",
+    "score": 10
+  },
+  {
+    "id": "kcNmCB5bbAs",
+    "title": "10 Most Populated Countries in 1",
+    "score": 10
+  },
+  {
+    "id": "BeouJeWVh7o",
+    "title": "Top 10 Most Populated Countries 3000 A.D. - #infozurra #population #projections #top20",
+    "score": 10
+  },
+  {
+    "id": "QgkrkIBndfw",
+    "title": "10 Most Populated Cities In The World",
+    "score": 10
+  },
+  {
+    "id": "GIr82NwD_g4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CICBOLWwpuY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aBfWZGNQr-c",
+    "title": "Move (Official Actions Video) - Worship For Everyone",
+    "score": 10
+  },
+  {
+    "id": "vBZvtBcu9BY",
+    "title": "This story will move everyone to tears | Pardoned by Grace | Based on a true story",
+    "score": 10
+  },
+  {
+    "id": "uwD6Imr0CWE",
+    "title": "The Move Everyone Laughed At Until..",
+    "score": 10
+  },
+  {
+    "id": "Z28V96fbkrM",
+    "title": "This Story Will Move Everyone To Tears | Kill Line | Based on a True Story",
+    "score": 10
+  },
+  {
+    "id": "FhxC4EDinxo",
+    "title": "Move - Worship For Everyone [feat. Daisy Drake \\u0026 Noah Smith] (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "Z30aqTEYJPA",
+    "title": "This Story Will Move Everyone To Tears | Trust No 1 | Based on a True Story",
+    "score": 10
+  },
+  {
+    "id": "i_qy8_vmLow",
+    "title": "The Retirement Move Everyone Warned Me Against (they were right)",
+    "score": 10
+  },
+  {
+    "id": "t9Pt-lnMYII",
+    "title": "20 Places in the United States Everyone Wants to Move to",
+    "score": 10
+  },
+  {
+    "id": "iYf1EodsOgg",
+    "title": "Silver's Next Move Will Surprise Everyone   Even the Bulls",
+    "score": 10
+  },
+  {
+    "id": "IyUNq6USOtY",
+    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj \\u0026 Government Shutdown Looms",
+    "score": 10
+  },
+  {
+    "id": "mHT-XV7YZ1U",
+    "title": "WATCH: U.S. Defense Secretary Pete Hegseth \\u0026 Jennifer Rauchet Arrive at “Melania” Premiere | AC15",
+    "score": 10
+  },
+  {
+    "id": "TCPA4aWNQ_4",
+    "title": "TRUST NO ONE 🎬  Full Thriller Movie 🎬 English HD",
+    "score": 10
+  },
+  {
+    "id": "8xHG1PedPh0",
+    "title": "Jennifer Lopez Dance Move Everyone Is Copying!",
+    "score": 10
+  },
+  {
+    "id": "QtqsnFA-wlE",
+    "title": "Golf Swing TRANSITION MOVE everyone NEEDS to know!",
+    "score": 10
+  },
+  {
+    "id": "KgJEP-nveeM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "N8y7UjkWwCA",
+    "title": "#Lisa #dance #move #everyone",
+    "score": 10
+  },
+  {
+    "id": "zJKwaSWaF5I",
+    "title": "1 Self-defense Move EVERYONE Needs to Know!",
+    "score": 10
+  },
+  {
+    "id": "1h6JkXLNTI4",
+    "title": "He told his mother and everyone else to move back he got it 🤣",
+    "score": 10
+  },
+  {
+    "id": "UeKsUXrFG5M",
+    "title": "awesome dance move #everyone #everyoneeverywhere #highlights #dance",
+    "score": 10
+  },
+  {
+    "id": "b5quHN4Gi8A",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ahQ7B-nq5zc",
+    "title": "The Exploited  - Dead Cities - 1981 - Top of the Pops",
+    "score": 10
+  },
+  {
+    "id": "uCAyx_8NDUs",
+    "title": "DEAD Cities 8 | Dark Sci-Fi Ambient Music for Focus \\u0026 Sleep | 4K",
+    "score": 10
+  },
+  {
+    "id": "ARK03mWz3lE",
+    "title": "Eurielle - City of The Dead (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "bNDsWmRn6to",
+    "title": "DEAD Cities 8 | Dark Sci-Fi Ambient Music for Focus \\u0026 Sleep | 4K",
+    "score": 10
+  },
+  {
+    "id": "g8WgIZvJK7s",
+    "title": "DEAD Cities 5 [Secret Test Site] Dark Ambient Focus Music 4K [ALONE]",
+    "score": 10
+  },
+  {
+    "id": "0rFeojPhIEM",
+    "title": "DEAD Cities 3 [Radio Tower] Dark Ambient Focus Music 4K [ALONE]",
+    "score": 10
+  },
+  {
+    "id": "I9kPM-YErhw",
+    "title": "The Exploited - Dead Cities (EP 1981)",
+    "score": 10
+  },
+  {
+    "id": "hCZcPAZcmNM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0jiE3H-Gs4w",
+    "title": "Nightcore - City Of The Dead",
+    "score": 10
+  },
+  {
+    "id": "b_g8CocJlBE",
+    "title": "Scheduled Execution (02/12/26): Kendrick Simpson – Oklahoma Death Row – Murders in Oklahoma City",
+    "score": 10
+  },
+  {
+    "id": "70C9_5wJZwo",
+    "title": "Tony Strikes His Biggest Gold Haul of the Season - Full Episode Recap | Gold Rush | Discovery",
+    "score": 10
+  },
+  {
+    "id": "sjlUe5v1ahc",
+    "title": "SNEAK PEEK! GOLD RUSH Season 16 Episode 12 \\\"On Shaky Ground\\\"",
+    "score": 10
+  },
+  {
+    "id": "va7ha44h8yc",
+    "title": "Gold Paavangal | Parithabangal",
+    "score": 10
+  },
+  {
+    "id": "bEqbCZcZmRU",
+    "title": "Parker Schnabel Fights Wildfires To Save Gold Operation | Gold Rush",
+    "score": 10
+  },
+  {
+    "id": "hRsPKTH9eVY",
+    "title": "Yukon Gold- Know When to Run🏃‍♂️‍➡️  | FULL EPISODE | Sn 2 | Ep 10 | Lionsgate TV",
+    "score": 10
+  },
+  {
+    "id": "41TVrNUcEPU",
+    "title": "Saxon Death, Saxon Gold (Full Episode) | S18 EP2 | Time Team (West Langton, Leicestershire)",
+    "score": 10
+  },
+  {
+    "id": "Olmq4KOXaMA",
+    "title": "Evidence of Anglo-Saxon Settlement",
+    "score": 10
+  },
+  {
+    "id": "zOwLBDTqJ8w",
+    "title": "The Power And Mystery Of Gold",
+    "score": 10
+  },
+  {
+    "id": "R9aW9caCTSA",
+    "title": "The Cosmic Origins of Gold",
+    "score": 10
+  },
+  {
+    "id": "FvJLx_CBqh8",
+    "title": "W.R. RUSTY HAIGHT Accident Reconstructionist",
+    "score": 10
+  },
+  {
+    "id": "V4QkLusYcN8",
+    "title": "Freddy And Juan Prove They Are The Best In The World | Gold Rush: Mine Rescue With Freddy And Juan",
+    "score": 10
+  },
+  {
+    "id": "rf9XjzQGGtY",
+    "title": "அண்டா கதறல்🤣 சம்பவம் செய்த ராவுத்தர்🔥 | Senthil Vel Debate Troll | Rawther Ibrahim | Dmk Troll ",
+    "score": 10
+  },
+  {
+    "id": "C4L75m_jT08",
+    "title": "ஆயுதங்களை குவித்தது Iran | Israel துறைமுகத்தில்... | பொறுமையை இழந்தார் Trump | Iran vs USA War",
+    "score": 10
+  },
+  {
+    "id": "_KNapZ5qFUk",
+    "title": "கொத்தாக சிக்கிய விஜய் | கலி திண்ணப்போவது உறுதி | Minor Stroke | TVK Vijay | U2 Brutus",
+    "score": 10
+  },
+  {
+    "id": "DiUhLnKzCPY",
+    "title": "Gold, Silver in \\\"Perfect Storm,\\\" New Bull Market is Here | What’s Next?",
+    "score": 10
+  },
+  {
+    "id": "t1XT9Ma7dMg",
+    "title": "''ஏமாற்றம் அளிக்கிறது'' - இந்தியா - ஐரோப்பிய ஒன்றிய ஒப்பந்தம் பற்றி அமெரிக்கா சொன்னது என்ன?",
+    "score": 10
+  },
+  {
+    "id": "qXlGmiu1b9E",
+    "title": "The Curse of Oak Island Season 13 Episode 13: Silver was Everywhere Beneath the Money Pit",
+    "score": 10
+  },
+  {
+    "id": "WYHPJL4CrHE",
+    "title": "The Ancient Allure of Gold",
+    "score": 10
+  },
+  {
+    "id": "MuV7Spo2RlU",
+    "title": "Catch Up on Gold Rush Season 7 Episode 21 | SEASON 7 | Gold Rush",
+    "score": 10
+  },
+  {
+    "id": "Pavj0ImRNuE",
+    "title": "Catch Up on Gold Rush Season 7 Episode 16 | SEASON 7 | Gold Rush",
+    "score": 10
+  },
+  {
+    "id": "60MdessM_AE",
+    "title": "Now we're gonna see some commotion at Thistle Creek",
+    "score": 10
+  },
+  {
+    "id": "WDBXxf_AxbU",
+    "title": "How did them bottom runs work out?",
+    "score": 10
+  },
+  {
+    "id": "hxFSu6NEohk",
+    "title": "Catch Up on Gold Rush Season 7 Episode 10 | SEASON 7 | Gold Rush",
+    "score": 10
+  },
+  {
+    "id": "zb_hs23adCU",
+    "title": "Black Gold Season 1 Episode 1 | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "L0Q3cmhRHOQ",
+    "title": "Introduction to Gold’s Eternal Allure and the Modern Deep Mines",
+    "score": 10
+  },
+  {
+    "id": "HnrT6SIo9tw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ftrbKlbuIBc",
+    "title": "Weird And Unbelievable Things Are Happening Around The World",
+    "score": 10
+  },
+  {
+    "id": "kwbKAYIn-8Y",
+    "title": "UNTOUCHED PLACES | The Most Unbelievable Wonders In the World #travel #4K",
+    "score": 10
+  },
+  {
+    "id": "3LbwBLv5PRw",
+    "title": "UNREAL WONDERS OF PLANET | The Most Beautiful Places to Visit in The World |Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "IH8n69MNmzM",
+    "title": "91 Unbelievable Facts That You’ll Never Forget!",
+    "score": 10
+  },
+  {
+    "id": "wM95h3EsLio",
+    "title": "Oldest Vegetable in the World?",
+    "score": 10
+  },
+  {
+    "id": "VZon2ia6qns",
+    "title": "✨📸 These 100 Photos Tell a Story They Didn’t Want You To See",
+    "score": 10
+  },
+  {
+    "id": "jH9Whu3za7M",
+    "title": "Thrown Out at 16, She Built a Dugout Shed for $10 — Until Her Firewood Stayed Dry All Winter",
+    "score": 10
+  },
+  {
+    "id": "ecTPRHmI3As",
+    "title": "🚨🚨ALERT: Nothing Can STOP It Now - Watchmen Updates",
+    "score": 10
+  },
+  {
+    "id": "FvE5uJKsWF4",
+    "title": "99 Unbelievable Aviation Moments Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "7rY0vX6vZBw",
+    "title": "UNBELIEVABLE: Giant Beehive Harvested on the World’s Tallest Tree",
+    "score": 10
+  },
+  {
+    "id": "ToFrWZCl5eA",
+    "title": "Big Giant Messy Fails | World's Most Expensive",
+    "score": 10
+  },
+  {
+    "id": "84wpH1UjpPY",
+    "title": "A Powerful Winter Storm Is Rapidly Developing...",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "10 \\\"Unbelievable\\\" Engineering Marvels in China That Stun the World!",
+    "score": 10
+  },
+  {
+    "id": "kR9i3ZrN8O8",
+    "title": "TOP 15 UNBELIEVABLE Natural Phenomena",
+    "score": 10
+  },
+  {
+    "id": "Pq9q5a_4QEE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0DzTdqsVydU",
+    "title": "Weird And Unbelievable Things Are Happening Around The World",
+    "score": 10
+  },
+  {
+    "id": "100CAn5bQEQ",
+    "title": "Strange Things Are Happening Worldwide; No One Knows Why!!",
+    "score": 10
+  },
+  {
+    "id": "nowD0-GSg-Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Qp28tDF-bEI",
+    "title": "Meet the Unbelievable Superhumans of the World",
+    "score": 10
+  },
+  {
+    "id": "y3IMAZnB1N8",
+    "title": "Indestructible Monk \\u0026 Ice-Proof Man",
+    "score": 10
+  },
+  {
+    "id": "2wqC9mPWhks",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mZa9iNqn76c",
+    "title": "UNSEEN WONDERS | Hidden Places Even Locals Can’t Believe Exist | Travel Video 4K",
+    "score": 10
+  },
+  {
+    "id": "d5bK-EODYuM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "36KetoydCNc",
+    "title": "BlackPink Hidden Video Voice",
+    "score": 10
+  },
+  {
+    "id": "2h1cq21jpZM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gsln9sGMG4Q",
+    "title": "1 Video Unavailable and hidden?",
+    "score": 10
+  },
+  {
+    "id": "M0pF7rwKSDw",
+    "title": "The Hidden AirTag 😱 (part 2)",
+    "score": 10
+  },
+  {
+    "id": "nQk64NTyh24",
+    "title": "Disturbing YouTube Channels Hiding in Plain Sight",
+    "score": 10
+  },
+  {
+    "id": "sNS8lEEKzZM",
+    "title": "The Hidden AirTag 😱 (part 3)",
+    "score": 10
+  },
+  {
+    "id": "JguNdKxbTHI",
+    "title": "YouTube's Hidden Lawless Section [ft. Something Sinister]",
+    "score": 10
+  },
+  {
+    "id": "pG-fezA3Ji8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zkqxk0MQx4E",
+    "title": "Grizz Lose vs Hornets, NBA Trade Deadline, Giannis Trade Talks Heating Up | Chris Vernon Show",
+    "score": 10
+  },
+  {
+    "id": "XE5PlnMSAmA",
+    "title": "Chris Tomlin - God Of This City (Lyrics And Chords)",
+    "score": 10
+  },
+  {
+    "id": "_Gcaa7rGKr8",
+    "title": "Tee Grizzley - City of God (feat. Chris Brown) [Official Visualizer]",
+    "score": 10
+  },
+  {
+    "id": "DF5sIyS3eWU",
+    "title": "Chris Stussy @ Paradise City, Brussels 2025",
+    "score": 10
+  },
+  {
+    "id": "-iiaxD8QngA",
+    "title": "Chris Brown - In The City (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "U3Skc4MQlqU",
+    "title": "CHRIS LUIS - THE HEART OF THE CITY (VOCAL VERSION) (℗1983 / ©2010)",
+    "score": 10
+  },
+  {
+    "id": "pgldpTL6fMw",
+    "title": "Chris Stapleton - Tennessee Whiskey (Austin City Limits Performance)",
+    "score": 10
+  },
+  {
+    "id": "71iAOOcLwUE",
+    "title": "Chrishan - Sin City",
+    "score": 10
+  },
+  {
+    "id": "AFjAflCCBcI",
+    "title": "Send Me (feat. Chris McClarney) | Church of the City",
+    "score": 10
+  },
+  {
+    "id": "mHp7y-9oKOk",
+    "title": "Chris Lake \\u0026 Skrillex – ID",
+    "score": 10
+  },
+  {
+    "id": "_t0qtSKOpO4",
+    "title": "Chris Brown - It Depends (Audio) ft. Bryson Tiller",
+    "score": 10
+  },
+  {
+    "id": "MueOsq3_OVg",
+    "title": "These Have Chris EXCITED!",
+    "score": 10
+  },
+  {
+    "id": "SOJ9bET9XKc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ppHZTjKZomI",
+    "title": "YouTube's New Search Filter Sucks...",
+    "score": 10
+  },
+  {
+    "id": "IUZJJCUna9Q",
+    "title": "Creating a search",
+    "score": 10
+  },
+  {
+    "id": "bshOywIY108",
+    "title": "Use THESE LinkedIn filters to help your job search 🔎",
+    "score": 10
+  },
+  {
+    "id": "d_t8Ts05RSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "U_dt_b-kMME",
+    "title": "The most unbelievable megaprojects in the world",
+    "score": 10
+  },
+  {
+    "id": "l8PMl7tUDIE",
+    "title": "The Coldest Village on Earth: Oymyakon (-71°C, -96°F)",
+    "score": 10
+  },
+  {
+    "id": "2C8zYFArnKY",
+    "title": "Энергетическое перемирие — что это и зачем (English subtitles) @Max_Katz",
+    "score": 10
+  },
+  {
+    "id": "sNJ13WSUSqQ",
+    "title": "ЭНЕРГЕТИЧЕСКИЙ ТЕРРОР",
+    "score": 10
+  },
+  {
+    "id": "1eTAiyegpHg",
+    "title": "How The Most Isolated Towns Actually Work",
+    "score": 10
+  },
+  {
+    "id": "SDRtxwM4Wrg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2PWBkPBxNM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jEwJl3RJMkM",
+    "title": "15 Largest Abandoned Cities in the World",
+    "score": 10
+  },
+  {
+    "id": "maePAGN5NFA",
+    "title": "M83 – Dead Cities, Red Seas \\u0026 Lost Ghosts (2003)",
+    "score": 10
+  },
+  {
+    "id": "n_mqn7vmENs",
+    "title": "Best  M83 - Dead Cities, Red Seas \\u0026 Lost Ghosts QHD",
+    "score": 10
+  },
+  {
+    "id": "0OHIZAD-qW8",
+    "title": "Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "5x9K0msoiug",
+    "title": "DEAD Cities 4 [Power Station] Dark Ambient Focus Music 4K [ALONE]",
+    "score": 10
+  },
+  {
+    "id": "M_Zr_a3cgfk",
+    "title": "Inside A Collapse: The Most Abandoned American Cities Ever Filmed",
+    "score": 10
+  },
+  {
+    "id": "52L4fDrxvBU",
+    "title": "Dead Cities",
+    "score": 10
+  },
+  {
+    "id": "jmGOQurOWv0",
+    "title": "SPOOKY, Empty Towns In Rural, Forgotten Texas",
+    "score": 10
+  },
+  {
+    "id": "g_HDd9JJVcA",
+    "title": "Search filters",
+    "score": 10
+  }
+]

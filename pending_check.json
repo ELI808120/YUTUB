@@ -1,1 +1,2777 @@
-[]
+[
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון - 19 - לולאות while",
+    "score": 110
+  },
+  {
+    "id": "yBCNY__d4ic",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "מדריך אקסל תוך 15 דקות",
+    "score": 110
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "לימוד אקסל שיעור 2 - מושגי בסיס - חלק א' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "קורס אקסל למתחילים | שיעור נוסחאות חשבוניות",
+    "score": 110
+  },
+  {
+    "id": "VjYeIfdUq0Q",
+    "title": "לימוד אקסל שיעור 67 - טבלת ציר אקסל פיבוט PIVOT TABLE",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "לימוד אקסל -שיעור 2 -חישוב הוצאות והכנסות, פונקציית SUM ,כתיבת נוסחה באקסל /גלישת טקסט/עיצוב תאים",
+    "score": 110
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "כיצד פועלים מנועי מכוניות? מבט מקרוב על הפרטים המורכבים של מנוע",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "עיקרון פעולת מנוע   4 פעימות",
+    "score": 60
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "מנוע הקיטור של ג'יימס ואט",
+    "score": 60
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך מנוע 4 פעימות עובד",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "kftw5wAeWEU",
+    "title": "איך עובד מנוע?",
+    "score": 60
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "uHucYAEhY0Y",
+    "title": "How a Brushless Motor Works (animation) 720p - איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "רפאל המטייל ויאנצ׳יקס בניסוי מדעי מטורף ! מכינים מנורת לבה!!! | ניסויים מדעיים עם ילדים",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "צילום טבע - מפגש עם אבי מאיר",
+    "score": 60
+  },
+  {
+    "id": "pyUVDpEeVDY",
+    "title": "כל מה שצריך לדעת על צילום טבע -  הרצאת זום",
+    "score": 60
+  },
+  {
+    "id": "BKZy5B9n0rs",
+    "title": "עומר פרצ׳י על צילום טבע ונוף במצלמות מירורלס",
+    "score": 60
+  },
+  {
+    "id": "IM_bMx7FU-U",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "DXOq1xiIaF0",
+    "title": "אקסל - EXCEL | 1 - מהי תוכנת אקסל",
+    "score": 60
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "אקסל VLOOKUP למתחילים",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "jUIi6jgXXJY",
+    "title": "Multiplication Tricks To Make Mathematics Fun and Easy 😉 #math #multiplication #mathtrick",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "Restore a truck they said, it’ll be fun they said | 359 Peterbilt Restoration (Pocket Change) ",
+    "score": 50
+  },
+  {
+    "id": "Jiqkmg8jl1M",
+    "title": "Medieval Manor Restoration - The Restoration Man - S02 EP6 - Home Renovation",
+    "score": 50
+  },
+  {
+    "id": "ZioqHNFv6Ag",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Saving A Massive Historic Ship  - The Aurora Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "World War 2 Explained | Best WW2 Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "Hell On Earth: The Complete, Uncensored History Of World War II",
+    "score": 50
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "The Full History of World War Two | On the Edge of the Abyss",
+    "score": 50
+  },
+  {
+    "id": "dAHJ0omYo7U",
+    "title": "Shootout!: World War II: Assault On Germany - Full Episode (S1, E4) | History",
+    "score": 50
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "Learning Excel Lesson 4 - Basic Concepts - Part 3 (Excel for Beginners)",
+    "score": 50
+  },
+  {
+    "id": "wGMrdv76EH8",
+    "title": "We Are the 7th Civilization — And the Cataclysm Cycle Always Returns | History for Sleep",
+    "score": 50
+  },
+  {
+    "id": "H2Yr7zaFsZ8",
+    "title": "Unseen Worlds: From Underground to the Heavens *Marathon* | Ancient Aliens | History",
+    "score": 50
+  },
+  {
+    "id": "ha1NneZGm7A",
+    "title": "3+ Hours Of Medieval Military History",
+    "score": 50
+  },
+  {
+    "id": "CsqG-5hqkmE",
+    "title": "Who Was the True Pillar of China’s War Against Japan? The Hidden Truth Behind CCP History #CCP",
+    "score": 50
+  },
+  {
+    "id": "E2EZvyFup_E",
+    "title": "Caral: The Ancient Civilization That Vanished From History",
+    "score": 50
+  },
+  {
+    "id": "7xvBHc5MrrY",
+    "title": "French lawmakers back bill to end 'marital duty' • FRANCE 24 English",
+    "score": 50
+  },
+  {
+    "id": "8sz2DaofX0U",
+    "title": "Why wasn't France carved up after Napoleon was defeated? (Short Animated Documentary)",
+    "score": 50
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "How To Use Search Filters In WhatsApp (Updated)",
+    "score": 50
+  },
+  {
+    "id": "MN6Fmdz5uLk",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "XjCjhAN-Pcc",
+    "title": "✅  How To Filter Searches On YouTube  🔴",
+    "score": 50
+  },
+  {
+    "id": "z8JzYvXjXNg",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "-nWG0RKQ4aw",
+    "title": "Trump ‘on the right side of history’ by supporting Iranian protesters, says Iranian activist",
+    "score": 50
+  },
+  {
+    "id": "YYxzy113kcA",
+    "title": "Trump says 'massive Armada' was heading toward Iran, warns Tehran to make a nuclear deal",
+    "score": 50
+  },
+  {
+    "id": "WbIJBf59q5E",
+    "title": "Gibbs: President to Make 'Very Hard Choices' On Deficit",
+    "score": 50
+  },
+  {
+    "id": "ntoFL2JkbsQ",
+    "title": "What Are the Options for Undocumented Immigrants Who Arrived in the U.S. as Children? Learn More Now",
+    "score": 50
+  },
+  {
+    "id": "1BmZ5vIfQwU",
+    "title": "Learn your options when it comes to your home. #FirstPosition #SecondPosition",
+    "score": 50
+  },
+  {
+    "id": "i5fUVcmMz_0",
+    "title": "The ROLES and POWERS of the President [AP Gov Review Unit 2 Topic 4 (2.4)]",
+    "score": 50
+  },
+  {
+    "id": "iq0wAcduT_o",
+    "title": "Trump’s first 100 days: How the 47th president set his agenda | 2025 Year in Review Part I",
+    "score": 50
+  },
+  {
+    "id": "4oozpe_GFC0",
+    "title": "Breaking Free From Negative Timeline Spirals - How To Avoid Induced Transitions",
+    "score": 50
+  },
+  {
+    "id": "Z-4eQkQJPBM",
+    "title": "Garret Garness Knee Block from a Spiral Ride | JROB Technique Sessions",
+    "score": 50
+  },
+  {
+    "id": "sTPn05liTVU",
+    "title": "How to end the downward spiral of negative thoughts",
+    "score": 50
+  },
+  {
+    "id": "cbVuF98g-dE",
+    "title": "Spiral Swords Blocking Tutorial",
+    "score": 50
+  },
+  {
+    "id": "ZmJZtjp7_RE",
+    "title": "The 44th President: Barack Obama's Legacy and Unfinished Business | Full Documentary | Biography",
+    "score": 50
+  },
+  {
+    "id": "9efJzWq4-wI",
+    "title": "Melania's $40 Million Docu-Bribe Movie Premieres \\u0026 Dems Make ICE Demands | The Daily Show",
+    "score": 50
+  },
+  {
+    "id": "yac_JCY55po",
+    "title": "Abraham Lincoln: A President’s Pain Behind Closed Doors | Full Documentary | Biography",
+    "score": 50
+  },
+  {
+    "id": "ueU_ArY8s1k",
+    "title": "President Trump makes an announcement — 1/29/2026",
+    "score": 50
+  },
+  {
+    "id": "m5ch_mKU8RU",
+    "title": "President Trump makes an announcement from the Oval Office",
+    "score": 50
+  },
+  {
+    "id": "_39qocZQLik",
+    "title": "WATCH: First lady Melania Trump speaks at the premiere of her documentary 'Melania'",
+    "score": 50
+  },
+  {
+    "id": "B-5oWhw4C7Q",
+    "title": "New medical school blends art and science to train new doctors",
+    "score": 50
+  },
+  {
+    "id": "9QjlmQ0p2JE",
+    "title": "What researchers are learning as they drill into Antarctica's 'Doomsday Glacier'",
+    "score": 50
+  },
+  {
+    "id": "Ox3s0QRHAm0",
+    "title": "How to Improve Your Chances of Getting Disability Benefits",
+    "score": 50
+  },
+  {
+    "id": "vOcV8iuvb14",
+    "title": "Explore VA benefits: Overview of VA disability compensation and how to apply",
+    "score": 50
+  },
+  {
+    "id": "2YvkROuocMk",
+    "title": "How To Get Your Disability Benefits Approved FAST - 7 simple steps",
+    "score": 50
+  },
+  {
+    "id": "GQxmEMcQOlE",
+    "title": "How to Prove Retaliation at Work",
+    "score": 50
+  },
+  {
+    "id": "Tg-3knE_nAM",
+    "title": "How to Fight Illegal Retaliation \\u0026 WIN - EEOC Tips for Employees",
+    "score": 50
+  },
+  {
+    "id": "mJxk5cQULh4",
+    "title": "The Making GOOD CHOICES Game!!! for Social and Emotional Learning Grades K-5",
+    "score": 50
+  },
+  {
+    "id": "-KysuBl2m_w",
+    "title": "How to make hard choices | Ruth Chang",
+    "score": 50
+  },
+  {
+    "id": "nKbMPdGsE5I",
+    "title": "Choices We Make | Billy Graham Classic Sermon",
+    "score": 50
+  },
+  {
+    "id": "iZnmDlfRY54",
+    "title": "LEARN TO MAKE DECISIONS 🤔 🧭 Education for Kids",
+    "score": 50
+  },
+  {
+    "id": "7xsszZeG364",
+    "title": "How to Make Better Choices Under Pressure: A Decision-Making Guide | Jim Rohn Motivation",
+    "score": 50
+  },
+  {
+    "id": "2uZhpRvvVM4",
+    "title": "How to Make Good Choices: Mindfulness for Kids | Cosmic Kids (app preview)",
+    "score": 50
+  },
+  {
+    "id": "-K6dFs_AFTw",
+    "title": "President Trump makes an announcement — 1/29/2026",
+    "score": 50
+  },
+  {
+    "id": "akssiem-aIc",
+    "title": "New Rule: Let's Make a Deal | Real Time with Bill Maher (HBO)",
+    "score": 50
+  },
+  {
+    "id": "x6Po_UK6DTE",
+    "title": "how to deal with someone who brags all the time",
+    "score": 50
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "How a Steam Engine works",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "_fAiVeIH9sU",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "hGIk1BhuB7Q",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "KjiUUJdPGX0",
+    "title": "COMBUSTION CHAMBER",
+    "score": 10
+  },
+  {
+    "id": "u4ji0As0nQQ",
+    "title": "Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "DKF5dKo_r_Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DZt5xU44IfQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "WG19nzEBd7I",
+    "title": "This Math Trick is Black Magic",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "rkG_dZ_YT0I",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "I Bought a $1,900 Swamp Boat Wreck and Rebuilt It Back to Sea Trial Ready",
+    "score": 10
+  },
+  {
+    "id": "ZjOfJTloxfM",
+    "title": "1932 Rolls Royce P2 Chassis with a Merlin Engine",
+    "score": 10
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "10 BANNED World War 2 Sidearms Soldiers Kept Anyway",
+    "score": 10
+  },
+  {
+    "id": "xTuu2p7rVx4",
+    "title": "World War Two Explained: The Key Battles and Dates",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "SjONVCcvOpA",
+    "title": "Episode 1 - We Are At War",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YuScm1QMOjg",
+    "title": "The invasion",
+    "score": 10
+  },
+  {
+    "id": "vzTdGvYuNzo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8pE04G99oT4",
+    "title": "Assault on the Siegfried Line",
+    "score": 10
+  },
+  {
+    "id": "JSfSwZ_RfMQ",
+    "title": "World War II - Summary on a Map",
+    "score": 10
+  },
+  {
+    "id": "-CQatuQdQv4",
+    "title": "The end of World War I",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "Survival Skills: Kindling for Hiking and Wilderness Survival 🌳 #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "3 Survival Skills Every Man Should Know",
+    "score": 10
+  },
+  {
+    "id": "oxBpKtBnoVM",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BXEwpwjqXdo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4hFh6Yg1y0c",
+    "title": "20 GREATEST Historical Mysteries Still Unsolved",
+    "score": 10
+  },
+  {
+    "id": "h0aK1P-MpWM",
+    "title": "AI Just Translated Ancient Sumerian Texts — And Reveals Terrifying Knowledge About Human Races",
+    "score": 10
+  },
+  {
+    "id": "uWd5r8BOuCw",
+    "title": "Before the Aztecs: The Lost Dawn of the Americas",
+    "score": 10
+  },
+  {
+    "id": "qZ7HPhFAJc0",
+    "title": "Arrival and Adaptation of Paleo-Indians",
+    "score": 10
+  },
+  {
+    "id": "S90CcmJgEGE",
+    "title": "13. The Assyrians - Empire of Iron",
+    "score": 10
+  },
+  {
+    "id": "ANM-YmK4rMI",
+    "title": "3+ Hours Of Lost Civilizations And Ancient Megapolis Facts",
+    "score": 10
+  },
+  {
+    "id": "Pc1b0OMXB24",
+    "title": "'Freaked-Out' Netanyahu Issues Ultimatum: 'Iran Must Surrender 400 Kg of Enriched Uranium Now'",
+    "score": 10
+  },
+  {
+    "id": "1ZKBaRsP1gY",
+    "title": "Trump's Forces To Invade Iran? Khamenei Gets ULTIMATUM For 'KILL RIOTERS' Order | 'US Will Hit Hard'",
+    "score": 10
+  },
+  {
+    "id": "ViWPweyh9vc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "s4mIwKF4VDg",
+    "title": "Tensione USA-Iran: Trump lancia ultimatum sul nucleare, Teheran risponde con forza",
+    "score": 10
+  },
+  {
+    "id": "7YXiZXsfiJo",
+    "title": "US President Trump Says Time Is Running Out for Iran to Strike a Nuclear Deal | WION",
+    "score": 10
+  },
+  {
+    "id": "ApfM3i-MRMs",
+    "title": "Putin's Chilling ULTIMATUM To Trump As Iran War Looms Large | 'US Attack Could Ignite Mideast'",
+    "score": 10
+  },
+  {
+    "id": "JmgK6Bz0KH4",
+    "title": "Hegseth tells Trump Pentagon is 'prepared' for Iran",
+    "score": 10
+  },
+  {
+    "id": "mAJ70ARS-pQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "lY-YzQOLCpU",
+    "title": "Sale of French military supplier to US company draws criticism • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "XAetmS_NYXU",
+    "title": "Ex-French president Sarkozy publishes jail memoirs, encourages far right outreach • FRANCE 24",
+    "score": 10
+  },
+  {
+    "id": "bNET1-GyvxQ",
+    "title": "France \\\"early\\\" defender of European sovereignty and Greenland • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "-Qqmzao8i-Q",
+    "title": "France's Charlie Hebdo Publishes Defiant Edition",
+    "score": 10
+  },
+  {
+    "id": "Uoy9emkuCYA",
+    "title": "Morocco: France publishes a new official map including Western Sahara",
+    "score": 10
+  },
+  {
+    "id": "9GxiffsFpgY",
+    "title": "French PM pushes through expenditure and income parts of budget • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "GMHkakcz_x0",
+    "title": "Fat Joe On Backlash For Only Giving French Montana 5 - 10% Publishing On All The Way Up Song 🤯",
+    "score": 10
+  },
+  {
+    "id": "0z6ddE7U4Eo",
+    "title": "Paris neighbourhoods: Inside the historic 1st arrondissement • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "_0HqirXM21Y",
+    "title": "Springsteen's Scathing Protest | Italy: No ICE | Trump Threatens MAGA Donors | Skipping \\\"Melania\\\"",
+    "score": 10
+  },
+  {
+    "id": "HioRhDUGNog",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "uMExORofnrI",
+    "title": "Why Americans Will Never Strike Like the French (And Why That's the Problem)",
+    "score": 10
+  },
+  {
+    "id": "i2g_-syvuJc",
+    "title": "We're American Immigrants Living in France. This is How We See the U.S. Right Now.",
+    "score": 10
+  },
+  {
+    "id": "vkGV6FBz9Q0",
+    "title": "French Montana On Confronting Fat Joe For Not Getting No Publishing On All The Way Up Song 🤯",
+    "score": 10
+  },
+  {
+    "id": "U7C93nkcSlI",
+    "title": "'Chronicle of an expected fall': French papers predict PM Bayrou's ouster • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "IDZv3Xs3-Vc",
+    "title": "Jadakiss DEFENDS Joe's Publishing Deal With French Montana For All The Way Up Song",
+    "score": 10
+  },
+  {
+    "id": "-5fIH8iKh2s",
+    "title": "France personal space is wild 😅 Why are people SO close in stores? 🇫🇷🛒",
+    "score": 10
+  },
+  {
+    "id": "m7TdeBLmBEE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aSnWQCmy-7k",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "JScYRTaNMuc",
+    "title": "How Do Google Search Filters Work? - SearchEnginesHub.com",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HEujaFBgrXI",
+    "title": "Use THESE LinkedIn filters to help your job search 🔎",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "yRZVEWkYsac",
+    "title": "Episode #219 - Using the Search Filters Web Part of PnP Modern Search",
+    "score": 10
+  },
+  {
+    "id": "l5h8vdlUiCc",
+    "title": "UFC Honors 2025 President’s Choice Awards Reveal 🏆",
+    "score": 10
+  },
+  {
+    "id": "7Icu6qupf40",
+    "title": "THE CHOICE 2020",
+    "score": 10
+  },
+  {
+    "id": "oZZ195zWCjA",
+    "title": "President Support",
+    "score": 10
+  },
+  {
+    "id": "feNwpcBNBT4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qbH9WbJI3nw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NwHx_SPjRjo",
+    "title": "Iran ‘FIRES FIRST SHOT’ At US Warships, Uses GHOST BOATS Near Hormuz Flashpoint | On Cam",
+    "score": 10
+  },
+  {
+    "id": "X1oeDmvxRYE",
+    "title": "Former CIA analyst: Trump likely to attack Iran",
+    "score": 10
+  },
+  {
+    "id": "FBorRZnqtMo",
+    "title": "The President's Strengthen the Middle Class",
+    "score": 10
+  },
+  {
+    "id": "PbX8ihMIUJk",
+    "title": "\\\"I want to thank our President, Donald Jennifer Trump.\\\"",
+    "score": 10
+  },
+  {
+    "id": "osO2SKuxoKs",
+    "title": "Three Options, One President: What Trump Could Do to Iran | Vantage with Palki Sharma | N18G",
+    "score": 10
+  },
+  {
+    "id": "I8BzUlc2lvI",
+    "title": "Leavitt Affirms 'All Options Are Always On The Table For President Trump' Amid Greenland Threats",
+    "score": 10
+  },
+  {
+    "id": "1_fL2fcIzp4",
+    "title": "George Washington",
+    "score": 10
+  },
+  {
+    "id": "3TTSA5FZsGY",
+    "title": "Iran: ‘Time is running out’ to reach a deal, Trump says • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "cyLxzc1agEI",
+    "title": "Iran protests have eased after government's brutal crackdown, activist says",
+    "score": 10
+  },
+  {
+    "id": "0I88h-I1WRU",
+    "title": "Iranian president says country is at \\\"total war\\\" with US, Israel and Europe",
+    "score": 10
+  },
+  {
+    "id": "_qiFbaipcZU",
+    "title": "President Trump says Iran is in 'big trouble' as protests persist",
+    "score": 10
+  },
+  {
+    "id": "o4uqrUn0xWQ",
+    "title": "US, Israel On Alert: Khamenei To 'Pull Trigger', Launch War After Qom Visit, Like Op 'True Promise'?",
+    "score": 10
+  },
+  {
+    "id": "kGNpkOZWaFw",
+    "title": "US Military PREPARED on IRAN, Says Defense Sec. HEGSETH",
+    "score": 10
+  },
+  {
+    "id": "3pMH_tGdOLo",
+    "title": "President Trump says 'killing in Iran is stopping' amid protests",
+    "score": 10
+  },
+  {
+    "id": "xd20nU-RXxc",
+    "title": "'The people are rising up': US general says Iran regime is in a 'bad place'",
+    "score": 10
+  },
+  {
+    "id": "FiqHKh60JHg",
+    "title": "US President Trump Says Time Is Running Out for Iran to Strike a Nuclear Deal | WION",
+    "score": 10
+  },
+  {
+    "id": "6TqrB5gRjuk",
+    "title": "Trump says U.S. \\\"will take very strong action\\\" if Iran hangs protesters",
+    "score": 10
+  },
+  {
+    "id": "UyxsTqGHrE0",
+    "title": "Trump says Iran 'want to negotiate' and meeting 'being set up' | AFP",
+    "score": 10
+  },
+  {
+    "id": "W9AnlbLQh9o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RkbIjMDyULI",
+    "title": "Protestors flood Minneapolis streets after fatal shooting by ICE agents on Saturday",
+    "score": 10
+  },
+  {
+    "id": "KYcU_02eHHA",
+    "title": "Minnesota protester detained by ICE: ‘They will kill me’",
+    "score": 10
+  },
+  {
+    "id": "PNECxItIZ-s",
+    "title": "Standoff With ICE Agents And Protesters After Shooting In Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "JkHKLDYtjKk",
+    "title": "Capitol riot ‘does not happen’ without Trump, Jack Smith told Congress",
+    "score": 10
+  },
+  {
+    "id": "k_wVZ3hnFKg",
+    "title": "CATCH UP: Thousands Killed as Iran Protests Stall. What happens next?",
+    "score": 10
+  },
+  {
+    "id": "bVlZGg3wD00",
+    "title": "Jack Smith on Jan. 6 mass pardons: \\\"I don't get it. I never will.\\\"",
+    "score": 10
+  },
+  {
+    "id": "GnKJsgXnU6k",
+    "title": "'We will kill you, graveyard dead': Brevard Sheriff Wayne Ivey warns against riots in Florida",
+    "score": 10
+  },
+  {
+    "id": "9nAquWgwwbw",
+    "title": "Lawrence: The protesters are forcing Trump’s retreat.",
+    "score": 10
+  },
+  {
+    "id": "HjrQTp44IRk",
+    "title": "‘We will kill you’: Florida sheriff issues stern warning to protestors",
+    "score": 10
+  },
+  {
+    "id": "lHFdiHprQs0",
+    "title": "Investigators Say Rioters At U.S. Capitol Will Be Found",
+    "score": 10
+  },
+  {
+    "id": "dpqBM9Z0sQU",
+    "title": "Chicago's Broadway ICE facility is not closing despite rumors",
+    "score": 10
+  },
+  {
+    "id": "yJJtQ9md7OY",
+    "title": "How much will you pay to defend Capitol Hill rioters?",
+    "score": 10
+  },
+  {
+    "id": "EZm2lAaLVHQ",
+    "title": "WATCH: Trump says he would 'absolutely' pardon Jan. 6 rioters",
+    "score": 10
+  },
+  {
+    "id": "BR5ewt-ZjkE",
+    "title": "RIOTERS ARE FREEZING",
+    "score": 10
+  },
+  {
+    "id": "HHGfHor2rMQ",
+    "title": "Sheriff Grady Judd talks about looters and rioters",
+    "score": 10
+  },
+  {
+    "id": "AfIePZO0QrE",
+    "title": "Tampa law professor discuss charges rioters could face after storming U.S. Capitol",
+    "score": 10
+  },
+  {
+    "id": "U9OB07CDhs8",
+    "title": "Race Riot of 1919 in Omaha-The Lynching of Will Brown",
+    "score": 10
+  },
+  {
+    "id": "2OytIIur3Ck",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TJJhRcMAd5o",
+    "title": "Darius Paulk - \\\"Speak To My Heart\\\" (Malaco 50th Celebration)",
+    "score": 10
+  },
+  {
+    "id": "N1rKicKjfSE",
+    "title": "His Celebration Speaks For Itself 🥶",
+    "score": 10
+  },
+  {
+    "id": "jELjicBJnmg",
+    "title": "When Memory Dies | Tim Timberlake |  Celebration Everywhere",
+    "score": 10
+  },
+  {
+    "id": "kgYUr9-pLtk",
+    "title": "Shaquille O'Neal Speaks at A Celebration of Life for Kobe and Gianna Bryant",
+    "score": 10
+  },
+  {
+    "id": "eddgvKrXsp8",
+    "title": "Shaquille O'Neal Speaks at the Kobe Celebration 💔",
+    "score": 10
+  },
+  {
+    "id": "KQTDwG2q20Y",
+    "title": "Michael Jordan Speaks at A Celebration of Life for Kobe and Gianna Bryant",
+    "score": 10
+  },
+  {
+    "id": "R5Ue3B_Eu94",
+    "title": "Let the Prophets Speak! Celebration Ministries and Lora Allison",
+    "score": 10
+  },
+  {
+    "id": "OKM5FEWvMOQ",
+    "title": "Diana Taurasi Speaks at A Celebration of Life for Kobe and Gianna Bryant",
+    "score": 10
+  },
+  {
+    "id": "8UdA5vsj94M",
+    "title": "A celebration of Brian Wickham: full talks",
+    "score": 10
+  },
+  {
+    "id": "8qQLlpljA_s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "h1XyizBzC8c",
+    "title": "When God Speaks | Tim Timberlake | Celebration Everywhere",
+    "score": 10
+  },
+  {
+    "id": "8i42m-KXWlU",
+    "title": "I MUST CULTIVATE AN OPEN HEART",
+    "score": 10
+  },
+  {
+    "id": "gyQ5RqP26og",
+    "title": "A Celebration Of Car Talk With Host Ray Magliozzi",
+    "score": 10
+  },
+  {
+    "id": "G2CP3F1USIo",
+    "title": "🎬 Everybody Hates Chris — “No Party?!”｜Birthday Plans Go VERY Wrong 🎂😳😂",
+    "score": 10
+  },
+  {
+    "id": "V3oC1xKofxM",
+    "title": "President Trump speaks at Hanukkah celebration [FULL SPEECH]",
+    "score": 10
+  },
+  {
+    "id": "K6Db19zdaGs",
+    "title": "SPEAK NOW! Yamal’s COLD response to goal celebration 🥶",
+    "score": 10
+  },
+  {
+    "id": "GYxhd1WcS-I",
+    "title": "Vanessa Bryant Speaks At Celebration of Life for Kobe and Gianna Bryant",
+    "score": 10
+  },
+  {
+    "id": "lIhuTJaPXCQ",
+    "title": "Cardi B is happy Stefon Diggs \\u0026 the Patriots are going to the Super Bowl #football #NFL #Patriots",
+    "score": 10
+  },
+  {
+    "id": "KSqeCQp0DDg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SxzOSiIrmkc",
+    "title": "PRESIDENTIAL APPROVAL: 48% SUPPORT Biden As President, Democrats Offer Options For Passing Agenda",
+    "score": 10
+  },
+  {
+    "id": "Y47y5capqQw",
+    "title": "HOA Blocked My Ranch Road After I Banned Them—So I Tore Down Their Gate With a Tractor and Got S",
+    "score": 10
+  },
+  {
+    "id": "0IxSul5Mf5Q",
+    "title": "President Trump weighing options against Iran",
+    "score": 10
+  },
+  {
+    "id": "lVLGw9oTFxo",
+    "title": "A Message from President Donald J. Trump",
+    "score": 10
+  },
+  {
+    "id": "ImHOeowbX8s",
+    "title": "Tesla FSD 14.2 Arrival Options ",
+    "score": 10
+  },
+  {
+    "id": "5dSXt7f-rCI",
+    "title": "Tesla FSD v14 2 1 Is Here: \\\"Arrival Options\\\" \\u0026 Neural Navigation Explained",
+    "score": 10
+  },
+  {
+    "id": "IMoJhWif_OE",
+    "title": "How Good is Tesla's FSD Self Parking Arrival Options in Version 14.2.1",
+    "score": 10
+  },
+  {
+    "id": "a2GVRTrq9fA",
+    "title": "Testing Tesla FSD 14.1: Real-World Robo Taxi Arrival Options in Urban Traffic",
+    "score": 10
+  },
+  {
+    "id": "g9_0PdRfw4Y",
+    "title": "Real-World Robo Taxi Test: FSD 14.1 City Streets Arrival Options",
+    "score": 10
+  },
+  {
+    "id": "__qmJ0BzJ4g",
+    "title": "Introduction to Options Skew",
+    "score": 10
+  },
+  {
+    "id": "TOHnzr4Q2qg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hSvJ-_nvZwU",
+    "title": "HELP WANTED: Potential Options To Help Upgrade The San Jose Sharks' Defense",
+    "score": 10
+  },
+  {
+    "id": "kPTn1-UyNjw",
+    "title": "Brandon Carlo Potential Sharks Target",
+    "score": 10
+  },
+  {
+    "id": "bpBSFRzS6Js",
+    "title": "U.S. Aircraft Carrier HEADING Towards Iran: Arrives in Middle East Amid Tensions",
+    "score": 10
+  },
+  {
+    "id": "F7KOI_4I_1E",
+    "title": "Red Sox Spring Training Report: Sandoval arrives \\u0026 outfielder options",
+    "score": 10
+  },
+  {
+    "id": "JynIWHye3dM",
+    "title": "Ship-tracking shows US warship arriving in Middle East as Iran tensions rise",
+    "score": 10
+  },
+  {
+    "id": "xC8f0zXlrgk",
+    "title": "TESLA JUST SOLVED ROBOTAXI'S BIGGEST PROBLEM?! FSD V14.1 'ARRIVAL OPTIONS' IS HERE! #Tesla #FSD",
+    "score": 10
+  },
+  {
+    "id": "aVP32_WG2kE",
+    "title": "When Options get Assigned - Robinhood Option Trading",
+    "score": 10
+  },
+  {
+    "id": "V4YuiKEk9IU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UXDw1y48SNI",
+    "title": "Behnam Ben Taleblu on the USS Abraham Lincoln arriving in Middle East amid Iran tensions – BBC News",
+    "score": 10
+  },
+  {
+    "id": "LxTuzPlpTkI",
+    "title": "Finding deals through brokers is another great option when it comes to self-storage investing.",
+    "score": 10
+  },
+  {
+    "id": "lm3-ABBAHso",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "np1dG7qjzZM",
+    "title": "Lawrence: Trump was 'on the verge of outright insanity' in deranged speech to military commanders",
+    "score": 10
+  },
+  {
+    "id": "gPpUI3xJx_c",
+    "title": "Lawrence: With Trump's shutdown ending, Dems are closer than ever to forcing Epstein files release",
+    "score": 10
+  },
+  {
+    "id": "Eqe0Suhoats",
+    "title": "Lawrence: How will you say ‘no’ to Donald Trump and Stephen Miller’s cruelty?",
+    "score": 10
+  },
+  {
+    "id": "qC8tKxuR5Ig",
+    "title": "Lawrence: Video of deadly Minneapolis ICE shooting exposes Trump \\u0026 Noem’s lies",
+    "score": 10
+  },
+  {
+    "id": "xlbGMFMnCDQ",
+    "title": "The Last Word with Lawrence O'Donnell - Jan. 26 | Audio Only",
+    "score": 10
+  },
+  {
+    "id": "WccJnZbysGU",
+    "title": "Lawrence: On Trump's last day in office he could pardon every single member of Trump's deadly force",
+    "score": 10
+  },
+  {
+    "id": "hozdmC4NTh4",
+    "title": "The Last Word with Lawrence O'Donnell - Jan. 27 | Audio Only",
+    "score": 10
+  },
+  {
+    "id": "3xRp5QXCZig",
+    "title": "Knight forced it, Lawrence finished it. 📺: CBS",
+    "score": 10
+  },
+  {
+    "id": "s7Pnnfd7oTA",
+    "title": "Lorentz Force explanation 💪🏻",
+    "score": 10
+  },
+  {
+    "id": "3NxK0XgZsIw",
+    "title": "Trump Under Pressure as Protests Trigger Federal Withdrawal",
+    "score": 10
+  },
+  {
+    "id": "PK8WRDE8m9A",
+    "title": "The Last Word with Lawrence O'Donnell - Jan. 28 | Audio Only",
+    "score": 10
+  },
+  {
+    "id": "oP8DAYJk2R4",
+    "title": "NFL Legends Then and Now — Icons Who Defined an Era 🏈🥺",
+    "score": 10
+  },
+  {
+    "id": "wZ4VkPArqVY",
+    "title": "Lawrence: GOP Policy Is To Victimize Rape Victims Forcing Them To Give Birth",
+    "score": 10
+  },
+  {
+    "id": "9hnwe8qC2NA",
+    "title": "Examining police officer's use of force in Lawrence",
+    "score": 10
+  },
+  {
+    "id": "GToqUjWOkzs",
+    "title": "Lawrence on Trump's DOJ crisis: 'The principled resignation era is now upon us. How many more?'",
+    "score": 10
+  },
+  {
+    "id": "KofzsYN0Mj8",
+    "title": "Illinois State Police investigate excessive force claim in Lawrence Co.",
+    "score": 10
+  },
+  {
+    "id": "h4Bm_ddh5ww",
+    "title": "10 PATRECE DAYTON",
+    "score": 10
+  },
+  {
+    "id": "nRDVm5rn_2A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_M6hpkFz4KM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_j7byapTrXI",
+    "title": "Full address: President Trump sets agenda for 2026 in Oval Office address",
+    "score": 10
+  },
+  {
+    "id": "nA6KpL36hDI",
+    "title": "Donald Trump's presidential agenda - BBC News",
+    "score": 10
+  },
+  {
+    "id": "LjZUR7QL5K8",
+    "title": "President Trump to tout 2026 agenda in address to the nation | The Hill",
+    "score": 10
+  },
+  {
+    "id": "AIO4wh8AGjQ",
+    "title": "Fmr. Trump Admin. Official Discusses the President-Elect's Supposed Agenda | Amanpour and Company",
+    "score": 10
+  },
+  {
+    "id": "UWTdpGDihrs",
+    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj \\u0026 Government Shutdown Looms",
+    "score": 10
+  },
+  {
+    "id": "OE2NtBhozT4",
+    "title": "Lawrence: The protesters are forcing Trump’s retreat.",
+    "score": 10
+  },
+  {
+    "id": "lVvFSV2FNqc",
+    "title": "Is Marco Rubio HIDING from President Trump????",
+    "score": 10
+  },
+  {
+    "id": "u852W9ezRTc",
+    "title": "Project 2025 Co-Author Lays Out \\\"Radical Agenda\\\" for Next Trump Term in Undercover Video",
+    "score": 10
+  },
+  {
+    "id": "UQjdwsZhE_Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gp-PRoRYVnA",
+    "title": "FAST FACTS: Here’s what happened with inflation under the Trump and Biden administrations.",
+    "score": 10
+  },
+  {
+    "id": "Hcfi7ExCklw",
+    "title": "President Trump wants to end sanctuary cities",
+    "score": 10
+  },
+  {
+    "id": "jwGNmHgkxvI",
+    "title": "President Trump calls out the \\\"Green New Scam\\\" at World Economic Forum",
+    "score": 10
+  },
+  {
+    "id": "a56qBZhdeRk",
+    "title": "FULL: Trump speaks at House GOP Retreat, addresses election-year agenda and Maduro's capture",
+    "score": 10
+  },
+  {
+    "id": "NUdZCcZH--M",
+    "title": "The President's Management Agenda",
+    "score": 10
+  },
+  {
+    "id": "VG3eZsjvl44",
+    "title": "Democrats LAUNCH ‘Project 2029’ To Develop Presidential AGENDA | RISING",
+    "score": 10
+  },
+  {
+    "id": "b_fRFg2L0aw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6_dzPDIl3Nk",
+    "title": "Will Trump run for president in 2028?",
+    "score": 10
+  },
+  {
+    "id": "ZGJpOZpYHkw",
+    "title": "After the Promise",
+    "score": 10
+  },
+  {
+    "id": "Kq5NXhb9LqE",
+    "title": "Jagged Edge - Promise (Official HD Video)",
+    "score": 10
+  },
+  {
+    "id": "lXd1GHJPx-A",
+    "title": "El valor de una promesa (1987) After the Promise",
+    "score": 10
+  },
+  {
+    "id": "6thmPrTxBtI",
+    "title": "Promise - Leaving Epcot Song",
+    "score": 10
+  },
+  {
+    "id": "jeiPSHEd2Zc",
+    "title": "\\\"After the promise\\\" Great Song",
+    "score": 10
+  },
+  {
+    "id": "TXOfjDDknZA",
+    "title": "PROMISE AFTER PROMISE (SATB Choir) - Cameron Pollock/arr. Jesse Bullard",
+    "score": 10
+  },
+  {
+    "id": "L9t50lbTxXg",
+    "title": "AFTER PROMISE",
+    "score": 10
+  },
+  {
+    "id": "cXUDaNpcMQo",
+    "title": "Future - Promise U That (Audio)",
+    "score": 10
+  },
+  {
+    "id": "P8oAH8Qk_yI",
+    "title": "Based on a True Story: Against Her Will (1994)",
+    "score": 10
+  },
+  {
+    "id": "e8oPc9bfEYg",
+    "title": "Romeo Santos - Promise ft. Usher",
+    "score": 10
+  },
+  {
+    "id": "Y3XyWhrZnqE",
+    "title": "Absolute Strangers TV Movie Ad - 1991",
+    "score": 10
+  },
+  {
+    "id": "R2ASCLoNn6k",
+    "title": "Certain Prey - NCIS Original Movie with Mark Harmon",
+    "score": 10
+  },
+  {
+    "id": "MmNXR_kiR4g",
+    "title": "Watch Full Episodes of NCIS Now! | USA Network",
+    "score": 10
+  },
+  {
+    "id": "k1NvoLMGH4w",
+    "title": "🔥【Eng Dub】A Promise to Another, A Divorce to Us",
+    "score": 10
+  },
+  {
+    "id": "Rr9qMVCjLp0",
+    "title": "*NSYNC - This I Promise You (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "T6ZTeiOUQss",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_wXX1kzbAZM",
+    "title": "OMG! Finally Marjorie Leaks Blocked Epstein Message As Trump Spirals",
+    "score": 10
+  },
+  {
+    "id": "kOv3QUFgzng",
+    "title": "FINALLY! Blocked Epstein Message LEAKED by Marjorie — Trump MELTS DOWN!",
+    "score": 10
+  },
+  {
+    "id": "CABjZtBYmgI",
+    "title": "OMG Marjorie Leaks Blocked Epstein Message As Trump Spirals",
+    "score": 10
+  },
+  {
+    "id": "7BP_ZRqPXso",
+    "title": "Mental Spirals Are Blocking Your Results (Here’s Why Nothing Moves)",
+    "score": 10
+  },
+  {
+    "id": "carO4RBMcIA",
+    "title": "Blocked",
+    "score": 10
+  },
+  {
+    "id": "0rhIE2hn3M0",
+    "title": "LOVELY COLOURS - SPIRALS (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "FZzeUCQdcK0",
+    "title": "This mechanism shrinks when pulled",
+    "score": 10
+  },
+  {
+    "id": "-QTkPfq7w1A",
+    "title": "What happens if you cut this rope?",
+    "score": 10
+  },
+  {
+    "id": "kXqMNpnacpA",
+    "title": "Understanding the Nature of Thoughts",
+    "score": 10
+  },
+  {
+    "id": "Ck3GEfyRdpU",
+    "title": "spiral",
+    "score": 10
+  },
+  {
+    "id": "bKQOefaB8ZA",
+    "title": "Only Found Here: Nepal's cliffside rock shift and the dust spiral blocking the trail | 2025 | 4K",
+    "score": 10
+  },
+  {
+    "id": "FqEQSPx2p8g",
+    "title": "The MOST Satisfying Ice Cracks!",
+    "score": 10
+  },
+  {
+    "id": "Wv2Z-adGhn0",
+    "title": "The Reactive Nature of Borderline Personality Disorder and the CYCLE it Creates #relationship #bpd",
+    "score": 10
+  },
+  {
+    "id": "VlFolrxzbi0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TcSpBAZvMhI",
+    "title": "A Week in the Life of a US President",
+    "score": 10
+  },
+  {
+    "id": "uI-XwixUS4I",
+    "title": "What Life Is Like For an Ex-President",
+    "score": 10
+  },
+  {
+    "id": "bjo3Fkdmh60",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BcQyMVSL73w",
+    "title": "Why Being the President Actually Sucks",
+    "score": 10
+  },
+  {
+    "id": "ON_3XqRy4Sk",
+    "title": "Barack Obama",
+    "score": 10
+  },
+  {
+    "id": "1RXIEIHhlMc",
+    "title": "What’s Under Antarctica’s Ice (intro)",
+    "score": 10
+  },
+  {
+    "id": "sRZr3ioeoXA",
+    "title": "Springsteen's Scathing Protest | Italy: No ICE | Trump Threatens MAGA Donors | Skipping \\\"Melania\\\"",
+    "score": 10
+  },
+  {
+    "id": "fMw52bQZzKw",
+    "title": "Presidents of the United States Timeline (1732-2025)",
+    "score": 10
+  },
+  {
+    "id": "sHrQpJWTKHQ",
+    "title": "What Rules Do Former Presidents Have To Follow",
+    "score": 10
+  },
+  {
+    "id": "L_kA7-sfORk",
+    "title": "The Rise And Fall Of President Nixon | Nixon In the Den | Timeline",
+    "score": 10
+  },
+  {
+    "id": "tV9JT4pZH_o",
+    "title": "PRESIDENTE (Video Oficial) - Gabito Ballesteros, Natanael Cano, Luis R Conriquez, Netón Vega",
+    "score": 10
+  },
+  {
+    "id": "x6UvVnZ-VBE",
+    "title": "I Am The Black Wizards (Remastered)",
+    "score": 10
+  },
+  {
+    "id": "rKXJrxWudHo",
+    "title": "Abraham Lincoln",
+    "score": 10
+  },
+  {
+    "id": "XYfmXEwATF8",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "JNWPLKoWr24",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NwLOuwtPAJ4",
+    "title": "Prologue",
+    "score": 10
+  },
+  {
+    "id": "yLp18nlvkMo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0qAr98aXIw8",
+    "title": "America's Manliest President | The Life \\u0026 Times of Theodore Roosevelt",
+    "score": 10
+  },
+  {
+    "id": "pnFmrgYh1fw",
+    "title": "Inspired by this image (not sure who the original illustrator is, if anyone knows please tell me!)",
+    "score": 10
+  },
+  {
+    "id": "to_hR0QJl80",
+    "title": "No driving",
+    "score": 10
+  },
+  {
+    "id": "A8Gsr5UOn0k",
+    "title": "BREAKING NEWS: Trump Asked Point Blank About Melania Doc 'Corruption' Concerns On Red Carpet",
+    "score": 10
+  },
+  {
+    "id": "o1D9dp_W5Us",
+    "title": "Trump sues IRS, Treasury Department for $10 billion dollars over leaked tax records",
+    "score": 10
+  },
+  {
+    "id": "irtVXCB4byk",
+    "title": "Nicki Minaj posts photo of Trump Gold Card",
+    "score": 10
+  },
+  {
+    "id": "Wwrjc-VgMHg",
+    "title": "Rapper Nicki Minaj says she is Donald Trump's 'number one fan' • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "2jnbm9O8l-c",
+    "title": "FULL: Trump signs initiative to address drug addiction",
+    "score": 10
+  },
+  {
+    "id": "9DP48dhGQv4",
+    "title": "'Black People' Respond To 'Nicki Minaj Backing Trump' At Summit: \\\"She’s Broke!\\\" - HP News",
+    "score": 10
+  },
+  {
+    "id": "8tkiiHgzcrQ",
+    "title": "President Trump threatens tariffs in push for Greenland purchase",
+    "score": 10
+  },
+  {
+    "id": "jJdyA-biWFs",
+    "title": "US Assembles Warships Near Iran | WION News",
+    "score": 10
+  },
+  {
+    "id": "cFYMcxPUy10",
+    "title": "Pentagon Cites, Iran is on the Move, US Assembles Warships Near Iran | WION News",
+    "score": 10
+  },
+  {
+    "id": "wmIMcCYPsWg",
+    "title": "Trump Is Sending Warships Near Iran - What Is Happening \\u0026 What It Means for India",
+    "score": 10
+  },
+  {
+    "id": "7v2FJN7jo-A",
+    "title": "US-Iran Tensions: Trump Assembles Warships Near Iran, Massive Attack On Tehran Incoming? | Originals",
+    "score": 10
+  },
+  {
+    "id": "MKdO-j0QGT0",
+    "title": "Iran’s Mural Billboard Warning To US As Warships Near Middle East, Says 'Sow Wind, Reap...' | Watch",
+    "score": 10
+  },
+  {
+    "id": "8gi8QRk0Yo0",
+    "title": "U.S.-Iran Crisis: Naval ships Near Gulf, Khamenei Takes Shelter",
+    "score": 10
+  },
+  {
+    "id": "jnzHzmdJjDw",
+    "title": "Iran ‘FIRES FIRST SHOT’ At US Warships, Uses GHOST BOATS Near Hormuz Flashpoint | On Cam",
+    "score": 10
+  },
+  {
+    "id": "57ab2gGW63M",
+    "title": "How the CIWS Phalanx Is Built – The Gun That Protects Warships",
+    "score": 10
+  },
+  {
+    "id": "oHObVNgXTnQ",
+    "title": "Iran WARNS US Warships — Any Approach Near Its Coast Could Trigger Attack!",
+    "score": 10
+  },
+  {
+    "id": "EWe60fXy188",
+    "title": "The $13 Billion Warship That Couldn't Launch Planes",
+    "score": 10
+  },
+  {
+    "id": "kqN68uAN7W8",
+    "title": "WRONG MOVE! Russian Warships Deploy Near Greenland – Then the U.S. Responded",
+    "score": 10
+  },
+  {
+    "id": "W2BWNsYe0r8",
+    "title": "US warships deploy to waters near Yemen",
+    "score": 10
+  },
+  {
+    "id": "Efga8eNl3YI",
+    "title": "US warships deploy near Yemen to track Iranian vessels",
+    "score": 10
+  },
+  {
+    "id": "aqLGmRpNIA8",
+    "title": "Will Hezbollah Back Iran As US Warships Near? Qassem Drops Big Hint As Thousands Gather In Lebanon",
+    "score": 10
+  },
+  {
+    "id": "7CzWb4UC738",
+    "title": "Chinese Warships Near Future Japan-US Base; Japan \\u0026 US Monitor Closely | WION NEWS",
+    "score": 10
+  },
+  {
+    "id": "JRMsQsMTMMY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "n-kODkdNSgs",
+    "title": "Bruce Springsteen releases ICE protest song",
+    "score": 10
+  },
+  {
+    "id": "x-D02USJ7Zo",
+    "title": "Springsteen slams ICE and dedicates song to Renee Good",
+    "score": 10
+  },
+  {
+    "id": "rLyiCZk40AY",
+    "title": "Bruce Springsteen calls for ICE to get out of Minneapolis, dedicates song to Renee Good",
+    "score": 10
+  },
+  {
+    "id": "0ho_aoTI7EU",
+    "title": "Bruce Springsteen dedicates song to Renee Good | Message to Donald Trump \\u0026 ICE at New Jersey Show",
+    "score": 10
+  },
+  {
+    "id": "gO3r2T7D9Lw",
+    "title": "Land of Hope and Dreams",
+    "score": 10
+  },
+  {
+    "id": "6ZHWIYHlXOs",
+    "title": "Bruce Springsteen's Message to Donald Trump",
+    "score": 10
+  },
+  {
+    "id": "vmXCp4kIq0M",
+    "title": "Bruce Springsteen - Streets Of Minneapolis (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "GDaPdpwA4Iw",
+    "title": "Springsteen's Scathing Protest | Italy: No ICE | Trump Threatens MAGA Donors | Skipping \\\"Melania\\\"",
+    "score": 10
+  },
+  {
+    "id": "vxflXjNjSRs",
+    "title": "Lawrence: The protesters are forcing Trump’s retreat.",
+    "score": 10
+  },
+  {
+    "id": "5YI7M8Xc23A",
+    "title": "RAW: Bruce Springsteen unloads on Trump, ICE at NJ concert",
+    "score": 10
+  },
+  {
+    "id": "61E0Cr_JI7I",
+    "title": "Bruce Springsteen calls out ICE during concert in N.J.",
+    "score": 10
+  },
+  {
+    "id": "qvX-0qe3Wl8",
+    "title": "Bruce Springsteen SLAMS Trump, Tells ICE To 'Get The F*** Out Of Minneapolis' At Light Of Day Fest",
+    "score": 10
+  },
+  {
+    "id": "-gqtMrsFMmk",
+    "title": "Bruce Springsteen calls Trump admin. 'incompetent, and treasonous' at UK show",
+    "score": 10
+  },
+  {
+    "id": "Tzap8lkdPXk",
+    "title": "Bruce Springsteen \\u0026 Jeremy Allen White on New Movie, Doing Karaoke \\u0026 Bruce's Message for America",
+    "score": 10
+  },
+  {
+    "id": "hs6oT4Ixecg",
+    "title": "Thank you Bruce Springsteen. op: estreetnation",
+    "score": 10
+  },
+  {
+    "id": "T6NV6BYV1FQ",
+    "title": "Bruce Springsteen Calls Trump An 'Unfit' President For A 'Rogue Government'",
+    "score": 10
+  },
+  {
+    "id": "z_6mnNyLERk",
+    "title": "Bruce Springsteen calls Trump administration 'corrupt' and 'treasonous'",
+    "score": 10
+  },
+  {
+    "id": "Iksg1sgabH0",
+    "title": "Bruce Springsteen criticizes ICE at concert in Red Bank, N.J.",
+    "score": 10
+  },
+  {
+    "id": "-7Z2lv-ABxA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-ZNJJxnr3is",
+    "title": "Trump threatens ABC's broadcast license after reporter asks about Jeffrey Epstein files",
+    "score": 10
+  },
+  {
+    "id": "UAoTHH9YLs4",
+    "title": "Trump threatens Canada and says the US could take over its oil supply",
+    "score": 10
+  },
+  {
+    "id": "h_RHbRolQFA",
+    "title": "Trump warns \\\"Armada\\\" headed toward Iran, threatens military action",
+    "score": 10
+  },
+  {
+    "id": "syoOiKEXLcU",
+    "title": "'EVERY President Has Option To Use Military IF…’, Rubio Threatens Greenland? Full Presser In 8 Mins",
+    "score": 10
+  },
+  {
+    "id": "pPvXClyoRxo",
+    "title": "Trump threatens 100% tariffs on Canada | KTVU",
+    "score": 10
+  },
+  {
+    "id": "NjfTrJXHUsM",
+    "title": "Trump appearing to threaten military action unless Iran negotiates",
+    "score": 10
+  },
+  {
+    "id": "W1ujBQaHYys",
+    "title": "US President threatens military action in Iran over weapons deal",
+    "score": 10
+  },
+  {
+    "id": "H8n2evk0ODM",
+    "title": "Trump Threatens Iran With Overwhelming Naval Power While Rubio Defends Maduro Capture",
+    "score": 10
+  },
+  {
+    "id": "c8zaXsoAXl4",
+    "title": "Maine sheriff calls out ICE agents who detained corrections recruit",
+    "score": 10
+  },
+  {
+    "id": "pyLGatrGTkw",
+    "title": "Increasing Pressure Threatens To Burst Trump Bubble With Potentially Concerning Fallout",
+    "score": 10
+  },
+  {
+    "id": "Ef2ageHf71I",
+    "title": "New York Times",
+    "score": 10
+  },
+  {
+    "id": "Lw38RkNH6Lo",
+    "title": "Daybreak Europe - 1/27/2026",
+    "score": 10
+  },
+  {
+    "id": "T89NdzuKehE",
+    "title": "Macron answers Trump's tariff threats at Davos World Economic Forum • FRANCE 24 English",
+    "score": 10
+  },
+  {
+    "id": "klWWuQjttyk",
+    "title": "Trump threatens tariffs on French wines to pressure Macron | REUTERS",
+    "score": 10
+  },
+  {
+    "id": "c8AtbyAucNk",
+    "title": "Trump threatens to tariff and 'decertify' Canadian aircraft",
+    "score": 10
+  },
+  {
+    "id": "btOvYOiRQQk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "tSdeIjBVc2w",
+    "title": "PBS News Hour full episode, Jan. 29, 2026",
+    "score": 10
+  },
+  {
+    "id": "8nDZFM4oMF8",
+    "title": "WATCH: Trumps attend 'Melania' film premiere at the Kennedy Center ahead of global release",
+    "score": 10
+  },
+  {
+    "id": "sJCHMW3pBfk",
+    "title": "The implications of U.S. allies seeking new economic partnerships",
+    "score": 10
+  },
+  {
+    "id": "7-fAZvBxPxs",
+    "title": "Alienated by Trump, U.S. allies turn to China and India for trade deals",
+    "score": 10
+  },
+  {
+    "id": "9zouPj1Cj1Y",
+    "title": "Sen. Johnson says he has sympathy for ICE officers amid protests and funding battle",
+    "score": 10
+  },
+  {
+    "id": "c9D_9wSUKKk",
+    "title": "What’s in the bipartisan Senate deal to avoid a shutdown, temporarily fund DHS",
+    "score": 10
+  },
+  {
+    "id": "4f7-bHEJLi8",
+    "title": "PBS News Hour full episode, Jan. 28, 2026",
+    "score": 10
+  },
+  {
+    "id": "ysw74Np-wz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g5C3-iqAHVU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hug02XU3nlc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-qr0gYjYOKw",
+    "title": "What’s in the bipartisan Senate deal to avoid a shutdown, temporarily fund DHS",
+    "score": 10
+  },
+  {
+    "id": "JExU6p95jck",
+    "title": "Whistleblower responds after DOJ confirms DOGE mishandled Social Security data",
+    "score": 10
+  },
+  {
+    "id": "nFvjfJcjx4U",
+    "title": "PBS News Hour full episode, Jan. 23, 2026",
+    "score": 10
+  },
+  {
+    "id": "XHoiQp6g9D0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IVJHhNcckM4",
+    "title": "Immigration crackdown fuels tensions as Congress faces shutdown threat",
+    "score": 10
+  },
+  {
+    "id": "bgVxgImLF4U",
+    "title": "PBS News Hour full episode, Jan. 21, 2026",
+    "score": 10
+  },
+  {
+    "id": "sUwG-4Gca9M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VasdW7Ux1q8",
+    "title": "BREAKING: Trump Issues Iran SEVERE Ultimatum; Khamenei BANS U.S. Negotiations | TBN Israel",
+    "score": 10
+  },
+  {
+    "id": "RUA2i287Rdk",
+    "title": "NEWS TODAY: Trump remarks, Border Czar Tom Homan in Minneapolis, latest updates",
+    "score": 10
+  },
+  {
+    "id": "p4FLMf0-a04",
+    "title": "U.S vs IRAN War Breaking: Trump THREATENS Tehran with ‘JUNE-LIKE’ ATTACK as Massive Armada Closes In",
+    "score": 10
+  },
+  {
+    "id": "6MYbbz2NZzQ",
+    "title": "Trump warns Iran as US warships head to Middle East | 7NEWS",
+    "score": 10
+  },
+  {
+    "id": "x-RCZxcor7Y",
+    "title": "Surprise BLASTS At Iran’s Nuclear Site as Tehran Regime IMPLODES—US Drones Face IRGC Drones",
+    "score": 10
+  },
+  {
+    "id": "mFiNZ8uKL_Q",
+    "title": "U.S. vs Iran War BREAKING: Trump IMPOSES Naval Blockade On Iran Oil; FURIOUS Xi Jinping Declares WAR",
+    "score": 10
+  },
+  {
+    "id": "WI-GJJo1p3Y",
+    "title": "IRAN DECLARES WARTIME STATUS FOR STRIKES, TROOPS DEPLOY TO BEIJING! Breaking War News The Enforcer",
+    "score": 10
+  },
+  {
+    "id": "Eq4G4iPqSqo",
+    "title": "U.S vs Iran War BREAKING: IRGC General LAUGHS at Trump; Warns ‘Fully-Prepared’ For WAR if Attacked",
+    "score": 10
+  },
+  {
+    "id": "Uf1dP2piNnE",
+    "title": "BREAKING: Iran THREATENS Strait of Hormuz BLOCKADE; US Forces DEPLOY Near Iran | The Enforcer News",
+    "score": 10
+  },
+  {
+    "id": "S308MIaqWVY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8j2KAM9kh0U",
+    "title": "Are people getting disability benefits for addictions?",
+    "score": 10
+  },
+  {
+    "id": "oLE8RNFqIF8",
+    "title": "What You Need to Know in Applying for Social Security Disability Benefits",
+    "score": 10
+  },
+  {
+    "id": "7U8-Y7WZbG0",
+    "title": "SSDI, SSI \\u0026 Retirement | Social Security Disability Insurance \\u0026 Supplemental Income | theSITREP",
+    "score": 10
+  },
+  {
+    "id": "Wbw6rdCKnpw",
+    "title": "Helping Others Apply for Social Security Disability Insurance Benefits",
+    "score": 10
+  },
+  {
+    "id": "1DYm8vRWwFk",
+    "title": "VA Disability \\u0026 Social Security Disability Insurance | VA \\u0026 SSDI | Social Security | theSITREP",
+    "score": 10
+  },
+  {
+    "id": "0UFRoklb5OQ",
+    "title": "Back Pay for VA Disability | How far back does VA Disability Pay? | Veterans Benefits | theSITREP",
+    "score": 10
+  },
+  {
+    "id": "g_fHkJlCv90",
+    "title": "Expanded presumptive disability benefits | The BLUF #veterans",
+    "score": 10
+  },
+  {
+    "id": "aoLBedzNz5A",
+    "title": "Helping Others File an Online Social Security Disability Application: Tips \\u0026 Best Practices",
+    "score": 10
+  },
+  {
+    "id": "sIyKwcos5hw",
+    "title": "How Long Can You Receive Social Security Disability Benefits?",
+    "score": 10
+  },
+  {
+    "id": "acxqEpe3kRI",
+    "title": "Children or Adults Autism \\u0026 DISABILITY benefits - Part 1",
+    "score": 10
+  },
+  {
+    "id": "5MkHLxtlE14",
+    "title": "How do I apply for Social Security disability benefits?",
+    "score": 10
+  },
+  {
+    "id": "iY-S2gIy438",
+    "title": "File NOW if you meet this social security disability requirement!",
+    "score": 10
+  },
+  {
+    "id": "Gp0GAGEcdjE",
+    "title": "The Duration Requirement",
+    "score": 10
+  },
+  {
+    "id": "1Ze21n71OSI",
+    "title": "Who is eligible for Social Security disability benefits?",
+    "score": 10
+  },
+  {
+    "id": "hW_J-muMjzk",
+    "title": "What You Need to Know About Cancer and Social Security Disability Benefits",
+    "score": 10
+  },
+  {
+    "id": "5C8Jw-qjywM",
+    "title": "What is the difference between short-term and long-term disability benefits?",
+    "score": 10
+  },
+  {
+    "id": "A7HpAA8dvzo",
+    "title": "3 Tips for Getting Disability Benefits for Back or Knee Pain",
+    "score": 10
+  },
+  {
+    "id": "TbpM4_IcmGY",
+    "title": "Degenerative Disc Disease and Social Security Disability Benefits",
+    "score": 10
+  },
+  {
+    "id": "Dstx1jCBaKI",
+    "title": "Intro Summary",
+    "score": 10
+  },
+  {
+    "id": "E1My8WErFG4",
+    "title": "YES! You CAN WORK \\u0026 Receive Disability Benefits! Former SSA Insider EXPLAINS!",
+    "score": 10
+  },
+  {
+    "id": "Vpu78bU6drc",
+    "title": "Intro Summary",
+    "score": 10
+  },
+  {
+    "id": "Hs24J3uT33Y",
+    "title": "Bipolar Disorder May Qualify You for Social Security Disability Benefits",
+    "score": 10
+  },
+  {
+    "id": "CFA0i85fvdY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3F-Igskzfzs",
+    "title": "Homan pushes people to protest Congress, not ICE",
+    "score": 10
+  },
+  {
+    "id": "36tkJVwQpSE",
+    "title": "Journalist Ken Klippenstein EXPOSES ICE For Compiling DATABASE of People Recording Agents!!!!",
+    "score": 10
+  },
+  {
+    "id": "zMwL9KmLYpA",
+    "title": "U.S. citizens in Minnesota allege racial profiling by federal agents",
+    "score": 10
+  },
+  {
+    "id": "YTpCAqSLCeA",
+    "title": "Memorial for Alex Pretti Killed by ICE Agents in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "JpTwY-cV6kc",
+    "title": "ICE agent: ‘We’re gonna come back for your whole family’",
+    "score": 10
+  },
+  {
+    "id": "8jyOe26mix8",
+    "title": "Community calls for accountability after 2 people shot by federal agents in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "0S5i3Xua-gU",
+    "title": "What a Former Undercover FBI Agent Sees in the Pretti Shooting Videos",
+    "score": 10
+  },
+  {
+    "id": "baqEuzLJzf4",
+    "title": "ON TAPE: Federal immigration agents have repeatedly shot at drivers",
+    "score": 10
+  },
+  {
+    "id": "0ilx4iMojzM",
+    "title": "Protesters clash with federal agents outside Minneapolis hotel",
+    "score": 10
+  },
+  {
+    "id": "NU6OK4f9sAI",
+    "title": "DHS arrests for assaulting ICE agents rarely charged, regularly dismissed",
+    "score": 10
+  },
+  {
+    "id": "z5wJqx-7aaM",
+    "title": "Federal agents tried to enter the Ecuadorian consulate in Minneapolis",
+    "score": 10
+  },
+  {
+    "id": "_K5xyu663eY",
+    "title": "Latino ICE Agents Sell Out Their Race,  Not Black People’s Problem... 📱",
+    "score": 10
+  },
+  {
+    "id": "_rBjONSC7RE",
+    "title": "Federal Agents Crash Noise Demo at Hotel, Escort Masked Guests With Luggage Out [Vertical Short]",
+    "score": 10
+  },
+  {
+    "id": "Dr7Qq2YDT9g",
+    "title": "ICE agents can enter homes without judge’s warrant, memo says",
+    "score": 10
+  },
+  {
+    "id": "-0bXOz5Yp-w",
+    "title": "Windows: Evolving the OS for People and Agents",
+    "score": 10
+  },
+  {
+    "id": "wbpfbL3_C3g",
+    "title": "GREG BOVINO WARNS OF “CONSEQUENCES” FOR PEOPLE CALLING FEDERAL AGENTS “KIDNAPPERS”",
+    "score": 10
+  },
+  {
+    "id": "HznS39mRvJQ",
+    "title": "Hickenlooper Slams ICE After Agents Reportedly Leave 'Death Cards' In Cars After Detaining People",
+    "score": 10
+  },
+  {
+    "id": "8aMLSYgBLlk",
+    "title": "Latino ICE Agents Sell Out Their Race,  Not Black People’s Problem...",
+    "score": 10
+  },
+  {
+    "id": "1GFN4AZHGjo",
+    "title": "Eugene mayor condemns federal tactics after protestors clash with agents during vigil",
+    "score": 10
+  },
+  {
+    "id": "M1qcjwoOWuw",
+    "title": "Colorado advocacy group says ICE agents left 'death cards' in vehicles after people detained",
+    "score": 10
+  },
+  {
+    "id": "6gYPGcEI8As",
+    "title": "Two women charged after biting agents in Minnesota",
+    "score": 10
+  },
+  {
+    "id": "8AwlAVwm2dA",
+    "title": "Bovino says agents involved in Minn. shooting scene still working, relocated 'for their safety'",
+    "score": 10
+  },
+  {
+    "id": "2k5cdlcEaic",
+    "title": "Why AI Agents Are Reshaping Revenue Operations | EP120",
+    "score": 10
+  },
+  {
+    "id": "iwKIspzanZs",
+    "title": "Meet The Host And Guest",
+    "score": 10
+  },
+  {
+    "id": "UELbipRM95I",
+    "title": "The Workplace Retaliation Trap:  Employers Set It.  WE Cash in!  EEOC Topics",
+    "score": 10
+  },
+  {
+    "id": "9b8agvlTIuY",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "Q1_1o5W3C2A",
+    "title": "Activities That Are Protected",
+    "score": 10
+  },
+  {
+    "id": "7oLVpqSULVA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hltoEgFDnas",
+    "title": "Suing your boss? Watch out for this trick!",
+    "score": 10
+  },
+  {
+    "id": "t2lnhVoKYbU",
+    "title": "The #1 Legal Risk You're Ignoring: Retaliation at Work",
+    "score": 10
+  },
+  {
+    "id": "3YbbOJpDPqk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GKKT8TK2jY8",
+    "title": "Four",
+    "score": 10
+  },
+  {
+    "id": "sveD0ZFLa2Y",
+    "title": "What is RETALIATION?",
+    "score": 10
+  },
+  {
+    "id": "xuCVV7dCb2c",
+    "title": "TOP 3 HR TRAPS EMPLOYEES FALL INTO #fired #employment #lawyer #hr #retaliation #discrimination #hr",
+    "score": 10
+  },
+  {
+    "id": "aDgg_88okHI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QwXP2iURsPc",
+    "title": "What activities most commonly give rise to retaliation claims?",
+    "score": 10
+  },
+  {
+    "id": "FuUE_f8VDWY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QSvRdJE4Wx4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t1cbAlbwCXg",
+    "title": "Can retaliation claims be easy to prove?",
+    "score": 10
+  },
+  {
+    "id": "AuxZaKyTB74",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "VI_s3FE6F-c",
+    "title": "Jack Hartmann Kids Music Channel.",
+    "score": 10
+  },
+  {
+    "id": "up--pIZW1Dk",
+    "title": "Choices that can Change your Life | Caroline Myss | TEDxFindhornSalon",
+    "score": 10
+  },
+  {
+    "id": "8GQZuzIdeQQ",
+    "title": "Charlie and the Choosing Chair | A Story About Making Choices",
+    "score": 10
+  },
+  {
+    "id": "IrqJKfQdw9s",
+    "title": "The Choosing Chair",
+    "score": 10
+  },
+  {
+    "id": "mQUZJRsl2b8",
+    "title": "Making Tough Choices with Kid President",
+    "score": 10
+  },
+  {
+    "id": "X7j8F16eSqs",
+    "title": "GOOD vs BAD | Making Choices | Bumble Bree",
+    "score": 10
+  },
+  {
+    "id": "nRzqoS9mCUo",
+    "title": "CHOICES || A Powerful Christian Movie on Decisions and Faith |   LATEST FSM 2026 MOVIE",
+    "score": 10
+  },
+  {
+    "id": "rpWVRsuRpZ8",
+    "title": "The Art of Making Decisions - Alan Watts",
+    "score": 10
+  },
+  {
+    "id": "UdsrlWUkTw0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_HEnohs6yYw",
+    "title": "US Border Patrol Commander talks making “good choices,” says Alex Pretti's death was “preventable”",
+    "score": 10
+  },
+  {
+    "id": "2vjAzGiiRoI",
+    "title": "Mindful Choices",
+    "score": 10
+  },
+  {
+    "id": "yTgNM5wGr2E",
+    "title": "Mindful breathing",
+    "score": 10
+  },
+  {
+    "id": "FDnK2xxTJSg",
+    "title": "Making Choices",
+    "score": 10
+  },
+  {
+    "id": "V6C6SvTbfoo",
+    "title": "VeggieTales | Making Good Choices | 30 Steps to Being Good (Step 1)",
+    "score": 10
+  },
+  {
+    "id": "GF6XgLXaZOY",
+    "title": "Abraham Hicks 2024 ❣️Mastering Decision Making~ Secrets to Making Better Choices❣️ Law Of Attraction",
+    "score": 10
+  },
+  {
+    "id": "5hrWtoD3XWk",
+    "title": "Making good choices even when my friends do not - a social story about making good choices",
+    "score": 10
+  },
+  {
+    "id": "FsTjjk0fORU",
+    "title": "the power of CHOICE (a short film to motivate you)",
+    "score": 10
+  },
+  {
+    "id": "6cxt_Ki4GSo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pa9T06mTwig",
+    "title": "TOP MOMENTS: Trump meets with Cabinet amid ICE tensions and government shutdown",
+    "score": 10
+  },
+  {
+    "id": "2yK2k3oSLBo",
+    "title": "A Mother's Day Surprise from President Obama",
+    "score": 10
+  },
+  {
+    "id": "4Hcrx0uwluk",
+    "title": "A Message from President Trump",
+    "score": 10
+  },
+  {
+    "id": "UCCb7ICztVA",
+    "title": "How Trump is Profiting from the Presidency",
+    "score": 10
+  },
+  {
+    "id": "Vw6gYdOPncI",
+    "title": "Trump Celebrates Melania’s Movie Premiere, Has New BFF Nicki Minaj \\u0026 Government Shutdown Looms",
+    "score": 10
+  },
+  {
+    "id": "T4bdgu-6YpY",
+    "title": "President Trump Gaggles with Press Before Departing the White House, Jan. 27, 2026",
+    "score": 10
+  },
+  {
+    "id": "sWzW9Q45Mp8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WpE_xMRiCLE",
+    "title": "This Deal's Getting Worse All The Time | Robot Chicken | Adult Swim",
+    "score": 10
+  },
+  {
+    "id": "8i8W9CEDV6E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kIhKtTzDyho",
+    "title": "A Hat in Time OST [Seal the Deal] - Peace and Tranquility",
+    "score": 10
+  },
+  {
+    "id": "SHvhps47Lmc",
+    "title": "FINALLY: US Navy Takes Action after Iran Reject Deal — Now It’s Time to Pay the Price",
+    "score": 10
+  },
+  {
+    "id": "2ZkjMUIDP9U",
+    "title": "This Deal Is Getting Worse All The Time...",
+    "score": 10
+  },
+  {
+    "id": "t3wB6r2ul5Q",
+    "title": "A Hat in Time OST [Seal the Deal] - Death Wish",
+    "score": 10
+  },
+  {
+    "id": "TljApMdkWdo",
+    "title": "US government shutdown: Trump says deal has been reached with Democrats",
+    "score": 10
+  },
+  {
+    "id": "iXMlAOQV8Lc",
+    "title": "Trump warns Iran that \\\"time is running out\\\" to reach a nuclear deal",
+    "score": 10
+  },
+  {
+    "id": "MVO1Jxvbdp0",
+    "title": "An Altered Deal | Robot Chicken: Star Wars Special | Adult Swim",
+    "score": 10
+  },
+  {
+    "id": "31HaTbWONmQ",
+    "title": "'We Sacrificed More, And You Chose India?': Furious U.S. BLASTS India-EU Trade Deal; Bessent Says...",
+    "score": 10
+  },
+  {
+    "id": "bW8itunVyms",
+    "title": "Decision Time: Deal or Risk it All? | Deal or No Deal with Howie Mandel | S01 E54",
+    "score": 10
+  },
+  {
+    "id": "3QCN-Bli4Zs",
+    "title": "Maths Time Joy - Real Deal (feat. J Warner \\u0026 Sinead Harnett)",
+    "score": 10
+  },
+  {
+    "id": "pg1Xke-CKQs",
+    "title": "Business and Deal-Making According to Rumpelstiltskin",
+    "score": 10
+  },
+  {
+    "id": "CnLFS6WuHCg",
+    "title": "A Hat in Time OST [Seal the Deal] - Collapsing Time Rift",
+    "score": 10
+  },
+  {
+    "id": "fAOn6xZy3FE",
+    "title": "Donald Trump warns Iran 'time is running out' for nuclear deal | BBC News",
+    "score": 10
+  },
+  {
+    "id": "DgvBjtjG_0M",
+    "title": "Master Salesman Closes A Deal At 4 TIMES The Price | Chris Do",
+    "score": 10
+  },
+  {
+    "id": "1IVusxCXNwU",
+    "title": "Search filters",
+    "score": 10
+  }
+]

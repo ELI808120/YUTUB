@@ -1,1 +1,2857 @@
-[]
+[
+  {
+    "id": "kftw5wAeWEU",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "P5F5DC8_hVw",
+    "title": "מדריך פייתון - 23 - לולאות for",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "👩‍💻 מדריך פייתון למתחילים",
+    "score": 110
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כיצד פועלים מנועי מכוניות? מבט מקרוב על הפרטים המורכבים של מנוע",
+    "score": 60
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "איך עובד מנוע?",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "פייתון למתחילים, פרק 9: פונקציית input",
+    "score": 60
+  },
+  {
+    "id": "BDEeTrhfmQY",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "XBhPz9m0duM",
+    "title": "Easy way to draw anime eyes!!... (eye tutorial) #eyedrawing #anime",
+    "score": 50
+  },
+  {
+    "id": "y2lgutQ0HLg",
+    "title": "How to draw Simple Scenery Art For Beginners",
+    "score": 50
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "How to study PHYSICS so FAST that it feels ILLEGAL (No Boring Stuff)",
+    "score": 50
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "Decoding the Universe: Quantum | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "dysvg0pT0zA",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "DtDw9qV_wmI",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "OiUr-1yNEaI",
+    "title": "Extreme Construction: Impossible Mega Projects | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "P6KH70AwiXk",
+    "title": "Incredible Engineering: Enormous Construction | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "KDFysWereaU",
+    "title": "Megastructures - Airbus A380 Mega Plain Documentary National Geographic.",
+    "score": 50
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "MegaStructures - Super Copters (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "World’s Most Extreme Railway | Megastructures | Free Documentary",
+    "score": 50
+  },
+  {
+    "id": "HVz8LsWzCPw",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "We Found 1932 Bugatti Atlantic for $1,000… Then Restored It || ASMR Car Restoration!",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "I Found a $100 Suzuki Hayabusa Junk | Full Restoration hayabusa GSX1300R Two-stroke engine bike",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "Restore a truck they said, it’ll be fun they said | 359 Peterbilt Restoration (Pocket Change) ",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "Medieval Manor Restoration - The Restoration Man - S02 EP6 - Home Renovation",
+    "score": 50
+  },
+  {
+    "id": "ZioqHNFv6Ag",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "Saving A Massive Historic Ship  - The Aurora Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "rkG_dZ_YT0I",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "UmiR_aNld68",
+    "title": "1965 Austin-Healey MK III - Car Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "Building an Elevated Survival Shelter with a Separate Fire Platform to Avoid Ground Predators",
+    "score": 50
+  },
+  {
+    "id": "7PZlm89lfCA",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "1hhM3PcHNSU",
+    "title": "Building a Secret  Dugout Between Two Oak Trees. Bushcraft, Survival Shelter",
+    "score": 50
+  },
+  {
+    "id": "fuiJ-3CdU3Q",
+    "title": "Coolest New Technologies of 2026",
+    "score": 50
+  },
+  {
+    "id": "1ZMCM3W5Veo",
+    "title": "2060: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "q4S19AZV99Y",
+    "title": "2050: 20 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "L76f4cSjzS0",
+    "title": "20 Future Technologies That Will Change The World",
+    "score": 50
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "2030 Is Only 4 Years Away (20 Technologies)",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "2060: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "China Just Shocked the World With What They’re Building!",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "2070: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "gXjUlez98MA",
+    "title": "Magnetic Thrusters: The FUTURE of Propulsion Technology",
+    "score": 50
+  },
+  {
+    "id": "CbOmgCF8KCE",
+    "title": "Top 10 Future Technologies In 2026 | High Paying Future Technology 2026 | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "Top 15 New Technology Trends So Bizarre They’re Almost Scary",
+    "score": 50
+  },
+  {
+    "id": "4Ur_Mdg4SzQ",
+    "title": "The Future of the World (2030 to 10,000 A.D.+): 130 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "yCs10fK5dxA",
+    "title": "Top 17 New Technology Trends That Will Define 2026",
+    "score": 50
+  },
+  {
+    "id": "EGvKqeKvROE",
+    "title": "What Causes Lightning and Thunder??? |  Educational Video for kids with Ryan ToysReview",
+    "score": 50
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "The Extreme Engineering Behind the Panama Canal’s Modern Makeover | Blueprint",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "f0RX4rYySh8",
+    "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "SunQ8XIiAzc",
+    "title": "What Causes Thunder and Lightning? | Weather Science | SciShow Kids",
+    "score": 50
+  },
+  {
+    "id": "Dx3RpXdJw2k",
+    "title": "What Is Lightning? for Kids | STEM ACTIVITY | Learn how lightning works",
+    "score": 50
+  },
+  {
+    "id": "omYAo1bJ2VU",
+    "title": "HEAVY RAIN at Night 10 Hours for Sleeping, Relax, Study, insomnia, Reduce Stress. Heavy Rain Sounds",
+    "score": 50
+  },
+  {
+    "id": "jX6kn9_U8qk",
+    "title": "HEAVY RAIN at Night 10 Hours for Sleeping, Relax, Study, insomnia, Reduce Stress. Heavy Rain Sounds",
+    "score": 50
+  },
+  {
+    "id": "xoirXUhEpIo",
+    "title": "🎧 Heavy Rain Sounds at Night - Sleep, Study, Relax | Ambient Noise Rainstorm, @Ultizzz day#69",
+    "score": 50
+  },
+  {
+    "id": "eTeD8DAta4c",
+    "title": "Super Heavy Rain to Sleep in 3 Minutes and Beat Insomnia. Black Screen Rain for Study \\u0026 Relaxing",
+    "score": 50
+  },
+  {
+    "id": "7qJFyxZkTuU",
+    "title": "3 Hours of Gentle Night Rain, Rain Sounds for Sleeping - Dark Screen to Beat insomnia, Relax, Study",
+    "score": 50
+  },
+  {
+    "id": "XSL1HbrE3DE",
+    "title": "🎧 Heavy Rain Sounds at Night - Sleep, Study, Relax | Ambient Noise Rainstorm, @Ultizzz day#69",
+    "score": 50
+  },
+  {
+    "id": "w3oR-NTADg4",
+    "title": "In The Forest 3H  : Study Sleep Relax Acoustic Background Music",
+    "score": 50
+  },
+  {
+    "id": "_6NAgE4fkvg",
+    "title": "365 Days How I Survival, Cooking And Building In The Rain Forest - Full Video",
+    "score": 50
+  },
+  {
+    "id": "_1ZEOzzYLYE",
+    "title": "RELAXING SOUL MUSIC - CHILL OUT CAFE MUSIC - STUDY, WORK RELAX",
+    "score": 50
+  },
+  {
+    "id": "Q56PMJbCFXQ",
+    "title": "Why is the citicorp building on stilts?",
+    "score": 50
+  },
+  {
+    "id": "kihX9KU0GJg",
+    "title": "All Humans in One Building",
+    "score": 50
+  },
+  {
+    "id": "D0YPAQ8on4g",
+    "title": "The skyscraper that survived a plane crash. #empirestatebuilding #twintowers #1945",
+    "score": 50
+  },
+  {
+    "id": "D2IhwD5QzJA",
+    "title": "The Coziest Stormy Night at the Cabin | Thunder \\u0026 Rainstorm Ambience | RELAX | STUDY | SLEEP",
+    "score": 50
+  },
+  {
+    "id": "OAbS58i7xz0",
+    "title": "Indoor Rain Sounds | Sleep, Study, Relax | No Thunder 🌧️",
+    "score": 50
+  },
+  {
+    "id": "9QneqUhCVtU",
+    "title": "Heavy Rain to Sleep FAST. 24 Hours of Strong Rain Sounds to End Insomnia, Block Noise, Study",
+    "score": 50
+  },
+  {
+    "id": "s_Zio74-pgI",
+    "title": "HEAVY RAIN at Night to Sleep Instantly - Study, Relax, Reduce Stress with Rain Sounds",
+    "score": 50
+  },
+  {
+    "id": "PEc9Ne20hlg",
+    "title": "Electric Charge: Crash Course Physics #25",
+    "score": 50
+  },
+  {
+    "id": "VSl5F9U6O7o",
+    "title": "The Shocking history :- How positive and negative charge we're discovered",
+    "score": 50
+  },
+  {
+    "id": "PQ7--HQltb0",
+    "title": "Positive or Negative? How to Find Electric Charge Polarity",
+    "score": 50
+  },
+  {
+    "id": "x1F13nSt7P4",
+    "title": "Why Do Electrons Have Negative Charge? Exploring the True Origin of Matter documentary",
+    "score": 50
+  },
+  {
+    "id": "taDB6iK3FIE",
+    "title": "Lightning Protection System Video- New Installation Small Commercial Building",
+    "score": 50
+  },
+  {
+    "id": "Zo2Cuw2_Fi8",
+    "title": "How to Survive a Lightning Strike",
+    "score": 50
+  },
+  {
+    "id": "eh6_0D2FzXs",
+    "title": "How to Crochet an Easy Mug Cozy",
+    "score": 50
+  },
+  {
+    "id": "FSqzLOP6lw8",
+    "title": "【NO MID ADS】 Cozy Rain Sound on Japanese Garden😴 | Rain sound for sleep, study and relax",
+    "score": 50
+  },
+  {
+    "id": "nX3ug1KOLKk",
+    "title": "Sitting On The Porch On A Stormy Day: Heavy Rain and Fireplace Sounds To Sleep, Relax, Rest, Study",
+    "score": 50
+  },
+  {
+    "id": "VWeMFKqMnV4",
+    "title": "【5M】Lie down, close your eyes, and let the sound of rain guide you to sleep💤",
+    "score": 50
+  },
+  {
+    "id": "YLh7khdYwLg",
+    "title": "How to Photograph Lightning - Tutorial \\u0026 Pro Tips",
+    "score": 50
+  },
+  {
+    "id": "oJemyHZcLwc",
+    "title": "How To Photograph Storms SAFELY In Landscape Photography",
+    "score": 50
+  },
+  {
+    "id": "mdjCONAM6E4",
+    "title": "How To Photograph Storms Safely Intro",
+    "score": 50
+  },
+  {
+    "id": "koJuo_mj8uI",
+    "title": "The Ultimate Camera Gear Guide for New Storm Photographers",
+    "score": 50
+  },
+  {
+    "id": "SD2b66Tvgvc",
+    "title": "Photographing Storms  //  Lightning Photography Tutorial",
+    "score": 50
+  },
+  {
+    "id": "M0qWBKQ7ldY",
+    "title": "RAIN Sounds for Sleeping BLACK SCREEN | Rain NO THUNDER | Calm Rain for Sleep, Study",
+    "score": 50
+  },
+  {
+    "id": "I16oiHCufUg",
+    "title": "RAIN to Sleep Immediately \\u0026 End Insomnia - Dark Screen - Rain to Block Noises ,sleep,relax,study",
+    "score": 50
+  },
+  {
+    "id": "W0pvh9gIrX8",
+    "title": "Peaceful River Flowing Sound. Gentle River, Relaxing Nature Sounds. White Noise for Sleep, Study.",
+    "score": 50
+  },
+  {
+    "id": "wlrDpoPdjGg",
+    "title": "Sleep doctor explains how to get 8 hours of sleep in 6 hours",
+    "score": 50
+  },
+  {
+    "id": "Skz6fJG952o",
+    "title": "This is How to Reset Your Sleep Schedule",
+    "score": 50
+  },
+  {
+    "id": "-pHoNcD6sGU",
+    "title": "White Noise Black Screen | Sleep, Study, Focus | 10 Hours",
+    "score": 50
+  },
+  {
+    "id": "nMfPqeZjc2c",
+    "title": "REALLY AWESOME FAN SOUND FOR SLEEP | White Noise For Superb Slumber, Studying \\u0026 Relaxation",
+    "score": 50
+  },
+  {
+    "id": "v-Ryb13PUIs",
+    "title": "How to Fix Your Sleep Schedule",
+    "score": 50
+  },
+  {
+    "id": "c0mEtvQOFSA",
+    "title": "Top 10 Best Places to Visit in ARKANSAS 2026 | US Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "Iv1U0bIu1LY",
+    "title": "Arkansas Travel Guide: 22 BEST Things To Do In Arkansas and Places to Visit",
+    "score": 50
+  },
+  {
+    "id": "77glrCz-vEA",
+    "title": "【5M】Lie down, close your eyes, and let the sound of rain guide you to sleep💤",
+    "score": 50
+  },
+  {
+    "id": "VKSEG8Xr-RQ",
+    "title": "Relaxing Nature Sounds for Sleeping - Natural Calm Forest Waterfall Music Meditation Sound for Study",
+    "score": 50
+  },
+  {
+    "id": "_nPQOMZmIk8",
+    "title": "5 BEGINNER Drawing Exercises to IMPROVE Fast (Do these First!)",
+    "score": 10
+  },
+  {
+    "id": "1OLI4qiHh9Q",
+    "title": "The Drawing Exercise that Changed My Life",
+    "score": 10
+  },
+  {
+    "id": "PGNrnp-jLQg",
+    "title": "20 FAST Tricks to Transform your Drawing Skills!",
+    "score": 10
+  },
+  {
+    "id": "Z6ZPq9Q4A0o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "7nO8iV1e2vg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3vOJ7FrCPdU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "15 Beginner Raised Bed Gardening Mistakes That Nobody Talks About",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "SGUMC19IISY",
+    "title": "Level 1 to 100 Physics Concepts to Fall Asleep to",
+    "score": 10
+  },
+  {
+    "id": "ZffEvgEE-hc",
+    "title": "Physics - Basic Introduction",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "Quantum Physics, Explained Slowly | The Sleepy Scientist",
+    "score": 10
+  },
+  {
+    "id": "KrejHlq-O9A",
+    "title": "What the Higgs Boson Actually Is (No Analogies)",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "How Physicists Proved Everything is Quantum - Nobel Physics Prize 2025 Explained",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "kGBv_vZFnvw",
+    "title": "What is the Schrödinger Equation? A basic introduction to Quantum Mechanics",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "The Dirac Equation: The Most Important Equation You’ve Never Heard Of",
+    "score": 10
+  },
+  {
+    "id": "upX1MmQwGBU",
+    "title": "The Biggest Misconception in Physics",
+    "score": 10
+  },
+  {
+    "id": "lcjdwSY2AzM",
+    "title": "What is symmetry?",
+    "score": 10
+  },
+  {
+    "id": "Jfk4_BsNn1g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LmaPm5_pckU",
+    "title": "Mega Dams \\u0026 Channels",
+    "score": 10
+  },
+  {
+    "id": "2prUjhNE_-E",
+    "title": "WORLD MEGAPROJECTS | The Most Amazing Future Megastructures",
+    "score": 10
+  },
+  {
+    "id": "BtpFV5IB7dQ",
+    "title": "Shanghai Super Tower: The 60,000 Ton Behemoth Made Out Of Steel | Megastructures Episode 4",
+    "score": 10
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "China’s Mega Machines Just Broke Every Rule of Physics — Experts Are Stunned",
+    "score": 10
+  },
+  {
+    "id": "jJYRehW2z_s",
+    "title": "The US Government’s 8 Biggest Mega Projects Under Construction",
+    "score": 10
+  },
+  {
+    "id": "IkFB4VM3zeg",
+    "title": "Colossal Shiploader Overhaul | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "3yForRqB2fA",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "The Raw Power Of Super-Dredger Ibn Battuta",
+    "score": 10
+  },
+  {
+    "id": "1o7FQY6z7_4",
+    "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
+    "score": 10
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "UNKNOWN CHINA: Natural Wonders and Megaprojects",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tEm_H280JLc",
+    "title": "World’s Biggest Tent",
+    "score": 10
+  },
+  {
+    "id": "xLJ7y25qE9A",
+    "title": "Pre-Inca Megastructures That CAN NOT Be Explained",
+    "score": 10
+  },
+  {
+    "id": "uTSpdD6MswA",
+    "title": "Pasi Lautala Railway Engineer",
+    "score": 10
+  },
+  {
+    "id": "hZi4sIMhad8",
+    "title": "Extreme Construction: China's Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HVoifbegJ5E",
+    "title": "Mega Bridges",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eBckAi4moQE",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "-_Pn-_Ieuf4",
+    "title": "How Are Tunnels Built Deep Underground?",
+    "score": 10
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "bFt1lBtvyV4",
+    "title": "We're restoring a dying coral reef - here's how",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How is a car engine assembled",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "Car Engine Parts \\u0026 Their Functions Explained in Details | The Engineers Post",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "xMELg3d9N_8",
+    "title": "How a Jet Airliner Works",
+    "score": 10
+  },
+  {
+    "id": "NZLbTuBDhJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "rmYITgk2xh8",
+    "title": "Every Part of an Engine Explained (in 15 minutes)",
+    "score": 10
+  },
+  {
+    "id": "MgL0GW248mE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "KjiUUJdPGX0",
+    "title": "COMBUSTION CHAMBER",
+    "score": 10
+  },
+  {
+    "id": "5ug7clGN0Rw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "20 Urban Survival Skills You Need To Know Now in 10 Minutes!",
+    "score": 10
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "3 Days in Arctic Survival Shelter - Solo Bushcraft Camping \\u0026 Blacksmithing.",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "✅ The guy shows SURVIVAL skills in the wilderness 💦 #camping #survival #bushcraft #outdoors",
+    "score": 10
+  },
+  {
+    "id": "KMO371fCkNM",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "BFheNvvJGoQ",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "SSitRqKIt48",
+    "title": "Cordage",
+    "score": 10
+  },
+  {
+    "id": "36E28cSEDRs",
+    "title": "Hunting giant wild boars, homemade guns work surprisingly effectively, survival skills",
+    "score": 10
+  },
+  {
+    "id": "0wIH86xuZ-c",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "Raising pigs use free range method, feeding them natural food - in 3 years he will be a billionaire",
+    "score": 10
+  },
+  {
+    "id": "mu80vaqaEZg",
+    "title": "Survival skills: Snails boiled with chili sauce for lunch, Duck spicy grilled for dinner, +5 videos",
+    "score": 10
+  },
+  {
+    "id": "mPn0ji5zvrw",
+    "title": "15 Genius Medieval Survival Skills Modern Preppers Have Forgotten",
+    "score": 10
+  },
+  {
+    "id": "2xGrnfEsjoU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hfB9sY_9EQw",
+    "title": "We're Weak",
+    "score": 10
+  },
+  {
+    "id": "xlMmWmRQe-I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1v4QIHZKEl0",
+    "title": "How Smart Can AI Actually Get?",
+    "score": 10
+  },
+  {
+    "id": "XyZ83EEjXxU",
+    "title": "The AI Takeover Starts in 2026",
+    "score": 10
+  },
+  {
+    "id": "tMr5JSZP9cw",
+    "title": "130 AI Predictions (Some Are Terrifying)",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "What AI Looks Like in 10,000+ A.D.",
+    "score": 10
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "How Powerful Can a Civilization Get? (Type 1-7)",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L2pMSsfLoSM",
+    "title": "Conscious AI",
+    "score": 10
+  },
+  {
+    "id": "T-F-vVNVQ50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KBIXQ-jG9wQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Oa9aWdcCC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pzt3iyWFpQA",
+    "title": "CRAZY lightning storm over London! ⚡ Worth the 2000+ shots? \"},{\"text\":\"#photography\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMICENbKAxgJIhMI7bOr1fK3kgMVvL0rBh2hrzGpygEEF0Kkow==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/photography\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgtwaG90b2dyYXBoeRgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CMICENbKAxgJIhMI7bOr1fK3kgMVvL0rBh2hrzGp\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"4,202,983 views\"},\"shortViewCount\":{\"simpleText\":\"4.2M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "c7TNPiryDyg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "iNi69wh3KKw",
+    "title": "In this video",
+    "score": 10
+  },
+  {
+    "id": "kRmTYHcBXsk",
+    "title": "Struck by Lightning: What Is It Like?",
+    "score": 10
+  },
+  {
+    "id": "kknt6F-BBIA",
+    "title": "The Weirdest Kinds of Lightning You've Never Heard Of",
+    "score": 10
+  },
+  {
+    "id": "mRzasmJ_RmU",
+    "title": "What Happens If You're Struck By LIGHTNING? | Thunder \\u0026 Lightning | Dr Binocs Show | Peekaboo Kidz",
+    "score": 10
+  },
+  {
+    "id": "05AGKawvzFI",
+    "title": "In this video",
+    "score": 10
+  },
+  {
+    "id": "vNm422Ta44w",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "q6Znd6ZKe3o",
+    "title": "⚡What Causes Thunder and Lightning? | Which One Comes First? | Curious Songs for Kids | JunyTony",
+    "score": 10
+  },
+  {
+    "id": "jkbb7aoYqTU",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "uKVJfN-YKWY",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "2FUFxpWiw-Y",
+    "title": "Struck by lightning: What are the odds? | Morning in America",
+    "score": 10
+  },
+  {
+    "id": "k4WYL06nzKo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "EH1w8fru4o8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "WD_NGUZlT-0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "1o2NaiNlvPQ",
+    "title": "An Expert Corrects Neil on His Explanation of Lightning",
+    "score": 10
+  },
+  {
+    "id": "looFKEZKWQU",
+    "title": "In this video",
+    "score": 10
+  },
+  {
+    "id": "GqwagDvuWNk",
+    "title": "Flying: Sleep with Deep \\u0026 Relaxing Meditation Music for 6 Hours",
+    "score": 10
+  },
+  {
+    "id": "8rTTEMdMh8Q",
+    "title": "🔴 Heavy Rain to Sleep FAST - Stop Insomnia, Block Noise with Rainstorm",
+    "score": 10
+  },
+  {
+    "id": "jVKEcUPEF8M",
+    "title": "Rain Sounds for Sleeping Dark Screen | SLEEP \\u0026 RELAXATION | Black Screen",
+    "score": 10
+  },
+  {
+    "id": "TsRgQuud3Sk",
+    "title": "THUNDER and RAIN Sounds for Sleeping BLACK SCREEN | Sleep and Relaxation | Dark Screen Nature Sounds",
+    "score": 10
+  },
+  {
+    "id": "gKpXn4bN5IM",
+    "title": "Leave It All To Sink Into Heavy Rain And Thunderstorms - Relax And Sleep In Cozy Car",
+    "score": 10
+  },
+  {
+    "id": "ep4JqcEX1qc",
+    "title": "Relaxing Rain Sounds = Drifting to Sleep 😴",
+    "score": 10
+  },
+  {
+    "id": "q76bMs-NwRk",
+    "title": "RAIN Sounds for Sleeping BLACK SCREEN | 24 Hours of Heavy Night Rain, Block Noises",
+    "score": 10
+  },
+  {
+    "id": "eam46FwpIjM",
+    "title": "Night Rain on a Car - 10 Hours Video with Soothing Sounds for Relaxation and Sleep",
+    "score": 10
+  },
+  {
+    "id": "ekXFslHOvZ8",
+    "title": "10 Hours of Rain Sounds and Distant Thunder | White Noise for Deep Sleep | ASMR 4K",
+    "score": 10
+  },
+  {
+    "id": "BSmYxnvUDHw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PE5w4xaZxbI",
+    "title": "Cozy Cabin Ambience - Rain and Fireplace Sounds at Night 8 Hours for Sleeping, Reading, Relaxation",
+    "score": 10
+  },
+  {
+    "id": "1RcVIuZ8Wdk",
+    "title": "Fireplace \\u0026 Rain Sounds in a Wooden Cabin | Night Ambience for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "42M3esYyHdw",
+    "title": "Rain on a Porch, Black Screen 🌧️⬛ • 12 hours • No ads",
+    "score": 10
+  },
+  {
+    "id": "OgeJt46i374",
+    "title": "Fireplace \\u0026 Rain Sounds in a Wooden Cabin | Night Ambience for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "-csAbEIBVdE",
+    "title": "4K Virtual Hike on a Sunny Day with Forest Sounds - Licorice Fern Trail, Issaquah Area",
+    "score": 10
+  },
+  {
+    "id": "Xv2NElOHo-0",
+    "title": "8 HOURS OF RELAXING NATURE SOUNDS AND GENTLE BIRDSONG",
+    "score": 10
+  },
+  {
+    "id": "55OAY-0WvMY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VNu15Qqomt8",
+    "title": "The soothing sound of rain is the music played by nature, Helps relax and sleeping",
+    "score": 10
+  },
+  {
+    "id": "PyFN_FYwqvc",
+    "title": "4K Forest Animals Ambience ~ Calming Music, Nature Sounds \\u0026 Birds Chirping",
+    "score": 10
+  },
+  {
+    "id": "29XymHesxa0",
+    "title": "France AMAZING Beautiful Nature with Soothing Relaxing Music, 4k Ultra HD by Tim Janis",
+    "score": 10
+  },
+  {
+    "id": "bUs9qYKF6mY",
+    "title": "Relaxing Nature Ambience Meditation 🌾 8h  G E N T L E - B R E E Z E  🌾 Healing Sounds of SPRING",
+    "score": 10
+  },
+  {
+    "id": "jfzs_FR1Hss",
+    "title": "4K Virtual Forest Walk along Middle Fork Trail at Snoqualmie region. Part 1- 3 HR Relax Music",
+    "score": 10
+  },
+  {
+    "id": "oSmUI3m2kLk",
+    "title": "Once Upon a Forest: A Twig Poet’s Rewilding Journey",
+    "score": 10
+  },
+  {
+    "id": "C5ozGHIK03A",
+    "title": "4K Forest Birdsong 2 - Birds Sing in the Woods - No Loop Realtime Birdsong - Relaxing Nature Video",
+    "score": 10
+  },
+  {
+    "id": "XxP8kxUn5bc",
+    "title": "Forest 4K • Nature Relaxation Film • Peaceful Relaxing Music • 4k Video UltraHD",
+    "score": 10
+  },
+  {
+    "id": "RzVvThhjAKw",
+    "title": "Sound of FOREST, Crickets, Cicadas, Insects | 24h NATURE SOUND FOR SLEEP, MEDITATION, \\u0026 FOCUS 🌿🌙",
+    "score": 10
+  },
+  {
+    "id": "bvAQlQjsA78",
+    "title": "Tranquil Nighttime Forest / 10 Hours / #forestambience  #fallasleepinstantly  #naturesounds",
+    "score": 10
+  },
+  {
+    "id": "fUiQSo7fxxw",
+    "title": "THE WITCHES FOREST | Full Movie",
+    "score": 10
+  },
+  {
+    "id": "6YXtWmXaUNI",
+    "title": "CALLING COREY",
+    "score": 10
+  },
+  {
+    "id": "ivqfnOhwcYY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "izdl2rqMh0U",
+    "title": "Sweet Jazz In Evening Ambience | Evening Jazz In Relaxing Lake For Boost Your Mood, Healing Soul",
+    "score": 10
+  },
+  {
+    "id": "vuE9mhrPdos",
+    "title": "Soft Thunder, Falling Rain \\u0026 a Fire's Whisper 🌧️ A Cinematic Ambience for the Soul | White Noise",
+    "score": 10
+  },
+  {
+    "id": "ySs68LpUqj0",
+    "title": "Old Castle Library – Cozy Fireplace Ambience for Reading \\u0026 Deep Focus",
+    "score": 10
+  },
+  {
+    "id": "hEaIebMtRZc",
+    "title": "Rain Sounds in a Dark Bedroom (No Ads) Relaxing Ambience for Deep Sleep, Focus, and Meditation",
+    "score": 10
+  },
+  {
+    "id": "htfVvyzXX9E",
+    "title": "Relaxing Medieval Music with Rain Sounds - Bard/Tavern Ambience, Celtic Music, Fantasy Medieval City",
+    "score": 10
+  },
+  {
+    "id": "FGoDf6ePIB4",
+    "title": "Kind Celtic Loop",
+    "score": 10
+  },
+  {
+    "id": "zdU-ffuJ1w8",
+    "title": "⌚ 1 HOUR of NEO SOUL Instrumental Music (Relaxing / Calming / Chill) LONG MIX",
+    "score": 10
+  },
+  {
+    "id": "3VNm3rGXPXs",
+    "title": "COOL JAZZ",
+    "score": 10
+  },
+  {
+    "id": "UiPnjeVoiB0",
+    "title": "Soft Fall Indoor Jazz Ambience | Morning Jazz Music In Living Room For Deep Relaxing \\u0026 Stress Rel...",
+    "score": 10
+  },
+  {
+    "id": "mjzcl5Or5XE",
+    "title": "Autumn rain for relaxing soul🍂Rain falling on window, thunder, burning fireplace for peaceful sleep😪",
+    "score": 10
+  },
+  {
+    "id": "g7OIoIk6j50",
+    "title": "Tropical Bossa Nova Jazz  - Music At An Outdoor Beach Bar Ambience And Smooth Sound Of Ocean Waves",
+    "score": 10
+  },
+  {
+    "id": "DmvR6KVzcAQ",
+    "title": "Finally, the rain...  a long-awaited rest",
+    "score": 10
+  },
+  {
+    "id": "rE47fMId0Iw",
+    "title": "Winter Wood Cabin with Warm Fireplace Ambience 🔥 Smooth Jazz Piano Music for Holiday Retreat",
+    "score": 10
+  },
+  {
+    "id": "voUB6aF9xVc",
+    "title": "Relaxing Nature Ambience \\u0026 Soft Melodies 🍃 Heal the Soul, Stress Relief \\u0026 Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "VA8WZR95BM4",
+    "title": "Healing Forest Ambience - Deep Healing Music for The Body, Soul and Spirit - DNA Repair 432 Hz",
+    "score": 10
+  },
+  {
+    "id": "ERKPbILpHaU",
+    "title": "Enchanted Winter Realm | Celtic Medieval Music \\u0026 Relaxing Winter Ambience (4 Hours)",
+    "score": 10
+  },
+  {
+    "id": "47qi_maNHD4",
+    "title": "Temple of Eternity | Ancient Egyptian Ambient Music, Meditation \\u0026 Duduk Music - Timeless sacred",
+    "score": 10
+  },
+  {
+    "id": "kARbIeO-gKE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "cU4ln92_dPE",
+    "title": "The Sound of Rain for Sleep - Sleeping in a Million Dollar Apartment in NY -  Rain Sleep ASMR",
+    "score": 10
+  },
+  {
+    "id": "Mw7-n9bTubw",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "1RtiRMLVDcM",
+    "title": "How Skyscrapers Survive Lightning 😨",
+    "score": 10
+  },
+  {
+    "id": "zRSPvYVZJew",
+    "title": "Why A Mile-High Skyscraper Is Almost Impossible | The Limit",
+    "score": 10
+  },
+  {
+    "id": "9DaEmvKWsEA",
+    "title": "Tallest Until 1971",
+    "score": 10
+  },
+  {
+    "id": "ZXiEp_GGSpg",
+    "title": "How Engineers Made This Skyscraper Earthquake-Proof!",
+    "score": 10
+  },
+  {
+    "id": "7v_CspUV21Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KvLGiK7ma6k",
+    "title": "We Built a Cardboard Skyscraper!",
+    "score": 10
+  },
+  {
+    "id": "HX6vzZhQ8WQ",
+    "title": "How Skyscrapers Survive Earthquakes: Engineering Explained 🌍",
+    "score": 10
+  },
+  {
+    "id": "7xtsvGQP8qE",
+    "title": "Jumping Off a Skyscraper With a Shotgun 🌃",
+    "score": 10
+  },
+  {
+    "id": "xs8Ou6dfG-A",
+    "title": "Jumping Off A Skyscraper With An Umbrella 😮",
+    "score": 10
+  },
+  {
+    "id": "AJTysGh5eBw",
+    "title": "Fans vs COLLAPSING SKYSCRAPERS! | Teardown",
+    "score": 10
+  },
+  {
+    "id": "Gsr5SgF3k-E",
+    "title": "Can My Fans Survive A Collapsing Skyscraper?",
+    "score": 10
+  },
+  {
+    "id": "0MjFSwtgiiw",
+    "title": "Can this iconic LA skyscraper survive a major earthquake?",
+    "score": 10
+  },
+  {
+    "id": "A6DImMPaCZ0",
+    "title": "The Secret of Japan's Earthquake-Proof Skyscrapers",
+    "score": 10
+  },
+  {
+    "id": "f1HCrP7-j94",
+    "title": "We Are Being Hunted by Alien Monsters in a Skyscraper! (Multiplayer)",
+    "score": 10
+  },
+  {
+    "id": "Cnmey5nuj4U",
+    "title": "Why The Skyscraper Is The Only Safe Zombie Fortress Left",
+    "score": 10
+  },
+  {
+    "id": "Nk5UQCB7RGY",
+    "title": "Iconic #king  Power #mahanakhon  tower swaying survive in earthquake #news",
+    "score": 10
+  },
+  {
+    "id": "ufx1zV-fevk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-mirqViyITY",
+    "title": "I’ve Never Slept This Deeply… Try This Cabin Night Ambience",
+    "score": 10
+  },
+  {
+    "id": "5ocoR5_0rOw",
+    "title": "Cabin Ambience with Rain and Fireplace Harmony - Rainy Night for Relaxation and Concentration",
+    "score": 10
+  },
+  {
+    "id": "4d03JOTvy5g",
+    "title": "10 Hours of Rain Sounds and Distant Thunder | White Noise for Deep Sleep | ASMR 4K",
+    "score": 10
+  },
+  {
+    "id": "3Ef-AhEB5No",
+    "title": "Cozy Cabin Room at Night | Rain and Fireplace Sounds for Relaxation",
+    "score": 10
+  },
+  {
+    "id": "WIZrSchkO2E",
+    "title": "Silent Starry Night Ambience | Lakeside Cabin with Crackling Campfire and Gentle Lake for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "kxEFZF6ruX0",
+    "title": "You're Going to Have the Best Sleep Ever [DARK CABIN]",
+    "score": 10
+  },
+  {
+    "id": "j4YNcJ7vftE",
+    "title": "Cozy Cabin Ambience - Rain and Fireplace Sounds at Night 8 Hours for Sleeping, Reading, Relaxation",
+    "score": 10
+  },
+  {
+    "id": "wpEOru1SB2A",
+    "title": "Peaceful Cabin Night with Rain and Fireplace Ambience for Insomnia Relief",
+    "score": 10
+  },
+  {
+    "id": "40AyYZh3uGI",
+    "title": "Stormy Night at a Secluded Cabin in the Woods | Thunder and rain sounds ambience | 10 HOURS",
+    "score": 10
+  },
+  {
+    "id": "Z59EYlokPhk",
+    "title": "🔴Quiet Winter Night Cabin  🔥Winter Cabin Serenity 🔥❄️ Snowy Views \\u0026 Crackling Fire",
+    "score": 10
+  },
+  {
+    "id": "wrBHjJSo8Cw",
+    "title": "Rain and Fireplace Ambience in a Cozy Cabin - Goodbye Stress, Hello Sleep",
+    "score": 10
+  },
+  {
+    "id": "QYu5LRc6VGo",
+    "title": "🔴Quiet Winter Night Cabin🔥❄️ Falling Snow and a Warm Fireplace for Deep Relaxation",
+    "score": 10
+  },
+  {
+    "id": "3eW2mWNwzzQ",
+    "title": "Thunderstorm \\u0026 Heavy Rain in Mountain Cabin at Night | Crackling Fireplace \\u0026 Cozy Ambience",
+    "score": 10
+  },
+  {
+    "id": "j5nzzMFBdvU",
+    "title": "Sleep Better in a Cozy Attic Cabin - Fireplace Crackling, Blizzard Night Sounds \\u0026 Relaxing Ambience",
+    "score": 10
+  },
+  {
+    "id": "JYtfw521_U8",
+    "title": "Rainy Night Cabin Ambience with Fireplace | Cozy Cabin Rain Sounds for Sleeping well",
+    "score": 10
+  },
+  {
+    "id": "Oitlzm8L0Cw",
+    "title": "10 HOURS Thunderstorm Over the River at Night | Cozy Cabin, Rain \\u0026 Cracking Fireplace",
+    "score": 10
+  },
+  {
+    "id": "_EAvDuxYE6U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "bgKMgvgMCiE",
+    "title": "🎵  Tree House Life:  Enchanted Forest in the Rain | Ambient Music with Nature Sounds | 4K | 10 hours",
+    "score": 10
+  },
+  {
+    "id": "jhp6kvnGasM",
+    "title": "Cozy Hut Ambience - Gentle Night Rain \\u0026 Fireplace",
+    "score": 10
+  },
+  {
+    "id": "zvW1T4tpl9A",
+    "title": "Old Castle Library – Cozy Fireplace Ambience for Reading \\u0026 Deep Focus",
+    "score": 10
+  },
+  {
+    "id": "xJi1Xrpdxhs",
+    "title": "Oceanfront Beach House ASMR with Ocean Waves  | Cozy Coastal Ambience for Relaxation \\u0026 Focus",
+    "score": 10
+  },
+  {
+    "id": "h0nVekj39YM",
+    "title": "Fireplace \\u0026 Rain Sounds in a Wooden Cabin | Night Ambience for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "2SvLPTiZG5Q",
+    "title": "Historic Ambience – Rain \\u0026 Thunderstorm Sounds from an Old Castle for Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "D8rFVRDks6Q",
+    "title": "Fall Coffee Shop Bookstore Ambience with Relaxing Jazz Music \\u0026 Rain Sounds",
+    "score": 10
+  },
+  {
+    "id": "c18WZZa4KIA",
+    "title": "Lakeside Porch Ambience 🍁 Rainy Evening And Crackling Fire For Sleep, Relax, Rest🔥",
+    "score": 10
+  },
+  {
+    "id": "iqoxXV1hGCo",
+    "title": "Relaxing Rain Sounds in the Dark Bedroom (No Ads) 🌧️ - Rain Sounds for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "WyfJlomVAXo",
+    "title": "Jazz Relaxing Music - Rainy Day at Cozy House Inside Forest with Gentle Rain, Fireplace Sounds 🌧️🔥",
+    "score": 10
+  },
+  {
+    "id": "X-zB_6rHt2M",
+    "title": "Ambient Lounge - Best of Chill House 🎵 Tranquil Tunes",
+    "score": 10
+  },
+  {
+    "id": "rH0m9hQGa78",
+    "title": "Coastal Oceanfront Fireplace \\u0026 Ocean Waves ASMR | Cozy Beach House Ambience for Focus \\u0026 Relaxation",
+    "score": 10
+  },
+  {
+    "id": "nM0bwmqh9o0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zSKfyjcR4x4",
+    "title": "Calming Rain Sounds for Sleeping with Open Window - Dimmed Screen | Relaxing Rain for Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "nMlJ703l02M",
+    "title": "Beat Stress Within 3 Minutes to Sleep Soundly with Heavy Rain \\u0026 Thunderstorm on a Tin Roof at Night",
+    "score": 10
+  },
+  {
+    "id": "ik0rT2PZ8MI",
+    "title": "Relaxing Rain Sounds = Drifting to Sleep 😴",
+    "score": 10
+  },
+  {
+    "id": "seoeYYzjGkw",
+    "title": "Relax With Rain Sounds | Sounds To Reduce Stress, Improve Sleep And Increase Concentration",
+    "score": 10
+  },
+  {
+    "id": "s3rnPr_8Drs",
+    "title": "Calm Your Anxiety Within 3 Minutes to Sleep Instantly with Heavy Rain \\u0026 Thunder on Tin Roof at Night",
+    "score": 10
+  },
+  {
+    "id": "SoC3YQgb8wE",
+    "title": "Relieve Stress So You Can Sleep Instantly with Heavy Rain and Mighty Thunder on Tent Roof at Night",
+    "score": 10
+  },
+  {
+    "id": "mYqlwRJ8XAw",
+    "title": "Eliminate Stress to Sleep Instantly with Heavy Rainstorm \\u0026 Thunder Sound in Rainforest at Night",
+    "score": 10
+  },
+  {
+    "id": "FffB7dmNN6Y",
+    "title": "RAIN MEDITATION | 10 Hours | Sleep Aid | Anxiety Relief | Calming Background Ambience",
+    "score": 10
+  },
+  {
+    "id": "tYkD5uDhsaU",
+    "title": "No Ads Rain Sounds for Sleeping - ASMR Rain and Thunder Sounds For Sleeping, Relaxing",
+    "score": 10
+  },
+  {
+    "id": "Tgl-eMo6414",
+    "title": "Calming Rain and Thunderstorm 🌧️ | Stress Relief and Instant Sleep in Cozy Car Ambience",
+    "score": 10
+  },
+  {
+    "id": "HxlX9V0zYNI",
+    "title": "Heavy Rain and Thunder Sounds for Sleeping - Black Screen - Stress Relief | for Relaxing Sleep",
+    "score": 10
+  },
+  {
+    "id": "ZM9sd14ob8A",
+    "title": "Goodbye Stress to Sleep Instantly with Distant Thunder and Relaxing Rain at Night BLACK SCREEN",
+    "score": 10
+  },
+  {
+    "id": "_OQwzrRdmm8",
+    "title": "Peaceful Piano and Rain Reduces Anxiety and Help You Sleep | Meditation, Stress Relief (NO MID ADS)",
+    "score": 10
+  },
+  {
+    "id": "aIpafF3UKuA",
+    "title": "Goodbye Stress with Heavy Rain and Thunderstorm on Tin Roof at Night | White Noise for Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "XLXs2Uzppks",
+    "title": "Powerful Thunder and Heavy Rain - Black Screen | Overcome Stress with Rain Sounds for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "zCiLAfy6x9s",
+    "title": "Relaxing Sleep Music + Insomnia - Stress Relief, Peaceful Piano with Rain Sounds, Meditation Music",
+    "score": 10
+  },
+  {
+    "id": "uMrUsyjz8Zs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zHJkJGBdvwE",
+    "title": "Positive and Negative Charge",
+    "score": 10
+  },
+  {
+    "id": "esayi49OAk4",
+    "title": "ISOSPIN \\u0026 HYPERCHARGE",
+    "score": 10
+  },
+  {
+    "id": "gvX29HPmBEI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8dseWwssadE",
+    "title": "ELECTROSTATICS",
+    "score": 10
+  },
+  {
+    "id": "TFlVWf8JX4A",
+    "title": "Static Electricity",
+    "score": 10
+  },
+  {
+    "id": "si5RaueIp38",
+    "title": "Positive Lightning",
+    "score": 10
+  },
+  {
+    "id": "azDFR5RwVkA",
+    "title": "Neutral Charge Positive Charge",
+    "score": 10
+  },
+  {
+    "id": "HupFY_24o-4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C_olCndQ9QU",
+    "title": "#Electricity💡#Electric charge⚡ #Types of #Electric_charges #Positive charge #Negative charge #Notes📑",
+    "score": 10
+  },
+  {
+    "id": "l3tzc_iVRUQ",
+    "title": "Why Electron Are Negative Proton Positive \\u0026 Neutron Neutral | Deep Dive into Secret of Atomic Charge",
+    "score": 10
+  },
+  {
+    "id": "rugB8Zb1O18",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U5AnCJuQ5_w",
+    "title": "Which particle has a negative charge? #triviatricks #educationalvideo #quizgame #trivia",
+    "score": 10
+  },
+  {
+    "id": "z_-cFeDCpxQ",
+    "title": "Finding Charges of Ions on Periodic Table",
+    "score": 10
+  },
+  {
+    "id": "5QqIzKMyqDE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "E6-RzQZkPT0",
+    "title": "with lightning protection?",
+    "score": 10
+  },
+  {
+    "id": "FSL53ZDQxy0",
+    "title": "What Is a Lightning Protection System and How Does It Work",
+    "score": 10
+  },
+  {
+    "id": "37F1gmOfhII",
+    "title": "Lightning and Surge Protection | This Old House",
+    "score": 10
+  },
+  {
+    "id": "eNxDgd3D_bU",
+    "title": "What do lightning protection systems for the home look like?",
+    "score": 10
+  },
+  {
+    "id": "Q69gQAP0duM",
+    "title": "COLE NEWMAN BONDED LIGHTNING PROTECTION",
+    "score": 10
+  },
+  {
+    "id": "Dt20YScZKAI",
+    "title": "Protect Your Home from Lightning",
+    "score": 10
+  },
+  {
+    "id": "tXaZs03MPPY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qr2PLYxR8OE",
+    "title": "Scientists Discover Tree Using Lightning To Kill Its 'Enemies'",
+    "score": 10
+  },
+  {
+    "id": "Kb-cJZWEnhA",
+    "title": "Installing Lightning Protection Ground Rods | Manual Jackhammer Method",
+    "score": 10
+  },
+  {
+    "id": "HlFGGD1Ax14",
+    "title": "How Lightning Protection Works?",
+    "score": 10
+  },
+  {
+    "id": "TBbybbmcguo",
+    "title": "Way a Lightning Protection System Works",
+    "score": 10
+  },
+  {
+    "id": "z02sSUsfDXg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AHembb0exVw",
+    "title": "Lightning Protection System- Basic Residential Walkthrough",
+    "score": 10
+  },
+  {
+    "id": "JAfCeNDM-FU",
+    "title": "Ground testing for lightning ⚡ protection system.",
+    "score": 10
+  },
+  {
+    "id": "FWFU3yLvA4M",
+    "title": "Lightning Protection: Facts vs Myths⚡",
+    "score": 10
+  },
+  {
+    "id": "2x9tRWS4ipg",
+    "title": "Difference between a lightning rod and a lightning arrester (34 - Electricity Distribution)",
+    "score": 10
+  },
+  {
+    "id": "GQiMIZW7u_U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6utTMmmn-tQ",
+    "title": "Heavy Rainstorm and Strong Thunder Sounds for Sleeping | Black Screen Rain for Sleep, Fall Asleep",
+    "score": 10
+  },
+  {
+    "id": "QtnXCQLYcnA",
+    "title": "Heavy Rain All Night 48 Hours | Sleep Fast \\u0026 End Insomnia",
+    "score": 10
+  },
+  {
+    "id": "yIQd2Ya0Ziw",
+    "title": "How many hours of sleep a night do I need?",
+    "score": 10
+  },
+  {
+    "id": "4bskZYoO0N0",
+    "title": "Goodbye Insomnia with Heavy Rain \\u0026 Thunder Growls on a Stale Tin Roof in Foggy Murky Forest at Night",
+    "score": 10
+  },
+  {
+    "id": "Fnr1cfYL8LQ",
+    "title": "Rain Sounds 10 Hours:The Sound of Rain Meditation,Autogenc Training, Deep Sleep,Relaxing Sounds",
+    "score": 10
+  },
+  {
+    "id": "1Ecv6KAvSJs",
+    "title": "⚡ Strong Rain Thunderstorm Sounds for Sleeping | Heavy Rain \\u0026 Intense Thunder on Old House at Night",
+    "score": 10
+  },
+  {
+    "id": "6BxkNbljbgc",
+    "title": "Ultimate Cozy Loft Living 🏡 | Multi-Level Dream Home Tour #naturebeauty #ytstudio",
+    "score": 10
+  },
+  {
+    "id": "KOFG5ESxh1U",
+    "title": "Cozy Home Living Tiny House Design Full Tour Luxury house Fish Setar design house ideas home decor",
+    "score": 10
+  },
+  {
+    "id": "gqB6h3gl5P4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZTOSIqLBlrc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "knsjCygFIUs",
+    "title": "Cozy, multi-level interior space, likely a apartment or tiny house, designed for efficient living.",
+    "score": 10
+  },
+  {
+    "id": "U2SDvQXR724",
+    "title": "Cozy Multi-Level Dream Home",
+    "score": 10
+  },
+  {
+    "id": "DecutteJ6Vc",
+    "title": "🌩️ Cozy Multi-Level Family Loft | Thunderstorm Night Ambience 🌙 #aesthetic #ai #cozynights",
+    "score": 10
+  },
+  {
+    "id": "phG2QGut5lo",
+    "title": "Cozy Multi-Level Home That Feels Like a Hug ✨#naturelovers #ytstudio",
+    "score": 10
+  },
+  {
+    "id": "UC8hI52pv0g",
+    "title": "Dreamy pastel loft 🌸 Cozy multi-level design with soft tones, chic decor \\u0026 city views #LoftGoals",
+    "score": 10
+  },
+  {
+    "id": "RGFWqLkDqM0",
+    "title": "A Cozy Multi-Level Loft : Where Minimalism Meets Colorful Modern Luxury#lofthouse#loft living#home",
+    "score": 10
+  },
+  {
+    "id": "ltiE7JIzFsA",
+    "title": "Play with FRIENDS in these 15 Cozy (ish) CO-OP Games from 2024! 👭",
+    "score": 10
+  },
+  {
+    "id": "-vTvE7oMh-U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "l-yTR5Kvg0g",
+    "title": "Elegant Multi Level Studio Apartment with Warm Lighting, Cozy Furnishings and Panoramic City Views",
+    "score": 10
+  },
+  {
+    "id": "T0RcHXhAZcw",
+    "title": "Cozy Multiple Level Interior Design #AmericanHomeStyle #USInteriorDesign #CozyLivingUSA",
+    "score": 10
+  },
+  {
+    "id": "7ZCRI1okfGY",
+    "title": "Elegant Modern Loft Apartment with Cozy Mezzanine Bedroom and Stunning Night View",
+    "score": 10
+  },
+  {
+    "id": "EDuz7WtAsDk",
+    "title": "10 of the BEST Hidden Gems - Multiplayer Cozy Co-op Games",
+    "score": 10
+  },
+  {
+    "id": "X4TdvAQb9_A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pSben1H16Hw",
+    "title": "Transform your living room with this simple styling tip! #homestyling #mcgeeandco",
+    "score": 10
+  },
+  {
+    "id": "HiJ_24zJArg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1-XUgF4Ira8",
+    "title": "Lightning strike caught on camera in Huntington Beach",
+    "score": 10
+  },
+  {
+    "id": "Y0IOwSM-xi0",
+    "title": "Lightning struck a tree and did this 😱",
+    "score": 10
+  },
+  {
+    "id": "hcJCrRQwXek",
+    "title": "100 Incredible Lightning Strikes Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "ydYtEyN5_4k",
+    "title": "Could We Harvest Power From Lightning?",
+    "score": 10
+  },
+  {
+    "id": "_efsqO-4OoQ",
+    "title": "17-Year-Old Struck by Lightning While Doing Yard Work",
+    "score": 10
+  },
+  {
+    "id": "byqJa450kgg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "41E2t63hqUM",
+    "title": "Nighttime Thunderstorm Haven: Inviting Room with Fireplace \\u0026 Calming Rain Sounds",
+    "score": 10
+  },
+  {
+    "id": "YVKheALhIkk",
+    "title": "Rainy Night in the Forest Bedroom 🌲 | Calming Rain Sounds for Deep Sleep(8H)",
+    "score": 10
+  },
+  {
+    "id": "H-eKt0GK_zE",
+    "title": "Cozy Bedroom With A Night View Of New York In Heavy Rain | Rain Sounds, Rain On Window",
+    "score": 10
+  },
+  {
+    "id": "Y9sQ2DwwjT4",
+    "title": "🔥 Crackling Fireplace w/ Snowstorm, Blizzard \\u0026 Howling Winds Outside | Relaxing Sounds for Sleep 4K",
+    "score": 10
+  },
+  {
+    "id": "7b8Pcma3EwY",
+    "title": "Thunderstorm with Lightning, Rain, Crackling Fireplace \\u0026 Sleeping Cats in a Cozy Cabin",
+    "score": 10
+  },
+  {
+    "id": "6bPN0JyGfA4",
+    "title": "Lakeside Porch Ambience 🍁 Rainy Evening And Crackling Fire For Sleep, Relax, Rest🔥",
+    "score": 10
+  },
+  {
+    "id": "2fjcSY7IZEs",
+    "title": "Cozy Cabin Ambience - Rain and Fireplace Sounds at Night 8 Hours for Sleeping, Reading, Relaxation",
+    "score": 10
+  },
+  {
+    "id": "RbC86Yn6ypg",
+    "title": "Go to Sleep w/ Rain Falling on Window | Relaxing Gentle Rain Sounds for Sleeping Problems, Insomnia",
+    "score": 10
+  },
+  {
+    "id": "_x3hVRSIe2g",
+    "title": "10 HOURS Thunderstorm \\u0026 Crackling Fireplace | Cozy Living Room, Sleeping Pets \\u0026 Rainy Mountain View",
+    "score": 10
+  },
+  {
+    "id": "clqYeHdZ1zQ",
+    "title": "8 hours of rain for deep sleep",
+    "score": 10
+  },
+  {
+    "id": "n06OCjo9KkM",
+    "title": "Into The Storm : Chasing Extreme Weather Photography",
+    "score": 10
+  },
+  {
+    "id": "yL7Pyw-Rt1I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "l6IbuFPd4N4",
+    "title": "When Dreams Come True: Capturing Dramatic Storm Photography",
+    "score": 10
+  },
+  {
+    "id": "uvDQKMQTJMw",
+    "title": "APERTURE",
+    "score": 10
+  },
+  {
+    "id": "3xjMrpXfcx4",
+    "title": "Storm Chasing Photography Tips \\u0026 Tricks",
+    "score": 10
+  },
+  {
+    "id": "dytc3vWIcmg",
+    "title": "I Went Storm Chasing In The USA | It Was Unforgettable",
+    "score": 10
+  },
+  {
+    "id": "At2erlio1o4",
+    "title": "Storm Chasing Photography in the USA - What a Rush",
+    "score": 10
+  },
+  {
+    "id": "Q9MxsuJaxOQ",
+    "title": "Photographing an EPIC STORM!",
+    "score": 10
+  },
+  {
+    "id": "RM_c-SW5c9w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hFM8N2eIv_8",
+    "title": "STORM PHOTOGRAPHY: This Is How I Timelapse and Photograph Lightning",
+    "score": 10
+  },
+  {
+    "id": "y_E984ce3Lc",
+    "title": "Phoenix Monsoon Photography | Lightning, Storms, and Drama",
+    "score": 10
+  },
+  {
+    "id": "Z_aWJweZVy8",
+    "title": "Introduction to the monsoon",
+    "score": 10
+  },
+  {
+    "id": "VxmnZBVPiWI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9Gza0W82lzg",
+    "title": "Outdoor Photography in a Storm",
+    "score": 10
+  },
+  {
+    "id": "UtKUGiiOnMM",
+    "title": "Photographing a Snow Storm - Landscape Photography Visuals",
+    "score": 10
+  },
+  {
+    "id": "45Tc7IE9nro",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WxazIYu96Og",
+    "title": "Nikon 2026 Predictions Cameras, Lenses, Firmware | Storm In A Teacup? | Let's Break It Down |M Irwin",
+    "score": 10
+  },
+  {
+    "id": "5yu4s9P5du0",
+    "title": "Intro 2026 Predictions",
+    "score": 10
+  },
+  {
+    "id": "Lm2KTWS0rnI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xOlnNYRAzQs",
+    "title": "What Happens If You Get Struck By Lightning? 😱",
+    "score": 10
+  },
+  {
+    "id": "xE1rh23mRNE",
+    "title": "Know What Happens to a Toad When It's Struck By Lightning - X Men",
+    "score": 10
+  },
+  {
+    "id": "P0yKSNq-oLg",
+    "title": "Alex Rudinger - TRIVIUM - \\\"STRUCK DEAD\\\"",
+    "score": 10
+  },
+  {
+    "id": "sgXFBD24prk",
+    "title": "What Happens When You're Struck By Lightning? | The Human Body",
+    "score": 10
+  },
+  {
+    "id": "T3BT-cnHjik",
+    "title": "Why is Lightning Dangerous?",
+    "score": 10
+  },
+  {
+    "id": "bSWMQu5-RsE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_tKTjXMWYOo",
+    "title": "🔥IT HAPPENED! ELON MUSK STRUCK PUTIN! RUSSIA DISCONNECTED FROM INTERNET?! DRONES WON’T REACH ANYMORE",
+    "score": 10
+  },
+  {
+    "id": "nYL_4_2G0vw",
+    "title": "What Happens To Your Body When You Get Struck By Lightning",
+    "score": 10
+  },
+  {
+    "id": "Kz9poNHmVWo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gkjcDo3Ndeg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xgXXCC34YsI",
+    "title": "What Happens If You're Struck By LIGHTNING? | Thunder \\u0026 Lightning | Dr Binocs Show | Peekaboo Kidz",
+    "score": 10
+  },
+  {
+    "id": "L1HhRAUqFqM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ERhDDMhlDSA",
+    "title": "WTC 9/11 | Plane Hit in North Tower BUT This Happened!  (Recreation)",
+    "score": 10
+  },
+  {
+    "id": "zQObKvQ9gp0",
+    "title": "What Happens If Your Car Gets Struck By Lightning While You're In It?",
+    "score": 10
+  },
+  {
+    "id": "u63U8GYBfus",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pRuyd0_KrJA",
+    "title": "Ask Ellen: What happens when a tree is struck by lightning?",
+    "score": 10
+  },
+  {
+    "id": "YzSGl-vzdM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QrDsE4I6WQ8",
+    "title": "What happens when you’re struck by lightning?",
+    "score": 10
+  },
+  {
+    "id": "yF1d5OrUV-Y",
+    "title": "What happens when you're struck by lightning?",
+    "score": 10
+  },
+  {
+    "id": "RmRuATnEWxk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0V0SKiiFZMs",
+    "title": "Cozy Rain Ambience in Cozy Wooden House in the forest with Rain falling on window and Crackling Fire",
+    "score": 10
+  },
+  {
+    "id": "3OTxn3xP4Kw",
+    "title": "BEST SOOTHING RAIN SOUNDS with BLACK SCREEN FOR SLEEPING (ten hours, no ads during video)",
+    "score": 10
+  },
+  {
+    "id": "f5LQ4gUB96c",
+    "title": "Dark Screen with Rain on Your Bedroom Window 😴 A Deep Sleep for Tomorrow Full of Energy!",
+    "score": 10
+  },
+  {
+    "id": "PdEHAwgopBg",
+    "title": "HEAVY RAIN Sounds for Sleeping Dark Screen | SLEEP \\u0026 RELAXATION | Black Screen",
+    "score": 10
+  },
+  {
+    "id": "3CNefu-GBYw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Q33ZsEkslKU",
+    "title": "Relaxing Rain Sounds = Drifting to Sleep 😴",
+    "score": 10
+  },
+  {
+    "id": "Dfm2rB-nQ9Y",
+    "title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+    "score": 10
+  },
+  {
+    "id": "o8GrqUSdzi0",
+    "title": "Rain Sounds 10 Hours:The Sound of Rain Meditation,Autogenc Training, Deep Sleep,Relaxing Sounds",
+    "score": 10
+  },
+  {
+    "id": "nBD-4ZDWJr8",
+    "title": "Calming Rain and Thunderstorm 🌧️ | Stress Relief and Instant Sleep in Cozy Car Ambience",
+    "score": 10
+  },
+  {
+    "id": "z6mntdW5Jfw",
+    "title": "Instant Anxiety Relief | 432Hz Deep Sleep Therapy | Binaural Beats",
+    "score": 10
+  },
+  {
+    "id": "I91Plvp9t-g",
+    "title": "Soothing Oxytocin Rain for Deep Sleep | Reducing Anxiety | Pain Relief | 12 Hours | BLACK SCREEN",
+    "score": 10
+  },
+  {
+    "id": "c8nXsi9E4_k",
+    "title": "Peaceful Piano \\u0026 Soft Rain, 12 Hours Relaxing Music for Stress Relief, Sleep | Black Screen Music",
+    "score": 10
+  },
+  {
+    "id": "2cav77L6Hx0",
+    "title": "Thunderstorm \\u0026 Rain Sounds | Nature Sounds Sleep Aid | Insomnia Relief 9 Hours",
+    "score": 10
+  },
+  {
+    "id": "0Ef_AX5KobI",
+    "title": "Relaxing Sleep Music + Insomnia | Rain Sounds for Stress Relief, Anxiety and Depression | Calm Music",
+    "score": 10
+  },
+  {
+    "id": "9HmKxFkEgSo",
+    "title": "Chronic Pain Relief - (10 Hour) Rain Sound - Sleep Subliminal - By Minds in Unison",
+    "score": 10
+  },
+  {
+    "id": "JAQKm4C2h1k",
+    "title": "Relaxing Piano Music \\u0026 Rain Sounds for Deep Sleep, Stress Relief and Anxiety, Meditation, Calming",
+    "score": 10
+  },
+  {
+    "id": "eKO9BGdQ7Wk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "8 HOURS OF RELAXING NATURE SOUNDS AND GENTLE BIRDSONG",
+    "score": 10
+  },
+  {
+    "id": "aVS7PHjSxdI",
+    "title": "Deep Healing Music, Healing Your Nervous System, Instant Relief from Stress and Anxiety, Calm Nature",
+    "score": 10
+  },
+  {
+    "id": "eKFTSSKCzWA",
+    "title": "12 Hours of Relaxing Sleep Music for Stress Relief, Sleeping \\u0026 Meditation (Flying)",
+    "score": 10
+  },
+  {
+    "id": "1wn-OSiNVjE",
+    "title": "Beautiful Relaxing Music, Peaceful Soothing Instrumental Music, in 4k \\\"Dreams of Italy\\\" by Tim Janis",
+    "score": 10
+  },
+  {
+    "id": "Rs3-OJBYKSY",
+    "title": "Asleep Naturally With Ocean Sounds, Most Relaxing Nature Sounds For Deep Sleeping (Praia Santa)",
+    "score": 10
+  },
+  {
+    "id": "E8fiyj1hNwk",
+    "title": "Rainstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+    "score": 10
+  },
+  {
+    "id": "G8nNGk6LHaM",
+    "title": "Wildlife Animals Relaxation Film 4K - Peaceful Relaxing Music - 4k Video UltraHD",
+    "score": 10
+  },
+  {
+    "id": "kJyRVdnRwZA",
+    "title": "Beautiful Nature. Soothing Piano Music for Stress Relief. Calm Music for meditation,  music therapy",
+    "score": 10
+  },
+  {
+    "id": "VP-5GNJSw4g",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lh4JdZTJe7k",
+    "title": "Relaxing Zen Music with Water Sounds • Peaceful Ambience for Spa, Yoga and Relaxation",
+    "score": 10
+  },
+  {
+    "id": "UL2-JQSeEGs",
+    "title": "Thunderstorm Sounds for Relaxing, Focus or Deep Sleep | Nature White Noise | 8 Hour Video",
+    "score": 10
+  },
+  {
+    "id": "q6XlcY7rL0k",
+    "title": "Why 6 Hours of Sleep Can Feel Better Than 8",
+    "score": 10
+  },
+  {
+    "id": "jGDQFWtSYbQ",
+    "title": "Is 6 hours of sleep enough?",
+    "score": 10
+  },
+  {
+    "id": "XOuyBf8q2nM",
+    "title": "The Real Reason you need 7 to 9 Hours of Sleep #sleep #sleeptips",
+    "score": 10
+  },
+  {
+    "id": "4ay6BY8d78I",
+    "title": "if you wake up tired",
+    "score": 10
+  },
+  {
+    "id": "2V8qPq7gK1c",
+    "title": "Heavy Rain All Night 48 Hours | Sleep Fast \\u0026 End Insomnia",
+    "score": 10
+  },
+  {
+    "id": "MN_JP4gyBNI",
+    "title": "Bedtime Lofi 💤  8 hours of relaxing beats to sleep to",
+    "score": 10
+  },
+  {
+    "id": "UJs6__K7gSY",
+    "title": "Starry Night • 12 Hours of Ambient Sleep Music | Black Screen",
+    "score": 10
+  },
+  {
+    "id": "5dhxKwr6G5c",
+    "title": "Doctor Explains Why You DON’T Need 8 Hours Sleep!",
+    "score": 10
+  },
+  {
+    "id": "RSL4CDGq6ZU",
+    "title": "Sleep For 11 Hours Straight, High Quality Stereo Ocean Sounds Of Rolling Waves For Deep Sleeping",
+    "score": 10
+  },
+  {
+    "id": "ez9ufnQFfcU",
+    "title": "How Much Sleep Do You Actually Need?",
+    "score": 10
+  },
+  {
+    "id": "SVQlcxiQlzI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LG3TU9WeYts",
+    "title": "Why 6 Hours of Sleep Can Feel Better Than 8",
+    "score": 10
+  },
+  {
+    "id": "txQ6t4yPIM0",
+    "title": "Do You Really Need 8 Hours of Sleep Every Night? | Body Stuff with Dr. Jen Gunter | TED",
+    "score": 10
+  },
+  {
+    "id": "fQUeDdaVoWo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uGMRuZe8qrw",
+    "title": "No Ads,Rain \\u0026 Thunder on Cozy Car Roof_Soothing White Noise for Deep Sleep, Stress \\u0026 Insomnia Relief",
+    "score": 10
+  },
+  {
+    "id": "C5Gm8UvxKlU",
+    "title": "FALL INTO SLEEP INSTANTLY ★︎ Relaxing Music to Reduce Anxiety and Help You Sleep ★︎ Meditation",
+    "score": 10
+  },
+  {
+    "id": "UPfy4pHMHdA",
+    "title": "8 Hour Deep Sleep Music: Sleep Meditation, Calm Music, Relaxing Music, Fall Asleep, Relax, ☯3743",
+    "score": 10
+  },
+  {
+    "id": "ITPgQqgR3Aw",
+    "title": "9 Hour RAINY Sleep Compilation 🌧️ The Twelve Labours of Hercules - RAINY MYTHOLOGY",
+    "score": 10
+  },
+  {
+    "id": "nVVELz0yxhU",
+    "title": "Relaxation Before Sleep",
+    "score": 10
+  },
+  {
+    "id": "cHUV8Elfb_o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fHRo2VfUVoU",
+    "title": "Comfort Suites  |  Checkin' Inn - Hot Springs National Park, Arkansas",
+    "score": 10
+  },
+  {
+    "id": "5WfGsUX8OrM",
+    "title": "ARKANSAS-KENTUCKY POSTGAME SHOW | POD AT THE PALACE",
+    "score": 10
+  },
+  {
+    "id": "DQgBATrjQ18",
+    "title": "John Calipari postgame – Kentucky 85, Arkansas 77",
+    "score": 10
+  },
+  {
+    "id": "gOY7-Ju8OS8",
+    "title": "John Calipari Postgame Press Conference – Kentucky 85, Arkansas 77",
+    "score": 10
+  },
+  {
+    "id": "oqYwecn93Ck",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nXMPCDqLTJY",
+    "title": "John Calipari Recaps Arkansas' 85-77 Loss to Kentucky",
+    "score": 10
+  },
+  {
+    "id": "z6xOthPC0gI",
+    "title": "“7 Days: The Opioid Crisis in Arkansas” - Mid-America Emmy® Nominee",
+    "score": 10
+  },
+  {
+    "id": "vBp0I7ClwO4",
+    "title": "7 DAYS THE OPIOID CRISIS IN ARKANSAS",
+    "score": 10
+  },
+  {
+    "id": "qhKLj10kEmk",
+    "title": "Joy \\u0026 Comfort",
+    "score": 10
+  },
+  {
+    "id": "foFXsbWSvLg",
+    "title": "We Had No Idea Hot Springs, Arkansas Was Like THIS!",
+    "score": 10
+  },
+  {
+    "id": "ZEQrYwpiTCU",
+    "title": "Buddy Jewell Sweet Southern Comfort — Arkansas Version",
+    "score": 10
+  },
+  {
+    "id": "vkYncofPnVE",
+    "title": "John Calipari press conference: Kentucky 85, Arkansas 77",
+    "score": 10
+  },
+  {
+    "id": "-ZXmx403tmY",
+    "title": "3 Days on the EAGLE ROCK LOOP | Longest Backpacking loop in Arkansas | Ouachita Mountains Hiking",
+    "score": 10
+  },
+  {
+    "id": "6FFLzJ1RCO4",
+    "title": "Must See Attractions in Arkansas | Travel Around The Natural State In Two Days",
+    "score": 10
+  },
+  {
+    "id": "_94K7jXbZ_A",
+    "title": "Dallas, Texas",
+    "score": 10
+  },
+  {
+    "id": "9xFr2HRttck",
+    "title": "🔥 Relaxing Fireplace (24/7)🔥Fireplace with Burning Logs \\u0026 Fire Sounds",
+    "score": 10
+  },
+  {
+    "id": "UgHKb_7884o",
+    "title": "Cozy Cabin Ambience - Rain and Fireplace Sounds at Night 8 Hours for Sleeping, Reading, Relaxation",
+    "score": 10
+  },
+  {
+    "id": "mKCieTImjvU",
+    "title": "Crackling Fire at Night Dark Background Video - 12h Burning Fireplace Sounds \\u0026 Black Screen 12 Hours",
+    "score": 10
+  },
+  {
+    "id": "BLjXwdSp_LE",
+    "title": "Campfire Sleep Sounds with Crickets Chirping 🔥 Nature White Noise for Sleeping or Relaxation",
+    "score": 10
+  },
+  {
+    "id": "QMJYlmX1sNU",
+    "title": "Crackling Fireplace with Rain and Rolling Thunder ~ Soft Lightning Flashes ⚡️🔥",
+    "score": 10
+  },
+  {
+    "id": "VT_DQnAUoys",
+    "title": "Night Fireplace with Crackling Fire Sounds 🔥Cozy Fireplace 4K. Dark Fireplace Noises Black Screen",
+    "score": 10
+  },
+  {
+    "id": "P6dMRnvFlbM",
+    "title": "Crackling Fire by the Lake (12 hrs): Cure for Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "mwf1vgCgMLw",
+    "title": "Cozy Cave - Rain, Fireplace \\u0026 Thunderstorm Sounds to Sleep Instantly - Rainy Night",
+    "score": 10
+  },
+  {
+    "id": "fhnXj-6mJkE",
+    "title": "Tranquil Fire Sounds 🔥 Cozy Bonfire by the Lake for Sleep",
+    "score": 10
+  },
+  {
+    "id": "4ApMS8qYWo0",
+    "title": "Fireplace And Rain Sound For Sleeping No Ads 🔥 A Stress-Free Evening and Restful Night 🌧️🔥",
+    "score": 10
+  },
+  {
+    "id": "sxjjg8Gdvjo",
+    "title": "Rain in Wooden Cabin with Fireplace | Deep Sleep Background Sounds with Rain on window",
+    "score": 10
+  },
+  {
+    "id": "Of59snU2_1Y",
+    "title": "Thunderstorm with Lightning, Rain, Crackling Fireplace \\u0026 Sleeping Cats in a Cozy Cabin",
+    "score": 10
+  },
+  {
+    "id": "CZUN7Cl0zvk",
+    "title": "Campfire \\u0026 Ocean Waves White Noise | Relax, Focus or Sleep Better | 10 Hours",
+    "score": 10
+  },
+  {
+    "id": "uWfwDnroMEA",
+    "title": "🔥 Crackling Fire w/ Rain and Thunder Sounds Outside - Relaxing Sounds for Sleep, Cozy Ambience - 4K",
+    "score": 10
+  },
+  {
+    "id": "tzcNCcfcdhE",
+    "title": "Cozy Campfire 🔥 Relaxing Fireplace Sounds 🔥 Burning Fireplace \\u0026 Crackling Fire Sounds (NO MUSIC)",
+    "score": 10
+  },
+  {
+    "id": "VGlYxtkZUXI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yYJ5WgqKLaM",
+    "title": "Dark Screen with Rain on Your Bedroom Window 😴 A Deep Sleep for Tomorrow Full of Energy!",
+    "score": 10
+  },
+  {
+    "id": "OQcJiqorLSI",
+    "title": "Cozy Bedroom With A Night View Of New York In Heavy Rain | Rain Sounds, Rain On Window",
+    "score": 10
+  },
+  {
+    "id": "5v_vxTxsz-M",
+    "title": "8 hours of rain for deep sleep",
+    "score": 10
+  },
+  {
+    "id": "wHLYCT2hDzQ",
+    "title": "Night Rain in High-Rise Apartment | Fireplace \\u0026 Relaxing Rain Sounds | Ambience for Sleep \\u0026 Focus",
+    "score": 10
+  },
+  {
+    "id": "tGGt00F930c",
+    "title": "Sounds Rain and Thunder on Window ⛈ Sounds Heavy Rain for Deep Sleep, Sleep Quickly, Reduce Stress",
+    "score": 10
+  },
+  {
+    "id": "n6oFuk4qyMg",
+    "title": "Soft Rain Sound for Relaxing, Deep Sleep | Nature White Noise | 8 Hours Video",
+    "score": 10
+  },
+  {
+    "id": "WDR-5eFoxuQ",
+    "title": "🎧 Cozy Ambience Bedroom - Rain on the Windows of the Rainy Night View of the City 10 Hours |  Sleep",
+    "score": 10
+  },
+  {
+    "id": "McrdclC42_I",
+    "title": "Rain Sounds in a Dark Bedroom (No Ads) Relaxing Ambience for Deep Sleep, Focus, and Meditation",
+    "score": 10
+  },
+  {
+    "id": "oF_-tofiYIs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6TCmI0Pqvns",
+    "title": "Goodbye Insomnia with Heavy Rain \\u0026 Thunder Growls on a Stale Tin Roof in Foggy Murky Forest at Night",
+    "score": 10
+  },
+  {
+    "id": "azrc9-wJZZs",
+    "title": "48 Hours Super Heavy Rain to Sleep FAST - Beat Insomnia with Powerful Rainstorm",
+    "score": 10
+  },
+  {
+    "id": "CsUgpbQMzJA",
+    "title": "Relaxing Rain Sounds = Drifting to Sleep 😴",
+    "score": 10
+  },
+  {
+    "id": "Z2jiKK9CSew",
+    "title": "Heavy Rain No Thunder | NO MIDROLL ADS | Soothing Rain Sounds For Sleeping",
+    "score": 10
+  },
+  {
+    "id": "nIE9GnWuiZ8",
+    "title": "Windy Rain and Thunder Sound - Heavy Rain with Thunder - 2 Hours Rain Sounds for Sleep - Windy Rain",
+    "score": 10
+  },
+  {
+    "id": "yPSshiEsYh0",
+    "title": "HEAVY RAIN \\u0026 Wind in Mountains | Sleep Fast to Heavy Rain No Thunder over a Lake",
+    "score": 10
+  },
+  {
+    "id": "fTeavjwuuHU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZdfJcN-yBIE",
+    "title": "Relaxing Nature Ambience Meditation 🌼 8h GOOD MORNING SPRING NATURE THERAPY🌷 Meadow Healing Sounds",
+    "score": 10
+  },
+  {
+    "id": "OEip4ee3b2o",
+    "title": "Forest Wild Animals 4k - Meditation Relaxing Music | Nature Soundscapes | Scenic Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "egitXpClImA",
+    "title": "Flying: Relaxing Sleep Music for Meditation, Stress Relief \\u0026 Relaxation by Peder B. Helland",
+    "score": 10
+  },
+  {
+    "id": "1ZYbU82GVz4",
+    "title": "10 Hours of Rain Sound Relaxation / Ultimate Stress Relief, Deep Sleep, Meditation, Yoga,...",
+    "score": 10
+  },
+  {
+    "id": "V1RPi2MYptM",
+    "title": "Relaxing Music with Nature Sounds - Waterfall HD",
+    "score": 10
+  },
+  {
+    "id": "lE6RYpe9IT0",
+    "title": "Scotland 4K Scenic Relaxation Film - Meditation Relaxing Music - Wonderful Nature",
+    "score": 10
+  },
+  {
+    "id": "3pORhwV9pL8",
+    "title": "The Hidden Valley: Ambient Relaxing Music for Stress Relief, Sleep \\u0026 Meditation",
+    "score": 10
+  },
+  {
+    "id": "2OEL4P1Rz04",
+    "title": "9h Healing Frequency Forest Therapy 🌳🌞 Begin Your Day with POSITIVE MORNING VIBRATIONS🌳Nature Sounds",
+    "score": 10
+  },
+  {
+    "id": "R88znkBKaYY",
+    "title": "Divine Flow - Connect With Nature, Soothe The Soul \\u0026 Find Deep Relaxation | Healing Soundscape",
+    "score": 10
+  },
+  {
+    "id": "_tsDPT-VtEc",
+    "title": "Ocean Sounds and Forest Nature Sound: Meditation, Sleep",
+    "score": 10
+  },
+  {
+    "id": "ySL3NllIhfA",
+    "title": "Search filters",
+    "score": 10
+  }
+]

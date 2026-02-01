@@ -1,1 +1,3282 @@
-[]
+[
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "dictionaries שיעור פייתון - #7 - מילונים",
+    "score": 110
+  },
+  {
+    "id": "Jzkq5o96qow",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "IM_bMx7FU-U",
+    "title": "איך לצלם תמונות נוף מדהימות: מדריך למתחילים",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "vx-qZxeVxLU",
+    "title": "הפסקתי להשתמש ב-If-Else והתחלתי לעשות את זה במקום",
+    "score": 60
+  },
+  {
+    "id": "ZPcgaZIWwqk",
+    "title": "איך הייתי לומד פייתון מהר (אם הייתי יכול להתחיל מחדש)",
+    "score": 60
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "איך הייתי לומד פייתון מהר (אם הייתי יכול להתחיל מחדש)",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "שווה לנסות - פרק 19",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "v4Fu8_jT7Tc",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "עומר פרצ׳י על צילום טבע ונוף במצלמות מירורלס",
+    "score": 60
+  },
+  {
+    "id": "n4ba86ULy4Q",
+    "title": "שיקום \\\"אשפה לאוצר\\\" | שיקום רהיטים",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "שמשון מאור חידוש שיפוץ רהיטים ישנים רהיטים חידוש  עתיקים רסטורציה פוליטורה בשיטות מסורתיות",
+    "score": 60
+  },
+  {
+    "id": "N_vIKp_csX8",
+    "title": "שחזור כיור רחצה מעץ אלם (נחשף גימור עץ מדהים)",
+    "score": 60
+  },
+  {
+    "id": "B-CoK1bYpv8",
+    "title": "שיפוץ הרהיטים הכי גדול שלי... ארון תרופות מלוכלך",
+    "score": 60
+  },
+  {
+    "id": "uCATRNZY7TM",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "bFt1lBtvyV4",
+    "title": "I Found a $100 Suzuki Hayabusa Junk | Full Restoration hayabusa GSX1300R Two-stroke engine bike",
+    "score": 50
+  },
+  {
+    "id": "WXwYwitcfMg",
+    "title": "Found in Attic after 85 years - 1940's Calrus Fan Restoration",
+    "score": 50
+  },
+  {
+    "id": "rjqcgm-wOT4",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "BEw5EFqCCEI",
+    "title": "Python for AI - Full Beginner Course",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "0jRj8yKpkhw",
+    "title": "How to Use Baking Soda in the Garden: 17 Powerful Tips for Healthy Plants \\u0026 Pest-Free Growth",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "5AhfDK-Pvzk",
+    "title": "The ENTIRE History of WORLD WAR 2 |  Full WWII Documentary | Fall Asleep To",
+    "score": 50
+  },
+  {
+    "id": "8yuiUvi568I",
+    "title": "Rock 'N Learn Title Screen",
+    "score": 50
+  },
+  {
+    "id": "wv5mROEhee0",
+    "title": "LEARN SPANISH with Simple Story for beginners – Ser feliz",
+    "score": 50
+  },
+  {
+    "id": "245RCAuFACg",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "Bogy0v4hz08",
+    "title": "Learn Spanish in 10 Minutes - ALL the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "4OSVLm19Uho",
+    "title": "Easy-to-Use Wood Grain Stickers – Quick \\u0026 Affordable Furniture Makeover part1008#homedecor  #diy",
+    "score": 50
+  },
+  {
+    "id": "-tDDbtwXS7k",
+    "title": "Easy-to-Use Wood Grain Stickers – Quick \\u0026 Affordable Furniture Makeover part1009#homedecor  #diy",
+    "score": 50
+  },
+  {
+    "id": "SxvPM12B06s",
+    "title": "Easy MCM Dresser Restoration for a Profit! #furniturerestoration #woodworking #furnitureflipping",
+    "score": 50
+  },
+  {
+    "id": "7JVQvzUKQGo",
+    "title": "Easy-to-Use Wood Grain Stickers – Quick \\u0026 Affordable Furniture Makeover part1010#homedecor  #diy",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "GfWRxr1OBm4",
+    "title": "Python in Excel vs. VBA - What You Should Learn in 2024!",
+    "score": 50
+  },
+  {
+    "id": "mC4nyib2sfg",
+    "title": "How I Learned Python FAST",
+    "score": 50
+  },
+  {
+    "id": "t8pPdKYpowI",
+    "title": "Course Intro \\u0026 Course Overview",
+    "score": 50
+  },
+  {
+    "id": "-qiMuTAnnlU",
+    "title": "👩‍💻 Python for Beginners Tutorial",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Python for Data Analytics - Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "lg3Oa2BwyOE",
+    "title": "Tiger Roar Jim Corbett National Park 🔥 | Forest Sounds | Tiger | Discovery | Documentary in Hindi",
+    "score": 50
+  },
+  {
+    "id": "Wus11B2WBzA",
+    "title": "કેન્દ્ર સરકારના બજેટમાં ખેડૂત માટે કેવી જાહેરાત થઇ? Agriscience",
+    "score": 50
+  },
+  {
+    "id": "ian6CXeFUYc",
+    "title": "Snow Days. 34 Ford. 70s Metal Flake Van Parts. And a Frozen 78 Truck. ",
+    "score": 10
+  },
+  {
+    "id": "MKsnguQm8E0",
+    "title": "I bought an ABANDONED Workshop - 1 Year Transformation *Timelapse*",
+    "score": 10
+  },
+  {
+    "id": "eDFHoqH8Jz4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C3iHAgwIYtI",
+    "title": "Starship | Second Flight Test",
+    "score": 10
+  },
+  {
+    "id": "PaPm0a8SIUM",
+    "title": "SpaceX Starship Flight 5 - 4K launch replay",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "zctTKdQcmVA",
+    "title": "Blastoff! SpaceX Starship launches on 5th flight, nails 'chopsticks' booster catch!",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "[4K] Watch SpaceX Catch A Starship Rocket From Space!!! #IFT5",
+    "score": 10
+  },
+  {
+    "id": "pIKI7y3DTXk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sX1Y2JMK6g8",
+    "title": "How We Are Going to the Moon - 4K",
+    "score": 10
+  },
+  {
+    "id": "_T8cn2J13-4",
+    "title": "Time lapse of the SpaceX Falcon 9 rocket launch from Huntington Beach, CA - 4K version",
+    "score": 10
+  },
+  {
+    "id": "-x7ruR5Vygc",
+    "title": "SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "MgMNo7q5P0U",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "vf_WTkIExgY",
+    "title": "Starship | Tenth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "rcd_SQZDlnk",
+    "title": "4K Footage | SpaceX Launches",
+    "score": 10
+  },
+  {
+    "id": "gmJgW-yMAIg",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "-4qlPXOuDaI",
+    "title": "FULL LAUNCH! SpaceX Starship 11th Flight Test",
+    "score": 10
+  },
+  {
+    "id": "K0NOSJF1RrA",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "lchtXWn8SOw",
+    "title": "[4K] SpaceX Starship Flight 9 Launch | Drone Cam",
+    "score": 10
+  },
+  {
+    "id": "h-cDKLX1v14",
+    "title": "SpaceX Starship's 5th Flight Booster Catch Landing from Isla Blanca October 13 2024",
+    "score": 10
+  },
+  {
+    "id": "BtUMt0gsqrs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "Pn6e1O5bEyA",
+    "title": "Blastoff! SpaceX launches Starship on 10th flight test, deploys Starlink simulators",
+    "score": 10
+  },
+  {
+    "id": "OikIfj7Hh9Y",
+    "title": "Starship | Fifth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "ROlEtlldxqk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "St48epdRDZw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mB0EBW-vDSQ",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "8jVogdTJESw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6lAHR7KaMJI",
+    "title": "Creating Jarvis powered by OpenAI and Python | ChatGPT",
+    "score": 10
+  },
+  {
+    "id": "OEJv74QnduA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "3vOJ7FrCPdU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_zX2pe0g3_o",
+    "title": "Never plant tomatoes without this. For large fruits and more tomatoes, follow this",
+    "score": 10
+  },
+  {
+    "id": "EjJh6oznkBo",
+    "title": "5 TIPS For BEGINNER Food Gardeners to Grow Veggies at Home",
+    "score": 10
+  },
+  {
+    "id": "iYCfW42Tek0",
+    "title": "Garden Center Shopping Like a Pro! 🌿 Expert Tips to Pick the Best Plants \\u0026 Shrubs",
+    "score": 10
+  },
+  {
+    "id": "j9NKqVoH5JU",
+    "title": "Plant these ONCE and they'll never leave your garden",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "A Brief Overview of World War II",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "WW2 - OverSimplified (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "ECktl3jCK8o",
+    "title": "World War II - Summary on a Map",
+    "score": 10
+  },
+  {
+    "id": "-CQatuQdQv4",
+    "title": "The end of World War I",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_yQyCTTPGuQ",
+    "title": "Was there a draft in ww2?",
+    "score": 10
+  },
+  {
+    "id": "vzTdGvYuNzo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "6 Hour 4K Beautiful places Aerial Views",
+    "score": 10
+  },
+  {
+    "id": "G1hKzCkywM8",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "-I9m5RhmdMM",
+    "title": "The wildlife photography !!",
+    "score": 10
+  },
+  {
+    "id": "tQ9gPQAk8xY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iV8jHTP2lcw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JpJn7aUXGTM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "noD0OM80Zxo",
+    "title": "Seasons of the year in Spanish",
+    "score": 10
+  },
+  {
+    "id": "T4sIZhCUweE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "W4iWOP3rknc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GGZocUaWTwc",
+    "title": "Secret way to fix your scuffed furniture with lacquer instead of refinishing 🤫",
+    "score": 10
+  },
+  {
+    "id": "9c1nly13MmI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HJ8bJ6mjpPQ",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "IS6ws5T2bcs",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "ThAfnszOXik",
+    "title": "Vhalam Aavo Ne | Full Audio Song | Love Ni Bhavai | Sachin-Jigar | Jigardan Gadhavi",
+    "score": 10
+  },
+  {
+    "id": "lItg24xj2Lc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "X7ufU3BjRLo",
+    "title": "Gaman Santhal : Jannat || HD Video || New Gujarati Love Song 2021 || Gamansanthal Official",
+    "score": 10
+  },
+  {
+    "id": "q0bPJSuU32E",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "cPS-9Ar2teI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "DMw8jH0R6Fg",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "oZdsJauHctQ",
+    "title": "🚨 THE FINAL DOMINO: Why the S\\u0026P 500 is Vulnerable to a 10% Crash",
+    "score": 10
+  },
+  {
+    "id": "3xB-ugqkYDk",
+    "title": "They Crashed Silver on Purpose… Here’s The Real Plan",
+    "score": 10
+  },
+  {
+    "id": "l6vyrCL56wg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jmubAoCBJOs",
+    "title": "Our First 24 Hours Onboard Made Other Cruises Feel Like A Scam!",
+    "score": 10
+  },
+  {
+    "id": "cAguNlHRGTk",
+    "title": "Sell Everything!!",
+    "score": 10
+  },
+  {
+    "id": "lZRie92KxI8",
+    "title": "Sell Altcoins",
+    "score": 10
+  },
+  {
+    "id": "p02ipo_47jI",
+    "title": "THE KOINONIA EXPERIENCE WITH APOSTLE JOSHUA SELMAN ||01||02|2026",
+    "score": 10
+  },
+  {
+    "id": "9lvYtMP9T2U",
+    "title": "Why The American EV Dream Is Falling Apart",
+    "score": 10
+  },
+  {
+    "id": "W1R7ukhbEQw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "87wPXXSBOgM",
+    "title": "Intro \\u0026 Explanation",
+    "score": 10
+  },
+  {
+    "id": "fH-_O9_SHqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wUSDVGivd-8",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "IfKlGhRc7Dc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EgLkO8sXmtY",
+    "title": "ABCD | Kaushik Bharwad | મને ગમે એક તુ | 4K VIDEO | New Gujarati Love Song |  ‎@gujaratisinger7019",
+    "score": 10
+  },
+  {
+    "id": "Y_84rgMH_pc",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "dG3a81ZE-x8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "fFQWhS3qBhU",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "E7-9kDv-svc",
+    "title": "Vhal no Dariyo | Mele thi | @SantvaniTrivediMusic | New Gujarati Song | Aakash Parmar",
+    "score": 10
+  },
+  {
+    "id": "9jhrYiK1hoc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Qfu4yZhSXL0",
+    "title": "Tari Yaado Bhulati Nathi • Umesh Barot • Feat.Hansi Shrivastava • New Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "3q0jQHSTchI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "cdHYSkVtwF8",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "OHo5YGAif1Q",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "GQuv2Mxl2R4",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "lguZFSugKHM",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "xtAHEYFJIeE",
+    "title": "Naagar Nandji Na Laal | Aditya Gadhvi | Ft. Kinjal Rajpriya",
+    "score": 10
+  },
+  {
+    "id": "foefm74NDPc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "bG2lNBqMKS4",
+    "title": "SAJAN BEWAFA | FULL ALBUM | RAJDEEP BAROT | BEWAFA SONGS | LALEN MUSIC",
+    "score": 10
+  },
+  {
+    "id": "lNvzW5dPZf8",
+    "title": "Nitin Barot Ft. Neha Suthar - Pardesi Pal Ma Bhuli Jase",
+    "score": 10
+  },
+  {
+    "id": "S1sKr-aa43c",
+    "title": "Nonpan Ni Yaad",
+    "score": 10
+  },
+  {
+    "id": "mwbxt6bbCCk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DqotP90WShs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ze9fS91NKP4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tw2vEKSBNLo",
+    "title": "JIGNESH BAROT | Bewafa Tane Dur Thi Salaam | New BEWAFA Song | FULL VIDEO | New Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "RsE0Vwx94Yw",
+    "title": "Jignesh Barot | Bewafa Ni Yaado Part - 4 | New Gujarati Sad Songs Collection@EktaSound​",
+    "score": 10
+  },
+  {
+    "id": "lsIvajxYyzg",
+    "title": "Nitin Barot | DJ બેવફા સનમ_Kavita Das_Nonstop DJ Bewafa Remix | Audio Track 2025@PayalDigital​",
+    "score": 10
+  },
+  {
+    "id": "Ie0K8krnHXE",
+    "title": "Non Stop Bewafa Na Geeto | બેવફાના ગીતો | Jignesh Barot | Kajal Maheriya | Gujarati Sad Songs",
+    "score": 10
+  },
+  {
+    "id": "JGpriTtF9M8",
+    "title": "Barots Of Gujarat - Bewafa Songs | Rakesh Barot | Jignesh Barot | Gujarati Bewafa Geet",
+    "score": 10
+  },
+  {
+    "id": "kLTXxOCTtIo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_rBvTOSV_s8",
+    "title": "Jignesh Barot Na Bewafa Geeto | Nonstop Bewafa Songs | Gujarati Superhit Sad Songs 2025",
+    "score": 10
+  },
+  {
+    "id": "QH_zLPAgrWM",
+    "title": "બેવફા ની યાદો Jignesh Barot New Sad Song | Bewafa Ni Yaado 2 | Gujarati Bewafa Song Collection",
+    "score": 10
+  },
+  {
+    "id": "ofrdtbdW2f8",
+    "title": "Rakesh Barot - BEWAFA SONG | Badpan Ni Todi Prit Re | Superhit Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "OAlOS2V1IdI",
+    "title": "TU BEWAFA | FULL ALBUM | RAJDEEP BAROT | VANITA BAROT | LALEN MUSIC",
+    "score": 10
+  },
+  {
+    "id": "OwiLKIxMaIg",
+    "title": "Ghayal Bewafa, Pt. 01",
+    "score": 10
+  },
+  {
+    "id": "tYOWOqohNZQ",
+    "title": "Dard - Rakesh Barot | Bandhi Muthi Lakh Ni Kholi To Kakh Ni | Varsad Na Chota Aayya | Bewafa Songs",
+    "score": 10
+  },
+  {
+    "id": "nEjf_jNquYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Llnm4CpECqo",
+    "title": "Bewafa Mashup -Part 4 || Jignesh Barot || Kajal Maheriya || Bechar Thakor || Dj Irfan || 2021",
+    "score": 10
+  },
+  {
+    "id": "o8JE97sy4aU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NyvMwQgTJ9E",
+    "title": "Dwarikadhish Ne Khamma | Sabhiben Ahir | @RAJESH_AHIR | Song Of Faith | New Gujrati Song 2024",
+    "score": 10
+  },
+  {
+    "id": "rQbmzIwQd_k",
+    "title": "Kana Ne Makhan Bhave | Rajesh Ahir, Ft. Nandlal Chhanga",
+    "score": 10
+  },
+  {
+    "id": "aWnLVfsxTHM",
+    "title": "Venu Vagadto | Rajesh Ahir",
+    "score": 10
+  },
+  {
+    "id": "ZnqLyzreCF8",
+    "title": "1 Duho",
+    "score": 10
+  },
+  {
+    "id": "HZ3T485qAY8",
+    "title": "Madhav Mara Morli Vada | Sabhiben Ahir | ​⁠​⁠@RAJESH_AHIR | Song OF Faith | New Gujarati Song 2023",
+    "score": 10
+  },
+  {
+    "id": "NDkgRWeDpuA",
+    "title": "Aavje Mogal | Rajesh Ahir , ft.Sabhiben Ahir (Saad Karu Tya Aavje Mogal)",
+    "score": 10
+  },
+  {
+    "id": "mT5riSZ0VLo",
+    "title": "Ranchhod Rangila | Sabhiben Ahir, @RAJESH_AHIR | Song Of Faith | New Gujrati Song 2023",
+    "score": 10
+  },
+  {
+    "id": "XXBEtLLERa0",
+    "title": "क्या देखकर Jetha को आया गुस्सा? | Taarak Mehta Ka Ooltah Chashmah | Nimboo Story",
+    "score": 10
+  },
+  {
+    "id": "cZeth8Y7LUU",
+    "title": "Bagdana બબાલ બાદ સૌથી મોટો ધડાકો, Jayraj Ahir ના ભાઈ અને Mayabhai Ahir જશે જેલમાં? | Hira Solanki |",
+    "score": 10
+  },
+  {
+    "id": "2kZlXwoKGOg",
+    "title": "દેવું કરીને US ગયેલું ગુજરાતી કપલ ICEના હાથમાં આવી ગયું",
+    "score": 10
+  },
+  {
+    "id": "pXtXcSNB9rg",
+    "title": "𝗦𝗛𝗥𝗘𝗘 𝗡𝗔𝗡𝗕𝗔𝗜 𝗠𝗔𝗧𝗔𝗝𝗜𝗡𝗢 𝗩𝗔𝗥𝗦𝗛𝗜𝗞 𝗣𝗔𝗧𝗢𝗧𝗦𝗔𝗩 || 𝗥𝗔𝗦𝗦 𝗚𝗔𝗥𝗕𝗔 || 𝗞𝗜𝗡𝗝𝗔𝗟 𝗥𝗔𝗕𝗔𝗥𝗜 || 𝟬𝟭𝘁𝗵 𝗝𝗔𝗡 𝟮𝟬𝟮𝟲",
+    "score": 10
+  },
+  {
+    "id": "yOratuCf5OU",
+    "title": "𝗦𝗛𝗥𝗘𝗘 𝗡𝗔𝗡𝗕𝗔𝗜 𝗠𝗔𝗧𝗔𝗝𝗜𝗡𝗢 𝗩𝗔𝗥𝗦𝗛𝗜𝗞 𝗣𝗔𝗧𝗢𝗧𝗦𝗔𝗩 || 𝗥𝗔𝗦𝗦 𝗚𝗔𝗥𝗕𝗔 || 𝗞𝗜𝗡𝗝𝗔𝗟 𝗥𝗔𝗕𝗔𝗥𝗜 || 𝟬𝟭𝘁𝗵 𝗝𝗔𝗡 𝟮𝟬𝟮𝟲",
+    "score": 10
+  },
+  {
+    "id": "f-DPctNCm6U",
+    "title": "Jhaa ke sath dhokha kar diya 😰",
+    "score": 10
+  },
+  {
+    "id": "s6VxJYT2mQc",
+    "title": "Dwarikadhish Ne Khamma | દ્વારકાધીશ ને ખમ્મા | Rajesh ahir sabhiben ahir | New song",
+    "score": 10
+  },
+  {
+    "id": "MoQjw9r22Bo",
+    "title": "Chhedo To Kalo Nag Mogal || Sabhiben Ahir || HD Video || Devotional Song || Ekta Sound",
+    "score": 10
+  },
+  {
+    "id": "NKFxow0FZt4",
+    "title": "Dwarkadish Ne Khamma - Bass Boosted | Rajesh Ahir,SabhiBen Ahir | Dwarka Song |Guajrati Bass Booster",
+    "score": 10
+  },
+  {
+    "id": "8SbtZMEZoTY",
+    "title": "Ranchod Rangila | Rajesh Ahir \\u0026 Sabhiben Ahir | Song of Faith | Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "MlsZPqRYkg4",
+    "title": "Dwarikadhish ne khamma Slowed and reverb song | Sabhiben Ahir | ‪@RAJESH_AHIR",
+    "score": 10
+  },
+  {
+    "id": "mJk31_dVc8g",
+    "title": "Ranchhod Rangila | Sabhiben ahir  |  Rajesh ahir | Gujarati song | Gujarati garba |",
+    "score": 10
+  },
+  {
+    "id": "1oJuvMQ1nig",
+    "title": "Raas Utsav - Sabhiben Ahir| Special Nonstop Garba 2023 | New Gujarati Song રાસ ઉત્સવ | Gujrati Beats",
+    "score": 10
+  },
+  {
+    "id": "hWYpSGiI7r4",
+    "title": "Vrajvani na dhol || વ્રજવાણી ના ઢોલ || Sabhiben ahir || Full HD Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "bhymfT0cXcc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ntqoWfwjK_k",
+    "title": "Gaman Santhal - Kohinoor (કોહીનૂર) Chehar Maa New Gujarati Song 2025 || Gaman Santhal Official",
+    "score": 10
+  },
+  {
+    "id": "uMM4c-N6CAE",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "nRaVpaTDxzk",
+    "title": "Gujarati Nonstop Lofi Mix 2025 | Instagram Trending Gujarati Song | Top Gujarati Lofi Song  Superhit",
+    "score": 10
+  },
+  {
+    "id": "ELtclX4LH3w",
+    "title": "ગોરી રાધા ને કાળો કાન Gori Radha Ne Kalo Kaan - Wrong Side Raju | Pratik G Kimberley  L | Kirtidan G",
+    "score": 10
+  },
+  {
+    "id": "v6l0dznToPs",
+    "title": "Kimberley Gomez testimonial of Radha Herring of Watermark Real Estate Group",
+    "score": 10
+  },
+  {
+    "id": "BMcaUSVzHdw",
+    "title": "The Queen Said ll Kimberley #kimberley #kimmy #beautiful #thai  #actress",
+    "score": 10
+  },
+  {
+    "id": "2MbNtw1EzRw",
+    "title": "#explore #transition #explorepage #dance #tylerthecreator #kimberlykim #fashion #love #hair",
+    "score": 10
+  },
+  {
+    "id": "SHlmVhphpC8",
+    "title": "Gori Radha Ne Kalo Kaan - Wrong Side Raju |Kashyap Tevani |Pratik Gandhi Kimberley Louisa McBeath |",
+    "score": 10
+  },
+  {
+    "id": "h8m2pO-O8xo",
+    "title": "Gori Radha Ne Kalo Kaan   Wrong Side Raju   Pratik Gandhi Kimberley Louisa McBea0",
+    "score": 10
+  },
+  {
+    "id": "1dL9Ra0bOr0",
+    "title": "Gori Radha Ne Kalo Kaan - Wrong Side Raju | Pratik Gandhi Kimberley Louisa McBeath | Kirtidan Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "O49RVZkJWEQ",
+    "title": "Gori Radha Ne Kalo Kaan - Wrong Side Raju | Pratik Gandhi Kimberley Louisa McBeath |Kirtidan Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "POGkZLaZ_p0",
+    "title": "radha nu roop chhe to .... beautiful dance by this couple 🥰",
+    "score": 10
+  },
+  {
+    "id": "GV-jhDMeaq8",
+    "title": "Garba | radha ne shyam mali jashe | navratri | 2022 | gujju",
+    "score": 10
+  },
+  {
+    "id": "YJnWWw1Vd4k",
+    "title": "Gori Radha ne kado kaan || Kimberley Louisa McBeath #gujratisong #garbhadance #viral",
+    "score": 10
+  },
+  {
+    "id": "H7DtMhvM2n8",
+    "title": "Radha Rani risayi gaya #Rakesh_Muniya_01",
+    "score": 10
+  },
+  {
+    "id": "R5Yp0fHhzTs",
+    "title": "Gori Radha Ne Kalo Kaan | Mishti Patel | Pratik Gandhi Kimberley Louisa McBeath | Kirtidan Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "5X3GOVRzZYA",
+    "title": "Radha kaise na jale ❤️ #tmtstudioindia #tmtians #trending #dance #tmtindia #tmt #viral #cute",
+    "score": 10
+  },
+  {
+    "id": "Mh2BdZWsxYI",
+    "title": "Radha nu rup che to kanuda ni prit che #garba #gujaratigarba #gujjugarba #garbalover #garbadance",
+    "score": 10
+  },
+  {
+    "id": "AkZ1r0cO_WI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZwUzUhCpOC8",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "5WA0ogX3Lqw",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "phtkdGKPotM",
+    "title": "Jija Sala JIja - Full Gujarati Movie | Tushar Sadhu | Kushal Mistry | Ragi Jani | New Gujarati Movie",
+    "score": 10
+  },
+  {
+    "id": "XqgIGfGFCM8",
+    "title": "Jija Sala | Stand Up Comedy by Arvind Sunder",
+    "score": 10
+  },
+  {
+    "id": "pcmII3Mn9oY",
+    "title": "Jija Sala | जीजा साला | Mani Meraj Vines |",
+    "score": 10
+  },
+  {
+    "id": "x9gGxEvGPj4",
+    "title": "Jija Ji - New Haryanvi D.j Song | Meeta Baroda New Song | Anshu Choudhary - New Haryanvi Song 2024",
+    "score": 10
+  },
+  {
+    "id": "8gv5jmo6CFk",
+    "title": "Battuaa Full Song | Surma | Bhupinder Gill, Miss Neelam | Khali Hoye Batue Nu Song | T-Series",
+    "score": 10
+  },
+  {
+    "id": "wWw0ijGoOFs",
+    "title": "Hokaliyo | Rakesh Barot |  Parth Bharat Thakkar | Jija Sala Jija | Releasing on 21st March 2025",
+    "score": 10
+  },
+  {
+    "id": "RYvbXTt7eNI",
+    "title": "JIJA KA NYONDA NEW HARYANVI SUPER HIT SONG | RAMMEHAR MAHLA | SUSHILA TAKHAR | NDJ MUSIC",
+    "score": 10
+  },
+  {
+    "id": "AqEJ0oY4dSU",
+    "title": "Jija Sala Jija - Official Teaser | Tushar Sadhu | Kushal Mistry | Ragi Jani | Vipul Sharma",
+    "score": 10
+  },
+  {
+    "id": "Yre6R5nbcbo",
+    "title": "जीजा साला | JIJA SALA | Vipin Chaudhary | Vivek Sharma | New Film 2025 #uttarkumar",
+    "score": 10
+  },
+  {
+    "id": "HDuMEBMCY58",
+    "title": "Battua | Jija v/s Sali | Wedding choreography | Easy Bhangra | The Dance Mafia",
+    "score": 10
+  },
+  {
+    "id": "5t6CaxLV6J0",
+    "title": "Jija Pan Khilado | Habib Khan | Rajasthani Folk Music | Hit Rajasthani Full Video Songs",
+    "score": 10
+  },
+  {
+    "id": "JnnsX4mjivs",
+    "title": "Jija sali ki nok jhok😂🥰#chikayadav #chikayadavvideo #jijasali",
+    "score": 10
+  },
+  {
+    "id": "GbQyGb38HPU",
+    "title": "When Jeeja-Saala hit the dance floor...💃",
+    "score": 10
+  },
+  {
+    "id": "-zFxU1yNkwY",
+    "title": "Jija Sala \\u0026 Mala ||  Ep. 02 | Rap Battle | Love Story  | Gujarati Web Series | Kaminey Frendzz",
+    "score": 10
+  },
+  {
+    "id": "q2Ws_891u18",
+    "title": "Reply Jija To Sali (Official Punjabi Video) Tim Raikoti | Jasmeen Akhtar | New Punjabi Songs 2023",
+    "score": 10
+  },
+  {
+    "id": "9S8oBfADaic",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WJsMmLW8_lU",
+    "title": "Dev Dwarika Vada I Sabhiben Ahir I @RAJESH_AHIR I Song of Faith I New Gujarati Song 2025",
+    "score": 10
+  },
+  {
+    "id": "BmLHRyWtUI0",
+    "title": "Maan Na Mohanji | Rajesh Ahir , Sabhiben Ahir | Song Of Faith | New Gujarati Song 2022",
+    "score": 10
+  },
+  {
+    "id": "9NtQCjNdnqA",
+    "title": "Dwarika Ni Sheriye | Rajesh Ahir | Navratri Song 2021 | New Gujrati Song",
+    "score": 10
+  },
+  {
+    "id": "3Wewd2RFn2o",
+    "title": "Dhanya Dhanya Dwarikawala I Sabhiben Ahir I @RAJESH_AHIR I Song of Faith I New Gujarati Song 2025",
+    "score": 10
+  },
+  {
+    "id": "xcYLHzPnro8",
+    "title": "क्या देखकर Jetha को आया गुस्सा? | Taarak Mehta Ka Ooltah Chashmah | Nimboo Story",
+    "score": 10
+  },
+  {
+    "id": "on8StVgBFh4",
+    "title": "Kachi Re Mati nu",
+    "score": 10
+  },
+  {
+    "id": "xVwOaqD3UBA",
+    "title": "Best of Rajesh Ahir Songs | Rajesh Ahir Bhakti Songs",
+    "score": 10
+  },
+  {
+    "id": "sETyJ4fxqDc",
+    "title": "Raas Utsav - Sabhiben Ahir | @RAJESH_AHIR | Special Nonstop Garba 2023 New Gujarati Song રાસ ઉત્સવ",
+    "score": 10
+  },
+  {
+    "id": "lv7QbiIngV4",
+    "title": "Madhav Mara Mohanji || Geeta Rabari || Rajesh Ahir || Dwarkadish￼ New Gujarati Song 2024",
+    "score": 10
+  },
+  {
+    "id": "T-ZIR1Y-2uk",
+    "title": "Kano Dwarika Vado | KALP PATEL | KPGRAPHY | Rajesh Ahir | HAPPY JANMASHTAMI TO ALL...",
+    "score": 10
+  },
+  {
+    "id": "RrdUmPEwFHw",
+    "title": "bla gopal jhula #new #newjhula #kano #viral #video #janmashtamispecial #janmashtami",
+    "score": 10
+  },
+  {
+    "id": "0UvBJHbiEtE",
+    "title": "Chiropractic treatment for TMJ joint by World famous chiropractor Dr.Rajneesh kant.",
+    "score": 10
+  },
+  {
+    "id": "07ClprxYB4o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HTDjt9SKNMU",
+    "title": "Popular Songs 2025 - Spotify - Top Hits \\u0026 Pop Music Playlist",
+    "score": 10
+  },
+  {
+    "id": "wPAqnzx2rU4",
+    "title": "Music Mix 2026 #14 Party Club Dance 2026 | Best Remixes Of Popular Songs 2025 MEGAMIX (DJ Silviu M)",
+    "score": 10
+  },
+  {
+    "id": "t5rhh8hU5YQ",
+    "title": "Haneen Elshater - Sayidat Qalbi (AZZEEZ ft. AZAAR Remix) Trend Music 2025",
+    "score": 10
+  },
+  {
+    "id": "v6zEOuI8Q0k",
+    "title": "Top 20 OPM Love Songs 2026 🎧 Trending Tagalog Music 2026  (Hot Hits On Spotify \\u0026 Youtube)",
+    "score": 10
+  },
+  {
+    "id": "lJAIdl7SipU",
+    "title": "Spotify VIRAL Music 2026 ~ Top Spotify Songs Mix 🎧 Trending Songs 2026 ~ Best Pop Hits Playlist 2026",
+    "score": 10
+  },
+  {
+    "id": "fGPSs1PLc9o",
+    "title": "Top hits 2025 playlist ~ Trending music 2025 ~ Best songs 2025 updated weekly (Playlist Hits)",
+    "score": 10
+  },
+  {
+    "id": "g5DABP9b_Vo",
+    "title": "1. Not Your Barbie Girl (Slap House Remix) - Helions Cover",
+    "score": 10
+  },
+  {
+    "id": "PZ_L9liTUMg",
+    "title": "Trending Hits 2026 🎤 Spotify Pop Mix – Viral Music 2026 \\u0026 Best Songs Playlist",
+    "score": 10
+  },
+  {
+    "id": "hpuQC5YcgKU",
+    "title": "Trending Hits 2026 🎤 Spotify Pop Mix – Best Songs Playlist \\u0026 Viral Music 2026",
+    "score": 10
+  },
+  {
+    "id": "9meUeLtqOFY",
+    "title": "When She Cries - Restless Heart 💖 Philippines Music Trending Youtube \\u0026 Spotify August 2025",
+    "score": 10
+  },
+  {
+    "id": "IcPAllWWgEs",
+    "title": "Best Songs 2026 Playlist 🎧  Spotify Hits 2026 ~ Trending Music 2026 🎶 Top Hits 2026",
+    "score": 10
+  },
+  {
+    "id": "SYhvpeWXQH4",
+    "title": "NEFFEX Good Feeling",
+    "score": 10
+  },
+  {
+    "id": "Ou6vJ1K2qY0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Wa-sIF-tVGg",
+    "title": "જુદારામા વહુઓ એમિલકત પડાવી | Vahu a milakat padavi | Gujarati Comedy video ",
+    "score": 10
+  },
+  {
+    "id": "JYLEyMvj6sE",
+    "title": "Halaji tara hath vakhanu |  #AdityaGadhavi  | Horse #riding_stunt |",
+    "score": 10
+  },
+  {
+    "id": "YMrVf4O65Ss",
+    "title": "Nagar Nandji Na Laal - Sachin-Jigar New Song 2025 | Jigardan Gadhavi",
+    "score": 10
+  },
+  {
+    "id": "bfM9_dz8WyA",
+    "title": "નાગર નંદજીના લાલ  - Trupti Gadhvi | Umesh Barot | Naagar Nandji Na Laal | Gujarati Song 2025",
+    "score": 10
+  },
+  {
+    "id": "uFfWtNSxJUs",
+    "title": "Nagar Nandaji Na | નાગર નંદજીના | Rangtaali - 3 | Geeta Rabari New Song | Aditya Gadhavi Raas Garba",
+    "score": 10
+  },
+  {
+    "id": "7-iINvNeTzI",
+    "title": "Nagar Nandji Na Lal(નાગર નંદજીના લાલ)-[slowed+reverb] | | Aditya Gadhvi | Gujarati Kasumbal",
+    "score": 10
+  },
+  {
+    "id": "orSdKGHsOUI",
+    "title": "હતો હું સૂતો પારણે પુત્ર નાનો",
+    "score": 10
+  },
+  {
+    "id": "F_J-mZ1o0No",
+    "title": "Ochhav | Non-Stop Gujarati Garba \\u0026 Lok Geet 2023 | Aditya Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "V4f5I_xJVoA",
+    "title": "Ochhav Theme",
+    "score": 10
+  },
+  {
+    "id": "HO5YiYfz3Wo",
+    "title": "Main Kanuda Tori Govalan | Feat. Aditya Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "c1B01ds2ASY",
+    "title": "Who Is LYING Here? 😳 | SS",
+    "score": 10
+  },
+  {
+    "id": "X5qrRzfSHCI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tWIIoMzzoko",
+    "title": "Zanjh Pakhaj Veena Jantar - Aditya Gadhavi (ઝાંઝ પખાજ વીણા જંતર)",
+    "score": 10
+  },
+  {
+    "id": "dLWMMZJ8X7M",
+    "title": "Ochhav | Non-Stop Gujarati Garba \\u0026 Lok Geet 2023 | Aditya Gadhvi",
+    "score": 10
+  },
+  {
+    "id": "4lv8sa8NGss",
+    "title": "Shivanshu X Heet | Folk Fusion Collab |Nagar Nandji Na Laal",
+    "score": 10
+  },
+  {
+    "id": "NlY-Ci3o_SA",
+    "title": "Nagar Nand Ji Na Laal | Geeta Rabari \\u0026 Aditya Gadhvi | Lofi Mix by Vibslowfied",
+    "score": 10
+  },
+  {
+    "id": "SLC8Ms_JIaQ",
+    "title": "Khamma Mara Nandji Na Lal || Kirtidan Gadhvi ||",
+    "score": 10
+  },
+  {
+    "id": "mbz_No_13oc",
+    "title": "🪔 🦚 Nagar Nandji Na Laal | Devotional Garba by Vibbhutie Mehta | Gujarati Bhajan 2025 | Navratri",
+    "score": 10
+  },
+  {
+    "id": "AZJAyaoPVsU",
+    "title": "Naagar Nandji Na Laal | Aditya Gadhvi | Folktastic #garba #dance Mumbai Garba",
+    "score": 10
+  },
+  {
+    "id": "Y6gOKSw5eRg",
+    "title": "Aditya Gadhvi \\\"Nagar Nand Ji Na Laal\\\" Full Lyrics Song #adityagadhvi #gujaratisongs \\\"Kattey\\\"",
+    "score": 10
+  },
+  {
+    "id": "3Hhz-_KNH1I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3wV90C8tWcc",
+    "title": "BHAJAN MASHUP 3 | JIGARDAN GADHAVI",
+    "score": 10
+  },
+  {
+    "id": "Z_59mqgPvlU",
+    "title": "ચણિયાચોળી | CHANIYACHOLI | Jigardan Gadhavi | ft. Yati | New Navratri 2024 Song",
+    "score": 10
+  },
+  {
+    "id": "EG4gFxczkH8",
+    "title": "Tu Haiye Haali Aave",
+    "score": 10
+  },
+  {
+    "id": "1SVtZXAzhew",
+    "title": "Pankh - Soulful Nonstop Krishna Songs | Sachin-Jigar 2025 Hits | Jigardan Gadhavi",
+    "score": 10
+  },
+  {
+    "id": "QkjGWGjUWfs",
+    "title": "Vela Milan Ni | Jigardan Gadhavi - Yati Upadhyay | Jigrra | Kavya Limaye |Gujarati Wedding Song 2024",
+    "score": 10
+  },
+  {
+    "id": "GMs445idyVY",
+    "title": "Krishna Bhajan Mashup | Jigardan Gadhavi | Jigrra",
+    "score": 10
+  },
+  {
+    "id": "jJMmrWKlrng",
+    "title": "Krishna Bhajan Mashup 2 | Jigardan Gadhavi |  @jigrra",
+    "score": 10
+  },
+  {
+    "id": "gWJe85ReYgU",
+    "title": "Khamkaro (Non Stop Garba) | Jigardan Gadhavi (@jigrra ) Maulik Mehta | Navratri Special 2023",
+    "score": 10
+  },
+  {
+    "id": "2UM6ksbxTvs",
+    "title": "Khamma Khodiyar",
+    "score": 10
+  },
+  {
+    "id": "WRgfRWcHAaQ",
+    "title": "Rangtaali 4| Aishwarya Majmudar | Jigardan Gadhavi | Rajbha Gadhvi |Raas Garba 2025",
+    "score": 10
+  },
+  {
+    "id": "0lE9Lh_vI0Q",
+    "title": "1. **Radhe Radhe Shyam",
+    "score": 10
+  },
+  {
+    "id": "VeiUQrYrg_s",
+    "title": "क्या देखकर Jetha को आया गुस्सा? | Taarak Mehta Ka Ooltah Chashmah | Nimboo Story",
+    "score": 10
+  },
+  {
+    "id": "kHdkr6JdUhk",
+    "title": "⚡😂 *Vijuli No Bar Pravesh Ne Vov No Ghar Pravesh (2026)* 😂 *Vijuli – Rajyo | Gujarati Comedy Video*",
+    "score": 10
+  },
+  {
+    "id": "dielg2MkDgs",
+    "title": "ખૂંખાર મેલડી પ્રવચન 1/2/2026",
+    "score": 10
+  },
+  {
+    "id": "5NyzJ2mudf8",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "dovWSJHPIqc",
+    "title": "NO India vs Pakistan as Pakistan BOYCOTT in T20 World Cup 2026",
+    "score": 10
+  },
+  {
+    "id": "0_ehKFyX0Tk",
+    "title": "Bhajan mashup 2021 | @jigrra | jigardan gadhavi",
+    "score": 10
+  },
+  {
+    "id": "3d47MC7dnrI",
+    "title": "Vhalam Aavo Ne | Full Audio Song | Love Ni Bhavai | Sachin-Jigar | Jigardan Gadhavi",
+    "score": 10
+  },
+  {
+    "id": "IxT5RSusVIY",
+    "title": "Namu Hanuman | Jigardan Gadhvi | Hanuman Jayanti 2025 | Sadvidya TV",
+    "score": 10
+  },
+  {
+    "id": "v9Oz-cdhZSI",
+    "title": "RAMO RE | Jigardan Gadhavi | Janki Bodiwala | Kavya Limaye | Navratri 2025",
+    "score": 10
+  },
+  {
+    "id": "9n7tWwa77mY",
+    "title": "Rangat (રંગત) nonstop garba 2024 | Aishwarya Majmudar | Jigardan Gadhavi (Jigrra) | Nishant | Nilay",
+    "score": 10
+  },
+  {
+    "id": "XNFxeVyFFlA",
+    "title": "01..Aavo Aavo Maa",
+    "score": 10
+  },
+  {
+    "id": "BJQ_pcLFlII",
+    "title": "Kirtidan Gadhvi All Time Hits | Non Stop Garba | Navratri Special 2021 | Kirtidan Gadhvi Garba",
+    "score": 10
+  },
+  {
+    "id": "CxGJEY-5tnU",
+    "title": "Geeta Rabari - Zankaar 2.0 (ઝણકાર 2.0) | Navratri Special Nonstop Garba 2023 | Geeta Rabari Official",
+    "score": 10
+  },
+  {
+    "id": "nL1v4x7rszs",
+    "title": "1:- Duho",
+    "score": 10
+  },
+  {
+    "id": "Y9rE81NSiI4",
+    "title": "Namu Hanuman - Full Song | Om Baraiya | Jigardan Gadhavi | Devraj Gadhavi | Rahul Munjariya",
+    "score": 10
+  },
+  {
+    "id": "nN40MeMDy10",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2QJ497F6UZE",
+    "title": "আমের দাম | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "do-e0U4KqnE",
+    "title": "গজোমুক্ত রহস্যো | Gopal Bhar | Back To Back",
+    "score": 10
+  },
+  {
+    "id": "vo9TrmpyKdA",
+    "title": "মন্ত্রী ঘুষ খাওয়া | Fun Time With Gopal | Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "xqu0uojAX5k",
+    "title": "মন্ত্রীর আজব আচরণ | Gopal Bhar (Bengali) | Double Gopal",
+    "score": 10
+  },
+  {
+    "id": "HBHcIawjZ3g",
+    "title": "গোপাল কোঠায় | Gopal Bhar | Back To Back",
+    "score": 10
+  },
+  {
+    "id": "vTFwgAPv4lo",
+    "title": "নারু গোপাল | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "kkfM6vUJCNs",
+    "title": "নতুন বছরে চড়ুইভাতি | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "kbK_qAcr7q0",
+    "title": "হোয়াট'স কুকিং? | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "dlj2LVthUes",
+    "title": "ব্যাধির বিধান | Gopal Bhar | Episode - 1183",
+    "score": 10
+  },
+  {
+    "id": "HYrVNGgdy2g",
+    "title": "গোপালের নবাবী | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "G1iATT8x-gs",
+    "title": "পাগল নবাবের তাণ্ডব! গোপাল দাদার পিকনিক ধ্বংস হয়ে গেল | Gopal Bhar | New Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "P47kTzY2AZ4",
+    "title": "ক্ষুধায় কাতর কঙ্গাল মন্ত্রীকে দেখে কেঁদে ফেললেন গোপাল দাদা। | Gopal Bhar | New Episode 2026",
+    "score": 10
+  },
+  {
+    "id": "2UHqytF2e8w",
+    "title": "মহাবন্যার তাণ্ডব! গোপাল দাদাকে ছেড়ে যেতে হলো কৃষ্ণনগর | Gopal Bhar | New Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "ho8yHjey-os",
+    "title": "সাধুর বেশে শয়তান! রানীর বলি হওয়ার আগে কীভাবে বাঁচাবেন গোপাল দাদা? | Gopal Bhar | New Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "2qhlBHra7uo",
+    "title": "মন্ত্রী কেন নিজের স্ত্রী ও রাণীর মধ্যে জোরদার লড়াই লাগাল? | Gopal Bhar | Latest Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "4C5PCB1U8Uc",
+    "title": "মুর্শিদাবাদে ভিখারি মন্ত্রী! ফকির সেজে গোপালের দুর্দান্ত উদ্ধার | Gopal Bhar | Latest Episode 2026",
+    "score": 10
+  },
+  {
+    "id": "OVMTP6fKx1Q",
+    "title": "রানীর সোনা কোথায়? Gopal Bhar Finds Jungle Cave  | Gopal Dada New Episode 2026",
+    "score": 10
+  },
+  {
+    "id": "S1RVlQH9IDU",
+    "title": "গোপাল দাদা নিজের ঘরজামাইকে দিল দারুণ পার্টি | Gopal Bhar | Fun With Gopal | Latest Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "HLNISmQHVAg",
+    "title": "গোপাল দাদাকে ফাঁসাতে নবাব দাওয়াতে পেতেছে মৃত্যুর ফাঁদ! | Gopal Bhar | New Episode 2025",
+    "score": 10
+  },
+  {
+    "id": "C6_Ngh1Fe80",
+    "title": "মন্ত্রীর ষড়যন্ত্র! ছিনতাই সিংহাসন | Gopal Bhar - গোপালভাঁড় | New Episode 2026",
+    "score": 10
+  },
+  {
+    "id": "PxajLUenD3s",
+    "title": "আ গ্রান্ড ফিস্ট | Gopal Bhar Movie | Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "ZKP7cGmJMqk",
+    "title": "সর্ষের মধ্যে ভূত | Gopal Bhar | Back To Back",
+    "score": 10
+  },
+  {
+    "id": "Gs4Axcfa8iA",
+    "title": "আপনি যখন পর | Gopal Bhar | Episode - 1207",
+    "score": 10
+  },
+  {
+    "id": "_nYPJMrZqs8",
+    "title": "নকল রত্ন রহস্য | Gopal Bhar | Episode - 1208",
+    "score": 10
+  },
+  {
+    "id": "h9q2NHFhLks",
+    "title": "ছেস | Gopal Bhar (Bengali) | Double Gopal",
+    "score": 10
+  },
+  {
+    "id": "8a_rt7cYZN0",
+    "title": "কৃষ্ণনগরের নির্বাচন | Gopal Bhar | Wrap Up 2025",
+    "score": 10
+  },
+  {
+    "id": "avK9_2EmjR8",
+    "title": "আমন্ত্রণ | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "UQ2M5LlY8z4",
+    "title": "গোপালের গুরু | Gopal Bhar | Best Of Gopal Bhar",
+    "score": 10
+  },
+  {
+    "id": "nY3yr4eWkRI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4UhMsjrcvVE",
+    "title": "प्यार के कागज़ पे | Pyar Ke Kagaz Pe - Jigar (1992) | Ajay Devgn | Karishma Kapoor | 90's Songs",
+    "score": 10
+  },
+  {
+    "id": "GbJoSYIECJY",
+    "title": "Gun Label (Full Video) Jigar Ft Gurlej Akhtar | Ginni Kapoor | Desi Crew | Punjabi Songs 2023",
+    "score": 10
+  },
+  {
+    "id": "RBvbgqw--kE",
+    "title": "Pyar Ke Kagaz Pe - 4K Song | Jigar (1992) | Ajay Devgan, Karisma Kapoor | Sadhana Sargam",
+    "score": 10
+  },
+  {
+    "id": "_wo9sb7pN3M",
+    "title": "Putt Jattan De | Jigar | Gurlez Akhtar | Desi Crew | Latest Punjabi Songs 2022",
+    "score": 10
+  },
+  {
+    "id": "vK_sFvw6qss",
+    "title": "Jigar Official Full Song - Jigarthanda",
+    "score": 10
+  },
+  {
+    "id": "CSNGYsxqnms",
+    "title": "Jiger Audio Song | Moonwalk | AR Rahman | Prabhudeva | Manoj NS | Lahari Music",
+    "score": 10
+  },
+  {
+    "id": "7w_6R2SVg08",
+    "title": "Jigar Movie All Songs | Romantic Song | Ajay Devgn \\u0026 Karisma Kapoor | Evergreen Music",
+    "score": 10
+  },
+  {
+    "id": "VnWZ2BzIhBI",
+    "title": "Iran - US Tension | खामेनेई का ऐलान कई अरब देश मिलकर अमेरिका को जवाब देंगे | Deepak Sharma |",
+    "score": 10
+  },
+  {
+    "id": "Zocof7wZF4c",
+    "title": "The 50 Tomorrow PROMO - Rajat Dalal \\u0026 Digvijay Rathi FIGHT | 2 February 2026",
+    "score": 10
+  },
+  {
+    "id": "bCd3NGP_SwQ",
+    "title": "Heavy police presence reported in Gwinnett County, GBI called to assist",
+    "score": 10
+  },
+  {
+    "id": "GxzZWWCxsfk",
+    "title": "It's insecurity of Mr general that he did the 27th ammendement. Sabir Shakir's dangerous message.",
+    "score": 10
+  },
+  {
+    "id": "k7VBoJ0kKSQ",
+    "title": "Sebastián Yatra, Enrique Iglesias, Manuel Turizo, Maluma, KAROL G, Shakira, Luis Fonsi, Bad Bunny,..",
+    "score": 10
+  },
+  {
+    "id": "xSu9YDGLOvw",
+    "title": "Kuti Wala Video 2026 | Rana Ijaz New Video | Standup Comedy By Rana ijaz #ranaijaznewvideo #funny",
+    "score": 10
+  },
+  {
+    "id": "oKPk0AH1H-A",
+    "title": "ਸਿਧਰੀ ਕੁੜੀ ਦਾ ਵਿਆਹ -70 Sidhri da viah || new punjabi short movie/jaanu bhaini aala",
+    "score": 10
+  },
+  {
+    "id": "qcy4BZvlpxU",
+    "title": "ਮਾਤਾ ਕਹਿੰਦੀ ਹੁਣ ਤਾਂ ਪੰਜਾਬ ਜਾਣ ਤੋਂ ਵੀ ਡਰ ਲੱਗਦਾ। 2002 ਵਿੱਚ ਲਈ ਸੀ 27000 ਨੂੰ ਕਿੱਲਾ ਜ਼ਮੀਨ। #gujratvillage",
+    "score": 10
+  },
+  {
+    "id": "siYV1k5IDIo",
+    "title": "Black Suit (HD Video) |  Jigar Ft, Gurlez Akhtar | New Punjabi Songs 2025",
+    "score": 10
+  },
+  {
+    "id": "OVT_Kebt20A",
+    "title": "Jigar Da Tukda - Full Song | Ladies vs Ricky Bahl | Ranveer Singh | Parineeti Chopra",
+    "score": 10
+  },
+  {
+    "id": "tXcX1wjaL3k",
+    "title": "Tujhko Bahon Mein | Jigar Songs | Ajay Devgan | Karishma Kapoor | Hindi Romantic Song",
+    "score": 10
+  },
+  {
+    "id": "WTanlz6QXGQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "tEINRGdqugk",
+    "title": "Laxmima Aavo Mara Aanganiye | Nikita Solanki | Laxmi Maa Song | Bhakati Sagar",
+    "score": 10
+  },
+  {
+    "id": "BtSC2yon_UA",
+    "title": "ॐ जय लक्ष्मी माता | Laxmi Mata Aarti | Alka Yagnik | Om Jai Laxmi Mata | Lakshmi Mata Aarti",
+    "score": 10
+  },
+  {
+    "id": "0J1aNK16sFM",
+    "title": "लक्ष्मी आरती हिंदी | Mata Laxmi Aarti in Hindi | Om Jai Laxmi Mata | Shemaroo Bhakti",
+    "score": 10
+  },
+  {
+    "id": "oec7CXRAfeE",
+    "title": "Maa Lakshmi Avahan (Bhajan) |  Brijesh Shandilya | Marc D Muse | Times Music Spiritual",
+    "score": 10
+  },
+  {
+    "id": "LblCh3f3Vdg",
+    "title": "लक्ष्मी जी आई मेरे द्वार Lakshmi Ji Aai Mere Dwar||Lakshmi Bhajan||लक्ष्मी जी के आगमन का सुरीला भजन",
+    "score": 10
+  },
+  {
+    "id": "_jPcSQ8dkT0",
+    "title": "Aao Aao Laxmi Maa - Rakesh Kala \\u0026 Deepa",
+    "score": 10
+  },
+  {
+    "id": "QDBoHQuK2r0",
+    "title": "Hemant Chahuan | Aavi Aje Bagdane Diwali Lakshmi Ji Avya | Bajrangi Bavaliyo",
+    "score": 10
+  },
+  {
+    "id": "6myALNozNfE",
+    "title": "Vaibhav Lakshmi Avahan | Margashirsh Special | Usha Mangeshkar | Mayuresh Pai",
+    "score": 10
+  },
+  {
+    "id": "u45IVTg6Cb0",
+    "title": "Laxmi Mantra | Shri Mahalaxmi Mantra | Mantra Jaap Very Powerful | Suresh Wadkar | Rathore Cassettes",
+    "score": 10
+  },
+  {
+    "id": "rbNRN4gQy0E",
+    "title": "Aaj Umiya Ne Malva Avya Sati Laxmiji",
+    "score": 10
+  },
+  {
+    "id": "KgIrV9TVhek",
+    "title": "गगनको अग्नि परीक्षा! रवि–बालेन बहुमतको सरकार बनाउने सूरमा। मिश्रले खाता खोल्छन् ?",
+    "score": 10
+  },
+  {
+    "id": "KoqQ_Bph6Vg",
+    "title": "માધ પૂર્ણિમા આ વિષ્ણુ ભગવાનની કથા સાંભળવાથી100 ગણું મળે છે P Jignesh dada Katha #radhe radhe ",
+    "score": 10
+  },
+  {
+    "id": "j292yAeL2Fc",
+    "title": "પપ્પા ની એક ઝલક | ઘરના બધા પપ્પા ની સેવા માં | village life | farmer life",
+    "score": 10
+  },
+  {
+    "id": "hoyxB7j43xA",
+    "title": "નડિયાદ : મેળામાં હજ્જરોની ભીડ ઉમટી, નિતનવી ચગડોળોએ આકર્ષણ",
+    "score": 10
+  },
+  {
+    "id": "rBUKVDEqUO8",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "TMEdVb59Agc",
+    "title": "Mor Bani Thanghat Kare | Aditya Gadhvi | Garba Medley | Mahashivratri 2020",
+    "score": 10
+  },
+  {
+    "id": "UwqLNs55BOk",
+    "title": "Jay SWaminarayan",
+    "score": 10
+  },
+  {
+    "id": "gh6cr9UM88Y",
+    "title": "Shaadi Wale Ghar Mein Hua Lakho Ka Nuksan 😢",
+    "score": 10
+  },
+  {
+    "id": "0pghZG_AyvY",
+    "title": "Laxmiji Ni Aarti-Thad Sathe | Jyoti Vanjara | Gujarati Devotional Aarti Thad |",
+    "score": 10
+  },
+  {
+    "id": "rgdyvpUpRUQ",
+    "title": "Aaje Mare Aangane Laxmiji Aavya",
+    "score": 10
+  },
+  {
+    "id": "cPMv0QUIiNE",
+    "title": "Jignesh Dhandhukiya Bagdana Bapasitaram video",
+    "score": 10
+  },
+  {
+    "id": "teSEgkEdQB0",
+    "title": "Mahalaxmi Aarti",
+    "score": 10
+  },
+  {
+    "id": "rKoRlcga6p0",
+    "title": "LAKSHMIJI AARTI - Special Aarti",
+    "score": 10
+  },
+  {
+    "id": "lU5ah7p865c",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "698tehGmz0Y",
+    "title": "'Pardesi Pardesi' पर Chaitanya-Sneha की गायकी Judges को लगी कमाल | Indian Idol S15 | Performance",
+    "score": 10
+  },
+  {
+    "id": "Znuz8DrtJU8",
+    "title": "Pardesi (feat. Nida Rajpoot)",
+    "score": 10
+  },
+  {
+    "id": "KQdprmvTgpQ",
+    "title": "Superstar Singer S3 | 'Pardesi-Pardesi' पर Aryan की Singing Neha को लगी Kamaal | Performance",
+    "score": 10
+  },
+  {
+    "id": "YYJyFKQ8fNk",
+    "title": "Pardesi Full Video | Dev D | Abhay Deol, Kalki Koechlin | Amit Trivedi | Tochi",
+    "score": 10
+  },
+  {
+    "id": "EmxaK0R1YUM",
+    "title": "O Pardesi Dev D   Job \\u0026 Neha   Music Mojo",
+    "score": 10
+  },
+  {
+    "id": "nAxzQACFtD0",
+    "title": "Neha Pardeshi  Indian Rugby Champion speak on Importance of Sports for Youth",
+    "score": 10
+  },
+  {
+    "id": "W-UIqJeWeLI",
+    "title": "Pardesi Song /Iconic song/Neha kakkar best song Neha kakkar new songs",
+    "score": 10
+  },
+  {
+    "id": "gBl5k0vdFLY",
+    "title": "Sneh Upadhyay -Tum To Thahre Pardesi sath kya nibhaoge  | Cover song | Sneh Upadhyay new song",
+    "score": 10
+  },
+  {
+    "id": "cO4nBtbUqPI",
+    "title": "\\\"Pardesi Pardesi\\\" गाने पर झलकी Sawai के सुरों की सादगी | Indian Idol | Neha | Performance",
+    "score": 10
+  },
+  {
+    "id": "Hi5hJiM3JZo",
+    "title": "در روز رخصتی اش با بولانی مزه دار کشورم از همسرم پذیرایی کردم | طعم نوستالژی| بولانی داشی و تابه یی",
+    "score": 10
+  },
+  {
+    "id": "m6B7i4WYlu8",
+    "title": "Qurbani ki update Lahore Mandi rajanpuri bakre beetal bakre Mundra chhatre Sajjad Lahori shoq ",
+    "score": 10
+  },
+  {
+    "id": "h3gdfgZiNQU",
+    "title": "Has Modi Govt Runs Out Of Ideas? | Why Budget 2026 Broke Hopes \\u0026 The Stock Market | Akash Banerjee",
+    "score": 10
+  },
+  {
+    "id": "vL6LHjUiavw",
+    "title": "No IND v PAK at T20 WC! How will this BACKFIRE on Pakistan?",
+    "score": 10
+  },
+  {
+    "id": "3EFDJZ5TZl4",
+    "title": "Pardeshi Banayo Karmale || Pratiksha Rai || ft. Pooja Rai || परदेशी बनायो कर्मले (Female Version)",
+    "score": 10
+  },
+  {
+    "id": "r9fxbLxUFUA",
+    "title": "Journey Of Arijit Singh (2011-2026) - Arijit Singh's Playback Singing Journey",
+    "score": 10
+  },
+  {
+    "id": "D9CbhY3f-Ow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1UZbI-GZ-Bg",
+    "title": "Pardesi Piya  ~  Neha Naaz Official ~ Crying Very Sad Song ~ Dard Bhari Ghazal ~ 2025",
+    "score": 10
+  },
+  {
+    "id": "NfIrhpXJ1m8",
+    "title": "Faces Of Rugby Neha Pardeshi VF",
+    "score": 10
+  },
+  {
+    "id": "ABhzECFO-TE",
+    "title": "Le rugby donne une telle confiance en soi",
+    "score": 10
+  },
+  {
+    "id": "g4HDfqEWf6Y",
+    "title": "Neha pardesi ki rasoe",
+    "score": 10
+  },
+  {
+    "id": "wNx_EJu4mG0",
+    "title": "Pardesi Jana nehi (A heart broken love story) ll By Neha creation",
+    "score": 10
+  },
+  {
+    "id": "ZRRgeUrsW5k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "YfQiGihQU44",
+    "title": "Lai Ja Ne Lerida - 4K Video - Gopal Bharwad - Manisha Bharwad - લઈ જા ને લેરીડા - Jigar Studio",
+    "score": 10
+  },
+  {
+    "id": "YGP3vXbxd3Q",
+    "title": "Prem No Radio - 4K Video - Gopal Bharwad - Jigar Studio - Latest Gujarati Song 2026",
+    "score": 10
+  },
+  {
+    "id": "uMoGofaxlZA",
+    "title": "Rinku Bharwad Mashup ||રિંકુ ભરવાડ મેસુપ | Rinku Bharwad ||Gujrati Mashup2025 @RinkubharwadOfficial",
+    "score": 10
+  },
+  {
+    "id": "ta5jXhogUWs",
+    "title": "Hiral Mari Hetal - 4K Video - Gopal Bharwad - Latest Gujarati Song 2025",
+    "score": 10
+  },
+  {
+    "id": "jHBC9YQPqVk",
+    "title": "hudo maldhari samaj garba dance behni hudo #viral #trending #india #hudo #bharwad#love",
+    "score": 10
+  },
+  {
+    "id": "p9DgxQnRA60",
+    "title": "Tara Page Page Fulvadi - Remix - Gopal Bharwad - 4K Video - Latest Gujarati Song",
+    "score": 10
+  },
+  {
+    "id": "7QCvLqcyLck",
+    "title": "Bharvad Mara Bhayu - New Gujarati Dj Song 2018 | Full HD VIDEO | Ramu Bharvad | RDC Gujarati",
+    "score": 10
+  },
+  {
+    "id": "wbCvb2WGkNM",
+    "title": "Hiral Mari Hetal - Lyrical - 4K Video - Gopal Bharwad - Jigar Studio",
+    "score": 10
+  },
+  {
+    "id": "PbQugCI7ox0",
+    "title": "#bharwad #maldhari #rabari #surat #vadodara #viral #video #shortvideo",
+    "score": 10
+  },
+  {
+    "id": "yizwoESPpbI",
+    "title": "Bharvad Mara Maldhari - Hansha Bharwad | New Gujarati Song 2018 | Full HD VIDEO | RDC Gujarati",
+    "score": 10
+  },
+  {
+    "id": "jS4wHNtl8zo",
+    "title": "kuashik bharwad hudo behni ras garba💫❤️ #kaushikbharwad #behni #hudo #maldhari #rasgarba #bharwad",
+    "score": 10
+  },
+  {
+    "id": "3Neb8Y64vuY",
+    "title": "#bharwad #samaj nu  calsar#status #viralshort #dance #gopalbharvad",
+    "score": 10
+  },
+  {
+    "id": "WCCqso6TcWw",
+    "title": "Mithudi ||મીઠુડી ||Rinku Bharwad \\u0026 Milan Bharwad  New 4K Video song||2024 @skdigital.",
+    "score": 10
+  },
+  {
+    "id": "5WkpVHAsNos",
+    "title": "Hamju Manah - ChillOut Mix - 4K Video - Gopal Bharwad - Jigar Studio",
+    "score": 10
+  },
+  {
+    "id": "3ke4h91eB-Q",
+    "title": "Bharwad status #bharwad #maldhari #aapa_dayro #jayesh_bharvad #bharvad",
+    "score": 10
+  },
+  {
+    "id": "7fyqv29PCL0",
+    "title": "Lai Ja Ne Lerida - Chillout Mix - Gopal Bharwad - Manisha Bharwad - 4K Video - Jigar Studio",
+    "score": 10
+  },
+  {
+    "id": "XOoLA8AClCU",
+    "title": "Nakki Maru Vavajodu Aave - Kaushik Bharwad | Full Video Song | Latest Gujarati Superhit Song 2021",
+    "score": 10
+  },
+  {
+    "id": "soC3FJMqlxM",
+    "title": "New shot video || Gopal Bharwad ||",
+    "score": 10
+  },
+  {
+    "id": "2g86o_czOjE",
+    "title": "Mari Aankhe Ujagara - Gopal Bharwad - 4K Video - Latest Gujarati Song 2024",
+    "score": 10
+  },
+  {
+    "id": "khjABtHx5To",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "m6PEUnjiNXY",
+    "title": "Keethan - Tara (ft. Shravan Sridhar)",
+    "score": 10
+  },
+  {
+    "id": "n4zjueDXYsE",
+    "title": "Tara - Sabar Koti X The Beat Boss",
+    "score": 10
+  },
+  {
+    "id": "C2YynwtjoFI",
+    "title": "Ammy Virk - Taara | Album - Shayar | Latest Punjabi Song 2015",
+    "score": 10
+  },
+  {
+    "id": "-z_TA8WJJsk",
+    "title": "Enthaaraa Enthaaraa Official Full Video Song - Thirumanam Enum Nikkah",
+    "score": 10
+  },
+  {
+    "id": "slM5s55Jz0k",
+    "title": "Tara Mantra ”Om tare tuttare ture soha” (Song)",
+    "score": 10
+  },
+  {
+    "id": "juGIEXAFXsA",
+    "title": "Thara Thara Lyrical Video | Kiccha Sudeep | Ragini Dwivedi | Arjun Janya | Ghouse Peer | Kempegowda",
+    "score": 10
+  },
+  {
+    "id": "labVkcSBX68",
+    "title": "The Tara Song",
+    "score": 10
+  },
+  {
+    "id": "uBjf0mLI1zU",
+    "title": "Secret Car Cave Collection of Rare Special Editions | Fiats, 80s Icons and DeLorean",
+    "score": 10
+  },
+  {
+    "id": "2W_NSQH4Ab8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wdn3J-OBgIE",
+    "title": "ಪ್ಯಾಲೆಸ್ತೇನ್‌ಗೆ ಮೋದಿ ಬೆಂಬಲ | Stock Market Crash| India Vs Pak | Budget 2026 | Masth Magaa |Full News",
+    "score": 10
+  },
+  {
+    "id": "KYWzYQhyTCM",
+    "title": "Milyen Új Születik meg Benned?? 🐛🦋🌿",
+    "score": 10
+  },
+  {
+    "id": "RyD6WSlduTY",
+    "title": "Has Modi Govt Runs Out Of Ideas? | Why Budget 2026 Broke Hopes \\u0026 The Stock Market | Akash Banerjee",
+    "score": 10
+  },
+  {
+    "id": "L-_SgqOeIlw",
+    "title": "FULL Highlights | Pakistan vs Australia | Match 03 | T20I Series 2026 | PCB | M9E1H",
+    "score": 10
+  },
+  {
+    "id": "hxdC0-i4v6o",
+    "title": "Dr Gulati Ka Dhamaka | The Kapil Sharma Show | Best Of Sunil Grover | Comedy Show | Funny | #2026",
+    "score": 10
+  },
+  {
+    "id": "ZLumvClhcWE",
+    "title": "🔱നിങ്ങളുടെ ജീവിതത്തിൽ വിജയം സമ്പത്ത് വരാൻ പോകുന്നു🌿ശിവസന്ദേശം🌿Lord Siva Sandesh🔱Universe \\u0026 Messege",
+    "score": 10
+  },
+  {
+    "id": "cmUXeLQRet0",
+    "title": "Green Tara Mantra | Om Tare Tuttare Ture Soha | 綠度母 (多羅菩薩) 心咒",
+    "score": 10
+  },
+  {
+    "id": "dB19Fwijoj8",
+    "title": "TAARE - Sidhu Moosewala \\u0026 Harlal Batth  | Latest Punjabi Song 2020",
+    "score": 10
+  },
+  {
+    "id": "yIiAyoLZ9U0",
+    "title": "Thaara (తార) - Latest Telugu Christmas Song 2025 - 2026 #christiansongs #2025 #teluguchristiansongs",
+    "score": 10
+  },
+  {
+    "id": "WVYqbQh-vFo",
+    "title": "तारा चमका || Aaj jo Tara Asmaan mein #ankurnarulaministries  #worshipsong #apostleankuryosephnarula",
+    "score": 10
+  },
+  {
+    "id": "C2z6Rk-yfsI",
+    "title": "Brahmakalasha Kannada Video Song  - Kantara Chapter 1 | Rishab Shetty, Rukmini | Hombale Films",
+    "score": 10
+  },
+  {
+    "id": "palMj0iq-3g",
+    "title": "താറാവേ, താറാവേ 🦆 | Tharave Tharave | Duck Song | Malayalam Kids Cartoon Song",
+    "score": 10
+  },
+  {
+    "id": "uoETHcJnRDM",
+    "title": "Haye Re Meri Tara New Garhwali Song 2025 || Keshar Panwar || Keshar Panwar Official",
+    "score": 10
+  },
+  {
+    "id": "s9yQHLAKZx0",
+    "title": "AADAT MEGA MASHUP | AP DHILLON FT. TARA SUTARIA | YO YO HONEY SINGH | SHUBH MUSIC | AP DHILLION SONG",
+    "score": 10
+  },
+  {
+    "id": "E2JmfVq9qys",
+    "title": "BORDER 2: Tara Rum Pum Pum (Film Version) Video |Sunny D|Varun,Diljit,Ahan|Mithoon|Sukhwinder|Kumaar",
+    "score": 10
+  },
+  {
+    "id": "6nTv3YsVbFs",
+    "title": "Brahmakalasha Tamil Song  - Kantara Chapter 1 | Rishab Shetty | Rukmini Vasanth | Hombale Films",
+    "score": 10
+  },
+  {
+    "id": "V4d3un9dlWA",
+    "title": "Siobe Lim - TARA (feat. Nik Makino, ISSA LO KI, Mike Kosa \\u0026 Smugglaz)",
+    "score": 10
+  },
+  {
+    "id": "LZzos5a00_I",
+    "title": "Amar Bhindeshi Tara - Chondrobindu (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "e52Ysc_bl_s",
+    "title": "Sidhu Moose Wala - Taare | Official Lyric Video ft. Sidhu Moose Wala",
+    "score": 10
+  },
+  {
+    "id": "gbAyCB8Y6Qk",
+    "title": "Taare ( Full Song) | Aatish | Punjabi Songs 2017 | Ishtar Punjabi",
+    "score": 10
+  },
+  {
+    "id": "F-T7XtwElp0",
+    "title": "Tara Tara | Kempegowda | Vijay Prakash | Shreya Ghoshal | Sudeep | Ragini Dwivedi | Arjun Janya",
+    "score": 10
+  },
+  {
+    "id": "IUV1s-NfTS0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ytjmoPU6NzY",
+    "title": "Hits of Hemant Chauhan - Popular Gujarati Bhajans",
+    "score": 10
+  },
+  {
+    "id": "gXd5efFU1os",
+    "title": "Tame Bhave Bhajilo Bhagwan.",
+    "score": 10
+  },
+  {
+    "id": "iedls3ISqqw",
+    "title": "હે મારા ઘટમાં બિરાજતા શ્રીનાથજી",
+    "score": 10
+  },
+  {
+    "id": "aL5FAsCwMpQ",
+    "title": "પ્રાર્થના",
+    "score": 10
+  },
+  {
+    "id": "6y77ZueX1m8",
+    "title": "હરિ કેરા નામ છે હજાર | Hari Kera Naam Chhe Hajar | Hemant Chauhan Nonstop Krishna Bhajan",
+    "score": 10
+  },
+  {
+    "id": "2UMcjdAyBrw",
+    "title": "ગણપતિ વેલા આવો",
+    "score": 10
+  },
+  {
+    "id": "PFoRUbYAQsA",
+    "title": "Shrinathji Satsang (Part 1) | Soulful Bhajans by Hemant Chauhan | શ્રીનાથજી સત્સંગ",
+    "score": 10
+  },
+  {
+    "id": "-xXHNLdgCVY",
+    "title": "01 શ્રી કૃષ્ણ શરણમ મમઃ",
+    "score": 10
+  },
+  {
+    "id": "hThFgtuDKS4",
+    "title": "Shree Krishan Sharnam Mamah",
+    "score": 10
+  },
+  {
+    "id": "Ynqk0DeiGUc",
+    "title": "Mevadna Maharajane Khamma Re Khamma",
+    "score": 10
+  },
+  {
+    "id": "B8nK5SIvGCU",
+    "title": "અમી ભરેલી નજર્યું રાખો | Ami Bhareli Najaryu Rakho | Hemant Chauhan | Shrinathji Gujarati Bhajan",
+    "score": 10
+  },
+  {
+    "id": "8lS6xnmi_GU",
+    "title": "હે માનવ વિશ્વાસ કરી લે | Vinela Moti | Hey Manav Vishwas Kari Le | Hemant Chauhan | Gujarati Bhajan",
+    "score": 10
+  },
+  {
+    "id": "my1J_JJsu6I",
+    "title": "હે માનવ વિશ્વાસ કરી લે",
+    "score": 10
+  },
+  {
+    "id": "GfHRImAOzpY",
+    "title": "Gurumukhvani | Sant Ne Santpana Nathi | Nonstop Hemant Chauhan Bhajan",
+    "score": 10
+  },
+  {
+    "id": "jwnnJ0DXw1A",
+    "title": "પ્રથમ પહેલા સમરીયે રે | Pratham Pahela Samariye Re I Hemant Chauhan I Ganpati Bhajan",
+    "score": 10
+  },
+  {
+    "id": "9Rghwo5Rj0w",
+    "title": "Hemant Chauhan||Shamaliya Shreenathji Part-1|| Shrinathji Bhajan",
+    "score": 10
+  },
+  {
+    "id": "vj4er6oRn50",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MC4VYKpqGP4",
+    "title": "Olly - Menomale che c'è il mare (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "n9FMvfvkBro",
+    "title": "Kaushik Bharwad - Dil Mare Devanu Chhe Danma | Gujarati Mashup | New Gujarati Song 2021",
+    "score": 10
+  },
+  {
+    "id": "5ux5z4byJO8",
+    "title": "Mukti Male Ke Na Male Mare Bhakti Tamari Karvi Che - POPULAR BHAJAN",
+    "score": 10
+  },
+  {
+    "id": "194dcsVGRt4",
+    "title": "Tuj Panthe Mare Javu Che",
+    "score": 10
+  },
+  {
+    "id": "7erPC1QuJu0",
+    "title": "mare america javu che",
+    "score": 10
+  },
+  {
+    "id": "Aq2srPQFAVU",
+    "title": "Mare To Levani Che Diksha",
+    "score": 10
+  },
+  {
+    "id": "g2tBGaamHt0",
+    "title": "Mare Swami Ne Raji Karva Chhe | Swaminarayan Kirtan | Swaminarayan Bhajan | @GurujiMahima",
+    "score": 10
+  },
+  {
+    "id": "xaqQ3SWmuXc",
+    "title": "'O mare che puorte 'ncuorpo",
+    "score": 10
+  },
+  {
+    "id": "K1hO3VvXqWk",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "kJ9Gth0pVxA",
+    "title": "Ep. 470 | She Never Made It to Class ??? - MrBallen Podcast \\u0026 MrBallen’s Medical Podcast",
+    "score": 10
+  },
+  {
+    "id": "yeCcetKiohs",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "Xwlfxoc0dFI",
+    "title": "લગન માં ભાયું મા ડખો  | jagdish rathod  | gujarati comedy",
+    "score": 10
+  },
+  {
+    "id": "_SlhV8oGgp8",
+    "title": "Our Strong Reply To @MRINDIANHACKER 😔….. ये है असली सच",
+    "score": 10
+  },
+  {
+    "id": "sZ2orEHi4Pk",
+    "title": "સોનાના બિસ્કીટ//Gujarati Comedy Video//કોમેડી વિડીયો SB hindustani ",
+    "score": 10
+  },
+  {
+    "id": "RA0fccoNkzs",
+    "title": "84 पाकिस्तानी जवानों के उड़े चिथड़े.. भारत ने जो कहा दुनिया हैरान!| India Action on Pakistan Blast",
+    "score": 10
+  },
+  {
+    "id": "R-8-A86102o",
+    "title": "Vasyo che choglavalo mare mann",
+    "score": 10
+  },
+  {
+    "id": "AWjfqjo24B8",
+    "title": "God is coming to my house - Video | Dhun Mandali | Nidhi Khara | Satsang Kirtan",
+    "score": 10
+  },
+  {
+    "id": "Rn_cOJk3Q5o",
+    "title": "Mara Hari Ne - @ShreyaGhoshalOfficial | Bhavna Labadiya | Priya Saraiya | Vaarso Season3",
+    "score": 10
+  },
+  {
+    "id": "Z23as29lz_0",
+    "title": "Mare Baal Hari No | Mare Bal Hari Na Thavu Che | Bhaktisudha",
+    "score": 10
+  },
+  {
+    "id": "0l76Ep4Y8U8",
+    "title": "Prabhu Taru Geet Mare Gavu Chhe - Lyrics | Jain Stavan | પ્રભુ તારું ગીત મારે ગાવું છે | જૈન સ્તવન",
+    "score": 10
+  },
+  {
+    "id": "lutHEQds_uc",
+    "title": "mare lagni lagi chhe ghanshyam ni - baps kirtan",
+    "score": 10
+  },
+  {
+    "id": "B58Vv8bmv8I",
+    "title": "Mare Parayatra A Javu Chhe",
+    "score": 10
+  },
+  {
+    "id": "hqpTqJ0Spy4",
+    "title": "Jignesh Barot | Parni To Nai Shake Ae Mara Par Mare Chhe | 4K VIDEO | New Gujarati Sad Song 2025",
+    "score": 10
+  },
+  {
+    "id": "HZubx99v1s8",
+    "title": "Vagher Mare Chhe Lathina Maar",
+    "score": 10
+  },
+  {
+    "id": "WgqYWCUE5Xo",
+    "title": "Kaushik Bharwad || Dil Mare Devanu Chhe Danma || Gujarati Mashup || New Gujarati Song || 2021",
+    "score": 10
+  },
+  {
+    "id": "K6BCwJCZWU8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wgXGU4k4H1g",
+    "title": "Pintu Algotar - Matha Bhare Bhaiyo | Dj Remix | New Gujarati Remix Song 2023 | @GogaStarFilmsMedia",
+    "score": 10
+  },
+  {
+    "id": "xcfe2qtGT8Y",
+    "title": "Gujarati song Attitude | ગુજરાતી સોંગ ન્યૂ | singer:- Pintu algotar | માથાભારે ભાઈઓ",
+    "score": 10
+  },
+  {
+    "id": "BCT-h8betO0",
+    "title": "Matha bhare bhaio",
+    "score": 10
+  },
+  {
+    "id": "tX-CYeFhGdI",
+    "title": "GJ-8 Vala Matha Bhare Poriya || માથાભારે  પોરીયા || Shubham Barot || Rangat Studio || HD VIDEO",
+    "score": 10
+  },
+  {
+    "id": "ptf65SYMkzA",
+    "title": "Bagdana બબાલ બાદ સૌથી મોટો ધડાકો, Jayraj Ahir ના ભાઈ અને Mayabhai Ahir જશે જેલમાં? | Hira Solanki |",
+    "score": 10
+  },
+  {
+    "id": "dXWFE4k6OQo",
+    "title": "Gaju Patri Ni Ola Ni Parti || ગજુ પત્રીની ઓળાની પાર્ટી || Gaju ni Dhamal || Deshi Comedy ||",
+    "score": 10
+  },
+  {
+    "id": "C7o2KO8tbH8",
+    "title": "Mahisagar Police પર ધારાસભ્ય DhavalSinh Zala નો બાટલો ફાટ્યો ! કહ્યું 2 બટ્ટન ખોલી ગાંધીનગર લઇ જઈશ",
+    "score": 10
+  },
+  {
+    "id": "QN0-Yk9jOyA",
+    "title": "Sasu Vahu No Dakho | Gujarati Comedy | One Media",
+    "score": 10
+  },
+  {
+    "id": "C8Z1CiqNi5E",
+    "title": "Pintu Algotar - Matha Bhare Bhaiyo | Dj Remix | New Gujarati Remix Song 2023 | ‪@GogaStarFilmsMedia",
+    "score": 10
+  },
+  {
+    "id": "V6p7KDzLz7g",
+    "title": "Pintu Algotar - Matha Bhare Bhaiyo Dj EDM | Dj Remix | New Gujarati Remix Song 2023",
+    "score": 10
+  },
+  {
+    "id": "ZHlrWaDDmWI",
+    "title": "Kumar Sanu Solo Hit Songs | 90s Superhit Hindi Romantic Songs | Sadabahar Song | Hindi Songs Jukebox",
+    "score": 10
+  },
+  {
+    "id": "cmt_EIXoie8",
+    "title": "Kumar Sanu Hit Songs | 90s Superhit Hindi Romantic Songs | Sadabahar Song | Bollywood Songs Jukebox",
+    "score": 10
+  },
+  {
+    "id": "xp5j2IHyTgs",
+    "title": "Is Tarah Aashiqui Ka",
+    "score": 10
+  },
+  {
+    "id": "7sw6DuSi3HQ",
+    "title": "Non Stop Road Trip Love Hits - Full Album | 3 Hour Non-Stop Romantic Songs | 50 Superhit Love Songs",
+    "score": 10
+  },
+  {
+    "id": "2lPDqElikDs",
+    "title": "Apna Bana Le",
+    "score": 10
+  },
+  {
+    "id": "j5HkgcZ6P0o",
+    "title": "Full Song: KHAIRIYAT (BONUS TRACK) | CHHICHHORE | Sushant, Shraddha | Pritam, Amitabh B|Arijit Singh",
+    "score": 10
+  },
+  {
+    "id": "hoNb6HuNmU0",
+    "title": "Kumar Sanu Hit Songs | 90s Superhit Hindi Romantic Songs | Sadabahar Song | Bollywood Songs Jukebox",
+    "score": 10
+  },
+  {
+    "id": "0ONz_aMm4c8",
+    "title": "Is Tarah Aashiqui Ka",
+    "score": 10
+  },
+  {
+    "id": "PvulSA_8nYE",
+    "title": "KHAIRIYAT 8K - BONUS TRACK | Sushant Singh Rajput, Shraddha Kapoor |Arijit Singh |Pritam |Chhichhore",
+    "score": 10
+  },
+  {
+    "id": "9pIXNy-pS10",
+    "title": "80’s के सुपरहिट गाने I सदाबहार पुराने गाने I Old is Gold I Bollywood Old Hindi Songs I लता मंगेशकर",
+    "score": 10
+  },
+  {
+    "id": "ZlK3zpNXFLY",
+    "title": "90's Filmi Gaane | 90's Evergreen Songs | Romantic Hindi Songs | Bollywood Hindi Songs",
+    "score": 10
+  },
+  {
+    "id": "Qj6lp9WcC6c",
+    "title": "Pucho Jara Pucho",
+    "score": 10
+  },
+  {
+    "id": "wj1kPFLVxEo",
+    "title": "Is Tarah Aashiqui Ka",
+    "score": 10
+  },
+  {
+    "id": "bcdBwS0I6KE",
+    "title": "Best Romantic Love Songs | Bollywood Hindi Film Songs | Romantic HIndi Songs | Bollywood Songs",
+    "score": 10
+  },
+  {
+    "id": "hhXiZOXHHPc",
+    "title": "Jeene Laga Hoon",
+    "score": 10
+  },
+  {
+    "id": "lS67q2wVjPQ",
+    "title": "Kisi Din Banoongi",
+    "score": 10
+  },
+  {
+    "id": "EN0x6XuhOhA",
+    "title": "Dil Jaane Jigar Tujh Pe",
+    "score": 10
+  },
+  {
+    "id": "7sxW9yXnYzk",
+    "title": "Andama Nee Peremiti",
+    "score": 10
+  },
+  {
+    "id": "NcmsmN_jg-4",
+    "title": "Is Tarah Aashiqui Ka",
+    "score": 10
+  },
+  {
+    "id": "UMwkslaB-RM",
+    "title": "Aayiye Aapka Intezaar Tha",
+    "score": 10
+  },
+  {
+    "id": "ItcOaX8k0N8",
+    "title": "Tu Dharti Pe Chaahe",
+    "score": 10
+  },
+  {
+    "id": "lES2f4ysZjE",
+    "title": "Dil Pardesi Ho Gaya",
+    "score": 10
+  },
+  {
+    "id": "x_qIZn-X7cw",
+    "title": "KHOLIYA JUDA NE JIV AEKJ JEVO || ખોળીયા જુદા ને જીવ એકજ જેવો -  Parth Gadhavi || Kuldeep Gadhavi",
+    "score": 10
+  },
+  {
+    "id": "POiBVvDZAsY",
+    "title": "ભાઈબંધ કોહીનુર | Udaybhai Dhadhal | New Bhaibandhi Song 2025 | Bhaibandh Kohinoor",
+    "score": 10
+  },
+  {
+    "id": "a1EuPr5NDJE",
+    "title": "ભાઈબંધ કોહીનુર | Udaybhai Dhadhal | New Bhaibandhi Song 2025 | Bhaibandh Kohinoor",
+    "score": 10
+  },
+  {
+    "id": "TbFFSoNGhVg",
+    "title": "BHAIBANDH MADE NA MANE TARA JEVO (FULL SONG) (GOVIND GADHVI - PARTH GADHVI)",
+    "score": 10
+  },
+  {
+    "id": "CdZxCL0cWzo",
+    "title": "Bagdana મામલે કોળી સમાજની ન્યાય સભામાં Brijraj Solanki અને રાજુ સોલંકીને બોલવા ન મળતા થઇ જોવાજેવી...",
+    "score": 10
+  },
+  {
+    "id": "dU3RBPuIGno",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "sPo5sqMtrp8",
+    "title": "ye kon aya Assam se😍 naya Ghar dekh kr ek dam hairaan😱 Hilux ke New Alloy aa gye ❤️",
+    "score": 10
+  },
+  {
+    "id": "BIhqAtA-XRU",
+    "title": "Vijulike Rajya Jaldi Chhokrana Lagan Karai De | 2026 | Vijudi Na Comedy",
+    "score": 10
+  },
+  {
+    "id": "oVo_sB3EavI",
+    "title": "Our Strong Reply To @MRINDIANHACKER 😔….. ये है असली सच",
+    "score": 10
+  },
+  {
+    "id": "QVCsLF5aM2s",
+    "title": "ભાઈબંધ કોહીનુર | Udaybhai Dhadhal | New Bhaibandhi Song 2025 | Bhaibandh Kohinoor",
+    "score": 10
+  },
+  {
+    "id": "_eqCxblX0hc",
+    "title": "Bhala Bhaibandh Ne Bhali Amari Yaari",
+    "score": 10
+  },
+  {
+    "id": "yX5jOCnBdW8",
+    "title": "મારો ભાઈબંધ કોહીનુર | Rashmita Rabari | Maro Bhaibandh Kohinoor | New Gujarati Song 2026",
+    "score": 10
+  },
+  {
+    "id": "yexRWeRN5ks",
+    "title": "ભાઈબંધ_ કોહીનુર_ New trending_gujrati_3D song",
+    "score": 10
+  },
+  {
+    "id": "11JuHfTZBYI",
+    "title": "DIWALIBEN AHIR l અમે મનના હાચા માળું ll Bhaibandh Kohinur ભાઈબંધ કોહીનુર ll @SatyamStudioOfficial ",
+    "score": 10
+  },
+  {
+    "id": "WcuK5p6yJhE",
+    "title": "ભાઈબંધ કોહિનૂર | bhaibndh kohinoor | slowed reverb | udaybhai dhadhal | lofi version | Gujarati song",
+    "score": 10
+  },
+  {
+    "id": "hJm3w3uG3ck",
+    "title": "Hu 24 kereta sonu Maro Bhaibandha kohinura#dayro #bhaibandhi #newsong #hits",
+    "score": 10
+  },
+  {
+    "id": "LPAVd4MdIs0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "uMrDg7epLVo",
+    "title": "Tulsishyam | Udaybhai Dhadhal Tulsishyam | Lyrics | Lofi (Slowed + Reverb)🎧 Lofi Edit \\u0026 Lyrics Edit",
+    "score": 10
+  },
+  {
+    "id": "cC45jZeVouw",
+    "title": "Mahadev Bholo (મહાદેવ ભોળો) | Udaybhai Dhadhal",
+    "score": 10
+  },
+  {
+    "id": "eFVeRTgj5VU",
+    "title": "Tulsishyam  By Udaybhai Dhadhal",
+    "score": 10
+  },
+  {
+    "id": "zA_16jDBcl0",
+    "title": "Tulsishyam bass boosted | Udaybhai Dhadhal tulsi shyam remix ",
+    "score": 10
+  },
+  {
+    "id": "uxafMQq_FR4",
+    "title": "Tulsishyam | Udaybhai Dhadhal",
+    "score": 10
+  },
+  {
+    "id": "3rFTwWxo4w4",
+    "title": "Tulsi Shyam Song 😇 |  Jag Na Nath Ne To Jag Aakhu Jane Songs 🥰 | Udaybhai Dhadhal",
+    "score": 10
+  },
+  {
+    "id": "5givp3CGvgM",
+    "title": "જુદારામા વહુઓ એમિલકત પડાવી | Vahu a milakat padavi | Gujarati Comedy video ",
+    "score": 10
+  },
+  {
+    "id": "hrTzbK3z4hk",
+    "title": "Kaha gye ajj sab ",
+    "score": 10
+  },
+  {
+    "id": "BjnY8u3PXFI",
+    "title": "ભાઈબંધ કોહીનુર | Udaybhai Dhadhal | New Bhaibandhi Song 2025 | Bhaibandh Kohinoor",
+    "score": 10
+  },
+  {
+    "id": "1X5tXIGGWYE",
+    "title": "Tulsishyam | Gadhiya No Thakar | Udaybhai Dhadhal | Gadhiya Gir  Dayro @kesaridigitalsayla",
+    "score": 10
+  },
+  {
+    "id": "f6Hc8EBM1rM",
+    "title": "Tulsishyam  (Song Gujrati)",
+    "score": 10
+  },
+  {
+    "id": "G9wSUUWnbig",
+    "title": "Tulsishyam | Udaybhai Dhadhal new ringtone 4k status #ringtone #gujaratisong #newgujaratisong  ",
+    "score": 10
+  },
+  {
+    "id": "DPVtnLpo2B0",
+    "title": "Tulsi shyam | Tulsi-Vivah Special Tran Tali Non-Stop | Udaybhai Dhadhal | Dj Umang Jnd",
+    "score": 10
+  },
+  {
+    "id": "FmrHOoX-7nw",
+    "title": "Thakar (ઠાકર) || Udaybhai Dhadhal || Lomevdham",
+    "score": 10
+  },
+  {
+    "id": "iUwCQL95wws",
+    "title": "Tulsishyam || Udaybhai Dhadhal New Dj remix song 4k video",
+    "score": 10
+  },
+  {
+    "id": "kEtk5Bp_ftA",
+    "title": "Uday bhai dhadhal wedding video #dayro #gujarati #gujaratisinger",
+    "score": 10
+  },
+  {
+    "id": "ZwI3emHYKFw",
+    "title": "Tulsishyam Thaine - Udaybhai Dhadhal | Rajbai Dham Varsada | VP Digital Studio ",
+    "score": 10
+  },
+  {
+    "id": "awz05SsDx3U",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "fWH_vNhHbms",
+    "title": "Chal Udd Ja Re Panchi (Sonu Nigam)",
+    "score": 10
+  },
+  {
+    "id": "iXguvskskTE",
+    "title": "Klub Nostalgia ( Chal Udja Re Panchi By Sonu Nigam )",
+    "score": 10
+  },
+  {
+    "id": "AMFjbU5LafI",
+    "title": "Jagannath Bhajan || Sonu nigam Odia bhajan ||ଓଡ଼ିଆ ଜଗନ୍ନାଥ ଭଜନ|| ଭକ୍ତିଭରା ଭଜନମାଳି #sonunigam #viral",
+    "score": 10
+  },
+  {
+    "id": "OqE4ZrL_ja4",
+    "title": "Sonu Nigam Odia Bhajan Jukebox",
+    "score": 10
+  },
+  {
+    "id": "vomZ3p77Eus",
+    "title": "Dil Pe Chalayi Chooriyan Lyrical Video Song | Bewafa Sanam | Sonu Nigam | Dil Pe Chalayi Churiyan",
+    "score": 10
+  },
+  {
+    "id": "_wtGQROctKg",
+    "title": "Mera chakkar chal gaya.Sonu Nigam",
+    "score": 10
+  },
+  {
+    "id": "_pMoIknbzRU",
+    "title": "Chal Pyar Karegi | Sonu Nigam | Alka Yagnik | Jab Pyar Kisise Hota Hai | Salman Khan | Twinkle",
+    "score": 10
+  },
+  {
+    "id": "twOYnxPFLT8",
+    "title": "Lyrical: Chadh Gayi Chadh Gayi | Chor Machaaye Shor | Sonu Nigam | Shilpa Shetty, Bobby Deol",
+    "score": 10
+  },
+  {
+    "id": "lGNVCqEe7OQ",
+    "title": "The Call Centre : Police ने किया Reveal | Crime Patrol City Crimes | Crime Ki Kahani | Savdhaan",
+    "score": 10
+  },
+  {
+    "id": "O1-Oxx6E1mQ",
+    "title": "💔💔 FULL MOON 🌕 ENERGY UPDATE #tarot #fortunetelling #karma #tarotreading #fullmoon ",
+    "score": 10
+  },
+  {
+    "id": "0Fnh22vM-rY",
+    "title": "Mafaad Parast Episode 60 - [Eng Sub] - Nazish Jahangir Khan - Osama Tahir - 1st February 2026",
+    "score": 10
+  },
+  {
+    "id": "VOm68OnlULg",
+    "title": "लाखों करोड़ स्वाहा, मार्केट क्रैश, इतना बेकार है बजट?",
+    "score": 10
+  },
+  {
+    "id": "mxJrZ3HDMEY",
+    "title": "यह विडिओ तभी आपको मिलेगा जब आप आपने अपने पूर्वजो के curse को तोड़ चुके होंगे Timeless Tarot Reading ",
+    "score": 10
+  },
+  {
+    "id": "na3fy2F5QU4",
+    "title": "Abubakar Umer Fidak Ki Amdni Sey Eyashe krtey They Allama Anwar Ali Najfi With Mufti Tariq Masood ",
+    "score": 10
+  },
+  {
+    "id": "OARlWjVG4ls",
+    "title": "পা*কিস্তানের আবার হুংকার! বিশ্বকাপ খেলবে তবে ভারতের বিপক্ষে ম্যাচ বয়কট! বাংলাদেশ কি জিতেছে?",
+    "score": 10
+  },
+  {
+    "id": "Yfsym_bIjik",
+    "title": "Shoaib Akhtar Shocked 😱 On Ind 271 Runs Vs Nz | Ishan Kishan 103 Runs| Ind Vs Nz 5th T20 Highlights ",
+    "score": 10
+  },
+  {
+    "id": "gZTGvVTZXok",
+    "title": "Ameer says Pakistan Made Wrong Decision to Boycott Match with India: Can Pakistan face penalty ? ",
+    "score": 10
+  },
+  {
+    "id": "dYGcbSYcxnE",
+    "title": "Mera Chakkar Chal Gaya - Sonu Nigam",
+    "score": 10
+  },
+  {
+    "id": "RFMCB1EW7Xc",
+    "title": "Ishq Hua | Full Song | Aaja Nachle | Konkona Sen, Kunal Kapoor, Madhuri | Sonu Nigam, Shreya Ghoshal",
+    "score": 10
+  },
+  {
+    "id": "CgQn3gsrIRc",
+    "title": "Dil Pe Chalai Churiya (Trending Version) | Sonu Nigam | Raju Kalakar, Anjali, Rajan, Rishabh,Deepak",
+    "score": 10
+  },
+  {
+    "id": "FF-c8f1F4LA",
+    "title": "Chal Pyar Karegi | Sonu Nigam | Alka Yagnik | Jab Pyar Kisise Hota Hai | Salman Khan | Twinkle",
+    "score": 10
+  },
+  {
+    "id": "SKCje6xKMak",
+    "title": "Sonu Nigam performs Tera Jadoo Chal Gaya/Tanhai in Dubai, Jan 16 2015, An Oberoi Middle East Event",
+    "score": 10
+  },
+  {
+    "id": "W_FrtMqtPcs",
+    "title": "Chamakti Shaam Hai | Yaadein | Hrithik Roshan, Kareena Kapoor | Sonu Nigam, Alka Yagnik",
+    "score": 10
+  },
+  {
+    "id": "F3KP5ae1Eso",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Rnr-OY0D_KY",
+    "title": "Janmo Janam - 4K Video - Gopal Bharwad - Rinku Bharwad - New Gujarati Love Song 2025",
+    "score": 10
+  },
+  {
+    "id": "MTy274X4cFI",
+    "title": "Kanar Hat | Rinku | New Bangla Song",
+    "score": 10
+  },
+  {
+    "id": "odmOtr1bkA8",
+    "title": "Tiladi - ટીલડી - 4K Video - Gopal Bharwad - Rinku Bharwad - Jigar Studio - Latest Gujarati Song 2026",
+    "score": 10
+  },
+  {
+    "id": "NqJL5Ubt3sU",
+    "title": "My Pregnancy Journey 🤰 Rinku Sihag #short #viral #pregnancy",
+    "score": 10
+  },
+  {
+    "id": "vaYlmBIJtzg",
+    "title": "Rinku Singh Podcast : Asia Cup, Struggles, Love, Virat Kohli \\u0026 MSD | FO406 Raj Shamani",
+    "score": 10
+  },
+  {
+    "id": "UcU67xgPkbc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x4WjMyUpylQ",
+    "title": "Last Day In-Law's House 😍 Rinku Sihag Jeet Nain | Finally brother came and took Mayke away | Desi...",
+    "score": 10
+  },
+  {
+    "id": "CAekk0EVCLE",
+    "title": "I fell in love with a girl eating Bhel Puri 😍😂❤️ || Sk Vaid",
+    "score": 10
+  },
+  {
+    "id": "qDhH-U7ntlI",
+    "title": "Kajal ko le gaye hospital 🏥 | kya huwa kaja ko ? | ",
+    "score": 10
+  },
+  {
+    "id": "D33fvqszhvU",
+    "title": "हम जा रहे है घर छोड़के शहर रहने हमेशा के लिए सास बहु दोनो का रोना ही बंद नहीं हो रहा 😭",
+    "score": 10
+  },
+  {
+    "id": "UOwuSl0IOMo",
+    "title": "Pak Media Shocked Usman Tariq Used An Illegal Bowling Action Against Australia | Pak Reacts",
+    "score": 10
+  },
+  {
+    "id": "IzBbV0ntL5Y",
+    "title": "Monghero Malak | Rinku Bharwad | Milan Bharwad | મોંઘેરો મલક | Latest Gujarati Song 2025 | Ram Audio",
+    "score": 10
+  },
+  {
+    "id": "SsN9BQ4qiEk",
+    "title": "Priya Saroj and Rinku Singh Ring Ceremony at Lucknow Uttar Pradesh| Akhilesh Yadav | Dance Video ...",
+    "score": 10
+  },
+  {
+    "id": "aTn3swiwuaE",
+    "title": "Love Marriage से क्यों परेशान हैं Rinku Sihag और Jeet Nain First interview में खोल सारे राज",
+    "score": 10
+  },
+  {
+    "id": "Jpx8gqZbB_o",
+    "title": "bolarum rinku #love story // like share \\u0026 subscribe // use earphones 🎧 guys❤️",
+    "score": 10
+  },
+  {
+    "id": "qqsT9vdWzI4",
+    "title": "Interview : Rinku Singh - Priya Saroj Love Story | Asia Cup से पहले पहली बार खुद तोड़ी चुप्पी",
+    "score": 10
+  },
+  {
+    "id": "0DAx0Du-1MY",
+    "title": "tere bin mai kya ll #love #song #lovesong #rinkujha #rinkujhavats",
+    "score": 10
+  },
+  {
+    "id": "fbxsTOfRMnE",
+    "title": "Le sajna sab chor mai tere ll #rinkujha #love #music #rinkujhavats #reels",
+    "score": 10
+  },
+  {
+    "id": "egceMYnYd24",
+    "title": "Mere dil se #rinkujha #song #love #trending #songlove",
+    "score": 10
+  },
+  {
+    "id": "Am5VXc6fmx0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "R9oMKzDwyHk",
+    "title": "Prakash solanki new video | Lagn Pachhi | Gujrati short movie | Gujrati movie | Team_018 New Video |",
+    "score": 10
+  },
+  {
+    "id": "t1HN-3HldPM",
+    "title": "Bhai No Aave Call Aetle Metter Sol || Anil Bharwad || ભાઈ નો આવે કોલ એટલે મેટર સોલ",
+    "score": 10
+  },
+  {
+    "id": "LL1WCWy4xws",
+    "title": "VIDEO | दर्द ज्यादा है | #Dharmendra Solanki , #Anupma Yadav | Dard Jyada Hai | Bhojpuri Dhobi Geet",
+    "score": 10
+  },
+  {
+    "id": "mBpIef0sCYI",
+    "title": "27 में सपा की सरकार बनेगी - धर्मेंद्र सोलंकी । Solanki Samajwadi । Mission 2027 । समाजवादी गीत 2024",
+    "score": 10
+  },
+  {
+    "id": "m1f_QRBQJc8",
+    "title": "बनावताडू रील - धर्मेंद्र सोलंकी मीरा मूर्ति । Dehati Lahar । Bhojpuri Mukabla HD । Banawatadu Reel",
+    "score": 10
+  },
+  {
+    "id": "Maiy0ot3Ktw",
+    "title": "Bagdana બબાલ બાદ સૌથી મોટો ધડાકો, Jayraj Ahir ના ભાઈ અને Mayabhai Ahir જશે જેલમાં? | Hira Solanki |",
+    "score": 10
+  },
+  {
+    "id": "WgvdRG-pWnM",
+    "title": "Navnit Baldhiya Koli Samaj Nyay Sabha: Bhavnagar માં ગરમાવો! ન્યાય સભામાં બાલધિયાએ કોને આપ્યો પડકાર?",
+    "score": 10
+  },
+  {
+    "id": "AZaw3k8LvfM",
+    "title": "Bhavnager માં કોળી સંમેલનમાં Parshottambhai Solanki ના નિવેદન પર Brijraj Solanki નું મોટું નિવેદન",
+    "score": 10
+  },
+  {
+    "id": "hslI6KnVNmg",
+    "title": "Dharmendra Solanki Anshika Kushwaha | कौन चीज़ है हर महीने एक बार ही आती है | Dehati Lahar| सवाल जवाब",
+    "score": 10
+  },
+  {
+    "id": "kbyILZRDJnQ",
+    "title": "धर्मेंद्र सोलंकी ने किया ऐलान संघर्ष रहेगा जारी | Solanki Samajwadi । समाजवादी गीत 2022 । Hd Video",
+    "score": 10
+  },
+  {
+    "id": "hN3JYyrJK3E",
+    "title": "Koli Bhai to King che | Brijraj Solanki | Vipul Susra | Don Khovay Jay | New Gujarati Song 2024",
+    "score": 10
+  },
+  {
+    "id": "OxetHqZU6MI",
+    "title": "यूपी बिहार का ख़तरनाक मुक़ाबला । धर्मेंद्र सोलंकी लक्ष्मी प्रियदर्शी। Dehati Lahar । लोगवा डरे सुनके",
+    "score": 10
+  },
+  {
+    "id": "32zhZR5OndY",
+    "title": "#VIDEO | लुटलु हो रानी रतिया के निदिया |#Dharmendra Solanki, #Nirama Bharti का धोबी गीत | Dhobi Geet",
+    "score": 10
+  },
+  {
+    "id": "eXH2cwbytMc",
+    "title": "#Video | #Dharmendra Solanki | Barat Gari Geet | बारात गारी गीत | #NIRAMA BHARATI | New Song #2022",
+    "score": 10
+  },
+  {
+    "id": "9j96B-CSQmE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6VD0NDgN-RM",
+    "title": "Chhaila | Shreya Ghoshal x Sunidhi Chauhan | Salim Sulaiman | Shraddha Pandit | Bhoomi 2024",
+    "score": 10
+  },
+  {
+    "id": "4UkJ-AziPu0",
+    "title": "Pal (Female Version) - Lyrical Video | Shreya Ghoshal | Varun | Rhea | Javed-Mohsin",
+    "score": 10
+  },
+  {
+    "id": "v3TRtMH6er4",
+    "title": "PYAAR AATA HAI - Rito Riba \\u0026 Shreya Ghoshal | Ishaan Khatter \\u0026 Tara Sutaria | Rajat N| Rana | Anshul",
+    "score": 10
+  },
+  {
+    "id": "DLx5S3bQCA0",
+    "title": "বাঁচার মরিয়া চেষ্টায় আসলে গাড্ডায় ঝাঁপ দিলেন ডিডি? চাপ বাড়ানোর খেলায় হুলিয়ে বাঁশ খাওয়া নিশ্চিত হল",
+    "score": 10
+  },
+  {
+    "id": "m3EjHbG9z9w",
+    "title": "ଆଉ କଥା କହିପାରୁନାହାନ୍ତି ଜେଜେ / Rupa Pin2 Khushi ",
+    "score": 10
+  },
+  {
+    "id": "pSkr1j7paVk",
+    "title": "Full Highlights | Pakistan vs Australia | Match 03 | T20I Series 2026 | PCB | MJ1K",
+    "score": 10
+  },
+  {
+    "id": "uzqou5jTBjg",
+    "title": "IPL–KKR বিতর্ক : নতুন সংঘাতে ক্রিকেটের ভবিষ্যৎ বিশ্বকাপের আগে আইসিসি বনাম ক্রিকেটার সংগঠন! | #ICC",
+    "score": 10
+  },
+  {
+    "id": "VoBsNbL3fTA",
+    "title": "Radhika's Non-stop Roast😂என்ன Raja உண்மைய சொல்லிடவா..😜மேடையிலேயே Bhagyaraj-ஐ வம்பிழுத்த Radhika🤣",
+    "score": 10
+  },
+  {
+    "id": "-v8oxrVv8Cc",
+    "title": "বিস্ফোরক সত্য সামনে এলো! আগে থেকেই কি গরুর মাংস খেতেন? ভাইরালের জন্যই কি এই নাটক?",
+    "score": 10
+  },
+  {
+    "id": "FenRPS9r7S0",
+    "title": "Masoom Episode 26 [ENG SUB] - 1st Feb 2026 - [ Imran Ashraf - Sonya Hussayn \\u0026 Sidra Niazi ] - HUM TV",
+    "score": 10
+  },
+  {
+    "id": "QpPA55OhBB0",
+    "title": "Shreya Ghoshal Bengali Gem | Jao Pakhi | Pherari Mon | Shokal Ashe Na | Sa Ni Pa Ni Ni | Bangla song",
+    "score": 10
+  },
+  {
+    "id": "RU1wbd2wA8I",
+    "title": "Jao Pakhi",
+    "score": 10
+  },
+  {
+    "id": "y0qJKs_rtcE",
+    "title": "BESOS - Jacqueline Fernandez \\u0026 Shikhar Dhawan | Shreya Ghoshal \\u0026 Karl Wine | Freebot | Rajat |Anshul",
+    "score": 10
+  },
+  {
+    "id": "tcULZAaG65g",
+    "title": "Bahara Full Video - I Hate Luv Storys | Sonam Kapoor, Imran | Shreya Ghoshal, Sona Mohapatra",
+    "score": 10
+  },
+  {
+    "id": "LvNaUHtuSNY",
+    "title": "Bairi Piya (Lyrical Video) | Udit Narayan, Shreya Ghoshal | Devdas",
+    "score": 10
+  },
+  {
+    "id": "c0udXSNMRhk",
+    "title": "Shreya Ghosal beautiful singing 💖👌🔥",
+    "score": 10
+  },
+  {
+    "id": "AkXkjIXnzKA",
+    "title": "amazing Shreya Ghoshal 😍🔥❤️",
+    "score": 10
+  },
+  {
+    "id": "Rhlbli_0Uo4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MASCw3qDBsQ",
+    "title": "Rang Bhini Radha | Folk Box Feat. Aditya Gadhavi | Kavi Shri \\\"Daan Alagari\\\"",
+    "score": 10
+  },
+  {
+    "id": "rr7bWyoNQNo",
+    "title": "Balaji Tara Hath Vakhanu | હાલાજી તારા | Aditya Vadhavi New Song | Viral Song | New Garba 2021",
+    "score": 10
+  },
+  {
+    "id": "Ui2DT2AVmIY",
+    "title": "didi london wapis ja rahi hai aur jaydeep ne ek badi promise mang li !",
+    "score": 10
+  },
+  {
+    "id": "B2kZkz69WPM",
+    "title": "ye kon aya Assam se😍 naya Ghar dekh kr ek dam hairaan😱 Hilux ke New Alloy aa gye ❤️",
+    "score": 10
+  },
+  {
+    "id": "boGZfMPEdUk",
+    "title": "Bhai laya special kya Girish k liye ? Bhabhi ne ki last wish puri ! ",
+    "score": 10
+  },
+  {
+    "id": "w3OmUdpewOw",
+    "title": "Halaji Tara Haath Vakhanu | હાલાજી તારા હાથ વખાણું |  Aditya Gadhvi New Song |  | Gujarati Tur Tone",
+    "score": 10
+  },
+  {
+    "id": "02OfndntCRA",
+    "title": "HALAJI TARA HAATH VAKHANU (FULL LYRICS - GARBA) હાલાજી તારા હાથ વખાણું",
+    "score": 10
+  },
+  {
+    "id": "fs-j4Ij5Ctk",
+    "title": "Dhuni Re Dhakhavi Beli |Jesal Toral Bhajan By Praful Dave | Full Audio Song | Jhankar Music",
+    "score": 10
+  },
+  {
+    "id": "iJQIHhzM3L0",
+    "title": "|| रहिमन धागा प्रेम का || Rahiman Dhaga Prem Ka || Rahim Ke Dohe || Vardan || Raju Rajasthani ||",
+    "score": 10
+  },
+  {
+    "id": "u-wlhTsyq-I",
+    "title": "Halaji Tara Hath Vakhanu | Aditya Gadhvi 8D Song | Gujarati 8D Song | New 8D Garba 2024",
+    "score": 10
+  },
+  {
+    "id": "VDvyvITwPf0",
+    "title": "Halaji Tara Hath Vakhanu | હાલાજી તારા | Aditya Gadhavi New Song | Instagram Reels Viral Song #🔥🔥",
+    "score": 10
+  },
+  {
+    "id": "A-vTYTazt2g",
+    "title": "Halaji Tara Hath Vakhanu/  Aditya Gadhavi New song",
+    "score": 10
+  },
+  {
+    "id": "CMHVfj_OPyQ",
+    "title": "Search filters",
+    "score": 10
+  }
+]

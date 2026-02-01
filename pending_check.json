@@ -1,1 +1,3222 @@
-[]
+[
+  {
+    "id": "sNsu91-xNeg",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "bLj28XrlnMw",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 5 - התקופה הצלבנית בארץ ישראל",
+    "score": 110
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "yayf2Q4n3tU",
+    "title": "קורס אקסל למתחילים | שיעור נוסחאות חשבוניות",
+    "score": 110
+  },
+  {
+    "id": "VjYeIfdUq0Q",
+    "title": "קורס אקסל למתחילים - שיעור 20 - פונקציות נפוצות - COUNT, AVERAGE, MAX, MIN",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "brORjF9UTIU",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "6sj7CfJrCNk",
+    "title": "תרגול דיבור באנגלית | לימוד שיחה באנגלית למתחילים ",
+    "score": 110
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "הרצאה בנושא \\\"צילום טבע- מכישלון להצלחה\\\" עם ירין קליין",
+    "score": 110
+  },
+  {
+    "id": "CpPm5Mqoiq8",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "6foH3Zc82ZQ",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "Vrtbxvefnjs",
+    "title": "האם אנחנו בדרך לפיצול בין יהודה לישראל? פודקאסט עם נתנאל אלינסון | ארץ ושמיים פרק 46",
+    "score": 60
+  },
+  {
+    "id": "BX_RXZBP4Tg",
+    "title": "ישראל היום! 2026. יפו היפה.",
+    "score": 60
+  },
+  {
+    "id": "QpuUC1PnBSc",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "המשנה והתלמוד -  עם ד\\\"ר יגאל בן נון",
+    "score": 60
+  },
+  {
+    "id": "n86p0d1p9Sk",
+    "title": "עמיחי מזר עושה סדר בארכיאולוגיה והיסטוריה של בני ישראל",
+    "score": 60
+  },
+  {
+    "id": "5FQnW2bW10E",
+    "title": "פרופסור יובל גדות  - כך נולד העם . תולדות עם ישראל ,מקרא, הישראלים הראשונים ראשית המלכות",
+    "score": 60
+  },
+  {
+    "id": "FTfcQbiuAb0",
+    "title": "אלף הפנים של אתיופיה - היסטוריה ומסורות - תיעוד מסע - AMP",
+    "score": 60
+  },
+  {
+    "id": "IaYMdz6AG9Q",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "המיליארדר היהודי שבנה עיר בישראל ותמך בכל דרך אפשרית בהתיישבות בארץ ואין אף רחוב בארץ על שמו#יהדות",
+    "score": 60
+  },
+  {
+    "id": "RT8AVFbLyuY",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "5sGNiMQ06sk",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "XrNDNOkBnS4",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "xm673bpIdOA",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "חורבן בית ראשון בקיצור",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "1yCCqX_IC_E",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "שיחה בבית קפה באנגלית | איך להזמין קפה באנגלית בקלות | אנגלית למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yWs97D0R22A",
+    "title": "שפר את האנגלית שלך || 50 הפעלים הנפוצים ביותר בשפה האנגלית !",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "G1hKzCkywM8",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "WK5Yr6t91EU",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "3HcxOGEDom0",
+    "title": "עומר פרצ׳י על צילום טבע ונוף במצלמות מירורלס",
+    "score": 60
+  },
+  {
+    "id": "IM_bMx7FU-U",
+    "title": "צילום טבע - מפגש עם אבי מאיר",
+    "score": 60
+  },
+  {
+    "id": "pyUVDpEeVDY",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "61ExOy36b_g",
+    "title": "️ The Skyline: The Tallest Building in Mahane Yehuda",
+    "score": 50
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "Antarctica (2026) The Forbidden Continent That Holds Earth's True History",
+    "score": 50
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "Jerusalem, a city of history and wonder, is an unforgettable destination spirit of modern Israel",
+    "score": 50
+  },
+  {
+    "id": "efH0b_6RYGg",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "zGMCFDM23pk",
+    "title": "Man Fully Transforms His Backyard with DIY | Start to Finish by @buildersblueprint",
+    "score": 50
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Essential Home Repair Tips: Your DIY Guide",
+    "score": 50
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "Learning Excel Lesson 4 - Basic Concepts - Part 3 (Excel for Beginners)",
+    "score": 50
+  },
+  {
+    "id": "UW6H5dAPuhY",
+    "title": "How To Draw A Cute Ice Cream Cone",
+    "score": 50
+  },
+  {
+    "id": "VtgB2pCC73M",
+    "title": "How To Draw A Hibiscus Flower 🌺",
+    "score": 50
+  },
+  {
+    "id": "tdF0xHv_wuk",
+    "title": "How to draw anything | learn sketching for beginners in 7 steps",
+    "score": 50
+  },
+  {
+    "id": "b2scvHu_tGQ",
+    "title": "Face Tutorial #drawing #drawingprocess #facetutorial #face #facedrawing #turorial #drawingtutorial",
+    "score": 50
+  },
+  {
+    "id": "DhvOHZ7AFo8",
+    "title": "How To Draw A Red Panda Drinking Boba",
+    "score": 50
+  },
+  {
+    "id": "5Za4VXhsdUE",
+    "title": "how to draw hand for beginners ✋",
+    "score": 50
+  },
+  {
+    "id": "JI3P70RE74g",
+    "title": "How To Draw A Dachshund",
+    "score": 50
+  },
+  {
+    "id": "MqvZaFw1-w0",
+    "title": "How to start drawing (for beginners)",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "How I Would Learn Python FAST (If I Could Start Over)",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python 101: Learn the 5 Must-Know Concepts",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Python Basics: The Best Way to Learn Python Programming (2024)",
+    "score": 50
+  },
+  {
+    "id": "wIVjxtAMYnQ",
+    "title": "Chili Colorado - How I Make The World's Most Flavorful Chili",
+    "score": 50
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "A combo for learning English for free! Special advice",
+    "score": 50
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "ckYIGq1N7jQ",
+    "title": "2 More Hours Of Engineering Catastrophes That Make Modern Designs So Safe",
+    "score": 50
+  },
+  {
+    "id": "rhgDGjSN13g",
+    "title": "Advances in Space Technology: Everything You Need to Know | Complete Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Building the Eiffel Tower | Full Documentary | NOVA | PBS",
+    "score": 50
+  },
+  {
+    "id": "BmcGmsr4bBg",
+    "title": "Who Makes The Best Chili?",
+    "score": 50
+  },
+  {
+    "id": "mxmmvHsDeuI",
+    "title": "Where Does Rain Come From? Fun Science for Kids",
+    "score": 50
+  },
+  {
+    "id": "2I7QG12ojg0",
+    "title": "White Noise Rain Sounds for Sleep, Focus, Studying | Rainstorm 10 Hours",
+    "score": 50
+  },
+  {
+    "id": "lyF_0BIW8HA",
+    "title": "Blippi Learns About The Weather! Educational Videos For Kids",
+    "score": 50
+  },
+  {
+    "id": "OkZZA0MwslQ",
+    "title": "4 Ingredients! No knead bread! Everyone can make this homemade bread!",
+    "score": 50
+  },
+  {
+    "id": "1ELFSxIBuPU",
+    "title": "Pasta | Pasta recipe | How to make pasta 🍝🍝😋",
+    "score": 50
+  },
+  {
+    "id": "J3H2nZ_szvI",
+    "title": "What I Eat In A Day // Seasonal Foods // Learning Nourishing Traditions",
+    "score": 50
+  },
+  {
+    "id": "ztMKr8eqB6c",
+    "title": "Nourishing Herbal Infusions | Free 3-Hour Video Course",
+    "score": 50
+  },
+  {
+    "id": "TEWcZW-PUPc",
+    "title": "How to heal your body by nourishing with healthy foods",
+    "score": 50
+  },
+  {
+    "id": "Gi1xzBEk6eQ",
+    "title": "How to pronounce NOURISHING in American English",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Facets vs Filters | Grokking Search | Micro-Lesson",
+    "score": 50
+  },
+  {
+    "id": "pbCrRf4MzJc",
+    "title": "5 Easy Slow Cooker Chicken Recipes You’ll Make on Repeat | Allrecipes",
+    "score": 50
+  },
+  {
+    "id": "x5ZEer6N7V0",
+    "title": "How to make the best CHOCOLATE CANDY surprise for your best friend?😅❤️🍫| CHEFKOUDY",
+    "score": 50
+  },
+  {
+    "id": "6wIfdFJaz2A",
+    "title": "how to make poison",
+    "score": 50
+  },
+  {
+    "id": "76ICM-C8wdI",
+    "title": "Surviving the World's Harshest Winter | Afghan Family Documentary",
+    "score": 50
+  },
+  {
+    "id": "sQDsdwpnlm8",
+    "title": "Big Thunder \\u0026 Rain Sounds | Storm White Noise | Sleep, Study, Relax | 10 Hours",
+    "score": 50
+  },
+  {
+    "id": "hvblt0zs6Xo",
+    "title": "Caught in a mountain thunderstorm/bushcraft camping in rainstorm/Building a shelter in cold weather",
+    "score": 50
+  },
+  {
+    "id": "srMEoe_5y6g",
+    "title": "Why Recipes are holding you back from learning how to cook",
+    "score": 50
+  },
+  {
+    "id": "12RCZXrk8vg",
+    "title": "Homemade Meatloaf Recipe | The Best Meatloaf Recipe Ever! Easy \\u0026 Delicious #MrMakeItHappen #Meatloaf",
+    "score": 50
+  },
+  {
+    "id": "Lkgn7xRlT4U",
+    "title": "Only 2 Days! This Easy Crochet Stitch Makes a Beautiful Blanket 😍",
+    "score": 50
+  },
+  {
+    "id": "j71w2DQcjHE",
+    "title": "Jackson Browne - These Days - Easy Guitar Tutorial - Easy Guitar Lesson",
+    "score": 50
+  },
+  {
+    "id": "K9u07NEsz9I",
+    "title": "How to Make Creamy White Chicken Chili | Allrecipes",
+    "score": 50
+  },
+  {
+    "id": "AbAGf4zc2Oc",
+    "title": "Unveiling Kıvanç Tatlıtuğ's Dating History: The Stunning Girlfriends That Caught His Heart!",
+    "score": 50
+  },
+  {
+    "id": "Fgdk1KRj0h8",
+    "title": "How To Destroy Your Reputation In 4 Minutes",
+    "score": 50
+  },
+  {
+    "id": "olMxyuzxVDs",
+    "title": "How to SOUND DESIGN a Video | Step-By-Step Tutorial",
+    "score": 50
+  },
+  {
+    "id": "6NiY8p5CvxI",
+    "title": "The Ultimate Guide to Perfecting Your Homemade Chili",
+    "score": 50
+  },
+  {
+    "id": "A5rbzssqL9w",
+    "title": "The Best Chili You’ll Ever Make (Restaurant-Quality) | Epicurious 101",
+    "score": 50
+  },
+  {
+    "id": "pCID6nIQdjc",
+    "title": "How to Can Tomatoes, Step by Step Tutorial",
+    "score": 50
+  },
+  {
+    "id": "EjYe8yl52rI",
+    "title": "How to preserve cherry tomatoes QUICK AND EASY RECIPE!",
+    "score": 50
+  },
+  {
+    "id": "umYE_5LYg5I",
+    "title": "Rain Sound On Window with Thunder SoundsㅣHeavy Rain for Sleep, Study and Relaxation, Meditation",
+    "score": 50
+  },
+  {
+    "id": "7kN_DF_NJGQ",
+    "title": "Sleep Better on a Rainy Day | The Soft Sound of Rain on the Window Makes You Free Your Mind\\u0026 Relax⛈️",
+    "score": 50
+  },
+  {
+    "id": "CedhfuMMRNk",
+    "title": "Relaxing Sound of Rain in the Dark Bedroom ( No Ads) 🌧️- Rain Sounds for Sleep , Study ,Meditation🌧️",
+    "score": 50
+  },
+  {
+    "id": "A7S8ze9TQKE",
+    "title": "What Causes Thunder and Lightning? | Weather Science | SciShow Kids",
+    "score": 50
+  },
+  {
+    "id": "R5lKh3UHoNk",
+    "title": "What Causes Lightning and Thunder??? |  Educational Video for kids with Ryan ToysReview",
+    "score": 50
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "Time lapse of the SpaceX Falcon 9 rocket launch from Huntington Beach, CA - 4K version",
+    "score": 10
+  },
+  {
+    "id": "hI9HQfCAw64",
+    "title": "4K Footage | SpaceX Launches",
+    "score": 10
+  },
+  {
+    "id": "Pn6e1O5bEyA",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "lchtXWn8SOw",
+    "title": "SpaceX Starship's 5th Flight Booster Catch Landing from Isla Blanca October 13 2024",
+    "score": 10
+  },
+  {
+    "id": "BtUMt0gsqrs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "F-9ANTobgS0",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "ROlEtlldxqk",
+    "title": "SpaceX Falcon Heavy- Elon Musk's Engineering Masterpiece",
+    "score": 10
+  },
+  {
+    "id": "sX1Y2JMK6g8",
+    "title": "[4K] Watch the last Starship Version 2 launch // #Flight11",
+    "score": 10
+  },
+  {
+    "id": "VMD-Wo8jz90",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "The REAL Jerusalem 🇮🇱 – What Tourists NEVER See on the News [4K]",
+    "score": 10
+  },
+  {
+    "id": "eZcNmuOHtoY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "X01aUoLm8lE",
+    "title": "Handyman Hacks for DIY Home Repairs",
+    "score": 10
+  },
+  {
+    "id": "idxa-aOR5Qo",
+    "title": "60 Year Old Mason Was Stunned by This Method! Repair Hole in Drywall in 5 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Ho8fp1Ux248",
+    "title": "Home Repairs So Easy It’s Ridiculous! 🔧💡 Anyone Can Do This!",
+    "score": 10
+  },
+  {
+    "id": "Y7Iyuhwz1f4",
+    "title": "The Complete List of House Repair Hacks",
+    "score": 10
+  },
+  {
+    "id": "mmXkY5v-yMY",
+    "title": "25 bizarre home hacks that work like magic!",
+    "score": 10
+  },
+  {
+    "id": "spjVZLwvVt8",
+    "title": "1. Kool-Aid Toilet Hack",
+    "score": 10
+  },
+  {
+    "id": "wLvkY27PKNg",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "4GvI55Of41M",
+    "title": "Disassembly",
+    "score": 10
+  },
+  {
+    "id": "dEPXeBn79Bk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Dv_AVac44Nk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "The Ultimate DIY Home Electrical Kit | You Need This!",
+    "score": 10
+  },
+  {
+    "id": "GpPYnCiD28M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2ugw9-g3Tgs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qLflnnHmbh8",
+    "title": "Motion Sensor Light Bulbs",
+    "score": 10
+  },
+  {
+    "id": "8dcZA3IfDdg",
+    "title": "Spicy Chili Oil Perfectly Coats Xi'an Famous Foods' Most Popular Dish | Legendary Eats",
+    "score": 10
+  },
+  {
+    "id": "S-732576H4Y",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t06aTX9jM34",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "i_CijGuk7fw",
+    "title": "What Is Physics",
+    "score": 10
+  },
+  {
+    "id": "jOSgc6rY4wM",
+    "title": "Chapter 1 — What Is Particle Physics? A Map of the Invisible",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_g4vy7H8bdo",
+    "title": "Head",
+    "score": 10
+  },
+  {
+    "id": "ao2IP7f23-8",
+    "title": "drawing a curve right here in the middle of our paper",
+    "score": 10
+  },
+  {
+    "id": "j7CjkMtWJrw",
+    "title": "Eye",
+    "score": 10
+  },
+  {
+    "id": "t4MeJxenIpw",
+    "title": "Let's Begin",
+    "score": 10
+  },
+  {
+    "id": "e6sXkvmLwIU",
+    "title": "5 BEGINNER Drawing Exercises to IMPROVE Fast (Do these First!)",
+    "score": 10
+  },
+  {
+    "id": "UOC8ISSbFx0",
+    "title": "Let's Begin!",
+    "score": 10
+  },
+  {
+    "id": "XeIR7P82aPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "y6KjkIbz9OY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OEJv74QnduA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "St48epdRDZw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pKpZ7GOc5GY",
+    "title": "Introduction to Python for Beginners",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "a8mRGkGlLJA",
+    "title": "HOMEMADE CHILI RECIPE for Making a Mean Grown-Up Chili",
+    "score": 10
+  },
+  {
+    "id": "IVI5L18mmzQ",
+    "title": "Spiciest Pepper In The World  \"},{\"text\":\"#181\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CI0DENbKAxgJIhMIgtm0r_K3kgMV1g1oCB2EYB8TygEE0G0-yg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/181\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUHCgMxODEYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CI0DENbKAxgJIhMIgtm0r_K3kgMV1g1oCB2EYB8T\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"34,508,890 views\"},\"shortViewCount\":{\"simpleText\":\"34M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "uqB87yjWmaU",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CtT1stS6Kz0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "efiTDgJjqXY",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "CF2YDfQgnVg",
+    "title": "Steel Giants: Pushing the Limits of Bridge Design | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "Aqueducts: Engineering the Water Systems of the Ancient World | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "1eoZ0AtHUjo",
+    "title": "Mega Tanker Plane: The Boeing 707 Gas Station | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "okuCoeLJUS0",
+    "title": "Gothic Cathedrals: The Pinnacle of Medieval Construction | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "Unq1etYduBg",
+    "title": "London's Super Sewer",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "bCm6tWIU89Q",
+    "title": "Fast: World's Largest Radio Telescope",
+    "score": 10
+  },
+  {
+    "id": "68PlPkeOwng",
+    "title": "The Launchers",
+    "score": 10
+  },
+  {
+    "id": "PozMY_7Uh4s",
+    "title": "The Rise of Civilization",
+    "score": 10
+  },
+  {
+    "id": "gxqPbGqYACw",
+    "title": "The Rise and Fall of Julius Caesar",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "1gsjRfa5yck",
+    "title": "Catastrophic Bridge Collapse in Sweden",
+    "score": 10
+  },
+  {
+    "id": "EdAM1pKy1Gg",
+    "title": "Chernobyl's Toughest Fix",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9dudh7G0XTM",
+    "title": "Machinery of War: Battlefield Behemoths, Stealth Systems, Defensive Designs | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "bv45S66VAfY",
+    "title": "Battlefield Behemoths",
+    "score": 10
+  },
+  {
+    "id": "Y-fZcL7GFus",
+    "title": "Kevin’s Famous Chili From 'The Office'",
+    "score": 10
+  },
+  {
+    "id": "n9Eu0SntKRM",
+    "title": "NEW: 'Squad' member's SURGING finances exposed in new report",
+    "score": 10
+  },
+  {
+    "id": "6fyR3QDp6F0",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "rr1tpZOt_Kc",
+    "title": "Baby Trump Gets a Job at McDonalds!",
+    "score": 10
+  },
+  {
+    "id": "lpVngS1CPaQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "tV_4urapX2o",
+    "title": "5 Salt Brands To Avoid At ALL Costs (And 3 That WON’T Poison You)",
+    "score": 10
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "6 Hour 4K Beautiful places Aerial Views",
+    "score": 10
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "Wildlife photography। Bird photography। Paradise। #birds #nikonwildlife #nature #short #vairalshort",
+    "score": 10
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "“Silent Watch, Perfect Click 🤫📷 #photography #wildlife #nature",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oANVprqd_rU",
+    "title": "Earl Spencer STUNS Family By Declaring The Spencer Tiara Will Go Exclusively To Charlotte",
+    "score": 10
+  },
+  {
+    "id": "nBanVeagP68",
+    "title": "Trying 45 Of Chili's Most Famous Menu Items | Delish",
+    "score": 10
+  },
+  {
+    "id": "gY1ps2ciTJQ",
+    "title": "The most FAMOUS and CONTROVERSIAL CHILI on Earth.",
+    "score": 10
+  },
+  {
+    "id": "5GfUum0cpOg",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "KSD87MO-L3I",
+    "title": "HOW LIGHTNING WORKS - Weird World of Lightning",
+    "score": 10
+  },
+  {
+    "id": "LmlccGjmPYI",
+    "title": "✰ 3 HOURS ✰ RAIN SOUNDS ♫ Rain Sounds for Sleeping ♫ Relaxing Rain ✰ Nature Sounds for Babies",
+    "score": 10
+  },
+  {
+    "id": "5HP1DdiqaEs",
+    "title": "Rain Rain Go Away | Family Song for Kids | Super Simple Songs",
+    "score": 10
+  },
+  {
+    "id": "LFrKYjrIDs8",
+    "title": "Rain (Sleep)",
+    "score": 10
+  },
+  {
+    "id": "Z-JU13ny9FQ",
+    "title": "White Noise \\u0026 Rain Sounds for Babies | Soothing Baby Sleep Sound",
+    "score": 10
+  },
+  {
+    "id": "9VQzR1R_CZM",
+    "title": "👶😴8 HOURS Rain Sounds For Sleep Lullabies Songs for Babies To Go To Sleep Baby Lullaby RAIN THUNDER",
+    "score": 10
+  },
+  {
+    "id": "f1xvfWEqb6U",
+    "title": "How Are Rain Droplets Formed? | WATER CYCLE | The Dr Binocs Show | Peekaboo Kidz",
+    "score": 10
+  },
+  {
+    "id": "LkGvA0WZS5o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GM96zuLxBB4",
+    "title": "Its Raining",
+    "score": 10
+  },
+  {
+    "id": "M9qt4UaPqA8",
+    "title": "Aphrodite's Child - Rain And Tears | Official Audio Release",
+    "score": 10
+  },
+  {
+    "id": "QPQ1y-vfkFY",
+    "title": "Aphrodite's Child - Rain and Tears (HQ)",
+    "score": 10
+  },
+  {
+    "id": "V0v1ogEYXmo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OTOaOdCrrik",
+    "title": "Rainy Day Song | Dress for the Rain | Music for Kids + More Baby ChaCha Nursery Rhymes \\u0026 Kids Songs",
+    "score": 10
+  },
+  {
+    "id": "DOxIv7v50Ow",
+    "title": "Rainy Day Song",
+    "score": 10
+  },
+  {
+    "id": "jGF5UjX8Ch8",
+    "title": "RAIN GO AWAY + More Nursery Rhymes for Babies \\u0026 Toddlers",
+    "score": 10
+  },
+  {
+    "id": "emFuE-j1bAU",
+    "title": "Rain Go Away",
+    "score": 10
+  },
+  {
+    "id": "rIhP_1bxJBM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "q2eBcmm_67w",
+    "title": "OFFICIAL COUNTRY STYLE COOKOFF VIDEO (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "jR_yFmNNUUc",
+    "title": "Tim's Cook Off",
+    "score": 10
+  },
+  {
+    "id": "Yjtm_Y1h2eI",
+    "title": "COUNTRY STYLE COOKOFF RAW VIDEO (Boots on the Ground)",
+    "score": 10
+  },
+  {
+    "id": "JNKU8C-Y9Do",
+    "title": "SIDEMEN EXTREME COOK OFF",
+    "score": 10
+  },
+  {
+    "id": "BvdlZsK5ZWY",
+    "title": "National Champion Chili Recipe (2018)",
+    "score": 10
+  },
+  {
+    "id": "gauyUvRIPzs",
+    "title": "MIKE PRICE TASTY PRODUCER",
+    "score": 10
+  },
+  {
+    "id": "uzaj4aMhTGQ",
+    "title": "Amateur Chef Vs. Professional Chef: Hangover Foods",
+    "score": 10
+  },
+  {
+    "id": "xiyhNAhqlh8",
+    "title": "Country Style Cookoff 2025 | Full Walkthrough in 4K",
+    "score": 10
+  },
+  {
+    "id": "nXAUZM_gcz8",
+    "title": "The highlights",
+    "score": 10
+  },
+  {
+    "id": "cjnSL05ztYM",
+    "title": "Philly Cheese Stick Egg Rolls on a Stick",
+    "score": 10
+  },
+  {
+    "id": "Bns36kKcS6k",
+    "title": "Tasty Cook-Off: Burgers",
+    "score": 10
+  },
+  {
+    "id": "ko_XULzxKco",
+    "title": "YOUTUBER COOK OFF VS HARRY PINERO!",
+    "score": 10
+  },
+  {
+    "id": "_wuWOFUry-M",
+    "title": "Mushroom",
+    "score": 10
+  },
+  {
+    "id": "87zp1NvcRuI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0NNFOcPGXX4",
+    "title": "Snow Patrol - The Lightning Strike (What If This Storm Ends?) | Official Audio",
+    "score": 10
+  },
+  {
+    "id": "EZDjBF4PVE0",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "nVLoFaTk9HM",
+    "title": "5 High-Protein, High-Fiber Dinners (Made with Only 5 Ingredients!) | Allrecipes",
+    "score": 10
+  },
+  {
+    "id": "aoy78JqoObM",
+    "title": "5 Easy Slow Cooker Dinners Perfect for Fall",
+    "score": 10
+  },
+  {
+    "id": "P1MxbB7r1RA",
+    "title": "5 Easy Dinners Made with Only 5 Ingredients",
+    "score": 10
+  },
+  {
+    "id": "1IjomFvc2Ds",
+    "title": "British bolognese",
+    "score": 10
+  },
+  {
+    "id": "W_8YliFlYmw",
+    "title": "No-Recipe Dinners",
+    "score": 10
+  },
+  {
+    "id": "841zkXFTvvQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "O1CQsUkbtlo",
+    "title": "Welcome! ❖Today's Recipes",
+    "score": 10
+  },
+  {
+    "id": "3KaEFM3fM_8",
+    "title": "Welcome! ❖ Today's Recipes",
+    "score": 10
+  },
+  {
+    "id": "H1Pi1OjQlgg",
+    "title": "20 Super Easy Recipes \\u0026 Dinners For The Family",
+    "score": 10
+  },
+  {
+    "id": "zrUc0037RX8",
+    "title": "Easy \\u0026 Affordable One-Pot Meals",
+    "score": 10
+  },
+  {
+    "id": "YAA9ccDJjJg",
+    "title": "5 Easy Crockpot Dinners with Just 5 Ingredients | Allrecipes",
+    "score": 10
+  },
+  {
+    "id": "gvbVRiQCd3s",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8VxSe21SPVI",
+    "title": "Easy 1 Minute Meal",
+    "score": 10
+  },
+  {
+    "id": "c5bfZ4LB5Zg",
+    "title": "A Recipe Your Kids Will Love! ❤️ 5-Ingredient Dinner For Your Family!",
+    "score": 10
+  },
+  {
+    "id": "3WVdXsdNBUY",
+    "title": "Easy and healthy dinner!",
+    "score": 10
+  },
+  {
+    "id": "ZR3G6BICNAU",
+    "title": "A FAMILY FAVORITE EASY DINNER RECIPE",
+    "score": 10
+  },
+  {
+    "id": "Tz7qskj7ffs",
+    "title": "Simple One Pot Ground Beef Pasta Recipe: Perfect for Weeknights",
+    "score": 10
+  },
+  {
+    "id": "M3cYH0lK-Q4",
+    "title": "10 Homemade Pantry Mixes to SAVE You $$$ | Healthy, Easy, Delicious!",
+    "score": 10
+  },
+  {
+    "id": "Vb1Am5uD3ss",
+    "title": "Making 11 Recipes to Fill My Freezer with Homemade Snacks, Lunches and Dinners!",
+    "score": 10
+  },
+  {
+    "id": "BOss2ouzAcE",
+    "title": "Homemade Naan Recipe",
+    "score": 10
+  },
+  {
+    "id": "qnzBkCkv9gs",
+    "title": "SALT WILL KILL YEAST",
+    "score": 10
+  },
+  {
+    "id": "J9FTl0bvJlw",
+    "title": "Homemade Cajun Chicken \\u0026 Sausages Alfredo",
+    "score": 10
+  },
+  {
+    "id": "89TrXQYlPow",
+    "title": "Homemade Nestle Tollhouse chocolate chip cookies recipe #cookies #baking #recipes",
+    "score": 10
+  },
+  {
+    "id": "Iw9JnY0wyBw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ld875KTzcp4",
+    "title": "Village Strawberry Cake \\u0026 Homemade Strawberry Pastila Recipe",
+    "score": 10
+  },
+  {
+    "id": "nA4Q-7HI36E",
+    "title": "9 SHOCKINGLY Easy 3-Ingredient Recipes | Simple, Budget-Friendly \\u0026 Delicious Meals | Julia Pacheco",
+    "score": 10
+  },
+  {
+    "id": "ldOa49NggSU",
+    "title": "Easy 3-Ingredient Recipes Intro",
+    "score": 10
+  },
+  {
+    "id": "2FFb1BaZFoA",
+    "title": "Cozy Winter Baking | Homemade Village Recipes to Warm You Up",
+    "score": 10
+  },
+  {
+    "id": "DcIzAB16FEI",
+    "title": "5 Coffee Creamers",
+    "score": 10
+  },
+  {
+    "id": "X3RVhNzvo7U",
+    "title": "Sour Candy Strips",
+    "score": 10
+  },
+  {
+    "id": "bwL1Vo8JeWM",
+    "title": "Nourishing Oil is packed with skin-loving oils + it’s multiuse! 💕 #hack #beautytok #skincare",
+    "score": 10
+  },
+  {
+    "id": "6p9-MD9G69A",
+    "title": "Nourishing \\u0026 Delicious - Easy Anti-Inflammatory Recipes for Women Over 50",
+    "score": 10
+  },
+  {
+    "id": "KxZC1XQoGms",
+    "title": "Welcome to Grace Truth and Love",
+    "score": 10
+  },
+  {
+    "id": "TBipazxO1es",
+    "title": "EASY Nourishing Lunches | Nourishing Traditions Recipes",
+    "score": 10
+  },
+  {
+    "id": "o07bpVzWAO4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DcfJeMOfmQU",
+    "title": "Nourishing Herbal Broth Recipes",
+    "score": 10
+  },
+  {
+    "id": "l2L6KZD-pzE",
+    "title": "Making My Hyper-Nourishing Green Smoothie with Gillian Berry",
+    "score": 10
+  },
+  {
+    "id": "iVJ1kSoeUyo",
+    "title": "Nourishing | NOURISHING definition",
+    "score": 10
+  },
+  {
+    "id": "gNUebrR1rnA",
+    "title": "What Needs Nourishing in Your Life?",
+    "score": 10
+  },
+  {
+    "id": "otYd0297kA8",
+    "title": "Week of Nourishing Breakfasts",
+    "score": 10
+  },
+  {
+    "id": "GtLdMAWRPpg",
+    "title": "Clean Eatz: Nourishing Quick Meals",
+    "score": 10
+  },
+  {
+    "id": "GcVN1Jq-0VQ",
+    "title": "Nourishing Red Lentil Soup Recipe: Bright \\u0026 Lemony!",
+    "score": 10
+  },
+  {
+    "id": "Sh8dmlx9Tcg",
+    "title": "Christophe Lerouy on Nourishing with Growthwell",
+    "score": 10
+  },
+  {
+    "id": "uNk_FWsIuZs",
+    "title": "Self Nourishing with Ate B | Mae's Adventures",
+    "score": 10
+  },
+  {
+    "id": "yGxsNZhjToo",
+    "title": "A full day of nourishing meals for balanced blood sugar #whatieatinaday #bloodsugar #fiber",
+    "score": 10
+  },
+  {
+    "id": "jYpgn31LGz0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "IYlrs-Ab0_k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ppHZTjKZomI",
+    "title": "YouTube's New Search Filter Sucks...",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lYi24okXDPs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "PubMed: Using the Search Filters",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HHJDXoewU3M",
+    "title": "Search Jira",
+    "score": 10
+  },
+  {
+    "id": "-BO4g2g2_hg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lWmYkZz946Y",
+    "title": "Starting soon",
+    "score": 10
+  },
+  {
+    "id": "zrD1Q_KKxUw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KRXty8lDUW0",
+    "title": "Butthole Surfers - Pepper",
+    "score": 10
+  },
+  {
+    "id": "KpiLWi6wlIs",
+    "title": "Dr Pepper Baby (Good \\u0026 Nice Jingle) by @Romeosshow",
+    "score": 10
+  },
+  {
+    "id": "Wcua0DMG3mw",
+    "title": "Death Cab for Cutie - Pepper (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "OMFAhvcPLrU",
+    "title": "Pepper This",
+    "score": 10
+  },
+  {
+    "id": "Hzt0Ngj0OIo",
+    "title": "The 8 Pepper Varieties We Can’t Wait to Grow in 2026",
+    "score": 10
+  },
+  {
+    "id": "LLa31iNkB7E",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "aRtHu7rpGvk",
+    "title": "Pepper  Kona Town (Full Album)",
+    "score": 10
+  },
+  {
+    "id": "mev_z2Ipxes",
+    "title": "Pepper - Warning (feat. @StickFigure ) [OFFICIAL AUDIO]",
+    "score": 10
+  },
+  {
+    "id": "4bQRhdZlpV0",
+    "title": "Eat Honey Mixed With Black Pepper, THIS Will Happen To Your Body!",
+    "score": 10
+  },
+  {
+    "id": "ONH167hfk2c",
+    "title": "Death Cab for Cutie - Pepper (Official Visualizer)",
+    "score": 10
+  },
+  {
+    "id": "9F1kFeiDSyQ",
+    "title": "What Exactly Is Black Pepper? This Spice Was Once Worth Gold [ID0620]",
+    "score": 10
+  },
+  {
+    "id": "gEwD6bu-F3Q",
+    "title": "The everyday spice we all ignore",
+    "score": 10
+  },
+  {
+    "id": "62J6kz7SkbQ",
+    "title": "Eat Honey Infused With Cayenne Pepper, THIS Will Happen To Your Body!",
+    "score": 10
+  },
+  {
+    "id": "B9zG4lBkXdI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VzuP81qVSC4",
+    "title": "😱 My Carb-Loving Family Devoured These LOW CARB CROCKPOT RECIPES!",
+    "score": 10
+  },
+  {
+    "id": "B5BmREcu9YY",
+    "title": "The Best Slow Cooker BBQ Chicken 🍗| Potluck Recipes | Cooking Up Love",
+    "score": 10
+  },
+  {
+    "id": "UoCTJ-A9O-c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "--Dq6kFSRDE",
+    "title": "Your family will love this crockpot dinner",
+    "score": 10
+  },
+  {
+    "id": "DrXK2BW2IBw",
+    "title": "Easy Crockpot Recipes everyone will love!",
+    "score": 10
+  },
+  {
+    "id": "QABPaDI1Obw",
+    "title": "Super Easy Slow Cooker Ribs - Fall Off The Bone BBQ Ribs Recipe",
+    "score": 10
+  },
+  {
+    "id": "ahuVXDsn5VQ",
+    "title": "Easy Crockpot Recipes everyone will love",
+    "score": 10
+  },
+  {
+    "id": "AyAyYWXKjI0",
+    "title": "Instant Pot Keto Ranch Chicken (also works in the slow cooker)",
+    "score": 10
+  },
+  {
+    "id": "PHJD6r7rdBs",
+    "title": "25 EASY DUMP \\u0026 GO CROCKPOT DINNERS | SO GOOD SIMPLE \\u0026 TASTY SLOW COOKER RECIPES | JULIA PACHECO",
+    "score": 10
+  },
+  {
+    "id": "4X2_3yWOCe0",
+    "title": "25 Easy Crockpot Meals",
+    "score": 10
+  },
+  {
+    "id": "qxVjDbcF5QA",
+    "title": "Easy to love crockpot dinner",
+    "score": 10
+  },
+  {
+    "id": "WBW6HSdeuJQ",
+    "title": "20 ⭐BEST⭐CROCKPOT Recipes YOOU FAMILY will LOVE! | QUICK \\u0026 EASY SLOW COOKER MEALS ",
+    "score": 10
+  },
+  {
+    "id": "wzSHazs-L-s",
+    "title": "5 Best CROCKPOT CHICKEN RECIPES you Don't Want To Miss! | COZY SLOW COOKER RECIPES",
+    "score": 10
+  },
+  {
+    "id": "Wjmg6ly-YoQ",
+    "title": "WELCOME! (intro)",
+    "score": 10
+  },
+  {
+    "id": "yewk9GCLAUU",
+    "title": "Easy crockpot soup everyone will love!",
+    "score": 10
+  },
+  {
+    "id": "40BfDBEv1fQ",
+    "title": "Slow cooker Million Dollar Pasta #crazybusymama #slowcookerrecipe #crockpotrecipes ot",
+    "score": 10
+  },
+  {
+    "id": "mV2mJVXCKgM",
+    "title": "SUPER EASY CROCKPOT MEAL - Easy Weeknight Dinner",
+    "score": 10
+  },
+  {
+    "id": "dPrr47droD4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "npzTp8NLu-I",
+    "title": "Brown Eyed Soul - With Chocolate",
+    "score": 10
+  },
+  {
+    "id": "gJfAa45n1KE",
+    "title": "homemade bounty chocolate bar recipe for kids - just 4 ingredients | chocolate bounty coconut bars",
+    "score": 10
+  },
+  {
+    "id": "e9uxDAbvzzY",
+    "title": "homemade COCONUT BOUNTY",
+    "score": 10
+  },
+  {
+    "id": "2EycQnV57Vk",
+    "title": "grapefruit",
+    "score": 10
+  },
+  {
+    "id": "1Y5sBRVK7-U",
+    "title": "2014 Thank Your Soul    Brown Eyed Soul(성훈) - With Chocolate",
+    "score": 10
+  },
+  {
+    "id": "3iC9_e3CH_8",
+    "title": "Only 2 Ingredients Chocolate Mousse in 15 Minutes | Chocolate Dessert Recipe | Chocolate Mousse",
+    "score": 10
+  },
+  {
+    "id": "I50-1ktP5gA",
+    "title": "What is the BEST way to eat chocolate? With CHOCOLATE?😎❤️🍫| CHEFKOUDY",
+    "score": 10
+  },
+  {
+    "id": "3xvGzbeRe1A",
+    "title": "Mini Rainbow Cake Recipe With Chocolate🌈Amazing Miniature Melted Chocolate Cake🌈 HT Mini Cakes",
+    "score": 10
+  },
+  {
+    "id": "vZ1SuhH_8mI",
+    "title": "Chocolate waterfall, chocolate factory, Chocolate fountain  #chocolate #museum #turkey #funny #baby",
+    "score": 10
+  },
+  {
+    "id": "v78hBK6e5h8",
+    "title": "Sung Hoon - With Chocolate, 성훈 - 위드 초콜릿, Remocon 20120926",
+    "score": 10
+  },
+  {
+    "id": "Up4dTB58aO0",
+    "title": "Chocolate Mousse in 2 Ingredients🤯! 2 shocking right?!",
+    "score": 10
+  },
+  {
+    "id": "u0upS_TLSOE",
+    "title": "Chocolate Toothbrush and Paste! 🪥The perfect morning routine! #amauryguichon #chocolate",
+    "score": 10
+  },
+  {
+    "id": "dYyLKDTLMII",
+    "title": "2 INGREDIENTS DELICIOUS CHOCOLATE DESSERT RECIPE | SOFT \\u0026 CREAMY CHOCOLATE DESSERT | N'Oven",
+    "score": 10
+  },
+  {
+    "id": "mip8wfRa_ZE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BUGOnyaXYp4",
+    "title": "Toxicologist Rates 9 Poison Scenes In Movies And TV | How Real Is It? | Insider",
+    "score": 10
+  },
+  {
+    "id": "EujomcxqFFE",
+    "title": "Price Of Poison | The Tim Dillon Show #379",
+    "score": 10
+  },
+  {
+    "id": "x5JBng8KRYo",
+    "title": "Chatty Private Pilots",
+    "score": 10
+  },
+  {
+    "id": "9OuUfvLAbWs",
+    "title": "Devil's Price - Poor Man's Poison - Lyrics",
+    "score": 10
+  },
+  {
+    "id": "65uq8WIq4wY",
+    "title": "Poor Man's Poison \\\"Devil's Price\\\" - REMSCAPE®",
+    "score": 10
+  },
+  {
+    "id": "boREwfIMovI",
+    "title": "5 Salt Brands To Avoid At ALL Costs (And 3 That WON’T Poison You)",
+    "score": 10
+  },
+  {
+    "id": "Xwoe93gM2k4",
+    "title": "MOST deadly ALL natural RAT poison …🐀☠️",
+    "score": 10
+  },
+  {
+    "id": "ryzCBb_ozRc",
+    "title": "Poison - Rates",
+    "score": 10
+  },
+  {
+    "id": "kPmkUfSllcQ",
+    "title": "The Wild Story of Tomatoes: From \\\"Poison Apple\\\" to Pizza Sauce",
+    "score": 10
+  },
+  {
+    "id": "AN00PtRWjlU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U8iulFSD0CM",
+    "title": "Intro: What is the Price of Progress?",
+    "score": 10
+  },
+  {
+    "id": "FhDTVq8C-Yc",
+    "title": "What it Costs to Poison Hundreds of Thousands of Children",
+    "score": 10
+  },
+  {
+    "id": "uxw_kE4GpTc",
+    "title": "The Truth About Apple Seeds               #apples #poison #truth",
+    "score": 10
+  },
+  {
+    "id": "6QcUY2MvHIo",
+    "title": "The perfect poison",
+    "score": 10
+  },
+  {
+    "id": "V-EtsXn9S8s",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "82nW-rVpMYY",
+    "title": "Cancer survivor struggles to control her 5 kids! | The Winter Family | FULL EPISODE | Supernanny USA",
+    "score": 10
+  },
+  {
+    "id": "Ec2eIcgeFWI",
+    "title": "How Frontier Families Survived the Coldest Nights of Winter",
+    "score": 10
+  },
+  {
+    "id": "WggO36tnXrY",
+    "title": "Winter",
+    "score": 10
+  },
+  {
+    "id": "7hsv2zkhHjE",
+    "title": "A Farm Winter with Jerry Apps",
+    "score": 10
+  },
+  {
+    "id": "kv4eHBDqD4k",
+    "title": "Holiday Vacations",
+    "score": 10
+  },
+  {
+    "id": "-GR-g2kijQA",
+    "title": "Winter and Chantel Clash Over Celebrating Christmas | The Family Chantel",
+    "score": 10
+  },
+  {
+    "id": "5qqlrxb3Wmc",
+    "title": "Cancer Survivor Struggles With 5 Kids | Winter Family | FULL EPISODE | S5 E5 | Supernanny USA",
+    "score": 10
+  },
+  {
+    "id": "nnyAqTsHjR8",
+    "title": "White Winter Hymnal",
+    "score": 10
+  },
+  {
+    "id": "yLtTH5h4snU",
+    "title": "Winter Family - Yallah",
+    "score": 10
+  },
+  {
+    "id": "DsFJDgPx8qo",
+    "title": "The Family Crest - \\\"I Am the Winter\\\"",
+    "score": 10
+  },
+  {
+    "id": "gJTjdvcaH5A",
+    "title": "Winter Family Easy, Never-Fail Pie Crust",
+    "score": 10
+  },
+  {
+    "id": "SB47fVLpLZg",
+    "title": "The Winter Family Full Episode | Season 5 | Supernanny USA",
+    "score": 10
+  },
+  {
+    "id": "ItqY7BXSa-I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bL1UXllAgNE",
+    "title": "Winter Family - Black Sun",
+    "score": 10
+  },
+  {
+    "id": "ETRRYaxrN8A",
+    "title": "Winter Family | A Take Away Show",
+    "score": 10
+  },
+  {
+    "id": "6cHpU2NHD9s",
+    "title": "Black Sun",
+    "score": 10
+  },
+  {
+    "id": "-Z7GGrQQ00M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KU9aTgocsZA",
+    "title": "Most Powerful Storm Moments Ever Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "Gz-jBbuqHZg",
+    "title": "Sleeping In A Retro RV Caught In A Rain \\u0026 Thunderstorm💧Black Screen | 12 Hours | Sleep In Series",
+    "score": 10
+  },
+  {
+    "id": "pZJloj0babE",
+    "title": "Insane South Dakota Storm Chase - Wind Driven Hail!",
+    "score": 10
+  },
+  {
+    "id": "tMwXSzV8hlo",
+    "title": "Scariest STORM Moments Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "NIOvmhmSruU",
+    "title": "Scariest Storm Moments Ever Caught On Camera ! #2",
+    "score": 10
+  },
+  {
+    "id": "Bgoutmdezlw",
+    "title": "Storm on the meadow at night, valley in a thunderstorm, gentle wind and thunder for sleep 6",
+    "score": 10
+  },
+  {
+    "id": "6t5WRpM8-oE",
+    "title": "Rhythmic THUNDERSTORM helps you quiet the mind, ease tension and Promotes SLEEP",
+    "score": 10
+  },
+  {
+    "id": "x_4hS1A5wws",
+    "title": "Heavy Rainstorm and Strong Thunder Sounds for Sleeping | Black Screen Rain for Sleep, Fall Asleep",
+    "score": 10
+  },
+  {
+    "id": "hsBfbFiWjQM",
+    "title": "Rainy Night on a Cozy Porch | Crackling Fire \\u0026 Thunderstorm Sounds for Deep Relaxation 🌧️🔥",
+    "score": 10
+  },
+  {
+    "id": "HoB02OepXlE",
+    "title": "THUNDER and RAIN Sounds for Sleeping BLACK SCREEN | Sleep and Relaxation | Dark Screen Nature Sounds",
+    "score": 10
+  },
+  {
+    "id": "yMRoNNKWuqQ",
+    "title": "Heavy Rain and Rumbling Thunder Sounds for Sleeping - Black Screen | Sleep Sounds - Dark Screen",
+    "score": 10
+  },
+  {
+    "id": "6XC-9rtuegM",
+    "title": "⚡ Strong Rain Thunderstorm Sounds for Sleeping | Heavy Rain \\u0026 Intense Thunder on Old House at Night",
+    "score": 10
+  },
+  {
+    "id": "GHqA2Ruhz1E",
+    "title": "Heavy Thunderstorm Sounds | Relaxing Rain, Thunder \\u0026 Lightning Ambience for Sleep | HD Nature Video",
+    "score": 10
+  },
+  {
+    "id": "gVKEM4K8J8A",
+    "title": "Goodbye Insomnia with Heavy Rain \\u0026 Thunder Growls on a Stale Tin Roof in Foggy Murky Forest at Night",
+    "score": 10
+  },
+  {
+    "id": "sfn3lnBolFo",
+    "title": "Cozy Bedroom Apartment in Manhattan with Heavy Rain \\u0026 Thunders Sounds for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "DhOiEJB7VJ4",
+    "title": "Caught in a THUNDERSTORM While Stealth Camping in the Hood",
+    "score": 10
+  },
+  {
+    "id": "6mXAaZ_-LPE",
+    "title": "DANGEROUS STORM FRONT! Caught in a SEVERE THUNDERSTORM!!! - Huge Storm Front",
+    "score": 10
+  },
+  {
+    "id": "kr7NoRwswtE",
+    "title": "8:25AM",
+    "score": 10
+  },
+  {
+    "id": "bGzniZTi458",
+    "title": "90 INCREDIBLE LIGHTNING STRIKES Caught on Camera",
+    "score": 10
+  },
+  {
+    "id": "HI07e2A7yWk",
+    "title": "WORST THUNDERSTORMS! solo camping in heavy rainstorm (CAUGHT IN THUNDERSTORM)",
+    "score": 10
+  },
+  {
+    "id": "Fj-7doPmEEQ",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "Nuo8JPNxTi8",
+    "title": "Solo female tent camping/caught in a severe thunderstorm.",
+    "score": 10
+  },
+  {
+    "id": "jAO4aQOo4wU",
+    "title": "🔴 Heavy Rain and Thunder Sounds for Sleeping - Black Screen | Sleep Instantly, Anxiety Relief",
+    "score": 10
+  },
+  {
+    "id": "svp8zI4LBuc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aE1diVc0cC0",
+    "title": "Insanely Hilarious DELETED SCENES | Season 9 SUPERFAN | A Peacock Extra - The Office",
+    "score": 10
+  },
+  {
+    "id": "AJmaVPfyudQ",
+    "title": "HA! Lumberg on NCIS! They did the TPS report joke from 'Office Space'  S19E17 Starting Over",
+    "score": 10
+  },
+  {
+    "id": "1ubMHZC6PmI",
+    "title": "From Office Boredom to Magical Triumph || ANIME IN ENGLISH DUB ||  Anime Recap",
+    "score": 10
+  },
+  {
+    "id": "YXTUc8ziZIU",
+    "title": "I Built a DIY Flamethrower from Office Supplies",
+    "score": 10
+  },
+  {
+    "id": "gK6AMIcRhVY",
+    "title": "From Office to Job Site (Ben Affleck \\u0026 Kevin Costner) | The Company Men",
+    "score": 10
+  },
+  {
+    "id": "9mgiNsaJ1Jw",
+    "title": "From Office Job to Successful Solo Esthetician!",
+    "score": 10
+  },
+  {
+    "id": "lue4kSbIPJg",
+    "title": "From Office Boredom to Magical Triumph  Anime Recap",
+    "score": 10
+  },
+  {
+    "id": "ZYsDXZNTXig",
+    "title": "🌈 From Office to Amusement: Xavi’s Crazy Adventure! 🎡",
+    "score": 10
+  },
+  {
+    "id": "8KpZEOJUKNU",
+    "title": "Use Splunk to Collect Logs from Office 365 and Azure AD",
+    "score": 10
+  },
+  {
+    "id": "ycYS5PeEBYQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "94gU_c8isbc",
+    "title": "Could This Loophole Remove Trump From Office?",
+    "score": 10
+  },
+  {
+    "id": "Et0GQ_RG_38",
+    "title": "Work from anywhere with Office 365 and Windows 10",
+    "score": 10
+  },
+  {
+    "id": "fbolby199jA",
+    "title": "Work From Home vs Work From Office Which is Better | Work From Home vs Work From Office GD #debate",
+    "score": 10
+  },
+  {
+    "id": "d72bzOj28gw",
+    "title": "[FULL 1/3] - From Office Worker to King of Apocalypse By Devouring Monsters for Power | #RV360Comics",
+    "score": 10
+  },
+  {
+    "id": "zZfdUG-CFj4",
+    "title": "Baltimore Inspector General says Maine could benefit from office",
+    "score": 10
+  },
+  {
+    "id": "fusqmkJxv7Y",
+    "title": "We need to do better.",
+    "score": 10
+  },
+  {
+    "id": "6zgUm60HgiA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "iLdlqe6nDKQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eANKYs4MY7M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZHkp1_9piXk",
+    "title": "30 Soul Food Recipes From The 70's Everyone Should Know By Heart",
+    "score": 10
+  },
+  {
+    "id": "6QfSdRaJDKw",
+    "title": "The 50 Easiest 3-Ingredient Recipes",
+    "score": 10
+  },
+  {
+    "id": "WcGYBX6Ucvg",
+    "title": "50 Native American Recipes You’ll Wish You Knew Sooner!",
+    "score": 10
+  },
+  {
+    "id": "JrFE6td94nM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-rhOTDsH4uQ",
+    "title": "50 Forgotten Farmhouse Recipes You’ll Wish You Knew Sooner!",
+    "score": 10
+  },
+  {
+    "id": "swD0B8uq6DA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6WPnHGNBuU8",
+    "title": "50 Pioneer Recipes You’ll Wish You Knew Sooner!",
+    "score": 10
+  },
+  {
+    "id": "BHLx8da8inY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1yi4gZNMF3o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7Tr105B2C1w",
+    "title": "Fried Eggs",
+    "score": 10
+  },
+  {
+    "id": "U0k3lK1s8dY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zBkvIBNgxkk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-zF7CHS7HZ8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mVKXJcpGHK8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vsm9dkGa63c",
+    "title": "Recipe #1",
+    "score": 10
+  },
+  {
+    "id": "CANOGyzHnGY",
+    "title": "Award Winning Chili Recipe",
+    "score": 10
+  },
+  {
+    "id": "Sk_CGtA4HIY",
+    "title": "sweating off the mince",
+    "score": 10
+  },
+  {
+    "id": "Boc22El-rGE",
+    "title": "National Champion Chili Recipe (2018)",
+    "score": 10
+  },
+  {
+    "id": "IY-KRIb1if4",
+    "title": "got the oven preheat into 200 degrees c",
+    "score": 10
+  },
+  {
+    "id": "LHwZCJNuwqE",
+    "title": "Ina Garten's Meatloaf | Barefoot Contessa | Food Network",
+    "score": 10
+  },
+  {
+    "id": "ebUYxwd3x1A",
+    "title": "add the onions",
+    "score": 10
+  },
+  {
+    "id": "c5tntY6M0js",
+    "title": "season these down for about two minutes",
+    "score": 10
+  },
+  {
+    "id": "tPLVNKgs8Lk",
+    "title": "Old Fashioned Pancakes",
+    "score": 10
+  },
+  {
+    "id": "bOGT4gT7RZQ",
+    "title": "20 minutes in the future",
+    "score": 10
+  },
+  {
+    "id": "38iJvgpn--E",
+    "title": "The Best Vegan Mac and Cheese recipe| Chef Joya | Say What! It’s Vegan? | Best Holiday Soul Food",
+    "score": 10
+  },
+  {
+    "id": "g4-1LlWibUg",
+    "title": "Vegan Butter",
+    "score": 10
+  },
+  {
+    "id": "baVxKs2YKkU",
+    "title": "start by finely chopping one onion and three cloves of garlic",
+    "score": 10
+  },
+  {
+    "id": "A84_UPZ18s8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KTB_MiYEHxY",
+    "title": "My BEST EVER Pie Crust Recipe",
+    "score": 10
+  },
+  {
+    "id": "T64vcGJ7L6w",
+    "title": "Simply The Best Banana Bread Recipe - It's EASY TOO !",
+    "score": 10
+  },
+  {
+    "id": "FRiAyOSj_so",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KsiuH64VhnI",
+    "title": "Top Winning Southern Baked Macaroni and Cheese Recipe!",
+    "score": 10
+  },
+  {
+    "id": "rDXZ7rXIPvI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OI0nFwCJeBY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DG3uJPJCLOM",
+    "title": "Love Struck",
+    "score": 10
+  },
+  {
+    "id": "EZWpmba3BTM",
+    "title": "LOVE STRUCK - DEZA THE GREAT,  FAITH DUKE, PRISMA JAMES - LATEST 2025 NOLLYWOOD MOVIE",
+    "score": 10
+  },
+  {
+    "id": "nnbnRWHDFpw",
+    "title": "Stuck In Love",
+    "score": 10
+  },
+  {
+    "id": "Tk8Sz2sXju4",
+    "title": "Me too Lovestruck The Musical",
+    "score": 10
+  },
+  {
+    "id": "v3GMiSpRWXU",
+    "title": "Struck By Love Riddim Mix (Full) (Lockecity Music \\u0026 Fewe Music) (July 2016)",
+    "score": 10
+  },
+  {
+    "id": "yyNqoD70_48",
+    "title": "Angel Unigwe and Emmanuel Nse are LOVE STRUCK in this 2024 Nigerian Nollywood Romance drama.",
+    "score": 10
+  },
+  {
+    "id": "CG9oHDpUfbI",
+    "title": "STUCK WITH YOU - CLINTON JOSHUA, SARIAN MARTIN, ADA ULI, ALEX CROSS latest 2025 nigerian movie",
+    "score": 10
+  },
+  {
+    "id": "mdRt2wCkJjg",
+    "title": "Love Struck",
+    "score": 10
+  },
+  {
+    "id": "R8m0V7yUa94",
+    "title": "Emotional Story How A Stranded Billionaire LADY Fell In Love With D LOCAL Boy Dat Helped Fix Her Car",
+    "score": 10
+  },
+  {
+    "id": "YtxwUpEuQPE",
+    "title": "Reborn, everyone still thinks she’s a bullied student, not knowing she’s now a world-class assassin!",
+    "score": 10
+  },
+  {
+    "id": "aK0jTImBcJI",
+    "title": "BROKEN SHELTER - NEW 2026 NIGERIAN MOVIE - SANDRA OKUNZUWA, ANGEL UNIGWE, PETER KOMBA, CHIOMA NWOSU",
+    "score": 10
+  },
+  {
+    "id": "oPL6upu5RAk",
+    "title": "Ji Chang-wook finds out Kim Ji-won kept their wedding rings | Lovestruck in the City Ep 14 [ENG SUB]",
+    "score": 10
+  },
+  {
+    "id": "n8-VZcycUCA",
+    "title": "STAR STRUCK - MAURICE SAM, SARIAN MARTIN 2024 FULL NIGERIAN MOVIE",
+    "score": 10
+  },
+  {
+    "id": "lgvwzc0pbPo",
+    "title": "[1080p] Stuck in Love - Lou and Samantha \\\"Is Dear Mr. Henshaw your favorite book too?\\\"",
+    "score": 10
+  },
+  {
+    "id": "3PKriNPRz4I",
+    "title": "STUCK ON LOVE--MAURICE SAM, UCHE MONTANA- Latest Nigerian Movie 2025 #trending #Movies",
+    "score": 10
+  },
+  {
+    "id": "HZK8TTZmNZM",
+    "title": "George Howard - Love Struck",
+    "score": 10
+  },
+  {
+    "id": "FOP5WpU3y6g",
+    "title": "Love Struck Baby",
+    "score": 10
+  },
+  {
+    "id": "HYUy9CBDCE4",
+    "title": "Mother Mother - Love Stuck (Audio)",
+    "score": 10
+  },
+  {
+    "id": "vFSsyFum8mI",
+    "title": "STUCK IN YOUR LOVE FULL MOVIE -(New Movie)Onny Micheal, Luchy Donald, Rosabelle-2024 Nollywood Movie",
+    "score": 10
+  },
+  {
+    "id": "lxmWH8N8lP4",
+    "title": "Love Struck (From Songland)",
+    "score": 10
+  },
+  {
+    "id": "Eh1RArIl5gk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "G1opQY1dJ34",
+    "title": "Drake - Days In The East",
+    "score": 10
+  },
+  {
+    "id": "WCzwqfnwrEs",
+    "title": "DEYS - EASY (PROD. SKRYWA)",
+    "score": 10
+  },
+  {
+    "id": "qEeolV6XTNc",
+    "title": "All IN: Easy days Easy, Hard days...",
+    "score": 10
+  },
+  {
+    "id": "pQ4kdOHtsCM",
+    "title": "Favorite Windbreaker",
+    "score": 10
+  },
+  {
+    "id": "Pp51zZnjK8Y",
+    "title": "Bastille - Easy Days (Demo / Visualiser)",
+    "score": 10
+  },
+  {
+    "id": "MDRrSqgtFw4",
+    "title": "Kainbeats - Easy Days (Chill Lofi Beats)",
+    "score": 10
+  },
+  {
+    "id": "KfYprf9V4R0",
+    "title": "Easy Days (with YODAKA)",
+    "score": 10
+  },
+  {
+    "id": "7vONy15jHf0",
+    "title": "Easy Days",
+    "score": 10
+  },
+  {
+    "id": "OC69l77bmVo",
+    "title": "The \\\"Lifesaving\\\" Breakfast Casserole (Prep Days Ahead)",
+    "score": 10
+  },
+  {
+    "id": "DfDjU6_phYg",
+    "title": "A Blanket in 3 Days! You've Never Seen Such an Easy and Beautiful Crochet Pattern",
+    "score": 10
+  },
+  {
+    "id": "82Te6WwtX4I",
+    "title": "30 Easy British Meals '50s Housewives Made Without a Recipe (That Have Disappeared!)",
+    "score": 10
+  },
+  {
+    "id": "tBZDfehJwnU",
+    "title": "Cozy Snow Days at Home ❄️ | Winter Storm, Simple Recipes \\u0026 Slow Living",
+    "score": 10
+  },
+  {
+    "id": "pqWZGLkt4J4",
+    "title": "I’ve Been Rethinking Everything",
+    "score": 10
+  },
+  {
+    "id": "2gnF-ha0nfE",
+    "title": "Eating on $5 a Day (Full Week) | 7 Days of Easy, CHEAP \\u0026 Healthy Tasty Meals for an Emergency Budget",
+    "score": 10
+  },
+  {
+    "id": "vevGu31fEFE",
+    "title": "Eating on $5 a Day (4 People)",
+    "score": 10
+  },
+  {
+    "id": "Cd83ZmNw9pA",
+    "title": "A Blanket in 3 Days! You've Never Seen Such an Easy and Beautiful Crochet Pattern",
+    "score": 10
+  },
+  {
+    "id": "ArLx1TYGKjw",
+    "title": "Yellow Days - That Easy",
+    "score": 10
+  },
+  {
+    "id": "Lfw-51mMhAY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9r9MX5eb2Bo",
+    "title": "Just 1 Min Easy Exercise To Lose Belly Fat In 7 Days",
+    "score": 10
+  },
+  {
+    "id": "vYPD7dcmD9I",
+    "title": "EASY THE MOGUL - CLOUDY DAYS",
+    "score": 10
+  },
+  {
+    "id": "Onz0gEmXvfc",
+    "title": "School Days - Easy English Mini Dialog with Captions and Quiz",
+    "score": 10
+  },
+  {
+    "id": "GpVZaHXIRr8",
+    "title": "Guess what?",
+    "score": 10
+  },
+  {
+    "id": "OxdIGVJ3pPQ",
+    "title": "Introduction to Success Principles",
+    "score": 10
+  },
+  {
+    "id": "FqN1xkSuHK8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "esz_z-n14Xo",
+    "title": "Easy Chilli Chicken Recipe (Indo-Chinese)",
+    "score": 10
+  },
+  {
+    "id": "fOvTUoI5pAc",
+    "title": "Ingredients List in Description Bar",
+    "score": 10
+  },
+  {
+    "id": "RKTHqiLhIq4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "mYtoSjIU4AQ",
+    "title": "Ingredients",
+    "score": 10
+  },
+  {
+    "id": "sJG4IbUkIJg",
+    "title": "Restaurant Style Chilli Chicken Recipe By Food Fusion",
+    "score": 10
+  },
+  {
+    "id": "ExgarkRkVtA",
+    "title": "CHICKEN BONELESS 500g",
+    "score": 10
+  },
+  {
+    "id": "UhSlMykeesQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0deIKYDHCM0",
+    "title": "Easy White Chicken Chili Recipe - I Cracked The Code On Flavor!",
+    "score": 10
+  },
+  {
+    "id": "IFdbEj3S48Y",
+    "title": "Chilli Chicken Recipe | Restaurant-Style Chilli Chicken Dry | Tasty Chinese Recipe | Cookd",
+    "score": 10
+  },
+  {
+    "id": "CWONtDyT16E",
+    "title": "Dried Red Chilli 6 nos",
+    "score": 10
+  },
+  {
+    "id": "fNdcB_t5xQo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_cGvLRsG_C4",
+    "title": "Easy White Chicken Chili (Stovetop Recipe)",
+    "score": 10
+  },
+  {
+    "id": "sBv83VQBSH4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wj4HL_EehKA",
+    "title": "starting off with some chicken thighs",
+    "score": 10
+  },
+  {
+    "id": "pMCS1TR4Wyo",
+    "title": "Chilli Chicken Recipe—Kolkata Restaurant Style Dry Chilli Chicken—Indo-Chinese Chicken Gravy Recipe",
+    "score": 10
+  },
+  {
+    "id": "6-IQrxibfiI",
+    "title": "vinegar 10g tomato ketchup 20g",
+    "score": 10
+  },
+  {
+    "id": "p2zFXpERHCY",
+    "title": "Easy White Chicken Chili! The Last Recipe You'll Ever Need!",
+    "score": 10
+  },
+  {
+    "id": "3vv3z_u6iG8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vpcCNUPHwLM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "p9iQzo8fQmo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6m-vIYoGTzA",
+    "title": "Sleep Token - Chokehold",
+    "score": 10
+  },
+  {
+    "id": "-UUSUrr6zyo",
+    "title": "CHOKEHOLD IS ILLEGAL! Seasons 1 \\u0026 8",
+    "score": 10
+  },
+  {
+    "id": "GiQlwmp910M",
+    "title": "Chokehold (Bluegrass Cover)",
+    "score": 10
+  },
+  {
+    "id": "S9uv8BzTPiY",
+    "title": "Chokehold's ILLEGAL - Scene Comparison | The Walking Dead",
+    "score": 10
+  },
+  {
+    "id": "xdf274ALIx4",
+    "title": "Trapped in her tight choke hold with nowhere to go #wrestling #fight #wwe #mma #ai #aiart",
+    "score": 10
+  },
+  {
+    "id": "BCU8ILTLfCk",
+    "title": "SOUP SEASON IS HERE 🍂🍁",
+    "score": 10
+  },
+  {
+    "id": "w8rAUoszB3Q",
+    "title": "ICE Meeting Cold Open - SNL",
+    "score": 10
+  },
+  {
+    "id": "B-OXZJXTYgg",
+    "title": "In Contempt of Court and Custody",
+    "score": 10
+  },
+  {
+    "id": "rk9zUdc-yCc",
+    "title": "Mom Confession - SNL",
+    "score": 10
+  },
+  {
+    "id": "-wQhY5CMMl4",
+    "title": "Sleep Token - Chokehold Vocal Cover",
+    "score": 10
+  },
+  {
+    "id": "VvS2q8ls3p4",
+    "title": "Top 7 Best Turkish Drama Starring Kivanc Tatlitug That You Must Watch",
+    "score": 10
+  },
+  {
+    "id": "-TW1j80qvdE",
+    "title": "Chokehold After Church",
+    "score": 10
+  },
+  {
+    "id": "mC5CLwj4hEM",
+    "title": "Super useful REAR NAKED CHOKE detail 👊 #brazilianjiujitsu #bjj #jiujitsu",
+    "score": 10
+  },
+  {
+    "id": "8MpFS5wvSAM",
+    "title": "Chokehold",
+    "score": 10
+  },
+  {
+    "id": "D3A9wFAIhac",
+    "title": "The One-Pot Meal That Made Me Famous",
+    "score": 10
+  },
+  {
+    "id": "v9x_Cc9afyI",
+    "title": "Sleep Token II - 01 - Chokehold - Paris Drums Show - 2025.10.26",
+    "score": 10
+  },
+  {
+    "id": "slo2Yb4POgg",
+    "title": "[EGxHC] Chokehold - More Than Ever - 1992 (Full EP)",
+    "score": 10
+  },
+  {
+    "id": "GWxwt_mYquM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "EColTNIbOko",
+    "title": "Forests from Above (No Sound) — 10 Hours Screensaver of 4K UHD Drone Aerials",
+    "score": 10
+  },
+  {
+    "id": "gdGyvGPZ1G0",
+    "title": "What is sound?",
+    "score": 10
+  },
+  {
+    "id": "fdVcvvJvUgA",
+    "title": "Rain Sounds For Sleeping - 99% Instantly Fall Asleep With Rain And Thunder Sound At Night, Relax#161",
+    "score": 10
+  },
+  {
+    "id": "MJNEOK-1fIU",
+    "title": "Colicky Baby Sleeps To This Magic Sound | White Noise 10 Hours | Soothe crying infant",
+    "score": 10
+  },
+  {
+    "id": "oewj_XEM1js",
+    "title": "The Visual Microphone: Passive Recovery of Sound from Video",
+    "score": 10
+  },
+  {
+    "id": "FKXOucXB4a8",
+    "title": "What is Sound? | Physics for Kids | SciShow Kids",
+    "score": 10
+  },
+  {
+    "id": "3-xKZKxXuu0",
+    "title": "How do we hear sound explain grade 2?",
+    "score": 10
+  },
+  {
+    "id": "D5ejEJNFjo4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gULyPx-F_Xs",
+    "title": "Example A vs. Example B",
+    "score": 10
+  },
+  {
+    "id": "KtzEa62KXBE",
+    "title": "(No Music) Oddly Satisfying Video With Original Sound #11 | Original Relaxing Videos for Deep Sleep",
+    "score": 10
+  },
+  {
+    "id": "Wcxw3BPSt3A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5rCT9ntCQNg",
+    "title": "3 Sound Design Secrets That Feel Like CHEATING",
+    "score": 10
+  },
+  {
+    "id": "tzfzkTAQsnE",
+    "title": "Why Sound Matters",
+    "score": 10
+  },
+  {
+    "id": "h8Q-jlHBcXM",
+    "title": "CAT",
+    "score": 10
+  },
+  {
+    "id": "tF_iOpytq4U",
+    "title": "Cham Cham 4K 60FPS UHD 5.1 Surround Sound : Baaghi : Tiger Shroff \\u0026 Shraddha Kapoor",
+    "score": 10
+  },
+  {
+    "id": "HJtT2-CqS3Q",
+    "title": "The biggest speaker in the world 🤯",
+    "score": 10
+  },
+  {
+    "id": "jEhkN93vNzs",
+    "title": "Baazigar O Baazigar - Full 4K HD 2160p VIdeo Song Dolby Digital Sound ( Baazigar 1993 )",
+    "score": 10
+  },
+  {
+    "id": "rO0gAw066is",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "GFicignvj3k",
+    "title": "Crockpot Chili Recipe - Award Winning Chili Recipe | Potluck Recipes | Cooking Up Love",
+    "score": 10
+  },
+  {
+    "id": "SK_uItFqt58",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MIixGetsEbA",
+    "title": "Easy Chili Recipe",
+    "score": 10
+  },
+  {
+    "id": "aIzHLGK9Fdw",
+    "title": "I FOUND THE BEST CHILI CHEESE RESTAURANT IN CINCINNATI",
+    "score": 10
+  },
+  {
+    "id": "YpsovpOGaoY",
+    "title": "Texas Red Chili - Bowl of Red",
+    "score": 10
+  },
+  {
+    "id": "G8dtfQNQt0w",
+    "title": "Spice - So Mi Like It | 10 | Official Audio",
+    "score": 10
+  },
+  {
+    "id": "TI0sq6WmpJA",
+    "title": "Stray Kids \\\"CHEESE\\\" Video",
+    "score": 10
+  },
+  {
+    "id": "YLtEc-kvOqA",
+    "title": "30min beef chilli 🌶️",
+    "score": 10
+  },
+  {
+    "id": "zOPLguIPEG4",
+    "title": "Super Bowl chili",
+    "score": 10
+  },
+  {
+    "id": "DciqT04G2fE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5Xht0EI2NaI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aBHQ4HnrxO4",
+    "title": "ANCIENT TREE IN CHILE CYPRUS COULD BE OLDEST LIVING THING ON EARTH PLANET SOS",
+    "score": 10
+  },
+  {
+    "id": "PXB3o9aMAZU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ejFp3i0jJF0",
+    "title": "We Found the BEST Canned Chili in This Taste Test",
+    "score": 10
+  },
+  {
+    "id": "ExThaCwykDU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0kT5w27YxyI",
+    "title": "I Found the Best Chili in Los Angeles",
+    "score": 10
+  },
+  {
+    "id": "0XcN12uVHeQ",
+    "title": "Chile's Fascinating Geography!",
+    "score": 10
+  },
+  {
+    "id": "gQjFMh_rE00",
+    "title": "The SHOCKING SECRET to great chili",
+    "score": 10
+  },
+  {
+    "id": "QwY7Gxgsitk",
+    "title": "RED CHILE SAUCE WITH GROUND BEEF: Made from Red Chile Powder/Easy, Delicious, and Versatile",
+    "score": 10
+  },
+  {
+    "id": "G1Xo-m4Wphs",
+    "title": "Chili Seasoning Blend",
+    "score": 10
+  },
+  {
+    "id": "6yO0Fb6uAaU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XHddqPzAK1g",
+    "title": "Guy Fieri's Texas Chili | Guy's Big Bite | Food Network",
+    "score": 10
+  },
+  {
+    "id": "KPjbOxViGVs",
+    "title": "Award Winning Chili Recipe",
+    "score": 10
+  },
+  {
+    "id": "Hp7_iQ47h44",
+    "title": "This CHILI Recipe won the World Championship and for a Good Reason",
+    "score": 10
+  },
+  {
+    "id": "XaVFuUZmpGw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "60T8h-DdnYg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "37AuG1NMKxQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "75Iu18YabeQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jx5mDefgDJ8",
+    "title": "I preserve fresh tomatoes in a jar for the winter! without fridge and chemistry!",
+    "score": 10
+  },
+  {
+    "id": "NvB-rb8Aka0",
+    "title": "This Way of Preserving Tomatoes is AMAZING",
+    "score": 10
+  },
+  {
+    "id": "7Og4oGWHPfE",
+    "title": "Excerpt from: 21 Days (The Movie)",
+    "score": 10
+  },
+  {
+    "id": "NcD8oQ8372k",
+    "title": "I preserve fresh tomatoes in a jar for the winter! without fridge and chemistry!",
+    "score": 10
+  },
+  {
+    "id": "8zyyzCfF48k",
+    "title": "Preserve Cherry Tomatoes: A Flavour Bomb to Enjoy All Year!",
+    "score": 10
+  },
+  {
+    "id": "vjK9XNAeXg4",
+    "title": "Preserve Tomatoes Fresh For 2 YEARS Thanks To This Old Farmer's Tip!|Clever Tricks",
+    "score": 10
+  },
+  {
+    "id": "NcC3cxlnJ0w",
+    "title": "You Should Freeze Tomatoes This Way, It Saves You Money And Tastes Better",
+    "score": 10
+  },
+  {
+    "id": "PYG4noqChTk",
+    "title": "Tomatoes Stay Fresh For Months With This Amazing Trick!",
+    "score": 10
+  },
+  {
+    "id": "5jIRI1kYN7U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "M24L1eaERhM",
+    "title": "packing them into jars with some seasonings",
+    "score": 10
+  },
+  {
+    "id": "qe3l1rvJMlA",
+    "title": "Cozy Rain Ambience in Cozy Wooden House in the forest with Rain falling on window and Crackling Fire",
+    "score": 10
+  },
+  {
+    "id": "JFMY5NxXDhw",
+    "title": "Rainy scene on the peaceful balcony - Eliminate stress, relax in the soothing forest rain",
+    "score": 10
+  },
+  {
+    "id": "ZOEYjlmn8mM",
+    "title": "Lakeside Porch Ambience 🍁 Rainy Evening And Crackling Fire For Sleep, Relax, Rest🔥",
+    "score": 10
+  },
+  {
+    "id": "oHKc8o5N36E",
+    "title": "10 Hours of Rain Sound Relaxation / Ultimate Stress Relief, Deep Sleep, Meditation, Yoga,...",
+    "score": 10
+  },
+  {
+    "id": "8plwv25NYRo",
+    "title": "Rainy Night on a Mountain Retreat with Crackling Fireplace \\u0026 Thunder for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "X9k1l5bKbT0",
+    "title": "The soothing sound of rain is the music played by nature, Helps relax and sleeping",
+    "score": 10
+  },
+  {
+    "id": "zF-__3RANT4",
+    "title": "Autumn Cozy Lake House Porch in Rainy Morning with Bonfire and Fall Ambience For Sleep",
+    "score": 10
+  },
+  {
+    "id": "C5XfSzBxSg0",
+    "title": "Rain On Window \\u0026 Thunder Sounds - Rainy Afternoon Forest - 8 Hours Relaxation \\u0026 Sleep | rain sounds",
+    "score": 10
+  },
+  {
+    "id": "zBPOjdWtPBc",
+    "title": "EXTREME Rain \\u0026 Thunder in Hidden House inside the Forest-Rain Sounds for Sleep",
+    "score": 10
+  },
+  {
+    "id": "qbtTgKNlD_k",
+    "title": "Cozy Bedroom With A Night View Of New York In Heavy Rain | Rain Sounds, Rain On Window",
+    "score": 10
+  },
+  {
+    "id": "xg1gNlxto2M",
+    "title": "Rain Sounds in a Dark Bedroom (No Ads) Relaxing Ambience for Deep Sleep, Focus, and Meditation",
+    "score": 10
+  },
+  {
+    "id": "mPZkdNFkNps",
+    "title": "【3M】Soothing Rain for Instant Sleep 🌧 | Relieve Stress and Insomnia Fast",
+    "score": 10
+  },
+  {
+    "id": "WGf7_q0fPXU",
+    "title": "8 hours of rain for deep sleep",
+    "score": 10
+  },
+  {
+    "id": "uQ-TWK1kW3c",
+    "title": "Sleep In This Multi Million Dollar Toronto Apartment \\u0026 Cozy Fireplace | Rain Sounds For Sleep | 4K",
+    "score": 10
+  },
+  {
+    "id": "-5_NiRTS2nE",
+    "title": "Peaceful Night Rainfall | Nature Forest Sounds for Sleep, Focus \\u0026 Meditation",
+    "score": 10
+  },
+  {
+    "id": "4Y4gTwjKm9c",
+    "title": "Thunderstorm with Lightning, Rain, Crackling Fireplace \\u0026 Sleeping Cats in a Cozy Cabin",
+    "score": 10
+  },
+  {
+    "id": "TQqJNoygVms",
+    "title": "Goodbye Insomnia with Heavy Rain \\u0026 Thunder Growls on a Stale Tin Roof in Foggy Murky Forest at Night",
+    "score": 10
+  },
+  {
+    "id": "OE4ROnG_hb4",
+    "title": "Gentle Night Rain 12 HOURS Rain Sounds for Sleeping - DARK SCREEN to Sleep Fast \\u0026 End Insomnia",
+    "score": 10
+  },
+  {
+    "id": "7JyE47-Ykjo",
+    "title": "Soft Thunder, Falling Rain \\u0026 a Fire's Whisper 🌧️ A Cinematic Ambience for the Soul | White Noise",
+    "score": 10
+  },
+  {
+    "id": "IUfA_J4eES0",
+    "title": "【2M】 SOFT RAIN Sound for Sleeping in Bedroom | Sleep and Relaxation, Meditation",
+    "score": 10
+  },
+  {
+    "id": "aUm_OogP1nM",
+    "title": "8 hours of rain for deep sleep",
+    "score": 10
+  },
+  {
+    "id": "lP4wSXSH9nM",
+    "title": "Dark Screen with Rain on Your Bedroom Window 😴 A Deep Sleep for Tomorrow Full of Energy!",
+    "score": 10
+  },
+  {
+    "id": "bPCCqJH7YWc",
+    "title": "Rain Sound in Forest ⛈️ Heavy Rain on Window for Fall Asleep in 3 Minutes | Soothing Rainy Day Vibes",
+    "score": 10
+  },
+  {
+    "id": "QHIyFIMu4uQ",
+    "title": "🎧 Soothing Gentle Rain in the Old Park at Night - 10 Hours for Relaxation and Sleep",
+    "score": 10
+  },
+  {
+    "id": "dR_3g5WCdHs",
+    "title": "The Sound of Rain for Sleep - Sleeping in a Million Dollar Apartment in NY -  Rain Sleep ASMR",
+    "score": 10
+  },
+  {
+    "id": "l5lfdSCrNAM",
+    "title": "Fireplace \\u0026 Rain Sounds in a Wooden Cabin | Night Ambience for Sleeping",
+    "score": 10
+  },
+  {
+    "id": "8vhbTdWqXgU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "1BvHet0AgSo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZR0O1wodxyE",
+    "title": "What causes lightning?",
+    "score": 10
+  },
+  {
+    "id": "cZNEHbpvpZY",
+    "title": "Introduction: Neil Getting Lightning Wrong",
+    "score": 10
+  },
+  {
+    "id": "JSeG8nchaNc",
+    "title": "Lightning strikes too close for comfort in Mount Ida, Arkansas, on March 31, 2023",
+    "score": 10
+  },
+  {
+    "id": "fEiVi9TB_RQ",
+    "title": "Is lightning a negative or positive charge?",
+    "score": 10
+  },
+  {
+    "id": "VBaoW8-FtoI",
+    "title": "What Happens If You're Struck By LIGHTNING? | Thunder \\u0026 Lightning | Dr Binocs Show | Peekaboo Kidz",
+    "score": 10
+  },
+  {
+    "id": "I_b1NLoY1mo",
+    "title": "What Happens When You're Struck By Lightning?",
+    "score": 10
+  },
+  {
+    "id": "7Cl0UtIyMIw",
+    "title": "What Happens If You Get Struck By Lightning? 😱",
+    "score": 10
+  },
+  {
+    "id": "AVdZ5WTPkU0",
+    "title": "CRAZY lightning storm over London! ⚡ Worth the 2000+ shots? #photography",
+    "score": 10
+  },
+  {
+    "id": "3z8WZfTn1XI",
+    "title": "Lightning Protection System",
+    "score": 10
+  },
+  {
+    "id": "jY-WNm3IxdY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PgkTGVVRkLU",
+    "title": "How Skyscrapers Survive Lightning 😨",
+    "score": 10
+  },
+  {
+    "id": "OuA7zNVkK90",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,2932 @@
-[]
+[
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון למתחילים בהחלט - סרטון 1",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "מדריך פייתון למתחילים בהחלט - מבוא",
+    "score": 110
+  },
+  {
+    "id": "zTj9MXbgruI",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "הילימוד - מערכת השמש | לימוד לילדים | ערוץ לילדים סקרנים",
+    "score": 110
+  },
+  {
+    "id": "-HXwFC2eBac",
+    "title": "הילימוד ברצף - מערכת השמש וכוכבי הלכת - מיוחד לילדים",
+    "score": 110
+  },
+  {
+    "id": "f3Xxg4FuKPM",
+    "title": "לאן מערכת השמש שלנו הולכת? (הסבר על המסע הגלקטי)",
+    "score": 110
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "איך להכין גבישי סוכר ענקיים?",
+    "score": 60
+  },
+  {
+    "id": "DrSw3N48onE",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "n09iGowWdLY",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "למה ללמוד פייתון? | 3  סיבות שהפכו את Python לשפה פופולרית",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "kdRCRK3QSO0",
+    "title": "כיצד נוצר כדור הארץ?",
+    "score": 60
+  },
+  {
+    "id": "L6nzniWbeCs",
+    "title": "כל מה שרציתם לדעת על השמש",
+    "score": 60
+  },
+  {
+    "id": "3FZhJvXQT6I",
+    "title": "התנועה המפתיעה של השמש לרוחב השמיים - גורדון וויליאמסון",
+    "score": 60
+  },
+  {
+    "id": "ykuCN0xX1U8",
+    "title": "פרופ' ראם סרי - מבנה מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "YX_3P0SUzP4",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "c-SBzakOHm0",
+    "title": "כוכבי לכת שונים | טלוויזיה לילדים | בדוק את זה! תסתכל על זה!Blippi Wonders *PLANETS*",
+    "score": 60
+  },
+  {
+    "id": "8zGGIW6Ssow",
+    "title": "מסע במערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "כוכב לכת כדור הארץ מערכת השמש חלל לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "מסלול כדור הארץ עונות השנה מסע במערכת השמש 27",
+    "score": 60
+  },
+  {
+    "id": "N0nGQDVlH-c",
+    "title": "כל מה שרציתם לדעת על כוכבי לכת חוץ-שמשיים",
+    "score": 60
+  },
+  {
+    "id": "ssAHq2Ryagw",
+    "title": "מערכת השמש",
+    "score": 60
+  },
+  {
+    "id": "FxBCf8uyZBs",
+    "title": "חידון חלל מערכת השמש גלקסיית שביל החלב כמה אתם מכירים את החלל?",
+    "score": 60
+  },
+  {
+    "id": "gnFEanFP-7I",
+    "title": "כוכבי לכת במערכת השמש לילדים | למדו על השמש ושמונת כוכבי הלכת",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "מנוע הקיטור של ג'יימס ואט",
+    "score": 60
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "שלוש דקות על... מהי מערכת Mild Hybrid?",
+    "score": 60
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "איך עובד מנוע של מטוס? הצצה מרתקת ללב הפועם של עולם התעופה",
+    "score": 60
+  },
+  {
+    "id": "kftw5wAeWEU",
+    "title": "How a Brushless Motor Works (animation) 720p - איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "hGIk1BhuB7Q",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך עובד מנוע?",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "ww4Ky5iaLZU",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "10mBKHspeJU",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "qHfLOoDH1VY",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "jsqZYmzbAcE",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "This UNDERRATED Oil Painting Technique Might Transform Your Colors - Oil Painting Tutorial",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "wtICBD0Ke_E",
+    "title": "A Crash Course on How to Oil Paint",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "How I Would Learn Python FAST (If I Could Start Over)",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "IfKlGhRc7Dc",
+    "title": "Python Syllabus | Python for Beginners | Complete Python Course #pythonlearning",
+    "score": 50
+  },
+  {
+    "id": "fuiJ-3CdU3Q",
+    "title": "Coolest New Technologies of 2026",
+    "score": 50
+  },
+  {
+    "id": "1v4QIHZKEl0",
+    "title": "20 Technologies Nobody Is Ready For",
+    "score": 50
+  },
+  {
+    "id": "1ZMCM3W5Veo",
+    "title": "2060: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "q4S19AZV99Y",
+    "title": "2050 Is Only 25 Years Away (20 Technologies)",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "Future Technology | 60 Minutes Marathon",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "2026 Will Be Ruled by These 20 New Tech Trends",
+    "score": 50
+  },
+  {
+    "id": "uUdDQSb5Jqo",
+    "title": "Top 15 New Technology Trends That Will Define 2026 [Part 2]",
+    "score": 50
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "Top 15 New Technology Trends That Will Define The Collapse of Entire Industries",
+    "score": 50
+  },
+  {
+    "id": "gXjUlez98MA",
+    "title": "The unhinged world of tech in 2026...",
+    "score": 50
+  },
+  {
+    "id": "EKOU3JWDNLI",
+    "title": "Top 10 Future Technologies In 2026 | High Paying Future Technology 2026 | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "CbOmgCF8KCE",
+    "title": "Future City 3000: The Age of Future Tech | Sci-fi AI Short Film (4K)",
+    "score": 50
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "20 Technologies You'll Use by 2030",
+    "score": 50
+  },
+  {
+    "id": "b0HfmY64eSE",
+    "title": "15 Technologies From 2070 That Seem Like Sci-Fi",
+    "score": 50
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "Coolest New Technologies of 2025",
+    "score": 50
+  },
+  {
+    "id": "yf4UxBD5LrI",
+    "title": "2060: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "RDa3HizIO9w",
+    "title": "The Most Futuristic Tech Of 2025.....",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "guhgcnqstck",
+    "title": "2,000 hectare biodiversity restoration project in Dublin Mountains",
+    "score": 50
+  },
+  {
+    "id": "Gtj6t_6EXww",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "z33S4k6PzPk",
+    "title": "How to fix a sagging door. #diy #renovation #homeimprovement #construction #homeupdates #diytool",
+    "score": 50
+  },
+  {
+    "id": "g_Aqq5jnDDg",
+    "title": "Short Story | Petite Clothing Try-On Haul \\u0026 Review (NOT sponsored)",
+    "score": 50
+  },
+  {
+    "id": "pExEwUgZnqw",
+    "title": "How Carhartt Helped Build a Cult Following Around Workwear | WSJ The Economics Of",
+    "score": 50
+  },
+  {
+    "id": "TUj1jfGnR9s",
+    "title": "Petite Clothing Sub Box// \\\"Short Story\\\" Honest Review",
+    "score": 50
+  },
+  {
+    "id": "HIR_uNsWoKU",
+    "title": "The Sleepy Story of What We Wear: The History of Clothing",
+    "score": 50
+  },
+  {
+    "id": "ofQnDtsWvL0",
+    "title": "The (ancient) History of Modern Fashion Trends",
+    "score": 50
+  },
+  {
+    "id": "ST1jSUkclic",
+    "title": "FALL FASHION 2025: How to Look Polished \\u0026 Stylish All Season Long.🍂",
+    "score": 50
+  },
+  {
+    "id": "zaYJaqeaXmc",
+    "title": "the ULTIMATE 2026 THRIFTING GUIDE! *how to ACTUALLY find the good stuff*",
+    "score": 50
+  },
+  {
+    "id": "dPQPil53Hck",
+    "title": "How to design a stylish dress 👗 at home #designer #fashion #viral",
+    "score": 50
+  },
+  {
+    "id": "C3bm-iZoLyM",
+    "title": "Aesthetic drawing of dresses that you can make ♡︎~",
+    "score": 50
+  },
+  {
+    "id": "1Ruw0L_h2Rk",
+    "title": "Dress drawing// Drawing tutorial. #tutorial #drawing  #fashion",
+    "score": 50
+  },
+  {
+    "id": "6jY_CeflZBo",
+    "title": "How to Draw a Dress Form ✨ Fashion Illustration Tutorial",
+    "score": 50
+  },
+  {
+    "id": "44407jxiY4w",
+    "title": "How to draw a dress form",
+    "score": 50
+  },
+  {
+    "id": "AnZxeX_8mVk",
+    "title": "Review",
+    "score": 50
+  },
+  {
+    "id": "-Xrs09kihwk",
+    "title": "math and science",
+    "score": 50
+  },
+  {
+    "id": "0q56YKtT0a0",
+    "title": "We all know which subject is the BEST 👌🏼 #subject #favorite #school #airball #history #math",
+    "score": 50
+  },
+  {
+    "id": "KlwurFN3t1g",
+    "title": "Top  20 New Technology Trends That Will Define The Future",
+    "score": 50
+  },
+  {
+    "id": "JaZA1XAnwDE",
+    "title": "These Fashion Trends Will Be Everywhere In 2026 - Here's How To Wear Them On Any Budget!",
+    "score": 50
+  },
+  {
+    "id": "0MF8l4Pvk4E",
+    "title": "2026 COLOR TRENDS YOU NEED TO KNOW NOW + HOW TO WEAR THEM ELEGANTLY",
+    "score": 50
+  },
+  {
+    "id": "33JHuX8Qgmk",
+    "title": "How to style the pink palm puff hoodie (pink version) #fypシ゚viral #fashionideas ​⁠@pinkpalmpuff",
+    "score": 50
+  },
+  {
+    "id": "glxHRPiCrsc",
+    "title": "How to Make CLOTHES for BARBIE Doll | Barbie Clothes Ideas",
+    "score": 50
+  },
+  {
+    "id": "soKKq7N2SgI",
+    "title": "Pink Palm Puff should make these!! 🩷✨🌴@pinkpalmpuff #viralvideo #preppy #pinkpalmpuffhoodie #fyp",
+    "score": 50
+  },
+  {
+    "id": "7J78jjWf-cQ",
+    "title": "'Doesn’t Have A Single Redeeming Quality': Critics Tear Into 'Melania' Documentary",
+    "score": 50
+  },
+  {
+    "id": "mB-exHV_WJY",
+    "title": "Melania Trump ROCKED As Documentary Crew Members Spill Disastrous Film Details",
+    "score": 50
+  },
+  {
+    "id": "oVZfS_bIaOo",
+    "title": "Melania Trump's Documentary Premieres Worldwide",
+    "score": 50
+  },
+  {
+    "id": "640fA_6vYlY",
+    "title": "Honest Review of MELANIA film, hard to find in Democrat California.",
+    "score": 50
+  },
+  {
+    "id": "KlfhSDE5uxk",
+    "title": "things @pinkpalmpuff should make according to my subs!",
+    "score": 50
+  },
+  {
+    "id": "zzb9vN3KxnM",
+    "title": "How to style your pink palm puff hoodie! #pinkpalmpuff #ppp #pinkpalmpuff5k ​⁠@pinkpalmpuff",
+    "score": 50
+  },
+  {
+    "id": "BEFs_4ktSTQ",
+    "title": "Build your outfit #preppy #ootdguide #fashionideas #fashion #dressootd #fashioninspiration",
+    "score": 50
+  },
+  {
+    "id": "HZU9DVkWNW4",
+    "title": "How to filter searches on the YouTube iOS app",
+    "score": 50
+  },
+  {
+    "id": "F_vcQrNWAxo",
+    "title": "how to make ur BORING clothes CUTE ☆diy Pinterest closet☆",
+    "score": 50
+  },
+  {
+    "id": "i7VnK_JD1LM",
+    "title": "Outfit inspo!! (Plz like this took forever to make😫) #ootd #outfitideas #schooloutfits #outfit",
+    "score": 50
+  },
+  {
+    "id": "djHf5sVIXuc",
+    "title": "things @pinkpalmpuff should make according to my subs!",
+    "score": 50
+  },
+  {
+    "id": "-_ztrvZSmr0",
+    "title": "Most Beautiful Cities in the World to Visit in 2025 | 4K Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "MCjkIbTEhHQ",
+    "title": "50 Best Places to Visit in Europe - Travel Guide",
+    "score": 50
+  },
+  {
+    "id": "lVK12JbPhzA",
+    "title": "Shopping in Bangkok's Largest \\u0026 Cheapest Market - 17 Things You Need to Know (Complete Guide)",
+    "score": 50
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "1.Double-end grains joint",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "10 Essential Woodworking Joints You Need to Know - The Best Joints of the Week",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "EXTREME SIMPLE Traditional Japanese Wood Joinery - Hand Cut Three-Way Wood Joints Structure",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "What Pros Know About Butt Joints That Beginners Don't.",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "The Joinery Trick No One Teaches. #carpentry #diy #woodwork #wood #woodworking #tips #diywoodworking",
+    "score": 10
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "21 Wood Joinery with Tool Hacks | Japanese Woodworking",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "22 Wood Joints Made with Hand Tools",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "MOB3DyZp1yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B1A3aiEHIzk",
+    "title": "Glue and Nails",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ls9uvkk5y5o",
+    "title": "the ULTIMATE summer hoodie 😍 @kiaracorrina on tt :) #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "Earth, Planets and Sun Size Comparison - 3D",
+    "score": 10
+  },
+  {
+    "id": "e8YzKyot4Pc",
+    "title": "Introduction to our solar system",
+    "score": 10
+  },
+  {
+    "id": "p1LSaFla_B0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gqK3dCpwzxE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "o1ED4FQjDGk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3zRIndR9j40",
+    "title": "Combustion Cycle",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "The Only Video You'll Ever Need to Watch to Know how 4 Stroke and 2 Stroke Engines Work and Differ",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NZLbTuBDhJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "9mhYnQGZJuM",
+    "title": "What Is Steam Engine",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "u4ji0As0nQQ",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "KjiUUJdPGX0",
+    "title": "COMBUSTION CHAMBER",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "jNTxXYrYtxc",
+    "title": "My 10 Best Oil Painting TIPS To Instantly Improve Your Paintings",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Gx5qb1uHss4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wUSDVGivd-8",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "WCM65ION4nE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "How Smart Can AI Actually Get?",
+    "score": 10
+  },
+  {
+    "id": "XyZ83EEjXxU",
+    "title": "The AI Takeover Starts in 2026",
+    "score": 10
+  },
+  {
+    "id": "tMr5JSZP9cw",
+    "title": "130 Ways AI Will Change Your Life",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "AI: The Next 10,000+ Years",
+    "score": 10
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "Type 7 Civilizations Are Terrifying",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "L76f4cSjzS0",
+    "title": "5 Years That Will Change AI Forever",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4Ur_Mdg4SzQ",
+    "title": "Magnetic Thrusters vs Traditional Engines: The Future is Here",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Oa9aWdcCC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "T-F-vVNVQ50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gkklrVa8amY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "P83NvUb4u4E",
+    "title": "Day 12\"},{\"text\":\"#melaniemartinez\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMACENbKAxgJIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/melaniemartinez\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUTCg9tZWxhbmllbWFydGluZXoYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CMACENbKAxgJIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#pinkpalmpuffhoodie\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CL8CENbKAxgLIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinkpalmpuffhoodie\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChJwaW5rcGFsbXB1ZmZob29kaWUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CL8CENbKAxgLIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#fypシ゚\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CL4CENbKAxgNIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/fyp%E3%82%B7%E3%82%9A\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUNCglmeXDjgrfjgpoYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CL4CENbKAxgNIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#good4u\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CL0CENbKAxgPIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/good4u\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZnb29kNHUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CL0CENbKAxgPIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#oliviarodrigo\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLwCENbKAxgRIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/oliviarodrigo\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gURCg1vbGl2aWFyb2RyaWdvGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLwCENbKAxgRIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#singer\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLsCENbKAxgTIhMIwe_T8qK7kgMVlFpCBx002DcCygEEGGitwQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/singer\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZzaW5nZXIYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLsCENbKAxgTIhMIwe_T8qK7kgMVlFpCBx002DcC\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"10 views\"},\"shortViewCount\":{\"simpleText\":\"10 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "e7CbYSXuRUE",
+    "title": "5 Most Epic Earth Healing Projects!",
+    "score": 10
+  },
+  {
+    "id": "Tpozw1CAxmU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Utofs0oW3Qc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TzDhdvVg9_c",
+    "title": "Bored \"},{\"text\":\"@Sage the Bartender\"},{\"text\":\" \"},{\"text\":\"‪@MelanieMartinez‬\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMICELL3BBgLIhMIg7nM8qK7kgMVp1RCBx3JKRFdygEEd0Oi-Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/@MelanieMartinez\",\"webPageType\":\"WEB_PAGE_TYPE_CHANNEL\",\"rootVe\":3611,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"UC2YnEq5Fc5_zEO6bo0oNzCQ\",\"canonicalBaseUrl\":\"/@MelanieMartinez\"}},\"loggingDirectives\":{\"trackingParams\":\"CMICELL3BBgLIhMIg7nM8qK7kgMVp1RCBx3JKRFd\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#soldejaneiro\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMECENbKAxgNIhMIg7nM8qK7kgMVp1RCBx3JKRFdygEEd0Oi-Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/soldejaneiro\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUQCgxzb2xkZWphbmVpcm8YAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CMECENbKAxgNIhMIg7nM8qK7kgMVp1RCBx3JKRFd\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#pinkpalmpuffhoodie\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMACENbKAxgPIhMIg7nM8qK7kgMVp1RCBx3JKRFdygEEd0Oi-Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinkpalmpuffhoodie\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChJwaW5rcGFsbXB1ZmZob29kaWUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CMACENbKAxgPIhMIg7nM8qK7kgMVp1RCBx3JKRFd\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"4 views\"},\"shortViewCount\":{\"simpleText\":\"4 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "Top 6 Tools for any DIY Home Renovation",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YxbkoTlwjz8",
+    "title": "25 bizarre home hacks that work like magic!",
+    "score": 10
+  },
+  {
+    "id": "jiKM5tCymGM",
+    "title": "This $1 Fix Saves Thousands in Water Damage",
+    "score": 10
+  },
+  {
+    "id": "HOsddz2Ubd4",
+    "title": "Don't Miss This Crucial Step When Drywalling",
+    "score": 10
+  },
+  {
+    "id": "e7WhxWJ0yOs",
+    "title": "hii \"},{\"text\":\"#pinkpalmpuffhoodie\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLgCENbKAxgJIhMI1OT78qK7kgMV3uCUCR3ogivGygEEQJSM1Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinkpalmpuffhoodie\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChJwaW5rcGFsbXB1ZmZob29kaWUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLgCENbKAxgJIhMI1OT78qK7kgMV3uCUCR3ogivG\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#melaniemartinez\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLcCENbKAxgLIhMI1OT78qK7kgMV3uCUCR3ogivGygEEQJSM1Q==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/melaniemartinez\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUTCg9tZWxhbmllbWFydGluZXoYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLcCENbKAxgLIhMI1OT78qK7kgMV3uCUCR3ogivG\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"54 views\"},\"shortViewCount\":{\"simpleText\":\"54 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "cHoucHwc8sY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "s4HKGupZpQM",
+    "title": "#pinkpalmpuffhoodie\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLkCENbKAxgIIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinkpalmpuffhoodie\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChJwaW5rcGFsbXB1ZmZob29kaWUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLkCENbKAxgIIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#melanienewvibes\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLgCENbKAxgKIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/melanienewvibes\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUTCg9tZWxhbmllbmV3dmliZXMYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLgCENbKAxgKIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#dance\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLcCENbKAxgMIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/dance\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUJCgVkYW5jZRgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLcCENbKAxgMIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#concert\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLYCENbKAxgOIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/concert\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gULCgdjb25jZXJ0GAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLYCENbKAxgOIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#24september\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLUCENbKAxgQIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/24september\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgsyNHNlcHRlbWJlchgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLUCENbKAxgQIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"‪@MelanieMartinez‬\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLQCELL3BBgSIhMIrIrT8qK7kgMVL7wrBh2E-yNIygEEqSsdJg==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/@MelanieMartinez\",\"webPageType\":\"WEB_PAGE_TYPE_CHANNEL\",\"rootVe\":3611,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"UC2YnEq5Fc5_zEO6bo0oNzCQ\",\"canonicalBaseUrl\":\"/@MelanieMartinez\"}},\"loggingDirectives\":{\"trackingParams\":\"CLQCELL3BBgSIhMIrIrT8qK7kgMVL7wrBh2E-yNI\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"176 views\"},\"shortViewCount\":{\"simpleText\":\"176 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "oPfeDei6_Oc",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "kNdLgG4JoXo",
+    "title": "Melanie Martinez - Play Date [Official Lyric Video]",
+    "score": 10
+  },
+  {
+    "id": "Sx-3PmGwUog",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "MK2-dk_Iwek",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "sLdf4UlG9RQ",
+    "title": "Cmon guys!! 5k here i come!! \"},{\"text\":\"#pinkpalmpuffhoodie\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLICENbKAxgHIhMI3obT8qK7kgMVh4KuBR3hahjLygEEYjdHzA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/pinkpalmpuffhoodie\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUWChJwaW5rcGFsbXB1ZmZob29kaWUYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLICENbKAxgHIhMI3obT8qK7kgMVh4KuBR3hahjL\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#melaniemartinezsongs\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLECENbKAxgJIhMI3obT8qK7kgMVh4KuBR3hahjLygEEYjdHzA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/melaniemartinezsongs\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUYChRtZWxhbmllbWFydGluZXpzb25ncxgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLECENbKAxgJIhMI3obT8qK7kgMVh4KuBR3hahjL\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"‪@pinkpalmpuff‬\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLACELL3BBgLIhMI3obT8qK7kgMVh4KuBR3hahjLygEEYjdHzA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/@pinkpalmpuff\",\"webPageType\":\"WEB_PAGE_TYPE_CHANNEL\",\"rootVe\":3611,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"UCkixMpaqKB1EaO5PHLO5big\",\"canonicalBaseUrl\":\"/@pinkpalmpuff\"}},\"loggingDirectives\":{\"trackingParams\":\"CLACELL3BBgLIhMI3obT8qK7kgMVh4KuBR3hahjL\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"483 views\"},\"shortViewCount\":{\"simpleText\":\"483 views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "bU0Ttmmi_nQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "pT3Sq62u60E",
+    "title": "Inside KATSEYE’s Grammys Looks | Vogue",
+    "score": 10
+  },
+  {
+    "id": "1YUBbF24H44",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "gfGmzgUdizs",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "ijnTVc-Lg0w",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "J10bENQv6qE",
+    "title": "The Story Of Palace Skateboards And Clothing : British Supreme Or No?",
+    "score": 10
+  },
+  {
+    "id": "_T8jp6jmUz0",
+    "title": "Froggy gets dressed - Read aloud story time",
+    "score": 10
+  },
+  {
+    "id": "oxJUSIGxNlA",
+    "title": "Carhartt’s popularity",
+    "score": 10
+  },
+  {
+    "id": "BvfdDLOZYuw",
+    "title": "Launching My Second Brand",
+    "score": 10
+  },
+  {
+    "id": "Dg3SFeo1w6A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "UAIaCCY-N2o",
+    "title": "Unit 17 Store - Story 3: \\\"Clothes Shopping\\\" by Alyssa Liang",
+    "score": 10
+  },
+  {
+    "id": "pB0eH_8REWU",
+    "title": "Activities",
+    "score": 10
+  },
+  {
+    "id": "Yz4wGzWl6qI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "g5VTZnhX5WU",
+    "title": "I Tried the Short Story Clothing Box | Try-On, Prices \\u0026 What I Kept (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "Ti411u8lnpc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_PAVDJ8eFoE",
+    "title": "5 Years of Clothing Brand Advice in 40 Minutes",
+    "score": 10
+  },
+  {
+    "id": "6i34VWyiiUU",
+    "title": "What Are You Wearing? | Clothes Songs and Stories | Names of Clothes | Kindergarten",
+    "score": 10
+  },
+  {
+    "id": "m94Oo5TDWCE",
+    "title": "Blue shirt, blue shirt",
+    "score": 10
+  },
+  {
+    "id": "RjJsUrIgYDQ",
+    "title": "First Look",
+    "score": 10
+  },
+  {
+    "id": "druGnkU1yBI",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "ZC38jekCaB8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KoTnLWssB9Y",
+    "title": "Street Fashion Walk ✨ | Turning Heads with Every Step! #fashion #ootd",
+    "score": 10
+  },
+  {
+    "id": "9w_eepvtwIY",
+    "title": "YOU Need to STOP WEARING These 13 Fashion Trends in 2026",
+    "score": 10
+  },
+  {
+    "id": "wSKA7dNl-ys",
+    "title": "15 Best *WEARABLE* Fashion Trends of 2026!",
+    "score": 10
+  },
+  {
+    "id": "uc6U9F-mlNQ",
+    "title": "10 Casual Styles Every Man Over 40 Should Master | 40+ Men's Fashion",
+    "score": 10
+  },
+  {
+    "id": "i6ngcOOyP5Y",
+    "title": "Opening: Why Casual Style After 40 Feels So Confusing",
+    "score": 10
+  },
+  {
+    "id": "Hm28zzl7ujQ",
+    "title": "The Wearable Fashion Trends for 2026 I'd Actually Wear!",
+    "score": 10
+  },
+  {
+    "id": "DvARV136LO8",
+    "title": "Top 10 Fashion Trends for 2026 | Fashion is Changing... Here's what to know",
+    "score": 10
+  },
+  {
+    "id": "oUyLjAuQYNc",
+    "title": "Surprising Benefits of Wearing Historical Fashion Every Day",
+    "score": 10
+  },
+  {
+    "id": "mKBDvST_idg",
+    "title": "👗 8 Must-Have Tops Every Girl Needs in 2025  Fashion Essentials 🎀✨",
+    "score": 10
+  },
+  {
+    "id": "nRmsX685pQY",
+    "title": "Old is New",
+    "score": 10
+  },
+  {
+    "id": "tIvJSrC84u4",
+    "title": "THE TOP FASHION \\u0026 STYLE TRENDS for 2026 - What to wear in 2026 / Easy wearable womens fashion trends",
+    "score": 10
+  },
+  {
+    "id": "6TPAmM6h8BU",
+    "title": "This trend but 2024 fashion for each age",
+    "score": 10
+  },
+  {
+    "id": "LiD1Tb_UHxY",
+    "title": "RIP early 2020's: here's every fashion trend you forgot about (2020's recap)",
+    "score": 10
+  },
+  {
+    "id": "NFNA_WqPy8s",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "eie2EvcmxKw",
+    "title": "Every single thing I wore during Paris fashion week. The good the bad and the mid",
+    "score": 10
+  },
+  {
+    "id": "-gg4fkFASJg",
+    "title": "THE SPRING FASHION TREND WE LOVE TO LOATHE, BUT THERE'S A TWIST FOR 2026!",
+    "score": 10
+  },
+  {
+    "id": "XZSzRzovDqc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0EQ-NNM8l64",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "pD8j0O4ikp4",
+    "title": "THRIFTING ROM COM OUTFITS (bc they have better style than me)",
+    "score": 10
+  },
+  {
+    "id": "nmnobWRentI",
+    "title": "a VERY GIRLY thrift with me 🎀 *thrifting all things lace, ruffles, pinks and bows!*",
+    "score": 10
+  },
+  {
+    "id": "-pmEQy2zn84",
+    "title": "My BEST THRIFT Haul EVER! Piles of Vintage Clothes Found! Trip to the Thrift",
+    "score": 10
+  },
+  {
+    "id": "eRAbM6-vBes",
+    "title": "thrift with me!! pinterest inspired fall wardrobe ⊹₊ ⋆ ☕🍂🧸⊹₊ ⋆",
+    "score": 10
+  },
+  {
+    "id": "1iyPcPiwG_U",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "hUvfWhQmEMY",
+    "title": "i thrifted the biggest 2026 fashion trends 🛒 (insane finds!!) my COOLEST thrift haul yet",
+    "score": 10
+  },
+  {
+    "id": "tx3eVDbtN_U",
+    "title": "sooo many 2026 fashion trends to thrift for!",
+    "score": 10
+  },
+  {
+    "id": "I4eW8km_qe4",
+    "title": "i just want her to slay platform boots ONCE #thrifting",
+    "score": 10
+  },
+  {
+    "id": "qNzyM1to0aQ",
+    "title": "I'm BACK AT THE BINS! Shop the Goodwill \\\"Bins\\\" with me! Thrifting for resale!",
+    "score": 10
+  },
+  {
+    "id": "dENpBQtlhGI",
+    "title": "COME THRIFT WITH ME FOR 2026 FASHION TRENDS",
+    "score": 10
+  },
+  {
+    "id": "7faJ9g2_BOU",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "uTO7DnqvclA",
+    "title": "Hit the thrifting JACKPOT today 🤯 #thrifted #thrift #thrifting #thriftwithme",
+    "score": 10
+  },
+  {
+    "id": "LSJJUx6Ug_Q",
+    "title": "THRIFT WITH ME: No budget! Buying whatever I want! 🫣 (CAN'T BELIEVE I FOUND THIS!!!)",
+    "score": 10
+  },
+  {
+    "id": "RPI5fpW1NdA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "chIMZmw_h1o",
+    "title": "THRIFT WITH ME for FALL OUTFITS on a $100 Budget *im actually shocked…* ",
+    "score": 10
+  },
+  {
+    "id": "C_61InB0hYY",
+    "title": "THRIFTING lots of CARHARTT and MORE VINTAGE CLOTHING - Trip To The Thrift #thrift",
+    "score": 10
+  },
+  {
+    "id": "h4YsSQJl2Zg",
+    "title": "More than 20 ideas to alter, customize, and upcycle your clothes (instead of shopping)",
+    "score": 10
+  },
+  {
+    "id": "omMrVGcWa8Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yHC00QC1HNw",
+    "title": "Making a corset 3D butterflies dusty pink midi dress #dress #fashion #hautecouture  #sewing #prom",
+    "score": 10
+  },
+  {
+    "id": "RsSfun-zxOg",
+    "title": "Made My First Red Prom Dress #fashion #design #sewing",
+    "score": 10
+  },
+  {
+    "id": "aeRe2ScRiNA",
+    "title": "Making a burgundy prom dress with slit #fashion #sewing #promdress #dress #prom #weddingguestdress",
+    "score": 10
+  },
+  {
+    "id": "sh2TZ4QO9Uo",
+    "title": "\\\"Top 100 Mother of the Bride Dresses for 2025 – Elegant \\u0026 Stylish Picks in the USA!\\\"",
+    "score": 10
+  },
+  {
+    "id": "CXxNTmwkhhY",
+    "title": "Dresses to Wear for Prom #promseason #promdresses #promdressideas #promdress",
+    "score": 10
+  },
+  {
+    "id": "QFdi95YTDys",
+    "title": "INSPIRATION",
+    "score": 10
+  },
+  {
+    "id": "zbbNSobSbQY",
+    "title": "Hand embroidery gown making #manufacturing #dress #fashion #handembroided #embrioderywork",
+    "score": 10
+  },
+  {
+    "id": "p5owT7YJVjE",
+    "title": "Mizo sunday dress design || sunday dress mizo design simple || mizo latest tops design ",
+    "score": 10
+  },
+  {
+    "id": "HzMnyhtOr_E",
+    "title": "top ten dresses of 2024😚",
+    "score": 10
+  },
+  {
+    "id": "F5PC1XQQRvc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nnQu3pjojGc",
+    "title": "“ SUMMER SCHOOL “ Favorite Student😁 Ep.3 | Theemyanicole",
+    "score": 10
+  },
+  {
+    "id": "8kGI5ictFIg",
+    "title": "“ BACK TO SCHOOL “ I Let My FAVORITE STUDENT Be TEACHER😱👀 S2 Ep.1 | Theemyanicole",
+    "score": 10
+  },
+  {
+    "id": "gujIvYzYpGY",
+    "title": "The 7 Levels Of School Popularity",
+    "score": 10
+  },
+  {
+    "id": "sZKqH8ddifQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3x7bClfeOw0",
+    "title": "Massive mob overwhelms school's favorite police officer!",
+    "score": 10
+  },
+  {
+    "id": "T1uAp69IJnk",
+    "title": "Old-school favorite chocolate milk may come off the menu at public schools",
+    "score": 10
+  },
+  {
+    "id": "hUWIjhkT8Ps",
+    "title": "School Subjects (favorite subject) - Kids vocabulary - English educational video",
+    "score": 10
+  },
+  {
+    "id": "2RnUDd_1Yfc",
+    "title": "No Favorites! #teacher #teachers #teacherlife #school #student #favorite #fyp #youtube #yt #fyi",
+    "score": 10
+  },
+  {
+    "id": "fR8Vv5y-ToI",
+    "title": "TOP BEST Homeschool curriculum Language Arts MIDDLE SCHOOL Favorite Secular, Christian, Eclectic",
+    "score": 10
+  },
+  {
+    "id": "cZt1wl36oTM",
+    "title": "School Subjects Song | What's Your Favorite Class?",
+    "score": 10
+  },
+  {
+    "id": "DPJt-Fh3iiY",
+    "title": "School Subjects in English | What’s your favorite subject? | Beginner English for Kids",
+    "score": 10
+  },
+  {
+    "id": "TjaCSfq-ESs",
+    "title": "Hello!",
+    "score": 10
+  },
+  {
+    "id": "wZiIOuOR5VY",
+    "title": "I might not be the school favorite anymore. #dunk #principal #stixicehouse #school #favorite",
+    "score": 10
+  },
+  {
+    "id": "IcOLL4moxqo",
+    "title": "Students Draw Their Teacher Part 2 #teacher #school #student #art",
+    "score": 10
+  },
+  {
+    "id": "jKP7F0djzng",
+    "title": "VeggieTales: 25 Favorite Sunday School Songs",
+    "score": 10
+  },
+  {
+    "id": "vpmvYXmKZhg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "THOKP9GZTz8",
+    "title": "These 7 HANDBAG TRENDS Will Be EVERYWHERE in 2026 👀 (what to style IRL this year!)",
+    "score": 10
+  },
+  {
+    "id": "F33e5dG5_3w",
+    "title": "These Design Trends Will Be EVERYWHERE in 2026 (Top 7 Graphic Design Trends)",
+    "score": 10
+  },
+  {
+    "id": "n9cnZoSr35o",
+    "title": "Top 6 AI Trends That Will Define 2026 (backed by data)",
+    "score": 10
+  },
+  {
+    "id": "B23W1gRT9eY",
+    "title": "Top 6 AI Trends That Will Define 2026",
+    "score": 10
+  },
+  {
+    "id": "gOG36SjLCFA",
+    "title": "YOU Need to STOP WEARING These 13 Fashion Trends in 2026",
+    "score": 10
+  },
+  {
+    "id": "9kKUfWoz88c",
+    "title": "Brining You Up To Speed",
+    "score": 10
+  },
+  {
+    "id": "vQULrKs_szM",
+    "title": "2026 FASHION TRENDS! *It's the end of an ERA!*",
+    "score": 10
+  },
+  {
+    "id": "0gQUZqkaNg4",
+    "title": "ITALY'S BIG FEBRUARY TRENDS 🇮🇹 MILAN FASHION INSPIRED BY TIMELESS WINTER OUTFITS | CHICEST SHOPPING",
+    "score": 10
+  },
+  {
+    "id": "eozNbyJC8bc",
+    "title": "Wearable Fashion Trends 2026",
+    "score": 10
+  },
+  {
+    "id": "mjdvnHGhxc8",
+    "title": "Trends that will DOMINATE Streetwear is 2026!",
+    "score": 10
+  },
+  {
+    "id": "s2A1IKqEnOw",
+    "title": "2026 Fashion Is HERE: Trends That Will Change Everything",
+    "score": 10
+  },
+  {
+    "id": "ZP9ki_8-ZvE",
+    "title": "10 Wearable Fashion Trends That Will Be Huge in 2026!",
+    "score": 10
+  },
+  {
+    "id": "-9iDW7Zgv1Q",
+    "title": "5 trends that will define 2026",
+    "score": 10
+  },
+  {
+    "id": "zRrg1mgZMls",
+    "title": "Top 10 Fashion Trends for 2026 | Fashion is Changing... Here’s What to Know",
+    "score": 10
+  },
+  {
+    "id": "qCEeKlGYfJ0",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "N2_xbZXAC50",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Tr7kVdxDvKM",
+    "title": "unboxing my pink palm puff hoodie!🌺🌴🌊☀️ @pinkpalmpuff #ppphoodie #unboxing #music #ppp #fypp",
+    "score": 10
+  },
+  {
+    "id": "XYjF0aaHlgg",
+    "title": "WHO WOULDNT WANT A CLOSET FULL OF PINKPALMPUFF 😍@pinkpalmpuff #fyp #pinkpalmpuff #hoodies #short",
+    "score": 10
+  },
+  {
+    "id": "AkFFN6XxgyI",
+    "title": "Unbox my pink palm puff with me!!🌴❤️(early birthday present)🎁 #pinkpalmpuffhoodie @pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "vO_IV_tiSHU",
+    "title": "WHO GOT EMBREIGH’S HOODIE BEFORE IT SOLD OUT?! #pinkpalmpuff #pppfamily",
+    "score": 10
+  },
+  {
+    "id": "zRIW1rW7c6M",
+    "title": "I Bought FAKE Pink Palm Puff",
+    "score": 10
+  },
+  {
+    "id": "X3Jl29WcIU8",
+    "title": "Pink Palm Puff Hoodie Dupe #budget #aliexpress #dupes #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "59bFZBWp1K4",
+    "title": "I Bought FAKE Pink Palm Puff",
+    "score": 10
+  },
+  {
+    "id": "C7N5FxeO0Hw",
+    "title": "HOODIE COLLECTION 2024 (Pinkpalmpuff, Dandy + more!)",
+    "score": 10
+  },
+  {
+    "id": "yh13jvtNX6c",
+    "title": "Melanie Martinez - Sippy Cup (pill diet pill diet) | Lyrics",
+    "score": 10
+  },
+  {
+    "id": "CLLZ6Gw49pw",
+    "title": "TEf Camp Show Drill Team Angels-vsDevils",
+    "score": 10
+  },
+  {
+    "id": "nnBNrVItdpk",
+    "title": "I got a PINK PALM PUFF hoodie!!",
+    "score": 10
+  },
+  {
+    "id": "weLkM0yMHu8",
+    "title": "YouTubers that got the Pink Palm Puff hoodie #viral #youtuber #pinkpalmpuffhoodie ​⁠ @pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "B_IV598TIU8",
+    "title": "pls get this to 5k likes so i can get one! #pinkpalmpuffhoodie @pinkpalmpuff #pinkpalmpuff #5k",
+    "score": 10
+  },
+  {
+    "id": "oETz9GLLnA8",
+    "title": "@pinkpalmpuff I want the new Classic Puff Hoodie!💗❤️💗 #pinkpalmpuffhoodie #classicpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "QK87JBPk1vo",
+    "title": "@pinkpalmpuff I want the new Classic Puff Hoodie!💗❤️💗 #pinkpalmpuffhoodie #classicpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "Mwcnggm7VTw",
+    "title": "Unbox my pink palm puff hoodie! 😆💞 #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "uv-DTtMbFhs",
+    "title": "Dream pink palm puff unboxing!🌸💗@pinkpalmpuff #pinkpalmpuffhoodie #pinkpalmpuffpajamas #blowup",
+    "score": 10
+  },
+  {
+    "id": "IPXXIwXzjW8",
+    "title": "unboxing my pink palm puff hoodie!🌺🌴🌊☀️ @pinkpalmpuff #ppphoodie #unboxing #music #ppp #fypp",
+    "score": 10
+  },
+  {
+    "id": "pfepGqKKvtY",
+    "title": "All the pink palm puff Hawaii hibiscus hoodies! #pinkpalmpuff 🎀💕🎀💕💖",
+    "score": 10
+  },
+  {
+    "id": "CQj6QofUdFc",
+    "title": "The Ancient Discovery Changing What We Know About Death",
+    "score": 10
+  },
+  {
+    "id": "2jjJxpRJr4A",
+    "title": "What's Going On (Marvin Gaye) Feat. Sara Bareilles | Playing For Change | Song Around The World",
+    "score": 10
+  },
+  {
+    "id": "2eeLu_5eB7M",
+    "title": "You’ll See This Right Before Your Reality Changes",
+    "score": 10
+  },
+  {
+    "id": "y18RWbINnck",
+    "title": "IRISH MERMAIDS | The CHANGE Game (they have to keep changing what they say) | Shoot From The Hip",
+    "score": 10
+  },
+  {
+    "id": "i6kkC5WvPis",
+    "title": "Playing For Change - What's Up",
+    "score": 10
+  },
+  {
+    "id": "LXRYZWphSPQ",
+    "title": "\\\"What's Up\\\" (4 Non Blondes) by Playing for Change",
+    "score": 10
+  },
+  {
+    "id": "zQobQa5WP9w",
+    "title": "Social Security Changes Starting March 7 - What You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "hjpLySi-aQ4",
+    "title": "Consumer Spending Is Changing: What It Means for Markets and Investors",
+    "score": 10
+  },
+  {
+    "id": "WECe5pclUdQ",
+    "title": "I Can't Keep Doing This Anymore, Here's What's CHANGING...",
+    "score": 10
+  },
+  {
+    "id": "DgB8vsaIEu0",
+    "title": "4 Steps To Change What Sucks",
+    "score": 10
+  },
+  {
+    "id": "EG4dw4qBKlU",
+    "title": "New Travel Updates in 2026 That Change What Passengers Have Done for Years",
+    "score": 10
+  },
+  {
+    "id": "AO3XdzeFwEg",
+    "title": "New changes updates for travel in 2026",
+    "score": 10
+  },
+  {
+    "id": "p_S3PimZ9is",
+    "title": "February Energy Update",
+    "score": 10
+  },
+  {
+    "id": "l5d8GW6GdR0",
+    "title": "How Identity Literally Changes What You See (with Samuel Bagg)",
+    "score": 10
+  },
+  {
+    "id": "lNKOqp-rZL8",
+    "title": "Why is 2025 a key year for climate change? - What You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "ZNl1vsSmPG4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "y6L0xO0cjtI",
+    "title": "Why this cycle feels different than past ones",
+    "score": 10
+  },
+  {
+    "id": "jhGRS59f770",
+    "title": "what’s your fav PPP hoodie? comment with the MOST likes gets one, by tmr at 5pm est😊 #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "PgRZVkysuHo",
+    "title": "I drew a Pink Palm Puff hoodie! Ib:@KreativeKailyn  @pinkpalmpuff #art #fyp #pppfamily #watch #draw",
+    "score": 10
+  },
+  {
+    "id": "NOpbxb8cqCM",
+    "title": "POV: your sisters are your forever Valentines 💖 #valentinesday #bestiebaskets",
+    "score": 10
+  },
+  {
+    "id": "0-gEuuYrij8",
+    "title": "what’s your fav PPP hoodie? comment with the MOST likes gets one, by tmr at 5pm est😊 #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "sR6uCQ4xjr8",
+    "title": "in tears over PPP🥹 such a sweet unboxing moment 💖💖 @TheBoothFam #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "SSZWH9U3vmU",
+    "title": "Unbox my pink palm puff hoodie! 😆💞 #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "vFsbJ8SMRI0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qzzFhBMTRiw",
+    "title": "last post🤭 of olivia rodrigo getting @kenzieyolles PPP purple hoodie!!💜 #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "VASuBUKtne4",
+    "title": "the ULTIMATE summer hoodie 😍 @kiaracorrina on tt :) #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "ZR15IbZE268",
+    "title": "in tears over PPP🥹 such a sweet unboxing moment 💖💖 @TheBoothFam #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "VRCenXuMyUY",
+    "title": "NEW PINK PALM PUFF HOODIE !!!!! 🩷💖💗 #pinkpalmpuffhoodie @pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "wGXWR0gMmjU",
+    "title": "FiRST EVER SLEEPOVER in LA WiTH FRiENDS! 🌴🎀",
+    "score": 10
+  },
+  {
+    "id": "LA1eeywgHWw",
+    "title": "ADORABLE!.....He Pushed Her ALL DAY!!",
+    "score": 10
+  },
+  {
+    "id": "0VN15losIy8",
+    "title": "Grammys 2026 Must-See Moments: Cher's Perfect Flub, Bad Bunny Wins Big | E! News",
+    "score": 10
+  },
+  {
+    "id": "tciCss0cu-I",
+    "title": "Can't Touch The Color in Escape Tsunami For Brainrots...",
+    "score": 10
+  },
+  {
+    "id": "RBkeCr8tcrY",
+    "title": "What nihilism acknowledges that other philosophies don’t | Alex O'Connor",
+    "score": 10
+  },
+  {
+    "id": "BrpMV-Mxa_0",
+    "title": "I Am Sorry Ngakpiyu : Mary Kom I Connect News",
+    "score": 10
+  },
+  {
+    "id": "mDQek65dDNU",
+    "title": "#pinkpalmpajamas #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "X34MZbCtjxI",
+    "title": "what’s your fav PPP hoodie? comment with the MOST likes gets one, by tmr at 5pm est😊 #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "kq5XhHDj54M",
+    "title": "WHICH SET IS YOUR FAV?? @kenzieyolles @iampresleefaith @embreighcourtlynn #classicpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "16sZbF5AgJ4",
+    "title": "My￼ own pink palm puff hoodie🤣🤣@pinkpalmpuff #pinkpalmpuffhoodie #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "RHhaD6IBSZ8",
+    "title": "I Bought FAKE Pink Palm Puff",
+    "score": 10
+  },
+  {
+    "id": "izw42lJq5_g",
+    "title": "what hoodies would you be in YOUR bag?🤭 #pinkpalmpuff #pppfamily",
+    "score": 10
+  },
+  {
+    "id": "HVES4NK1THE",
+    "title": "PINK PALM PUFF Sent Me THIS?! 🫣👀#preppyproducts #freepreppyclip #skincare #preppy #ppp #sephora",
+    "score": 10
+  },
+  {
+    "id": "8DEYMi11bIw",
+    "title": "so many people were filming us 🤭 #pinkpalmpuffpopup",
+    "score": 10
+  },
+  {
+    "id": "ytlTJBayvg8",
+    "title": "PINK PALM PUFF UPDATE! Stay tuned for an unboxing + a huge surprise from me and @pinkpalmpuff 🩷",
+    "score": 10
+  },
+  {
+    "id": "sk35TQx80wc",
+    "title": "my school starts tmr 😓 when does your school start?! #pinkpalmpuff #pppfamily",
+    "score": 10
+  },
+  {
+    "id": "FcN4DKRlyPI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "n7-PHt_SIQc",
+    "title": "Melanie Martinez - Play Date (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rODr5Zfj8RA",
+    "title": "PLAY DATE - MELANIE MARTINEZ (Tik Tok Song Version)",
+    "score": 10
+  },
+  {
+    "id": "dqzxTjzNAPY",
+    "title": "Melanie Martinez - Play Date (Lyrics) ''I guess I'm just a play date to you''",
+    "score": 10
+  },
+  {
+    "id": "u3JrJBYlJNo",
+    "title": "Melanie Martinez - Play Date (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "9u14-QBPzSE",
+    "title": "Melanie Martinez - Recess [Official Audio]",
+    "score": 10
+  },
+  {
+    "id": "HcVv9R1ZR84",
+    "title": "Melanie Martinez - Dollhouse (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "rYd92fTkg7k",
+    "title": "melanie martinez- play date [slowed + reverb]",
+    "score": 10
+  },
+  {
+    "id": "sWgRxeWrjAc",
+    "title": "Melanie Martinez - Cry Baby (The Film)",
+    "score": 10
+  },
+  {
+    "id": "dxXJAqOU00g",
+    "title": "The Hidden Evil in K-12 : A Melanie Martinez Deep Dive (pt 2)",
+    "score": 10
+  },
+  {
+    "id": "WrhitWnGKmY",
+    "title": "Intro/CW",
+    "score": 10
+  },
+  {
+    "id": "faX60EmLCyw",
+    "title": "Pacific Heights | FULL MOVIE | Melanie Griffith, Matthew Modine, Michael Keaton | Thriller",
+    "score": 10
+  },
+  {
+    "id": "pl7lKw3bP70",
+    "title": "Melanie (1982)  FULL MOVIE Glynnis O'Connor, Burton Cummings",
+    "score": 10
+  },
+  {
+    "id": "4eR1MXv1qcQ",
+    "title": "K-12",
+    "score": 10
+  },
+  {
+    "id": "XeC6MvC5Z2k",
+    "title": "Sign in to YouTube",
+    "score": 10
+  },
+  {
+    "id": "BjvOOyv1CEQ",
+    "title": "Inside look at the 'Melania' movie premiere",
+    "score": 10
+  },
+  {
+    "id": "vLObRqyNfOY",
+    "title": "'Melania' movie posters vandalized across Los Angeles | FOX 11 LA",
+    "score": 10
+  },
+  {
+    "id": "hAVZ1AdkMI0",
+    "title": "Melanie Martinez - K-12 (The Film) ",
+    "score": 10
+  },
+  {
+    "id": "tii3JyKNCe0",
+    "title": "🚨Melania Trump Just Got the WORST NEWS About Her NEW MOVIE",
+    "score": 10
+  },
+  {
+    "id": "PVTGABEIO6g",
+    "title": "Amazon’s Melania Trump film opens in cinemas worldwide, with lackluster ticket sales | DW News",
+    "score": 10
+  },
+  {
+    "id": "lL4YpMnSNnE",
+    "title": "Melania Movie FLOPS At Box Offices, Humiliating The Trumps",
+    "score": 10
+  },
+  {
+    "id": "Lnv_w8fO5wg",
+    "title": "1 More Round | Full Drama Movie | Melanie Stone | Jasen Wade",
+    "score": 10
+  },
+  {
+    "id": "cny_D50Rr44",
+    "title": "Melania's Movie Is a DISASTER (And Here's The REAL Reason Why)",
+    "score": 10
+  },
+  {
+    "id": "z7Z3f_nwIDI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zMXqpLJMUoU",
+    "title": "in tears over PPP🥹 such a sweet unboxing moment 💖💖 @TheBoothFam #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "FkaSVk3yfkw",
+    "title": "POV: MY DAUGHTER EVER SINCE HER ​⁠@pinkpalmpuff SWIMSUIT ARRIVED 🌴👙",
+    "score": 10
+  },
+  {
+    "id": "Onq_mDiiJjk",
+    "title": "MY DAUGHTER REALLY WANTS A BLUE #PINKPALMPUFF HOODIE!!! #preppy #pinkpalmpuffhoodie @pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "U-ghnzf5CEc",
+    "title": "#pinkpalmpajamas #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "xSQ8r8GXA8w",
+    "title": "in tears over PPP🥹 such a sweet unboxing moment 💖💖 @TheBoothFam #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "YuX-sJQVcBI",
+    "title": "@JustJulesOG and her sister matching in PPP!! 🥹🫶💙#pinkpalmpuff #pppfamily",
+    "score": 10
+  },
+  {
+    "id": "nzgdJqulMJQ",
+    "title": "KATSEYE Brings GNARLY Performance to GRAMMY Awards",
+    "score": 10
+  },
+  {
+    "id": "w4uXVuovw8k",
+    "title": "#KATSEYE made their debut #GRAMMYs performance with \\\"Gnarly\\\" and the crowd was here for it. 👏",
+    "score": 10
+  },
+  {
+    "id": "LgfS-B5NmKY",
+    "title": "KATSEYE FANGIRLS Over Justin Bieber Ahead of GRAMMYs Debut (Exclusive)",
+    "score": 10
+  },
+  {
+    "id": "tjz3uRFd-qU",
+    "title": "Katseye Teases New Album Release Date,  Grammy 2026 Performance | E! News",
+    "score": 10
+  },
+  {
+    "id": "ep8M-ADLE-0",
+    "title": "KATSEYE rocks the red carpet and stage at the 2026 Grammys",
+    "score": 10
+  },
+  {
+    "id": "nwBFRiy2zqA",
+    "title": "K-pop group KATSEYE talk Best New Artist nod at the Grammys",
+    "score": 10
+  },
+  {
+    "id": "AAlJwNJEDsM",
+    "title": "Best of GLAMBOT: Grammys 2026 | E! News",
+    "score": 10
+  },
+  {
+    "id": "-_LHH_IjVNE",
+    "title": "Katseye walks the Grammys red carpet in matching looks",
+    "score": 10
+  },
+  {
+    "id": "eQxHtPH7CFc",
+    "title": "Grammys 2026 FASHION: Chappell Roan, Rosé, Justin \\u0026 Hailey Bieber \\u0026 More TOP LOOKS",
+    "score": 10
+  },
+  {
+    "id": "ofINBWMbrjg",
+    "title": "KATSEYE Red Carpet Interview | 2026 GRAMMYs",
+    "score": 10
+  },
+  {
+    "id": "weiXvRsQuGc",
+    "title": "Inside KATSEYE’s Grammys Looks | Vogue",
+    "score": 10
+  },
+  {
+    "id": "MmJOoG90Y-Y",
+    "title": "Katseye. Grammys 2026",
+    "score": 10
+  },
+  {
+    "id": "nVU-Gc5-nK4",
+    "title": "KATSEYE perform \\\"Gnarly\\\" at the Grammys  (c) the Grammys #lararaj #theGrammys #katseye",
+    "score": 10
+  },
+  {
+    "id": "QlMJxwGkI8M",
+    "title": "KATSEYE | Red Carpet Fashion Cam | 2026 GRAMMYs",
+    "score": 10
+  },
+  {
+    "id": "FRwZRV9KCDo",
+    "title": "OLIVIA DEAN Wins BEST NEW ARTIST | 2026 GRAMMYs Acceptance Speech",
+    "score": 10
+  },
+  {
+    "id": "nvl_tV_gf4U",
+    "title": "KATSEYE Robbed At Grammy's?! #katseye #grammys",
+    "score": 10
+  },
+  {
+    "id": "tmAp9bqpMi0",
+    "title": "KATSEYE rocks the red carpet and stage at the 2026 Grammys",
+    "score": 10
+  },
+  {
+    "id": "NHNa7tasRc4",
+    "title": "\\\"Gabriela\\\" - KATSEYE",
+    "score": 10
+  },
+  {
+    "id": "fb2OOQmaA78",
+    "title": "KATSEYE FANGIRLS Over Justin Bieber Ahead of GRAMMYs Debut (Exclusive)",
+    "score": 10
+  },
+  {
+    "id": "HIsYmvTiDfQ",
+    "title": "11 Fashion Trends I'm Wearing in 2026 (and 5 that I am NOT)",
+    "score": 10
+  },
+  {
+    "id": "YprhouWgSfE",
+    "title": "What's IN \\u0026 OUT for Spring 2026 Fashion ✨ TOP Style Trends You'll See Everywhere",
+    "score": 10
+  },
+  {
+    "id": "U0emNqMBwro",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pkyxJbGhLR8",
+    "title": "Top Five 2026 Fashion Trends You’ll Truly Wear on Repeat!",
+    "score": 10
+  },
+  {
+    "id": "DdbmcGQWw8M",
+    "title": "14 Winter Fashion Trends for 2026 To Start Wearing Right NOW!!",
+    "score": 10
+  },
+  {
+    "id": "zFPMBWF3RCU",
+    "title": "Fashion Trends for 2026 (Vogue, Harper's Bazaar, Who What Wear \\u0026 More)",
+    "score": 10
+  },
+  {
+    "id": "ejo1ChfusKw",
+    "title": "Welcome to Fashion Trends for 2026",
+    "score": 10
+  },
+  {
+    "id": "-uBmrk3OBWM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0g3DqLirRHo",
+    "title": "2026's BIGGEST FASHION TRENDS: Once You See Them, You'll Want Them",
+    "score": 10
+  },
+  {
+    "id": "FimvWoezpdo",
+    "title": "10 Fashion Trends FINALLY OUT OF STYLE in 2026",
+    "score": 10
+  },
+  {
+    "id": "Dac3Uhzrm5E",
+    "title": "10 New Fashion Trends for 2026...Will YOU Wear These?",
+    "score": 10
+  },
+  {
+    "id": "7RjgjEop0WM",
+    "title": "2025 Fashion Trends That Are Officially Over! | OUT OF STYLE 2026",
+    "score": 10
+  },
+  {
+    "id": "1H6bWrhDxZ4",
+    "title": "What’s IN \\u0026 OUT for Winter 2026 | Fashion Trends You Can’t Miss!",
+    "score": 10
+  },
+  {
+    "id": "NXYmuvt5Rgw",
+    "title": "2026 Color Trends You NEED to Try ! | Chic \\u0026 Elegant Combinations",
+    "score": 10
+  },
+  {
+    "id": "iBI8XbahK-k",
+    "title": "THE TOP FASHION \\u0026 STYLE TRENDS for 2026 - What to wear in 2026 / Easy wearable womens fashion trends",
+    "score": 10
+  },
+  {
+    "id": "RyQS3X9wZDg",
+    "title": "my 2026 fashion trend predictions",
+    "score": 10
+  },
+  {
+    "id": "8-aEplzuc7Q",
+    "title": "10 Wearable Fashion Trends That Will Be Huge in 2026!",
+    "score": 10
+  },
+  {
+    "id": "9T-I8JLNnmA",
+    "title": "😱2026 Fashion Trends You Need to Know | What's In \\u0026 Out This Year ❌",
+    "score": 10
+  },
+  {
+    "id": "p_tZ7H3222s",
+    "title": "2026’s Biggest Fashion Trends You Can’t Ignore",
+    "score": 10
+  },
+  {
+    "id": "8w5zhafgtN0",
+    "title": "Fashion Trends for 2025 (Vogue, Refinery29, Harper's Bazaar \\u0026 More)",
+    "score": 10
+  },
+  {
+    "id": "uAiWI4Q_5sc",
+    "title": "guess how many hoodies jules has on!! @justjulesOG  🤗 #pppfamily #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "sqG4l_P2yx8",
+    "title": "send this to your bestie you need to twin with! 🫶💓 #pinkpalmpuff #hoodie #hoodies",
+    "score": 10
+  },
+  {
+    "id": "Xnbm2pvd0lc",
+    "title": "I got a PINK PALM PUFF hoodie!!",
+    "score": 10
+  },
+  {
+    "id": "R2YM5zSapNg",
+    "title": "Melanie Martinez - Band Aid (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "pmlM4LHGoy4",
+    "title": "PIGGYBACK | Melanie Martinez Audio",
+    "score": 10
+  },
+  {
+    "id": "j3ifJA9NM48",
+    "title": "Unbox my pink palm puff with me!!🌴❤️(early birthday present)🎁 #pinkpalmpuffhoodie @pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "KoYJBca5F7E",
+    "title": "they’re just too cute and comfyyy☁️ #pinkpalmpuff #hoodies",
+    "score": 10
+  },
+  {
+    "id": "eZngSO-lqI8",
+    "title": "in tears over PPP🥹 such a sweet unboxing moment 💖💖 @TheBoothFam #pinkpalmpuffhoodie",
+    "score": 10
+  },
+  {
+    "id": "763l-6U9BL8",
+    "title": "what is the hoodie in the back called?! (wrong answers only 😝) #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "S18lA42jfQ0",
+    "title": "pink palm puff hoodie!! ​⁠@pinkpalmpuff #music #fyp #5k #blowup #viral #trending",
+    "score": 10
+  },
+  {
+    "id": "h7g2HVt6eUo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "hDVT7oVgIxg",
+    "title": "10 Preppy Rules From the 80s to Transform Your Wardrobe Today",
+    "score": 10
+  },
+  {
+    "id": "Bcf5qz17_Xw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GeCYAfLAfn8",
+    "title": "Pick your winter outfit…#pleasesubscribe #preppy #wiwith #viralvideo #fypシ゚",
+    "score": 10
+  },
+  {
+    "id": "o8E7KlsYPZQ",
+    "title": "SUMMER IS OTWWW #outfit #preppy #style #closet #kenzieyolles",
+    "score": 10
+  },
+  {
+    "id": "0bxtwgVgbRk",
+    "title": "cute but ✨cheap✨ clothes 🌊⚡️￼#preppy #roadto10k #clothing #fyp",
+    "score": 10
+  },
+  {
+    "id": "15lP5LF-TF4",
+    "title": "Preppy shein finds !",
+    "score": 10
+  },
+  {
+    "id": "R3c4Qjhs9O8",
+    "title": "VINTAGE Preppy vs NEW Preppy",
+    "score": 10
+  },
+  {
+    "id": "ABRaUlJBcsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N3IsAEySL5s",
+    "title": "Pick an outfit #fashion #preppy #cute #outfit #aesthetic #restock #preppyproducts #skincare #random",
+    "score": 10
+  },
+  {
+    "id": "a-sPgotcrRY",
+    "title": "LINK IN BIO TO SHOP! Does she though? #streetwear #fashion #style #y2k #clothes",
+    "score": 10
+  },
+  {
+    "id": "OGDPn5Z41RY",
+    "title": "Summer tops👙🥥🐚 #fashion #outfitinspo #summer #preppy #clothes #viral #fyp #haul #inpo #lulu",
+    "score": 10
+  },
+  {
+    "id": "iKIVoAN9nPA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SEYJ5UlK3E4",
+    "title": "Search Filter UI Design. UI Design Principles and Best Practices",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "d_t8Ts05RSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lWmYkZz946Y",
+    "title": "Starting soon",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "LLMs in Search: Generating Dynamic Filters and Facets",
+    "score": 10
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6m7MsWP9R1E",
+    "title": "Outfits of the week!🫶last one is the best :) #fashiontrends #ootd #outfitsinspo",
+    "score": 10
+  },
+  {
+    "id": "xaX1S2IOXWY",
+    "title": "NEVER HAVE A BORING OUTFIT! dressing for your body type, accessorizing, \\u0026 style inspo",
+    "score": 10
+  },
+  {
+    "id": "XhpXOwmUYOA",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "VrUf3tTe4No",
+    "title": "FALL LOOKBOOK | 20 fall outfits trendy + casual",
+    "score": 10
+  },
+  {
+    "id": "siq0DXumllA",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "XT_z3aNwCGY",
+    "title": "2026 DENIM TRENDS / A WEEK OF OUTFITS WITH JEANS FOR 2026 / 5 Easy Outfit ideas with denim jeans",
+    "score": 10
+  },
+  {
+    "id": "rEBzuIT_c-c",
+    "title": "From Fashion Week to Your Wardrobe: 2026 Runway Trends Worth Buying",
+    "score": 10
+  },
+  {
+    "id": "PDMQi2lbKrQ",
+    "title": "You ONLY Need 5 PANTS to Match Your Every Outfit | Wardrobe Essentials",
+    "score": 10
+  },
+  {
+    "id": "Ql8M4SAD20k",
+    "title": "Shein or Thrifted Outfit?🤔🤍",
+    "score": 10
+  },
+  {
+    "id": "WinmHm6ZwRE",
+    "title": "if you hate your outfits, watch this video. (closet basics everyone needs)",
+    "score": 10
+  },
+  {
+    "id": "iXPUlIDeo64",
+    "title": "Fall is the best time for colorful fits! #fashion #ootd #neutraloutfit #fallfashion",
+    "score": 10
+  },
+  {
+    "id": "xczZze-ihCM",
+    "title": "Pick an outfit #fashion #preppy #cute #outfit #aesthetic #restock #preppyproducts #skincare #random",
+    "score": 10
+  },
+  {
+    "id": "kfXlIFt_HEo",
+    "title": "5 Streetwear Essentials You Need #streetwear #fashionessentials #streetwearinspo #fashion",
+    "score": 10
+  },
+  {
+    "id": "LVH4or09qNY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "BQ0bLQH3HV0",
+    "title": "you won’t be able to buy anymore in 5hrs 🥹 #pinkpalmpajamas #pinkpalmpuffpajamas #pinkpalmpajamas",
+    "score": 10
+  },
+  {
+    "id": "D0AQDvqmBI4",
+    "title": "what REALLY happened at the first PINK PALM PUFF pop up… *4500+ of you came 💕😱🌴*",
+    "score": 10
+  },
+  {
+    "id": "O6L8Rle_k_8",
+    "title": "PPP SLEEPOVER!!! ⭐️♥️ #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "jUgAYPq1mDM",
+    "title": "PINK PALM PUFF SENT ME THE WORST PR PACKAGE EVER 😱",
+    "score": 10
+  },
+  {
+    "id": "aLe05b3eLI8",
+    "title": "PINK PALM PUFF SLEEPOVER!!! #pppfamily #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "Uwv8B-O5aRk",
+    "title": "PPP BIKINIS?!? ​⁠#pinkpalmpuffswim #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "EQp4Qxh3Dw4",
+    "title": "#pinkpalmpajamas #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "0W-M-2VDOMw",
+    "title": "such a good unboxing!!!😍 @loveshackabby12 #pppfamily #pinkpalmpuffpajamas",
+    "score": 10
+  },
+  {
+    "id": "S6VoRJHrO1s",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "GWo9pNDrQUU",
+    "title": "Such Sweet Thunder, arr. Mike Kamuf – Score \\u0026 Sound",
+    "score": 10
+  },
+  {
+    "id": "NTpbbQUBbuo",
+    "title": "Such Sweet Thunder (Cleo)",
+    "score": 10
+  },
+  {
+    "id": "D6N3IDUah9g",
+    "title": "\\\"Such Sweet Thunder\\\" w/ Emmet Cohen \\u0026 Patrick Bartley",
+    "score": 10
+  },
+  {
+    "id": "qMusdr1d6nw",
+    "title": "G Perico \\u0026 Steelz - So Sweet (Audio)",
+    "score": 10
+  },
+  {
+    "id": "lDXbsNdgMO4",
+    "title": "Such Sweet Thunder - Wynton Marsalis \\u0026 The Young Stars of Jazz at \\\"Jazz in Marciac\\\" 2016",
+    "score": 10
+  },
+  {
+    "id": "NTCaCpAACIc",
+    "title": "No Girl So Sweet",
+    "score": 10
+  },
+  {
+    "id": "8uuehVUtnto",
+    "title": "Hozier - Too Sweet (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "aezstCBHOPQ",
+    "title": "Duke Ellington  - Such Sweet Thunder",
+    "score": 10
+  },
+  {
+    "id": "McGysWP0Jzo",
+    "title": "Duke Ellington - Such Sweet Thunder (1957) (Full Album)",
+    "score": 10
+  },
+  {
+    "id": "CXhebrjlPnQ",
+    "title": "TAEKOOK'S SMILE WHILE TALKING WITH EO 😭so sweet 😭#Taekook#shortvideo",
+    "score": 10
+  },
+  {
+    "id": "oKIfSp3iqWQ",
+    "title": "D.O.D, Calvin Harris - Sweet Nothing (2025 Edit) ft. Florence Welch",
+    "score": 10
+  },
+  {
+    "id": "0ylnK2stNKs",
+    "title": "Shane \\u0026 Shane: Tis So Sweet",
+    "score": 10
+  },
+  {
+    "id": "srZ9IGsFy4o",
+    "title": "Duke Ellington - Switzerland '59 2/7 [Selections from \\\"Such Sweet Thunder\\\"]",
+    "score": 10
+  },
+  {
+    "id": "UeGtdRz-bkA",
+    "title": "Such Sweet Sorrow SO329 by Jeremy Woolstenhulme",
+    "score": 10
+  },
+  {
+    "id": "nQ7Yo6uKheI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9Q3b-k-z6_I",
+    "title": "Introduction to Spring Summer 2026 Trends",
+    "score": 10
+  },
+  {
+    "id": "6ZLZH33FOeE",
+    "title": "2026 fashion trends and predictions 🎀🪲✨",
+    "score": 10
+  },
+  {
+    "id": "eVLz3auvFqU",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "kZqasuRIT_w",
+    "title": "Welcome to Fashion Trends for 2025",
+    "score": 10
+  },
+  {
+    "id": "E4MYKq7ZDWs",
+    "title": "Introduction and Channel Overview",
+    "score": 10
+  },
+  {
+    "id": "NqwB9hwbOQs",
+    "title": "Rethink Fashion 2025–2026: What No One’s Telling You About This Year’s Trends",
+    "score": 10
+  },
+  {
+    "id": "sw3J50YE5Tw",
+    "title": "What Are People Wearing in New York? (Fashion Trends 2026 NYC Street Style Ep.203)",
+    "score": 10
+  },
+  {
+    "id": "JMMXZiFYGDw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "24_osDdyJkU",
+    "title": "Introduction to Paris Fashion Week Spring/Summer 2026",
+    "score": 10
+  },
+  {
+    "id": "dt1ZPgLnmGA",
+    "title": "Scandinavian Fashion Trends l Autumn Wordrobe l Copenhagen Fashion Week StreetStyle l Rotate Show",
+    "score": 10
+  },
+  {
+    "id": "MwoPsTjID1s",
+    "title": "The Best French Fashion Trends from the Paris Fashion Week SS26",
+    "score": 10
+  },
+  {
+    "id": "LgXmwndF07I",
+    "title": "2026 DENIM TRENDS / A WEEK OF OUTFITS WITH JEANS FOR 2026 / 5 Easy Outfit ideas with denim jeans",
+    "score": 10
+  },
+  {
+    "id": "ABWJWQSBgfc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eFeqB5zG6XQ",
+    "title": "Pink Palm Puff Pop-up event 🌴💗",
+    "score": 10
+  },
+  {
+    "id": "wD05u8M0Zpg",
+    "title": "PINK PALM PUFF IN DRESS TO IMPRESS ⁉️ @pinkpalmpuff get this to 5k likes! #dresstoimpress #fyp",
+    "score": 10
+  },
+  {
+    "id": "ji5O1qt-Rhw",
+    "title": "Pinkfong Wonderstar Compilation | Fun Animation \\u0026 Cartoon For Kids | Pinkfong Hogi",
+    "score": 10
+  },
+  {
+    "id": "4A-LKm1NbAI",
+    "title": "Giving Barbie a Pink Palm Puff Hoodie",
+    "score": 10
+  },
+  {
+    "id": "oAUXXAzi2mE",
+    "title": "PINK PALM PUFF SLEEPOVER!!! #pppfamily #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "9WTt7OPuBl4",
+    "title": "who else has a hawaii hibiscus hoodie?!? 🌺 #pinkpalmpuff",
+    "score": 10
+  },
+  {
+    "id": "2kD2i5LgJWs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Hx8UPPs8ohI",
+    "title": "Top 10 Places To Visit In The Philippines - You Won't Believe #3!",
+    "score": 10
+  },
+  {
+    "id": "rcOliaIueVs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "exI_hD_4jAM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ueeTs3BINtA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pYVzIDGl7jc",
+    "title": "Places On Earth That Don't Feel Real in Canada, Japan and Finland #travel #nature #adventure",
+    "score": 10
+  },
+  {
+    "id": "O4PmcP9ecE4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jN5CM_3MhZU",
+    "title": "Top 10 Places To Visit in 2025 (Year of Travel)",
+    "score": 10
+  },
+  {
+    "id": "eLPVDaaQybY",
+    "title": "2025 Intro",
+    "score": 10
+  },
+  {
+    "id": "Ii0mXFubza0",
+    "title": "Top 10 Vacations Spots You Must Visit in the World! ✈️ Part 1",
+    "score": 10
+  },
+  {
+    "id": "XcEEhh6WB30",
+    "title": "Top 5 Most Beautiful Places In India | AmazingWorldFacts",
+    "score": 10
+  },
+  {
+    "id": "e7Tmtblo5Yk",
+    "title": "Places in CHINA 🇨🇳 that don't feel real😵‍💫",
+    "score": 10
+  },
+  {
+    "id": "EgSnmm6QGyY",
+    "title": "Top 3 Most Beautiful Places in Thailand 🇹🇭 | Part (169) #thailand #travel #places #explore #nature",
+    "score": 10
+  },
+  {
+    "id": "u631d6ge8pE",
+    "title": "Places On Earth That Don't Feel Real #travel #nature #adventure #explorepage",
+    "score": 10
+  },
+  {
+    "id": "c6bAndS9oqY",
+    "title": "Best places to visit in Europe",
+    "score": 10
+  },
+  {
+    "id": "1LkkxGZomPU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oZkWzFBZtmo",
+    "title": "The CHEAPEST BANGKOK Night Market 🇹🇭 $1 Thai Street Food Heaven",
+    "score": 10
+  },
+  {
+    "id": "pKTyy0xMF4U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JLIIR-KrsSY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3uxFAfthJxI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0xNwvAbN7bM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hDoIyzKWSXU",
+    "title": "Cheap \\u0026 Delicious Street Food in Phuket! Saphan Hin Local Market!",
+    "score": 10
+  },
+  {
+    "id": "Vi-BJIfx1ac",
+    "title": "The CHEAPEST market (Offbeat shopping) - Azerbaijan travel adventures",
+    "score": 10
+  },
+  {
+    "id": "EL_swXbaPy0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AX2e2p0Yvmo",
+    "title": "Biggest iPhone Sale Ever 🔥 I Cheapest iPhone Market | Second Hand Mobile | iPhone16 Pro iPhone 17",
+    "score": 10
+  },
+  {
+    "id": "vvjiPpmWN0k",
+    "title": "Cheapest iPhone Market in Delhi 🔥| Second Hand Mobile Used Phone iPhone 16, iPhone 15Pro, 17Pro",
+    "score": 10
+  },
+  {
+    "id": "FwaZt-Gf6ZM",
+    "title": "BIGGEST Flea Market in Japan | Cheapest Seiko watch | Thrifting in Tokyo",
+    "score": 10
+  },
+  {
+    "id": "SnwPA25ESLo",
+    "title": "Top5 #Cheapest #Delhi Markets #gethypd #indianfashion #hypd",
+    "score": 10
+  },
+  {
+    "id": "wX4OVOBcP0Y",
+    "title": "Top 7 Guangzhou Shopping Mall Where Everything is Dirt Cheap",
+    "score": 10
+  },
+  {
+    "id": "9do0ffRL9rU",
+    "title": "GUANGZHOU BUDGET SHOPPING MALL",
+    "score": 10
+  },
+  {
+    "id": "0pRMdNomN0c",
+    "title": "Biggest iPhone Sale Ever 🔥 I Cheapest iPhone Market | Second Hand Mobile | iPhone16 Pro iPhone 17",
+    "score": 10
+  },
+  {
+    "id": "zG4wqmPXcSU",
+    "title": "Search filters",
+    "score": 10
+  }
+]

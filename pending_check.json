@@ -1,1 +1,3217 @@
-[]
+[
+  {
+    "id": "5I69DCxYbBg",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "DXOq1xiIaF0",
+    "title": "מדריך אקסל תוך 15 דקות",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "אקסל למשתמשים בינוניים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "קורס אקסל למתחילים - שיעור 2 - שינוי שפת התצוגה באקסל -",
+    "score": 110
+  },
+  {
+    "id": "oYo4VRtrlGE",
+    "title": "קורס אקסל למתחילים - שיעור 20 - פונקציות נפוצות - COUNT, AVERAGE, MAX, MIN",
+    "score": 110
+  },
+  {
+    "id": "Qjs-0nC3Lqo",
+    "title": "לימוד אקסל - שיעור 1 - הכרת התוכנה , מושגי בסיס , עמודות ושורות , איך בונים טבלה באקסל, עיצוב טבלה",
+    "score": 110
+  },
+  {
+    "id": "oQfQIK9iSzA",
+    "title": "לימוד אקסל שיעור 2 - מושגי בסיס - חלק א' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "vO6RvJ2FOcA",
+    "title": "VLOOKUP - לימוד אקסל- שיעור 5 - נוסחת / פונקציית VLOOKUP ,הצלבת נתונים בין שתי טבלאות",
+    "score": 110
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 5 - התקופה הצלבנית בארץ ישראל",
+    "score": 110
+  },
+  {
+    "id": "IaYMdz6AG9Q",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "n86p0d1p9Sk",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "Vrtbxvefnjs",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 28 - האימפריה הבריטית",
+    "score": 110
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "Ujcj8inqkOs",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "לוגיקוד - פייתון למתקדמים - שיעור 1 - מחלקות",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "מדריך פייתון - 21 -  Continue and Break",
+    "score": 110
+  },
+  {
+    "id": "8oOPXlfXyTE",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "👩‍💻 מדריך פייתון למתחילים",
+    "score": 110
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "צילום טבע מסביב לעולם",
+    "score": 60
+  },
+  {
+    "id": "lAmawfhJ0ME",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "צילום טבע ממעוף הציפור",
+    "score": 60
+  },
+  {
+    "id": "jT3BVLt3IYU",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "gVjei0pKhhQ",
+    "title": "צילום טבע, עמוס נחום, זומינג סלבין קורן.",
+    "score": 60
+  },
+  {
+    "id": "XA4bTDfYha0",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "-0bcD3s7C78",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "XrNDNOkBnS4",
+    "title": "קיצור תולדות העם היהודי | פרק 1 – מראשית האומה עד חורבן ישראל",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "ההיסטוריה המרתקת של ארץ ישראל  (בעשר דקות בלבד)",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "50krtTLmiQ8",
+    "title": "ההבטחות של נאור ברוך: מציג את עצמו כ\\\"מיליארדר שעשה את הונו בקריפטו\\\" - כמה זה באמת אמיתי?",
+    "score": 60
+  },
+  {
+    "id": "VSal3DMM5l0",
+    "title": "ישראל היום! 2026. יפו היפה.",
+    "score": 60
+  },
+  {
+    "id": "gLgSEv583og",
+    "title": "המשנה והתלמוד -  עם ד\\\"ר יגאל בן נון",
+    "score": 60
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "סתירות בין ארכיאולוגיה ומקרא-חגי משגב",
+    "score": 60
+  },
+  {
+    "id": "0ruDojceKwQ",
+    "title": "המיליארדר היהודי שבנה עיר בישראל ותמך בכל דרך אפשרית בהתיישבות בארץ ואין אף רחוב בארץ על שמו#יהדות",
+    "score": 60
+  },
+  {
+    "id": "RT8AVFbLyuY",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "כאן היסטוריה - איך נוצר סמל מדינת ישראל?",
+    "score": 60
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "xm673bpIdOA",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "האינטרס של ארצות הברית בישראל",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "כיצד הפכה ישראל למדינה? | היסטוריה מונפשת",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "Excel Full Course Tutorial (4+ Hours)",
+    "score": 50
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "Learning Excel Lesson 1 - Introduction - Excel Course - Excel for Beginners",
+    "score": 50
+  },
+  {
+    "id": "gXjUlez98MA",
+    "title": "Top 10 Future Technologies In 2026 | High Paying Future Technology 2026 | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "CbOmgCF8KCE",
+    "title": "Future City 3000: The Age of Future Tech | Sci-fi AI Short Film (4K)",
+    "score": 50
+  },
+  {
+    "id": "e0gzOU6O-jI",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "QpuUC1PnBSc",
+    "title": "The Entire History of Jerusalem",
+    "score": 50
+  },
+  {
+    "id": "7hB3_bvdhxI",
+    "title": "Antarctica (2026) The Forbidden Continent That Holds Earth's True History",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Learn Python for Data Science – Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "tZ7vUbj1NJU",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "We Found 1932 Bugatti Atlantic for $1,000… Then Restored It || ASMR Car Restoration!",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "I Found a $100 Suzuki Hayabusa Junk | Full Restoration hayabusa GSX1300R Two-stroke engine bike",
+    "score": 50
+  },
+  {
+    "id": "WXwYwitcfMg",
+    "title": "Medieval Manor Restoration - The Restoration Man - S02 EP6 - Home Renovation",
+    "score": 50
+  },
+  {
+    "id": "pY4sZ_NfHo4",
+    "title": "Wrecked Mazda RX-7 Restoration | Full JDM Transformation Project",
+    "score": 50
+  },
+  {
+    "id": "guhgcnqstck",
+    "title": "65' Classic Yacht Restoration Project Under $40k | 1975 65' Burger | Harbor Yacht Tours",
+    "score": 50
+  },
+  {
+    "id": "HYYF0f6iRuE",
+    "title": "ZB 1940 | Old Machine Gun Restoration",
+    "score": 50
+  },
+  {
+    "id": "6xefDPPtIbI",
+    "title": "Restoring a Legend 1970 Tomos Automatic N - Full RESTORATION",
+    "score": 50
+  },
+  {
+    "id": "bFt1lBtvyV4",
+    "title": "1965 Austin-Healey MK III - Car Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "WUxAtk8Q_LE",
+    "title": "Complete Restoration and Repair of a Classic Tractor Over 60 Years Old",
+    "score": 50
+  },
+  {
+    "id": "zbMIBllfKIw",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "aNbj1osozdY",
+    "title": "Learn Spanish in 4 Hours | All the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Learn Spanish using Spanish Chunks (super simple)",
+    "score": 50
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Learn Once, Use Forever: 300 Spanish Phrases for Life",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Spanish phrases you can use for a lifetime — Listen repeatedly and learn easily",
+    "score": 50
+  },
+  {
+    "id": "UxE3n6beo0k",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish with Podcast | Slow \\u0026 Clear Listening for Fluency",
+    "score": 50
+  },
+  {
+    "id": "LwJnEOdQvEI",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Master Mexican Spanish with 30 Patterns – Learn Even While You Sleep!",
+    "score": 50
+  },
+  {
+    "id": "LOmHVNYz0Mw",
+    "title": "Learn Spanish in 10 Minutes - ALL the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "nvEbuDOokZI",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "👩‍💻 Python for Beginners Tutorial",
+    "score": 50
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "Python 101: Learn the 5 Must-Know Concepts",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "V0oTglGb6eQ",
+    "title": "Liam Rosenior Ball 🔵 | Build-Up, Goals \\u0026 Pure Attacking Football",
+    "score": 50
+  },
+  {
+    "id": "AUvp3vQM53g",
+    "title": "Cignetti is the NEW Portal King: How Indiana is Building a Dynasty in the Transfer Portal!",
+    "score": 50
+  },
+  {
+    "id": "C8e6gDaGyHg",
+    "title": "Liam Martin builds his perfect Mad Monday #NRL #rugbyleague #rugby #sport  #penrithpanthers",
+    "score": 50
+  },
+  {
+    "id": "4LacR703c_U",
+    "title": "✅  How To Filter Searches On YouTube  🔴",
+    "score": 50
+  },
+  {
+    "id": "JaVq61Bl9fA",
+    "title": "How To Update Roster / Advance Student Grade Level (Deluxe Users Only)",
+    "score": 50
+  },
+  {
+    "id": "cK4tDiOc9vc",
+    "title": "2026 LCS Offseason Grades + Roster Analysis",
+    "score": 50
+  },
+  {
+    "id": "vwoLG1U484U",
+    "title": "Learn How to Instantly Grade Student Assignments in Excel!",
+    "score": 50
+  },
+  {
+    "id": "fTU1DJlPzzA",
+    "title": "The Greatest Chelsea Comebacks in History",
+    "score": 50
+  },
+  {
+    "id": "aMh-X5d218c",
+    "title": "How good were Chelsea Under Mourinho? 2014/15 Chelsea Season Review",
+    "score": 50
+  },
+  {
+    "id": "Iek9K_BKFpQ",
+    "title": "WHO CAN REBUILD CHELSEA THE BEST?",
+    "score": 50
+  },
+  {
+    "id": "xYpvwfE3xYs",
+    "title": "5 Chelsea boot mistakes TOO many guys make...",
+    "score": 50
+  },
+  {
+    "id": "4XqtjWICYpk",
+    "title": "Christian Gonzalez shares what makes JSN special | Super Bowl LX Opening Night",
+    "score": 50
+  },
+  {
+    "id": "MdJ3f22KcZ4",
+    "title": "Mass Layoffs in Tech: I Survived Them for 25 Years—Until I Didn’t",
+    "score": 50
+  },
+  {
+    "id": "qCFnIsW5OG8",
+    "title": "Curt Cignetti on Fernando Mendoza's success and building Indiana to a winning program",
+    "score": 50
+  },
+  {
+    "id": "FDrgwaolChA",
+    "title": "In Search of Aliens: Nazca's Ancient Geoglyphs (S1, E9) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "NHfeehrxTL4",
+    "title": "In Search of Sasquatch | MonsterQuest (S1, E2) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "wJbK0YamaSU",
+    "title": "In Search of Aliens: WWII Time Travel Warfare (S1, E2) | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "fPu8sU4hIY4",
+    "title": "How Liam Rosenior Transformed Chelsea | Tactical Analysis",
+    "score": 50
+  },
+  {
+    "id": "EZF1NhUES94",
+    "title": "How to Add Starting Soon on OBS",
+    "score": 50
+  },
+  {
+    "id": "nl04xYMOQA0",
+    "title": "How to Negotiate Salary After Job Offer | Show Your Value in a Counteroffer",
+    "score": 50
+  },
+  {
+    "id": "lt8jwKTJXAs",
+    "title": "Budget my 100,000K Salary -  How to budget in 2026 and take control of your money Step-by-Step”",
+    "score": 50
+  },
+  {
+    "id": "iGBUB5UzVyc",
+    "title": "How to Use Google Search",
+    "score": 50
+  },
+  {
+    "id": "SpUTBRJNIO4",
+    "title": "Is DuckDuckGo SAFE? 🔥 My full review on DuckDuckGo privacy",
+    "score": 50
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BkvVvbqe2q4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nQYgUX2gjNc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "10 Smart Gadgets That Will Define 2026: What's Coming",
+    "score": 10
+  },
+  {
+    "id": "t5oSxg5iG44",
+    "title": "China Is Living in 2050",
+    "score": 10
+  },
+  {
+    "id": "KBIXQ-jG9wQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jJYRehW2z_s",
+    "title": "Colossal Shiploader Overhaul | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HyeiX-6nLwY",
+    "title": "Largest Car Factory in the World (Full Episode) | Superstructures: Engineering Marvels | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "gTNpPqjQSK4",
+    "title": "CHINESE FUTURISTIC ENGINEERING: The most amazing wonders",
+    "score": 10
+  },
+  {
+    "id": "hZi4sIMhad8",
+    "title": "When Steel Meets Sweat: Eiffel's Megastructures | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "ملفات إبستين وسوريا!.. في جزيرة معزولة يتحكمون بالدول ويشعلون الحروب",
+    "score": 10
+  },
+  {
+    "id": "V9wJsVK1MgY",
+    "title": "مقدمة",
+    "score": 10
+  },
+  {
+    "id": "i5UkjhqY4io",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "9 HOURS of Python Projects - From Beginner to Advanced",
+    "score": 10
+  },
+  {
+    "id": "Onjs26YvfIQ",
+    "title": "Introducing Python in Excel",
+    "score": 10
+  },
+  {
+    "id": "FbBXtqtRnWU",
+    "title": "Python in Excel",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HGOBQPFzWKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZioqHNFv6Ag",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "53 Years Abandoned / Restoring a Rare 1963 AC Greyhound To Perfection",
+    "score": 10
+  },
+  {
+    "id": "UmiR_aNld68",
+    "title": "I bought an ABANDONED Workshop - 1 Year Transformation *Timelapse*",
+    "score": 10
+  },
+  {
+    "id": "8Y4nk5yElGk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "enVbPY0Zpq0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Xjh2TZvmi4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pA69U4L9KOY",
+    "title": "Master Speaking Basic Spanish in 2 Hours with This Video",
+    "score": 10
+  },
+  {
+    "id": "t7-nb1wlnyA",
+    "title": "Hi, I'm Lucia. Nice to meet you",
+    "score": 10
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "mMv6OSuitWw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fB8gT9TvKXs",
+    "title": "Why Chelsea Wanted Liam Rosenior So Badly",
+    "score": 10
+  },
+  {
+    "id": "W-eSOPcpDeo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "GTVNHrUQGEA",
+    "title": "አርሰናል-ቼልሲ በሊግ ካፕ ግማሽ ፍፃሜ",
+    "score": 10
+  },
+  {
+    "id": "GScAKAEyQkE",
+    "title": "NO PRESSURE on Estevao to RETURN | Liam Rosenior | Arsenal v Chelsea",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "RdS1ln79-WQ",
+    "title": "ARSENAL HAVEN’T WON ANYTHING IN THE LAST FIVE AND A HALF YEARS? 😅 | Liam Rosenior",
+    "score": 10
+  },
+  {
+    "id": "tagaVJX-hF4",
+    "title": "Curt Cignetti: \\\"I win. Google me.\\\"",
+    "score": 10
+  },
+  {
+    "id": "OVB47Nd8r28",
+    "title": "Indiana University football's Curt Cignetti wins Big Ten Coach of the Year",
+    "score": 10
+  },
+  {
+    "id": "0uP6oc1Bh8I",
+    "title": "Paul Finebaum DOESN’T THINK Curt Cignetti’s Indiana reign will last! | The Matt Barrie Show",
+    "score": 10
+  },
+  {
+    "id": "Vim_620HpGU",
+    "title": "National Championship Q\\u0026A: Curt Cignetti speaks following Indiana’s arrival in Miami",
+    "score": 10
+  },
+  {
+    "id": "8hej1-REF7Q",
+    "title": "Insider Just SPILLED TEA that Has Ohio State Fans Smiling | Buckeyes Football",
+    "score": 10
+  },
+  {
+    "id": "Eh7HYje0PKY",
+    "title": "BREAKING: Tennessee Football QB Joey Aguilar SUES NCAA – Can He WIN Millions and Eligibility?",
+    "score": 10
+  },
+  {
+    "id": "xUDZcNkqbMI",
+    "title": "ESPN’s Matt Miller’s 2 Round 2026 NFL Mock Draft - 6 Wide Receivers Taken In Round 1",
+    "score": 10
+  },
+  {
+    "id": "4DxoQs29RLs",
+    "title": "Cole Kmet: Declan Doyle leaving for Ravens is a 'big loss' for Bears | Rahimi, Harris \\u0026 Grote",
+    "score": 10
+  },
+  {
+    "id": "XLFKp6QM5K0",
+    "title": "Michigan \\u0026 Illinois surge, Florida \\u0026 UConn hitting stride, Big 12 keeps improving",
+    "score": 10
+  },
+  {
+    "id": "YXLRPeC4iDI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ohscmQcu5kM",
+    "title": "4-star Georgia signee Tyriq Green leads Buford past Carrollton for Georgia 6A State Championship 🏆 🏈",
+    "score": 10
+  },
+  {
+    "id": "_oFVUBOAIxM",
+    "title": "FB: Curt Cignetti Media Availability (1/16/25)",
+    "score": 10
+  },
+  {
+    "id": "Zuozfa2z67A",
+    "title": "Intro \\u0026 Hype",
+    "score": 10
+  },
+  {
+    "id": "fVaTWDRv7tg",
+    "title": "Indiana Football: Curt Cignetti National Championship Arrival Press Conference",
+    "score": 10
+  },
+  {
+    "id": "r3D056l3YG0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0GosHpo8wA4",
+    "title": "Curt Cignetti never satisfied 😤 #indianafootball #cfp #cfpnationalchampionship #miamifootball #cfb",
+    "score": 10
+  },
+  {
+    "id": "7adWxNeUSGM",
+    "title": "Kurt Elling / I'm Satisfied",
+    "score": 10
+  },
+  {
+    "id": "bF_ERf7sDlM",
+    "title": "I'm Satisfied",
+    "score": 10
+  },
+  {
+    "id": "jsRPQsyNkQk",
+    "title": "What If the Wave Function Describes Knowledge, Not Reality?",
+    "score": 10
+  },
+  {
+    "id": "gWiTkFnrYgA",
+    "title": "Defining Quantum Innovation",
+    "score": 10
+  },
+  {
+    "id": "7plLcHWHSLk",
+    "title": "Is Indiana Head Coach Curt Cignetti Actually Capable of Smiling??? | The Rich Eisen Show",
+    "score": 10
+  },
+  {
+    "id": "-9TC9Wap1Vg",
+    "title": "Going Home Early, Moving Back to the USA",
+    "score": 10
+  },
+  {
+    "id": "rdAlGudbmJc",
+    "title": "Inside the Headset | Curt Cignetti, Head Coach - Indiana",
+    "score": 10
+  },
+  {
+    "id": "y-BZtCK11a8",
+    "title": "Player's Perspective: Curt Cignetti",
+    "score": 10
+  },
+  {
+    "id": "YMcQR2_o94I",
+    "title": "Did Curt Cignetti Pull Of The Greatest Coaching Job Of All Time? | Chris Vernon Show",
+    "score": 10
+  },
+  {
+    "id": "yUEKhvmYRUE",
+    "title": "Happy Birthday Curt",
+    "score": 10
+  },
+  {
+    "id": "8HPkhuopm6w",
+    "title": "Curt - Happy Birthday Curt",
+    "score": 10
+  },
+  {
+    "id": "Sm2I9dwGMaU",
+    "title": "Curt Cignetti ahead of Indiana (+220) vs. Notre Dame 😳",
+    "score": 10
+  },
+  {
+    "id": "_wnw3DjiI_w",
+    "title": "Gotta love Curt Cignetti 💯",
+    "score": 10
+  },
+  {
+    "id": "7ZwknBCsCWk",
+    "title": "Kurt - Happy Birthday Kurt",
+    "score": 10
+  },
+  {
+    "id": "rogN_05JXS8",
+    "title": "The first thing Curt Cignetti changed at Indiana was the culture.",
+    "score": 10
+  },
+  {
+    "id": "6m8jyuI1oAw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "O6Iu--41pa4",
+    "title": "Sean Fegan vs Liam Martin | 68kg Boxing Bout",
+    "score": 10
+  },
+  {
+    "id": "0GHPLxlDxog",
+    "title": "Simon Jordan and Martin Keown EXAMINE Liam Rosenior's Start at Chelsea After DRAMATIC West Ham Win!",
+    "score": 10
+  },
+  {
+    "id": "-C6BoEgex38",
+    "title": "Chris Martin and Ariana Grande - Don't Look Back In Anger (One Love Manchester)",
+    "score": 10
+  },
+  {
+    "id": "y_KCK-pHzqk",
+    "title": "Liam Martin Massive Hit!",
+    "score": 10
+  },
+  {
+    "id": "-lcKenqye_4",
+    "title": "How Remote Work Became the New Business Standard with Liam Martin",
+    "score": 10
+  },
+  {
+    "id": "VG4YXMlI3y8",
+    "title": "Liam Martin opens up about his mum's courage and his late brother | Face to Face",
+    "score": 10
+  },
+  {
+    "id": "cl_3OzqftU0",
+    "title": "Cheeky Liam Martin shares a laugh with Freddy over injury ‘carry on’: In the Sheds | NRL on Nine",
+    "score": 10
+  },
+  {
+    "id": "hfU303aepjg",
+    "title": "When Fiction Becomes Reality - Game of Thrones Actor on Gaza",
+    "score": 10
+  },
+  {
+    "id": "ojQGOD3vywU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9npkpuqXs3A",
+    "title": "Bare Knuckle Title Fight | Liam Rees vs. Martin Reffell | BKB 40 - Cardiff Brawl III",
+    "score": 10
+  },
+  {
+    "id": "S4klyIRC3Ic",
+    "title": "Liam Martin says goodbye to WBZ and TV news",
+    "score": 10
+  },
+  {
+    "id": "ipIxt81sGW8",
+    "title": "'Sad Day For Liam' Child Shames WBZ-TV's Liam Martin For Poor Performance At Camp.",
+    "score": 10
+  },
+  {
+    "id": "VhTDfdoEzAg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wjxkgp5QFdM",
+    "title": "“GIVES UP ON ABSOLUTELY NOTHING” 🗣️ | Liam Martin 2022 Season Summary",
+    "score": 10
+  },
+  {
+    "id": "nEOeYe8Dvg0",
+    "title": "Performing The 'One Love Manchester' Benefit Concert With Coldplay | LIAM GALLAGHER: AS IT WAS",
+    "score": 10
+  },
+  {
+    "id": "lootbLBdc3w",
+    "title": "How the Future of Work Is Remote — Liam Martin on Redefining Work Culture with Time Doctor",
+    "score": 10
+  },
+  {
+    "id": "rgFVGU-4RJs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Excel tip advanced filter unique values",
+    "score": 10
+  },
+  {
+    "id": "wiCTBe9dwKc",
+    "title": "Kai Cenat Exposed His Son Rakai For Lying About His Grades 😂🧢",
+    "score": 10
+  },
+  {
+    "id": "0CrjZIrjZRk",
+    "title": "Request and Roster: Batch Roster by Grade Level",
+    "score": 10
+  },
+  {
+    "id": "n3xrZivcE5E",
+    "title": "Web Grading: Approving and Posting the Roster",
+    "score": 10
+  },
+  {
+    "id": "pUUIdmud70o",
+    "title": "Faculty Video Class and Grade Roster",
+    "score": 10
+  },
+  {
+    "id": "4ZuKNRiANOg",
+    "title": "Your Class Schedule",
+    "score": 10
+  },
+  {
+    "id": "wpIwY55kN9s",
+    "title": "Grading the Last 5 Dallas Cowboys 1st Round Picks #nfl #nfldraft  #cowboys",
+    "score": 10
+  },
+  {
+    "id": "hrMgk9skuGM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j7o3tcPCLuk",
+    "title": "Grading Penn State's Roster Reset (So Far)",
+    "score": 10
+  },
+  {
+    "id": "7pE0BxfaK9k",
+    "title": "Grading the Last 5 San Francisco 49ers 1st Round Picks #nfl #nfldraft #49ers",
+    "score": 10
+  },
+  {
+    "id": "BlPI7iG8o3Q",
+    "title": "OFFSEASON GRADES: Kentucky | 'The Wildcats have the DEEPEST roster in the country' | FIELD OF 68",
+    "score": 10
+  },
+  {
+    "id": "PT4CrEATx20",
+    "title": "Import Grades to the Grade Roster",
+    "score": 10
+  },
+  {
+    "id": "CTJkH7vb7jg",
+    "title": "What is the Roster Method? (Roster Form) | Set Theory, Writing Sets, Expressing Sets",
+    "score": 10
+  },
+  {
+    "id": "Czn3Ljj8mT0",
+    "title": "The Roster Method",
+    "score": 10
+  },
+  {
+    "id": "tevuuCORo5k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y8F03DjBtpM",
+    "title": "AFC South",
+    "score": 10
+  },
+  {
+    "id": "bEkaynyjdwg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zAJcidxmNp4",
+    "title": "THIS Is The Best Barefoot Chelsea Boot Out There! 8 Brand Comparison And Which Is Our Favorite!",
+    "score": 10
+  },
+  {
+    "id": "KOjhRn-J9Cs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4Y7dcqGHPWs",
+    "title": "The 8 BEST CHELSEA BOOTS of 2025, from budget to $700+",
+    "score": 10
+  },
+  {
+    "id": "QZGa09MsRKA",
+    "title": "How we chose this list",
+    "score": 10
+  },
+  {
+    "id": "66bUvZUMNAY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1hF4uIrEDeQ",
+    "title": "13th",
+    "score": 10
+  },
+  {
+    "id": "ssBAxQAt4Ow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9rJm-zy5VH4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ga3WYljYMZ4",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "tRuvGF-OgeM",
+    "title": "Chelsea Goals Worth Watching 100 times !!",
+    "score": 10
+  },
+  {
+    "id": "P5liqnme50A",
+    "title": "Our Top Men's Chelsea Boots | Chelsea Boot Roundup | Huckberry Gear Lab",
+    "score": 10
+  },
+  {
+    "id": "ey7w5OmwfaA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8ikniJe2AOw",
+    "title": "Best rugged chelsea - Red Wing vs Blundstone 550",
+    "score": 10
+  },
+  {
+    "id": "0nB5Tg65wAk",
+    "title": "The Contenders",
+    "score": 10
+  },
+  {
+    "id": "_eKwiiYihxg",
+    "title": "The Best Of Chelsea's 2000 Goals Under Roman Abramovich | Vote now!",
+    "score": 10
+  },
+  {
+    "id": "M2fe1CQYeV8",
+    "title": "Ashley Cole 2009/10 v Sunderland (H)",
+    "score": 10
+  },
+  {
+    "id": "qnMkhRyxiRs",
+    "title": "Best of Chelsea 🔥 #clubworldcup",
+    "score": 10
+  },
+  {
+    "id": "KKRpEI4cklw",
+    "title": "Best Chelsea Boots for Men 2026 - The Only 10 To Consider Today",
+    "score": 10
+  },
+  {
+    "id": "BKSBp20OFaY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kNwohYbmTh0",
+    "title": "EVERY CHELSEA CLUB WORLD CUP GOAL! | TOURNAMENT TOP GOAL SCORERS ⚽️🏆",
+    "score": 10
+  },
+  {
+    "id": "7TKOPVmhipE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6CGjkr4ZcQg",
+    "title": "Fallout Theory Reveals What Thaddeus Is Really Turning Into",
+    "score": 10
+  },
+  {
+    "id": "MilYefF9DjI",
+    "title": "Female Muscle Growth She Hulk Transformations | What Is Happening To Me? 01 #fmg #veo3 #ai",
+    "score": 10
+  },
+  {
+    "id": "YOSdUhgoT80",
+    "title": "Female Muscle Growth She Hulk Transformations | What Is Happening To Me? 03 #fmg #veo3 #ai",
+    "score": 10
+  },
+  {
+    "id": "m_X4q7zo1cc",
+    "title": "Female Inflation Blueberry Transformations | What Is Happening To Me? 04 #veo3 #ai",
+    "score": 10
+  },
+  {
+    "id": "2-vX6XSJPHA",
+    "title": "Tonight You Will Receive a Divine Transformation – It’s Happening! | C.S Lewis Sermons",
+    "score": 10
+  },
+  {
+    "id": "fmdNfhecAl0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GU8TiEVZXw4",
+    "title": "What's Happening To Thaddeus In Fallout Season 2, Episode 7? Is Thaddeus Turning Into A Centaur?",
+    "score": 10
+  },
+  {
+    "id": "Mh7af7ERqFo",
+    "title": "Something terrible is happening in France",
+    "score": 10
+  },
+  {
+    "id": "cJj8_ZyDGuY",
+    "title": "Female Muscle Growth She Hulk Transformations | What Is Happening To Me? 02 #fmg #veo3 #ai",
+    "score": 10
+  },
+  {
+    "id": "H5TPJsLx75Q",
+    "title": "What Happens When You Use a Shovel to Connect a Lake to the Ocean (Crazy Transformation)",
+    "score": 10
+  },
+  {
+    "id": "TtEfu5P6kW4",
+    "title": "\\\"What's Happening Is Not A Coincidence\\\" | Whitney Webb",
+    "score": 10
+  },
+  {
+    "id": "PXD4h8MWBMw",
+    "title": "Cooper Clearly Knows What Thaddeus Is Going to Become #Fallout #FalloutTVShow",
+    "score": 10
+  },
+  {
+    "id": "ijeftlGRh5s",
+    "title": "Transforming Wild : Major shifts occurring",
+    "score": 10
+  },
+  {
+    "id": "CAcyFPcBWUo",
+    "title": "LIAM ROSENIOR IS TRANSFORMING CHELSEA… AND IT’S HAPPENING FAST 😱",
+    "score": 10
+  },
+  {
+    "id": "2HV5GjzC3Y4",
+    "title": "A lot has happened.. #transformation #motivation #gymlife #gymmotivation",
+    "score": 10
+  },
+  {
+    "id": "eRsuu8MKhlg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "D8ld13mWgws",
+    "title": "Diego Pavia Snubbed For Heisman? - Josh Pate's College Football Show",
+    "score": 10
+  },
+  {
+    "id": "nIFXSanWaig",
+    "title": "Josh Pate On Worst Heisman Snubs Ever (Late Kick Cut)",
+    "score": 10
+  },
+  {
+    "id": "4nVY2yYPf98",
+    "title": "Will anderson",
+    "score": 10
+  },
+  {
+    "id": "-ykqbYDCC-o",
+    "title": "Another Non-QB Heisman In 2025? - Josh Pate Cut",
+    "score": 10
+  },
+  {
+    "id": "x7ZVKEvXC3s",
+    "title": "Inside the Mind | Heisman Candidate Josh Adams (2017)",
+    "score": 10
+  },
+  {
+    "id": "UH-maw6xe0M",
+    "title": "Josh Pate's Heisman Favorite Entering 2025 Is....?",
+    "score": 10
+  },
+  {
+    "id": "d4HRgnh5UD4",
+    "title": "Josh Pate On Drake Maye For Heisman (Late Kick Cut)",
+    "score": 10
+  },
+  {
+    "id": "rDpKC2SD-2g",
+    "title": "Josh Pate On The Right Heisman Winner (Late Kick Cut)",
+    "score": 10
+  },
+  {
+    "id": "LbKAfFYJ1nI",
+    "title": "Tez Johnson calls out Jeremiah Smith 👀🍿",
+    "score": 10
+  },
+  {
+    "id": "9XlMqi5KX28",
+    "title": "ESPN’s Josh Pate’s Way-Too-Early 2026 Heisman Trophy Prediction | The Rich Eisen Show",
+    "score": 10
+  },
+  {
+    "id": "hQJCUR4C9Z4",
+    "title": "Josh Pate PREDICTS College Football Season, National Champions, Heisman Winner, \\u0026 HIGH on Georgia!",
+    "score": 10
+  },
+  {
+    "id": "bRIYYdBX9RI",
+    "title": "JOSH PATE JOINS THE SHOW",
+    "score": 10
+  },
+  {
+    "id": "TnoASCgnUJs",
+    "title": "Josh Adams on the Heisman hype",
+    "score": 10
+  },
+  {
+    "id": "RmaX5f6mj4c",
+    "title": "Josh Adams Heisman Campaign || \\\"Bout Time\\\" || HD Notre Dame Football 2017-2018",
+    "score": 10
+  },
+  {
+    "id": "b10_1XQ_j4s",
+    "title": "Josh Pate On Two Heisman Dark Horses (Late Kick Cut)",
+    "score": 10
+  },
+  {
+    "id": "MqaJjrsj7rE",
+    "title": "Baker Mayfield went from being a walk-on in college to Heisman winner and the #1 pick",
+    "score": 10
+  },
+  {
+    "id": "V0-aT7Gi0u8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HWoEyqeXhE0",
+    "title": "Georgia's MASSIVE Win | Indiana 5-Star Buzz! | Oregon Loading Up",
+    "score": 10
+  },
+  {
+    "id": "nQXXTUO9I6U",
+    "title": "The Wiltfong Whiparound",
+    "score": 10
+  },
+  {
+    "id": "ONf4AhHppzA",
+    "title": "BREAKING: UGA football lands the No.1 running back in the country | Georgia adds 5-star Kemon Spell",
+    "score": 10
+  },
+  {
+    "id": "n8e7quwReY8",
+    "title": "Boom! Georgia lands a 5-star | Guess how close we are to spring practice",
+    "score": 10
+  },
+  {
+    "id": "kIzc8TPxqGw",
+    "title": "2010 Worlds Georgia Allstars - Senior Semi-Limited Coed 5",
+    "score": 10
+  },
+  {
+    "id": "VXSzfUxEAE8",
+    "title": "So Icy Boyz vs Georgia Packers🔥🔥10U Youth Football | WARZONE",
+    "score": 10
+  },
+  {
+    "id": "YFp2L-9OhCc",
+    "title": "When Phillip catches Amber taking the edge off on her first day back to work!",
+    "score": 10
+  },
+  {
+    "id": "UVQYtAmB1Ds",
+    "title": "Trump’s All Over the Epstein Files, Attacks Jimmy Kimmel After the Grammys \\u0026 Don Lemon Gets Arrested",
+    "score": 10
+  },
+  {
+    "id": "vOsGTYgVJDI",
+    "title": "You Still Don't Understand Indiana...",
+    "score": 10
+  },
+  {
+    "id": "ycuR3Naa5tk",
+    "title": "Trump’s All Over the Epstein Files, Attacks Jimmy Kimmel After the Grammys \\u0026 Don Lemon Gets Arrested",
+    "score": 10
+  },
+  {
+    "id": "b5z9Ogju5_E",
+    "title": "Trump Accused Of Heinous Acts With Young Girls | DOJ Exposes Epstein Victims | We Won't Investigate",
+    "score": 10
+  },
+  {
+    "id": "F9ZreI7Ny_Y",
+    "title": "Trump’s All Over the Epstein Files, Attacks Jimmy Kimmel After the Grammys \\u0026 Don Lemon Gets Arrested",
+    "score": 10
+  },
+  {
+    "id": "v1CYzMoQjjc",
+    "title": "Georgia 5 Star Sports Winter Classic (11U Game)",
+    "score": 10
+  },
+  {
+    "id": "rGiliGnn_JM",
+    "title": "🔥🔥Georgia Elite Classic 12U Youth Football Highlights",
+    "score": 10
+  },
+  {
+    "id": "7Sl5PQLdGbg",
+    "title": "Georgia 5 Star Sports Winter Classic (10U Game)",
+    "score": 10
+  },
+  {
+    "id": "eHxnwA7emi0",
+    "title": "Which Ginny \\u0026 Georgia Star Has A Better Fashion Sense? | Drip or Drop | Cosmopolitan",
+    "score": 10
+  },
+  {
+    "id": "pVVs51edjzM",
+    "title": "oversized suit",
+    "score": 10
+  },
+  {
+    "id": "Te2fDjmiZ24",
+    "title": "Georgia 5 Star Sports Winter Classic (8th Grade)",
+    "score": 10
+  },
+  {
+    "id": "XKsyxJBMksE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "o_RS9kaf6CI",
+    "title": "National Championships 2025 | Grand Finale - 30th Jan 2026",
+    "score": 10
+  },
+  {
+    "id": "mDFjIuPoQdM",
+    "title": "2018 College Football:  (#2) Clemson vs. (#1) Alabama (National Championship) (Full Game)",
+    "score": 10
+  },
+  {
+    "id": "e4l-rlCkUOg",
+    "title": "Indiana National Championship Celebration | Big Ten Football | 01/24/2026",
+    "score": 10
+  },
+  {
+    "id": "VZA91VWM5EM",
+    "title": "Kentucky vs. Kansas: 2012 National Championship | FULL GAME",
+    "score": 10
+  },
+  {
+    "id": "jZj2UkglB9E",
+    "title": "Pentatonix performs the Star Spangled Banner at the 2023 CFB National Championship 🇺🇸",
+    "score": 10
+  },
+  {
+    "id": "fqWY2EUGlgk",
+    "title": "South Carolina vs. Iowa - 2024 NCAA women’s national championship | FULL REPLAY",
+    "score": 10
+  },
+  {
+    "id": "emZIIc_n9kw",
+    "title": "National Championship: TCU Horned Frogs vs. Georgia Bulldogs | Full Game Highlights",
+    "score": 10
+  },
+  {
+    "id": "JbInPJ_uKoE",
+    "title": "LSU vs. Iowa - 2023 NCAA women’s national championship | FULL REPLAY",
+    "score": 10
+  },
+  {
+    "id": "tGCRWMkQQx8",
+    "title": "North Carolina vs. Illinois: Final 5 minutes of 2005 National Championship",
+    "score": 10
+  },
+  {
+    "id": "wheGEKVBabQ",
+    "title": "Jamal Roberts: \\\"I Went Back to Work After I Won ‘American Idol’\\\"",
+    "score": 10
+  },
+  {
+    "id": "1U9iLHW3A5U",
+    "title": "9 yr old COCO Jones \\\"Unbelievable singer\\\"",
+    "score": 10
+  },
+  {
+    "id": "W8VoH7XFZ-8",
+    "title": "2020 National Championship: LSU Tigers vs. Clemson Tigers | January 13, 2020 | ESPN College Football",
+    "score": 10
+  },
+  {
+    "id": "2qJAbuIBzq4",
+    "title": "Can You Win a National Championship with Only Linemen?",
+    "score": 10
+  },
+  {
+    "id": "DkgDjUu_22s",
+    "title": "Pentatonix Performs the National Anthem",
+    "score": 10
+  },
+  {
+    "id": "rNzVSQsL9gY",
+    "title": "South Carolina vs. Mississippi State: 2017 NCAA women's national championship | FULL REPLAY",
+    "score": 10
+  },
+  {
+    "id": "GA3b_KQbsbs",
+    "title": "NCAAF 2021 CFP National Championship - Georgia Bulldogs vs. Alabama Crimson Tide",
+    "score": 10
+  },
+  {
+    "id": "-VGi6RNiSsI",
+    "title": "2011 BCS National Championship - #2 Oregon vs #1 Auburn",
+    "score": 10
+  },
+  {
+    "id": "C1AZAzxj2XU",
+    "title": "2011 BCS National Championship - #2 Alabama vs. #1 LSU (HD)",
+    "score": 10
+  },
+  {
+    "id": "9CYHnDA5lgw",
+    "title": "Coco Jones performs the National Anthem before the CFB National Championship | ESPN CFB",
+    "score": 10
+  },
+  {
+    "id": "T5p_hgOydP8",
+    "title": "2022 CFP National Championship, #3 Georgia vs #1 Alabama (Highlights)",
+    "score": 10
+  },
+  {
+    "id": "Pzg2ARCrLLY",
+    "title": "Indiana Football: National Championship Recap",
+    "score": 10
+  },
+  {
+    "id": "cfB4487iKBo",
+    "title": "Breaking Into a Smart Home With A Laser - Smarter Every Day 229",
+    "score": 10
+  },
+  {
+    "id": "ozIKwGt38LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0ba7XxQvtZQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_zJXKMiYZG8",
+    "title": "Are Smart Locks Safe? A Lock Expert Explains | WSJ",
+    "score": 10
+  },
+  {
+    "id": "U5gqOwQROTg",
+    "title": "Meet Marc, a lock security expert",
+    "score": 10
+  },
+  {
+    "id": "izMs2R7gtfE",
+    "title": "Breaking Smart Speakers: We are Listening to You",
+    "score": 10
+  },
+  {
+    "id": "bI9BxMSWHZI",
+    "title": "Why Your Smart Home is About to Break (2026)",
+    "score": 10
+  },
+  {
+    "id": "fecU0oTu-2E",
+    "title": "The Agent Coming For Your Smart Home",
+    "score": 10
+  },
+  {
+    "id": "INo3eo8nEas",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4NSr9NEtufk",
+    "title": "China bans security software from the US and Israel",
+    "score": 10
+  },
+  {
+    "id": "TGXM1h4KF_Q",
+    "title": "CHECKMATE: China Preparing To Reveal REAL Gold Reserves! (Financial Military Parade)",
+    "score": 10
+  },
+  {
+    "id": "vEw5mwiPz0M",
+    "title": "Trump’s All Over the Epstein Files, Attacks Jimmy Kimmel After the Grammys \\u0026 Don Lemon Gets Arrested",
+    "score": 10
+  },
+  {
+    "id": "aN_0-Mmf1L4",
+    "title": "Inside Moltbook, the new social media network for artificial intelligence agents",
+    "score": 10
+  },
+  {
+    "id": "zPzXbWCsAJI",
+    "title": "Bravo BOMBSHELL: Epstein Emails Mention Carole Radziwill \\u0026 Whitney Sudler-Smith",
+    "score": 10
+  },
+  {
+    "id": "Tb07iHoJxwU",
+    "title": "Here's Why the SCHD 2026 Reconstitution Could Change EVERITHING!",
+    "score": 10
+  },
+  {
+    "id": "L80y70hA8oM",
+    "title": "SCHD Reconstitution Introduction",
+    "score": 10
+  },
+  {
+    "id": "Vg-vtrw3jA4",
+    "title": "How Walter White Manipulated Everyone in Breaking Bad",
+    "score": 10
+  },
+  {
+    "id": "q1e4g81AVl0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mGR3h6KTntc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "95-pdnUQQSo",
+    "title": "What to Look For",
+    "score": 10
+  },
+  {
+    "id": "BRKJSH8a7bU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tqjNjMSR_F0",
+    "title": "Zoom alternative - la véritable CLASSE VIRTUELLE pour donner un cours de math en ligne facilement !",
+    "score": 10
+  },
+  {
+    "id": "A_xQtDgZYnA",
+    "title": "Changer la langue",
+    "score": 10
+  },
+  {
+    "id": "tZ_tRt-ZclQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zt1AgYeDnEU",
+    "title": "Fernando Mendoza's impression of Curt Cignetti",
+    "score": 10
+  },
+  {
+    "id": "mICD42vFzE8",
+    "title": "Coach Cignetti's opening statements",
+    "score": 10
+  },
+  {
+    "id": "01J6QX4wdn0",
+    "title": "Fernando Mendoza gave his Curt Cignetti impression😭 #collegefootball #fernandomendoza #indiana",
+    "score": 10
+  },
+  {
+    "id": "vaJF8m5rSvI",
+    "title": "DK's Daily Shot of Steelers: McCarthy's list",
+    "score": 10
+  },
+  {
+    "id": "J4xskThaPck",
+    "title": "You Still Don't Understand Indiana...",
+    "score": 10
+  },
+  {
+    "id": "JJnM088TaPk",
+    "title": "GMFB | Kyle Brandt on NFL coaching: Raiders hire Klint Kubiak and Cardinals hire Mike LaFleur",
+    "score": 10
+  },
+  {
+    "id": "NxRI8oSU8aI",
+    "title": "Who's the NEXT Fernando Mendoza for Curt Cignetti? 👀 Josh Pate explains... | The Rich Eisen Show",
+    "score": 10
+  },
+  {
+    "id": "HIfsEfwIcmU",
+    "title": "Acupuncture experience",
+    "score": 10
+  },
+  {
+    "id": "u3xUCtUlB5M",
+    "title": "Fernando Mendoza wins the 2025 Heisman Trophy 🏆 [FULL SPEECH] | ESPN College Football",
+    "score": 10
+  },
+  {
+    "id": "NEOeo28mbd4",
+    "title": "Davey O’Brien Award – Top QB",
+    "score": 10
+  },
+  {
+    "id": "Qssfo0yeJfw",
+    "title": "Curt Cignetti on the no-calls on Fernando Mendoza",
+    "score": 10
+  },
+  {
+    "id": "p-iSL5sfQ_0",
+    "title": "Tempers flare between Indiana and Iowa after hit on Fernando Mendoza | Big Ten on NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "jAcVUHRVZZ8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WeAmDtnFzFQ",
+    "title": "This Football Game Is AMAZING",
+    "score": 10
+  },
+  {
+    "id": "yhfLOLpFjQQ",
+    "title": "I Found This Football Box at Target!…",
+    "score": 10
+  },
+  {
+    "id": "fn0Ic28xvcM",
+    "title": "Solanke Scorpion KICK! City COLLAPSE! Tottenham 2-2 Man City Highlights",
+    "score": 10
+  },
+  {
+    "id": "Kosh0qObSAQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Dn2KGu4EL_w",
+    "title": "Watch the Football! ⚽ | That Mitchell and Webb Look - BBC",
+    "score": 10
+  },
+  {
+    "id": "MusyO7J2inM",
+    "title": "This is FOOTBALL -  2017/18",
+    "score": 10
+  },
+  {
+    "id": "GlX7bLRbPJI",
+    "title": "Tony Romo: From the Small Town to the Big Stage | A Football Life",
+    "score": 10
+  },
+  {
+    "id": "25CRk33DwMU",
+    "title": "Walter Payton Award",
+    "score": 10
+  },
+  {
+    "id": "lydWjEkcGkU",
+    "title": "This is Football - 2010's Decade Recap",
+    "score": 10
+  },
+  {
+    "id": "89391bPiIk0",
+    "title": "THIS FOOTBALL TEAM HAS NEVER BEEN SCORED ON! (BEST DEFENSE EVER)",
+    "score": 10
+  },
+  {
+    "id": "bMrZ-LaOqAY",
+    "title": "This is Football - The Beautiful Game",
+    "score": 10
+  },
+  {
+    "id": "yXS8iNKqsCM",
+    "title": "Football is Awesome 2016  [FMS 1MILLION]",
+    "score": 10
+  },
+  {
+    "id": "EXhgAq1NokM",
+    "title": "This is Football / 2024 Best Moments",
+    "score": 10
+  },
+  {
+    "id": "8Fz-AA_h8_E",
+    "title": "This Football Game Gave Me Nightmares...",
+    "score": 10
+  },
+  {
+    "id": "dBSZj3dbwo4",
+    "title": "This Is Football • 2016 - 4K",
+    "score": 10
+  },
+  {
+    "id": "o83TYDpMbEE",
+    "title": "This is Football 2016/17 - The Beautiful Game",
+    "score": 10
+  },
+  {
+    "id": "oEqxEyOoyIo",
+    "title": "This is Football - 2021",
+    "score": 10
+  },
+  {
+    "id": "CelNIDZ6ux0",
+    "title": "This Is The Worst Ball Ever🤮#football",
+    "score": 10
+  },
+  {
+    "id": "-ZefW68exzE",
+    "title": "Roy Shows No Mercy for Nuno \\u0026 Problems with Trent \\u0026 Foden | Stick to Football 93",
+    "score": 10
+  },
+  {
+    "id": "8uANr-DeN4w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DNpTg8h8zSY",
+    "title": "Palmer \\u0026 James READY for Brentford? | Liam Rosenior | Chelsea v Brentford",
+    "score": 10
+  },
+  {
+    "id": "y2kg_h1ktjw",
+    "title": "Delap illness? He's still at home at the moment recovering, as is Jamie Gittens. The club doctors are looking to contain a virus because some of our staff have gone down as well. We had a meeting today, telling everyone to wash their hands and everything which is important.",
+    "score": 10
+  },
+  {
+    "id": "vuBqaBnUggk",
+    "title": "Liam Rosenior pre-match press conference | Charlton Athletic v Chelsea | FA Cup",
+    "score": 10
+  },
+  {
+    "id": "Cie2wdsrfQ4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SjlenXPWCFw",
+    "title": "Palmer \\u0026 James BRILLIANT | Liam Rosenior | Chelsea 2-0 Brentford",
+    "score": 10
+  },
+  {
+    "id": "l7prZpogHXs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "-sV80SnltAo",
+    "title": "ROSENIOR \\u0026 JOÃO PEDRO react post-Napoli | Napoli 2-3 Chelsea | UCL 25/26",
+    "score": 10
+  },
+  {
+    "id": "_1PgtBgKs2Q",
+    "title": "Liam Rosenior post-match press conference | Chelsea 2-0 Brentford | Premier League",
+    "score": 10
+  },
+  {
+    "id": "h0dXc4_MnuY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oB0F6cewrLg",
+    "title": "Emanuel Emegha is a PROPER Striker!.",
+    "score": 10
+  },
+  {
+    "id": "bejCsUI7Kt8",
+    "title": "5 minutes of Cesc Fabregas being a MAGICIAN! | Premier League",
+    "score": 10
+  },
+  {
+    "id": "KvjB6w3xStg",
+    "title": "MINUTES OF",
+    "score": 10
+  },
+  {
+    "id": "D0Ki0m4a-VI",
+    "title": "The Scary Part Of Liam Rosenior Ball Nobody's Noticing",
+    "score": 10
+  },
+  {
+    "id": "cu6tV92CM9E",
+    "title": "LIAM ROSENIOR's Exclusive first interview | New Chelsea Head Coach 🔵",
+    "score": 10
+  },
+  {
+    "id": "wAawwN4Dz8o",
+    "title": "On how he feels becoming Chelsea Head Coach",
+    "score": 10
+  },
+  {
+    "id": "8AnIhwaqgjA",
+    "title": "Why Chelsea Wanted Liam Rosenior So Badly",
+    "score": 10
+  },
+  {
+    "id": "Q6bO_IKVrJE",
+    "title": "How Liam Rosenior’s GENIUS Chelsea Tactics SHOCKED West Ham!",
+    "score": 10
+  },
+  {
+    "id": "Aa_ak02XWIY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "c7EAKmK6UhQ",
+    "title": "Napoli vs. Chelsea: Extended Highlights | UCL League Phase MD 8 | CBS Sports Golazo",
+    "score": 10
+  },
+  {
+    "id": "moxFxisZFGI",
+    "title": "Chelsea v. Sunderland | PREMIER LEAGUE HIGHLIGHTS | 10/25/2025 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "V2YMpu_Oweg",
+    "title": "Nottingham Forest v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 10/18/2025 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "Gbz3J8ud0VY",
+    "title": "West Ham United v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 8/22/2025 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "bnpVPd__dX0",
+    "title": "Chelsea v. Bournemouth | PREMIER LEAGUE HIGHLIGHTS | 12/30/2025 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "3UzBEPJZMZg",
+    "title": "Newcastle v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 12/20/2025 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "Udt0HQgUey4",
+    "title": "Chelsea 3-2 West Ham | Premier League Highlights",
+    "score": 10
+  },
+  {
+    "id": "DDQ_hXNsags",
+    "title": "Manchester City v. Chelsea | PREMIER LEAGUE HIGHLIGHTS | 1/4/2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "O4rhCNZJArA",
+    "title": "Crystal Palace 1-3 Chelsea | HIGHLIGHTS - Extended | Premier League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "zrKrkcAH1Uk",
+    "title": "Chelsea 1-2 Sunderland | HIGHLIGHTS - Extended | Premier League 2025/26",
+    "score": 10
+  },
+  {
+    "id": "Aqe6C9iQ-HQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ABM__Eq-VKY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DZCGocLDrR4",
+    "title": "Forensic Files - Season 10, Episode 35 - Sole Searching - Full Episode",
+    "score": 10
+  },
+  {
+    "id": "g34lDUxodZo",
+    "title": "The Nazca Lines Mystery",
+    "score": 10
+  },
+  {
+    "id": "tlfGyCNaz5E",
+    "title": "SEARCH TV Series (1972) \\\"One of Our Probes Is Missing\\\"",
+    "score": 10
+  },
+  {
+    "id": "Kv56MbXsYhQ",
+    "title": "The Snow Grove Lake Cabin Incidents",
+    "score": 10
+  },
+  {
+    "id": "Oi9Kacak4sw",
+    "title": "Lisa Renee Was Kidnapped",
+    "score": 10
+  },
+  {
+    "id": "czuqyKRkbBU",
+    "title": "The Search for King Solomon's Mines",
+    "score": 10
+  },
+  {
+    "id": "wNqTfZYyj-w",
+    "title": "FBI Arrests 234 Judges - How Cartel Corrupted Every Level of Justice in 7 States",
+    "score": 10
+  },
+  {
+    "id": "0JU9MHQlwLY",
+    "title": "Big Stories are Breaking… and Quietly Disappearing",
+    "score": 10
+  },
+  {
+    "id": "mgpCKeA3n54",
+    "title": "Trump Accused Of Heinous Acts With Young Girls | DOJ Exposes Epstein Victims | We Won't Investigate",
+    "score": 10
+  },
+  {
+    "id": "_uZj5PZB4-0",
+    "title": "Jimmy Kimmel Interviews Don Lemon for the First Time Post-Arrest",
+    "score": 10
+  },
+  {
+    "id": "M5Q9W6Cozrk",
+    "title": "NFL Owners PANIC As Kid Rock Announces PATRIOTIC Halftime Show",
+    "score": 10
+  },
+  {
+    "id": "xgkpn-IjgwA",
+    "title": "Trump Accused Of Heinous Acts With Young Girls | DOJ Exposes Epstein Victims | We Won't Investigate",
+    "score": 10
+  },
+  {
+    "id": "VfKC_XRRxvE",
+    "title": "The Nazi Wunderwaffe and Die Glocke Mystery",
+    "score": 10
+  },
+  {
+    "id": "F3zf-u6XnUk",
+    "title": "5-03 In Search Of... Lee Harvey Oswald (Full Episode)",
+    "score": 10
+  },
+  {
+    "id": "T1ejGsOzx9I",
+    "title": "Double Episode: Sisters Seek DNA Test Find Out The Identity of Their Father | Paternity Court",
+    "score": 10
+  },
+  {
+    "id": "emmmNX8Gmk4",
+    "title": "Searching for Bigfoot in America’s Hot Zone (S1, E5) | In Search of Aliens | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "wWVDIi479zs",
+    "title": "Who’s the Best NINJA? Talent Search Episode 3",
+    "score": 10
+  },
+  {
+    "id": "rgRh9hpBRL0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MiklUasYYMo",
+    "title": "The Mystery of the Roswell Rock",
+    "score": 10
+  },
+  {
+    "id": "8InOvKU_b6c",
+    "title": "He-Man - The Search - FULL episode",
+    "score": 10
+  },
+  {
+    "id": "gUmqc3tIRSE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "S91pChLJmF0",
+    "title": "Kaberere \\u0026 Mr. Vee - Just a way (Official hd video)",
+    "score": 10
+  },
+  {
+    "id": "gKwttHCgxYs",
+    "title": "Céline Dion - Just Walk Away (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "kcUK2zkbQg0",
+    "title": "Céline Dion - Just Walk Away (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "SbBjtWpwNGk",
+    "title": "Just A Cloud Away",
+    "score": 10
+  },
+  {
+    "id": "i3APpRmkqSM",
+    "title": "Just a Motion Away",
+    "score": 10
+  },
+  {
+    "id": "LjhCEhWiKXk",
+    "title": "Billy Joel - Just the Way You Are (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "HaA3YZ6QdJU",
+    "title": "Bruno Mars - Just The Way You Are (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "u7XjPmN-tHw",
+    "title": "Pharrell Williams - Just a Cloud Away (Lyrics) this rainy day is temporary | Despicable Me",
+    "score": 10
+  },
+  {
+    "id": "MBfK4UoHsuo",
+    "title": "Love Is Just A Touch Away",
+    "score": 10
+  },
+  {
+    "id": "SyC-_xMyVIo",
+    "title": "Barclay James Harvest - Just a Day away 1983",
+    "score": 10
+  },
+  {
+    "id": "0-BGxmQ4QPQ",
+    "title": "Heaven's Just A Sin Away",
+    "score": 10
+  },
+  {
+    "id": "-zhMjLGMKYI",
+    "title": "The Kendalls ~ Heavens Just A Sin Away",
+    "score": 10
+  },
+  {
+    "id": "Z0ZK1DvTBpw",
+    "title": "Jeannie Kendall - Heaven's Just A Sin Away",
+    "score": 10
+  },
+  {
+    "id": "DsFy-K-gEng",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ei7gMVlFnKI",
+    "title": "Join us for a California Missions pilgrimage",
+    "score": 10
+  },
+  {
+    "id": "RCrbX4kqXLg",
+    "title": "Lauds February 2, 2026 Feast of the Presentation of the Lord",
+    "score": 10
+  },
+  {
+    "id": "pTx3unBVdJ4",
+    "title": "Lauds February 3, 2026 Memorial of Saint Blaise Bishop and Martyr",
+    "score": 10
+  },
+  {
+    "id": "8icUJ6dTOuI",
+    "title": "DivineOffice| Lauds 4th Tuesday of OT St. Blaise and St. Ansgar February 3, 2026",
+    "score": 10
+  },
+  {
+    "id": "4fkP87JTXPo",
+    "title": "John Eustace lauds the Rovers fans ahead of Lancashire derby",
+    "score": 10
+  },
+  {
+    "id": "b0kJ66gCC2c",
+    "title": "Feb 1 - Sunday Morning Prayer Lauds | Divine Office Lauds",
+    "score": 10
+  },
+  {
+    "id": "8lZlq3vbnDo",
+    "title": "2.2.26 Lauds, Monday Morning Prayer of the Liturgy of the Hours",
+    "score": 10
+  },
+  {
+    "id": "3DcYPdUCSm8",
+    "title": "CA Pilgrimage Info",
+    "score": 10
+  },
+  {
+    "id": "T4xC1hFdi7U",
+    "title": "2.3.26 Vespers, Tuesday Evening Prayer of the Liturgy of the Hours",
+    "score": 10
+  },
+  {
+    "id": "xsXRxr1xK3c",
+    "title": "Introductory Rite: Deus in adjutorium – \\\"O God come to my assistance\\\"",
+    "score": 10
+  },
+  {
+    "id": "KhOh8_Jp45Q",
+    "title": "Catholic Mass Today | Daily TV Mass, Tuesday February 3, 2026",
+    "score": 10
+  },
+  {
+    "id": "MznywxjVBB0",
+    "title": "CATHOLIC MASS OF THE DAY 03-02-2026 @ HOLY CROSS CATHEDRAL, LAGOS ARCHDIOCESE",
+    "score": 10
+  },
+  {
+    "id": "DrXxJUtuAG8",
+    "title": "Does Familiarity Breed Contempt? - Wednesday, February 4, 2026",
+    "score": 10
+  },
+  {
+    "id": "kCjQzjEyz2M",
+    "title": "Beginning",
+    "score": 10
+  },
+  {
+    "id": "kNP8hOS6_ZE",
+    "title": "Only these candles will illuminate the darkest days: The Feast of Candlemas and the importance of...",
+    "score": 10
+  },
+  {
+    "id": "qvGeN6yu9FM",
+    "title": "Tuesday Rosary 💚 Sorrowful Mysteries of the Rosary 💚 February 3, 2026 VIRTUAL ROSARY",
+    "score": 10
+  },
+  {
+    "id": "UtoljcTwXXc",
+    "title": "The Saint of the Day",
+    "score": 10
+  },
+  {
+    "id": "3gzkrjalOfU",
+    "title": "Rich Eisen Lauds Darnold \\u0026 Vikings’ “Exciting” Season | What the Football w Suzy Shuster \\u0026 Amy Trask",
+    "score": 10
+  },
+  {
+    "id": "tFU17IDv8ko",
+    "title": "Bulldog Nation: MacNealy Leadership Award lauds football's top dog",
+    "score": 10
+  },
+  {
+    "id": "vyvLR8TRB9E",
+    "title": "Football scout Richard Hughes lauds the Assessment Trials",
+    "score": 10
+  },
+  {
+    "id": "BOEujEpojZU",
+    "title": "WITH LINKS TO BURNLEY \\u0026 TAMWORTH, SCOUT RICHARD HUGHES TALKS ASSESSMENT TRIALS",
+    "score": 10
+  },
+  {
+    "id": "KHThk_1gg_Q",
+    "title": "Xavi Lauds Teen Sensation Cubarsí's Composure and Urges Caution with Messi Comparisons for Yamal",
+    "score": 10
+  },
+  {
+    "id": "DBiJfDhSLzQ",
+    "title": "FA lauds ‘dramatic rise’ in women’s football participation",
+    "score": 10
+  },
+  {
+    "id": "1lyEVhllZHw",
+    "title": "Head coach David Braun lauds 'player-led' Northwestern Wildcats football program | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "-GvnCAxQhqQ",
+    "title": "Catching his breath",
+    "score": 10
+  },
+  {
+    "id": "xcHf6FuTfww",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CS-aaIUga7I",
+    "title": "Rosenior\",\"bold\":true},{\"text\":\" explains why he does not believe in having a ...",
+    "score": 10
+  },
+  {
+    "id": "sqDNxhZgQRg",
+    "title": "NO PRESSURE on Estevao to RETURN | Liam Rosenior | Arsenal v Chelsea",
+    "score": 10
+  },
+  {
+    "id": "lpustcrx9mI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "k5JvfOBpdAo",
+    "title": "Arsenal Are On \\\"DIFFERENT LEVEL❗\\\"🚨 They COOKED Rodri🤬 \\\" He Should Be SUSBENDED \\u0026 FINED\\\"⛔",
+    "score": 10
+  },
+  {
+    "id": "wqm4Z3eZ3so",
+    "title": "Liam Rosenior System - Jamie Carragher Breakdown",
+    "score": 10
+  },
+  {
+    "id": "r_UHuUeZvm8",
+    "title": "What They Won\\\"t Tell You About Liam Rosenior",
+    "score": 10
+  },
+  {
+    "id": "k0qvh0-KVgA",
+    "title": "The panel discuss Rosenior, Chelsea’s COMEBACK and crazy FIGHT…",
+    "score": 10
+  },
+  {
+    "id": "2s9ZLu6zkZA",
+    "title": "CHELSEA APPOINT LIAM ROSENIOR 🤬",
+    "score": 10
+  },
+  {
+    "id": "DCNPPD_3j5M",
+    "title": "Liam Rosenior POSITIVE After Chelsea Win! First Game Triumph vs Charlton | FA Cup Takeover!",
+    "score": 10
+  },
+  {
+    "id": "JtMMznTuNMI",
+    "title": "The Liam Rosenior Set Up That Could Transform Chelsea!!!",
+    "score": 10
+  },
+  {
+    "id": "DO5BmvXfz3w",
+    "title": "STAY or GO: Who Will Liam Rosenior KEEP At Chelsea?",
+    "score": 10
+  },
+  {
+    "id": "ggebnt6L3EQ",
+    "title": "6 WINS IN 7! | The panel discuss Chelsea and Rosenior…",
+    "score": 10
+  },
+  {
+    "id": "gvkXBvGv12Q",
+    "title": "What To Expect From Liam Rosenior At Chelsea | The Overlap Breakdown",
+    "score": 10
+  },
+  {
+    "id": "63MHiW30gHc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "WIPWaua7UQs",
+    "title": "Indianapolis killed this Google data center. It would have used 1 million gallons of water per day.",
+    "score": 10
+  },
+  {
+    "id": "bhOHyNBPi_Q",
+    "title": "GOOGLE ME!! 😤 #indiana #hoosiers",
+    "score": 10
+  },
+  {
+    "id": "YZz9UzgA2AQ",
+    "title": "'GOOGLE ME': Curt Cignetti brings an OUTSPOKEN EDGE to Indiana | College GameDay",
+    "score": 10
+  },
+  {
+    "id": "WdLcUoK50O4",
+    "title": "Public hearing set for proposed Google data center in Indianapolis",
+    "score": 10
+  },
+  {
+    "id": "2sebo_R4xNw",
+    "title": "Google Me: Curt Cignetti explains Indiana football's instant success | Big Ten on NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "mI24YXdXaZk",
+    "title": "Why did Curt Cignetti come to Indiana",
+    "score": 10
+  },
+  {
+    "id": "OdarE5xziqg",
+    "title": "Google funds free career visits for Northeast Indiana students",
+    "score": 10
+  },
+  {
+    "id": "fcw4-V57vLg",
+    "title": "Google pulls Franklin Township data center plan just MINUTES before council vote",
+    "score": 10
+  },
+  {
+    "id": "dwgeCZt6xPA",
+    "title": "Google Curt Cignetti... ‼️ 😤 #cfb #football #cfp #champions #indiana #hoosiers",
+    "score": 10
+  },
+  {
+    "id": "xAltNoJ3mLI",
+    "title": "This Weekend Forecast Just Took A Turn...",
+    "score": 10
+  },
+  {
+    "id": "jjkaYyysYhA",
+    "title": "Indiana Rep. Ed Clere leaves GOP",
+    "score": 10
+  },
+  {
+    "id": "DZhzPIzPsyo",
+    "title": "Immigration bill advances at Indiana Statehouse after lengthy committee hearing",
+    "score": 10
+  },
+  {
+    "id": "6GQ5EYb2eU0",
+    "title": "A mix of rain and snow arrives Tuesday | Jan. 2, 2026 #WHAS11 5 p.m. weather",
+    "score": 10
+  },
+  {
+    "id": "YQDD2zwESjA",
+    "title": "India-US Trade Deal Big Relief, Expert Says Millions Of Indian Jobs Saved | 'If Tariffs Continued..'",
+    "score": 10
+  },
+  {
+    "id": "tfGv1O3ufYM",
+    "title": "Google data center faces protests after approval from Indianapolis officials",
+    "score": 10
+  },
+  {
+    "id": "0Z93baHypxo",
+    "title": "Indiana data center boom",
+    "score": 10
+  },
+  {
+    "id": "X9R6fpmA2tA",
+    "title": "Breaking News: Google's New Data Center coming to Fort Wayne, Indiana!",
+    "score": 10
+  },
+  {
+    "id": "PhjH_6Hz344",
+    "title": "Google Fort Wayne",
+    "score": 10
+  },
+  {
+    "id": "Iz4Rs-sLKCo",
+    "title": "Indiana Attorney General sues Google",
+    "score": 10
+  },
+  {
+    "id": "TiID2G6xfJ8",
+    "title": "Google data center proposal in Franklin Township could soon be denied",
+    "score": 10
+  },
+  {
+    "id": "_xcUZqa_RlM",
+    "title": "Google releases list of mispronounced words in Indiana, across the country",
+    "score": 10
+  },
+  {
+    "id": "QCKqcelAvgo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Y8G9_SexVjE",
+    "title": "Starting Soon",
+    "score": 10
+  },
+  {
+    "id": "c5ACVSdj8ig",
+    "title": "Animating the Character",
+    "score": 10
+  },
+  {
+    "id": "Bkwn1kURzc8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "34bWdiCsJ_0",
+    "title": "The Money Distribution | Hazard Pay | Breaking Bad",
+    "score": 10
+  },
+  {
+    "id": "SjvS20YqUJ4",
+    "title": "The situation: You are about to receive any offer",
+    "score": 10
+  },
+  {
+    "id": "9sb41_fB26U",
+    "title": "The Money Expert: #1 Formula to Get RICH Off Your Normal Salary (It’s EASY!)",
+    "score": 10
+  },
+  {
+    "id": "tE6CwaBxuN4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pX0ooVYaAmI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nb7I0BBs3C4",
+    "title": "Introduction: The Salary Trap Revealed",
+    "score": 10
+  },
+  {
+    "id": "glLTADoHTJ8",
+    "title": "Former NFL Executive Breaks Down How Teams Are Beating The Salary Cap | Pat McAfee Reacts",
+    "score": 10
+  },
+  {
+    "id": "Gqb1bTSIfHs",
+    "title": "How teams are beating the salary cap",
+    "score": 10
+  },
+  {
+    "id": "nG7nN4FKdgY",
+    "title": "Top 43",
+    "score": 10
+  },
+  {
+    "id": "8vsJknJdcc0",
+    "title": "How Much Was My First Data Analytics Paycheck as a Beginner| Salary Breakdown | My Expectations",
+    "score": 10
+  },
+  {
+    "id": "OJzZ-oxyZLQ",
+    "title": "The Best Financial Advice You’ll Ever Hear",
+    "score": 10
+  },
+  {
+    "id": "Ai4iNmW2A1c",
+    "title": "Meet the Guest",
+    "score": 10
+  },
+  {
+    "id": "iiPKumfMQAs",
+    "title": "Trump’s All Over the Epstein Files, Attacks Jimmy Kimmel After the Grammys \\u0026 Don Lemon Gets Arrested",
+    "score": 10
+  },
+  {
+    "id": "iM3PKuNzEGk",
+    "title": "This Is Concerning...",
+    "score": 10
+  },
+  {
+    "id": "hfxR8XKbrY0",
+    "title": "49ers BREAKING: SF loses 2 coaches | New CEO | Intel from Super Bowl",
+    "score": 10
+  },
+  {
+    "id": "GHgUXNG2oo4",
+    "title": "Trump Accused Of Heinous Acts With Young Girls | DOJ Exposes Epstein Victims | We Won't Investigate",
+    "score": 10
+  },
+  {
+    "id": "Qxtu67zbME0",
+    "title": "Part 1: Black Women and Equal Pay: Taraji P. Henson Breaks Down $150,000 ‘Benjamin Button’ Salary",
+    "score": 10
+  },
+  {
+    "id": "JtI5szxG-rw",
+    "title": "💰 Breaking Bad Cast Salary \\u0026 Net Worth | Then and Now",
+    "score": 10
+  },
+  {
+    "id": "KXT3fu6wrKA",
+    "title": "✔️BREAKING 3 feburary 18 Months Arrear, DA 3%, 8TH PAY COMMISSION, 70% PENSION 20% Pen Add #eps 7500",
+    "score": 10
+  },
+  {
+    "id": "rXlAXostCR4",
+    "title": "🚨BREAKING: The 49ers Just Got GREAT NEWS From The NFL | NFL Salary Cap Increase",
+    "score": 10
+  },
+  {
+    "id": "fq2bDVP3gVU",
+    "title": "Salary Slips Broken Down | Expectation vs. Reality Revealed 🤯",
+    "score": 10
+  },
+  {
+    "id": "Qz1VhbNjboE",
+    "title": "How Much Car Can You Really Afford? (By Salary)",
+    "score": 10
+  },
+  {
+    "id": "mO1eBfJmhR4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5b_LUv29pP8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9Rxb1OEArIo",
+    "title": "Google Search Template",
+    "score": 10
+  },
+  {
+    "id": "0eKVizvYSUQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AKaeUvANu2A",
+    "title": "2025 — Year in Search",
+    "score": 10
+  },
+  {
+    "id": "Vv_sjpclsZ8",
+    "title": "FUNNY GOOGLE SEARCHES",
+    "score": 10
+  },
+  {
+    "id": "Ydto45J00dw",
+    "title": "Why Is Google Search So Bad Now?",
+    "score": 10
+  },
+  {
+    "id": "q1g7WWuYq9I",
+    "title": "Google AI Search",
+    "score": 10
+  },
+  {
+    "id": "JuK7NnfyEuc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "61JHONRXhjs",
+    "title": "10 Google Search Tricks You Should Be Using!",
+    "score": 10
+  },
+  {
+    "id": "NYz7m88stJA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t25218F97aY",
+    "title": "I Played SECRET Google Games..",
+    "score": 10
+  },
+  {
+    "id": "UEE_fTNebTI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A0xA5vyDgzA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aWT4UyTUDCo",
+    "title": "Stranger Things: Tales From ‘85 | Official Teaser | Netflix",
+    "score": 10
+  },
+  {
+    "id": "fUiJulYbUaE",
+    "title": "Realtime AI video games, Moltbook, agent swarms, AI Earth, new AI video models: AI NEWS",
+    "score": 10
+  },
+  {
+    "id": "7E1Utay5q9k",
+    "title": "AI news intro",
+    "score": 10
+  },
+  {
+    "id": "fDUJ2PbxmwA",
+    "title": "😶‍🌫️😱 I Found Very Strange Catnap Real in google maps and google earth #map #earth #hrbro76",
+    "score": 10
+  },
+  {
+    "id": "GWfrT5IXcA0",
+    "title": "‘Scariest time economically since Great Recession,’ layoffs hit struggling Seattle region",
+    "score": 10
+  },
+  {
+    "id": "vu4_vTIN88g",
+    "title": "AQUECEU: Taliban responde Filipe Vidal e Ginga kandimba sobre Ancestralidade",
+    "score": 10
+  },
+  {
+    "id": "a0oa3Qiz5tw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8sABhCMxU3c",
+    "title": "The End of Google Search: What You Need to Know",
+    "score": 10
+  },
+  {
+    "id": "xoGFSHHn8u8",
+    "title": "The gatekeeper is losing (but not dead)",
+    "score": 10
+  },
+  {
+    "id": "1vd9vlBIwmc",
+    "title": "What is AI Mode?",
+    "score": 10
+  },
+  {
+    "id": "uYQGrK55gxQ",
+    "title": "Analyzing performance on Google Search",
+    "score": 10
+  },
+  {
+    "id": "5LF6SwB5jZ0",
+    "title": "Why Google's AI Mode is the biggest change to search in 20 years | ABC NEWS",
+    "score": 10
+  },
+  {
+    "id": "2iB88fqYT0s",
+    "title": "Add To Me Google Search | Apne name ko google mein Kaise add Karen | Create google people card",
+    "score": 10
+  },
+  {
+    "id": "URhDH_Idme4",
+    "title": "DO NOT try these Google Searches",
+    "score": 10
+  },
+  {
+    "id": "73vs7TmNDzk",
+    "title": "Easter Egg 1",
+    "score": 10
+  },
+  {
+    "id": "q-X0hY9SVFg",
+    "title": "10 Google search tips that 99% of people don't know",
+    "score": 10
+  },
+  {
+    "id": "2_c-ennRxhM",
+    "title": "Google — 25 Years in Search: The Most Searched",
+    "score": 10
+  },
+  {
+    "id": "3KtWfp0UopM",
+    "title": "What The Hell Happened To Google Search?",
+    "score": 10
+  },
+  {
+    "id": "4wCGVrAn4qY",
+    "title": "How Google Search indexes pages",
+    "score": 10
+  },
+  {
+    "id": "pe-NSvBTg2o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "V4i6DOy8zoQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j4_ZXvpUWMs",
+    "title": "2022 — Year in Search",
+    "score": 10
+  },
+  {
+    "id": "4WXs3sKu41I",
+    "title": "The Secret Google URL For The \\\"Good\\\" Search Version",
+    "score": 10
+  },
+  {
+    "id": "qGlNb2ZPZdc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TMY9Wrh1oPA",
+    "title": "Stevie Ray Vaughan \\u0026 Double Trouble - Change It",
+    "score": 10
+  },
+  {
+    "id": "2fGMu5pxdOI",
+    "title": "Frank Ocean - Trouble (Lyrics) \\\"forbidden from the beginning i saw her\\\"",
+    "score": 10
+  },
+  {
+    "id": "lA-gGl6qihQ",
+    "title": "Trouble CHANGES : Music",
+    "score": 10
+  },
+  {
+    "id": "BV15AtTaKqA",
+    "title": "Trouble Changes",
+    "score": 10
+  },
+  {
+    "id": "HzuW2ff6XCM",
+    "title": "Trouble",
+    "score": 10
+  },
+  {
+    "id": "CDqKWyqlxfg",
+    "title": "New York Rent Laws Change Overnight — Tenants in Trouble",
+    "score": 10
+  },
+  {
+    "id": "rYplJpzOYrA",
+    "title": "New USA Driving Rules 2026: Take Effect Feb 2026 — Seniors 65+ Alert",
+    "score": 10
+  },
+  {
+    "id": "X6IZaAyuIIY",
+    "title": "Leftist Mob INVADES Zohran Mamdani's Home After they Realize they were TRICKED…",
+    "score": 10
+  },
+  {
+    "id": "SJsDGW2GgzQ",
+    "title": "This CATASTROPHIC Winter Storm Just Got VERY BAD Way...",
+    "score": 10
+  },
+  {
+    "id": "ND3Z9mt6mOc",
+    "title": "\\\"If you don't know this, you're in big trouble.\\\" 440,000 changes for those aged 65 and older. Nat...",
+    "score": 10
+  },
+  {
+    "id": "WjvqmqrlKPc",
+    "title": "NFL Owners PANIC As Kid Rock Announces PATRIOTIC Halftime Show",
+    "score": 10
+  },
+  {
+    "id": "fgWFxFg7-GU",
+    "title": "Lil sister gets brother in trouble…😭💀 #comedy",
+    "score": 10
+  },
+  {
+    "id": "tauCYH47EEs",
+    "title": "The Monty Hall Problem - Explained",
+    "score": 10
+  },
+  {
+    "id": "9vRUxbzJZ9Y",
+    "title": "What is the Monty Hall paradox?",
+    "score": 10
+  },
+  {
+    "id": "7kpIEaUtNrM",
+    "title": "10 Driving Laws Just Changed in 2026 — New Rules Every Driver Must Follow",
+    "score": 10
+  },
+  {
+    "id": "NwOBqUYVFzk",
+    "title": "How Trauma and PTSD Change the Brain",
+    "score": 10
+  },
+  {
+    "id": "wdUR69J2u6c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9cCYeBA71wI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I48WOHWVW5k",
+    "title": "iShowSpeed Changes the Narrative, Uganda’s Power \\u0026 Trump’s Caribbean Trouble",
+    "score": 10
+  },
+  {
+    "id": "VmslKiexecQ",
+    "title": "Change Is What We Need (Progress)",
+    "score": 10
+  },
+  {
+    "id": "LaYH8fFBJ1Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "oRRckz-FKZw",
+    "title": "Charlie Kirk Takes on Boise State",
+    "score": 10
+  },
+  {
+    "id": "Koc6LGWRT5Q",
+    "title": "Atlanta Takes State - Help Me, To Help You",
+    "score": 10
+  },
+  {
+    "id": "1f2uffVEf7M",
+    "title": "Jeep SRT Trackhawk Takes On The Georgia State Patrol Night Hawks",
+    "score": 10
+  },
+  {
+    "id": "XQVhiZeUlaI",
+    "title": "Journalist gets BODY SLAMMED and Fractured Nose - State Attorney Investigates",
+    "score": 10
+  },
+  {
+    "id": "LAvBMhGKR5E",
+    "title": "Dad takes Son to State Fair",
+    "score": 10
+  },
+  {
+    "id": "AvsHvrXe2N0",
+    "title": "Umbrellas",
+    "score": 10
+  },
+  {
+    "id": "8n_KU_e9LG8",
+    "title": "Atlanta Takes State - Infinity Awaits (FULL ALBUM)",
+    "score": 10
+  },
+  {
+    "id": "bMbxyFtc1WM",
+    "title": "Law Student takes State Trooper to Federal Court - Wins $267,000",
+    "score": 10
+  },
+  {
+    "id": "KRHFrqkjNC8",
+    "title": "Georgia State Patrol Shuts Down Street Take Over || Perp In Clapped Out Lexus Tries To Get Away",
+    "score": 10
+  },
+  {
+    "id": "d3uykVVCWGc",
+    "title": "Trump Accused Of Heinous Acts With Young Girls | DOJ Exposes Epstein Victims | We Won't Investigate",
+    "score": 10
+  },
+  {
+    "id": "tkw5l6YuXRg",
+    "title": "Gun Owners Said \\\"Come and Take It\\\"-- So They DID",
+    "score": 10
+  },
+  {
+    "id": "t5nOvLycpIQ",
+    "title": "Jimmy Kimmel Interviews Don Lemon for the First Time Post-Arrest",
+    "score": 10
+  },
+  {
+    "id": "CZ6Q3jdBecM",
+    "title": "This Will Be Nothing Less Than A Lawsuit | A Legal State | Legal Weed | Two Arrests How?",
+    "score": 10
+  },
+  {
+    "id": "ohpWDhxGYSA",
+    "title": "Suspect Takes Kentucky State Trooper On 110mph+ Chase",
+    "score": 10
+  },
+  {
+    "id": "jdvRn_TTiEQ",
+    "title": "Ford Explorer Takes Kentucky State Police On Wild High Speed Chase!",
+    "score": 10
+  },
+  {
+    "id": "K1I18SRXSEw",
+    "title": "Georgia State Patrol Shuts Down Street Take Over and PITs Fleeing Lexus",
+    "score": 10
+  },
+  {
+    "id": "Dsy5ajVmcI4",
+    "title": "Corrupt Sheriff Gets EXPOSED And ARRESTED By State Police And The Feds!",
+    "score": 10
+  },
+  {
+    "id": "gCKwVR6t2ks",
+    "title": "💣 Which U.S. State Gets Nuked First in WW3?",
+    "score": 10
+  },
+  {
+    "id": "N4lv1GiCWIM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cRDOS2GCMm0",
+    "title": "Kenneth Walker III",
+    "score": 10
+  }
+]

@@ -1,1 +1,3407 @@
-[]
+[
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Crash Course (Hebrew) - קורס מקיף בפייתון",
+    "score": 110
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "למד פייתון - קורס מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "מדריך פייתון למתחילים בעברית",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "35 - פונקציות (פעולות) - מדריך פייתון למתחילים, קורס מלא בעברית",
+    "score": 110
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "ים בתוך בקבוק - עם סירה מאגוז",
+    "score": 60
+  },
+  {
+    "id": "YL3xgKqYzWE",
+    "title": "ניסויים עם ד\\\"ר מולקולה - כפפה מתנפחת",
+    "score": 60
+  },
+  {
+    "id": "IkEdgQV1m-8",
+    "title": "ניסוי הר געש מתפרץ !  | ניסויים מדעיים עם ילדים | רפאל המטייל ויאנצ'יקס | ניסוי מדעי",
+    "score": 60
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "ניסוי החץ המתהפך",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zTj9MXbgruI",
+    "title": "למד פייתון בפחות מ-10 דקות למתחילים (מהיר וקל)",
+    "score": 60
+  },
+  {
+    "id": "n09iGowWdLY",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "NUnEOoQtgzI",
+    "title": "8 Major Pacific Battles of WWII | Battle 360 | History",
+    "score": 50
+  },
+  {
+    "id": "gTRLhs9tI70",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 2",
+    "score": 50
+  },
+  {
+    "id": "ydDS6GHbqPA",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "Master Woodworking Joints: 30+ Techniques Explained",
+    "score": 50
+  },
+  {
+    "id": "qHfLOoDH1VY",
+    "title": "Simple But Strong Wood Joint #woodworking #join #gsdiymaker #reels",
+    "score": 50
+  },
+  {
+    "id": "pM16MHq_aEs",
+    "title": "Woodworking tips and tricks! How to make a reliable corner joint for boards of different sizes",
+    "score": 50
+  },
+  {
+    "id": "UXQugQPSLmA",
+    "title": "Megastructures: Building Wonders of Modern Mankind | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "2prUjhNE_-E",
+    "title": "Extreme Construction: Impossible Mega Projects | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "jJYRehW2z_s",
+    "title": "Discover the Giant Roller Bearing Factory That Feeds Heavy Industry. Modern Production Documentary",
+    "score": 50
+  },
+  {
+    "id": "H93kvfbR1fs",
+    "title": "IMPOSSIBLE WONDERS | 35 Megaprojects That Are Changing the World Forever | Travel Documentary 4K",
+    "score": 50
+  },
+  {
+    "id": "dysvg0pT0zA",
+    "title": "IMPOSSIBLE PLACES | The Most Unbelievable Megaprojects in the World | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "BtpFV5IB7dQ",
+    "title": "Megastructures - Airbus A380 Mega Plain Documentary National Geographic.",
+    "score": 50
+  },
+  {
+    "id": "SnjZjJ5pxzY",
+    "title": "MegaStructures - Super Copters (National Geographic Documentary)",
+    "score": 50
+  },
+  {
+    "id": "PqHqB0Dv1hE",
+    "title": "Incredible Engineering: Enormous Construction | Full Documentary | Megastructures",
+    "score": 50
+  },
+  {
+    "id": "BgcFDGOWANg",
+    "title": "How to Calculate Faster than a Calculator - Mental Math #1",
+    "score": 50
+  },
+  {
+    "id": "D6IqViNgGbk",
+    "title": "What the Tech: App of the day - Mathway",
+    "score": 50
+  },
+  {
+    "id": "HYx_KBoZ80I",
+    "title": "Learn 10 Advanced Bushcraft \\u0026 Survival Skills!",
+    "score": 50
+  },
+  {
+    "id": "seLwyDN2wpQ",
+    "title": "Learn 10 Beginner Bushcraft \\u0026 Survival Skills!",
+    "score": 50
+  },
+  {
+    "id": "0wIH86xuZ-c",
+    "title": "Building an Elevated Survival Shelter with Rope Ladder to Stay Safe from Ground Predators",
+    "score": 50
+  },
+  {
+    "id": "uAWp02IB-7U",
+    "title": "Survival Expert Builds 4 Amazing Shelters in the Forest | Start to Finish @osbushcraft",
+    "score": 50
+  },
+  {
+    "id": "btfeIJHxN7o",
+    "title": "Survival Skills: Make a Camping Fire Starter 🔥#camping #bushcraft #survival #lifehacks #outdoors",
+    "score": 50
+  },
+  {
+    "id": "DIRXJkRhqQ0",
+    "title": "How to Repair Your Drywall Before You Paint",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "PYTHON LERNEN in 10 Minuten (Anfänger Tutorial Deutsch)",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "Python Guide: Installing Python and a Workspace on Your Computer",
+    "score": 50
+  },
+  {
+    "id": "B4jMhpV-e90",
+    "title": "100 Most Popular Fruits in the World | Fun Fruit Names for Kids | Learn English Vocabulary! 🍎🍌🍇",
+    "score": 50
+  },
+  {
+    "id": "VjINuQX4hbM",
+    "title": "How To Slice Every Fruit | Method Mastery | Epicurious",
+    "score": 50
+  },
+  {
+    "id": "ExYVV3AKLOE",
+    "title": "100 FRUITS NAME for Toddlers |First Words for Babies | Learning Videos for Kids | English Vocabulary",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "YouTube Search Filter Missing? Fix it now | How to fix missing search filter",
+    "score": 50
+  },
+  {
+    "id": "Sl0dcgd70Q4",
+    "title": "How To Use the Search Filters Web Part",
+    "score": 50
+  },
+  {
+    "id": "6zGF4hn8DdY",
+    "title": "How to Use LinkedIn's Search Filters to Narrow Your Job Search",
+    "score": 50
+  },
+  {
+    "id": "CEunwavjTC0",
+    "title": "YouTube Effect | How to use YouTube Effect #effectmaker #filter #effects",
+    "score": 50
+  },
+  {
+    "id": "M7yG15se4MM",
+    "title": "How to Use LinkedIn Search Filters: Find Leads Faster in 2026",
+    "score": 50
+  },
+  {
+    "id": "_CFd2DiYIEA",
+    "title": "How To Fix Face ID Settings Grayed Out on iPhone | Face ID Grayed Out After iOS 18 Update",
+    "score": 50
+  },
+  {
+    "id": "2zlb7KCGCXU",
+    "title": "How to Fix Face ID Settings Grayed Out on iPhone | Solve Face ID Setting Gray-out Issue on iOS",
+    "score": 50
+  },
+  {
+    "id": "ESwlPj0OuBY",
+    "title": "How to Turn Wifi On When Greyed Out (Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "8JPoUCOGroU",
+    "title": "How to Fix FaceTime Icon Grayed Out for Contact on iPhone",
+    "score": 50
+  },
+  {
+    "id": "c08TuY2AnMM",
+    "title": "How To Fix WiFi and Bluetooth Options Grayed Out on iPhone After iOS 17 Update",
+    "score": 50
+  },
+  {
+    "id": "J-LRgFP4MxE",
+    "title": "Fed to Make 1st Interest Rate Decision of 2026; Amazon Cuts Jobs",
+    "score": 50
+  },
+  {
+    "id": "IJSie_3ncc8",
+    "title": "How To Enable \\\"Microsoft has blocked macros from running untrusted source\\\" Setting",
+    "score": 50
+  },
+  {
+    "id": "cGwJhLtpgP4",
+    "title": "How to Fix ‘Most Features Are Disabled’ in Microsoft Office (Activation Error)",
+    "score": 50
+  },
+  {
+    "id": "ZnEovgO7Fjw",
+    "title": "New Windows 11 26H2 Build 26300.7733 – New Features, File Explorer Improvements and Fixes (Dev)",
+    "score": 50
+  },
+  {
+    "id": "7KSWDVKclxY",
+    "title": "How to Disable Microsoft Recall – Stop the Spyware Feature Now (Quick Guide)",
+    "score": 50
+  },
+  {
+    "id": "zl1J1PPsYIw",
+    "title": "Do This Now To Stop Microsoft's Spyware | How To Disable Microsoft Recall | A Quick \\u0026 Easy Guide",
+    "score": 50
+  },
+  {
+    "id": "aEWb1otLVPo",
+    "title": "How to STOP Microsoft from SPYING on You!!",
+    "score": 50
+  },
+  {
+    "id": "z8zbZM4iCYs",
+    "title": "10+ Tips To Speed Up Your iPhone! How To Fix A Slow iPhone [2023]",
+    "score": 50
+  },
+  {
+    "id": "8L0RR1FHPOs",
+    "title": "How to Force Restart an iPhone 12 Pro max with a frozen screen",
+    "score": 50
+  },
+  {
+    "id": "z99kfDmgQak",
+    "title": "iPhone Basics for Seniors:  How to Use the Phone",
+    "score": 50
+  },
+  {
+    "id": "kpodxkjLN0o",
+    "title": "How to make your old iPhone as smooth as the day you bought it! | How to make your iPhone faster!",
+    "score": 50
+  },
+  {
+    "id": "TL3L37Rly1M",
+    "title": "Contacts and How To Set One as Default",
+    "score": 50
+  },
+  {
+    "id": "LGvzw0YBBaU",
+    "title": "How to Fix Pause Reels Option not Working on Instagram",
+    "score": 50
+  },
+  {
+    "id": "9V9o2CuYQYA",
+    "title": "How To Fix Pause Updates Option Is Grayed Out in Windows",
+    "score": 50
+  },
+  {
+    "id": "3iHD2qAt-m0",
+    "title": "How To Enable or Disable Pause Updates Feature of Windows Update in Windows 11",
+    "score": 50
+  },
+  {
+    "id": "eluHZgzB6Wk",
+    "title": "How To Pause Video Recording On iPhone - Full Guide",
+    "score": 50
+  },
+  {
+    "id": "CQh0CUlSIMQ",
+    "title": "How to Pause Future \\u0026 Option in Groww on iPhone | Groww App Me F\\u0026O Pause Kaise Kare iPhone/iPad Me",
+    "score": 50
+  },
+  {
+    "id": "FS77UgAz9s4",
+    "title": "how to windows update paused \\u0026 resume",
+    "score": 50
+  },
+  {
+    "id": "FEfGoyh-1Xg",
+    "title": "How to Make a Simple Pause Menu in Unreal Engine 5 - Beginner Tutorial",
+    "score": 50
+  },
+  {
+    "id": "O99jYxqS_5w",
+    "title": "Make a Pause Menu in Godot in 5 Minutes!",
+    "score": 50
+  },
+  {
+    "id": "e9-WQg1yMCY",
+    "title": "How To Enable or Disable Pause Updates Feature of Windows Update in Windows 11",
+    "score": 50
+  },
+  {
+    "id": "s-Di2FEX7gI",
+    "title": "How to Create a PAUSE MENU in Unity ! |  UI Design Tutorial",
+    "score": 50
+  },
+  {
+    "id": "_tkKIQYVVis",
+    "title": "How to Enable or Disable Pause Updates Feature on Windows 10",
+    "score": 50
+  },
+  {
+    "id": "A4-owH0XlVQ",
+    "title": "How to Pause Windows Updates in Windows 11",
+    "score": 50
+  },
+  {
+    "id": "oXE5iRsJg1I",
+    "title": "How to fix iPhone Software Update Download and Install Greyed Out on iPhone in iOS 15",
+    "score": 50
+  },
+  {
+    "id": "1gv6sLIiG1w",
+    "title": "The Best Bachelor Buttons \\u0026 How to Install Them",
+    "score": 50
+  },
+  {
+    "id": "8HL9eXqvx7w",
+    "title": "How to Attach a Jeans Button",
+    "score": 50
+  },
+  {
+    "id": "NNrM5lMXK8g",
+    "title": "iPhone 12/12 Pro: How to Replace Double-Click to Install Side Button with AssistiveTouch",
+    "score": 50
+  },
+  {
+    "id": "XMBwjcNBCv4",
+    "title": "How to Replace a Doorbell Button | DIY Electrical Projects | The Home Depot",
+    "score": 50
+  },
+  {
+    "id": "oTxQMkJ7vCI",
+    "title": "How to Replace a Doorbell Button",
+    "score": 50
+  },
+  {
+    "id": "RUIUGIcd0cg",
+    "title": "How to Use Snaps Buttons Fastener Pliers 2021",
+    "score": 50
+  },
+  {
+    "id": "ZhhDr9jdaPw",
+    "title": "Doorbell Button How to replace and install",
+    "score": 50
+  },
+  {
+    "id": "e2Jf7VMOz2A",
+    "title": "How To Fix Install Button Not Working Problem In Android",
+    "score": 50
+  },
+  {
+    "id": "PsRUsyg6tpE",
+    "title": "How to sew on a button easily. Button sewing for beginners",
+    "score": 50
+  },
+  {
+    "id": "F7yPZ8x-beM",
+    "title": "How To Install a Nylon Cam Button",
+    "score": 50
+  },
+  {
+    "id": "U1fbyJ2nEg8",
+    "title": "How To Install Baseboard Like A Professional With No Gaps! DIY Pro Tips And Tricks For Beginners!",
+    "score": 50
+  },
+  {
+    "id": "tXGMVZtXsSY",
+    "title": "Installing a Pullout Kitchen Faucet | Moen Guided Installations",
+    "score": 50
+  },
+  {
+    "id": "b4bloiEA97c",
+    "title": "How To Fix Another Installation is in Progress Error in Windows",
+    "score": 50
+  },
+  {
+    "id": "Mgr-V90HirQ",
+    "title": "Windows 11 Installation Has Failed - How To Fix Install Setup Stuck or Failed - 24H2 / 25H2 ✅",
+    "score": 50
+  },
+  {
+    "id": "0IEP_qF7VTo",
+    "title": "How to Replace and Install a Toilet",
+    "score": 50
+  },
+  {
+    "id": "kzWXw1uRq3c",
+    "title": "How to Install a Hidden Kill Switch in your Car or Truck (Cheap Anti Theft System)",
+    "score": 50
+  },
+  {
+    "id": "XUhXLsrZiE0",
+    "title": "How to Fix We Couldn’t Install Windows 11 Error 0x8007042B (SAFE_OS MIGRATE_DATA)",
+    "score": 50
+  },
+  {
+    "id": "hyEHN6GNqVs",
+    "title": "Fix Hyperblinking! How to Install Resistors for LED Turn Signals | Diode Dynamics",
+    "score": 50
+  },
+  {
+    "id": "Vl3qrSkL8cQ",
+    "title": "EPSTEIN BOMB goes off: New files hit Trump, MAGA allies, big tech \\u0026 'health guru' to the stars",
+    "score": 50
+  },
+  {
+    "id": "wH4JOCZRc44",
+    "title": "Windows 11 26H2: NEW Features and Changes in Dev –  Build 26300.7733 (KB5074178)",
+    "score": 50
+  },
+  {
+    "id": "1IUwp_8Tmpo",
+    "title": "How to Fix Windows Update Error “Your Device is missing Important Security Update”",
+    "score": 50
+  },
+  {
+    "id": "7hXmicRfMp8",
+    "title": "How to update and install drivers? | #pc #computer #update",
+    "score": 50
+  },
+  {
+    "id": "igO5C205Pzc",
+    "title": "Windows Defender review 2026 | Should you trust Windows Defender?",
+    "score": 50
+  },
+  {
+    "id": "noaYSy-vKOo",
+    "title": "Let's Do a Detailed Review of Zorin -- Is This Good for Ex-Windows Users?",
+    "score": 50
+  },
+  {
+    "id": "G9Nd9mKbMJo",
+    "title": "How To Setup Windows",
+    "score": 50
+  },
+  {
+    "id": "LAqLBOh3Ric",
+    "title": "Learning Fruit Names for Toddlers in English | First Words for Babies | Educational Video for Kids",
+    "score": 50
+  },
+  {
+    "id": "UcGm_PM2IwY",
+    "title": "Fruits \\u0026 Vegetables FOR KIDS! Learning fruits and vegetables. Educational video for young children.",
+    "score": 50
+  },
+  {
+    "id": "nBeMJ6UgzbI",
+    "title": "Learning Fruits - Fun Way to Build Your Child's Vocabulary",
+    "score": 50
+  },
+  {
+    "id": "b7qMfViYSOU",
+    "title": "How to introduce fruits to kindergarten | Fruits for kids | Benefits of eating fruits",
+    "score": 50
+  },
+  {
+    "id": "leLeBmRCI7w",
+    "title": "The Fruits Name | Name Of Fruits | Introduction Of Fruits | Fruits Name For Kids | Learn Fruits Name",
+    "score": 50
+  },
+  {
+    "id": "gT_cAeL7Mkk",
+    "title": "Learn Colors, Fruits and Vegetables with Ms Rachel | Toddler Learning Video | Speech | Educational",
+    "score": 50
+  },
+  {
+    "id": "2j9WO_0tp8k",
+    "title": "FRUIT FACTS FOR CHILDREN | KIWI | Learn about Fruits | English Vocabulary",
+    "score": 50
+  },
+  {
+    "id": "AIty8HHsk0c",
+    "title": "Learning Fruits| Introducing Fruits to Children",
+    "score": 50
+  },
+  {
+    "id": "K0BA7Xf0K04",
+    "title": "Learn Colors \\u0026 Fruits Names for Children with Little Baby Fun Play Cutting Fruits Toy Train 3D Kids",
+    "score": 50
+  },
+  {
+    "id": "6F-1q-wS2gE",
+    "title": "A rare fossil find - clues on the outside #fossil #science #rare",
+    "score": 50
+  },
+  {
+    "id": "KZaaWDEYgkY",
+    "title": "how to make a snail home rare snail",
+    "score": 50
+  },
+  {
+    "id": "F4B77izSCfY",
+    "title": "The History of the World: Every Year",
+    "score": 50
+  },
+  {
+    "id": "bs03z0Lsu9g",
+    "title": "History of World (Every Year) Countryballs Best Version",
+    "score": 50
+  },
+  {
+    "id": "Y3_98RYXKeA",
+    "title": "Prehistory era",
+    "score": 50
+  },
+  {
+    "id": "6fFHWdCcQ_c",
+    "title": "Trying Every Type Of Citrus | The Big Guide | Epicurious",
+    "score": 50
+  },
+  {
+    "id": "itq9mqTItms",
+    "title": "STILL NO FRUIT? Make that Citrus Tree Bloom / My Trick to Make Citrus Bloom Fast!",
+    "score": 50
+  },
+  {
+    "id": "1LIhnrpXRIo",
+    "title": "Factory Reset an iMac! #tech #apple #mac #computerrepair",
+    "score": 50
+  },
+  {
+    "id": "1O3sJSNWa7g",
+    "title": "Ultimate Guide to Fix Almost ANY Windows Corruption (Without Reinstalling)",
+    "score": 50
+  },
+  {
+    "id": "jxLFmyVD5XY",
+    "title": "How to Reinstall GRUB | Repair Boot on Linux",
+    "score": 50
+  },
+  {
+    "id": "T-aW_fGUX6Q",
+    "title": "How to Uninstall \\u0026 Reinstall Keyboard Driver in Windows 11 #windows11  #keyboardtroubleshooting",
+    "score": 50
+  },
+  {
+    "id": "zR9u-oA3tpI",
+    "title": "How to reinstall macOS from macOS Recovery — Apple Support",
+    "score": 50
+  },
+  {
+    "id": "OEc5ad4CW00",
+    "title": "Dell SupportAssist Clean Reinstall (Official Dell Tech Support)",
+    "score": 50
+  },
+  {
+    "id": "_ufKdDAAdG8",
+    "title": "How to reset your iPhone using iTunes and a computer         #itunes #passcode #phones  #phonetips",
+    "score": 50
+  },
+  {
+    "id": "AuDMOQG6j6A",
+    "title": "Apple STUNS the Industry with a New Device That Makes AI Physical",
+    "score": 50
+  },
+  {
+    "id": "8VvNK2ef89c",
+    "title": "iPhone tips - How to Enable Developer Mode on iOS 16",
+    "score": 50
+  },
+  {
+    "id": "K5dioSz_2Sg",
+    "title": "How To Detect Spyware \\u0026 Malware On Your iPhone",
+    "score": 50
+  },
+  {
+    "id": "UwoJy5Vj9NU",
+    "title": "How To Get iOS 17 On iPhone 6",
+    "score": 50
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "How World War One Caused World War Two | Price Of Empire",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "WORLD WAR 2 Full Movie (1930s - 1945) - A Complete Overview",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "gyMEo7wA9y4",
+    "title": "WW2 Historian James Holland Explains Why The Nazis Were Doomed",
+    "score": 10
+  },
+  {
+    "id": "9GTjLYijZBg",
+    "title": "World War Two Explained: The Key Battles and Dates",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "dAHJ0omYo7U",
+    "title": "World War II (Day by Day)",
+    "score": 10
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "3 Hours Of WW2 Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "1942: The Year That Turned The Tide Of WW2",
+    "score": 10
+  },
+  {
+    "id": "vzTdGvYuNzo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "jAsYwnSu7WY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ECktl3jCK8o",
+    "title": "1918-1939: What Really Started World War 2?",
+    "score": 10
+  },
+  {
+    "id": "iaeBnYLNXgQ",
+    "title": "A Brief Overview of World War II",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C3iHAgwIYtI",
+    "title": "Starship | Second Flight Test",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "See SpaceX Starship's 10th launch in epic 4K slow motion",
+    "score": 10
+  },
+  {
+    "id": "PaPm0a8SIUM",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "zctTKdQcmVA",
+    "title": "Blastoff! SpaceX Starship launches on 5th flight, nails 'chopsticks' booster catch!",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "Time lapse of the SpaceX Falcon 9 rocket launch from Huntington Beach, CA - 4K version",
+    "score": 10
+  },
+  {
+    "id": "-x7ruR5Vygc",
+    "title": "[4K] Watch SpaceX Catch A Starship Rocket From Space!!! #IFT5",
+    "score": 10
+  },
+  {
+    "id": "pIKI7y3DTXk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gmJgW-yMAIg",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "vf_WTkIExgY",
+    "title": "SpaceX Falcon Heavy- Elon Musk's Engineering Masterpiece",
+    "score": 10
+  },
+  {
+    "id": "sX1Y2JMK6g8",
+    "title": "Starship | Tenth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "rcd_SQZDlnk",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "-4qlPXOuDaI",
+    "title": "[4K] SpaceX Starship Flight 9 Launch | Drone Cam",
+    "score": 10
+  },
+  {
+    "id": "h-cDKLX1v14",
+    "title": "SpaceX Starship's 5th Flight Booster Catch Landing from Isla Blanca October 13 2024",
+    "score": 10
+  },
+  {
+    "id": "ntmssdzp_qY",
+    "title": "FULL LAUNCH! SpaceX Starship 11th Flight Test",
+    "score": 10
+  },
+  {
+    "id": "BtUMt0gsqrs",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "wS_8WOQJUu8",
+    "title": "Starship | Fifth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "hI9HQfCAw64",
+    "title": "SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "MgMNo7q5P0U",
+    "title": "SpaceX Falcon 9 Timelapse Above Downtown Los Angeles in 4K - October 7th 2018",
+    "score": 10
+  },
+  {
+    "id": "OikIfj7Hh9Y",
+    "title": "SPLASHDOWN! SpaceX Starship 11th Flight Test [4K]",
+    "score": 10
+  },
+  {
+    "id": "lchtXWn8SOw",
+    "title": "Starship | Seventh Flight Test",
+    "score": 10
+  },
+  {
+    "id": "Pn6e1O5bEyA",
+    "title": "Blastoff! SpaceX launches Starship on 10th flight test, deploys Starlink simulators",
+    "score": 10
+  },
+  {
+    "id": "7EEOjPvpguw",
+    "title": "See Falcon 9 Rocket Launch in 4k Slow-Motion at Night, SpaceX JCSAT-18/Kacific1 mission",
+    "score": 10
+  },
+  {
+    "id": "F-9ANTobgS0",
+    "title": "WOW! Watch SpaceX Land Starship In The Ocean [4K]",
+    "score": 10
+  },
+  {
+    "id": "ROlEtlldxqk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PunVHiOxUEk",
+    "title": "Hey Bear Sensory - Birthday Dance Party! - Dancing Fruit - Fun Animation and Upbeat Music!",
+    "score": 10
+  },
+  {
+    "id": "nUaiAEoOfto",
+    "title": "Hey Bear Sensory - Birthday Dance Party! - Dancing Fruit - Fun Animation and Upbeat Music!",
+    "score": 10
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "1.Double-end grains joint",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "10 Essential Woodworking Joints You Need to Know - The Best Joints of the Week",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "Five Woodworking Joints That Will Amaze You!",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "21 Wood Joinery with Tool Hacks | Japanese Woodworking",
+    "score": 10
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "Basic Wood Joinery",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "pWohJHPdD8o",
+    "title": "Screw Joint",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "SKDawhnBsj4",
+    "title": "#diy Wood joints korean #tools #woodworking",
+    "score": 10
+  },
+  {
+    "id": "m1-d6JoTyXo",
+    "title": "30 Types of Miter Joints",
+    "score": 10
+  },
+  {
+    "id": "ALfCeGPec90",
+    "title": "1. Best Miter Joints of 2024.",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v62jMY6-CqQ",
+    "title": "You're being misled about woodworking joinery",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FRYpbOUglUc",
+    "title": "The Joinery Trick No One Teaches. #carpentry #diy #woodwork #wood #woodworking #tips #diywoodworking",
+    "score": 10
+  },
+  {
+    "id": "-eXDeMhSYlc",
+    "title": "DIY simple joint / Korean woodworking #woodworking #diy",
+    "score": 10
+  },
+  {
+    "id": "uJh0jd6wxhY",
+    "title": "The Clever 10-second woodworking trick I use to impress people",
+    "score": 10
+  },
+  {
+    "id": "JYpgk69XCdc",
+    "title": "Top 6 Japanese Woodworking Projects for Beginners",
+    "score": 10
+  },
+  {
+    "id": "cagYqNJrFnA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LmaPm5_pckU",
+    "title": "Mega Dams \\u0026 Channels",
+    "score": 10
+  },
+  {
+    "id": "3srSlk5-P9w",
+    "title": "Superstructures: Largest Structures in the World | MEGA EPISODE | National Geographic",
+    "score": 10
+  },
+  {
+    "id": "P6KH70AwiXk",
+    "title": "Megastructures: Modern Architectural Marvels | Complete Series | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "tEm_H280JLc",
+    "title": "World’s Biggest Tent",
+    "score": 10
+  },
+  {
+    "id": "RK9Z1oY-tfM",
+    "title": "China’s Mega Machines Just Broke Every Rule of Physics — Experts Are Stunned",
+    "score": 10
+  },
+  {
+    "id": "KqLErMNg2uE",
+    "title": "Welcome / What you’ll see in this factory mega-episode",
+    "score": 10
+  },
+  {
+    "id": "au1bWTCeHRE",
+    "title": "Israel’s New $1.7 Billion Island | Grand Structures",
+    "score": 10
+  },
+  {
+    "id": "rBBAuJS1Ux0",
+    "title": "Largest Car Factory in the World (Full Episode) | Superstructures: Engineering Marvels | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "NQgal5kteYw",
+    "title": "Creating an Ocean: The Engineering Feat Behind the World’s Biggest Aquarium | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "uTSpdD6MswA",
+    "title": "Pasi Lautala Railway Engineer",
+    "score": 10
+  },
+  {
+    "id": "xLJ7y25qE9A",
+    "title": "Extreme Construction: China's Mega Projects | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HVoifbegJ5E",
+    "title": "Mega Bridges",
+    "score": 10
+  },
+  {
+    "id": "ca_Rz2Hi864",
+    "title": "When Steel Meets Sweat: Eiffel's Megastructures | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "n5uGAZebT58",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4WSiQAVzT1c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "k5EEXDbt2NA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6NtLzyfBO60",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qfdCfGML2hg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0SZw8jpfAk0",
+    "title": "Square any 2 digit number in 3 seconds I Crazy Math Trick",
+    "score": 10
+  },
+  {
+    "id": "1wAr2Kbe-GM",
+    "title": "Mental Addition and Subtraction Tips — Math Tricks with Arthur Benjamin",
+    "score": 10
+  },
+  {
+    "id": "Q2D8pp9lzgQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "J6-Cd0MLdUU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x2Nr-f02AUY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "i3yPTC_2sVQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jMCwIKtNuM4",
+    "title": "Survival Skills: Kindling for Hiking and Wilderness Survival 🌳 #survival #camping #outdoors #forest",
+    "score": 10
+  },
+  {
+    "id": "GwADruxCpWg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nrGDtP-6uKo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NA8Spo7Ixnw",
+    "title": "15 Genius Medieval Survival Skills Modern Preppers Have Forgotten",
+    "score": 10
+  },
+  {
+    "id": "2xGrnfEsjoU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8VrgeLeruFo",
+    "title": "Survival Skills: Amazing DIY heater for Extreme Conditions. #survival #camping #skills #lifehacks",
+    "score": 10
+  },
+  {
+    "id": "-bkiQCQ3W2Y",
+    "title": "20+ Wilderness Survival Tips and Bushcraft Self Reliance Skills",
+    "score": 10
+  },
+  {
+    "id": "BFheNvvJGoQ",
+    "title": "25 Forgotten Survival Skills – The Ultimate Medieval Manual",
+    "score": 10
+  },
+  {
+    "id": "BE5_7YNrF3c",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "RLmUxXO8pKs",
+    "title": "3 Days in Arctic Survival Shelter - Solo Bushcraft Camping \\u0026 Blacksmithing.",
+    "score": 10
+  },
+  {
+    "id": "iys_pmJSp9M",
+    "title": "50 Survival Tips - Food | Fire | Shelter | Water - Wilderness knowledge you should know",
+    "score": 10
+  },
+  {
+    "id": "SSitRqKIt48",
+    "title": "Cordage",
+    "score": 10
+  },
+  {
+    "id": "PvCfpJe0lYI",
+    "title": "21 Genius Outdoor Survival Hacks You Wish You Knew Sooner! #camping #survival",
+    "score": 10
+  },
+  {
+    "id": "bS6WLN0FuRM",
+    "title": "60+ Bushcraft Skills \\u0026 Survival Tips",
+    "score": 10
+  },
+  {
+    "id": "qbETGQUOMZk",
+    "title": "50+ Survival and Bushcraft Tips!",
+    "score": 10
+  },
+  {
+    "id": "OClitn4zd_Q",
+    "title": "Making Wooden Wedges",
+    "score": 10
+  },
+  {
+    "id": "xxVqXdCWL7c",
+    "title": "3 Survival Skills Every Man Should Know",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "cC6CCdg8fBs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Jn1iS_w0K8c",
+    "title": "TOP 5 RAREST AND MOST DELICIOUS FRUITS IN THE WORLD! 😍🥰",
+    "score": 10
+  },
+  {
+    "id": "kqEyql-C2NE",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "yw8BCBjXNPc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "BU4QxpDGEvs",
+    "title": "World’s Largest Citrus Fruit 🍋‍🟩",
+    "score": 10
+  },
+  {
+    "id": "H5sW14xRBgI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "_3U0BzFPia0",
+    "title": "20 Commonly Forgotten Home Maintenance Tasks",
+    "score": 10
+  },
+  {
+    "id": "ZOFrzLpBqf4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hfMJTcvzW3Y",
+    "title": "Whole Home Renovation | 2 Year Remodel Solo DIY",
+    "score": 10
+  },
+  {
+    "id": "YxbkoTlwjz8",
+    "title": "More drywall removal! 2 small bedrooms into 1 🤔 #home #homerenovation #diy #friday #2024 #drywall",
+    "score": 10
+  },
+  {
+    "id": "uB7xebgV-yA",
+    "title": "This $1 Fix Saves Thousands in Water Damage",
+    "score": 10
+  },
+  {
+    "id": "HOsddz2Ubd4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9mmVa6O-hzQ",
+    "title": "Einleitung",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ERCMXc8x7mc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EvtYmScIr-o",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "EvIjoizFbHQ",
+    "title": "Why People Eat This Fruit? \"},{\"text\":\"#fruits\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMoCENbKAxgJIhMIt-7E87HCkgMVI07yAB3BLgROygEEPIlbjQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/fruits\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUKCgZmcnVpdHMYAQ%3D%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CMoCENbKAxgJIhMIt-7E87HCkgMVI07yAB3BLgRO\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#tropicalfruits\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMkCENbKAxgLIhMIt-7E87HCkgMVI07yAB3BLgROygEEPIlbjQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/tropicalfruits\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUSCg50cm9waWNhbGZydWl0cxgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CMkCENbKAxgLIhMIt-7E87HCkgMVI07yAB3BLgRO\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#soursop\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CMgCENbKAxgNIhMIt-7E87HCkgMVI07yAB3BLgROygEEPIlbjQ==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/soursop\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gULCgdzb3Vyc29wGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CMgCENbKAxgNIhMIt-7E87HCkgMVI07yAB3BLgRO\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"7,802,133 views\"},\"shortViewCount\":{\"simpleText\":\"7.8M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "5999EgnUNeo",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "PxphB0mLLDQ",
+    "title": "This Is How Fruits Looked Like Before Humans",
+    "score": 10
+  },
+  {
+    "id": "J24zARlBEB8",
+    "title": "Big OR Small!? 🤤 (Rare Fruits)",
+    "score": 10
+  },
+  {
+    "id": "BkkG5ap7SgU",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "xIC_n5FQq-A",
+    "title": "Minnesota Gov. Tim Walz and other state officials give update after deadly shooting",
+    "score": 10
+  },
+  {
+    "id": "qinxa9GDT4Y",
+    "title": "Tim Walz CAVES UNDER PRESSURE After Trump DROPS MASSIVE UPDATE On Minnesota Fraud Investigation",
+    "score": 10
+  },
+  {
+    "id": "dqggVYeC1vQ",
+    "title": "Gov. Tim Walz condemns 'campaign of organized brutality' by federal government in address",
+    "score": 10
+  },
+  {
+    "id": "Rqo676LXriQ",
+    "title": "Minnesota Gov. Tim Walz and other state officials give update after deadly shooting",
+    "score": 10
+  },
+  {
+    "id": "aD7H1DmlZEE",
+    "title": "Minneapolis ICE shooting update by Minnesota Gov. Tim Walz",
+    "score": 10
+  },
+  {
+    "id": "ihcp6fpk7Pw",
+    "title": "Gov. Walz to provide update on public safety",
+    "score": 10
+  },
+  {
+    "id": "EwnrX_nq988",
+    "title": "Minnesota Gov. Walz gives update on fatal ICE-involved shooting",
+    "score": 10
+  },
+  {
+    "id": "CYwrEKv3t1Q",
+    "title": "UPDATE: Frey asks Walz for National Guard help, police chief speaks on protests",
+    "score": 10
+  },
+  {
+    "id": "RWy2oQr94cs",
+    "title": "'They started this fire': Gov. Walz details meeting with Homan, demands end to ICE 'siege'",
+    "score": 10
+  },
+  {
+    "id": "9GwI86lU21c",
+    "title": "Walz details his meeting with Tom Homan",
+    "score": 10
+  },
+  {
+    "id": "il-hCJ4qNmw",
+    "title": "JUST IN: Homan gives PIVOTAL update after Walz, Frey meeting",
+    "score": 10
+  },
+  {
+    "id": "w6z3FAdqwPw",
+    "title": "Minneapolis ICE shooting updates: Subpoenas served to Gov. Walz, Mayor Frey",
+    "score": 10
+  },
+  {
+    "id": "M6TIExXY-lE",
+    "title": "Tim Walz updates on ICE shooting, FBI investigation [FULL]",
+    "score": 10
+  },
+  {
+    "id": "wNBK7uAek90",
+    "title": "Governor Walz gives public safety update following fatal shooting by ICE agent",
+    "score": 10
+  },
+  {
+    "id": "2SVm2QrScy4",
+    "title": "MN Gov. Walz gives update on deadly ICE shooting as protesters gather",
+    "score": 10
+  },
+  {
+    "id": "amJGFE9Q9qg",
+    "title": "Governor Walz Addresses Ongoing Federal Presence in Minnesota",
+    "score": 10
+  },
+  {
+    "id": "fGTsYXBWQgU",
+    "title": "Minnesota Governor Walz calls on Trump to remove ICE agents",
+    "score": 10
+  },
+  {
+    "id": "JkgAV6eGfhs",
+    "title": "Tim Walz, Jacob Frey and more Minnesota officials subpoenaed by DOJ",
+    "score": 10
+  },
+  {
+    "id": "mguRzuVyAbE",
+    "title": "Trump and Walz just spoke over the phone. Here's what to know",
+    "score": 10
+  },
+  {
+    "id": "QrEQ1lOdOVg",
+    "title": "Minnesota Gov. Walz responds to potential $9 billion in services fraud",
+    "score": 10
+  },
+  {
+    "id": "qO7HKoxJcLQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "aeM4jD9Uv_Y",
+    "title": "Fruits Ranked - Nutrition Tier Lists",
+    "score": 10
+  },
+  {
+    "id": "m00BMGWgvEc",
+    "title": "Control Rework Is The MOST OVERPOWERED FRUIT EVER..",
+    "score": 10
+  },
+  {
+    "id": "qA1_cYDw8Tg",
+    "title": "I Ranked Every Fruit By Nutrition",
+    "score": 10
+  },
+  {
+    "id": "LJV_ZY6rXo8",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "jtywXvjGOY0",
+    "title": "20 Biggest Fruits \\u0026 Vegetables Ever Recorded",
+    "score": 10
+  },
+  {
+    "id": "gKWBlL9DLuk",
+    "title": "Fruits Ranked - Nutrition Tier Lists",
+    "score": 10
+  },
+  {
+    "id": "VUg8vA7CT4s",
+    "title": "Yubari King Melon",
+    "score": 10
+  },
+  {
+    "id": "DvbCKl8yFiA",
+    "title": "20 More Rare \\u0026 Exotic Fruits You’ve Probably Never Seen | Part 2",
+    "score": 10
+  },
+  {
+    "id": "_6SaaT8IyMo",
+    "title": "Jabuticaba (Plinia cauliflora) – A fruit that grows directly on its tree’s trunk, making it look like nature decorated it with glossy purple pearls.",
+    "score": 10
+  },
+  {
+    "id": "GO3IZldWg6k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYnKYTph--Y",
+    "title": "15 Most Dangerous Fruits in the World You Must Know Now",
+    "score": 10
+  },
+  {
+    "id": "FemGrmYxyPM",
+    "title": "Harvest Paradise 🍓 Watch 50+ Times Farmers Picked the Most Delicious Fruits and Vegetables",
+    "score": 10
+  },
+  {
+    "id": "3LpaOw4C0bE",
+    "title": "6 Healthiest Fruits You Can Eat",
+    "score": 10
+  },
+  {
+    "id": "05GBZRFu3_s",
+    "title": "Blueberries",
+    "score": 10
+  },
+  {
+    "id": "ufQaXbOH6rY",
+    "title": "Best 10 Fruits That Can Give You More Energy",
+    "score": 10
+  },
+  {
+    "id": "qRe3L8Dtgyw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "83n_fNy2slc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "laXCelcY5pI",
+    "title": "Watermelon",
+    "score": 10
+  },
+  {
+    "id": "TCQ0GSH10D0",
+    "title": "Polaner All Fruit Commercial (1989)",
+    "score": 10
+  },
+  {
+    "id": "hawQ5wobi1Y",
+    "title": "Best Combo For Every Fruit | Blox Fruits 2026",
+    "score": 10
+  },
+  {
+    "id": "ZT5x_5wRbBM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hNvtMWU6Kk0",
+    "title": "Every Fruit of the Spirit Explained | Bible Stories for Kids",
+    "score": 10
+  },
+  {
+    "id": "knDgHncbJ78",
+    "title": "Top 25 Most Rare and Exotic Fruits in the World",
+    "score": 10
+  },
+  {
+    "id": "zT-dbgVoA48",
+    "title": "Mangosteen: Often hailed as the 'queen of \"},{\"text\":\"fruits\",\"bold\":true},{\"text\":\"', this ...",
+    "score": 10
+  },
+  {
+    "id": "5Bddv_kx-Fk",
+    "title": "Guess the Fruit in 3 Seconds 🍍🍓🍌 | 52 Different Types of Fruit",
+    "score": 10
+  },
+  {
+    "id": "4_XyvLFDJBs",
+    "title": "Noob To Max COLLECTING EVERY FRUIT In Blox Fruits",
+    "score": 10
+  },
+  {
+    "id": "WVeM5asSVc8",
+    "title": "All About Fruit",
+    "score": 10
+  },
+  {
+    "id": "hkzMWynyT54",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mxwcHbNnfn4",
+    "title": "Getting EVERY Fruit in 24 Hours (Blox Fruits)",
+    "score": 10
+  },
+  {
+    "id": "3x3HgHwYxeg",
+    "title": "Ranking EVERY Blox Fruit in Update 29",
+    "score": 10
+  },
+  {
+    "id": "Bv2EnNWkZY8",
+    "title": "Tropical FRUIT Tier List",
+    "score": 10
+  },
+  {
+    "id": "TQNw_hhaDiY",
+    "title": "fruit tier list",
+    "score": 10
+  },
+  {
+    "id": "9Kdx_9f-WGs",
+    "title": "Ranking Fruits by Their Accuracy",
+    "score": 10
+  },
+  {
+    "id": "-SA3p9YSln0",
+    "title": "Guess the Fruit and Vegetable in 3 seconds 🍎🥑🍍 | EASY to IMPOSSIBLE",
+    "score": 10
+  },
+  {
+    "id": "b-fG3EDuQFE",
+    "title": "Ranking Every Fruit in Blox Fruits Update 28",
+    "score": 10
+  },
+  {
+    "id": "qBci-4D18wE",
+    "title": "Fruits Vocabulary ll 100 Common Fruits Name in English With Pictures ll 100 Fruits Name in English",
+    "score": 10
+  },
+  {
+    "id": "_xxzwUFDIMA",
+    "title": "I Got Every Blox Fruit in 24 Hours",
+    "score": 10
+  },
+  {
+    "id": "-YEXSvcJcJE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "PubMed: Using the Search Filters",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "IYlrs-Ab0_k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bn3gdSYcBqA",
+    "title": "Quick way to filter data in #excel #spreadsheet #excelhelp #corporatehacks",
+    "score": 10
+  },
+  {
+    "id": "yszOe0Fu0EE",
+    "title": "Breakfast Ranked - Nutrition Tier Lists",
+    "score": 10
+  },
+  {
+    "id": "qxID9a0l3aw",
+    "title": "Introducing: Breakfast",
+    "score": 10
+  },
+  {
+    "id": "GR4PhrFh-i4",
+    "title": "Introducing: Plant Proteins",
+    "score": 10
+  },
+  {
+    "id": "fD07raxrJVo",
+    "title": "Introducing: Vegetables",
+    "score": 10
+  },
+  {
+    "id": "K8HuhaKObZs",
+    "title": "Introducing: Nuts",
+    "score": 10
+  },
+  {
+    "id": "hLqxf6cCR6A",
+    "title": "Introducing: Dairy",
+    "score": 10
+  },
+  {
+    "id": "dp_1u2KJx-0",
+    "title": "Introducing: Grains",
+    "score": 10
+  },
+  {
+    "id": "TSXL4iPWLQA",
+    "title": "Herbs \\u0026 Spices Ranked - Nutrition Tier Lists",
+    "score": 10
+  },
+  {
+    "id": "OrnicaRNYps",
+    "title": "Introducing: Herbs \\u0026 Spices",
+    "score": 10
+  },
+  {
+    "id": "N-4obfDzPYY",
+    "title": "Introducing: Condiments",
+    "score": 10
+  },
+  {
+    "id": "vmEVFzpyDL0",
+    "title": "Introducing: Drinks",
+    "score": 10
+  },
+  {
+    "id": "0ekX1bE_gIM",
+    "title": "Introducing: Beans",
+    "score": 10
+  },
+  {
+    "id": "gCwOo8VuwR8",
+    "title": "Introducing: Organs Meats",
+    "score": 10
+  },
+  {
+    "id": "t5PXJkihBgE",
+    "title": "Introducing: Snacks",
+    "score": 10
+  },
+  {
+    "id": "fG63a8vDGXA",
+    "title": "Introduction: The healthiest foods you should be eating",
+    "score": 10
+  },
+  {
+    "id": "Fd4pXOYO9Hg",
+    "title": "Introducing: Mushrooms",
+    "score": 10
+  },
+  {
+    "id": "auUOKn24PRw",
+    "title": "Top 20 Sweetest Fruits on Earth – Nature’s Sugary Secrets!",
+    "score": 10
+  },
+  {
+    "id": "_JtEr209HJY",
+    "title": "Top 25 Most Rare and Exotic Fruits in the World",
+    "score": 10
+  },
+  {
+    "id": "IwWzocPmCT8",
+    "title": "Soursop (Graviola) (Annona muricata): A tropical delight with a creamy texture and a flavor blending strawberry and pineapple.",
+    "score": 10
+  },
+  {
+    "id": "dn1U_hs4_hE",
+    "title": "This is the sweetest fruit on earth!",
+    "score": 10
+  },
+  {
+    "id": "IOneMBPVDIc",
+    "title": "Top 4 Sweetest Fruits You Must Try 🍭🍉 #facts #fruit",
+    "score": 10
+  },
+  {
+    "id": "COI2UOURHc0",
+    "title": "Do You Know? The Most Sweetest Fruits in the World ? If Not! This Video Is For You ! #healthtips ",
+    "score": 10
+  },
+  {
+    "id": "Pqxa62HcbH4",
+    "title": "Most Sweetest Fruits 🥰🍉",
+    "score": 10
+  },
+  {
+    "id": "hFVAynvSReI",
+    "title": "Top 5 Sweetest Fruits in the World",
+    "score": 10
+  },
+  {
+    "id": "65nAh9Z4TuY",
+    "title": "Top 5 Sweetest Fruits on Earth 🍯 (Number 1 Will Shock You!)",
+    "score": 10
+  },
+  {
+    "id": "FPfnjG2wZHY",
+    "title": "Top 5 RAREST Fruits You Won’t Believe Actually Exist 🍎",
+    "score": 10
+  },
+  {
+    "id": "6dLkuqFDBpQ",
+    "title": "Top 5 Best Tasting Fruits",
+    "score": 10
+  },
+  {
+    "id": "AKD1IGfzTZA",
+    "title": "Top 5 Sweetest Fruits on Earth🥭🌎",
+    "score": 10
+  },
+  {
+    "id": "vm1GqfDyo5M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2oR5MWaclA4",
+    "title": "'I'm speechless.' Ryan Preece on his emotional win at Clash at Bowman Gray 🏁 | NASCAR on FOX",
+    "score": 10
+  },
+  {
+    "id": "PWOGLPzh9DU",
+    "title": "Video Intro",
+    "score": 10
+  },
+  {
+    "id": "e8zYGYpt_oQ",
+    "title": "Samsung TV Grayed Out Settings FIX",
+    "score": 10
+  },
+  {
+    "id": "VloKevP5SqM",
+    "title": "Wifi Button Not Clickable",
+    "score": 10
+  },
+  {
+    "id": "FtjCwI_DPxI",
+    "title": "Cellular Data Icon Grayed Out on iPhone 15 Pro Max?",
+    "score": 10
+  },
+  {
+    "id": "26-5OgAqJAs",
+    "title": "'Find My iPhone' \"},{\"text\":\"Grayed\",\"bold\":true},{\"text\":\" Out on iPhone running on ...",
+    "score": 10
+  },
+  {
+    "id": "11M3E0G6k2Y",
+    "title": "Replace with After Effects composition greyed out - FIX",
+    "score": 10
+  },
+  {
+    "id": "B5KvQzrOeuU",
+    "title": "Fix WiFi Icon Grayed Out on iPhone!",
+    "score": 10
+  },
+  {
+    "id": "bDZTe6pM5I8",
+    "title": "What this video is about",
+    "score": 10
+  },
+  {
+    "id": "CQEuUkrG2rI",
+    "title": "iOS 26/26.1 Update After iPhone Personal Hotspot Greyed Out - FIXED",
+    "score": 10
+  },
+  {
+    "id": "o0jyWpOhOTc",
+    "title": "iPhone X/XS/11/12/13/14: WiFi Greyed Out? FIXED!",
+    "score": 10
+  },
+  {
+    "id": "XPu8ja4eHes",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OnDRBBSoydo",
+    "title": "Video intro",
+    "score": 10
+  },
+  {
+    "id": "6LTiBZCUbmw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MGW936ApjA4",
+    "title": "BOE Interest-Rate Decision | Special Coverage",
+    "score": 10
+  },
+  {
+    "id": "ybKcTbDGmz0",
+    "title": "The Federal Reserve announces interest rate cut, the second one this year",
+    "score": 10
+  },
+  {
+    "id": "Enw2xIyoWa8",
+    "title": "Fed Chair Announces Interest Rate Cut",
+    "score": 10
+  },
+  {
+    "id": "3OpkFsJY9Sc",
+    "title": "Powell announces Federal Reserve decides to keep interest rates unchanged",
+    "score": 10
+  },
+  {
+    "id": "tSxl8OX7NWg",
+    "title": "No change to interest rates after first 2026 meeting, Federal Reserve announces",
+    "score": 10
+  },
+  {
+    "id": "hpTSK73Cr94",
+    "title": "Federal Reserve announces interest rate hikes",
+    "score": 10
+  },
+  {
+    "id": "scXfR2eb4PQ",
+    "title": "10% cap announced: Trump puts his foot down for high interest rates",
+    "score": 10
+  },
+  {
+    "id": "hkkEFEMKGf8",
+    "title": "Fed Chair Jerome Powell announces interest rate decision",
+    "score": 10
+  },
+  {
+    "id": "MDhW7GRGCdQ",
+    "title": "Jerome Powell Announces Second Interest Rate Cut This Year",
+    "score": 10
+  },
+  {
+    "id": "AzBkGy5aEmU",
+    "title": "lower the target for the federal funds rate",
+    "score": 10
+  },
+  {
+    "id": "Vrq34BWTM9A",
+    "title": "What to expect from the Fed's first interest rate decision of 2026",
+    "score": 10
+  },
+  {
+    "id": "3orYBtqdrhs",
+    "title": "Fed Chair Announces Interest Rate Cut",
+    "score": 10
+  },
+  {
+    "id": "POSn-i6sM3Q",
+    "title": "BREAKING: Jerome Powell Announces Federal Reserve Will Hold Rates As Trump Pressures Central Bank",
+    "score": 10
+  },
+  {
+    "id": "w2-aJZ3dsJY",
+    "title": "Fed Reserve announces interest rate cut. What does it mean? | Where's the Money?",
+    "score": 10
+  },
+  {
+    "id": "5Igma4qsTrY",
+    "title": "Federal Reserve Announces Interest Rate Increase Of 0.75%",
+    "score": 10
+  },
+  {
+    "id": "OZ6Rgnj0Fkk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PYUB-Od5J_w",
+    "title": "Microsoft Fixed Windows... But Only For Europe (Force It Anyway)",
+    "score": 10
+  },
+  {
+    "id": "MfBNxGw_5J8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zFBH5lk14o8",
+    "title": "NO Microsoft Account Needed: Windows 11 Local Setup (2026)",
+    "score": 10
+  },
+  {
+    "id": "13qAUEWK6zI",
+    "title": "Intro (Setup)",
+    "score": 10
+  },
+  {
+    "id": "wcsnzAtPNCI",
+    "title": "Microsoft to Remove AI in Windows 11",
+    "score": 10
+  },
+  {
+    "id": "VfNGRxYCsuA",
+    "title": "Adobe's Big Oopsie",
+    "score": 10
+  },
+  {
+    "id": "QT8LZPQsIIc",
+    "title": "Microsoft Hears You And Wants To Change.",
+    "score": 10
+  },
+  {
+    "id": "CwLnI0ILTx4",
+    "title": "Nvidia CEO BEGS Critics to Stop Exposing AI: Microslop EP 2",
+    "score": 10
+  },
+  {
+    "id": "YB-JItiQLF4",
+    "title": "Trump Wants to Control Voting, ICE Backs Off in Minnesota \\u0026 Epstein Redactions Protecting Creeps",
+    "score": 10
+  },
+  {
+    "id": "QpXLHgyelrg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7TeUlcoT9i4",
+    "title": "HW News - OpenAI x NVIDIA Deal Questioned, GPU Prices Suddenly Skyrocket, AMD Vibe Coding",
+    "score": 10
+  },
+  {
+    "id": "CX6QBUlTo2A",
+    "title": "Accessibility Evolution | Microsoft’s Journey to Empower People with Disabilities",
+    "score": 10
+  },
+  {
+    "id": "HMi6UaO1In4",
+    "title": "Notice - Most Features Are Disabled Becuase Your Office Product is Inactive (FIXED)",
+    "score": 10
+  },
+  {
+    "id": "nqhR4I-xmks",
+    "title": "Fix Error Code 135011 Microsoft Something Went Wrong Your Organization Has Disabled This Device 365",
+    "score": 10
+  },
+  {
+    "id": "-O4PkPeOPjo",
+    "title": "Microsoft FORCES Online Accounts",
+    "score": 10
+  },
+  {
+    "id": "Rp1_Ufq6vdY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "apzqAWMiNLY",
+    "title": "FIX: Your organization has disabled this device (error 135011) | Microsoft Teams error",
+    "score": 10
+  },
+  {
+    "id": "DkS5pVMEoj4",
+    "title": "Lock Down Your Microsoft 365: Your Essential Security Policies",
+    "score": 10
+  },
+  {
+    "id": "D1tgTqmD6j0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fxzTcxt6fA0",
+    "title": "Fruits Ranked - Nutrition Tier Lists",
+    "score": 10
+  },
+  {
+    "id": "s4_I06KCnps",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OgjiF43WrTg",
+    "title": "Fruit Tier List",
+    "score": 10
+  },
+  {
+    "id": "FZQrn1ru-tI",
+    "title": "Grapes",
+    "score": 10
+  },
+  {
+    "id": "MlUUCJMie0Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DFFgoaTGxbo",
+    "title": "Fruit Nutrient-Density Tier List (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "b5f2bi4hGxc",
+    "title": "I Ranked Every Fruit By Nutrition",
+    "score": 10
+  },
+  {
+    "id": "cNNhQrDEa_4",
+    "title": "Reintroducing: Fruits",
+    "score": 10
+  },
+  {
+    "id": "jwcbioQxUcc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "stvLHQQ2rUQ",
+    "title": "Pear",
+    "score": 10
+  },
+  {
+    "id": "0Koji7TjEAg",
+    "title": "Fruit Nutrient-Density Tier List (Part 3)",
+    "score": 10
+  },
+  {
+    "id": "5xSXOUwMH5I",
+    "title": "BEST PVE FRUITS TIER LIST IN GPO.. (Whole Cake Update)",
+    "score": 10
+  },
+  {
+    "id": "JXPh3gW26Ik",
+    "title": "BEST vs. Worst Exotic Fruits for Your Gut Health | Exotic Fruits Tier List | Gut Instincts",
+    "score": 10
+  },
+  {
+    "id": "QhYPp1EyUnw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pzHrzCKGvsE",
+    "title": "How a Traded-In Apple iPhone Gets Refurbished | WSJ",
+    "score": 10
+  },
+  {
+    "id": "WHqxBlFuIXA",
+    "title": "Used and refurbished phones in North America",
+    "score": 10
+  },
+  {
+    "id": "JrZz7hANF58",
+    "title": "Turn your iPhone into a productivity machine",
+    "score": 10
+  },
+  {
+    "id": "284CiEWsXSk",
+    "title": "Cut your screentime by 90",
+    "score": 10
+  },
+  {
+    "id": "pXvd8HNAdAk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VEJ9tkqUYVw",
+    "title": "iPhone 16 Pro Teardown - How Every Single Piece Inside Works | WIRED",
+    "score": 10
+  },
+  {
+    "id": "IqIMhuAFIQM",
+    "title": "10 things you need to STOP doing on your iPhone!",
+    "score": 10
+  },
+  {
+    "id": "VhpIdfBMmTk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uhhnKSyhIeM",
+    "title": "Z Fold 8 Samsung - This Is Unbelievable!🔥",
+    "score": 10
+  },
+  {
+    "id": "LOJKR8cxHmI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d3byvtzB0A8",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "1NTYtFfgatk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KgoXavxgwk0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XXkfM6IR_FI",
+    "title": "1. Introduction",
+    "score": 10
+  },
+  {
+    "id": "YJ6ZSAV4gZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "elUnaFKmWP8",
+    "title": "What’s In Your Apple iPhone",
+    "score": 10
+  },
+  {
+    "id": "Cw3V2x5u54Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ysu1LoweUn0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N9dztDmufco",
+    "title": "Cellular Data Not Working On iPhone? Here's The Fix!",
+    "score": 10
+  },
+  {
+    "id": "y4rAeU-WpHQ",
+    "title": "1. Introduction",
+    "score": 10
+  },
+  {
+    "id": "XVrFLbC-vmQ",
+    "title": "Fix iPhone 15 Touch Screen Not Working and Restore iPhone Automatically - P15 Magico Restore Cable",
+    "score": 10
+  },
+  {
+    "id": "kXeGuZlhvNE",
+    "title": "iPhone Vs Android - Which Works Better?",
+    "score": 10
+  },
+  {
+    "id": "AzZrHEMdW4Q",
+    "title": "10 helpful iPhone tips | Apple Support",
+    "score": 10
+  },
+  {
+    "id": "AGi83pZtqPM",
+    "title": "How Dual SIM on the iPhone Works",
+    "score": 10
+  },
+  {
+    "id": "FqZ4qkHwhrw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Yr8beK9FMe0",
+    "title": "iPhone can finally pause video recording #iphone #ios18",
+    "score": 10
+  },
+  {
+    "id": "2U8sLRUzz6M",
+    "title": "Pause Windows Update Greyed Out, This Setting isn't Available [fixed]",
+    "score": 10
+  },
+  {
+    "id": "MNUYe0PWNNs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jXJo9IxHrUE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xUVXHQnhOZg",
+    "title": "[2023 WORKED] Disable auto-pause Youtube | Stop 'Video Paused. Continue Watching?'",
+    "score": 10
+  },
+  {
+    "id": "SnmTZSztA3M",
+    "title": "Reason Youtube stop banner",
+    "score": 10
+  },
+  {
+    "id": "e0h09RpeMSY",
+    "title": "Fix “Pause updates” option greyed out in Windows Update",
+    "score": 10
+  },
+  {
+    "id": "8L80Mc6YXwQ",
+    "title": "PAUSE MENU in Unity",
+    "score": 10
+  },
+  {
+    "id": "JivuXdrIHK0",
+    "title": "switch into 2d mode",
+    "score": 10
+  },
+  {
+    "id": "L4rFzwd9tu0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "u7Xi8YHpWLE",
+    "title": "Intro: Firestick Warning",
+    "score": 10
+  },
+  {
+    "id": "Hg9mfb5mT7c",
+    "title": "Entitled Professor Embarrasses Herself",
+    "score": 10
+  },
+  {
+    "id": "4KKpZZruUNQ",
+    "title": "iOS 16.5 Update Download \\u0026 Install Option Greyed Out On iPhone",
+    "score": 10
+  },
+  {
+    "id": "ht2NqvfGo1Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "E66FRW2dtuM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lBfAj9ENFa4",
+    "title": "Use Wi-Fi to Download a Software",
+    "score": 10
+  },
+  {
+    "id": "V6HSMVuSU-s",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "xZhqHnpqeQM",
+    "title": "Software Update Greyed Out",
+    "score": 10
+  },
+  {
+    "id": "pRcMof6jEnI",
+    "title": "Intro: WiFi Button Greyed Out on iPhone After iOS 26 Update",
+    "score": 10
+  },
+  {
+    "id": "UMNG5PGZsAo",
+    "title": "Fancy Comfort Food Taste Test",
+    "score": 10
+  },
+  {
+    "id": "hdaB8NMXN88",
+    "title": "One Dish Impresses Ramsay So Much He Awards Black Jacket Before Tasting All Dishes | Hell's Kitchen",
+    "score": 10
+  },
+  {
+    "id": "NIPiCZNF5z8",
+    "title": "Best-tasting Coffee | Consumer Reports",
+    "score": 10
+  },
+  {
+    "id": "-jZe9_DkwmM",
+    "title": "Maxwell House",
+    "score": 10
+  },
+  {
+    "id": "Ua7omg5Ws1U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3UPeFVS0YBk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "inDuJrJPtaI",
+    "title": "Napa - Top 10 Things To Do! Vineyards, Restaurants, Wine \\u0026 More!",
+    "score": 10
+  },
+  {
+    "id": "h9GCK1XMEY0",
+    "title": "The United States Of Wine",
+    "score": 10
+  },
+  {
+    "id": "MtgVXp8s2iU",
+    "title": "This Deep Sea Creature is one of the Best Tasting Fish in the Ocean",
+    "score": 10
+  },
+  {
+    "id": "UbbmArVeWBE",
+    "title": "What's The Best GMM Food? Taste Test (Sweet Edition)",
+    "score": 10
+  },
+  {
+    "id": "1l34FFD9lk0",
+    "title": "Tasting Expert Reveals Which Vanilla Extract is the Best",
+    "score": 10
+  },
+  {
+    "id": "-1IKzUhqrDg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H6tMBSjfpHQ",
+    "title": "Tasting The Worlds Best Flavored Apples",
+    "score": 10
+  },
+  {
+    "id": "a2feMysOBRs",
+    "title": "One of America's Best Sommeliers Grades Boxed Wine | Tasting Notes",
+    "score": 10
+  },
+  {
+    "id": "d9XxVXczyzI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "srVS7hOA_tI",
+    "title": "Can You Get Good Coffee at The Grocery? | Blind Tasting Grocery Store Coffee To Find The BEST!!",
+    "score": 10
+  },
+  {
+    "id": "HmxpLtdX3kk",
+    "title": "The BEST TASTING FISH That No One Eats!! (Shore Fishing)",
+    "score": 10
+  },
+  {
+    "id": "WCR0I6WmQf4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OlRwHwo6eW8",
+    "title": "Snap Fastener Installation Tool Demo",
+    "score": 10
+  },
+  {
+    "id": "BJGUhCzzX-w",
+    "title": "Install Small Metal Snap Buttons Like a PRO with BIOUU Pliers Kit!",
+    "score": 10
+  },
+  {
+    "id": "Zl2FK_z0pnY",
+    "title": "Safety First: The Correct Way To Install Emergency Stop Buttons",
+    "score": 10
+  },
+  {
+    "id": "Mpv7g0WLDYQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GeLpzPoXyoQ",
+    "title": "insert the hose",
+    "score": 10
+  },
+  {
+    "id": "Oo3JoWDTd8E",
+    "title": "(1) ROOT (2) NO ROOT",
+    "score": 10
+  },
+  {
+    "id": "ui6vl28Ehj8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j0YwQh0oG_s",
+    "title": "The RIGHT Way to Install a Strap Button on Your Acoustic Guitar",
+    "score": 10
+  },
+  {
+    "id": "cgNbNVDDGS4",
+    "title": "HD Starter Backup: EZ Push Button install",
+    "score": 10
+  },
+  {
+    "id": "4O6jd69i4zc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0MndxtJwwhk",
+    "title": "Installing a Pullout Kitchen Faucet",
+    "score": 10
+  },
+  {
+    "id": "etid0oANZXs",
+    "title": "Step 1 Planning",
+    "score": 10
+  },
+  {
+    "id": "1QikUST0-uc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Xg7BAzHZ4Lw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YHhAsSoP04c",
+    "title": "Tony Wojtowicz Pro Home Remodeler",
+    "score": 10
+  },
+  {
+    "id": "Dbuv4W_EFmU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "D2lkQn-SiV4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WyUh1ztBH84",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L-dNZcI7fL8",
+    "title": "Tools",
+    "score": 10
+  },
+  {
+    "id": "bDcYzcA16Hc",
+    "title": "FRAME THE WINDOW",
+    "score": 10
+  },
+  {
+    "id": "YTzLzQrbMGg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "I6tN0xGjers",
+    "title": "3 terms CNN used to sort through 3 million pages of Epstein files",
+    "score": 10
+  },
+  {
+    "id": "WJVwSIOTqEA",
+    "title": "Epstein files fallout extends to UK",
+    "score": 10
+  },
+  {
+    "id": "Ys81iJlsI-g",
+    "title": "Epstein survivor ‘heartbroken’ over DOJ’s release of files",
+    "score": 10
+  },
+  {
+    "id": "GOjy_l4INjc",
+    "title": "Trump reacts to latest release of Epstein files",
+    "score": 10
+  },
+  {
+    "id": "SVmRiRVqNDE",
+    "title": "Bondi \\u0026 Blanche should be 'held in contempt' over Epstein files release, says House Democrat",
+    "score": 10
+  },
+  {
+    "id": "LHUDHsnoNWM",
+    "title": "Jamie Raskin takes ACTION on REDACTED Epstein files",
+    "score": 10
+  },
+  {
+    "id": "v_sIxj7LwJg",
+    "title": "BREAKING NEWS: Hageman And Raskin Have Shocking Fiery Clash Over Jeffrey Epstein, Plaskett, \\u0026 Trump",
+    "score": 10
+  },
+  {
+    "id": "pdlZI614xYU",
+    "title": "Innocent People Don't Hide Evidence | Here's Why (Lawyer explains the Epstein Files)",
+    "score": 10
+  },
+  {
+    "id": "2BSQqI_4ous",
+    "title": "The Epstein Files are Wacko",
+    "score": 10
+  },
+  {
+    "id": "d-jXagY6Z6I",
+    "title": "Trump Attacks CNN's Kaitlan Collins Over Epstein Q \\u0026 Renovates D.C. in His Image | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "3GzCb_49FuI",
+    "title": "Trump Administration Pushes \\\"America is Back\\\" Hats",
+    "score": 10
+  },
+  {
+    "id": "cwXIq81eE24",
+    "title": "Jon Stewart's TDS Welcome",
+    "score": 10
+  },
+  {
+    "id": "n6_lsXUclDM",
+    "title": "Bill Gates apologizes for Epstein ties as royal family faces new scrutiny",
+    "score": 10
+  },
+  {
+    "id": "Hxju379t4PM",
+    "title": "Trump Wants to Control Voting, ICE Backs Off in Minnesota \\u0026 Epstein Redactions Protecting Creeps",
+    "score": 10
+  },
+  {
+    "id": "iJxWiL4HHKk",
+    "title": "Latest Epstein files release includes list of allegations against Trump",
+    "score": 10
+  },
+  {
+    "id": "WLb96e3kyLg",
+    "title": "DOJ deal with Epstein survivors to protect identities in question after missing redactions ",
+    "score": 10
+  },
+  {
+    "id": "xzk3rHhyi2o",
+    "title": "Huge cache of Epstein documents includes emails financier exchanged with wealthy and powerful",
+    "score": 10
+  },
+  {
+    "id": "5W1umcG75kU",
+    "title": "DOJ releases more Epstein files",
+    "score": 10
+  },
+  {
+    "id": "URIeAdZfPLM",
+    "title": "Epstein files prompt further scrutiny of high-powered people",
+    "score": 10
+  },
+  {
+    "id": "MYYUZMSrw0w",
+    "title": "'No acceptable excuse': Trump's DOJ appears to reveal Epstein survivors in document drop",
+    "score": 10
+  },
+  {
+    "id": "7SnyvTVpPs4",
+    "title": "The Glaring Epstein Files Issue Trump Can’t Escape | The Daily Beast Podcast",
+    "score": 10
+  },
+  {
+    "id": "hX05bZFQR4U",
+    "title": "Trump’s Second Term Chaos Begins",
+    "score": 10
+  },
+  {
+    "id": "SL93H8YXFjY",
+    "title": "How Trump appears in latest Epstein files release",
+    "score": 10
+  },
+  {
+    "id": "0zHHauRkWfA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MMtJXs3rbjs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FM61nNA5fPc",
+    "title": "Windows Update Screen REAL COUNT 10 hours 4K Resolution",
+    "score": 10
+  },
+  {
+    "id": "nACIncrvZ6g",
+    "title": "Windows Update Screen REAL COUNT 12 hours 4K Resolution",
+    "score": 10
+  },
+  {
+    "id": "mBqpeJTBofA",
+    "title": "Windows 11 Update Screen 11 hours REAL COUNT in 4K UHD !",
+    "score": 10
+  },
+  {
+    "id": "LI1xByFrv-E",
+    "title": "Windows is DYING (Microsoft Knows It)",
+    "score": 10
+  },
+  {
+    "id": "V4SV9NDs6iM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LtB2L-6buww",
+    "title": "Microsoft Didn't Expect This Level of Windows 11 Rejection",
+    "score": 10
+  },
+  {
+    "id": "WkOYVdST2-U",
+    "title": "Adobe's Big Oopsie",
+    "score": 10
+  },
+  {
+    "id": "ZIalvlPBFeI",
+    "title": "Bill Gates PANICS As Microsoft Tells Users To DELETE Windows 11 Update - CRASHING PC's!",
+    "score": 10
+  },
+  {
+    "id": "l-M8kxjXvOo",
+    "title": "Bob Lazar Just Cracked the Buga Sphere’s Code and What He Found Will Blow Your Mind!",
+    "score": 10
+  },
+  {
+    "id": "JrxqxUWKxFQ",
+    "title": "Windows 11 January Update Is BRICKING PCs Worldwide — Microsoft Issues EMERGENCY Warning!",
+    "score": 10
+  },
+  {
+    "id": "se8g2jK8BOQ",
+    "title": "Microsoft Fixed Windows... But Only For Europe (Force It Anyway)",
+    "score": 10
+  },
+  {
+    "id": "GH3ktrhDEJs",
+    "title": "Biggest Windows 11 25H2 January Update in the Main Release – New Taskbar, Start Menu (KB5074105)",
+    "score": 10
+  },
+  {
+    "id": "Hk5b0xVC7vE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7xS-CE-hy6Q",
+    "title": "Windows 11 update KB5063878 causing SSD failures under heavy writes",
+    "score": 10
+  },
+  {
+    "id": "KzUddAsiXM0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZOoCaWyifmI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RYMnIGxxqU0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iKFSuwzFAJc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bbOEjaIkr24",
+    "title": "Microsoft Just Killed Millions of PCs (25H2 Update)",
+    "score": 10
+  },
+  {
+    "id": "5TJ4V0q59QI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TbFIUu_7LIc",
+    "title": "10 New Features in Windows 11 25H2 update (Tips \\u0026 Tricks for 2025)",
+    "score": 10
+  },
+  {
+    "id": "ai3Kly6x8L0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "s6icvlrKM6M",
+    "title": "20 Windows Settings You Should Change Now!",
+    "score": 10
+  },
+  {
+    "id": "AyAO9j_QsK4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KIgEww_rfSw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "j70UOLVO4I4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "TRenM9ORamE",
+    "title": "Recap for the Week",
+    "score": 10
+  },
+  {
+    "id": "GivFxSiO7do",
+    "title": "Microsoft walks back AI in Windows 11! Yeah, right",
+    "score": 10
+  },
+  {
+    "id": "m9X5YW9XTfY",
+    "title": "Yes, Windows is the Problem.",
+    "score": 10
+  },
+  {
+    "id": "7PIhbBDyLSk",
+    "title": "The End of Windows (10)",
+    "score": 10
+  },
+  {
+    "id": "Vt4OXNUJWtc",
+    "title": "Rich people will hate this projector - XGIMI Horizon 20 Max",
+    "score": 10
+  },
+  {
+    "id": "hQDwpXfJXYI",
+    "title": "Unboxing and design impressions",
+    "score": 10
+  },
+  {
+    "id": "9NyqknFxtUI",
+    "title": "what is windows 10 Enterprise LTSC and IoT, how you can download it and how you can set it up.",
+    "score": 10
+  },
+  {
+    "id": "IjII9HYc6fU",
+    "title": "Disable Choose an Operating System at start up Windows 11, 10 - Dual Boot disable",
+    "score": 10
+  },
+  {
+    "id": "0PA1wgdMeeI",
+    "title": "Downloading Windows 11",
+    "score": 10
+  },
+  {
+    "id": "cpta3-EnlZc",
+    "title": "Disable this Windows Feature that Secretly Eats Up RAM! (and Slows Down Your PC)",
+    "score": 10
+  },
+  {
+    "id": "2K1noInGPUc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-aa-JhwRyUg",
+    "title": "Secret Windows Shortcuts",
+    "score": 10
+  },
+  {
+    "id": "w0zcoIJjqCk",
+    "title": "Settings Not Opening Windows 11 FIXED ( 2025 ) | Windows 11 Settings App Not Opening or Working FIX",
+    "score": 10
+  },
+  {
+    "id": "oLTfaPKm7jE",
+    "title": "Boot into UEFI BIOS: Easy Steps from Windows!",
+    "score": 10
+  },
+  {
+    "id": "LCjEDjvniJU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KRqg3RJFWPo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tU1x9b3nj5I",
+    "title": "Fruits | Introduction of fruits | My favourite fruit | 5 lines on Fruits |",
+    "score": 10
+  },
+  {
+    "id": "hpDICWUcGuI",
+    "title": "Fruits and Vegetables for kids | Fruits Name for Kids, Children, Toddlers and Kindergarten",
+    "score": 10
+  },
+  {
+    "id": "0mgrqfWDf80",
+    "title": "MANGO",
+    "score": 10
+  },
+  {
+    "id": "aucmuMTEjIY",
+    "title": "Banana",
+    "score": 10
+  },
+  {
+    "id": "TyV-OhCrVDA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "71fkBqZ_4K8",
+    "title": "PEAR",
+    "score": 10
+  },
+  {
+    "id": "68fZBMxPKCE",
+    "title": "Fruits and Vegetables Song | CoComelon Nursery Rhymes \\u0026 Kids Songs",
+    "score": 10
+  },
+  {
+    "id": "j86yN2bOiBQ",
+    "title": "Fruit Song for Kids | The Singing Walrus",
+    "score": 10
+  },
+  {
+    "id": "mfReSbQ7jzE",
+    "title": "Mondays I eat apples.",
+    "score": 10
+  },
+  {
+    "id": "cT_sMWI97PY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-kRFq__lNoQ",
+    "title": "cut the vegetable to tiny pieces",
+    "score": 10
+  },
+  {
+    "id": "ucHRFkDjUgg",
+    "title": "Different types of Fruits | 7 lines on Fruits | Activity on Fruits | Risha Mam Online Preschool",
+    "score": 10
+  },
+  {
+    "id": "nI4nKKFN3J4",
+    "title": "What Fruits Would Sound like as Humans p.2",
+    "score": 10
+  },
+  {
+    "id": "6XFlHXDwlSk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "3OJZcb5Y9dQ",
+    "title": "Humans With Extremely Rare Genetics",
+    "score": 10
+  },
+  {
+    "id": "9jqoTrwS_lE",
+    "title": "World's smallest cat 🐈- BBC",
+    "score": 10
+  },
+  {
+    "id": "_u9P1R_C7FY",
+    "title": "Rare of Breed - GOD KNOWS ft. SMO",
+    "score": 10
+  },
+  {
+    "id": "CdDwR7FKmNs",
+    "title": "A rare little fish, a new mom and finding wonder in a backyard creek",
+    "score": 10
+  },
+  {
+    "id": "isiiwougjRo",
+    "title": "My Small Leaf Hoya Collection | 35 Different Hoyas!  | Rare and Common",
+    "score": 10
+  },
+  {
+    "id": "TyEz3ARApMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_UtyWDz1Iss",
+    "title": "RARE JOYRIDE 🛸",
+    "score": 10
+  },
+  {
+    "id": "LY7vc3aMDG8",
+    "title": "The worlds most rare (and haunted) LABUBU",
+    "score": 10
+  },
+  {
+    "id": "KrjzKjdn6Dg",
+    "title": "Will I Find The Rare Golden Dumpling? 🥟",
+    "score": 10
+  },
+  {
+    "id": "0RyU7celIyM",
+    "title": "Capturing a super rare fish 🤯",
+    "score": 10
+  },
+  {
+    "id": "bUFiA5txHGg",
+    "title": "World's BIGGEST Axolotl 😱 (Super Rare Axolotl)",
+    "score": 10
+  },
+  {
+    "id": "T56jbdNokBE",
+    "title": "Big OR Small!? 🤤 (Rare Meats)",
+    "score": 10
+  },
+  {
+    "id": "LhSDlxlCnRo",
+    "title": "A Tiny Golden Frog as Rare as It Is Small",
+    "score": 10
+  },
+  {
+    "id": "kb1LRDBEXmE",
+    "title": "I Got The Rare MrBeast Test Tube",
+    "score": 10
+  },
+  {
+    "id": "EeiycE60T5Y",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "I9fdTjBZBKk",
+    "title": "Air Supply - Every Woman in the World (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "hzWwp9JM7Hw",
+    "title": "Every Woman in the World",
+    "score": 10
+  },
+  {
+    "id": "-6Wu0Q7x5D0",
+    "title": "World War II on Every Front with Flags: Every Day",
+    "score": 10
+  },
+  {
+    "id": "toY8ZRZMmMo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ymI5Uv5cGU4",
+    "title": "The Whale (Life of Pi)",
+    "score": 10
+  },
+  {
+    "id": "v3QPfPG-Zi0",
+    "title": "Air Supply - Every Woman In The World (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "WZrneLOJpQc",
+    "title": "World War II in Europe with Flags: Every Day",
+    "score": 10
+  },
+  {
+    "id": "pQrgObFz6uo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zyB-eN36GIw",
+    "title": "Every World Where Humanity Was Completely Erased",
+    "score": 10
+  },
+  {
+    "id": "SqU5y69DhMA",
+    "title": "Every Mario Kart Character Not in Mario Kart World",
+    "score": 10
+  },
+  {
+    "id": "gAkwIn8snj4",
+    "title": "Every Country in the World (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "P-b4SUOfn_4",
+    "title": "San Marino",
+    "score": 10
+  },
+  {
+    "id": "V_XcO3WevMM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8NWbWyzJC5Y",
+    "title": "I Cooked Every Bird in the World",
+    "score": 10
+  },
+  {
+    "id": "hziqTqnleM0",
+    "title": "World War II on All Fronts: Every Day",
+    "score": 10
+  },
+  {
+    "id": "WZJAsARQ8c4",
+    "title": "September 1939",
+    "score": 10
+  },
+  {
+    "id": "n3ABXfA_uAw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "W-nq-xt3h-E",
+    "title": "Citrus Splitting",
+    "score": 10
+  },
+  {
+    "id": "XkMKJCvJKBk",
+    "title": "Part One The Native Species of Citrus",
+    "score": 10
+  },
+  {
+    "id": "cYIdfWEwNi8",
+    "title": "Top 10 Citrus Fruits You Should Definitely Give A Try",
+    "score": 10
+  },
+  {
+    "id": "S04-doz6qGc",
+    "title": "7 Uncommon Citrus Fruits You've Got To Try - Mango Orange, Rangpur Lime, Chinotto and More!",
+    "score": 10
+  },
+  {
+    "id": "0_pQ4Ux5t3U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vVTj4i133Xo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Kv08yxE7Qn0",
+    "title": "What You Didn't Know About Citrus Fruits |  Structure and Origin of Citrus Explained",
+    "score": 10
+  },
+  {
+    "id": "IP9G1Ebd3J4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dLy9XQi8BWM",
+    "title": "Top Five Citrus Fruit Trees To Grow in Your Backyard",
+    "score": 10
+  },
+  {
+    "id": "8BPbejhiPRE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "I4HdpWC663k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "22AzGX0w8rc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_KnbD2ni0PI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4nib582P7NM",
+    "title": "6.9 Million Tons Of Citrus In America Are Produced This Way - American Farming",
+    "score": 10
+  },
+  {
+    "id": "eJJcWAQtV1k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9th7-ee1MeM",
+    "title": "18 Different Types of Citrus Fruits",
+    "score": 10
+  },
+  {
+    "id": "RTZ6qb8y85M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BBYpms4kuBk",
+    "title": "The Garden Gurus - Feeding Your Fruit and Citrus Trees",
+    "score": 10
+  },
+  {
+    "id": "sKrrkN64GtY",
+    "title": "Grafting Citrus Trees - Cleft Grafting a Fruit Cocktail Tree",
+    "score": 10
+  },
+  {
+    "id": "xTDoW-NsJTE",
+    "title": "split the end of the target branch",
+    "score": 10
+  },
+  {
+    "id": "5QZ9ReI9Hvc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ATTqP4yi9W8",
+    "title": "Fix Printer Problems With an Uninstall and Reinstall in Windows 10",
+    "score": 10
+  },
+  {
+    "id": "AhRMk-QLE3I",
+    "title": "Reinstall Windows Without Losing Data keep windows clean",
+    "score": 10
+  },
+  {
+    "id": "yidWdy-Xwdk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XUjPMp8TULI",
+    "title": "There was a problem resetting your PC",
+    "score": 10
+  },
+  {
+    "id": "WVZdoPeYyNU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZhxBJ3yh2OY",
+    "title": "Reinstalling System Software | PS4",
+    "score": 10
+  },
+  {
+    "id": "G5RhHx2SQrY",
+    "title": "connect a usb storage device",
+    "score": 10
+  },
+  {
+    "id": "HCrl_4k0aqo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K4H3L2pXGS0",
+    "title": "connect a usb storage device",
+    "score": 10
+  },
+  {
+    "id": "oOkgM3JUpHM",
+    "title": "Introduction | SupportAssist Clean Reinstall",
+    "score": 10
+  },
+  {
+    "id": "lyjoUcrLfFI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nKsREV5VwoU",
+    "title": "iOS 26 Release Date + iOS 16 Update with Extended support! ",
+    "score": 10
+  },
+  {
+    "id": "AwR2ToEap_g",
+    "title": "iOS 26.3 RC - FINALLY Released",
+    "score": 10
+  },
+  {
+    "id": "f96TUCWlUxk",
+    "title": "iOS 26.3 RC is Out! - What's New?",
+    "score": 10
+  },
+  {
+    "id": "TOf8aEa1C7Q",
+    "title": "Supported Devices",
+    "score": 10
+  },
+  {
+    "id": "UVhzMhhIXyA",
+    "title": "iPhone 18 Pro Leaks",
+    "score": 10
+  },
+  {
+    "id": "B1c4g1Zb4eA",
+    "title": "iOS 26.4 LEAK: Siri Powered by Google Gemini! - What's Actually Changing?",
+    "score": 10
+  },
+  {
+    "id": "dXGynTZa2QE",
+    "title": "Introducing The Apple iPhone Fold 🔥",
+    "score": 10
+  },
+  {
+    "id": "O7mpPlYHJTM",
+    "title": "The Only iPhones Worth Buying in 2026 - Don’t Waste Your Money",
+    "score": 10
+  },
+  {
+    "id": "TrQlrbv-mPg",
+    "title": "iPhone 18 Pro Max and Fold Release Date - Apple's NEW Split Launch!",
+    "score": 10
+  },
+  {
+    "id": "SLjAaNv1KBc",
+    "title": "Ready Made Apple Shortcuts Every iPhone User Should Use",
+    "score": 10
+  },
+  {
+    "id": "FctadWpq0OA",
+    "title": "Why You Should Use Ready-Made Shortcuts",
+    "score": 10
+  },
+  {
+    "id": "81q8-Y1Vv2c",
+    "title": "Latest Major iOS App Updates for Late January 2026!",
+    "score": 10
+  },
+  {
+    "id": "mfn7a3ONyVU",
+    "title": "Everything New",
+    "score": 10
+  },
+  {
+    "id": "So5knMvvBDY",
+    "title": "0. Intro",
+    "score": 10
+  },
+  {
+    "id": "c67tkURIsQo",
+    "title": "19 Hacks To Clear System Data On iPhone",
+    "score": 10
+  },
+  {
+    "id": "jgNoyfryIFI",
+    "title": "0. Intro",
+    "score": 10
+  },
+  {
+    "id": "btN7oVsK3AY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CduYACE6c_k",
+    "title": "iOS 15.1 on iPhone 7",
+    "score": 10
+  },
+  {
+    "id": "G0lcFKf5sH0",
+    "title": "Installing iPadOS on an iPhone",
+    "score": 10
+  },
+  {
+    "id": "1NY3xxQ274E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s2oRuAhIpwY",
+    "title": "Switch from Android to iPhone with Move to iOS",
+    "score": 10
+  },
+  {
+    "id": "J5TQbjl4Oh8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hV-rrO3Opms",
+    "title": "Introduction",
+    "score": 10
+  }
+]

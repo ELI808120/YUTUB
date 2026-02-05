@@ -1,1 +1,3537 @@
-[]
+[
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "מדריך Microsoft Excel למתחילים - קורס מלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "קורס אקסל למתחילים - שיעור 1 - הכרות עם תוכנת אקסל -",
+    "score": 110
+  },
+  {
+    "id": "d37YTKBsoBE",
+    "title": "קורס אקסל למתחילים - שיעור 2 - שינוי שפת התצוגה באקסל -",
+    "score": 110
+  },
+  {
+    "id": "VjYeIfdUq0Q",
+    "title": "לימוד אקסל שיעור 67 - טבלת ציר אקסל פיבוט PIVOT TABLE",
+    "score": 110
+  },
+  {
+    "id": "wkBhoqr2uBE",
+    "title": "לימוד אקסל שיעור 3 - מושגי בסיס - חלק ב' (אקסל למתחילים)",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "kXHApKENvMs",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "AGjQ97a4p_8",
+    "title": "הילימוד - מערכת השמש | לימוד לילדים | ערוץ לילדים סקרנים",
+    "score": 110
+  },
+  {
+    "id": "MK5E_7hOi-k",
+    "title": "שמונה פלאי מערכת השמש שלנו | כוכבי הלכת | BBC Earth Science",
+    "score": 110
+  },
+  {
+    "id": "4t7QqeRffMU",
+    "title": "מאברהם ועד מדינת ישראל: 3,750 שנות היסטוריה יהודית #JewishHistory",
+    "score": 110
+  },
+  {
+    "id": "vzODCcZGDq0",
+    "title": "הפלישתים וגויי הים - פרופ' אהרן מאיר, המחלקה ללימודי ארץ ישראל וארכיאולוגיה",
+    "score": 110
+  },
+  {
+    "id": "A2221KD9_mY",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 3 - הטמפלרים",
+    "score": 110
+  },
+  {
+    "id": "xm673bpIdOA",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 19 - העליה הראשונה",
+    "score": 110
+  },
+  {
+    "id": "EFD_o0-1QbQ",
+    "title": "דרור כהנוביץ׳ - הרצאה מספר 1 - ארץ ישראל במאה ה-19",
+    "score": 110
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "0YbC0jF8xow",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "2N8KAEIGCIo",
+    "title": "25 הפעלים הנפוצים ביותר בשפה האנגלית",
+    "score": 60
+  },
+  {
+    "id": "ix4ijPcNsJk",
+    "title": "30 משפטים באנגלית ליום יום שכל אחד צריך לדעת – חלק 4 | ככה תתחילו לדבר אנגלית שוטף!",
+    "score": 60
+  },
+  {
+    "id": "QQt4YP_qvR4",
+    "title": "מערכת השמש מצגת לילדים בעברית קצת ידע כללי על החלל 🌞 איזה כוכבי לכת יש? מערכת השמש דגם",
+    "score": 60
+  },
+  {
+    "id": "FxBCf8uyZBs",
+    "title": "כדור הארץ בחלל - על כדור הארץ, השמש והירח  ותנועה מחזורית",
+    "score": 60
+  },
+  {
+    "id": "7kNjNvEVuUg",
+    "title": "כל מה שרציתם לדעת על השמש",
+    "score": 60
+  },
+  {
+    "id": "nnMZAmpqNq4",
+    "title": "כוכבי לכת שונים | טלוויזיה לילדים | בדוק את זה! תסתכל על זה!Blippi Wonders *PLANETS*",
+    "score": 60
+  },
+  {
+    "id": "_HiTsEw_GX0",
+    "title": "🚀 בואו נצא להרפתקה בחלל! לומדים על מערכת השמש עם רותמאמא 🌞🌍✨ | תכנים לילדים",
+    "score": 60
+  },
+  {
+    "id": "iIfD2VDRjH0",
+    "title": "התנועה המפתיעה של השמש לרוחב השמיים - גורדון וויליאמסון",
+    "score": 60
+  },
+  {
+    "id": "G7L5lYx7wao",
+    "title": "מערכת השמש 101 | נשיונל ג'יאוגרפיק",
+    "score": 60
+  },
+  {
+    "id": "A5EiLLDTIQU",
+    "title": "מערכת השמש הסוערת: כוכרבי לכת, ירחים, אסטרואידים וכוכבי שביט",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "כיצד פועלים מנועי מכוניות? מבט מקרוב על הפרטים המורכבים של מנוע",
+    "score": 60
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "איך עובד מנוע של מטוס? הצצה מרתקת ללב הפועם של עולם התעופה",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "איך מנוע 4 פעימות עובד",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "kNuwCiuDz4E",
+    "title": "כל ההיסטוריה של ישראל (סרט תיעודי)",
+    "score": 60
+  },
+  {
+    "id": "nW7BntdJFwA",
+    "title": "הסיפור המקראי",
+    "score": 60
+  },
+  {
+    "id": "pElucNuyMCE",
+    "title": "יסודות בתולדות עם ישראל. חובה לראות לכל ישראלי . פרופסור ישראל פינקלשטיין אגדה של עולם הארכאולוגיה",
+    "score": 60
+  },
+  {
+    "id": "VZo2Q4pImYU",
+    "title": "ישראל קנוהל - איך נולדה הדת הישראלית . יהוה, בצאתך משעיר בצעדך משדה אדום",
+    "score": 60
+  },
+  {
+    "id": "Dpm5i6_3vYo",
+    "title": "בן גוריון בראיון שהיום היה נחשב ימני קיצוני",
+    "score": 60
+  },
+  {
+    "id": "jXb5FXtSuJ4",
+    "title": "ישראל ופלסטין: מסע בארץ הקודש (סרט תיעודי 4K)",
+    "score": 60
+  },
+  {
+    "id": "p_OUxACTJ-Q",
+    "title": "המשנה והתלמוד -  עם ד\\\"ר יגאל בן נון",
+    "score": 60
+  },
+  {
+    "id": "n86p0d1p9Sk",
+    "title": "שיקולי הבריטים בהעברת שאלת ארץ ישראל לאו\\\"ם",
+    "score": 60
+  },
+  {
+    "id": "XyEyPio4sIM",
+    "title": "ארץ ישראל בשנת 1913 Palestine",
+    "score": 60
+  },
+  {
+    "id": "ziFPClFm0Lc",
+    "title": "ההיסטוריה המלאה של שנים־עשר שבטי ישראל – סיפורו של העם הנבחר של אלוהים | מסעות מקראיים📖🙏",
+    "score": 60
+  },
+  {
+    "id": "sNsu91-xNeg",
+    "title": "עצמאות ישראל בקיצור (מלחמת העצמאות)",
+    "score": 60
+  },
+  {
+    "id": "_YvbzN18gME",
+    "title": "היסטוריה כלכלית של ישראל, חלק 1",
+    "score": 60
+  },
+  {
+    "id": "Jhni3J7msd4",
+    "title": "המלחמות של ישראל ב - 10 דקות (2022)",
+    "score": 60
+  },
+  {
+    "id": "90B8aIhJwWo",
+    "title": "ישראל תושמד ללא משיחיות? ד״ר יאיר אנסבכר במסר שיטלטל את הציבור הישראלי",
+    "score": 60
+  },
+  {
+    "id": "nx2K9-oI9a8",
+    "title": "קיצור תולדות העם היהודי | פרק 6 – תקופת המשנה והתלמוד",
+    "score": 60
+  },
+  {
+    "id": "vAZFDVodtpo",
+    "title": "הקדמה",
+    "score": 60
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "The Entire History of Physics Explained — From Aristotle to Quantum Reality",
+    "score": 50
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "-5ufsEBvWHQ",
+    "title": "Learn English Speaking",
+    "score": 50
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "KAWASAKI Ninja Full Restoration | Restored KAWASAKI Four-stroke Sport Motorcycle",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "Warco Wm180 Mini lathe Restoration and New Mods 2026",
+    "score": 50
+  },
+  {
+    "id": "IFUSdIxYXD8",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "We Found 1932 Bugatti Atlantic for $1,000… Then Restored It || ASMR Car Restoration!",
+    "score": 50
+  },
+  {
+    "id": "y_eGi4jVYUw",
+    "title": "Toyota Land Cruiser Full Restoration Project | From Abandoned to Legendary",
+    "score": 50
+  },
+  {
+    "id": "FJnQfGeg6fY",
+    "title": "Florida breaks ground on major Everglades restoration project",
+    "score": 50
+  },
+  {
+    "id": "BVNGjDZS008",
+    "title": "Maumee River restoration project now complete",
+    "score": 50
+  },
+  {
+    "id": "J73WmPP9vzE",
+    "title": "Louisiana shifts coastal strategy after canceling two major restoration projects",
+    "score": 50
+  },
+  {
+    "id": "IirYQZXmkyY",
+    "title": "Volkswagen Scirocco Restoration | Full Sport Coupe Rebuild Project",
+    "score": 50
+  },
+  {
+    "id": "XXmJ3gutndA",
+    "title": "Classic Toyota Camry Restoration | Complete Rebuild \\u0026 Transformation!",
+    "score": 50
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "Medieval Manor Restoration - The Restoration Man - S02 EP6 - Home Renovation",
+    "score": 50
+  },
+  {
+    "id": "ZioqHNFv6Ag",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "guhgcnqstck",
+    "title": "1871 Candy Drop Roller Restoration - Thomas Mills",
+    "score": 50
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Genius Inventions: Technical Marvels That Will Shape Tomorrow | Full Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "6I6D3TT5Vmk",
+    "title": "2 More Hours Of Engineering Catastrophes That Make Modern Designs So Safe",
+    "score": 50
+  },
+  {
+    "id": "SPMBwSH3e58",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 1",
+    "score": 50
+  },
+  {
+    "id": "9kON1isHtyA",
+    "title": "World War II Part 1: Crash Course US History #35",
+    "score": 50
+  },
+  {
+    "id": "mNVwzUW2FJM",
+    "title": "The Complete History of the Second World War | World War II Documentary | Part 2",
+    "score": 50
+  },
+  {
+    "id": "1aR2nmWTZv0",
+    "title": "The Entire History of the Jews | Jewish History Documentary",
+    "score": 50
+  },
+  {
+    "id": "C058e_ZJEpo",
+    "title": "My small \\u0026 chic makeup collection | luxury makeup, all my must haves and a lot more",
+    "score": 50
+  },
+  {
+    "id": "IwxS4lAQoa4",
+    "title": "How To Start A LUXURY Watch Collection (Without Going Broke!)",
+    "score": 50
+  },
+  {
+    "id": "1ZMCM3W5Veo",
+    "title": "2060: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "q4S19AZV99Y",
+    "title": "2050 Is Only 25 Years Away (20 Technologies)",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "20 Technologies You'll Use by 2030",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "CbOmgCF8KCE",
+    "title": "Future City 3000: The Age of Future Tech | Sci-fi AI Short Film (4K)",
+    "score": 50
+  },
+  {
+    "id": "SNc0QOKpvqE",
+    "title": "Computer Technology को पलटने वाला सिस्टम, Nobel Prize Winners ने क्या खोज निकाला?| Quantum Mechanics",
+    "score": 50
+  },
+  {
+    "id": "0p_rc6xADSE",
+    "title": "The unhinged world of tech in 2026...",
+    "score": 50
+  },
+  {
+    "id": "hv8Hx36PAm4",
+    "title": "Top 15 New Technology Trends That Will Decide Who Rules The World",
+    "score": 50
+  },
+  {
+    "id": "Hzb_S4RBvNk",
+    "title": "Lockheed Martin Showed Us Their New F-35 Drone Tech | WSJ Equipped",
+    "score": 50
+  },
+  {
+    "id": "uUdDQSb5Jqo",
+    "title": "Year 3000+: 300 Technologies Beyond Comprehension",
+    "score": 50
+  },
+  {
+    "id": "DPojZ1NqX-M",
+    "title": "Guidelines for Widows",
+    "score": 50
+  },
+  {
+    "id": "aZ82xelHVqg",
+    "title": "New 'Joy of Painting' host gives TODAY a lesson in landscapes",
+    "score": 50
+  },
+  {
+    "id": "-04U_Jj5SnI",
+    "title": "NEW DETAILS on Nancy Guthrie disappearance: Pacemaker reportedly disconnected",
+    "score": 50
+  },
+  {
+    "id": "0Q1tA84wBSM",
+    "title": "Caeleb Dressel makes history with record 17.63 swim in 50 free at NCAA championships | ESPN",
+    "score": 50
+  },
+  {
+    "id": "6yqQ2N7Yy1Q",
+    "title": "14-year-old Joshua Hedberg makes Olympic trials finals with terrific performance | NBC Sports",
+    "score": 50
+  },
+  {
+    "id": "omkBPOvAuu8",
+    "title": "HOW TO HIGH ELBOW CATCH",
+    "score": 50
+  },
+  {
+    "id": "0fEZy3Lo2Sw",
+    "title": "How To Swim Perfect Freestyle in 2025",
+    "score": 50
+  },
+  {
+    "id": "IetIg7y5k3A",
+    "title": "What Is A Luxury Watch? What Makes A Watch More Luxurious? (Four Reasons)",
+    "score": 50
+  },
+  {
+    "id": "UqhPmOuxRaQ",
+    "title": "10 Lessons I learned from decluttering over 60% of my luxury handbag collection",
+    "score": 50
+  },
+  {
+    "id": "9DAWd2x-0AA",
+    "title": "How to Care for Your Fine Jewellery! | Cartier, Van Cleef \\u0026 Arpels and More!",
+    "score": 50
+  },
+  {
+    "id": "sMwi5mMw52M",
+    "title": "PSA: Why Your Collection Is Worthless [and how to sell it]",
+    "score": 50
+  },
+  {
+    "id": "YlFXT3Upv-w",
+    "title": "How To Sell Your Coins and Coin Collection (To Maximize Their Value)",
+    "score": 50
+  },
+  {
+    "id": "Sl0dcgd70Q4",
+    "title": "How To Use the Search Filters Web Part",
+    "score": 50
+  },
+  {
+    "id": "4LacR703c_U",
+    "title": "✅  How To Filter Searches On YouTube  🔴",
+    "score": 50
+  },
+  {
+    "id": "lhhFDISgobg",
+    "title": "YouTube Effect | How to use YouTube Effect #effectmaker #filter #effects",
+    "score": 50
+  },
+  {
+    "id": "tSZQLsAgyBE",
+    "title": "Designing UX for search filters #figma #prototype #tutorial #beginners #uidesign #ux #filter",
+    "score": 50
+  },
+  {
+    "id": "8U3-O_10CQ8",
+    "title": "Interview with Hugh Ross on His New Book! Previewing Noah’s Flood Revisited",
+    "score": 50
+  },
+  {
+    "id": "XUD0YS6nPt0",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "zzdcfe6uKHU",
+    "title": "Alex Ross Art 2020 Documentary | #AskAlexRoss | Kingdom Come Revisited | How to Paint Realistically",
+    "score": 50
+  },
+  {
+    "id": "saCGlZKgKsM",
+    "title": "I like doing v I like to do | Advanced English Grammar Lesson",
+    "score": 50
+  },
+  {
+    "id": "AJtDXIazrMo",
+    "title": "Hobbies and Interests- What do you like doing? - Kids vocabulary - Learn English for kids",
+    "score": 50
+  },
+  {
+    "id": "fLO5Ww0V2qU",
+    "title": "NEW MAKEUP PRODUCTS 2026: HERMES Foundation Review, Testing YSL Sparkling Lust, CHANEL, DIOR, PRADA",
+    "score": 50
+  },
+  {
+    "id": "DVhmUpxBl9o",
+    "title": "Leafmap Tutorial 56 - Downloading 10-m US National Elevation Dataset (NED)",
+    "score": 50
+  },
+  {
+    "id": "T3iMVtUviqE",
+    "title": "What Is The Elevation Like At Zion National Park? - The Family Getaway Guide",
+    "score": 50
+  },
+  {
+    "id": "n6XY_7b2dAg",
+    "title": "Alpine Ridge Trail Guide | Short High-Elevation Hike in Rocky Mountain National Park",
+    "score": 50
+  },
+  {
+    "id": "wxTcXwltvHI",
+    "title": "What Is The Elevation Like In Sequoia National Park? - The Family Getaway Guide",
+    "score": 50
+  },
+  {
+    "id": "SCEjIXWLZyY",
+    "title": "Building elevation Design •|AR National Construction |• #architecture",
+    "score": 50
+  },
+  {
+    "id": "mC-zw0zCCtg",
+    "title": "BHUTAN | A Journey of Elevation in Land and Spirit | 4K Travel Documentary",
+    "score": 50
+  },
+  {
+    "id": "XILhg8tZ3jA",
+    "title": "Lesson 10f - The National Map 3DEP Elevation Web Service in ArcMap",
+    "score": 50
+  },
+  {
+    "id": "rKLTKVMU3cg",
+    "title": "Resident Evil Lore: The Complete History of Human Experimentation",
+    "score": 50
+  },
+  {
+    "id": "JPrI655z7fw",
+    "title": "I Treated This Mini Like a Million-Dollar Supercar (Complete Restoration)",
+    "score": 50
+  },
+  {
+    "id": "HxEQxS0QSwg",
+    "title": "From Jesus to Christ: The First Christians, Part One (full documentary) | FRONTLINE",
+    "score": 50
+  },
+  {
+    "id": "JN8FM1NCOSk",
+    "title": "Learn all the Tenses in English: Complete Course",
+    "score": 50
+  },
+  {
+    "id": "O9S70oJAivI",
+    "title": "Do you want to learn all the English tenses?",
+    "score": 50
+  },
+  {
+    "id": "CBdD_2WKLPo",
+    "title": "Techron Complete Fuel System Cleaner FAQs",
+    "score": 50
+  },
+  {
+    "id": "RggrHWOGWJo",
+    "title": "THE PREVIEW",
+    "score": 50
+  },
+  {
+    "id": "k6UKuVcoAHk",
+    "title": "Machine - Hypertechnic feat. Sterling Glover - Born Of Osiris Cover",
+    "score": 50
+  },
+  {
+    "id": "5BXHgA_idgE",
+    "title": "20+ underrated tech and travel products that improved my life (one bag for everything)",
+    "score": 50
+  },
+  {
+    "id": "kGSSh0YTWrg",
+    "title": "How to Choose a Backpack",
+    "score": 50
+  },
+  {
+    "id": "MIX-m5jRfS8",
+    "title": "Best 8 LUXURY LARGEST SUVs in 2021-2022 that will make your family feel like the emperor FullsizeSUV",
+    "score": 50
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LgXzzu68j7M",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rro5t8eHXaY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lj4GmLoYP5k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "SGUMC19IISY",
+    "title": "Physics - Basic Introduction",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "The Laws of Physics, Explained Slowly",
+    "score": 10
+  },
+  {
+    "id": "W8y54Zw3zf0",
+    "title": "But What Actually Is a Particle? How Quantum Fields Shape Reality",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ax5Ne4liG6s",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "Nobel Winners PROVED \\\"The Universe Is Quantum\\\" Nobel Physics Prize 2025 Explained!",
+    "score": 10
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "How Physicists Proved Everything is Quantum - Nobel Physics Prize 2025 Explained",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "What ACTUALLY Happens at the Planck Length?",
+    "score": 10
+  },
+  {
+    "id": "f3jhbui5Cqs",
+    "title": "Every Physics Law Explained in 11 Minutes",
+    "score": 10
+  },
+  {
+    "id": "uIU4uoeNxnI",
+    "title": "Newton's First Law of Motion",
+    "score": 10
+  },
+  {
+    "id": "mYcLuWHzfmE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Da-2h2B4faU",
+    "title": "Does the Universe Have a Maximum Temperature? The Planck Temperature Explained",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "Why Quantum Gravity Doesn't Work",
+    "score": 10
+  },
+  {
+    "id": "yTEPm5d6mrI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wGhxReD5shc",
+    "title": "My Entire Luxury Handbag Collection 2025 🤍 | 38 Bags In Total!",
+    "score": 10
+  },
+  {
+    "id": "Ff5FUoo2YZA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "e7CbYSXuRUE",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "ian6CXeFUYc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "libKVRa01L8",
+    "title": "8 PLANETS",
+    "score": 10
+  },
+  {
+    "id": "wkQuOrsgVGY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ssAHq2Ryagw",
+    "title": "Universe Size 3D comparison | Solar System | Part 1",
+    "score": 10
+  },
+  {
+    "id": "zkCKx3fpk4Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Fsj8X712aOw",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Elevators of the Future: Cable-Free, Magnetic, Sideways | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "_NFiWgcWr-8",
+    "title": "Inside Airbus: World’s Most Complex Supply Chain | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "Impossible Engineering | Full Season 2 | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "i86Xia_PG44",
+    "title": "North Sea Giant",
+    "score": 10
+  },
+  {
+    "id": "bCm6tWIU89Q",
+    "title": "Fast: World's Largest Radio Telescope",
+    "score": 10
+  },
+  {
+    "id": "68PlPkeOwng",
+    "title": "The Launchers",
+    "score": 10
+  },
+  {
+    "id": "gxqPbGqYACw",
+    "title": "The Rise and Fall of Julius Caesar",
+    "score": 10
+  },
+  {
+    "id": "PSV9ZjKtgIk",
+    "title": "Fusion Power",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "Car Engine Parts \\u0026 Their Functions Explained in Details | The Engineers Post",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "How car engine works? / 4 stroke internal combustion engine (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "NZLbTuBDhJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "KjiUUJdPGX0",
+    "title": "COMBUSTION CHAMBER",
+    "score": 10
+  },
+  {
+    "id": "DKF5dKo_r_Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yLHPLWDyHio",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BI6bkwzPx5A",
+    "title": "WW2 In Color: The Key Moments Of The Second World War",
+    "score": 10
+  },
+  {
+    "id": "Objoad6rG6U",
+    "title": "Introduction: WWII",
+    "score": 10
+  },
+  {
+    "id": "E-bamak4I1I",
+    "title": "Road to WW2: 1931 - 34",
+    "score": 10
+  },
+  {
+    "id": "nA2aQwOaZug",
+    "title": "World War Two Explained: The Key Battles and Dates",
+    "score": 10
+  },
+  {
+    "id": "hUDYd8LAvD8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oqY4QXwZ39s",
+    "title": "The Palace of Versailles",
+    "score": 10
+  },
+  {
+    "id": "_jX6NdiDElM",
+    "title": "A Brief Overview of World War II",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8KyNBFGU7MI",
+    "title": "Totalitarian States (Rise of Mussolini and Hitler, Stalinist Soviet Union, Empire of Japan)",
+    "score": 10
+  },
+  {
+    "id": "ECktl3jCK8o",
+    "title": "WW2 - OverSimplified (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "_uk_6vfqwTA",
+    "title": "Benito Mussolini",
+    "score": 10
+  },
+  {
+    "id": "9GTjLYijZBg",
+    "title": "1918-1939: What Really Started World War 2?",
+    "score": 10
+  },
+  {
+    "id": "NApuFNz3VuE",
+    "title": "German-Soviet Invasion of Poland 1939",
+    "score": 10
+  },
+  {
+    "id": "m19F4IHTVGc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EOF_6CaEhQE",
+    "title": "The US State Department's strategy",
+    "score": 10
+  },
+  {
+    "id": "YWrI2i0T-Fo",
+    "title": "On the establishment of the state and those thanks to whom it was established",
+    "score": 10
+  },
+  {
+    "id": "50elEqbnM8w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8TueIsBF8pg",
+    "title": "2026 Jewelry Trends You’ll Actually Want to Wear",
+    "score": 10
+  },
+  {
+    "id": "oT26gaCYF08",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "8M57IXgh_c0",
+    "title": "IM SELLING HALF OF MY 110 LUXURY HANDBAG COLLECTION | VICTORIA",
+    "score": 10
+  },
+  {
+    "id": "k7XJsSckNE4",
+    "title": "MY RIDICULOUS LUXURY DESIGNER HANDBAG COLLECTION 2025! *50 handbags!!!*",
+    "score": 10
+  },
+  {
+    "id": "UVcQ85f4sOU",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "oc27wHW7LO4",
+    "title": "My Luxury Purse Collection!",
+    "score": 10
+  },
+  {
+    "id": "gqLDFji65Ig",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "1v4QIHZKEl0",
+    "title": "AI Just Made 15 Discoveries We Never Expected",
+    "score": 10
+  },
+  {
+    "id": "fuiJ-3CdU3Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XyZ83EEjXxU",
+    "title": "The AI Takeover Starts in 2026",
+    "score": 10
+  },
+  {
+    "id": "tMr5JSZP9cw",
+    "title": "130 Ways AI Will Change Your Life",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "AI: The Next 10,000+ Years",
+    "score": 10
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "Type 7 Civilizations Are Terrifying",
+    "score": 10
+  },
+  {
+    "id": "8hJuF8EZmuM",
+    "title": "The Kardashev Scale: Type 1 to Type 7 Civilizations",
+    "score": 10
+  },
+  {
+    "id": "L76f4cSjzS0",
+    "title": "5 Years That Will Change AI Forever",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "f-FyMY1LMwI",
+    "title": "10 Smart Gadgets That Will Define 2026: What's Coming",
+    "score": 10
+  },
+  {
+    "id": "PFVvCs9iQco",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "T-F-vVNVQ50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zi8XZyAD8mM",
+    "title": "The F-35 with drones",
+    "score": 10
+  },
+  {
+    "id": "SwkGVPh8jYs",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "3I5iRgxpp9c",
+    "title": "Part 1",
+    "score": 10
+  },
+  {
+    "id": "t5oSxg5iG44",
+    "title": "China Is Living in 2050",
+    "score": 10
+  },
+  {
+    "id": "g9ch8yHthP4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "W6w__hhrzrU",
+    "title": "DJ Khaled Shows Off Rare $10 Million Watch and Luxury Car Collection | On Display",
+    "score": 10
+  },
+  {
+    "id": "X5cJkuKowWI",
+    "title": "MY ENTIRE LUXURY HANDBAG COLLECTION! RARE, VINTAGE, \\u0026 LIMITED EDITION CHANEL, LV, DIOR \\u0026 MORE!",
+    "score": 10
+  },
+  {
+    "id": "Akgh5ChZ4p8",
+    "title": "*INSANE VERSACE COLLECTION!* Luxury Closet Tour \\u0026 Vintage Archive",
+    "score": 10
+  },
+  {
+    "id": "EcsLRF_cWEI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "EW-xQ9BaVwI",
+    "title": "Dubai's Super-Rich Luxury Collection REVEALED: Closet tour with Stefania Lo Gatto",
+    "score": 10
+  },
+  {
+    "id": "6BHHpIw8GFY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "7RoqnGcEjcs",
+    "title": "Book of 1 Timothy Summary: A Complete Animated Overview",
+    "score": 10
+  },
+  {
+    "id": "VubgXU7Zp1w",
+    "title": "1 Timothy — Guard the Faith (Contemporary English) With Text",
+    "score": 10
+  },
+  {
+    "id": "p7ATYhP4wzE",
+    "title": "Book of 2 Timothy Summary: A Complete Animated Overview",
+    "score": 10
+  },
+  {
+    "id": "urlvnxCaL00",
+    "title": "Who wrote the book of 2 Timothy?",
+    "score": 10
+  },
+  {
+    "id": "hBFsKx31DCY",
+    "title": "1 TIMOTHY 1-6 | Wisdom for Life",
+    "score": 10
+  },
+  {
+    "id": "GmNziA43YRY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NmRdgrWuDNM",
+    "title": "Intro: Power in Patience",
+    "score": 10
+  },
+  {
+    "id": "9QHifV0ybM4",
+    "title": "1 Timothy 5 • Instructions Concerning Widows and Elders/Pastors",
+    "score": 10
+  },
+  {
+    "id": "SlHFgOH0Up8",
+    "title": "A Blueprint for Church Leadership and Personal Integrity",
+    "score": 10
+  },
+  {
+    "id": "cfUW6CPZei8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "L8KBIzLA6uI",
+    "title": "Understanding 2 TIMOTHY 1:7 [KJV] | What Does This Bible Verse REALLY Mean?",
+    "score": 10
+  },
+  {
+    "id": "RgPsdv4kKUU",
+    "title": "The Holy Bible - 1 Timothy Chapter 1 (KJV)",
+    "score": 10
+  },
+  {
+    "id": "E0mNL8GW71Q",
+    "title": "When Faith Meets Fury: The Death of Timothy in Ephesus",
+    "score": 10
+  },
+  {
+    "id": "PjwskgXmX5w",
+    "title": "Temple to Artemis",
+    "score": 10
+  },
+  {
+    "id": "0j0ovlLp4SU",
+    "title": "With David Pawson",
+    "score": 10
+  },
+  {
+    "id": "Q7S8NhL00cw",
+    "title": "The Johnnies Open Mic \\u0026 Jam - Mark Hankins - All Star",
+    "score": 10
+  },
+  {
+    "id": "aOX326-LZQw",
+    "title": "The Year of Vindication | Jeff Harman, Cathy O'Brien",
+    "score": 10
+  },
+  {
+    "id": "VqFI8RsJNiM",
+    "title": "S1 E2 Virginia Hankins",
+    "score": 10
+  },
+  {
+    "id": "JVhM0lb0FrI",
+    "title": "Mary Russell-Hankins - Speaker, Podcast Host and Author",
+    "score": 10
+  },
+  {
+    "id": "_1VgTki7jGs",
+    "title": "Spirit Of Faith: \\\"Believe \\u0026 Speak\\\" | Part 1 | Mark Hankins Ministries",
+    "score": 10
+  },
+  {
+    "id": "OBt6v-lr5EY",
+    "title": "The Tyranny of the Moderns - James Hankins",
+    "score": 10
+  },
+  {
+    "id": "PSVFrP0sJ2U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MIrUVtGc-Lc",
+    "title": "He Really Asked for a DNA Test…",
+    "score": 10
+  },
+  {
+    "id": "4_n-rFZVQrs",
+    "title": "Police back at Nancy Guthrie's house -- what evidence did they take as Savannah pleads with captors",
+    "score": 10
+  },
+  {
+    "id": "obPcFVfqlQo",
+    "title": "NEVER Use a Miter Saw Like This (Most Beginners Do)",
+    "score": 10
+  },
+  {
+    "id": "tRF1ptSUWGE",
+    "title": "The Spirit of Faith | Pastor Mark Hankins",
+    "score": 10
+  },
+  {
+    "id": "FtW1xR7GkxE",
+    "title": "The Spirit of Faith",
+    "score": 10
+  },
+  {
+    "id": "Ytng0Ibm0zE",
+    "title": "Holy Ghost Meetings: Experience the Flood | Mark Hankins | LW",
+    "score": 10
+  },
+  {
+    "id": "GFAy-MHiTBw",
+    "title": "Bob Ross - Twin Falls (Season 10 Episode 3)",
+    "score": 10
+  },
+  {
+    "id": "cMwkY8ojRik",
+    "title": "TITANIUM WHITE",
+    "score": 10
+  },
+  {
+    "id": "MPAV-Pml1ek",
+    "title": "EP114 Jim Hankins Introduces CribOps to Agencies",
+    "score": 10
+  },
+  {
+    "id": "nTgxilV992U",
+    "title": "New school year and new renovations at Hankins Middle School",
+    "score": 10
+  },
+  {
+    "id": "aVcc2q8x68E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EPiaOUNzJX4",
+    "title": "Antthony Mark Hankins",
+    "score": 10
+  },
+  {
+    "id": "eQAKVXJW_Hs",
+    "title": "Re-Air | Nurturing Relationships with Tyle Hankins",
+    "score": 10
+  },
+  {
+    "id": "H8-VloF94Xs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "d_RAHPCAAGg",
+    "title": "Visiting The World’s BIGGEST and BEST Luxury Watch Dealer! (Luxury Souq)",
+    "score": 10
+  },
+  {
+    "id": "IjGkGQrL_Ns",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "G6hCYvIHZUA",
+    "title": "My Luxury Jewelry Collection | Rolex, Cartier, Van Cleef \\u0026 Arpels",
+    "score": 10
+  },
+  {
+    "id": "N0LCjQ89G58",
+    "title": "Hawaii Diver Swims With Record Breaking Largest Great White Shark | TODAY",
+    "score": 10
+  },
+  {
+    "id": "XoqRcwBJxa8",
+    "title": "Top 5 Swim",
+    "score": 10
+  },
+  {
+    "id": "mC9v5FaLt84",
+    "title": "World’s longest non-stop swim: 510km (317 mile) temp. 8°C (46.4°F) (see comments for explanation)",
+    "score": 10
+  },
+  {
+    "id": "7RrNM-b-RJk",
+    "title": "The Most Dangerous Swim In The World",
+    "score": 10
+  },
+  {
+    "id": "pephH6ZAasw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "w2DPLRP-ESo",
+    "title": "Would You Jump Off The Diving Platform at This Pool?",
+    "score": 10
+  },
+  {
+    "id": "iue9OYhqRbw",
+    "title": "World's Largest Jello Pool- Can you swim in Jello?",
+    "score": 10
+  },
+  {
+    "id": "DPZzrlFCD_I",
+    "title": "Refrigerate an Entire Pool",
+    "score": 10
+  },
+  {
+    "id": "Rf7VIU5Ou6o",
+    "title": "Top 10 Most ICONIC Swim Races of ALL TIME",
+    "score": 10
+  },
+  {
+    "id": "Y_hCPSoWMcE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_5o1_JJtE5o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wrHL1igBhOg",
+    "title": "Her swimming strategy should be imposible!",
+    "score": 10
+  },
+  {
+    "id": "n969Bqeinio",
+    "title": "Ledecky at the 2012 London Olympics",
+    "score": 10
+  },
+  {
+    "id": "Aaj2INlQtxg",
+    "title": "The Best Start in the World?",
+    "score": 10
+  },
+  {
+    "id": "2evq5llU0iI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mrzeM71qCds",
+    "title": "2 HOURS OF THE BEST LUXURY HOMES!",
+    "score": 10
+  },
+  {
+    "id": "4Z3ZkSDzc_Y",
+    "title": "How Luxury Brands Get You to Buy Into Their Hype",
+    "score": 10
+  },
+  {
+    "id": "S64fYFDqJlU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sO8-EBjZhHg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KWoEO3qMSbQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gvXk_MWnnOA",
+    "title": "How Luxury Brands Brainwash You to Buy",
+    "score": 10
+  },
+  {
+    "id": "TDmbwAeBOwU",
+    "title": "Even More Big Dumb Luxury Homes",
+    "score": 10
+  },
+  {
+    "id": "syMsIYEI1Zg",
+    "title": "Luxury Camping in Off-Grid Ice Fishing Shanty!",
+    "score": 10
+  },
+  {
+    "id": "Oe-SZWOuTaE",
+    "title": "15 Luxury Brands COLLAPSING Right Now After Years of Overpricing",
+    "score": 10
+  },
+  {
+    "id": "SUE-q3OgusI",
+    "title": "How Luxury Brands Lost Their Way With Quality",
+    "score": 10
+  },
+  {
+    "id": "z4I3Nu0_RXE",
+    "title": "Subscribe!",
+    "score": 10
+  },
+  {
+    "id": "wYe-XCOxFsg",
+    "title": "The Ultimate Luxury Home—What's Not to Love?!",
+    "score": 10
+  },
+  {
+    "id": "3hepeq8GR9g",
+    "title": "Making Fun of MORE Luxury Homes",
+    "score": 10
+  },
+  {
+    "id": "WzzZ-o0SjyQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "TBUaBsCn3L0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Pc_mWd_XnCU",
+    "title": "Black women deserve more than \\\"luxury.\\\"",
+    "score": 10
+  },
+  {
+    "id": "z7OY2l5gb2w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-i8ggLeX3ig",
+    "title": "Which Hermès orange would you pick? 🧡👜",
+    "score": 10
+  },
+  {
+    "id": "It-ScG7djxE",
+    "title": "Viral 2026 bags Worth it or not?",
+    "score": 10
+  },
+  {
+    "id": "adqF_9QhG3A",
+    "title": "Top 10 Most Popular Designer Bags 2025 | Luxury Handbag Trends",
+    "score": 10
+  },
+  {
+    "id": "03gpobyz7_c",
+    "title": "With girl math, even a £100k Hermès feels like a bargain 😅👜",
+    "score": 10
+  },
+  {
+    "id": "QTF3HklOCK8",
+    "title": "Part 2 of my mid-luxury handbag collection 🤎 watch to the end to see my newest bag! Part 3?",
+    "score": 10
+  },
+  {
+    "id": "eUoHIKBwRRI",
+    "title": "Luxury handbag collection",
+    "score": 10
+  },
+  {
+    "id": "EpJQiUtM1VU",
+    "title": "Nobody Buys these Luxury Bags Anymore (and here's why)",
+    "score": 10
+  },
+  {
+    "id": "gQEk9JEKJvA",
+    "title": "2026 NEWEST luxury bag releases - WHICH ARE WORTH IT?!",
+    "score": 10
+  },
+  {
+    "id": "5iYHLt8gyyU",
+    "title": "Kylie Jenner: My Purse Closet Tour",
+    "score": 10
+  },
+  {
+    "id": "7OH7Wxirxls",
+    "title": "COACH PURSE COLLECTION | bag charms, haul, shopping, fashion, designer, coach empire, coach brooklyn",
+    "score": 10
+  },
+  {
+    "id": "zNG0v_73arE",
+    "title": "5 BEST Affordable Luxury Bags #handbagholic #designerbag",
+    "score": 10
+  },
+  {
+    "id": "qhYdyoz2w0k",
+    "title": "can you believe she got 6 Hermès bags from 6 different countries? ✈️👜",
+    "score": 10
+  },
+  {
+    "id": "t8bIUfNS-t8",
+    "title": "The ULTIMATE HACK For getting TWO designer purses for the price of ONE that you need to know!",
+    "score": 10
+  },
+  {
+    "id": "0dkKYigXByQ",
+    "title": "My RIDICULOUS Designer Handbag Collection 2025 *60 BAGS!*",
+    "score": 10
+  },
+  {
+    "id": "qZLFg_bqDIA",
+    "title": "Influencers Are Selling Their Designer Bags For THIS Reason",
+    "score": 10
+  },
+  {
+    "id": "fGQLo_qWTI8",
+    "title": "Ditch designer bags. 7 UNDERRATED MID-RANGE LUXURY brands to shop in 2026",
+    "score": 10
+  },
+  {
+    "id": "ulMi5SaxzU8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_tR7Jxh4jgc",
+    "title": "NEW LUXURY HANDBAG UNBOXING *NEW BRAND FOR ME* | LuxMommy",
+    "score": 10
+  },
+  {
+    "id": "Ktambt_7X3U",
+    "title": "I Decluttered My Luxury Bag Collection... Here's Why",
+    "score": 10
+  },
+  {
+    "id": "XCa4F6NZu7w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jpsud0-XBnY",
+    "title": "Ranking Popular Designer Bags 2026  | Luxury Bag Tier List ",
+    "score": 10
+  },
+  {
+    "id": "aspRMSFW060",
+    "title": "Attractive Beautiful \\u0026 Classy Women|| luxury handbag || Pakistani mom uk |Chanel hand bag | Wingsbag",
+    "score": 10
+  },
+  {
+    "id": "mEpGoP8OnBA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MWou9JwNOeU",
+    "title": "my jewelry collection ⟡⋆˙♡",
+    "score": 10
+  },
+  {
+    "id": "LGU-40c0Kiw",
+    "title": "My Luxury Jewelry Collection | Rolex, Cartier, Van Cleef \\u0026 Arpels",
+    "score": 10
+  },
+  {
+    "id": "4Tu2Z-yxvuk",
+    "title": "Don't Buy Van Cleef \\u0026 Cartier...",
+    "score": 10
+  },
+  {
+    "id": "KNUuFk5HrJk",
+    "title": "Fine Luxury Jewelry Collection: Van Cleef \\u0026 Arpels and Cartier",
+    "score": 10
+  },
+  {
+    "id": "_Lm4UcEjLtk",
+    "title": "Most Worn Luxury Jewelry Pieces ft. Van Cleef \\u0026 Arpels and Cartier Fine Jewelry Collection #cartier",
+    "score": 10
+  },
+  {
+    "id": "U3ifma6cnFY",
+    "title": "Updated Curated Fine Jewelry Collection ft Van Cleef \\u0026 Arpels and Cartier #cartierbracelet #vancleef",
+    "score": 10
+  },
+  {
+    "id": "PTv9EMuoelM",
+    "title": "Lil Yachty Shows Off His Insane Jewelry Collection | On the Rocks | GQ",
+    "score": 10
+  },
+  {
+    "id": "PVddBPCAqSw",
+    "title": "Luxury Minimalist Capsule Jewelry Collection to Look Expensive ft. Van Cleef and Cartier #cartier",
+    "score": 10
+  },
+  {
+    "id": "BLPWKX_ZB24",
+    "title": "Cartier vs Van Cleef \\u0026 Arpels | Which do I recommend?",
+    "score": 10
+  },
+  {
+    "id": "RALKOLiBIZE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N0SCl6Eh6FE",
+    "title": "MOST \\u0026 LEAST WORN BY EACH BRAND I OWN IN MY Entire JEWELRY COLLECTION 2025 | CHARIS",
+    "score": 10
+  },
+  {
+    "id": "EhQIJ4VqgwE",
+    "title": "Updated Curated Fine Jewelry Collection ft Van Cleef \\u0026 Arpels and Cartier #cartierbracelet #vancleef",
+    "score": 10
+  },
+  {
+    "id": "_T2TKyahYqs",
+    "title": "LUXURY FINE JEWELRY WORTH BUYING 2026 | VCA, Cartier, Tiffany \\u0026 Co, Rolex, Hermes etc",
+    "score": 10
+  },
+  {
+    "id": "lh0i2KBdCuY",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "0RIs2Nn07VY",
+    "title": "Luxury Fine Jewelry Collection 2022 *Everyday Pieces* | Cartier, Van Cleef \\u0026 Arpels, Chanel \\u0026 More",
+    "score": 10
+  },
+  {
+    "id": "H5-PywrBhDo",
+    "title": "NEW AT COACH! 🤩 ROUGE 40, CHELSEA SHOULDER BAG, LOVED DENIM COLLECTION",
+    "score": 10
+  },
+  {
+    "id": "83W9csQlZ1Q",
+    "title": "MY FULL MID RANGE LUXURY HANDBAG COLLECTION IN 2026 | Polene,The Horse,Demellier,Songmont,ParisaWang",
+    "score": 10
+  },
+  {
+    "id": "ugB_kx5Tfh4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "uzF-ZXwgUJo",
+    "title": "Is Van Cleef Better than Cartier? From prices to crazy scandals!",
+    "score": 10
+  },
+  {
+    "id": "FIm1i2XRLNM",
+    "title": "Introduction — Cartier is not the Hermès of luxury jewellery",
+    "score": 10
+  },
+  {
+    "id": "RK2iG97Pt_E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYxBLbl9Rm0",
+    "title": "Cartier vs Van Cleef \\u0026 Arpels Comparison | Vintage Alhambra vs Juste un clou bracelet | VCA",
+    "score": 10
+  },
+  {
+    "id": "NuyIh37xQLQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rLZPnU_U8fA",
+    "title": "What I Got for Christmas HUGE Luxury Haul ft. Van Cleef, Cartier, Louis Vuitton Unboxing #vancleef",
+    "score": 10
+  },
+  {
+    "id": "XueeqGWwgEo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ys39g7n9Kcs",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "zgZDZIP-LlE",
+    "title": "THE PARTS PLACE INC.",
+    "score": 10
+  },
+  {
+    "id": "71_3FZqzLKI",
+    "title": "Archie Bunker's Place From Season 1, Episode 1 'Archie's New Partner: Part 1: When Archie decides to buy the business next to his and turn Archie's Place into a bar and grille, Harry gets cold feet and decides to sell his share of the business.",
+    "score": 10
+  },
+  {
+    "id": "sOVzljqn6yQ",
+    "title": "parts place car show",
+    "score": 10
+  },
+  {
+    "id": "xXIkVLF8_Pw",
+    "title": "#ChurchOnline | Right Place, Right Time: Part 1 | Pastor Jared Nieman",
+    "score": 10
+  },
+  {
+    "id": "sjFS6BnwybE",
+    "title": "Nora Roberts - Shelter in Place Part.1 - Audiobook Mystery, Thriller \\u0026 Suspense, Romance",
+    "score": 10
+  },
+  {
+    "id": "f0GZhutmcAI",
+    "title": "The Out-of-Place Artifact Iceberg | PART 4",
+    "score": 10
+  },
+  {
+    "id": "8MrI0b_fLaQ",
+    "title": "Bimini Road",
+    "score": 10
+  },
+  {
+    "id": "_Z2y9dZmj_k",
+    "title": "Police Called to Pizza Place Parking Lot Crash! | Part 2",
+    "score": 10
+  },
+  {
+    "id": "12sM5yxpdZ4",
+    "title": "I BEAT A Quiet Place: The Road Ahead (Part 6)",
+    "score": 10
+  },
+  {
+    "id": "ingHjSnSQ9g",
+    "title": "MUSIC - The nearest place to heaven part 1",
+    "score": 10
+  },
+  {
+    "id": "ZD0kqNGvjrI",
+    "title": "Not as safe as they thought | A Quiet Place Part 2 | CLIP",
+    "score": 10
+  },
+  {
+    "id": "oMdlLtlDfBY",
+    "title": "THE PIZZA PLACE (PART 3)",
+    "score": 10
+  },
+  {
+    "id": "GTYXKTJ25eg",
+    "title": "A Quiet Place Part II (2020) - Exclusive Look - Paramount Pictures",
+    "score": 10
+  },
+  {
+    "id": "IYni0VNwaCE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zPsnnNtqFIQ",
+    "title": "He's SELLING ENTIRE COLLECTION for ONE PIECE?",
+    "score": 10
+  },
+  {
+    "id": "6X3Oh5-jvB4",
+    "title": "Selling Action Figure COLLECTION ? Letting GO of Toy Treasures - Can't take them to the Grave",
+    "score": 10
+  },
+  {
+    "id": "gIYnK4yBxX4",
+    "title": "Goals",
+    "score": 10
+  },
+  {
+    "id": "CrshVGU-kUc",
+    "title": "I'm Selling My ENTIRE Playstation Collection",
+    "score": 10
+  },
+  {
+    "id": "C6IJPcDefvA",
+    "title": "Selling My Entire Video Game Collection Fast... Here's Why!",
+    "score": 10
+  },
+  {
+    "id": "qjessdhRfHw",
+    "title": "Why I’m selling my 4K Blu-Ray Collection",
+    "score": 10
+  },
+  {
+    "id": "j18CxgCtVlA",
+    "title": "I’m Selling Most of My Toy Collection – Here’s Why",
+    "score": 10
+  },
+  {
+    "id": "73mjAQpI2-c",
+    "title": "What I'm Keeping",
+    "score": 10
+  },
+  {
+    "id": "jrcFGMVQKjs",
+    "title": "Should YOU SELL Your Toy Collection? 3 Tips to Consider as a Toy Collector! Action Figure Advice",
+    "score": 10
+  },
+  {
+    "id": "BvbvmeXOs-Y",
+    "title": "i'm selling half of my figure collection",
+    "score": 10
+  },
+  {
+    "id": "Wjdic0Pwm9I",
+    "title": "2026 Overstock Inventory!",
+    "score": 10
+  },
+  {
+    "id": "FK-ouZ_vhEY",
+    "title": "Why I Want to Sell My Video Game Collection | Cannot be Tamed",
+    "score": 10
+  },
+  {
+    "id": "1V6T7oktlzU",
+    "title": "😳 Everyone Is Selling Their Sneaker Collection In 2026!",
+    "score": 10
+  },
+  {
+    "id": "SB8TC84EpkM",
+    "title": "He's SELLING Entire Collection for HIS FAMILY! (EP46)",
+    "score": 10
+  },
+  {
+    "id": "PeA0VK6ko4c",
+    "title": "Selling the Collection...well not entirely",
+    "score": 10
+  },
+  {
+    "id": "2dG4_aS_Y_g",
+    "title": "Josh Levine Speaks - When is it Time to Sell Your Collection",
+    "score": 10
+  },
+  {
+    "id": "97FWXeSZzc0",
+    "title": "Sell Record Collection",
+    "score": 10
+  },
+  {
+    "id": "y3gkkOzFLUE",
+    "title": "I'm Selling Off Some Of My Game Collection, Here's What \\u0026 Why",
+    "score": 10
+  },
+  {
+    "id": "vIKb06xEFiw",
+    "title": "I'm Done With Watch Collecting! Selling My Entire Collection For A Tourbillon, A Diver \\u0026 Casio Trio",
+    "score": 10
+  },
+  {
+    "id": "uPqM03nXY3Q",
+    "title": "Top 20 Best Vintage Items That You Can Sell On eBay For Big Money",
+    "score": 10
+  },
+  {
+    "id": "f6cn8Ridsf4",
+    "title": "Retro Video Game Collecting Has Become Too Hard - Selling My Collection",
+    "score": 10
+  },
+  {
+    "id": "1aLwYaz7h3M",
+    "title": "The Most Hassle Free Way to Sell Your Sports Card Collection!",
+    "score": 10
+  },
+  {
+    "id": "e50QgvztsgE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zWnAg76O8uA",
+    "title": "We're Coming To You!",
+    "score": 10
+  },
+  {
+    "id": "KwX1f2gYKZ4",
+    "title": "Anywhere Sessions  | Living Room Vol. 02 | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "jNwo1bz-UXU",
+    "title": "So So Good",
+    "score": 10
+  },
+  {
+    "id": "uxTc98K9OeU",
+    "title": "This Place (Feat. Natalie Grant) // The Belonging Co",
+    "score": 10
+  },
+  {
+    "id": "8sPw5pxM1Lw",
+    "title": "Anywhere Sessions | Living Room | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "dNSo9MKYy0c",
+    "title": "Prayer",
+    "score": 10
+  },
+  {
+    "id": "_46CEleQ4ns",
+    "title": "Trust In God (feat. Chris Brown \\u0026 Isaiah Templeton) | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "1ouhG6iPhxI",
+    "title": "Elevation Worship Songs Collection | Instrumental Worship | Deep Prayer | Soaking Music",
+    "score": 10
+  },
+  {
+    "id": "i6THCEgssY8",
+    "title": "Lamb",
+    "score": 10
+  },
+  {
+    "id": "LgQ7WM-O1no",
+    "title": "Praise (feat. Brandon Lake, Chris Brown \\u0026 Chandler Moore) | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "f2oxGYpuLkw",
+    "title": "At The Altar | ELEVATION RHYTHM, Tiffany Hudson, Abbie Gamboa",
+    "score": 10
+  },
+  {
+    "id": "H-icFK94m4Q",
+    "title": "The Power Of A Place | Jonathan Josephs | Elevation Church",
+    "score": 10
+  },
+  {
+    "id": "WVepWCv7TS4",
+    "title": "Join Us For Elevation Nights!",
+    "score": 10
+  },
+  {
+    "id": "Ak5WTb-mgeA",
+    "title": "Elevation Worship - Here Again (MultiTracks Session)",
+    "score": 10
+  },
+  {
+    "id": "3ycFLkCS_6Q",
+    "title": "Worthy - Elevation Worship, Jesus Image | Instrumental worship | Prayer Music | Piano + Pad",
+    "score": 10
+  },
+  {
+    "id": "AWwivDh48GQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xFiTlF9Di-0",
+    "title": "Justin Bieber - Recovery (Audio)",
+    "score": 10
+  },
+  {
+    "id": "_9zdGUmJ4e4",
+    "title": "Break in Court - Lets catch up with some of our favorites!",
+    "score": 10
+  },
+  {
+    "id": "b0RTme3XsJQ",
+    "title": "He Rolled His Jeep… The Brakes Don’t Work!",
+    "score": 10
+  },
+  {
+    "id": "aMp72vSNvJk",
+    "title": "Bury Tomorrow - Recovery? (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "Zet3w3qBu5I",
+    "title": "Dr. Andy Galpin: Maximize Recovery to Achieve Fitness \\u0026 Performance Goals | Huberman Lab",
+    "score": 10
+  },
+  {
+    "id": "juD99_sPWGU",
+    "title": "Recovery",
+    "score": 10
+  },
+  {
+    "id": "Y5S8E-7dC4U",
+    "title": "Profound Advice From Rock Bottom: Responsibility, Recovery \\u0026 Reinvention | David Manheim X Rich Roll",
+    "score": 10
+  },
+  {
+    "id": "q_yCe4xWlzw",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "l0LthEd-MZY",
+    "title": "Active Recovery to Relieve Muscle Soreness Fast | Low Impact Walk growwithjo",
+    "score": 10
+  },
+  {
+    "id": "GmZF8rCH3CM",
+    "title": "Riley Whelan | From Alcohol \\u0026 Marijuana Addiction to Sober Living, AA Recovery, \\u0026 ADHD Healing",
+    "score": 10
+  },
+  {
+    "id": "zrJ9HUcDv40",
+    "title": "Introduction and Personal Reflections",
+    "score": 10
+  },
+  {
+    "id": "qn_C397Y4vs",
+    "title": "Is Walking The Best Active Recovery? Training vs Recovery in Midlife Women",
+    "score": 10
+  },
+  {
+    "id": "IXBOb68sWwQ",
+    "title": "10 POWERFUL Stories of Addiction (\\u0026 Recovery) | Rich Roll Podcast",
+    "score": 10
+  },
+  {
+    "id": "kyUF7T-qhMA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "npXLPLO266c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "a9jfsAajFZM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AptfC92X20I",
+    "title": "PubMed: Using the Search Filters",
+    "score": 10
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "Episode #219 - Using the Search Filters Web Part of PnP Modern Search",
+    "score": 10
+  },
+  {
+    "id": "d_t8Ts05RSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HZU9DVkWNW4",
+    "title": "Search Filter in React JS - Filter Through Results",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Google Search Tricks - Google Advanced Search Filters -  Google Search Filters",
+    "score": 10
+  },
+  {
+    "id": "11kBN75Ty2s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6ZgmN4Oq8Dc",
+    "title": "Puppet - Scribble (feat. The Eden Project) (Extended Mix)",
+    "score": 10
+  },
+  {
+    "id": "oGUjCUiHpoA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cimgIhtN-AU",
+    "title": "WHY DOES IT GET COLDER AS WE GO HIGHER?",
+    "score": 10
+  },
+  {
+    "id": "0CuDoyqpgm8",
+    "title": "The Difference between Elevation and Altitude",
+    "score": 10
+  },
+  {
+    "id": "elOn5ZYg5fc",
+    "title": "Credit: Martin St Amant",
+    "score": 10
+  },
+  {
+    "id": "j9dXQ8eveso",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "57dOEmVrSNM",
+    "title": "Downsides to Using a Tent Consistently",
+    "score": 10
+  },
+  {
+    "id": "Tmo8CeyOYLE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KrKLrrnD4bw",
+    "title": "Altitude vs Elevation #altitude #elevation",
+    "score": 10
+  },
+  {
+    "id": "3lDU9TeJgvA",
+    "title": "What is the difference between altitude and elevation?",
+    "score": 10
+  },
+  {
+    "id": "aw4kI8dnDWA",
+    "title": "What IS The Difference Between Height, Altitude \\u0026 Elevation?",
+    "score": 10
+  },
+  {
+    "id": "ZtWW9O-Lkvg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_xFu_K7hpUQ",
+    "title": "Why is it Colder at Higher Altitudes?",
+    "score": 10
+  },
+  {
+    "id": "zmOSz8MbaNM",
+    "title": "Atmosphere",
+    "score": 10
+  },
+  {
+    "id": "isDop9WKdjk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "g4q9dEq_Wmo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "azv7Ylh8XZs",
+    "title": "What to Expect When Enrolling at F.I.R.S.T. Institute",
+    "score": 10
+  },
+  {
+    "id": "iX3hBERzaIg",
+    "title": "🎥 Step behind the scenes of Recording Arts and Show Production! 🎶✨",
+    "score": 10
+  },
+  {
+    "id": "8m2OeuUbGDw",
+    "title": "And just like that, they're gone! 🎄🎅",
+    "score": 10
+  },
+  {
+    "id": "3KHZgwTr3OA",
+    "title": "DAY 12 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "mlG5qQxSTYA",
+    "title": "DAY 11 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "FxmMgbQo-qY",
+    "title": "DAY 10 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "6RcRUnWMUaQ",
+    "title": "DAY 9 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "VuD5MHlFUR0",
+    "title": "DAY 8 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "f1L2BBzbM10",
+    "title": "DAY 7 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "0qPhRWGuzTE",
+    "title": "DAY 6 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "PGubnt4Yx18",
+    "title": "DAY 5 of 12 days of F.I.R.S.T.mas 🎄🎅🧑‍🎄",
+    "score": 10
+  },
+  {
+    "id": "Pbn4zwaL0sY",
+    "title": "Why Go to F.I.R.S.T. Institute?",
+    "score": 10
+  },
+  {
+    "id": "cscznA4HoLw",
+    "title": "Exploring Your Future: Virtual Tour of Graphic Design \\u0026 Web Development at F.I.R.S.T. Institute",
+    "score": 10
+  },
+  {
+    "id": "v8_i4HfF3ZU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GswL1paFGpY",
+    "title": "WHY F.I.R.S.T.?",
+    "score": 10
+  },
+  {
+    "id": "JgCIq0a9tvU",
+    "title": "Explore the World of Film \\u0026 Video Production: A Virtual Tour Experience of F.I.R.S.T. Institute",
+    "score": 10
+  },
+  {
+    "id": "eDNkEOyhmPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sik_-CwCNV8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MPS_aPDebDU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aTMYSjeLSsA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SjkgVh6CB2M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1zWMFFkQihA",
+    "title": "Full Sail University Tour",
+    "score": 10
+  },
+  {
+    "id": "6dTFXLalj7w",
+    "title": "Discovery Flights with Acron Aviation Academy - Sanford, Florida",
+    "score": 10
+  },
+  {
+    "id": "4LAL5ooD54E",
+    "title": "Career Insight",
+    "score": 10
+  },
+  {
+    "id": "z3zFaSIaLGc",
+    "title": "What's one thing you LOVE about F.I.R.S.T.?",
+    "score": 10
+  },
+  {
+    "id": "9ElJd9ycPWE",
+    "title": "Unboxing the F.I.R.S.T. Institute Creative P.A.K. (Recording Arts)",
+    "score": 10
+  },
+  {
+    "id": "m3F2Bq6fVrM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P-2vbi9uj-I",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "a7543VvfRp8",
+    "title": "The Mysterious Disappearance of Ross Warren | Crime Investigation Australia Revisited",
+    "score": 10
+  },
+  {
+    "id": "8HK-9D-1DME",
+    "title": "Kickassia Is the Best",
+    "score": 10
+  },
+  {
+    "id": "2fkmPGv-17Y",
+    "title": "Intro | Hugh's Photography and God’s two books",
+    "score": 10
+  },
+  {
+    "id": "lUmlucz4pqc",
+    "title": "The Unsolved Mystery of Gerard Ross | Young Australian Boy Murdered | True Crime Fix",
+    "score": 10
+  },
+  {
+    "id": "iTsk6GmDdfo",
+    "title": "Hugh Ross Interview Recap: Noah’s Flood Revisited",
+    "score": 10
+  },
+  {
+    "id": "PaxHPZXjyUs",
+    "title": "Hugh Ross - Long lifespans before the flood",
+    "score": 10
+  },
+  {
+    "id": "FYvgR2gi3m4",
+    "title": "Things That I'm Afraid Of (Revisited, Acoustic)",
+    "score": 10
+  },
+  {
+    "id": "4lcT7_AxlEU",
+    "title": "Hugh Ross - Evidence for a local flood",
+    "score": 10
+  },
+  {
+    "id": "nBBHnO8nvlI",
+    "title": "Size of the Ark",
+    "score": 10
+  },
+  {
+    "id": "F-cXCHzaFGY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fQNn_t_4nUo",
+    "title": "Swamp Watch: Wilbur Ross revisited",
+    "score": 10
+  },
+  {
+    "id": "K4HYQa64WDU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "e7an00TFHTY",
+    "title": "The Scientific and Biblical Case for Noah's Flood (Dr. Hugh Ross)",
+    "score": 10
+  },
+  {
+    "id": "lqiFFSxjHFE",
+    "title": "The Mysterious Disappearance of Ross Warren Crime Investigation Australia Revisited",
+    "score": 10
+  },
+  {
+    "id": "edYYpuhslRY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AncrvEV1lLs",
+    "title": "Do It Like Me",
+    "score": 10
+  },
+  {
+    "id": "5innG_SeKcQ",
+    "title": "Tate McRae - Like I do (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "k1jCm_NEdfk",
+    "title": "Kasien - DO WHAT I LIKE",
+    "score": 10
+  },
+  {
+    "id": "GiAAAUa7NdI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Xuq9_NJFfPA",
+    "title": "Melissa Etheridge - Like The Way I Do",
+    "score": 10
+  },
+  {
+    "id": "N1o4oOXLOZc",
+    "title": "music",
+    "score": 10
+  },
+  {
+    "id": "plqFvp6nm9o",
+    "title": "What Do You Like To Do? | Kids Songs | Super Simple Songs",
+    "score": 10
+  },
+  {
+    "id": "nddRGDEKxA0",
+    "title": "BREAKING NEWS: Elizabeth Warren Has Heated Clash With Scott Bessent: 'You Don't Have A Plan'",
+    "score": 10
+  },
+  {
+    "id": "F-VfV1MNriY",
+    "title": "EA-37B Electronic Attack Plane Just Got UNLEASHED on Iran",
+    "score": 10
+  },
+  {
+    "id": "XXJoEH0KRnI",
+    "title": "Bob Marley Greatest Hits Collection - The Very Best of Bob Marley Songs Playlist Ever 2026",
+    "score": 10
+  },
+  {
+    "id": "BF-pmTF-Rro",
+    "title": "Neighbor sounds ALARM on Nancy Guthrie case: 'Never heard of any crime like this'",
+    "score": 10
+  },
+  {
+    "id": "F0amTwk8Bj4",
+    "title": "Donald Trump Is Nothing To Smile About | Mike Johnson vs. Pope Leo XIV | Bezos \\\"Murders\\\" Journalism",
+    "score": 10
+  },
+  {
+    "id": "6Irn2IPmGvk",
+    "title": "JUST IN: Trump Asked, 'Do You Feel Like There's A Civil War Brewing?' Amidst Minneapolis Unrest",
+    "score": 10
+  },
+  {
+    "id": "6kiQH6cXHQI",
+    "title": "Trump Floats Canceling Midterms \\u0026 MAGA Pushes Alt Super Bowl Halftime Show | The Daily Show",
+    "score": 10
+  },
+  {
+    "id": "WCX2SKsUg0g",
+    "title": "Michael Kosta's TDS Welcome",
+    "score": 10
+  },
+  {
+    "id": "OYtxnoCH0Cw",
+    "title": "Do You Feel Like We Do",
+    "score": 10
+  },
+  {
+    "id": "hUioud7Qtsw",
+    "title": "Do You Like Broccoli Ice Cream? | Food Song for Kids! | Super Simple Songs",
+    "score": 10
+  },
+  {
+    "id": "frN3nvhIHUk",
+    "title": "What do you like doing? - Gerund (base verb + -ing) | Mark Kulek ESL",
+    "score": 10
+  },
+  {
+    "id": "CQTlw0eGbRc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "0KaOX4BBJGg",
+    "title": "Why Hermès Is Growing While LVMH And Gucci Decline",
+    "score": 10
+  },
+  {
+    "id": "ypgihHFrn5A",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "P3jLku3WUjI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "A4OGvpIS97k",
+    "title": "5 Popular Bags to *AVOID* this 2026! / HERMES, CHANEL, DIOR, YSL, GUCCI",
+    "score": 10
+  },
+  {
+    "id": "drevCZlxv4k",
+    "title": "LUXURY HAUL 2026 | Louis Vuitton, Hermès, \\u0026 Dior",
+    "score": 10
+  },
+  {
+    "id": "yyLzFbi4-c4",
+    "title": "Top 5 Basic Designer Flats - Chanel, Hermes, Dior, Ferragamo",
+    "score": 10
+  },
+  {
+    "id": "0lRREjKmHgU",
+    "title": "Chanel Flats",
+    "score": 10
+  },
+  {
+    "id": "u3v5h67jd9c",
+    "title": "A DAY IN THE LIFE: SHOPPING SPREE IN DIOR'S VIP SUITE WITH HOLLY SCARFONE",
+    "score": 10
+  },
+  {
+    "id": "C2lPH4Jw5Yc",
+    "title": "How Hermès Bags Are Made | Vogue",
+    "score": 10
+  },
+  {
+    "id": "Z7LJrU4443Q",
+    "title": "MY CLOSET TOUR 2023.. WALK-IN WARDROBE REVEAL | COLLECTING HERMÈS, CHANEL, DIOR, LV | WILLABELLE ONG",
+    "score": 10
+  },
+  {
+    "id": "F8tHT3Kpp3E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-eykSI2NziQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5dn7ksvcHhQ",
+    "title": "Hermès and the success of the coveted Birkin bag | 60 Minutes",
+    "score": 10
+  },
+  {
+    "id": "Pu2scaplz28",
+    "title": "Can You Really Buy a $90,000 Birkin for $6,000?",
+    "score": 10
+  },
+  {
+    "id": "2ClbnOQsTcU",
+    "title": "Back From China With a Birkin Replica",
+    "score": 10
+  },
+  {
+    "id": "S026NlweNr0",
+    "title": "How Hermès Brainwashes You to Buy $70,000 Handbags",
+    "score": 10
+  },
+  {
+    "id": "g_3o-BEKg3g",
+    "title": "Gris Dior",
+    "score": 10
+  },
+  {
+    "id": "qO5koftQewg",
+    "title": "CHATTY 😅 HERMES 5 PIECE HAUL \\u0026 DIOR BEAUTY! 🛍️ Adding a new 🍊 handbag to the wishlist!",
+    "score": 10
+  },
+  {
+    "id": "NuZ6VRZPatc",
+    "title": "🎂💝 Birthday LUXURY SHOPPING: Chanel, Hermes, Bulgari, Dior, Van Cleef \\u0026 Arpels 🛍️",
+    "score": 10
+  },
+  {
+    "id": "cxxHFcfys0A",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "B69dt50G7oo",
+    "title": "10x the versatility of your wardrobe 🧚‍♀️ Luxury items that will elevate your everyday life.",
+    "score": 10
+  },
+  {
+    "id": "3qQa9Yk6bZ8",
+    "title": "Luxury Shopping",
+    "score": 10
+  },
+  {
+    "id": "dZtnZcIeqOo",
+    "title": "Why Hermès' Womenswear Designer Says ‘Quiet Luxury’ Is Boring and More | The Job Interview",
+    "score": 10
+  },
+  {
+    "id": "IWkRK2oF534",
+    "title": "Keys to success",
+    "score": 10
+  },
+  {
+    "id": "3TOPBr8k8xY",
+    "title": "National Elevation Dataset and Hillshade Rasters",
+    "score": 10
+  },
+  {
+    "id": "SQXUq-vhD5M",
+    "title": "Longitude and Latitude",
+    "score": 10
+  },
+  {
+    "id": "qU7eSv9Q4yk",
+    "title": "Before it Becomes 3DHP: Validating and Ingesting Elevation Derived Hydrography at the USGS",
+    "score": 10
+  },
+  {
+    "id": "sSa18C-iIvo",
+    "title": "What Is The Elevation Of Prespa National Park? - TalkingSoutheastEurope",
+    "score": 10
+  },
+  {
+    "id": "nTb28Ogn5tk",
+    "title": "3DEP FTN Interest Group: Dewberry - Elevation-Derived Hydrography as an Outdoor Sport | Sep 10, 2025",
+    "score": 10
+  },
+  {
+    "id": "uotKGLxARSM",
+    "title": "Been So Good (feat. Tiffany Hudson) | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "TwzfEwsTfag",
+    "title": "Jireh | Elevation Worship \\u0026 Maverick City",
+    "score": 10
+  },
+  {
+    "id": "XUp4pbm9qBU",
+    "title": "More Than Able (feat. Chandler Moore \\u0026 Tiffany Hudson) | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "dQ1xxoP7NJk",
+    "title": "Trust In God (feat. Chris Brown \\u0026 Isaiah Templeton) | Elevation Worship",
+    "score": 10
+  },
+  {
+    "id": "QS04WbSnxok",
+    "title": "27 KM MOMBASA ROAD EXPANSION AND BEAUTIFICATION FROM JKIA TO WESTLANDS",
+    "score": 10
+  },
+  {
+    "id": "sydE1v_qCjo",
+    "title": "EVERYONE GOT FIRED..",
+    "score": 10
+  },
+  {
+    "id": "JY0_k8fK5DE",
+    "title": "Últimas noticias en El Mañanero con Alex Otaola (jueves 5 de febrero del 2026)",
+    "score": 10
+  },
+  {
+    "id": "knXMPng5amE",
+    "title": "Rocky 17 National vs Elevation 18 Peak",
+    "score": 10
+  },
+  {
+    "id": "EaH8a-SNFeo",
+    "title": "Dohn Prep National vs. Elevation Prep High School TOP TALENT RUMBLE!!",
+    "score": 10
+  },
+  {
+    "id": "A7fxstZwzjY",
+    "title": "National Elevation \\u0026 Mapping Initiatives",
+    "score": 10
+  },
+  {
+    "id": "gqeRGHEKmx4",
+    "title": "access the dynamic elevation service in arcmap",
+    "score": 10
+  },
+  {
+    "id": "s1FcSQyXvPo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MCRiUi28UpA",
+    "title": "Flume - The Difference (ft. Toro y Moi)",
+    "score": 10
+  },
+  {
+    "id": "lI2CYUUdwwQ",
+    "title": "What's The Difference",
+    "score": 10
+  },
+  {
+    "id": "-Ubyt7iWJ8Q",
+    "title": "Panic! At The Disco - The Only Difference Between Martyrdom and Suicide Is Press Coverage (Audio)",
+    "score": 10
+  },
+  {
+    "id": "flKd80xRazk",
+    "title": "Difference Between",
+    "score": 10
+  },
+  {
+    "id": "vLav5Ue6pzc",
+    "title": "Circa Survive \\\"The Difference Between Medicine And Poison Is In The Dose\\\"",
+    "score": 10
+  },
+  {
+    "id": "YhLm4JgXd5Q",
+    "title": "Dr. Dre ft Eminem \\u0026 Xzibit - What's the Difference",
+    "score": 10
+  },
+  {
+    "id": "PANEcjhSfv4",
+    "title": "The Difference Between Us",
+    "score": 10
+  },
+  {
+    "id": "ZywiAGqCspI",
+    "title": "The Difference Between b and d | Jack Hartmann Telling b from d",
+    "score": 10
+  },
+  {
+    "id": "YrZXK8HNjoY",
+    "title": "Syrian Extremists Attacked U.S. Forces – Big Mistake",
+    "score": 10
+  },
+  {
+    "id": "I3uN36a1-yg",
+    "title": "The White Collar AI APOCALYPSE Is HERE",
+    "score": 10
+  },
+  {
+    "id": "ur295T83Wg4",
+    "title": "What Is the Difference Between HEBREW, ISRAELITE, and JEW?",
+    "score": 10
+  },
+  {
+    "id": "BQ9kDyo5R6s",
+    "title": "EVERYONE GOT FIRED..",
+    "score": 10
+  },
+  {
+    "id": "BPm1WU2SCp4",
+    "title": "GET UP | Windhorst updates Trade Deadline: Giannis to Heat? Ja Morant to Wolves? Zubac to Pacers?",
+    "score": 10
+  },
+  {
+    "id": "UcolR8NJPFU",
+    "title": "Maritime law expert responds to Marcoleta's search for WPS \\\"coordinates\\\"",
+    "score": 10
+  },
+  {
+    "id": "_yqXBPysWMI",
+    "title": "“A TIDAL WAVE Of Selling” - Bitcoin Drop Fuels Crypto Crash PANIC",
+    "score": 10
+  },
+  {
+    "id": "empuP22n2hA",
+    "title": "Lorde - Tennis Court (Flume Remix)",
+    "score": 10
+  },
+  {
+    "id": "8ATu1BiOPZA",
+    "title": "MECHANIC THEORY TESTED: NEVER Flush a 180,000-MILE Transmission? Here’s What Happened",
+    "score": 10
+  },
+  {
+    "id": "w5ncQxBPgZY",
+    "title": "Opening",
+    "score": 10
+  },
+  {
+    "id": "VrZQHs7oCFY",
+    "title": "Start",
+    "score": 10
+  },
+  {
+    "id": "CRDWTkvn38k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QvQjI2zxKwg",
+    "title": "The difference between your first born vs. second born😂🤍 #firstborn #middlechild #siblings",
+    "score": 10
+  },
+  {
+    "id": "d99PGcwM2Jw",
+    "title": "The Difference Between MEN and WOMEN in 15 Seconds 😂👏🏼",
+    "score": 10
+  },
+  {
+    "id": "M301THDLk0M",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "xDfA1UgeR8w",
+    "title": "The ENTIRE Story of Total Drama Island In 2 Hours",
+    "score": 10
+  },
+  {
+    "id": "6rVrboYxKSQ",
+    "title": "Total Body Stretch - Flexibility Exercises for the Entire Body",
+    "score": 10
+  },
+  {
+    "id": "KJaWIBg15n0",
+    "title": "Total Body Strength Workout for People who get Bored Easily - Total Body Burnout",
+    "score": 10
+  },
+  {
+    "id": "siIicrZ4gng",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zr5Vxhk5x8g",
+    "title": "Total Body Yoga | Deep Stretch | Yoga With Adriene",
+    "score": 10
+  },
+  {
+    "id": "GLy2rYHwUqY",
+    "title": "stabilize the joints",
+    "score": 10
+  },
+  {
+    "id": "sHnfuEBOJXE",
+    "title": "Warm Up",
+    "score": 10
+  },
+  {
+    "id": "gEpSM8GWGcU",
+    "title": "The Complete Futurama Timeline! | Channel Frederator",
+    "score": 10
+  },
+  {
+    "id": "p2MOku6wK74",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c_-l87fXq_0",
+    "title": "30 MIN TRISETS Full Body Workout with Dumbbells | Strength Training",
+    "score": 10
+  },
+  {
+    "id": "miI70WR4FXo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kaNktg56JaI",
+    "title": "Math Antics - Percents Missing Total",
+    "score": 10
+  },
+  {
+    "id": "NQQ7fcYx7oY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aKprSIQRDLA",
+    "title": "INSANE Estate Jewelry Haul! 30+ Rings, Diamonds, and Gemstones",
+    "score": 10
+  },
+  {
+    "id": "5GTldo_PsIo",
+    "title": "My updated/curated luxury fine jewellery collection. Cartier, Chaumet, Hermès, Chanel etc!",
+    "score": 10
+  },
+  {
+    "id": "sTtJRbykqaA",
+    "title": "My $21,000 Jewelry Collection Tour ✨ | Cartier, Tiffany \\u0026 Co., VCA \\u0026 More",
+    "score": 10
+  },
+  {
+    "id": "U-IVUU_5fRg",
+    "title": "Anna Wintour Jewelry Collection | Most Expensive Gems | Brooches | Tiaras | Pearls | Diamonds",
+    "score": 10
+  },
+  {
+    "id": "d98ifWOdF8k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5r-HYlojKnU",
+    "title": "JEWELRY COLLECTION 2025 - everyday gold and diamonds , Chanel, what’s in my jewelry box",
+    "score": 10
+  },
+  {
+    "id": "uqxpOeenc54",
+    "title": "My Luxury Jewelry Collection | Rolex, Cartier, Van Cleef \\u0026 Arpels",
+    "score": 10
+  },
+  {
+    "id": "1NFPvLMXnOU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "T4Hz34G381M",
+    "title": "Elizabeth Taylor Jewelry Collection. Most Beautiful and Expensive Gems, Diamonds, Necklace",
+    "score": 10
+  },
+  {
+    "id": "dHe77NQ3kh0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "XLDfkZ5HHr8",
+    "title": "Our ENTIRE Team's Personal Jewelry Collections!",
+    "score": 10
+  },
+  {
+    "id": "Vw1S9QWAdqQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ifiJPLi_Xgk",
+    "title": "My Jewelry Collection",
+    "score": 10
+  },
+  {
+    "id": "KtZaUVV8sfM",
+    "title": "Black Diamond Bracelet",
+    "score": 10
+  },
+  {
+    "id": "p-eS-_olx9M",
+    "title": "Elmiene - Until It's Dust (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "A_EX4ve1Niw",
+    "title": "TILL THE DUST SETTLES - Nigerian Movies 2025 Latest Full Movies",
+    "score": 10
+  },
+  {
+    "id": "_-fLEAt93x4",
+    "title": "GAWVI \\u0026 Barajas \\u0026 Tuvi \\u0026 NATA - Till Dust | LUNARIO",
+    "score": 10
+  },
+  {
+    "id": "vP-m6s-Znvo",
+    "title": "From Dusk Till Dawn - After Dark - Tito \\u0026 Tarantula",
+    "score": 10
+  },
+  {
+    "id": "_05lRKSdJBM",
+    "title": "DUSK TILL DAWN - Zayn ft. Sia | Kirsten Collins, Blake Rose, KHS Cover",
+    "score": 10
+  },
+  {
+    "id": "adfcVmu1bmM",
+    "title": "ZAYN - Dusk Till Dawn ft. Sia (SING OFF vs. Madison Beer)",
+    "score": 10
+  },
+  {
+    "id": "vdgrUmX28Pc",
+    "title": "ZAYN \\u0026 Sia - Dusk Till Dawn (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "gdEkkXBvXJk",
+    "title": "Top 5 Covers of DUSK TILL DAWN - ZAYN ft. Sia",
+    "score": 10
+  },
+  {
+    "id": "Ty2R20MZeVQ",
+    "title": "Livingston - Dusk Till Dawn (ZAYN ft. Sia Cover)",
+    "score": 10
+  },
+  {
+    "id": "a8xa3dOWJHA",
+    "title": "Dust Till Dawn",
+    "score": 10
+  },
+  {
+    "id": "6fvbpDcTt04",
+    "title": "Soa Mattrix x DJ Maphorisa - Dust till dawn (official Audio)",
+    "score": 10
+  },
+  {
+    "id": "ty1QlEjkXsM",
+    "title": "Till Dust Comes Out (466) | Congratulations Podcast with Chris D'Elia",
+    "score": 10
+  },
+  {
+    "id": "I6stBWoS6H0",
+    "title": "Misinformation",
+    "score": 10
+  },
+  {
+    "id": "tfo7878_T38",
+    "title": "From Dusk Till Dawn (8/12) Movie CLIP - Richie Rises (1996) HD",
+    "score": 10
+  },
+  {
+    "id": "xFfUAjUMVY8",
+    "title": "From Dusk Till Dawn | ‘To Your Family’ (HD) - George Clooney, Quentin Tarantino | MIRAMAX",
+    "score": 10
+  },
+  {
+    "id": "LJzG56L4HLc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "JGai7ysvPiM",
+    "title": "Kid Ink feat. Sterling Simms - All I Know (Director's Cut)",
+    "score": 10
+  },
+  {
+    "id": "-_65t46eYJQ",
+    "title": "Amarionette  = Docious feat  (Sterling Driscoll)",
+    "score": 10
+  },
+  {
+    "id": "_gBi1eaztGI",
+    "title": "Sterling Grove - Sound Of Home (feat. Ellyn Woods) [Original Mix]",
+    "score": 10
+  },
+  {
+    "id": "49tpIMDy9BE",
+    "title": "Dj incredible - Tu Mon Soleil (Gouyad Remix) Feat. Sterling Touch \\u0026 GaeGae",
+    "score": 10
+  },
+  {
+    "id": "7Y6K40CcQQ4",
+    "title": "Short Dawg - \\\"All These\\\" Feat. Sterling Simms",
+    "score": 10
+  },
+  {
+    "id": "OOoNws2WvDg",
+    "title": "Tritonal \\u0026 Paris Blohm feat. Sterling Fox - Colors (Lyrics) HD 1080",
+    "score": 10
+  },
+  {
+    "id": "vh8LXCLMzMs",
+    "title": "Sterling Ensemble feat. Sara Devine - Life Ain't What It Seems Quentin Harris Re-Touch (8:45)",
+    "score": 10
+  },
+  {
+    "id": "v0Tcp77eNfk",
+    "title": "Tritonal \\u0026 Paris Blohm feat. Sterling Fox - Colors (Xyron Remix) [Dubstep]",
+    "score": 10
+  },
+  {
+    "id": "cQutJzWFVmc",
+    "title": "Tritonal \\u0026 Paris Blohm - Colors (Elliot Berger Remix)",
+    "score": 10
+  },
+  {
+    "id": "AyYMRD4qXnI",
+    "title": "Sterling Grove - Beneath (feat. Jono McCleery)",
+    "score": 10
+  },
+  {
+    "id": "SN3SFgGNDQ4",
+    "title": "Sterling Grove - One Year Ago (feat. MUNYA)",
+    "score": 10
+  },
+  {
+    "id": "9cdiFW15szw",
+    "title": "W Sound 23 “5 Estrellas” - Myke Towers, Westcol, Ovy On The Drums",
+    "score": 10
+  },
+  {
+    "id": "3rg0p23brQ0",
+    "title": "Deeper (feat. Stige) (Terry Hunter Remix Terry Hunter Remix)",
+    "score": 10
+  },
+  {
+    "id": "B2JMpviBGR8",
+    "title": "Sterling Grove \\u0026 Monsoonsiren - Parallel Lines",
+    "score": 10
+  },
+  {
+    "id": "ee_dsfmK48o",
+    "title": "Tritonal \\u0026 Paris Blohm - Colors (Elliot Berger Remix) | DUBSTEP",
+    "score": 10
+  },
+  {
+    "id": "W4iLqo5jKRw",
+    "title": "Sterling Grove - Wither (feat. Adelaide)",
+    "score": 10
+  },
+  {
+    "id": "P0ijH6kM8FE",
+    "title": "Tritonal \\u0026 Paris Blohm - Colors ft. Sterling Fox (T-Mass Remix)",
+    "score": 10
+  },
+  {
+    "id": "5X3M_jtUDVU",
+    "title": "Sterling Void - Runaway Girl",
+    "score": 10
+  },
+  {
+    "id": "BdDWFHHnqqU",
+    "title": "Ben Sterling feat. Superchumbo - All Over My Body",
+    "score": 10
+  },
+  {
+    "id": "E2EZYePO04s",
+    "title": "Sterling Grove - Way I Used to (feat. MUNYA)",
+    "score": 10
+  },
+  {
+    "id": "rimDfoqcaKg",
+    "title": "Jay Z feat. Sterling Simms - Dig A Hole",
+    "score": 10
+  },
+  {
+    "id": "8ePbrLieumM",
+    "title": "Twistazz | Colors feat Sterling Fox by Tritonal \\u0026 Paris Blohm",
+    "score": 10
+  },
+  {
+    "id": "H0rl8cyANUw",
+    "title": "Sterling Simms feat...Jadakiss All I Need (I Need Love)",
+    "score": 10
+  },
+  {
+    "id": "_pRuKL9oa4o",
+    "title": "Tritonal \\u0026 Paris Blohm feat. Sterling Fox - Colors (Culture Code Remix)",
+    "score": 10
+  },
+  {
+    "id": "VnHIe_USfL4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9HtTfiVBy0U",
+    "title": "The Best Travel Backpack for 2026",
+    "score": 10
+  },
+  {
+    "id": "FN6JZRIJmoE",
+    "title": "bckpckbyz - Peso Pluma \\u0026 Tito Double P (Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "87gxCo3_tqU",
+    "title": "Peso Pluma - BackPack Boyz (Audio Official)",
+    "score": 10
+  },
+  {
+    "id": "7JAwXCFYFGA",
+    "title": "Top 5 Premium Backpack/Bags for College/Office on Amazon 🔥 Backpack Haul 2026 | ONE CHANCE",
+    "score": 10
+  },
+  {
+    "id": "f4-VeOaX0YE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Tpz2Ld6PfV0",
+    "title": "my super light edc backpack for work and travel",
+    "score": 10
+  },
+  {
+    "id": "z-wEytln5l0",
+    "title": "Intro \\u0026 Why Rucksack in 2026 is Must-Have",
+    "score": 10
+  },
+  {
+    "id": "u3aVh6kN3Lg",
+    "title": "RiderBag x Frantic TV - Xtreme Tactical Backpack Unboxing",
+    "score": 10
+  },
+  {
+    "id": "-0RwIEQtfSI",
+    "title": "🤯 Absolutely Insane Backpack Unboxing ￼",
+    "score": 10
+  },
+  {
+    "id": "x_gpKOJksuA",
+    "title": "backpack haul! 😛 most on LTK my  (laurenkkim0) #explore #ootd #backtoschool #backpack #haul #school",
+    "score": 10
+  },
+  {
+    "id": "uxKM63H34_k",
+    "title": "She Found The BEST MINI-BAG",
+    "score": 10
+  },
+  {
+    "id": "KG9bCNx1ttQ",
+    "title": "Backpacks I BETTER see at school this year #accessories#school #style #brands#cute #ideas#aesthetic",
+    "score": 10
+  },
+  {
+    "id": "novjcXYMBTM",
+    "title": "backpack for each grade #viral #aesthetic",
+    "score": 10
+  },
+  {
+    "id": "BNmIpz7Fu-Y",
+    "title": "What Fits Inside The MINI BAG?",
+    "score": 10
+  },
+  {
+    "id": "xSC8fmt4g_w",
+    "title": "Louis Vuitton backpackkk",
+    "score": 10
+  },
+  {
+    "id": "JQQt-yfi3lc",
+    "title": "Sanrio My Melody Real Littles Mini Backpack Unboxing #sanrio #mymelody #sanriogirl #sanriocore",
+    "score": 10
+  },
+  {
+    "id": "-UfWdY_C4qw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ScMx0VKnGnQ",
+    "title": "MOST ELEGANT LADIES PURSE HANDBAGS//NEW FALL FASHION BAG COLLECTION 2026",
+    "score": 10
+  },
+  {
+    "id": "WU8WChjGniE",
+    "title": "WHAT'S IN MY BAG + MY PURSE COLLECTION! 👛 essentials, everyday bags, going out bags, work bags, etc",
+    "score": 10
+  },
+  {
+    "id": "jANVg0Pet0U",
+    "title": "Kylie Jenner: My Purse Closet Tour",
+    "score": 10
+  },
+  {
+    "id": "cPxusiWMxZs",
+    "title": "FINALLY GETTING RID OF MY PURSE COLLECTION. (I'm a hoarder.)",
+    "score": 10
+  },
+  {
+    "id": "haqlNlwB5Lk",
+    "title": "MEGA Bag Collection  | The Sharon Cuneta Show",
+    "score": 10
+  },
+  {
+    "id": "cSS1F1pylBk",
+    "title": "You Asked for This- My Entire 65 Purse Collection",
+    "score": 10
+  },
+  {
+    "id": "npJaD4Fx0Nk",
+    "title": "Luxury items I STOLE from my Mum’s closet (Bags, Clothing \\u0026 More!)",
+    "score": 10
+  },
+  {
+    "id": "tHXoNa603AI",
+    "title": "MY DISNEY PURSE COLLECTION | WHAT'S IN MY BAG FOR DISNEYLAND",
+    "score": 10
+  },
+  {
+    "id": "7TxvJiEEB9M",
+    "title": "Disney Purse Collection",
+    "score": 10
+  },
+  {
+    "id": "DZX5S3J8Sn8",
+    "title": "BLUES",
+    "score": 10
+  },
+  {
+    "id": "6aQb3zHJDEw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SzYb3LqACoc",
+    "title": "Intro, lint rolling",
+    "score": 10
+  },
+  {
+    "id": "CAQtrpCYQq0",
+    "title": "Uhh 🫣.. 120 💼... ENTIRE HANDBAG COLLECTION 2024 | CHARIS ❤️",
+    "score": 10
+  },
+  {
+    "id": "77pzlsoea2Y",
+    "title": "My INSANE Chanel Handbag Collection 🤗 20+ Chanel bags!! (PT 1)",
+    "score": 10
+  },
+  {
+    "id": "fEDiJE9S7sY",
+    "title": "Intro \\u0026 Idyl Diamond Earrings",
+    "score": 10
+  },
+  {
+    "id": "2tHduVrcHms",
+    "title": "Chanel Gst in the Black Caviar Leather Silver Hardware",
+    "score": 10
+  },
+  {
+    "id": "XqJVVjwFeAs",
+    "title": "My first purse",
+    "score": 10
+  },
+  {
+    "id": "iLXC_7LkDpA",
+    "title": "These Are the Best Luxury SUVs of 2025 and 2026",
+    "score": 10
+  },
+  {
+    "id": "gRGuZNLyyzU",
+    "title": "House 1",
+    "score": 10
+  },
+  {
+    "id": "iJb8P2fD15E",
+    "title": "Kitchen",
+    "score": 10
+  },
+  {
+    "id": "nSESMoHgItM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RH3niDKu3YI",
+    "title": "These Are the Best Luxury SUVs You Can Buy in 2024",
+    "score": 10
+  },
+  {
+    "id": "-BppedIm6n8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lZLKZWdCpU8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jlPQjC-CjNg",
+    "title": "Rolex",
+    "score": 10
+  },
+  {
+    "id": "QI8uxJFMmDY",
+    "title": "13. Lexus GS 350 (2013–2016)",
+    "score": 10
+  },
+  {
+    "id": "r798ZekbVtA",
+    "title": "I Stay In Rome's MOST Luxury Hotels!",
+    "score": 10
+  },
+  {
+    "id": "PVCMFovg5Cc",
+    "title": "BMW X3 vs. Mercedes-Benz GLC vs. Audi Q5: Which Small Luxury SUV Is Best?",
+    "score": 10
+  },
+  {
+    "id": "6SXiVLzlj9A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "U6rYZddKd-w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tpxki3AzHWQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GUC2jUgksog",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c06sEa_XvJY",
+    "title": "BEST LUXURY BEAUTY OF 2025…so far 🥇 the REAL standouts worth EVERY penny!",
+    "score": 10
+  },
+  {
+    "id": "bAmjNA7DU_8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Bk_mhPppsG0",
+    "title": "Introduction",
+    "score": 10
+  }
+]

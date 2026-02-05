@@ -1,1 +1,3032 @@
-[]
+[
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "👩‍💻 מדריך פייתון למתחילים",
+    "score": 110
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "הרצאה בנושא צילום טבע מסביב לעולם | Wild Travel",
+    "score": 110
+  },
+  {
+    "id": "sY0AHMnsAOo",
+    "title": "איך עובד הטורבו - ההסבר המלא!",
+    "score": 110
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "nqLDtxX2JgE",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "Hanunov Kfir / מה בעצם עושה צלם טבע",
+    "score": 60
+  },
+  {
+    "id": "rjuPw77GmSs",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "שווה לנסות - פרק 19",
+    "score": 60
+  },
+  {
+    "id": "T-446AjBMjg",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "רפאל המטייל ויאנצ׳יקס בניסוי מדעי מטורף ! מכינים מנורת לבה!!! | ניסויים מדעיים עם ילדים",
+    "score": 60
+  },
+  {
+    "id": "dwqtp89L9bA",
+    "title": "ניסויים מדעיים לילדים - מטבע טובע",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "כתב סתרים ממיץ לימון וחלב",
+    "score": 60
+  },
+  {
+    "id": "Udx6mWOTIsc",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "9KKfIYch1FE",
+    "title": "איך עובד מנוע חשמלי",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "כיצד פועלים מנועי מכוניות? מבט מקרוב על הפרטים המורכבים של מנוע",
+    "score": 60
+  },
+  {
+    "id": "FXd9Cpz13mE",
+    "title": "איך עובדת תיבת הילוכים ברכב",
+    "score": 60
+  },
+  {
+    "id": "x8DK4rM6Y90",
+    "title": "איך עובד מגדש טורבו?",
+    "score": 60
+  },
+  {
+    "id": "keGn5YFqSnE",
+    "title": "איך עובד מנוע רוטורי (WANKELׂׂׂׂׂׂׂׂ)",
+    "score": 60
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "איך עובד מנוע של מטוס? הצצה מרתקת ללב הפועם של עולם התעופה",
+    "score": 60
+  },
+  {
+    "id": "kftw5wAeWEU",
+    "title": "איך עובד מנוע?",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "kzyv17-AJ9k",
+    "title": "World War II Part 1: Crash Course US History #35",
+    "score": 50
+  },
+  {
+    "id": "DWVOU9VZqyI",
+    "title": "Master Zotero Free Reference Manager in Minutes! | Beginners Guide Zotero",
+    "score": 50
+  },
+  {
+    "id": "Y8xhrUa3KH4",
+    "title": "How to Cell Reference in Excel",
+    "score": 50
+  },
+  {
+    "id": "7nO8iV1e2vg",
+    "title": "How To Draw Pikachu for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ySdXMv7PY6I",
+    "title": "How to draw Simple Scenery Art For Beginners",
+    "score": 50
+  },
+  {
+    "id": "AOlDXLhP9OU",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "How I paint a REALISTIC WAVE - Oil Painting Techniques!",
+    "score": 50
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "Easy Oil Painting Techniques EVERYONE Should Know! (Step by Step Oil Painting Tutorial)",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "YL4zlFrQfHg",
+    "title": "Oil Painting Techniques for Beginners, RISD Art Professor Demo, Part 1 of 2",
+    "score": 50
+  },
+  {
+    "id": "0h5WkOivWN8",
+    "title": "20 wood joints that will make woodworking more fun +Bonus",
+    "score": 50
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "9 Amazing Wood Joinery Techniques #woodworking #joints",
+    "score": 50
+  },
+  {
+    "id": "fdz_LDPcnIY",
+    "title": "10 Woodworking joints / Corner wood joining techniques",
+    "score": 50
+  },
+  {
+    "id": "qHfLOoDH1VY",
+    "title": "Which Joint Should You Use How To Choose The best Woodworking Joint",
+    "score": 50
+  },
+  {
+    "id": "Sg4GMVMdOPo",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "ITSMDeOgXxw",
+    "title": "Introduction to Python Full Course 2026",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "score": 50
+  },
+  {
+    "id": "GfWRxr1OBm4",
+    "title": "👩‍💻 Python for Beginners Tutorial",
+    "score": 50
+  },
+  {
+    "id": "t8pPdKYpowI",
+    "title": "Course Intro \\u0026 Course Overview",
+    "score": 50
+  },
+  {
+    "id": "i3l0crOwtMw",
+    "title": "How to start drawing (for beginners)",
+    "score": 50
+  },
+  {
+    "id": "UBx3QrR4hBo",
+    "title": "What Is Harvard Referencing? | Complete Beginner’s Guide",
+    "score": 50
+  },
+  {
+    "id": "c9oleVL1gQc",
+    "title": "Learn to Draw from a Photo Reference in Procreate®: Beginner's Drawing Tutorial",
+    "score": 50
+  },
+  {
+    "id": "O-hE-hVskto",
+    "title": "How to make a reference list for beginners",
+    "score": 50
+  },
+  {
+    "id": "eHPiDGffzpI",
+    "title": "How To Use LinkedIn Sales Navigator Search Filters To Find Decision Makers",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "p4Kflx2gVDg",
+    "title": "APA 7th Edition Beginners Guide | Free PDF Download",
+    "score": 50
+  },
+  {
+    "id": "YQy2QgeUeVc",
+    "title": "How to Cite and Reference in Research Papers and Journal Articles: 5 tips you need to cite",
+    "score": 50
+  },
+  {
+    "id": "-I_hfvpeN0g",
+    "title": "How to Cite and Reference Journal Articles",
+    "score": 50
+  },
+  {
+    "id": "7aMiZ3b0Ieg",
+    "title": "Dynamics - Lesson 1: Introduction and Constant Acceleration Equations",
+    "score": 50
+  },
+  {
+    "id": "6TQg96fFM0A",
+    "title": "My App Failed - My Brutal 6 Months Building a Startup",
+    "score": 50
+  },
+  {
+    "id": "g1WG4D0Aiek",
+    "title": "How to Build a Software Company From Scratch Solo",
+    "score": 50
+  },
+  {
+    "id": "ssYt09bCgUY",
+    "title": "How To Start A Dev Tools Company | Startup School",
+    "score": 50
+  },
+  {
+    "id": "GxmbQt6c0-U",
+    "title": "How to Start a Software House",
+    "score": 50
+  },
+  {
+    "id": "yVq04js6Ocw",
+    "title": "How To Fix A Whirlpool Washer That Is Making a Grinding Sound!  How to Replace the Washplate!",
+    "score": 50
+  },
+  {
+    "id": "uAcsfd5zD2I",
+    "title": "Whirlpool Refrigerator/Freezer - How to stop rattling",
+    "score": 50
+  },
+  {
+    "id": "bcekkh1WYvU",
+    "title": "How to Fix Refrigerator Making Rattling Noise When You Get Water",
+    "score": 50
+  },
+  {
+    "id": "i0_jLhGI81A",
+    "title": "How to Troubleshoot Rattling Sounds During Wash Cycle",
+    "score": 50
+  },
+  {
+    "id": "XQ8fy7SPotM",
+    "title": "MLA Works Cited and In text Citations tutorial",
+    "score": 50
+  },
+  {
+    "id": "ywxENdhYoXw",
+    "title": "Learn The Feedback Loop Every Consistent Trader Builds",
+    "score": 50
+  },
+  {
+    "id": "3netTh2pGTM",
+    "title": "The Baldi's Basics Iceberg Explained: An In-Depth Analysis",
+    "score": 50
+  },
+  {
+    "id": "LHoa8hIuv0I",
+    "title": "Simple Harvard Referencing Tutorial",
+    "score": 50
+  },
+  {
+    "id": "XpkL0y1PjF0",
+    "title": "Referencing | Part 2 - How to Find References (For FREE!)",
+    "score": 50
+  },
+  {
+    "id": "MLUgzrVk_4M",
+    "title": "How to format in-text citations and reference list entries...",
+    "score": 50
+  },
+  {
+    "id": "KbBx6hmzFk8",
+    "title": "Washer Makes Clicking Noise",
+    "score": 50
+  },
+  {
+    "id": "23a2e0Aw2cc",
+    "title": "Washer No Spin or Grinding Sound? Actuator Transmission Step by Step Guide to Fix or Replace",
+    "score": 50
+  },
+  {
+    "id": "LLp37rRuYiA",
+    "title": "The Cursed Notebook: Would You Dare to Make a Wish?",
+    "score": 50
+  },
+  {
+    "id": "VbuJtsrcqlo",
+    "title": "Auto Washing Machine Deep Cleaning / How to clean properly auto washing machine / Tub cleaning guide",
+    "score": 50
+  },
+  {
+    "id": "g3PjhIvREx4",
+    "title": "How to Lock Cells 🔒in Excel to Protect your Formulas \\u0026 Only Allow Input where Needed",
+    "score": 50
+  },
+  {
+    "id": "8ibe27Zuf0A",
+    "title": "How to Password Protect an Excel File",
+    "score": 50
+  },
+  {
+    "id": "0aDn2acYIMo",
+    "title": "How to Fit Text within a Single Cell in Excel! #excel",
+    "score": 50
+  },
+  {
+    "id": "sZMZN8y-lsw",
+    "title": "Databricks Free Edition Tutorial: Creating Compute Clusters \\u0026 Notebooks",
+    "score": 50
+  },
+  {
+    "id": "Ud9m1mbQGO8",
+    "title": "Learn How to make templates using Silhouette Studio Business Edition",
+    "score": 50
+  },
+  {
+    "id": "NJKLIeba0vA",
+    "title": "5 DEVS Make SILKSONG without COMMUNICATING!",
+    "score": 50
+  },
+  {
+    "id": "HO5BaDmyYhU",
+    "title": "make oc's with a wheel| family addition|👨‍👩‍👧‍👦|gacha|",
+    "score": 50
+  },
+  {
+    "id": "uGRhzvFkZsU",
+    "title": "5 DEVS Make a GAME without COMMUNICATING! (ant edition)",
+    "score": 50
+  },
+  {
+    "id": "nw3_9IE8WVw",
+    "title": "Fractal North XL BLACK Edition - ENDGAME Liquid Cooled PC Build",
+    "score": 50
+  },
+  {
+    "id": "d1cb1kQpnE8",
+    "title": "Baldi's New Vase 2023 Remake",
+    "score": 50
+  },
+  {
+    "id": "a5Pc56HJ8zg",
+    "title": "Baldi's New Vase 2025 Remake",
+    "score": 50
+  },
+  {
+    "id": "WkOdfjVxpRA",
+    "title": "Baldi’s New Vase 2025 Remake, but it’s 2018.",
+    "score": 50
+  },
+  {
+    "id": "IbGXv7bE-ts",
+    "title": "Configure burp suite with Firefox FoxyProxy | 2025 Guide",
+    "score": 50
+  },
+  {
+    "id": "yMRCqp2rpoc",
+    "title": "How to add Burp Suite PROXY SERVER in Firefox | Configure Burp-Suite with Firefox",
+    "score": 50
+  },
+  {
+    "id": "Vn_Zst6BMGo",
+    "title": "How to intercept HTTP requests and responses using Burp Suite",
+    "score": 50
+  },
+  {
+    "id": "24ttTzd3w1M",
+    "title": "how to setup Mobile app Traffic proxy with Burp Suite😳",
+    "score": 50
+  },
+  {
+    "id": "NDZKrpLqi0c",
+    "title": "How to Proxy Android Apps with Burp Suite Tutorial",
+    "score": 50
+  },
+  {
+    "id": "CUdXhgHrj8c",
+    "title": "Burpsuite Tutorials - Proxy Tab",
+    "score": 50
+  },
+  {
+    "id": "LffB3mcgZmA",
+    "title": "Http History",
+    "score": 50
+  },
+  {
+    "id": "P47xIEJRF_0",
+    "title": "Best Baby Carriers of 2025: Real Mom Reviews",
+    "score": 50
+  },
+  {
+    "id": "hJbzkwGkZ3E",
+    "title": "Insurance Companies: How they make money | Primerli",
+    "score": 50
+  },
+  {
+    "id": "SjtsgTqe4mk",
+    "title": "How Technology is Changing the Stale Insurance Industry  | Laura Drabik | TEDxSantaClaraUniversity",
+    "score": 50
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "xBNZL0dhUoo",
+    "title": "The wildlife photography !!",
+    "score": 10
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "zk1cb6iXMKM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "GzOGVBFXUGk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gyMEo7wA9y4",
+    "title": "The Atlantic Wall: Why Did Hitler's \\\"Greatest Fortification\\\" Fail?",
+    "score": 10
+  },
+  {
+    "id": "HUqy-OQvVtI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AUXIuYHFgBE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "Into the Abyss: Creatures of the Midwater (Full Movie)",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Introduction to the Deep Ocean",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "Unveiling the Ocean’s Deepest Trenches | Exploring the Mystical Ocean Cliffs",
+    "score": 10
+  },
+  {
+    "id": "XisZu8nEBs4",
+    "title": "The Greatest Mysteries of the Pacific Ocean | Drain the Oceans | MEGA EPISODE | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "_MmPHecEtFM",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Uncharted Depths | Discovering the World’s Deepest Ocean Trenches and Their Hidden Secrets",
+    "score": 10
+  },
+  {
+    "id": "myGGS1FBsk4",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "hXIxsrB8Adg",
+    "title": "Deep Sea Gigantism | Why the Ocean Breeds Giants",
+    "score": 10
+  },
+  {
+    "id": "t_S_cN2re4g",
+    "title": "This Discovery in the Mariana Trench Will Transform Geopolitics (4K)",
+    "score": 10
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "vrOQDW6yTFI",
+    "title": "If I started drawing TODAY, this is what I would do.",
+    "score": 10
+  },
+  {
+    "id": "ou7NitF6gkU",
+    "title": "draw a circle",
+    "score": 10
+  },
+  {
+    "id": "DN-7RsH2WWk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dPw8J2G7cqI",
+    "title": "Oil Painting Basics",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "z4emg283YC8",
+    "title": "Intro - Why we Practice Joinery it",
+    "score": 10
+  },
+  {
+    "id": "mLn_sfzMHqY",
+    "title": "EXTREME SIMPLE Traditional Japanese Wood Joinery - Hand Cut Three-Way Wood Joints Structure",
+    "score": 10
+  },
+  {
+    "id": "M0OlSnSXMxg",
+    "title": "5 Woodworking Joints For Beginners",
+    "score": 10
+  },
+  {
+    "id": "snjE9TF24dY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "22 Wood Joints Made with Hand Tools",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "pWohJHPdD8o",
+    "title": "Screw Joint",
+    "score": 10
+  },
+  {
+    "id": "v62jMY6-CqQ",
+    "title": "2x4 Woodworking Joints That Last for Beginners",
+    "score": 10
+  },
+  {
+    "id": "ri-EZaYhapo",
+    "title": "Making Strong Screw Joints",
+    "score": 10
+  },
+  {
+    "id": "10mBKHspeJU",
+    "title": "You're being misled about woodworking joinery",
+    "score": 10
+  },
+  {
+    "id": "j-jVst7CEMw",
+    "title": "I've needed this for a while",
+    "score": 10
+  },
+  {
+    "id": "TBrsCmi2ubE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ALfCeGPec90",
+    "title": "1. Best Miter Joints of 2024.",
+    "score": 10
+  },
+  {
+    "id": "UHBds0e29LQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pM16MHq_aEs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "9 HOURS of Python Projects - From Beginner to Advanced",
+    "score": 10
+  },
+  {
+    "id": "LzYNWme1W6Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yE9v9rt6ziw",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "f79MRyMsjrQ",
+    "title": "What is Python?",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8DvywoWv6fI",
+    "title": "Computers want to be helpful...",
+    "score": 10
+  },
+  {
+    "id": "eWRfhZUzrAc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wUSDVGivd-8",
+    "title": "Welcome",
+    "score": 10
+  },
+  {
+    "id": "fWjsdhR3z3c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pKpZ7GOc5GY",
+    "title": "Introduction to Python for Beginners",
+    "score": 10
+  },
+  {
+    "id": "9bBTuak5qqk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "hJ4tv5ptMUQ",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "5ZOsMe0aPt8",
+    "title": "MS Excel - Cell Reference",
+    "score": 10
+  },
+  {
+    "id": "zYMzE4xnjtc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "fPjOWekzeGI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "Clutch, How does it work?",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "eKUEZY3R3cI",
+    "title": "4 stroke combustion cycle",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "rmYITgk2xh8",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "How Does an Internal Combustion Engine Work?",
+    "score": 10
+  },
+  {
+    "id": "Y32gDgLq6hE",
+    "title": "Phase 1",
+    "score": 10
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "How a Steam Engine works",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "hGIk1BhuB7Q",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "KjiUUJdPGX0",
+    "title": "COMBUSTION CHAMBER",
+    "score": 10
+  },
+  {
+    "id": "_XmFuyLVv-I",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F-evEItWGEU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "HZTSMNzpMRE",
+    "title": "In-Text Citations Made Easy: APA 7th Edition Format",
+    "score": 10
+  },
+  {
+    "id": "iY4E-LKVa6I",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lZ9W0eUhX_Q",
+    "title": "What Is Dynamics",
+    "score": 10
+  },
+  {
+    "id": "iAMxWvyykRU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U9LW-BhTYMQ",
+    "title": "Introduction to System Dynamics Modeling",
+    "score": 10
+  },
+  {
+    "id": "Cb8BwCW2TCg",
+    "title": "Newton's First Law",
+    "score": 10
+  },
+  {
+    "id": "HlPyFmq3edw",
+    "title": "What is Dynamics 365?",
+    "score": 10
+  },
+  {
+    "id": "MizhVorgywY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-FvrON0OmYc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "g550H4e5FCY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "x1ef048b3CE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pw1PcHfYP2w",
+    "title": "How I Built a SaaS Startup (From Idea to Revenue)",
+    "score": 10
+  },
+  {
+    "id": "180KJQryGwc",
+    "title": "Starting my freight logistics company",
+    "score": 10
+  },
+  {
+    "id": "ZpKu2wvquWg",
+    "title": "Coming Up",
+    "score": 10
+  },
+  {
+    "id": "HNn9j3sD6S0",
+    "title": "Self-Assessment",
+    "score": 10
+  },
+  {
+    "id": "bNpx7gpSqbY",
+    "title": "5 Essential Elements that Lead to Success",
+    "score": 10
+  },
+  {
+    "id": "lxpaSlImFHk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-g4yISz0zGQ",
+    "title": "How I’d Start a Career in Software Engineering in 2026",
+    "score": 10
+  },
+  {
+    "id": "q4YBbyyu9mk",
+    "title": "AI layoffs and the hype cycle",
+    "score": 10
+  },
+  {
+    "id": "_6lMB7H_6O0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6QTUvK3njfs",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "F0PcSTB6r4c",
+    "title": "Intro about starting a software agency",
+    "score": 10
+  },
+  {
+    "id": "GXnsicG223c",
+    "title": "Intro and Overview",
+    "score": 10
+  },
+  {
+    "id": "Pydut1BMlBw",
+    "title": "The wild rise of OpenClaw...",
+    "score": 10
+  },
+  {
+    "id": "z1aKRhRnVNk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "FRu48zy-Djk",
+    "title": "RELATIVE REFERENCING",
+    "score": 10
+  },
+  {
+    "id": "Yx52CYvR5ao",
+    "title": "Use Absolute Cell References",
+    "score": 10
+  },
+  {
+    "id": "0HxBXO7eifI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iDg9s7BJ2m4",
+    "title": "Intro: Types of cell references",
+    "score": 10
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ShBTJrdioLo",
+    "title": "10 Excel Formula Symbols You Wish You Knew Years Ago",
+    "score": 10
+  },
+  {
+    "id": "WBuS4b2rujg",
+    "title": "Asterisk in Excel",
+    "score": 10
+  },
+  {
+    "id": "pIh0dzyz2bw",
+    "title": "Custom sidebar and other navigation tricks for Excel",
+    "score": 10
+  },
+  {
+    "id": "DZEPA9UhLBw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rHvwsYL9vhk",
+    "title": "IF Formula Simple",
+    "score": 10
+  },
+  {
+    "id": "lxq_46nY43g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LUpzq4t2nZs",
+    "title": "Cell Reference Basics in #Excel",
+    "score": 10
+  },
+  {
+    "id": "3ynFeqqhDO0",
+    "title": "Absolute and relative references for Tables in Excel | Excel Off The Grid",
+    "score": 10
+  },
+  {
+    "id": "CdAdaApvFcM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "tMQslI8sjgs",
+    "title": "Excel 365 Basics #1: What is Excel?, Formulas, Functions, Formatting, Cell References \\u0026 Page Setup",
+    "score": 10
+  },
+  {
+    "id": "IInFoJxxPPA",
+    "title": "1..Introduction",
+    "score": 10
+  },
+  {
+    "id": "k270MaDDfJo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "8XXoHeCWzgU",
+    "title": "Lock Structured References in Excel Tables (No More Formula Errors)",
+    "score": 10
+  },
+  {
+    "id": "Cm1LbkFDTrY",
+    "title": "The problem with Excel Tables",
+    "score": 10
+  },
+  {
+    "id": "4MVNjzsGokc",
+    "title": "Introduction to Excel reference styles (relative)",
+    "score": 10
+  },
+  {
+    "id": "fIGo0fk9pm4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_4LIyPNt4M8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VIWUWJbD8rc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "c_ZJLJK5PjM",
+    "title": "1..Introduction",
+    "score": 10
+  },
+  {
+    "id": "qo5N8wR3rz8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kne0LGPBFPE",
+    "title": "Whirlpool Washer Repair - Loud Noise During Spin Cycle - Basket - Diagnostic \\u0026 Troubleshooting",
+    "score": 10
+  },
+  {
+    "id": "x7npoRECVHc",
+    "title": "Refrigerator Making Noise - Top 7 Reasons \\u0026 Fixes - Kenmore, Whirlpool, Frigidaire, GE \\u0026 others",
+    "score": 10
+  },
+  {
+    "id": "Iql0n32wYC8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AYU47N5mTxA",
+    "title": "Intro \\u0026 Unplug Power from Dryer",
+    "score": 10
+  },
+  {
+    "id": "nX_xsPavfEA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N3NCrZEt4FM",
+    "title": "Remove the two 8mm bolts holding that piece on, set the plastic piece to the side.",
+    "score": 10
+  },
+  {
+    "id": "7YE5Ge757yM",
+    "title": "Easily Fix A Whirlpool/Maytag Dryer That Is Making Loud Noises!",
+    "score": 10
+  },
+  {
+    "id": "5BO5w9qavek",
+    "title": "Fix Refrigerator Rattling Noise - 7 Easy DIY Solutions",
+    "score": 10
+  },
+  {
+    "id": "Cc5GjhvVaN0",
+    "title": "Introduction \\u0026 Overview",
+    "score": 10
+  },
+  {
+    "id": "5hwA6rXdPeA",
+    "title": "Amana washing machine grinding noise resolved",
+    "score": 10
+  },
+  {
+    "id": "_1_LqpPRs9o",
+    "title": "💥LOUD Noisy Whirlpool Cabrio Dryer | Quick Teardown and Roller Repair | WED7000DW2🤪",
+    "score": 10
+  },
+  {
+    "id": "PMvDYnReWfc",
+    "title": "Whirlpool Washer Grinding Noise",
+    "score": 10
+  },
+  {
+    "id": "IwNkQNQI4IQ",
+    "title": "From America's No.1 Refrigerator Empire to Ruins: Whirlpool Plant, Evansville",
+    "score": 10
+  },
+  {
+    "id": "admyNwDQElU",
+    "title": "Explanation and tools Needed",
+    "score": 10
+  },
+  {
+    "id": "kesMEi0jc2k",
+    "title": "Fixing A Maytag/Whirlpool Washer That Is Making A Grinding Noise!",
+    "score": 10
+  },
+  {
+    "id": "2X5wyfemEoU",
+    "title": "REMOVE BELT",
+    "score": 10
+  },
+  {
+    "id": "OAfDlI-pItE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OVkUmDTM7aE",
+    "title": "Whirlpool Duet Washer Rattle",
+    "score": 10
+  },
+  {
+    "id": "9oDi1k_nIG4",
+    "title": "Noisy Refrigerator - Top 5 Fixes | Repair \\u0026 Replace",
+    "score": 10
+  },
+  {
+    "id": "E8sWROIVWbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R5igNRmKLug",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eygi6ScdNNc",
+    "title": "What is an in-text citation?",
+    "score": 10
+  },
+  {
+    "id": "RWZCXPoBo-k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pomi1Q-Un8s",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ypWxhhpGeyM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "LbyJdMz-Ato",
+    "title": "#2: No In-Text citation (Reference citation only)",
+    "score": 10
+  },
+  {
+    "id": "1sT8GpUqkcI",
+    "title": "Easy to Master",
+    "score": 10
+  },
+  {
+    "id": "0NdT4Y620nE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "oW0DdWTx298",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P0sI7SQ8Ja0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nnJTkwEnLik",
+    "title": "Reuben Solo - Feedback Loop (Full Comedy Special, 4K)",
+    "score": 10
+  },
+  {
+    "id": "inVZoI1AkC8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Iz0Q9nTZCw4",
+    "title": "Positive and Negative Feedback Loops",
+    "score": 10
+  },
+  {
+    "id": "CLv3SkF_Eag",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "R6_oe_QcHKc",
+    "title": "Overview of feedback control loops",
+    "score": 10
+  },
+  {
+    "id": "H4kbJObhcHw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_H2wvCpXMx4",
+    "title": "Be Brave",
+    "score": 10
+  },
+  {
+    "id": "CiSx_EcV6IA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pR12XGWcn0U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "9AMPGTStUTI",
+    "title": "Michio Kaku: Feedback loops are creating consciousness | Big Think",
+    "score": 10
+  },
+  {
+    "id": "UEGx96PMiOo",
+    "title": "Understanding Feedback Loops",
+    "score": 10
+  },
+  {
+    "id": "UiJFZKN0Ncs",
+    "title": "Absolute Beginners Introduction to Control Loops – Understanding Feedback, Regulation \\u0026 Stability",
+    "score": 10
+  },
+  {
+    "id": "HHel6Z-n2Aw",
+    "title": "Answer to riddle: Hidden feedback loop resolved",
+    "score": 10
+  },
+  {
+    "id": "_Xv7MtIWAdU",
+    "title": "The Inequality Feedback Loop - Barry's Economics",
+    "score": 10
+  },
+  {
+    "id": "hHlPQX9SxP0",
+    "title": "Endocrine System - Negative Feedback Loops EXPLAINED! (Thyroid Hormone)",
+    "score": 10
+  },
+  {
+    "id": "uGl-COO6XfI",
+    "title": "China's Feedback Loop Just Got Cut Off",
+    "score": 10
+  },
+  {
+    "id": "WY7SNKoCr3I",
+    "title": "Feedback loop",
+    "score": 10
+  },
+  {
+    "id": "yRd4SIree4o",
+    "title": "Elements of a Feedback Loop",
+    "score": 10
+  },
+  {
+    "id": "q_e6tNCW-uk",
+    "title": "What Is A Feedback Loop?",
+    "score": 10
+  },
+  {
+    "id": "-QTj1RwVeEs",
+    "title": "VHS Analog Feedback Loop",
+    "score": 10
+  },
+  {
+    "id": "Vi5hxnebtVk",
+    "title": "What is Feedback Loop | Explained in 2 min",
+    "score": 10
+  },
+  {
+    "id": "jKJgE3dnOmw",
+    "title": "Mark Manson on \\\"The Feedback Loop from Hell.\\\"",
+    "score": 10
+  },
+  {
+    "id": "QENRUsfzPvA",
+    "title": "What is feedback loop from hell?",
+    "score": 10
+  },
+  {
+    "id": "_tVxloCKJN0",
+    "title": "Positive Feedback Loop",
+    "score": 10
+  },
+  {
+    "id": "lJYra5eMo0k",
+    "title": "What Baldi's Basics Classic Remastered Hides from You",
+    "score": 10
+  },
+  {
+    "id": "lmFYrFpTU_c",
+    "title": "Did You Know That in Baldi's Basics Plus?? #4 #baldisbasics #baldi #didyouknow #baldi",
+    "score": 10
+  },
+  {
+    "id": "ZT6FfyTvIjs",
+    "title": "Everyone of Baldi's Basics Classics Remastered - ALL PERFECT!",
+    "score": 10
+  },
+  {
+    "id": "VvJ2GLt7cpU",
+    "title": "1 Classic Style - Baldi's Basics Classics Remastered",
+    "score": 10
+  },
+  {
+    "id": "h4a_oOyhxkA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "twLBaTAYD9Y",
+    "title": "Sans Multiverse Mode Madness: GODLY MODE.",
+    "score": 10
+  },
+  {
+    "id": "vtIBhjfi8kc",
+    "title": "Dave's Fun Algebraic Education V1.0 Demo Gameplay (Baldi's Basics Mod)",
+    "score": 10
+  },
+  {
+    "id": "3zvu-Ow37lY",
+    "title": "Warning",
+    "score": 10
+  },
+  {
+    "id": "g5fhQMV-4GM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cScLKy464Sk",
+    "title": "This Mod is So Epic, I Really Like It!! - Cuatro - Baldi's Basics Mod",
+    "score": 10
+  },
+  {
+    "id": "rQDKaCpSLLE",
+    "title": "SCP-173 \\\"THE SCULPTURE\\\" EXPERIENCE - SCP retroBreach",
+    "score": 10
+  },
+  {
+    "id": "adNGDuia77Q",
+    "title": "What Happens If You Keep Playing THIS Baldi's Basics Mod?",
+    "score": 10
+  },
+  {
+    "id": "FfhskHeLJmY",
+    "title": "🤯 I Played the You Vs Homer Update Leaks! (Keyboard ASMR)",
+    "score": 10
+  },
+  {
+    "id": "LWoJmr9KLOc",
+    "title": "I Am NULL! (And I have all his powers…)",
+    "score": 10
+  },
+  {
+    "id": "bO5_VDLAu4w",
+    "title": "I Finally Found The TRUTH About Baldi's IMPOSSIBLE QUESTION! | Baldi's Basics Remastered",
+    "score": 10
+  },
+  {
+    "id": "p74TBd7JLnA",
+    "title": "Baldi's Basics: All Characters Mechanics Explained | Remastered \\u0026 Plus",
+    "score": 10
+  },
+  {
+    "id": "8Ztq0XGjKvM",
+    "title": "Baldi",
+    "score": 10
+  },
+  {
+    "id": "3XXNGbQ0iCQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "YkIGN0ZfCFo",
+    "title": "Tails plays - BALDI'S BASICS CLASSIC REMASTERED !!!",
+    "score": 10
+  },
+  {
+    "id": "cOB699u1gYo",
+    "title": "Did You Know That in Baldi's Basics Classic Remastered?? #2",
+    "score": 10
+  },
+  {
+    "id": "dxHvGDIn6yo",
+    "title": "Dismissal Plus v0.10 Teaser/Intro",
+    "score": 10
+  },
+  {
+    "id": "1qKunOyxcw0",
+    "title": "BALDI.. REMASTERED.. YOU THOUGHT IT WAS OVER | Baldi's Unreal Basics",
+    "score": 10
+  },
+  {
+    "id": "fjxYmOa62kI",
+    "title": "6/ 7 Notebooks",
+    "score": 10
+  },
+  {
+    "id": "YBcL80PhhQ8",
+    "title": "1. Intro",
+    "score": 10
+  },
+  {
+    "id": "T5IIesEYqKQ",
+    "title": "Mini Animation",
+    "score": 10
+  },
+  {
+    "id": "u0rHGbo_HM0",
+    "title": "Baldi's Basics Classic Remastered FULL GAME",
+    "score": 10
+  },
+  {
+    "id": "VJZ4vIwmVZs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NujLJ5GmrI0",
+    "title": "Dismissal Plus v0.10 Teaser/Intro",
+    "score": 10
+  },
+  {
+    "id": "XqD878WCBcI",
+    "title": "Baldi's Basics Classic v1.0",
+    "score": 10
+  },
+  {
+    "id": "4zIZ92tbtqA",
+    "title": "I Found The FIRST PROTOTYPE of Baldi's Basics (and it was scarier...)",
+    "score": 10
+  },
+  {
+    "id": "F7geDBTrdGA",
+    "title": "Baldi Roasts Everyone?? #baldisbasics #baldi #animation #pghlfilms #art",
+    "score": 10
+  },
+  {
+    "id": "_6soSbt8v9M",
+    "title": "Baldi's GIANT Vase #baldi #baldisbasics #blender3d #animation #funny #cringe",
+    "score": 10
+  },
+  {
+    "id": "Elewvit3hFQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "2p4Bp59FbWc",
+    "title": "The lost version of Baldi's Basics... (v 0.3.9)",
+    "score": 10
+  },
+  {
+    "id": "-C97HalfmvI",
+    "title": "ALL Different Baldi Number Mods in Baldi's Basics! (Difficulty)",
+    "score": 10
+  },
+  {
+    "id": "IETmc0JPbi4",
+    "title": "where's baldi...?",
+    "score": 10
+  },
+  {
+    "id": "dhPJ3I_ajqc",
+    "title": "Playing As BALDI...",
+    "score": 10
+  },
+  {
+    "id": "mEUHZtDSS-g",
+    "title": "Baldi Is EXTREMELY MAD AT ME... | Baldi's Basics",
+    "score": 10
+  },
+  {
+    "id": "ox1N5500h8Y",
+    "title": "SUPER SLOW vs. SUPER SONIC Baldi! | Baldi's Basics",
+    "score": 10
+  },
+  {
+    "id": "mqFsGv3cpIo",
+    "title": "DO NOT Play This CURSED Baldi's Basics Mod!",
+    "score": 10
+  },
+  {
+    "id": "pxEa-lKTPrs",
+    "title": "I Met Joseph (he's real...)",
+    "score": 10
+  },
+  {
+    "id": "BG9-7n5mYfo",
+    "title": "10987654321 | Baldi's Basics MOD",
+    "score": 10
+  },
+  {
+    "id": "XMUqW7WhYqw",
+    "title": "Baldi Vs Papa Bear (Stick Nodes Animation) FULL FIGHT",
+    "score": 10
+  },
+  {
+    "id": "b2ZE-HkSRng",
+    "title": "Baby Baldi",
+    "score": 10
+  },
+  {
+    "id": "0M_WcSbKmGM",
+    "title": "THE LOST VERSION OF BALDI'S BASICS | 0.3.9",
+    "score": 10
+  },
+  {
+    "id": "wnJO7F5f3Sc",
+    "title": "Baldi's Basics But It Slowly Gets More SCARY...",
+    "score": 10
+  },
+  {
+    "id": "VoGloby7j9c",
+    "title": "Baldi's Basics Classic | All versions done with wrong answers!",
+    "score": 10
+  },
+  {
+    "id": "Ym_BQeu4NtY",
+    "title": "Baldi Vs. Joseph Is Real?? #baldisbasics #baldi #animation #pghlfilms",
+    "score": 10
+  },
+  {
+    "id": "G1nJgBImi5s",
+    "title": "SFM/BALDI BASICS~ ► Every Door by CG5 (feat. Caleb Hyles)  ll ANIMATED by MemeEver ll",
+    "score": 10
+  },
+  {
+    "id": "h8VPstCBG9M",
+    "title": "The Early Version - Baldi's basics decompiled mod",
+    "score": 10
+  },
+  {
+    "id": "DVheTntb_Gg",
+    "title": "The Baldi Roasts Trilogy?? #baldisbasics #baldi #pghlfilms",
+    "score": 10
+  },
+  {
+    "id": "82qh3NZA5AM",
+    "title": "1 Baldi Roasts Badsum",
+    "score": 10
+  },
+  {
+    "id": "MvWRU0G64Hg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "a0K8ki5FBd8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "hEpX-uC435w",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-V-zLpTxIWA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "CPfMxNxqkIw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_baVdcy6hH0",
+    "title": "Pop Culture References Part 1 | The Big Bang Theory",
+    "score": 10
+  },
+  {
+    "id": "3QtsTmVTHyQ",
+    "title": "What is referencing?",
+    "score": 10
+  },
+  {
+    "id": "qQ0iUeUxazM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vBDPLCk9lrc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lSvzYWBhl-0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "3lMUEziXJ-A",
+    "title": "Clicking Noise Maytag Washer HELP! MVWP475EW0",
+    "score": 10
+  },
+  {
+    "id": "wQ_k7KTbkxU",
+    "title": "Maytag washer actuator is clicking.  Need help",
+    "score": 10
+  },
+  {
+    "id": "nz3rZCGLOok",
+    "title": "Fixing A Whirlpool/Kenmore Washer That Will Not Either Agitate Or Spin!",
+    "score": 10
+  },
+  {
+    "id": "DX1WTMb9P5Q",
+    "title": "Miele W1 washing machine clicking noise when spooling up (brand new).",
+    "score": 10
+  },
+  {
+    "id": "b-J5JyGonSQ",
+    "title": "Whirlpool WTW4900 Washing Machine Clicking Fix Shift Actuator Installation",
+    "score": 10
+  },
+  {
+    "id": "O8WCJNlyN3Y",
+    "title": "Maytag Washer (MVWB765FW2)  Clicking  Troubleshooting",
+    "score": 10
+  },
+  {
+    "id": "1tpNMg8Gf90",
+    "title": "Maytag washer popping noise.",
+    "score": 10
+  },
+  {
+    "id": "5bPAbdYwI2Y",
+    "title": "Whirlpool Washer Loud clicking noise at end of spin cycle",
+    "score": 10
+  },
+  {
+    "id": "WSrZBpklIfw",
+    "title": "Maytag washing machine making banging noise on spin cycle",
+    "score": 10
+  },
+  {
+    "id": "b-o8ZWXU3Ww",
+    "title": "Whirlpool |Maytag washer not spinning | weird noise |rattle|clicking noise",
+    "score": 10
+  },
+  {
+    "id": "uwaKe_BlsqE",
+    "title": "Top-Load Washer Is Noisy — Washing Machine Troubleshooting",
+    "score": 10
+  },
+  {
+    "id": "j8rnvvdJaDU",
+    "title": "TopLoad Washer Is Noisy",
+    "score": 10
+  },
+  {
+    "id": "Rpuk0d1Wn5Y",
+    "title": "Making a Cursed Notebook Display Case",
+    "score": 10
+  },
+  {
+    "id": "amrKRZn2meE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0advD9AYu1o",
+    "title": "CURSED dandy's world shirts are getting OUT OF HAND 😭✌️",
+    "score": 10
+  },
+  {
+    "id": "FcoWCj_Zeqw",
+    "title": "Film Production 1  The Cursed Notebook",
+    "score": 10
+  },
+  {
+    "id": "Q-LJvYIYdNk",
+    "title": "The Cursed Notebook 1 | Horror Stories | Bedtime Stories",
+    "score": 10
+  },
+  {
+    "id": "Vf99FtlGu7w",
+    "title": "Cursed notebook",
+    "score": 10
+  },
+  {
+    "id": "9T6wcVAV0Wo",
+    "title": "\\\"I found a cursed notebook; Everyone who reads it Die... Paranormal Horror Stories Podcast",
+    "score": 10
+  },
+  {
+    "id": "v4-GymIqY9c",
+    "title": "Making a Cursed Notebook",
+    "score": 10
+  },
+  {
+    "id": "Hkr-7ejNwoI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "avlHQb_jdqg",
+    "title": "The Cursed Notebook",
+    "score": 10
+  },
+  {
+    "id": "rSrE6CntY9M",
+    "title": "Wish or Die: The Curse of the Forbidden Notebook",
+    "score": 10
+  },
+  {
+    "id": "IiRQP0i5yIA",
+    "title": "The Cursed Notebook",
+    "score": 10
+  },
+  {
+    "id": "lZI2kIuOdZU",
+    "title": "The Cursed Notebook That Writes Back | Creepy Horror Story 😱",
+    "score": 10
+  },
+  {
+    "id": "6hbG-u0KxHw",
+    "title": "Leonardo da Vinci’s notebook: The Codex Leicester",
+    "score": 10
+  },
+  {
+    "id": "ceyjczu1XpU",
+    "title": "Mike's Old Personal Notebooks III: Curse of the Notebooks",
+    "score": 10
+  },
+  {
+    "id": "2cZMdrhmFFo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Ue0feRxu3-8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eip9TBSuEO4",
+    "title": "👍Buy this Washer",
+    "score": 10
+  },
+  {
+    "id": "_rw4vJAkKS4",
+    "title": "Using the Washer and Dryer (Whirlpool front loading)",
+    "score": 10
+  },
+  {
+    "id": "wfIcZLSbI0I",
+    "title": "5 Best Portable Washing Machines 2026 - Top Mini Washers",
+    "score": 10
+  },
+  {
+    "id": "s3i_C7c-nQI",
+    "title": "How Does a Washing Machine Work? - 3D Animation",
+    "score": 10
+  },
+  {
+    "id": "cnxF1nxqqfU",
+    "title": "When Washing Machines Go Rogue Part 2",
+    "score": 10
+  },
+  {
+    "id": "9ycRKk9pfd4",
+    "title": "WASHING MACHINE HEART FUNK",
+    "score": 10
+  },
+  {
+    "id": "srBmZ-fyw_w",
+    "title": "Best Top Load Washing Machine 2026 | LG vs Samsung vs Haier vs IFB vs Whirlpool",
+    "score": 10
+  },
+  {
+    "id": "cQLjJX1hSns",
+    "title": "Step by step shortlist for top load washing machines",
+    "score": 10
+  },
+  {
+    "id": "TNwrzfowR5c",
+    "title": "Best Car Washer Under ₹5000🔥Best Car Washing Machine 2026 🚗 Best Washer For Car Cleaning at Home",
+    "score": 10
+  },
+  {
+    "id": "HbHANyXYQok",
+    "title": "Haier Washing Machine Price In Bangladesh 2025 | Semi Automatic Washing Machine | Washing Machine",
+    "score": 10
+  },
+  {
+    "id": "Rw52q3G9U1w",
+    "title": "Whirlpool White Magic Top Load Fully Automatic Washing Machine Function Explain Full Video 2026",
+    "score": 10
+  },
+  {
+    "id": "QjuaHz_erYg",
+    "title": "LG vs Samsung vs IFB Front Load Washing Machine Comparison⚡Best 8 kg Front Load washing Machine 2026",
+    "score": 10
+  },
+  {
+    "id": "WWxf-pxe61c",
+    "title": "lets do a small load in my new washing machine🥰🥰 #portable #washingmachine",
+    "score": 10
+  },
+  {
+    "id": "YzFIsBLNnpo",
+    "title": "Samsung WW90J5456FX washing machine || Mini jumps with top view",
+    "score": 10
+  },
+  {
+    "id": "rpsjWe1rlgM",
+    "title": "Mitski - Washing Machine Heart",
+    "score": 10
+  },
+  {
+    "id": "3vjkh-acmTE",
+    "title": "Are These Washing Machines The Future Of Laundry? #laundrydetergent #laundry #washingmachine #stain",
+    "score": 10
+  },
+  {
+    "id": "Cz2t210F1xY",
+    "title": "6 Hours of Washing Machine Sound with Rain | Relaxation \\u0026 Sleep Therapy | Dead Perspective",
+    "score": 10
+  },
+  {
+    "id": "DFBhbsXpiXE",
+    "title": "Sounds of a Washing Machine",
+    "score": 10
+  },
+  {
+    "id": "TLT-XPIHmMU",
+    "title": "Washing Machines You Should Never Buy in 2025!",
+    "score": 10
+  },
+  {
+    "id": "snsILuXNE3Q",
+    "title": "Toy Washing Machine Turns Black Slime into Sticky Green! | ASMR Slime Fun!",
+    "score": 10
+  },
+  {
+    "id": "k86AIzPl16o",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "6mSKsaquTAM",
+    "title": "Excel: Cell Basics",
+    "score": 10
+  },
+  {
+    "id": "DWseEDNkTHk",
+    "title": "Start a new line in the same cell in Excel",
+    "score": 10
+  },
+  {
+    "id": "9s0OdXiuqL0",
+    "title": "Intro: Why cell layout matters",
+    "score": 10
+  },
+  {
+    "id": "ng-Hrlua5wg",
+    "title": "Fit Long Text in One Cell: Wrap Text in Excel",
+    "score": 10
+  },
+  {
+    "id": "GhlbeRNit20",
+    "title": "Add multiple lines in one cell in #excel",
+    "score": 10
+  },
+  {
+    "id": "K_kyxxjqmKE",
+    "title": "Excel 365 Basics #1: What is Excel?, Formulas, Functions, Formatting, Cell References \\u0026 Page Setup",
+    "score": 10
+  },
+  {
+    "id": "kkCMhizc8Dw",
+    "title": "Merge Multiple Cells in Excel with ONE Shortcut – This Will Blow Your Mind! #ExcelHack #excel #trick",
+    "score": 10
+  },
+  {
+    "id": "TOHgGBy6tCk",
+    "title": "Excel: Formatting Cells",
+    "score": 10
+  },
+  {
+    "id": "etAMC0KRuBE",
+    "title": "Intro to formatting and workbook appearance",
+    "score": 10
+  },
+  {
+    "id": "yRjuDrmmAfQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BckR9RowC24",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "prek5-oIHJA",
+    "title": "My AD\\u0026D 2nd Edition Set Up and Character Creation Kit (Optional Rules, Allowed Kits, Books, \\u0026 More!)",
+    "score": 10
+  },
+  {
+    "id": "dsOIqnmBTb4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1eQo8oTbekc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Dckm1c41PPU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "q-BCetFJdx0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "v0KAgqjw9Fk",
+    "title": "Introduction to Databricks Free Edition Series",
+    "score": 10
+  },
+  {
+    "id": "-9AR31deh2o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "w9JfmXnYh8g",
+    "title": "I Made My DREAM Dinosaur GAME in 14 Days!",
+    "score": 10
+  },
+  {
+    "id": "_2kTEHxa44E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N488fpEhpso",
+    "title": "Making an oc with a wheel couples edition UvU",
+    "score": 10
+  },
+  {
+    "id": "FlJXfFwYUQs",
+    "title": "Hair Length",
+    "score": 10
+  },
+  {
+    "id": "XTDR_4VXbBI",
+    "title": "The RC Penalty Shot",
+    "score": 10
+  },
+  {
+    "id": "goEbdZ7aYqU",
+    "title": "Creating a New Transaction (Transactions - zipForm Edition)",
+    "score": 10
+  },
+  {
+    "id": "t92CeXbifSQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "nnY2pFbKpe0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QlvMceTZjjk",
+    "title": "Create Your own Story Bts Edition 🙈💀😜🔥@Misspookie-777 #kpop #kpopidol #korea#bts#방탄소년단",
+    "score": 10
+  },
+  {
+    "id": "jOwEs8FFUD8",
+    "title": "Create Your own Story Love Edition \\\"BTS x Skz\\\" 🙈😜🔥@Misspookie-777 #kpop #korea#school#skz",
+    "score": 10
+  },
+  {
+    "id": "Go2W5BWqh7s",
+    "title": "Skin Color",
+    "score": 10
+  },
+  {
+    "id": "TBsUHfIeDpo",
+    "title": "♪ BALDI'S BASICS THE MUSICAL - Animated Parody Song (Reanimated)",
+    "score": 10
+  },
+  {
+    "id": "JmFKEY5EgR0",
+    "title": "How each Baldi Characters would take Dr Reflex's test (Baldi Basic) (reanimated)",
+    "score": 10
+  },
+  {
+    "id": "mkm3mIcAzl8",
+    "title": "Baldi's basics opening but ANIMATED!",
+    "score": 10
+  },
+  {
+    "id": "MZQa7YrcYWU",
+    "title": "Baldi You're Mine, but with extra keyframes.",
+    "score": 10
+  },
+  {
+    "id": "vVFHQhhm08U",
+    "title": "Where's Baldi...?",
+    "score": 10
+  },
+  {
+    "id": "b_vZYi_iygQ",
+    "title": "BALDI.EXE HAS STOPPED WORKING | Baldi's Basics MOD",
+    "score": 10
+  },
+  {
+    "id": "f3t0gC5F9YA",
+    "title": "Starting Story Mode",
+    "score": 10
+  },
+  {
+    "id": "CKkRmEukyO8",
+    "title": "SONIC JAM | FNF Character Test | Gameplay VS Playground",
+    "score": 10
+  },
+  {
+    "id": "opE_ctAL5GQ",
+    "title": "10987654321 | Baldi's Basics MOD",
+    "score": 10
+  },
+  {
+    "id": "lttEF9yea78",
+    "title": "I Met Joseph (he's real...)",
+    "score": 10
+  },
+  {
+    "id": "qw8oJzEOkek",
+    "title": "Baldi Basics in Behavior, but with extra keyframes WIP. #baldibasics #pghlfilms",
+    "score": 10
+  },
+  {
+    "id": "t15w2NTb1YQ",
+    "title": "See My Campfire NOOOO!! (Baldi You're Mine) #baldisbasics #pghlfilms",
+    "score": 10
+  },
+  {
+    "id": "fjfFhtCTMkg",
+    "title": "\\\"That's What I Do\\\" - (reanimated collaboration video)",
+    "score": 10
+  },
+  {
+    "id": "v5Lh1T_spYE",
+    "title": "♪ BALDI'S BASICS THE MUSICAL - Animated Parody Song",
+    "score": 10
+  },
+  {
+    "id": "F6GL7GB_e2Y",
+    "title": "That's what i do! (Baldi Basics)",
+    "score": 10
+  },
+  {
+    "id": "mZo2Vor-YWQ",
+    "title": "The Beginning",
+    "score": 10
+  },
+  {
+    "id": "A9gSa9H0Ea4",
+    "title": "Baldi is disappointed in you. (Baldi You're Mine) #baldisbasics #pghlfilms #art #animation",
+    "score": 10
+  },
+  {
+    "id": "uGX-y10W_Xc",
+    "title": "Baldi Vs. Joseph Is Real?? #baldisbasics #baldi #animation #pghlfilms",
+    "score": 10
+  },
+  {
+    "id": "xTZzaVp8d7Y",
+    "title": "Baldi's GIANT Vase #baldi #baldisbasics #blender3d #animation #funny #cringe",
+    "score": 10
+  },
+  {
+    "id": "pm5EQbD8x7g",
+    "title": "main menu",
+    "score": 10
+  },
+  {
+    "id": "W_ig22hmaio",
+    "title": "Main Menu",
+    "score": 10
+  },
+  {
+    "id": "hOHzm1G6eEk",
+    "title": "Dorkus64 - Main Menu",
+    "score": 10
+  },
+  {
+    "id": "JwFiIUAa5Jg",
+    "title": "ENA: Dream BBQ OST - Main Menu Theme",
+    "score": 10
+  },
+  {
+    "id": "d8_fZedifX0",
+    "title": "Main Menu",
+    "score": 10
+  },
+  {
+    "id": "uzxBEuUbJ8M",
+    "title": "Main Menu - Wii Party Music Extended",
+    "score": 10
+  },
+  {
+    "id": "fC6qh3JqPvA",
+    "title": "Plants vs Zombies Soundtrack. [Main Menu]",
+    "score": 10
+  },
+  {
+    "id": "4w3VqzwJ1j4",
+    "title": "Wii Party Soundtrack - Main Menu Music",
+    "score": 10
+  },
+  {
+    "id": "fzepGtfHL9A",
+    "title": "David Levys - New Main Menu Theme (DOOM Eternal TAG P2 Gamerip) [Koma Archive Reupload]",
+    "score": 10
+  },
+  {
+    "id": "YRDpXeTcqNo",
+    "title": "Borderlands 3 Music - Main Menu (Night) [1 hour]",
+    "score": 10
+  },
+  {
+    "id": "9XdRs8QvlC8",
+    "title": "Mitta Ror - Sheesha (Lyrics) ft. Swara Verma",
+    "score": 10
+  },
+  {
+    "id": "9dwBX-93Luo",
+    "title": "[NEW] GTA 5 Mod Menu PC 2026 / Free Kiddions Cheat, Money Hack \\u0026 Online Mods (WORKING)",
+    "score": 10
+  },
+  {
+    "id": "aICE56FTb4I",
+    "title": "Pakistan Idol Episode 32 | Shazia Manzoor | “Main Neel Karaiyan”",
+    "score": 10
+  },
+  {
+    "id": "E0jCcWtrHe8",
+    "title": "Main Menu",
+    "score": 10
+  },
+  {
+    "id": "THaXuGqTh_8",
+    "title": "Main Menu",
+    "score": 10
+  },
+  {
+    "id": "ZKCddSqdmhc",
+    "title": "Getting The Main Menu",
+    "score": 10
+  },
+  {
+    "id": "ic0eezam8Xk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Nr2fYpStshA",
+    "title": "Intercept HTTP traffic with Burp Proxy",
+    "score": 10
+  },
+  {
+    "id": "TNcUrFyZrKs",
+    "title": "Burp Suite Proxy Intercept",
+    "score": 10
+  },
+  {
+    "id": "dxWmEkerM7g",
+    "title": "Burp Suite",
+    "score": 10
+  },
+  {
+    "id": "dZTwKFbMvRc",
+    "title": "Burpsuite proxy browser and App Interception",
+    "score": 10
+  },
+  {
+    "id": "0CIpMDJmPpc",
+    "title": "... traffic from an Android phone using Burp \"},{\"text\":\"Suite\",\"bold\":true},{\"text\":\" ...",
+    "score": 10
+  },
+  {
+    "id": "VtksE4wD7eY",
+    "title": "Web Application Hacking with Burp Suite - The Proxy and Repeater Module",
+    "score": 10
+  },
+  {
+    "id": "LJoipFD-hEI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bHL2-k9BFrM",
+    "title": "Why has the Proxy module of my Burp Suite tool disappeared?",
+    "score": 10
+  },
+  {
+    "id": "ouDe5sJ_uC8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_nPy5MhtNk0",
+    "title": "set up our proxy listener",
+    "score": 10
+  },
+  {
+    "id": "ipnPrfLkvKw",
+    "title": "Proxying Android Traffic through Burp Suite (incl credential fuzzing \\u0026 IDORs)",
+    "score": 10
+  },
+  {
+    "id": "klklh5IvrBg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mZDssPq4t1s",
+    "title": "Best Affordable High Chair: IKEA Antilop",
+    "score": 10
+  },
+  {
+    "id": "Pf_7X1prwCs",
+    "title": "Best Pregnancy Pillow: Momcozy U-Shaped",
+    "score": 10
+  },
+  {
+    "id": "IIcuAo2NBy0",
+    "title": "Best Wearable Breast Pump: Momcozy S12 Pro",
+    "score": 10
+  },
+  {
+    "id": "RFTYQvWXpr4",
+    "title": "Best Overall Stroller: Mockingbird Single-to-Double Stroller 2.0",
+    "score": 10
+  },
+  {
+    "id": "NMLsn1BNBYk",
+    "title": "39 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "hAR_fXXM2VQ",
+    "title": "6 Things NOT to Expect From Therapy",
+    "score": 10
+  },
+  {
+    "id": "eRINXMPB3oU",
+    "title": "What to Expect and What NOT to Expect in Hospice",
+    "score": 10
+  },
+  {
+    "id": "isH7C6vhIbs",
+    "title": "What To Expect at Your First Prenatal Visit",
+    "score": 10
+  },
+  {
+    "id": "2ghr0ZEPGT0",
+    "title": "What to Expect During Your First Therapy Session | Kati Morton",
+    "score": 10
+  },
+  {
+    "id": "HIKGLnQTNPQ",
+    "title": "CT-Scan: What to Expect",
+    "score": 10
+  },
+  {
+    "id": "PRWMmzTkfTE",
+    "title": "What to Expect When You're Having Inpatient Surgery at Duke | Duke Health",
+    "score": 10
+  },
+  {
+    "id": "xnet3zShc2Y",
+    "title": "6 Weeks on Testosterone - What to Expect from TRT at 6 Weeks",
+    "score": 10
+  },
+  {
+    "id": "z4ekUFuR6h8",
+    "title": "OBGYN + Pediatrician Share Postpartum: What to Expect the 1st 24 Hours After Birth for Mom \\u0026 Baby",
+    "score": 10
+  },
+  {
+    "id": "XTzkECmoX8U",
+    "title": "35 Weeks Pregnant | What to Expect at 35 Weeks in Months",
+    "score": 10
+  },
+  {
+    "id": "QoiVIAiFItU",
+    "title": "What to expect from a therapy session | Alexis Powell-Howard | TEDxPatras",
+    "score": 10
+  },
+  {
+    "id": "K-HFYSjPlGY",
+    "title": "25 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "azFEJq6vn6g",
+    "title": "31 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "asA9iJHSKoo",
+    "title": "Five-Month-Old Baby - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "EmVnhRfiVZE",
+    "title": "32 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "IaO8jfqQ9Uk",
+    "title": "29 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "_z30M4Oom3o",
+    "title": "26 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "b8LGk5tun7Q",
+    "title": "37 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "4ClbLnoG9b0",
+    "title": "35 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "da5_oycSYuE",
+    "title": "21 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "-u5Di3lcA8A",
+    "title": "24 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "F00k_m7_lfw",
+    "title": "20 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "XLyo343qyQs",
+    "title": "22 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "uD8jMRpI6M4",
+    "title": "33 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "scVffR9MiLU",
+    "title": "38 Weeks Pregnant - What to Expect",
+    "score": 10
+  },
+  {
+    "id": "o93ZYxdr9kU",
+    "title": "What to expect in your Second Trimester of pregnancy | Pregnancy Week-by-Week",
+    "score": 10
+  },
+  {
+    "id": "IPj4dJnP85o",
+    "title": "13 weeks (Topics covered: Fetal development—including limb development, fetus peeing urine into amniotic fluid and developing fingerprints, weight gain in second trimester , rhinitis of pregnancy, cold medications, sleeping positions, body pillows)",
+    "score": 10
+  },
+  {
+    "id": "zxY6Xtp_ocU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "jaWxknkzLGo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qjXgpJpSlCc",
+    "title": "What Is Insurance",
+    "score": 10
+  },
+  {
+    "id": "AHBiWGGmClU",
+    "title": "5. Insurance, the Archetypal Risk Management Institution, its Opportunities and Vulnerabilities",
+    "score": 10
+  },
+  {
+    "id": "qfK9rCDCicE",
+    "title": "What US Insurance Companies Aren’t Telling You | Informer",
+    "score": 10
+  },
+  {
+    "id": "JGmsu9rwHq8",
+    "title": "Warren Buffett's Masterclass on How Insurance Industry Works",
+    "score": 10
+  },
+  {
+    "id": "kMLRiR3IQ1o",
+    "title": "Patrick Bet-David Gives Great Advice To  New Insurance Agents!",
+    "score": 10
+  },
+  {
+    "id": "muksUxnCw6A",
+    "title": "How Does Insurance Work?",
+    "score": 10
+  },
+  {
+    "id": "3ctoSEQsY54",
+    "title": "Insurance Industry Overview - Introduction",
+    "score": 10
+  },
+  {
+    "id": "lVmKZMsYL6E",
+    "title": "The 22-Year-Old Dominating The Insurance Industry (Ep. 243)",
+    "score": 10
+  },
+  {
+    "id": "uodGYeQi8Gc",
+    "title": "Two Years Later: Massive Growth",
+    "score": 10
+  },
+  {
+    "id": "4H9hQRAMhdo",
+    "title": "What Happens When Home Insurance Companies Run Out Of Cash",
+    "score": 10
+  },
+  {
+    "id": "klEgakT56c0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sgTZGMLMUCk",
+    "title": "30 Years of Business Knowledge in 2hrs 26mins",
+    "score": 10
+  },
+  {
+    "id": "9VlvbpXwLJs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "A9Xq3FGjpZA",
+    "title": "Taxes",
+    "score": 10
+  },
+  {
+    "id": "yHGRBTZI6w0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0XeVLoW4lug",
+    "title": "The Management of Risks in the Insurance Sector. Risk and Risk Management in the Insurance Industry",
+    "score": 10
+  },
+  {
+    "id": "fMQ-FyMCtoM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "LEcpS6pX9kY",
+    "title": "THE HIGHEST CARNING INSURANCE COMPANY IN THE WORLD IS METUFE INC",
+    "score": 10
+  },
+  {
+    "id": "Em4r9QBy3rM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "fZtXYXBEIn4",
+    "title": "How AI Is Transforming the Insurance Industry | Interview with former CIO",
+    "score": 10
+  },
+  {
+    "id": "vfNlDkOtg3s",
+    "title": "How AI Will Disrupt The Health Insurance Industry",
+    "score": 10
+  },
+  {
+    "id": "OuZw3B7PJI4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "j_L558udsrc",
+    "title": "Sam Donald Aerials cover",
+    "score": 10
+  },
+  {
+    "id": "RoTJydBNoYs",
+    "title": "System Shock Cover Album",
+    "score": 10
+  },
+  {
+    "id": "OlPnT0fLWRU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ru4aqzjvplw",
+    "title": "Folk Pop Twins Cover System Of A Down On The Spot (Ft. Fionn)",
+    "score": 10
+  },
+  {
+    "id": "MG_cdpEMDKE",
+    "title": "The Intro",
+    "score": 10
+  },
+  {
+    "id": "LEZJEs_q1ZY",
+    "title": "Aerials - System Of A Down Cover",
+    "score": 10
+  },
+  {
+    "id": "984m-So__WM",
+    "title": "Acoustix Sessions : SYSTEM OF A DOWN",
+    "score": 10
+  },
+  {
+    "id": "Ce4rHZo3mAs",
+    "title": "I-E-A-I-A-I-O",
+    "score": 10
+  },
+  {
+    "id": "omqKZ3VSmTc",
+    "title": "System of a down Brasileiro na Av Paulista/SP - ATWA (cover)",
+    "score": 10
+  },
+  {
+    "id": "jmCiIj0LqoY",
+    "title": "Love System - Agata (Szpont Party Cover 2026)",
+    "score": 10
+  },
+  {
+    "id": "aqLGaUGOiC4",
+    "title": "Billy Idol - Rebel Yell (cover by Sershen\\u0026Zaritskaya feat. Kim and Shturmak)",
+    "score": 10
+  },
+  {
+    "id": "I570GAN6t5U",
+    "title": "Aerials – System Of A Down | Cover by Ayla Chan (Hard Version)",
+    "score": 10
+  },
+  {
+    "id": "C-wdnfX0MoY",
+    "title": "Disco-Daddy Funk Band Covers Alice In Chains On The Spot (Ft. The Free Label)",
+    "score": 10
+  },
+  {
+    "id": "gme17T5WQNM",
+    "title": "The Intro",
+    "score": 10
+  },
+  {
+    "id": "K1EYqcs0qnc",
+    "title": "System Of A Down - Chop Suey! (lyrics)",
+    "score": 10
+  },
+  {
+    "id": "DOckYuS32iY",
+    "title": "Top 10 Cover Songs Hated By the Original Artist",
+    "score": 10
+  },
+  {
+    "id": "_HWdFlDtgKE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3jVb4RjEycM",
+    "title": "Linkin Park - Numb (Violet Orlandi cover)",
+    "score": 10
+  },
+  {
+    "id": "KwcLMF5e5-4",
+    "title": "\\\"One\\\" - Metallica (Cover by First to Eleven)",
+    "score": 10
+  },
+  {
+    "id": "GPIJTGSy4Ts",
+    "title": "System of a Down - Toxicity Cover by @Halocene , @laurenbabic , @VioletOrlandi",
+    "score": 10
+  },
+  {
+    "id": "Y8liMsWDC80",
+    "title": "System of a Down - Chop Suey Cover by @Halocene , @laurenbabic , @VioletOrlandi",
+    "score": 10
+  },
+  {
+    "id": "vUpcCN_PWYw",
+    "title": "School of Rock students perform \\\"Toxicity” by System Of A Down",
+    "score": 10
+  },
+  {
+    "id": "a1pjjfoSCQU",
+    "title": "System Of A Down - B.Y.O.B. (Acoustic Cover)",
+    "score": 10
+  },
+  {
+    "id": "9YQPces49xE",
+    "title": "LONELY DAY - System Of A Down (acoustic cover)",
+    "score": 10
+  },
+  {
+    "id": "JC4QDEtVkSc",
+    "title": "System of a Down - Aerials - Cover by @Halocene, @laurenbabic, @VioletOrlandi",
+    "score": 10
+  },
+  {
+    "id": "a2ieONOQtfU",
+    "title": "Chevelle - Family System (Guitar Cover)",
+    "score": 10
+  },
+  {
+    "id": "2_BYs4uJ150",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,2832 @@
-[]
+[
+  {
+    "id": "59Zp5QILA1k",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך פייתון למתחילים בעברית",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "dictionaries שיעור פייתון - #7 - מילונים",
+    "score": 110
+  },
+  {
+    "id": "Jzkq5o96qow",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "8oOPXlfXyTE",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "קורס פייתון מלא למתחילים",
+    "score": 110
+  },
+  {
+    "id": "UNtCXPKcuNY",
+    "title": "מתכון  ללחם מחמצת עם כל ההסברים והסודות",
+    "score": 110
+  },
+  {
+    "id": "cXZcd5PiZtA",
+    "title": "פתיחה",
+    "score": 60
+  },
+  {
+    "id": "oXzPqxrynzY",
+    "title": "שמשון מאור חידוש שיפוץ מזנון ישן בן 100 שנה בשיטות מסורתיות, פוליטורה",
+    "score": 60
+  },
+  {
+    "id": "K2wPt2FnlnQ",
+    "title": "רוני טהור - אומנית חידוש רהיטים. תצאו בחוץ. המרכז לתקשורת רחובות",
+    "score": 60
+  },
+  {
+    "id": "1zt-wNRuwaU",
+    "title": "שיקום \\\"אשפה לאוצר\\\" | שיקום רהיטים",
+    "score": 60
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "החייאת שידה נשכחת מעליית גג נטושה | שחזור רהיטים בסגנון אר דקו",
+    "score": 60
+  },
+  {
+    "id": "6UDum8diOfg",
+    "title": "שמשון מאור חידוש שיפוץ רהיטים ישנים רהיטים חידוש  עתיקים רסטורציה פוליטורה בשיטות מסורתיות",
+    "score": 60
+  },
+  {
+    "id": "dZEybM1x_VA",
+    "title": "שיפוץ הרהיטים הכי גדול שלי... ארון תרופות מלוכלך",
+    "score": 60
+  },
+  {
+    "id": "uCATRNZY7TM",
+    "title": "שיפוץ רהיטים-לשדרג כיסא ישן",
+    "score": 60
+  },
+  {
+    "id": "W7hujH_fGTg",
+    "title": "סדנת שיפוץ רהיטים בדנדש - תכנית חיסכון",
+    "score": 60
+  },
+  {
+    "id": "Ta4AB09EM7U",
+    "title": "שיפוץ רהיטים ויצירת אדנית הולנדית",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "C# תכנות למתחילים",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "פייתון - מחלקה, Class",
+    "score": 60
+  },
+  {
+    "id": "4QkfcyqyTkY",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "מנורת לבה מסוכרזית",
+    "score": 60
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "איך להכין שקית מתפוצצת",
+    "score": 60
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "ניסוי הר געש מתפרץ !  | ניסויים מדעיים עם ילדים | רפאל המטייל ויאנצ'יקס | ניסוי מדעי",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "גלידה ביתית ב-10 דקות בעזרת קילו מלח",
+    "score": 60
+  },
+  {
+    "id": "N8pKJ6calYw",
+    "title": "איך להוריד גשם צבעוני בכוס?",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "עיצוב כיכר לחם מחמצת מתוך סדנה - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "ssPg5k4UhVQ",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "y-vtJrirvX0",
+    "title": "לחם מחמצת לבן למתחילים",
+    "score": 60
+  },
+  {
+    "id": "yh7tO-xrswE",
+    "title": "4 מרכיבים! בלי ללוש לחם! כל אחד יכול להכין את הלחם הביתי הזה!",
+    "score": 60
+  },
+  {
+    "id": "EshwlLrGvFY",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "ZQvfHyfgBtA",
+    "title": "איך פועל מנוע רכב",
+    "score": 60
+  },
+  {
+    "id": "eXnejLCqf5I",
+    "title": "מנוע הרכב - היכרות מכלול המנוע, מבנה ועקרון פעולה - טיפים עם ליאור ציפורי",
+    "score": 60
+  },
+  {
+    "id": "o1rUt5A-yhc",
+    "title": "כך פועל המנוע",
+    "score": 60
+  },
+  {
+    "id": "75wHPQSbEBM",
+    "title": "איך מטפלים ברכב שלנו בעצמנו?🚗 | אופיר עושה זאת בעצמו",
+    "score": 60
+  },
+  {
+    "id": "OvAUGUY7W9Y",
+    "title": "איך מבריקים פנסים",
+    "score": 60
+  },
+  {
+    "id": "cvV-L_0Lpuk",
+    "title": "Can you paint kitchen cabinets without sanding or priming? How to paint cabinets. Cabinet painting.",
+    "score": 50
+  },
+  {
+    "id": "Jfk4_BsNn1g",
+    "title": "The Entire History of Physics Explained — From Aristotle to Quantum Reality",
+    "score": 50
+  },
+  {
+    "id": "z_PlyQAWT4g",
+    "title": "Genius Inventions: Technical Marvels That Will Shape Tomorrow | Full Series | FD Engineering",
+    "score": 50
+  },
+  {
+    "id": "t_S_cN2re4g",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "1.python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "f0RX4rYySh8",
+    "title": "Harvard CS50’s Introduction to Programming with Python – Full University Course",
+    "score": 50
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Tutorial: Starting a New Project | Lesson 1",
+    "score": 50
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "qbkpW5YZl_Q",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "32lBziqEa6o",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "bpN1r6JSR0M",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "Bake the Perfect Sourdough Bread: A Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "The BEST Beginner Sourdough Bread Tutorial on YouTube",
+    "score": 50
+  },
+  {
+    "id": "Vb1Am5uD3ss",
+    "title": "Wholemeal sourdough bread made from rye flour - quick and easy to make!",
+    "score": 50
+  },
+  {
+    "id": "lieJwZX_T8E",
+    "title": "How to Use LinkedIn Search Filters: Find Leads Faster in 2026",
+    "score": 50
+  },
+  {
+    "id": "xQUaoteTShM",
+    "title": "MODERN FILTERS AND SEARCH BAR using NATIVE VISUALS in Power BI // Step by Step Guide",
+    "score": 50
+  },
+  {
+    "id": "SluGwYdXiHY",
+    "title": "How To Implement Anomaly Detection Using Python? - Next LVL Programming",
+    "score": 50
+  },
+  {
+    "id": "c1mUAO5y5sQ",
+    "title": "Complete Anomaly Detection Tutorials Machine Learning And Its Types With Implementation | Krish Naik",
+    "score": 50
+  },
+  {
+    "id": "nKG1kBXMCnI",
+    "title": "TYLER MALEK HEAD ICE CREAM MAKER, SALT \\u0026 STRAW",
+    "score": 50
+  },
+  {
+    "id": "Ra_BBJSJuuQ",
+    "title": "ESPRESSO COURSE",
+    "score": 50
+  },
+  {
+    "id": "49-rO57KRTA",
+    "title": "Lecture 28: EMI Filters, Part 1",
+    "score": 50
+  },
+  {
+    "id": "j7zia3dnRXw",
+    "title": "Lecture 30: EMI Filters, Part 3: CM + DM",
+    "score": 50
+  },
+  {
+    "id": "lnULcCPOs34",
+    "title": "Evolution of NVIDIA Tech Demos 1998-2026",
+    "score": 50
+  },
+  {
+    "id": "ExEViJ5RcSI",
+    "title": "BENCHMARKING in C++ (how to measure performance)",
+    "score": 50
+  },
+  {
+    "id": "7RK_rN1gOqw",
+    "title": "What is a \"},{\"text\":\"benchmark\",\"bold\":true},{\"text\":\"? What is \"},{\"text\":\"benchmarking\",\"bold\":true},{\"text\":\"? How to ...",
+    "score": 50
+  },
+  {
+    "id": "S9iJlfVMstA",
+    "title": "GREATEST GOAL IN AFL HISTORY (AUS + GLOBAL SUBS)",
+    "score": 50
+  },
+  {
+    "id": "RCjQVCgFsV4",
+    "title": "8 Ruthless Lessons That Make You Dangerously Smart – Machiavelli",
+    "score": 50
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "How To Use Search Filters In X (Twitter) (Updated)",
+    "score": 50
+  },
+  {
+    "id": "0p8o3uj96Uc",
+    "title": "Faculty's R\\u0026D team focuses on technical Al safety relevant for models deployed today",
+    "score": 50
+  },
+  {
+    "id": "LA4L6GwnarY",
+    "title": "Cluster Analysis and Anomaly Detection",
+    "score": 50
+  },
+  {
+    "id": "U1WM3ALwQX8",
+    "title": "How I’d Teach a 10 Year Old to Build Agentic Workflows (Claude Code)",
+    "score": 50
+  },
+  {
+    "id": "AkGGFKuT6Cs",
+    "title": "If I Started Investing in 2026, This Is What I Would Do (Full Beginner’s Guide)",
+    "score": 50
+  },
+  {
+    "id": "RG5fXpfiUL0",
+    "title": "How To Use Jira Search (Full 2025 Guide)",
+    "score": 50
+  },
+  {
+    "id": "bkau6HJuZZ4",
+    "title": "How to use JQL to search text-based fields | Jira Software tutorial",
+    "score": 50
+  },
+  {
+    "id": "mnuifm8DROs",
+    "title": "How To Access Jql Searches",
+    "score": 50
+  },
+  {
+    "id": "RdUeaddCOdU",
+    "title": "How to use Advanced Search in JQL JIRA | JIRA Tutorial | ITlearn360",
+    "score": 50
+  },
+  {
+    "id": "wmAS-oGJ7dU",
+    "title": "Quickly find things in Jira - a guide to Search and Filters",
+    "score": 50
+  },
+  {
+    "id": "sEL2Ey038VM",
+    "title": "How to create Smart Filter in JIRA (Simple Search Setup)",
+    "score": 50
+  },
+  {
+    "id": "b-vcMIgnO7s",
+    "title": "How to write a JQL query in Jira | Jira Software tutorial",
+    "score": 50
+  },
+  {
+    "id": "3QAuueP947k",
+    "title": "Introduction to JQL: A beginner's guide to more advanced Jira filters",
+    "score": 50
+  },
+  {
+    "id": "p33AEbjb7FI",
+    "title": "How to Use Jira Filters for Beginners (Basic Search \\u0026 JQL Explained)",
+    "score": 50
+  },
+  {
+    "id": "1FOfL6bDSF4",
+    "title": "How To Get Ancestors Module And Its Issues | The First Descendant",
+    "score": 50
+  },
+  {
+    "id": "3U6PSWyv5sc",
+    "title": "Get Your Game On! Yu-Gi-Oh GX Intro FULL Version [xthedarkone | Feat. Re:Make]",
+    "score": 50
+  },
+  {
+    "id": "TvYXWNh1VyA",
+    "title": "How to Activate Your FLEX-series SPYPOINT Trail Camera | Trail Cameras | SPYPOINT",
+    "score": 50
+  },
+  {
+    "id": "nRoxiHzL7HY",
+    "title": "Elena Sharova- How to Validate you Client Churn Model | PyData London 2019",
+    "score": 50
+  },
+  {
+    "id": "NoOW3Ca0vPM",
+    "title": "How to Stop Bleeding from an Immediate Injury | In Case of Emergency | Mass General Brigham",
+    "score": 50
+  },
+  {
+    "id": "mhBe7Q6mH3U",
+    "title": "How to use Direct Pressure to Control Life-Threatening Bleeding",
+    "score": 50
+  },
+  {
+    "id": "YJB3fI3T1oo",
+    "title": "How To STOP THE BLEED® | ACS",
+    "score": 50
+  },
+  {
+    "id": "7LEqWoK_aS0",
+    "title": "How to Control \\u0026 Stop Bleeding in an Emergency | In Case of Emergency | Mass General Brigham",
+    "score": 50
+  },
+  {
+    "id": "EpnFAU7zakU",
+    "title": "Heavy Menstrual Bleeding | Causes, History, Examination, Investigations, Treatment | Gynecology",
+    "score": 50
+  },
+  {
+    "id": "sivyBS6d3oI",
+    "title": "A history of violence",
+    "score": 50
+  },
+  {
+    "id": "uJ8scRPehk4",
+    "title": "Early Vulcan History",
+    "score": 50
+  },
+  {
+    "id": "DtYn7fixWcw",
+    "title": "CAN YOU REALLY",
+    "score": 10
+  },
+  {
+    "id": "pzidLTeRKdQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yej5ztTDacI",
+    "title": "ALL OF PHYSICS explained in 14 Minutes",
+    "score": 10
+  },
+  {
+    "id": "ZAqIoDhornk",
+    "title": "Classical Mechanics",
+    "score": 10
+  },
+  {
+    "id": "SGUMC19IISY",
+    "title": "But What Actually Is a Particle? How Quantum Fields Shape Reality",
+    "score": 10
+  },
+  {
+    "id": "KLIS4lq1mBE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "npYo7ee_fr0",
+    "title": "Why can't you walk through walls? The Pauli Exclusion Principle Explained",
+    "score": 10
+  },
+  {
+    "id": "vjDvBP5IU-4",
+    "title": "Physicist Brian Cox explains quantum physics in 22 minutes",
+    "score": 10
+  },
+  {
+    "id": "BHEhxPuMmQI",
+    "title": "The subatomic world",
+    "score": 10
+  },
+  {
+    "id": "KdEZ-GOgZ3s",
+    "title": "The Biggest Misconception in Physics",
+    "score": 10
+  },
+  {
+    "id": "lcjdwSY2AzM",
+    "title": "What is symmetry?",
+    "score": 10
+  },
+  {
+    "id": "oKKSC9V2ETI",
+    "title": "How Physicists Proved Everything is Quantum - Nobel Physics Prize 2025 Explained",
+    "score": 10
+  },
+  {
+    "id": "_mVBbdbqHmw",
+    "title": "Nobel Prize 2025: Proving Size Doesn't Matter",
+    "score": 10
+  },
+  {
+    "id": "2WPA1L9uJqo",
+    "title": "The Schrodinger Equation",
+    "score": 10
+  },
+  {
+    "id": "b1t41Q3xRM8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mYcLuWHzfmE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9aTTC4DInDw",
+    "title": "The Most Misunderstood Concept in Physics",
+    "score": 10
+  },
+  {
+    "id": "DxL2HoqLbyA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NVlEQlz6n1k",
+    "title": "Energy Cannot Be Created or Destroyed. But Why?",
+    "score": 10
+  },
+  {
+    "id": "5DmLaNYBoWo",
+    "title": "The Dirac Equation: The Most Important Equation You’ve Never Heard Of",
+    "score": 10
+  },
+  {
+    "id": "upX1MmQwGBU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "7RcIMG_zleU",
+    "title": "Battle Tank Powerpack Overhaul | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "Fsj8X712aOw",
+    "title": "Colossal Shiploader Overhaul | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "3yForRqB2fA",
+    "title": "Bridges That Defined Modern Engineering | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "CF2YDfQgnVg",
+    "title": "Massive Power Station Valve Replacement | Mega Maintenance | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "2k1wkMwtoPs",
+    "title": "Steel Giants: Pushing the Limits of Bridge Design | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "HbCroBjFZEg",
+    "title": "MSC Divina: Operating a Luxury City on the Ocean | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "0RVAGYCz4hY",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "i8eIt0fVSVE",
+    "title": "World’s Strongest Ship: The Titan That Redefines Heavy Lifting | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "zpse8p7cwRc",
+    "title": "Bridges Before Steel: Pre-Industrial Marvels | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "43JWe87cetY",
+    "title": "3 Hours Of Engineering Giants To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "AL9URlmQhVw",
+    "title": "Boeing 747",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "V6E7eSTBcg8",
+    "title": "2+ Hours Of Engineering Facts To Fall Asleep To",
+    "score": 10
+  },
+  {
+    "id": "P7sOz55Ey1E",
+    "title": "Eiffel Tower",
+    "score": 10
+  },
+  {
+    "id": "i86Xia_PG44",
+    "title": "North Sea Giant",
+    "score": 10
+  },
+  {
+    "id": "19AElybASFs",
+    "title": "Three Gorges Dam",
+    "score": 10
+  },
+  {
+    "id": "Unq1etYduBg",
+    "title": "London's Super Sewer",
+    "score": 10
+  },
+  {
+    "id": "pLtAwl7WSLM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "bCm6tWIU89Q",
+    "title": "Fast: World's Largest Radio Telescope",
+    "score": 10
+  },
+  {
+    "id": "68PlPkeOwng",
+    "title": "The Launchers",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "EMAbsidMQnY",
+    "title": "Tunnels",
+    "score": 10
+  },
+  {
+    "id": "utFGuXq3bkI",
+    "title": "Iron Bridges: Built to Last for Centuries | Mega Bridges | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "EdAM1pKy1Gg",
+    "title": "Chernobyl's Toughest Fix",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Into the Abyss: Creatures of the Midwater (Full Movie)",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Introduction to the Deep Ocean",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "The Mysteries of Earth's Largest Ocean | Big Pacific | Full Episode 1 | PBS",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Unveiling the Ocean’s Deepest Trenches | Exploring the Mystical Ocean Cliffs",
+    "score": 10
+  },
+  {
+    "id": "JRv-gA_3jPk",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "bxIV_itPWkU",
+    "title": "This Discovery in the Mariana Trench Will Transform Geopolitics (4K)",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0KKHYtSLI1g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Deep Sea Gigantism | Why the Ocean Breeds Giants",
+    "score": 10
+  },
+  {
+    "id": "FmR14Yng9kI",
+    "title": "Introduction to Deep Sea Gigantism",
+    "score": 10
+  },
+  {
+    "id": "_MmPHecEtFM",
+    "title": "Into the Abyss | Unlocking the Ocean’s Deepest, Most Mysterious Worlds",
+    "score": 10
+  },
+  {
+    "id": "OQpCcQhNfxM",
+    "title": "\\\"Deep Ocean: Exploring the Wonders of the Underwater World with David Attenborough\\\"",
+    "score": 10
+  },
+  {
+    "id": "XisZu8nEBs4",
+    "title": "Deep Ocean: 10 Hours of Relaxing Oceanscapes | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "p0G68ORc8uQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VdgbSbqB1fQ",
+    "title": "Discovering the Strange and Unusual Creatures of the Deep Ocean | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "oaJIkGhAf7U",
+    "title": "\\\"NASA Stopped Exploring The Ocean And I'm Going To Show You Why\\\"",
+    "score": 10
+  },
+  {
+    "id": "elhlCZ7EEIo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "CTuGXdyrWUo",
+    "title": "Beginner Sourdough Bread",
+    "score": 10
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "Simple Sourdough Bread: Step by Step 🍞🍞75% Hydration",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "-f7tTNRH_04",
+    "title": "MITERED BUTT JOINT",
+    "score": 10
+  },
+  {
+    "id": "NsT9eFT0UFQ",
+    "title": "5 Woodworking Joints For Beginners",
+    "score": 10
+  },
+  {
+    "id": "USVctg0elYk",
+    "title": "22 Wood Joints Made with Hand Tools",
+    "score": 10
+  },
+  {
+    "id": "9BvgZDUUloI",
+    "title": "1. Japanese Joinery - Kane Tsugi",
+    "score": 10
+  },
+  {
+    "id": "6-yshl-Im68",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8imo947F-Qc",
+    "title": "Butt Joint",
+    "score": 10
+  },
+  {
+    "id": "ofnUZGWQxxw",
+    "title": "10 Best Butt Joint Methods | Woodworking Tips \\u0026 Tricks",
+    "score": 10
+  },
+  {
+    "id": "B1A3aiEHIzk",
+    "title": "Glue and Nails",
+    "score": 10
+  },
+  {
+    "id": "MOB3DyZp1yk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c8QvQIArOWM",
+    "title": "How an Engine Starter Motor Works",
+    "score": 10
+  },
+  {
+    "id": "kFsl5r34lCI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "YqMDb7xMJjI",
+    "title": "Сar anatomy: The Basics / How cars work? (3D animation)",
+    "score": 10
+  },
+  {
+    "id": "devo3kdSPQY",
+    "title": "Anatomy of an Internal Combustion Engine",
+    "score": 10
+  },
+  {
+    "id": "CWulQ1ZSE3c",
+    "title": "cover the basics of electricity",
+    "score": 10
+  },
+  {
+    "id": "TUpeMYTj1O8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ZSkB3zrU8T4",
+    "title": "INTERNAL COMBUSTION ENGINE (ICE)",
+    "score": 10
+  },
+  {
+    "id": "PXDFuIMHNZw",
+    "title": "How a Ship Engine Works - 2-Stroke Marine Diesel Engine",
+    "score": 10
+  },
+  {
+    "id": "x70VqMrXrbs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NZLbTuBDhJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EfVeNPW2GX8",
+    "title": "How Jet Engines Work",
+    "score": 10
+  },
+  {
+    "id": "5t5UYV14-JY",
+    "title": "How a Steam Engine works",
+    "score": 10
+  },
+  {
+    "id": "ESfSG2OlQYQ",
+    "title": "What are the parts of a steam engine?",
+    "score": 10
+  },
+  {
+    "id": "LIu06LMYe9o",
+    "title": "Jet Engine, How it works?",
+    "score": 10
+  },
+  {
+    "id": "DZt5xU44IfQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "u4ji0As0nQQ",
+    "title": "Cars for Kids — Smarty Moose — How in the World does a Car's Engine Work? Episode 2 - Cars for Kids",
+    "score": 10
+  },
+  {
+    "id": "qClXTmOtFy8",
+    "title": "ENGINE Convert Explosive",
+    "score": 10
+  },
+  {
+    "id": "H93kvfbR1fs",
+    "title": "China’s Mega Machines Just Broke Every Rule of Physics — Experts Are Stunned",
+    "score": 10
+  },
+  {
+    "id": "PBGI5e9icxU",
+    "title": "Megastructures: Modern Architectural Marvels | Complete Series | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "7WnKd_r761k",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LQScD9g7lfg",
+    "title": "The Most Interesting Vulcan In The Galaxy (Star Trek | Dos Equis Ad Parody)",
+    "score": 10
+  },
+  {
+    "id": "7LKLgaJL8pk",
+    "title": "Power Apps Search and Filter Function with SharePoint + Workarounds",
+    "score": 10
+  },
+  {
+    "id": "9cMB7Sjzgt0",
+    "title": "LLMs in Search: Generating Dynamic Filters and Facets",
+    "score": 10
+  },
+  {
+    "id": "gxnlNMXDgMg",
+    "title": "Two ways to easily add search and filters to your Webflow site – Workflow series",
+    "score": 10
+  },
+  {
+    "id": "6ocA5pcBg3o",
+    "title": "Part 2: Power Apps with Excel Creating Filters, Search, Collections, Charts",
+    "score": 10
+  },
+  {
+    "id": "-pwRDC6l1Zk",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "P-C2Dpc5yM0",
+    "title": "Dos Equis Milk",
+    "score": 10
+  },
+  {
+    "id": "nb57fOW8ois",
+    "title": "Don McMillan - Geek v. Nerd v. Dork",
+    "score": 10
+  },
+  {
+    "id": "yBWp5puCJvE",
+    "title": "NERD PACK (feat. Hutchy)",
+    "score": 10
+  },
+  {
+    "id": "_F3xfP2keDA",
+    "title": "NERD PACK (feat. Hutchy)",
+    "score": 10
+  },
+  {
+    "id": "U18VkI0uDxE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "z0cjx8z3fj0",
+    "title": "The Most American Man in the World (Dos Equis Style Ad)",
+    "score": 10
+  },
+  {
+    "id": "53c1qQlGSRY",
+    "title": "THe Most American Men In The World (Dos Equis AI Ad)",
+    "score": 10
+  },
+  {
+    "id": "hRJfS9sfyIk",
+    "title": "EQUUS",
+    "score": 10
+  },
+  {
+    "id": "kwrMk-3OTWU",
+    "title": "The Most English Man in the World (Dos Equis AI Commercial)",
+    "score": 10
+  },
+  {
+    "id": "4lFKdwxQkS0",
+    "title": "Thick Foot Pad",
+    "score": 10
+  },
+  {
+    "id": "VESTaUk1bcg",
+    "title": "The Most Autistic Billionaire in the World (Dos Equis Ad)",
+    "score": 10
+  },
+  {
+    "id": "qNKXF-rS0rw",
+    "title": "The Most Gen Z Man in the World - Dos Equis Ad",
+    "score": 10
+  },
+  {
+    "id": "kwWR6XAhmxw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yJwgdLY1-2I",
+    "title": "@MTTProject - Videosurveillance Camera Anomaly Heat Map using Edge AI Patchcore",
+    "score": 10
+  },
+  {
+    "id": "xv9UvMCLO3g",
+    "title": "[논문] PatchCore (Anomaly Detection)",
+    "score": 10
+  },
+  {
+    "id": "x0Llp9wPmOM",
+    "title": "EfficientAD: Accurate Visual Anomaly Detection at Millisecond-Level Latencies",
+    "score": 10
+  },
+  {
+    "id": "yhpkHOdpyPU",
+    "title": "Anomaly Detection Datasets",
+    "score": 10
+  },
+  {
+    "id": "HQQF626syWs",
+    "title": "Zero-shot versus Many-shot: Unsupervised Texture Anomaly Detection",
+    "score": 10
+  },
+  {
+    "id": "8Ji-SAGMXXI",
+    "title": "AI for Anomaly Detection",
+    "score": 10
+  },
+  {
+    "id": "Dnw__yI-yBk",
+    "title": "OpenAOI/anodet Demo, anomaly detection on pcb",
+    "score": 10
+  },
+  {
+    "id": "Xxs_YJq6exw",
+    "title": "Defect Detection with Anomalib Edge AI Reference Kit | Intel Software",
+    "score": 10
+  },
+  {
+    "id": "ho6R69EDyao",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "OifcJbZRaGM",
+    "title": "Anomaly Detection for Industrial Image Data",
+    "score": 10
+  },
+  {
+    "id": "QGnB7h1Mo8c",
+    "title": "Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors",
+    "score": 10
+  },
+  {
+    "id": "Wm2vyEDqHtM",
+    "title": "ディープラーニングによる異常検知（Anomaly Detection）　AutoEncoder　PatchCore",
+    "score": 10
+  },
+  {
+    "id": "tAev_CGqgVs",
+    "title": "異常検知とは",
+    "score": 10
+  },
+  {
+    "id": "A3U9zDtEf20",
+    "title": "Dos Equis: The Most Interesting Man In The World  (Spring 2010)",
+    "score": 10
+  },
+  {
+    "id": "FzwQdzIhjis",
+    "title": "Dos Equis Commercial | Milk Edition (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "uZRGIa-Clhw",
+    "title": "Dos Equis Commercial | Milk Edition (Part 5)",
+    "score": 10
+  },
+  {
+    "id": "kgaV70fGbJk",
+    "title": "Dos Equis Commercial | Milk Edition (Part 6)",
+    "score": 10
+  },
+  {
+    "id": "73FkUBC7-GU",
+    "title": "Dos Equis Commercial | Milk Edition (Part 7)",
+    "score": 10
+  },
+  {
+    "id": "LFd6V2yShyc",
+    "title": "Dos Equis Commercial | Milk Edition (Part 4) Re-upload",
+    "score": 10
+  },
+  {
+    "id": "KE-gWtNp2tU",
+    "title": "Dos Equis Commercial | Milk Edition (Part 3)",
+    "score": 10
+  },
+  {
+    "id": "2ZCeYR-c27M",
+    "title": "Equis's Ice Cream - Introducing Vanilla 98",
+    "score": 10
+  },
+  {
+    "id": "nPv6yvbRCm4",
+    "title": "Why is the Milk Farm sign still up along I-80 in Dixon? | Why Guy",
+    "score": 10
+  },
+  {
+    "id": "2qAXFkotFTc",
+    "title": "Compilation of the Dos Equis Beer Commercials - The Most Interesting Man in the World",
+    "score": 10
+  },
+  {
+    "id": "IxgiTeXKOOc",
+    "title": "Is expensive Milk a scam?",
+    "score": 10
+  },
+  {
+    "id": "EfuqVRIPHwA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AF_KsY49FfU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6qU3h0Wc3ps",
+    "title": "Shopping with Texas WIC: Other Milks | TexasWIC.org",
+    "score": 10
+  },
+  {
+    "id": "PBroKC0WZdA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "LEyC8g94MZE",
+    "title": "Introduction to The Frick Collection (2010)",
+    "score": 10
+  },
+  {
+    "id": "KjO2ul0Zo2I",
+    "title": "Introduction to Safe Handling of Collections",
+    "score": 10
+  },
+  {
+    "id": "UQlTnbNXwEE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "KV3vfdPz5QA",
+    "title": "The Ultimate East/West Bowl Collection - Key \\u0026 Peele",
+    "score": 10
+  },
+  {
+    "id": "wwFsxogUFVc",
+    "title": "ANNUAL EAST/WEST COLLEGIATE BOWL",
+    "score": 10
+  },
+  {
+    "id": "4zM-Oyhpc3U",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "u095oYD_nV0",
+    "title": "Introduction and NYC watch culture",
+    "score": 10
+  },
+  {
+    "id": "FCv1dyH4Www",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "oMVRE-U6TTc",
+    "title": "Java Iterable Interface",
+    "score": 10
+  },
+  {
+    "id": "NNnIGh9g6fA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "_zZMAKwOXzY",
+    "title": "#91 Collection API in Java",
+    "score": 10
+  },
+  {
+    "id": "Kn1RbK02YpM",
+    "title": "Criterion Close-Up - Ep. 1 - An Introduction To The Criterion Collection",
+    "score": 10
+  },
+  {
+    "id": "JgCg5KYBBB8",
+    "title": "THE SEVENTH SEAL",
+    "score": 10
+  },
+  {
+    "id": "08GJAteTFcg",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "iygIeX9mScw",
+    "title": "Responsible Collection Control",
+    "score": 10
+  },
+  {
+    "id": "HWnEifmgAdU",
+    "title": "Ranking Best Face Filters part 3",
+    "score": 10
+  },
+  {
+    "id": "i_JaFD-dDmQ",
+    "title": "Filtering chemicals? (Is it safe to drink that? Part 3)",
+    "score": 10
+  },
+  {
+    "id": "Zh4eqhcZjcg",
+    "title": "Ranking Best Face Filter (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "bypCetjEyoo",
+    "title": "Ranking Best Face Filters (Part 4)",
+    "score": 10
+  },
+  {
+    "id": "z-CA8y5Xp3A",
+    "title": "Ranking Best Face Filter 🤣 (Part 3)",
+    "score": 10
+  },
+  {
+    "id": "_OrbhPR5jS4",
+    "title": "TRUMP ¡LLEGAN A MÉXICO DEMOCRATAS Y REPUBLICANOS! ALITO FUE DE ARRASTRADO ¡QUIEREN EL LITIO! CLAUDIA",
+    "score": 10
+  },
+  {
+    "id": "XNd6jK2Eis0",
+    "title": "DE LESTE A OESTE, COM ANA PAULA HENKEL - 07/02 | O CASO EPSTEIN - REAPRESENTAÇÃO",
+    "score": 10
+  },
+  {
+    "id": "NLTXm11cJEw",
+    "title": "Oil Filtration - Part 9: Filter Breathers",
+    "score": 10
+  },
+  {
+    "id": "DXSEElRLp2Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VksAhxAirRk",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Jz8QKUabD4E",
+    "title": "3. Filter Types",
+    "score": 10
+  },
+  {
+    "id": "mxOJWX6vikQ",
+    "title": "Atty Baldwin Accuses Mom of Unhinged \\u0026  Manipulative  Behaviour“Abusive Use Of CONFLICT!” (UPDATED)",
+    "score": 10
+  },
+  {
+    "id": "YadrLBtimow",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Isr8O3Is6Vc",
+    "title": "Ranking Best Filter Moments Part 2",
+    "score": 10
+  },
+  {
+    "id": "mXbO75zHCkM",
+    "title": "Oil Filtration - Part 11: Filter Sizing Calculations",
+    "score": 10
+  },
+  {
+    "id": "qKC0ltIm9DE",
+    "title": "Why the filter AP is important.",
+    "score": 10
+  },
+  {
+    "id": "-55jShs9owk",
+    "title": "Worm hole filter |part Ii #funnymoment #wormhole #lolfx #phonkagressive",
+    "score": 10
+  },
+  {
+    "id": "FZw6UBdTYIA",
+    "title": "Ranking The Funniest Prediction Filters Part 3 ||",
+    "score": 10
+  },
+  {
+    "id": "6XkCWwTriyI",
+    "title": "Optimal State Estimator | Understanding Kalman Filters, Part 3",
+    "score": 10
+  },
+  {
+    "id": "ul3u2yLPwU0",
+    "title": "How the Common Filter Works",
+    "score": 10
+  },
+  {
+    "id": "6hyslCWDDz4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "eSprYwhXclI",
+    "title": "Benchmark Advance Intro",
+    "score": 10
+  },
+  {
+    "id": "2PYbyYRXz5g",
+    "title": "7 Popular LLM Benchmarks Explained [OpenLLM Leaderboard \\u0026 Chatbot Arena]",
+    "score": 10
+  },
+  {
+    "id": "aOjgPJ94-aM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Yhi2h8DnECk",
+    "title": "FPS Benchmarks Are Flawed: Introducing Animation Error | Engineering Discussion",
+    "score": 10
+  },
+  {
+    "id": "C_RO8bJop8o",
+    "title": "Engineering Discussion \\u0026 Interview",
+    "score": 10
+  },
+  {
+    "id": "UXQV3Drk3R8",
+    "title": "An Intro to Benchmarking for Embedded Systems",
+    "score": 10
+  },
+  {
+    "id": "oLTB5LsXLUA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5O6tQYJSEMw",
+    "title": "Microsoft Windows is Awful Spyware",
+    "score": 10
+  },
+  {
+    "id": "I_CwparnaJc",
+    "title": "What are Large Language Model (LLM) Benchmarks?",
+    "score": 10
+  },
+  {
+    "id": "kDY4TodQwbg",
+    "title": "What are Benchmark Fractions? | Comparing \\u0026 Ordering #steamspiration",
+    "score": 10
+  },
+  {
+    "id": "DfWSJvKFMPE",
+    "title": "RIVA TNT Series",
+    "score": 10
+  },
+  {
+    "id": "kRJZpcbVXIg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "c31Ow23mErE",
+    "title": "Introduction and methodology",
+    "score": 10
+  },
+  {
+    "id": "xyPY9_h4vZs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ORW9FumLGBo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "85b55KlN8WQ",
+    "title": "[1hr Talk] Intro to Large Language Models",
+    "score": 10
+  },
+  {
+    "id": "zjkBMFhNj_g",
+    "title": "Intro: Large Language Model (LLM) talk",
+    "score": 10
+  },
+  {
+    "id": "bnYfEcAojvw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "C8T149k63SQ",
+    "title": "It's Time To Revamp Our PC Testing - Alex vs PresentMon 2.0",
+    "score": 10
+  },
+  {
+    "id": "YG4jexlSAjc",
+    "title": "Breakpoint",
+    "score": 10
+  },
+  {
+    "id": "dfhrolZwjQs",
+    "title": "3DMark99 MAX (March 8, 1999)",
+    "score": 10
+  },
+  {
+    "id": "txtvMhzEDu8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "WcTxrzFqdyw",
+    "title": "THE PLAN",
+    "score": 10
+  },
+  {
+    "id": "r4J6GEw7AHk",
+    "title": "An Introduction to the SPEC High Performance Group and their HPC Benchmark Suites",
+    "score": 10
+  },
+  {
+    "id": "mjT-NFDIoF8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "ukZ7Y805gHE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SgYtsUmT5jU",
+    "title": "SLURRRRRRRRRP SATURDAY!!!",
+    "score": 10
+  },
+  {
+    "id": "UPHi-QEnUeA",
+    "title": "Emiru (asmons bestie) made an oopsie poopsie | New Linus Vidya",
+    "score": 10
+  },
+  {
+    "id": "2dc0lvPiwxM",
+    "title": "Hutchy first shuffle clip",
+    "score": 10
+  },
+  {
+    "id": "H7q5qgAkAas",
+    "title": "My fellow libs have gone INSANE",
+    "score": 10
+  },
+  {
+    "id": "0BfhLAT2VFw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F95U0j-8PwU",
+    "title": "Revenge Of The Nerds (1984) - Clip #27 - Tug Of War and Wrist Wrestling",
+    "score": 10
+  },
+  {
+    "id": "jxukPNTeAZk",
+    "title": "The Geekie Awards 2013: The Nerd Machine Wins 'Best Website' with Richard Hatch, Winner Twins",
+    "score": 10
+  },
+  {
+    "id": "XluvA_X0-K4",
+    "title": "THEY'RE MAD AGAIN..",
+    "score": 10
+  },
+  {
+    "id": "YOYum_6vng4",
+    "title": "I'm Engrossed By the Pokimane Cookie Tea",
+    "score": 10
+  },
+  {
+    "id": "dcvu9SADVwc",
+    "title": "The Anti-Car Movement Is Insane",
+    "score": 10
+  },
+  {
+    "id": "RW_F7Ue8OJE",
+    "title": "JD Vance Creeps Out Young Trump Voters | Focus Group",
+    "score": 10
+  },
+  {
+    "id": "ebcDNnSW6NM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iMYVe0m_mf4",
+    "title": "Nintendo Got Pressed By Investors Over The Switch 2",
+    "score": 10
+  },
+  {
+    "id": "_vZab9ZKgFg",
+    "title": "Breaking: FBI Floods Guthrie Property, Hauls Nancy's Car Away | Nancy Guthrie Missing Update",
+    "score": 10
+  },
+  {
+    "id": "pqQCEkDQ84M",
+    "title": "LEAKED PHOTO OF HUTCH MF WITH EPSTEIN",
+    "score": 10
+  },
+  {
+    "id": "fVXX9yh3J1Y",
+    "title": "Hutch Addresses The Burnt Peanut View Botting Allegations...",
+    "score": 10
+  },
+  {
+    "id": "gJohrn-l_Zw",
+    "title": "Hairy Chested Dude (feat. Switchtalk)",
+    "score": 10
+  },
+  {
+    "id": "LKZZnxpuK68",
+    "title": "I'm Tired of Listening to Nerds and Dweebs",
+    "score": 10
+  },
+  {
+    "id": "3S9OZTQa0eY",
+    "title": "Craig Hutchison Age, Weight Gain, Wife, Net worth, Salary, Partner, Height, Is he married? Family",
+    "score": 10
+  },
+  {
+    "id": "POXCb_74e_Q",
+    "title": "Routing A Skyrim Speedrun (Rarest Achievement | Dragonrider / Master Criminal)",
+    "score": 10
+  },
+  {
+    "id": "Jua3YYNFPSg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "TkG671-yPIg",
+    "title": "The Most Gen X Man In The World | A Dos Equis Ad Parody",
+    "score": 10
+  },
+  {
+    "id": "7CDX9u5c-7I",
+    "title": "The Most Gen X Man In The World I A Dos Equis Commercial ",
+    "score": 10
+  },
+  {
+    "id": "nwKxnHNN2zs",
+    "title": "The Most Millennial Man In The World | Dos Equis Ad",
+    "score": 10
+  },
+  {
+    "id": "sNv0lCo3Wfc",
+    "title": "The Most Millennial Man In The World | Early 2000s Dos Equis ad parody",
+    "score": 10
+  },
+  {
+    "id": "TRSEvZsa4KA",
+    "title": "Generation X Grew Up Different — And It Shows",
+    "score": 10
+  },
+  {
+    "id": "4WnCuFs5M08",
+    "title": "Generation X Grew Up Different — And It Shows 📱",
+    "score": 10
+  },
+  {
+    "id": "HcZ6PsNWZqE",
+    "title": "And This Is Why Ricochet Is a Loser and a Failing Jobber",
+    "score": 10
+  },
+  {
+    "id": "AE_jX5GwhsI",
+    "title": "The Most Florida Woman in the World - Dos Equis Ad",
+    "score": 10
+  },
+  {
+    "id": "OUb1wBPB3I4",
+    "title": "Why Gen X is the real loser generation",
+    "score": 10
+  },
+  {
+    "id": "tSWyNgXeyqA",
+    "title": "Best of The Most Interesting Man In The World Dos Equis Commercials 1",
+    "score": 10
+  },
+  {
+    "id": "ReUmZcl8r3E",
+    "title": "The Gayest Man in the World (Dos Equis AI Commercial)",
+    "score": 10
+  },
+  {
+    "id": "hFz1Ghpl8zM",
+    "title": "The Most Environmentalist Woman in the World (Dos Equis Commercial)",
+    "score": 10
+  },
+  {
+    "id": "spDyDbOH24w",
+    "title": "YouTube's New Search Filter Sucks...",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "YIPzFU-q1D0",
+    "title": "Basics",
+    "score": 10
+  },
+  {
+    "id": "zxZGaXQlZqo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vK1RcKTMdqI",
+    "title": "AI Agents: Transforming Anomaly Detection \\u0026 Resolution",
+    "score": 10
+  },
+  {
+    "id": "e-w46HYi_AY",
+    "title": "This Is What Anomalies Fear Part3 #brainrot #italianbrainrot #anomaly",
+    "score": 10
+  },
+  {
+    "id": "2iLvS54I1G0",
+    "title": "Detailed Anomaly Scan",
+    "score": 10
+  },
+  {
+    "id": "iHqA_A6-6gE",
+    "title": "Would You Like to Keep An Anomaly As a Pet?",
+    "score": 10
+  },
+  {
+    "id": "3Q5O2dl0uOU",
+    "title": "What Happens During an Anomaly Scan? | 4D Fetal Ultrasound Explained",
+    "score": 10
+  },
+  {
+    "id": "kX6N6Maz1V0",
+    "title": "Introduction to Anomaly Detection for Engineers",
+    "score": 10
+  },
+  {
+    "id": "xsYvpCwDHWM",
+    "title": "Back Holes",
+    "score": 10
+  },
+  {
+    "id": "ElIOxFQFICo",
+    "title": "Fetal Anatomy Scan",
+    "score": 10
+  },
+  {
+    "id": "WTYAYH0E2tg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nDptAI3gIMQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "D09x0eR4vu4",
+    "title": "Prometheus architecture",
+    "score": 10
+  },
+  {
+    "id": "QhhQE9FmC14",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Fn0qDbKL3UI",
+    "title": "What is Anomaly?",
+    "score": 10
+  },
+  {
+    "id": "LRqX5uO5StA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "_ez8lbGplKo",
+    "title": "Agenda",
+    "score": 10
+  },
+  {
+    "id": "sQV3Vz641uE",
+    "title": "Isolation Forests: Identify Outliers in Data",
+    "score": 10
+  },
+  {
+    "id": "O-0bi54yeB4",
+    "title": "The Anomaly Research Center Introduction Video",
+    "score": 10
+  },
+  {
+    "id": "s2fU25DwmpA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "8gTpgWru0Wg",
+    "title": "What is Configuration As Code",
+    "score": 10
+  },
+  {
+    "id": "Vh6qJ1RzvQk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "6a3CNRMssQE",
+    "title": "Claude Opus 4.6 vs GPT-5.3 Codex",
+    "score": 10
+  },
+  {
+    "id": "gmSnQPzoYHA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wN13YeqEaqk",
+    "title": "AI News: The AI Launch That Crashed The Market",
+    "score": 10
+  },
+  {
+    "id": "xdp8bulnidY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Z_mUKLQeOJ4",
+    "title": "Intro: Claude Code Agent Teams",
+    "score": 10
+  },
+  {
+    "id": "3GAxd90fEE4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pqb-EBUNsds",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kuo-h32FycQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "P9dX_ek_6yY",
+    "title": "Silver Runs Out on THIS Date… Most Aren't Ready",
+    "score": 10
+  },
+  {
+    "id": "JPjzgzYzUbg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ojL_VHc4gLk",
+    "title": "code::dive conference 2014 - Scott Meyers: Cpu Caches and Why You Care",
+    "score": 10
+  },
+  {
+    "id": "WDIkqP4JbkE",
+    "title": "A Tale of Two Traversals",
+    "score": 10
+  },
+  {
+    "id": "YDhJ953D6-U",
+    "title": "Countdown",
+    "score": 10
+  },
+  {
+    "id": "wKZLhJh2234",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HeWiZvltQKI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vvl8w6OfDCM",
+    "title": "Wire Color Code Configuration for Phone",
+    "score": 10
+  },
+  {
+    "id": "5pYTa3Lpjz4",
+    "title": "Introducing Agent Skills in VS Code",
+    "score": 10
+  },
+  {
+    "id": "JepVi1tBNEE",
+    "title": "Agent Skills in VS Code",
+    "score": 10
+  },
+  {
+    "id": "e9yMYdnSlUA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "Ou0HsQu-0Aw",
+    "title": "Claude Code on your phone in 10 minutes",
+    "score": 10
+  },
+  {
+    "id": "FEDiAHzS0zw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "tEsPyYnzt8s",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3sCeAW2bymk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SDbfa8oX79c",
+    "title": "tiasu - Starting Soon (witwix.mp3)",
+    "score": 10
+  },
+  {
+    "id": "dMvc1Mf5_-4",
+    "title": "Starting Soon",
+    "score": 10
+  },
+  {
+    "id": "5f6jKjrDfRg",
+    "title": "10 Min Countdown - Twitch Purple",
+    "score": 10
+  },
+  {
+    "id": "ItYwcP8X1YY",
+    "title": "Calming Ocean Sunset Ambience - 12 Hours - 4K Ultra HD",
+    "score": 10
+  },
+  {
+    "id": "_xpFc_x0OwA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "EZF1NhUES94",
+    "title": "tiasu - Starting Soon (witwix.mp3) - Orchestral Mix",
+    "score": 10
+  },
+  {
+    "id": "n0WvIqJz4mc",
+    "title": "Canadians could soon start driving Chinese EVs. Why experts see it as a possible security risk",
+    "score": 10
+  },
+  {
+    "id": "AvtOgwO-JbM",
+    "title": "Silent Partner - Space Walk (Youtube Premiere Countdown)[download] 60 fps",
+    "score": 10
+  },
+  {
+    "id": "B4dnPVZ2MV0",
+    "title": "Starting Soon",
+    "score": 10
+  },
+  {
+    "id": "ytt0PCW0Yeg",
+    "title": "CDawgVA Starting Soon Animation",
+    "score": 10
+  },
+  {
+    "id": "BxHdrglpmaY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "-IUMoXUmrRY",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt Studio Update",
+    "score": 10
+  },
+  {
+    "id": "ns8xOO_Anbo",
+    "title": "Operators available for text-based fields",
+    "score": 10
+  },
+  {
+    "id": "FOnEmwxiHJ8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "D-DsAmRFJHY",
+    "title": "Greetings and Introduction",
+    "score": 10
+  },
+  {
+    "id": "k5E93r0mqIk",
+    "title": "The filter view",
+    "score": 10
+  },
+  {
+    "id": "ed-6Yy29Xlo",
+    "title": "Search and filters in Jira using the basic method (Part 1)",
+    "score": 10
+  },
+  {
+    "id": "73d_4XoWi8I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GrORupPSDBw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "MEl2R7mEAP8",
+    "title": "A horrifically deep dive into TypeScript module resolution",
+    "score": 10
+  },
+  {
+    "id": "HybRw4ypIuM",
+    "title": "Relative import vs. non-relative imports",
+    "score": 10
+  },
+  {
+    "id": "eJXVEju3XLM",
+    "title": "JavaScript Modules in 100 Seconds",
+    "score": 10
+  },
+  {
+    "id": "qgRUr-YUk1Q",
+    "title": "Module",
+    "score": 10
+  },
+  {
+    "id": "tFij522AIcg",
+    "title": "TypeScript 5.0 - `--moduleResolution bundler` | Release Report",
+    "score": 10
+  },
+  {
+    "id": "wfCRQF-HxwY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NwVcpr9A9KM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XoOgNRQEYws",
+    "title": "Module systems in JavaScript and TypeScript",
+    "score": 10
+  },
+  {
+    "id": "RoTb8i77WBU",
+    "title": "TypeScript 5.2 - `module` and `moduleResolution` Must Match Node.js Settings | Release Report",
+    "score": 10
+  },
+  {
+    "id": "sj-umwmhhyg",
+    "title": "Lightning Web Components Recipes Sample",
+    "score": 10
+  },
+  {
+    "id": "suUrSE8XGAc",
+    "title": "Conflict Resolution Module",
+    "score": 10
+  },
+  {
+    "id": "88-r-bNG3eI",
+    "title": "Defaults  module resolution in Typscript .tx,.tsx and .d.ts",
+    "score": 10
+  },
+  {
+    "id": "Xa0CYpuA5PQ",
+    "title": "a horrifically deep dive into typescript module resolution",
+    "score": 10
+  },
+  {
+    "id": "XWGZkYu4eK8",
+    "title": "Short Imports with TypeScript Path Mapping",
+    "score": 10
+  },
+  {
+    "id": "C6PAAoufqXM",
+    "title": "Module 6 - Linear resolution",
+    "score": 10
+  },
+  {
+    "id": "MPZHv-dUAL8",
+    "title": "Fixing TypeScript Module Resolution Issues in VSCode Debugging",
+    "score": 10
+  },
+  {
+    "id": "BFMi4u9x3Fg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ST8bqp8gYkU",
+    "title": "Charmed Intro - Full Opening Sequence",
+    "score": 10
+  },
+  {
+    "id": "48M1b4RzrAM",
+    "title": "Tenchi Muyo! - Opening Theme (Full Version with Intro)",
+    "score": 10
+  },
+  {
+    "id": "iwBSEMke2gI",
+    "title": "Breaking Bad Full Intro Title Sequence",
+    "score": 10
+  },
+  {
+    "id": "HL-vPolD_nk",
+    "title": "The XX - Intro  (2020 Remastered) long version",
+    "score": 10
+  },
+  {
+    "id": "eRYjhOpLd_s",
+    "title": "Full House Opening Credits and Theme Song",
+    "score": 10
+  },
+  {
+    "id": "TJsPgsYbFDg",
+    "title": "DRIVE Legendary Intro with Ryan Gosling (Full Scene)",
+    "score": 10
+  },
+  {
+    "id": "Hfv995ts_gg",
+    "title": "INTRO - FULL CLIP",
+    "score": 10
+  },
+  {
+    "id": "_MRyG7t5SYc",
+    "title": "Denis Full Intro Music",
+    "score": 10
+  },
+  {
+    "id": "3dYuCdicPFE",
+    "title": "The Amazing World of Gumball - Full Intro",
+    "score": 10
+  },
+  {
+    "id": "No_omXE6TK0",
+    "title": "Deadman Wonderland Full Intro Song",
+    "score": 10
+  },
+  {
+    "id": "2pZ-UpjtlXY",
+    "title": "THE XX   INTRO ONE HOUR just a killer song",
+    "score": 10
+  },
+  {
+    "id": "tuRttI5Cjzo",
+    "title": "ENTIRE Stadium BOOED JD Vance To His FACE At The Olympics — He Nearly CRIED",
+    "score": 10
+  },
+  {
+    "id": "pnG6C2xmtCk",
+    "title": "Pills Here Extended Version",
+    "score": 10
+  },
+  {
+    "id": "BskzDsFBOuU",
+    "title": "Kanye West - Flashing Lights (Alternate Intro)",
+    "score": 10
+  },
+  {
+    "id": "O0Cw1SLdxxE",
+    "title": "The Pals Complete Intro Music! | Denis, Corl, Sketch, Sub, and Alex Theme Songs/Intro Songs!",
+    "score": 10
+  },
+  {
+    "id": "vfEvNE4BZeQ",
+    "title": "DENIS",
+    "score": 10
+  },
+  {
+    "id": "veHqJSC-9Lo",
+    "title": "ICE Meeting Cold Open - SNL",
+    "score": 10
+  },
+  {
+    "id": "D3L7AjNfTKM",
+    "title": "Winter Olympics 2026 Opening Ceremony in 4K HDR | FULL Event 2026 Olympics Games Opening Celebration",
+    "score": 10
+  },
+  {
+    "id": "MJDg7exbRAE",
+    "title": "Winter Olympics 2026 Grand Opening Parade | Panoramic of the Olympic Winter Games Opening Ceremony",
+    "score": 10
+  },
+  {
+    "id": "sylYwNwfKuQ",
+    "title": "WATCH: Trump Reacts To JD Vance Getting Booed At The Olympics",
+    "score": 10
+  },
+  {
+    "id": "-kSMQk0CQcs",
+    "title": "Alex Full Intro Music",
+    "score": 10
+  },
+  {
+    "id": "Vsk8BO2K6-Y",
+    "title": "Spider-Man The Animated Series Full Intro Theme",
+    "score": 10
+  },
+  {
+    "id": "oGkcgDN2XNE",
+    "title": "Spectacular Spider-Man- Full intro - Sub English",
+    "score": 10
+  },
+  {
+    "id": "FrKKqSVa4yY",
+    "title": "2001: A SPACE ODYSSEY - Full Intro",
+    "score": 10
+  },
+  {
+    "id": "m4WYPVipZpQ",
+    "title": "Spider-Man: The Animated Series [1994] - Full Intro Theme HD",
+    "score": 10
+  },
+  {
+    "id": "dIqVNxmdtPk",
+    "title": "Gravity Falls opening theme FULL",
+    "score": 10
+  },
+  {
+    "id": "2Jn1OeDlNpM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ZTRCeETGKB4",
+    "title": "Why Photographers Are STILL Obsessed With This Old Camera",
+    "score": 10
+  },
+  {
+    "id": "6zGQLMqeftk",
+    "title": "Canon R3",
+    "score": 10
+  },
+  {
+    "id": "RgWDzPZNw4E",
+    "title": "The PROBLEM: All Sony Cameras LOOK the SAME",
+    "score": 10
+  },
+  {
+    "id": "4ezKmawMEUs",
+    "title": "Differences Between DSLR \\u0026 Mirrorless Cameras",
+    "score": 10
+  },
+  {
+    "id": "SKQg3ds05_k",
+    "title": "a zoomy boi",
+    "score": 10
+  },
+  {
+    "id": "KNSyz7eX3eI",
+    "title": "SimpliSafe Outdoor Camera Series 2",
+    "score": 10
+  },
+  {
+    "id": "VulcO4FRV5o",
+    "title": "The ONLY CAMERA you need…Ever",
+    "score": 10
+  },
+  {
+    "id": "AOB_vAsOD_A",
+    "title": "SimpliSafe Outdoor Camera Series 2 📷🚫 | 10 Reasons Not to Buy",
+    "score": 10
+  },
+  {
+    "id": "JfsB9PsVKGs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ules3Zewa64",
+    "title": "Download app",
+    "score": 10
+  },
+  {
+    "id": "rSoH4G2VX2M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HaQqdvRABfM",
+    "title": "Which Sony Cinema Line Camera is Right for You? | Mark Bone Breaks It Down",
+    "score": 10
+  },
+  {
+    "id": "su3f40un-_A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9cyLmNJeyB8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "vDv1wi2dppo",
+    "title": "Triple threat",
+    "score": 10
+  },
+  {
+    "id": "-Vh03cXKyhc",
+    "title": "Alpha 7 III Camera",
+    "score": 10
+  },
+  {
+    "id": "wydKH2E-r3w",
+    "title": "I tested every video camera in 2026 | These are the 6 best ones",
+    "score": 10
+  },
+  {
+    "id": "7hi-AJmjjv4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Rq2XCc_utyM",
+    "title": "Sweet love (Anita Baker cover)",
+    "score": 10
+  },
+  {
+    "id": "vGBnw9tM6qQ",
+    "title": "Big Spender (Chaka Khan cover)",
+    "score": 10
+  },
+  {
+    "id": "vZ-SxTAiwLQ",
+    "title": "Ain't no sunshine when she's gone (\\\"The Two\\\" acoustic guitar cover Eva Cassidy)",
+    "score": 10
+  },
+  {
+    "id": "phUgEUE1CA8",
+    "title": "let's face the music and dance natalie cole cover",
+    "score": 10
+  },
+  {
+    "id": "8-V7elWgkzo",
+    "title": "Unsupervised Anomaly Detection with Isolation Forest - Elena Sharova",
+    "score": 10
+  },
+  {
+    "id": "hp0Ka3mrOIM",
+    "title": "Jamiroquai - love foolosophy cover",
+    "score": 10
+  },
+  {
+    "id": "9nqT2EGrmys",
+    "title": "Збираючи уламки",
+    "score": 10
+  },
+  {
+    "id": "qeOpPXh-Kqw",
+    "title": "Соревнования",
+    "score": 10
+  },
+  {
+    "id": "Ib_OnQ560Gs",
+    "title": "Просто возьми ФАРШ и намажь ЛАВАШ!! – ТАКОЕ вы еще не готовили. Ленивые ЧЕБУРЕКИ без теста",
+    "score": 10
+  },
+  {
+    "id": "JcQAUGltfx8",
+    "title": "Maria Sharapova vs Serena Williams: Wimbledon final 2004 (Extended Highlights)",
+    "score": 10
+  },
+  {
+    "id": "GkuDViOUcG8",
+    "title": "Who is Serena playing in Wimbledon final?",
+    "score": 10
+  },
+  {
+    "id": "HyD37J7IoFI",
+    "title": "Elena Minina - Never Forget",
+    "score": 10
+  },
+  {
+    "id": "Utf__D7aJnU",
+    "title": "Ain't no sunshine - Trio jazz/pop pour vos événements, soirées privée, mariages",
+    "score": 10
+  },
+  {
+    "id": "Dl7X3IGFJyU",
+    "title": "A'Studio — Я искала тебя (Премия Муз ТВ, 2013)",
+    "score": 10
+  },
+  {
+    "id": "Ac3yBJeoijs",
+    "title": "Ain't No Sunshine When She's Gone Guitar (Acoustic Fingerstyle) Bill Withers",
+    "score": 10
+  },
+  {
+    "id": "BQ964kjGKS8",
+    "title": "Алла Пугачёва - Позови меня с собой - subtítulos español",
+    "score": 10
+  },
+  {
+    "id": "B4zGq7BQ_1g",
+    "title": "Тёмная ночь",
+    "score": 10
+  },
+  {
+    "id": "yGJQQAJrcMU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_27-cisv3S8",
+    "title": "The Most Jewish Man in the World (Dos Equis AI Ad)",
+    "score": 10
+  },
+  {
+    "id": "JEbF3x5u6Og",
+    "title": "The Whitest Man in the World (Dos Equis Parody)",
+    "score": 10
+  },
+  {
+    "id": "gMMfl0wCxHM",
+    "title": "Applying Direct Pressure on Kids to Control Life-Threatening Bleeding",
+    "score": 10
+  },
+  {
+    "id": "ZDbFzv9FC9M",
+    "title": "Understanding HEAVY Menstrual BLEEDING - Dr Lora Shahine",
+    "score": 10
+  },
+  {
+    "id": "hcA5L8T-aZQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "264p12zm8X0",
+    "title": "What to do for a heavy period",
+    "score": 10
+  },
+  {
+    "id": "YWRkXTfs-Q8",
+    "title": "Heavy Bleeding after 40: Changes in menstrual cycle after 40, heavy clots, flooding and more!",
+    "score": 10
+  },
+  {
+    "id": "p1R6bLoTrdQ",
+    "title": "2-3 tbsp blood is average",
+    "score": 10
+  },
+  {
+    "id": "-2TdSuP8soo",
+    "title": "Heavy Periods: 6 Causes of Heavy Menstrual Bleeding",
+    "score": 10
+  },
+  {
+    "id": "OPJ6yvyIwFo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "621ZRRhOUwc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "sogxysm5hWE",
+    "title": "Introduction to heavy periods",
+    "score": 10
+  },
+  {
+    "id": "ps0bMKnGEHU",
+    "title": "Heavy Menstrual Bleeding and Available Treatment for Teens",
+    "score": 10
+  },
+  {
+    "id": "l-bPUmQUB9Q",
+    "title": "irregular periods",
+    "score": 10
+  },
+  {
+    "id": "O8OXkACVh00",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "MJ9BxTTa72M",
+    "title": "70 Percent Of Australian Women Suffering From Heavy Menstrual Bleeding",
+    "score": 10
+  },
+  {
+    "id": "bG9X07QECGA",
+    "title": "Heavy Menstrual Bleeding Explained",
+    "score": 10
+  },
+  {
+    "id": "9FdVXK2YZao",
+    "title": "INVESTIGATIONS",
+    "score": 10
+  },
+  {
+    "id": "wlA_89x_Cw8",
+    "title": "Heavy menstrual bleeding",
+    "score": 10
+  },
+  {
+    "id": "nfw8XAyA7KA",
+    "title": "Natural treatment of heavy periods",
+    "score": 10
+  },
+  {
+    "id": "PdeAxiEkUg8",
+    "title": "normal period",
+    "score": 10
+  },
+  {
+    "id": "9M9PY749NO4",
+    "title": "Endocrinologic Causes",
+    "score": 10
+  },
+  {
+    "id": "6IKpkhQbXlg",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "CpIPixWaj1E",
+    "title": "Vulcans Are Afraid of Humans - Enterprise Clip",
+    "score": 10
+  },
+  {
+    "id": "PPEFQl3Zcps",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "cUt8UIznUgE",
+    "title": "AXANAR - Ambassador Soval \\u0026 Minister T'Lera on Vulcan",
+    "score": 10
+  },
+  {
+    "id": "hrlNSGbgrlQ",
+    "title": "Earth vs Vulcan",
+    "score": 10
+  },
+  {
+    "id": "nqzlIeva0q4",
+    "title": "Star Trek: First Contact: The Vulcans arrive on Earth",
+    "score": 10
+  },
+  {
+    "id": "CKGv6uvvQ4c",
+    "title": "I Must Be Vulcan As A Mother***er - Star Trek Lower Decks 4x05",
+    "score": 10
+  },
+  {
+    "id": "v5CnO5LFN44",
+    "title": "VULCAN: Cultural Index 2.0",
+    "score": 10
+  },
+  {
+    "id": "uJuxluWY3tw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0t153G9zDo8",
+    "title": "Disturbing Details About Star Trek's Vulcans That Are Hard To Ignore",
+    "score": 10
+  },
+  {
+    "id": "05Mgr2XyA1c",
+    "title": "Starship Lore: Vulcan Ships - The Vulcans, They Lie",
+    "score": 10
+  },
+  {
+    "id": "dyU7_9gwTi8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QYLXhIb506w",
+    "title": "Star Trek: Discovery - Give Them A \\\"Vulcan Hello\\\"",
+    "score": 10
+  },
+  {
+    "id": "D4iK6srTxMM",
+    "title": "Star Trek   Vulcan's Soul Trilogy   Book 1   Exodus   Audiobook",
+    "score": 10
+  },
+  {
+    "id": "wBGjvFa7JNE",
+    "title": "Vulcan Time of Awakening",
+    "score": 10
+  },
+  {
+    "id": "8rIWyybNb6c",
+    "title": "Picard DESTROYS Vulcan with FACTS AND LOGIC (Star Trek TNG)",
+    "score": 10
+  },
+  {
+    "id": "64J0xsqCRHk",
+    "title": "BETAZOIDS: Cultural Index",
+    "score": 10
+  },
+  {
+    "id": "N_CWMI7lE8I",
+    "title": "BETAZOIDS",
+    "score": 10
+  },
+  {
+    "id": "5ETLOAFl5DU",
+    "title": "Everything We Know About the Trill",
+    "score": 10
+  },
+  {
+    "id": "IN9ngYefqk4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "lXc8PaznX9o",
+    "title": "Intro/TOS",
+    "score": 10
+  },
+  {
+    "id": "A4SjUGAjvMU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AjWH0BuRkYk",
+    "title": "What is a Module?  (Abstract Algebra)",
+    "score": 10
+  },
+  {
+    "id": "IvukAijXgLE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wPR_KoSSofA",
+    "title": "WHAT IS PROCUREMENT?",
+    "score": 10
+  },
+  {
+    "id": "oiaIPtZVqDo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "E2v2eSx9NaU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zJiBkA7FxSw",
+    "title": "Intro To Networks v7 - Module 1 - Cisco CCNA NETACAD",
+    "score": 10
+  },
+  {
+    "id": "TBAvNZIcdVQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XCFL4_qFy1o",
+    "title": "Module 02  Introduction to the Office of Licensing",
+    "score": 10
+  },
+  {
+    "id": "8-Cgv2Ek4oA",
+    "title": "Presentations Module Introduction",
+    "score": 10
+  },
+  {
+    "id": "XXHJnGIPiYM",
+    "title": "Presentation Introduction",
+    "score": 10
+  },
+  {
+    "id": "lqDNN2lLVRc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "SBKlhOpfL5A",
+    "title": "Introduction to Cybersecurity   Module 1",
+    "score": 10
+  },
+  {
+    "id": "YTSCgRtZe4s",
+    "title": "Introduction to Java Modules | Java for Beginners",
+    "score": 10
+  },
+  {
+    "id": "3KP5YiKLkeo",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "vOEJqFWLT70",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "AHV54tqhZU0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pvuN_WvF1to",
+    "title": "Hi, I’m a Retard - Lil Dicky Earth Parody",
+    "score": 10
+  },
+  {
+    "id": "Ro0x9BSS254",
+    "title": "Bruin Earth | UCLA Planet Earth Parody",
+    "score": 10
+  },
+  {
+    "id": "QHZnEhJ3H2I",
+    "title": "I HATE EXAMS | Earth by Lil Dicky Parody by Nattie Hewitt",
+    "score": 10
+  },
+  {
+    "id": "ASgUfH_24so",
+    "title": "You really have to pass",
+    "score": 10
+  },
+  {
+    "id": "K7h2koZtawA",
+    "title": "Earth 2 (parody video) [YTP]",
+    "score": 10
+  },
+  {
+    "id": "by8ym5zj2pI",
+    "title": "The Whitest Man in the World (Dos Equis Parody)",
+    "score": 10
+  },
+  {
+    "id": "IwPHy17Iu6E",
+    "title": "Flat Earth - Universal Intro Parody (better version)",
+    "score": 10
+  },
+  {
+    "id": "MuNAOySjO_M",
+    "title": "FLAT EARTH SONG (Not Round) ~ Post Malone \\\"Better Now\\\" Parody ~ Rucka Rucka Ali",
+    "score": 10
+  },
+  {
+    "id": "nH8uq-8jhyI",
+    "title": "Flat Earth Conspiracy Love Song | Animated Musical Parody",
+    "score": 10
+  },
+  {
+    "id": "tIdi-BY4h6o",
+    "title": "Nuts [YTP] | A Moana parody",
+    "score": 10
+  },
+  {
+    "id": "MnIRAGodAXA",
+    "title": "Highlight Tribe - Free Tibet (Vini Vici Remix)",
+    "score": 10
+  },
+  {
+    "id": "j7PmyY7CGeo",
+    "title": "Plate Tectonics (Educational Parody of Whistle by Flo Rida)",
+    "score": 10
+  },
+  {
+    "id": "hhxjAAnwNKM",
+    "title": "\\\"Flight from Earth\\\" - Marsh Family parody of Katy Perry's \\\"Firework\\\" on the Blue Origin space launch",
+    "score": 10
+  },
+  {
+    "id": "YJF6NcwkZbc",
+    "title": "Search filters",
+    "score": 10
+  }
+]

@@ -1,1 +1,3277 @@
-[]
+[
+  {
+    "id": "EoJRAJxEbWo",
+    "title": "אקסל למתחילים - הקורס המלא",
+    "score": 110
+  },
+  {
+    "id": "WTaltKX76_g",
+    "title": "מדריך Microsoft Excel למתחילים - קורס מלא",
+    "score": 110
+  },
+  {
+    "id": "y-vtJrirvX0",
+    "title": "המדריך להכנת לחם מחמצת בבית",
+    "score": 110
+  },
+  {
+    "id": "C4HjfzY3z90",
+    "title": "איך לצלם תמונות נוף מדהימות: מדריך למתחילים",
+    "score": 110
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "hiK9a8Gv3yE",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "AoLpFDUcVOE",
+    "title": "מדריך פייתון - 22 - פונקציית range",
+    "score": 110
+  },
+  {
+    "id": "c0ZW0GIRp7Q",
+    "title": "מדריך פייתון/Python פרק 1 - Hello World",
+    "score": 110
+  },
+  {
+    "id": "_7CCaDUm_x4",
+    "title": "אקסל VLOOKUP למתחילים",
+    "score": 60
+  },
+  {
+    "id": "W9HxzkZfs4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "eV9CcSbl4q8",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "7oiDM55WyqE",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "6OBhiguJnMo",
+    "title": "איך להכין לחם מחמצת ביתי",
+    "score": 60
+  },
+  {
+    "id": "uA8wcQAib2o",
+    "title": "כך תכינו מחמצת של תומר בלס",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "איך להכין מחמצת ביתית! 😍",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "עיצוב כיכר לחם מחמצת מתוך סדנה - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "3tvEFE-2m4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "JcAlyfcw3eE",
+    "title": "לחם מחמצת למתחילים - כולל מושגים בסיסיים בעולם האפיה",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "איך עושים לחם מחמצת מקמח מלא",
+    "score": 60
+  },
+  {
+    "id": "gYOZYAHNgj4",
+    "title": "אפיית לחם מחמצת - תהליך מלא",
+    "score": 60
+  },
+  {
+    "id": "GUW_nCnrnyw",
+    "title": "צילום נוף - טיפים לצילום טבע ונוף",
+    "score": 60
+  },
+  {
+    "id": "PIrpZXSH-KA",
+    "title": "היררכיה בצילום",
+    "score": 60
+  },
+  {
+    "id": "BHACKCNDMW8",
+    "title": "Yuval Dax Wildlife /  יובל דקס צילום טבע בישראל",
+    "score": 60
+  },
+  {
+    "id": "SYyvx6GE2UI",
+    "title": "צילום טבע | קרב נחשים - זעמנים שחורים |  wildlife photography | large whip snakes struggling",
+    "score": 60
+  },
+  {
+    "id": "ikq5k0aRRC4",
+    "title": "צילום טבע בעולם | רועי גליץ",
+    "score": 60
+  },
+  {
+    "id": "5I69DCxYbBg",
+    "title": "מקומות הכי יפים בארץ / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "99UPu6V4lwA",
+    "title": "צילום טבע - מפגש עם איליה שלמייב",
+    "score": 60
+  },
+  {
+    "id": "P6GauxQTbQU",
+    "title": "צילום טבע פראי, הסיפורים מאחורי העדשה | בהנחיית איילה פישהיימר",
+    "score": 60
+  },
+  {
+    "id": "KwadAj2xclk",
+    "title": "תערוכת סיכום סדנת צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "cdG2d46fPh8",
+    "title": "הצלם רועי גליץ - צילום טבע עם עדשות רחבות",
+    "score": 60
+  },
+  {
+    "id": "gVjei0pKhhQ",
+    "title": "צילום טבע ממעוף הציפור",
+    "score": 60
+  },
+  {
+    "id": "jT3BVLt3IYU",
+    "title": "wildlife photography / צילום טבע",
+    "score": 60
+  },
+  {
+    "id": "8Spx6UlkLIk",
+    "title": "טיפים לצילום טבע וטיימלאפס",
+    "score": 60
+  },
+  {
+    "id": "iEnb-Frvkfw",
+    "title": "Hanunov Kfir / מה בעצם עושה צלם טבע",
+    "score": 60
+  },
+  {
+    "id": "xBNZL0dhUoo",
+    "title": "טיפים מובילים להיכנס לתחום צילום חיות בר. למדו ממקצוענים!",
+    "score": 60
+  },
+  {
+    "id": "fNX8tKnozF0",
+    "title": "פייתון למתחילים - ללמוד פייתון בשעה וחצי",
+    "score": 60
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "J8pkD4g_lKk",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XxrtGZ9S_ec",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "dtwv-Y0hxSQ",
+    "title": "python 3 programming for beginners פייתון למתחילים | פקודות בסיסיות",
+    "score": 60
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "Bake the Perfect Sourdough Bread: A Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "Vb1Am5uD3ss",
+    "title": "The BEST Beginner Sourdough Bread Tutorial on YouTube",
+    "score": 50
+  },
+  {
+    "id": "gTHKEOTF5nA",
+    "title": "How to Make Ballerina Farm Sourdough Loaves",
+    "score": 50
+  },
+  {
+    "id": "gtb7QvmvPeg",
+    "title": "Discover the Secrets of Ancient Egypt | Engineering an Empire | Full Episode | History",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "America CAN'T Compete with China’s High-Tech Future! 🇨🇳",
+    "score": 50
+  },
+  {
+    "id": "Hb5sRAzY6Jc",
+    "title": "Top 17 New Technology Trends That Will Define 2026",
+    "score": 50
+  },
+  {
+    "id": "gXjUlez98MA",
+    "title": "Top 10 Future Technologies In 2026 | High Paying Future Technology 2026 | Simplilearn",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "_EHmnmGVSDI",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "XKHEtdqhLK8",
+    "title": "1.Python tutorial for beginners",
+    "score": 50
+  },
+  {
+    "id": "7XCFc6JfJIg",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "ygXn5nV5qFc",
+    "title": "Introduction: Learn Python for AI",
+    "score": 50
+  },
+  {
+    "id": "Ro_MScTDfU4",
+    "title": "Learning Python made simple",
+    "score": 50
+  },
+  {
+    "id": "f0RX4rYySh8",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "Python for Beginners - Learn Coding with Python in 1 Hour",
+    "score": 50
+  },
+  {
+    "id": "P_PaIGG1-rI",
+    "title": "Learn Spanish in 35 minutes: The 100+ everyday Spanish sentences you need to know!",
+    "score": 50
+  },
+  {
+    "id": "fmUOI4iBCpU",
+    "title": "Learn Spanish in 4 Hours | All the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "r_u6Wp0Y6yk",
+    "title": "Effortlessly Learn 300 Spanish Phrases to Repeat and Memorize Forever",
+    "score": 50
+  },
+  {
+    "id": "5jq0abAeP-s",
+    "title": "Patterns: A Faster Way to Learn Spanish",
+    "score": 50
+  },
+  {
+    "id": "tw0sJmpICvU",
+    "title": "Learn Beginner Spanish and Learn Basic Spanish Like a M.F. | 9-Hour Spanish Course",
+    "score": 50
+  },
+  {
+    "id": "UxE3n6beo0k",
+    "title": "Learn Spanish in 4 Hours - ALL the Spanish Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "qE-03EATjho",
+    "title": "Learn Spanish: Forced Recall Changes How Fast You Get Fluent",
+    "score": 50
+  },
+  {
+    "id": "B0tWLhnzJLc",
+    "title": "Lesson 1: Spanish Pronunciation \\u0026 Basic Translation",
+    "score": 50
+  },
+  {
+    "id": "8Ozf-mSpMFk",
+    "title": "Learning Spanish is THIS Easy - No MEMORY Required!",
+    "score": 50
+  },
+  {
+    "id": "WqVMw6hDRDI",
+    "title": "IF YOU WANT TO LEARN SPANISH WATCH THIS FIRST!! Must know, basic conversational vocabulary. || SAH",
+    "score": 50
+  },
+  {
+    "id": "5Ga566gw01Q",
+    "title": "Learn Spanish at the Supermarket! What I Buy Every Week (Comprehensible Input)",
+    "score": 50
+  },
+  {
+    "id": "S80SZH2iq1c",
+    "title": "Learn Spanish in 10 Minutes - ALL the Basics You Need",
+    "score": 50
+  },
+  {
+    "id": "245RCAuFACg",
+    "title": "Listen and learn Spanish with Subtitles",
+    "score": 50
+  },
+  {
+    "id": "YO_cs_aLw7s",
+    "title": "WATCH NOW 🔴: Miscellaneous Items \\u0026 Processes, Vol. 2 | How It's Made | Science Channel",
+    "score": 50
+  },
+  {
+    "id": "ix9cRaBkVe0",
+    "title": "Python Full Course for free 🐍",
+    "score": 50
+  },
+  {
+    "id": "NpmFbWO6HPU",
+    "title": "How To Navigate These Projects",
+    "score": 50
+  },
+  {
+    "id": "CMEWVn1uZpQ",
+    "title": "Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)",
+    "score": 50
+  },
+  {
+    "id": "LHBE6Q9XlzI",
+    "title": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "score": 50
+  },
+  {
+    "id": "mC4nyib2sfg",
+    "title": "How I Learned Python FAST",
+    "score": 50
+  },
+  {
+    "id": "vLgVqoIRW0E",
+    "title": "The Illusion of Linear History",
+    "score": 50
+  },
+  {
+    "id": "vbgxIwQoyN4",
+    "title": "how to reset/back factory default setting Ridstar electric bike?",
+    "score": 50
+  },
+  {
+    "id": "Mjn7y9WAjN8",
+    "title": "How To Fix Your Sleep Schedule - Reset Your Sleep Pattern (animated)",
+    "score": 50
+  },
+  {
+    "id": "Z1i0rOQXEac",
+    "title": "How to Cycle Your Fasts \\u0026 How Long Should You Fast",
+    "score": 50
+  },
+  {
+    "id": "xZOMIhVdfnk",
+    "title": "How to Search for Major Aiva's Mementos \\\"Major's Footlocker\\\" Arc Raiders Quick Guide",
+    "score": 50
+  },
+  {
+    "id": "rP7yjXOHKB8",
+    "title": "How to Choose a Major | Crash Course | How to College",
+    "score": 50
+  },
+  {
+    "id": "SRhwiLT0Z8c",
+    "title": "How to Pick Your Major: Fast Guides",
+    "score": 50
+  },
+  {
+    "id": "O37Lm0L77fo",
+    "title": "how to pick a college major | tips \\u0026 advice",
+    "score": 50
+  },
+  {
+    "id": "lcx3xGlTijk",
+    "title": "What Got You into this this Field of Study",
+    "score": 50
+  },
+  {
+    "id": "krQHQvtIr6w",
+    "title": "and make a dude smoothie",
+    "score": 50
+  },
+  {
+    "id": "LH7P6PyaqPg",
+    "title": "Walter Cruttenden - Competing with Caltech Is it a Planet or a Star",
+    "score": 50
+  },
+  {
+    "id": "ggl1qKKL8JU",
+    "title": "Jon on Trump Dodging Epstein Fallout \\u0026 Kosta on MAGA-fied Halftime \\u0026 D.C. Makeover | The Daily Show",
+    "score": 50
+  },
+  {
+    "id": "KZLYHdZOMvc",
+    "title": "How To Use Search Filters In X (Twitter) (Updated)",
+    "score": 50
+  },
+  {
+    "id": "yRZVEWkYsac",
+    "title": "✅  How To Filter Searches On YouTube  🔴",
+    "score": 50
+  },
+  {
+    "id": "MN6Fmdz5uLk",
+    "title": "How to Use Search Filters on Netflix app 🔎 (step-by-step for beginners)",
+    "score": 50
+  },
+  {
+    "id": "VZ38KjoiR20",
+    "title": "How To Use Search Filters In Facebook On PC (New Update)",
+    "score": 50
+  },
+  {
+    "id": "z8JzYvXjXNg",
+    "title": "How to Customise SharePoint Search - Verticals, Filters, Result Layouts!!!",
+    "score": 50
+  },
+  {
+    "id": "6zGF4hn8DdY",
+    "title": "Facets vs Filters | Grokking Search | Micro-Lesson",
+    "score": 50
+  },
+  {
+    "id": "OBcE9gUivL0",
+    "title": "YouTube Effect | How to use YouTube Effect #effectmaker #filter #effects",
+    "score": 50
+  },
+  {
+    "id": "elRRxMbx3Cw",
+    "title": "NYPD does not make this arrest unless ordered to: Paul Mauro",
+    "score": 50
+  },
+  {
+    "id": "wJbK0YamaSU",
+    "title": "First Wash in 45 Years: BARN FIND Corvette With 1599 Original Miles! | Satisfying Restoration",
+    "score": 50
+  },
+  {
+    "id": "2qDO0eRlsDY",
+    "title": "Ep059 Egypt Tour Review with UnchartedX and Cosmic Tusk -Kosmographia, The Randall Carlson Podcast",
+    "score": 50
+  },
+  {
+    "id": "-95Z1qYGrDs",
+    "title": "Incident Management Process: A Step by Step guide",
+    "score": 50
+  },
+  {
+    "id": "CgH4CxQrgRc",
+    "title": "Hattusa - 3D Tour of the Hittite Capital - Bronze Age DOCUMENTARY",
+    "score": 50
+  },
+  {
+    "id": "Zb1q3Ljh4zk",
+    "title": "Sounds of Hattusa Ancient Hittite City 1600 BC | Historical Ambience for Sleep, Study, Relaxation",
+    "score": 50
+  },
+  {
+    "id": "jLuO1j-R_WU",
+    "title": "The History of Anatolia : Every Year",
+    "score": 50
+  },
+  {
+    "id": "QUOKaodz8Bg",
+    "title": "Secrets of Hattusa: The Capital of the Hittite Empire #history #ancient #turkey",
+    "score": 50
+  },
+  {
+    "id": "diocdIesJLA",
+    "title": "History from Below — How Hidden Collective Forces Rewrite Identity and Power",
+    "score": 50
+  },
+  {
+    "id": "oTKhsBL25sE",
+    "title": "Preview",
+    "score": 50
+  },
+  {
+    "id": "o7R-B52KODs",
+    "title": "How to Get Pregnant FAST: Best Time to Conceive \\u0026 Ovulation Tips",
+    "score": 50
+  },
+  {
+    "id": "7a7XmcronpA",
+    "title": "Best Time in Your Cycle to Get Pregnant | Proven by Science",
+    "score": 50
+  },
+  {
+    "id": "SiNHMWkJYs0",
+    "title": "When day can you get pregnant each month? Are you trying to get pregnant? Do you know how to time",
+    "score": 50
+  },
+  {
+    "id": "927xZzAstfk",
+    "title": "How To Make Her Miss You Using Science",
+    "score": 50
+  },
+  {
+    "id": "_SVi7wJKGbo",
+    "title": "Breaking Bad Grey Matter Technologies Explained + What If Walter Accepted Elliot's Offer",
+    "score": 50
+  },
+  {
+    "id": "HrxZWNu72WI",
+    "title": "Telling Time For Children - Learning the Clock",
+    "score": 50
+  },
+  {
+    "id": "r2K1Py9U87I",
+    "title": "Rock 'N Learn Title Screen",
+    "score": 50
+  },
+  {
+    "id": "trcYcR_cbvs",
+    "title": "How to Tell Time on an Analog Clock | Basic Life Skills",
+    "score": 50
+  },
+  {
+    "id": "Dcw0YPCCXbo",
+    "title": "LEARN HOW TO READ A CLOCK",
+    "score": 50
+  },
+  {
+    "id": "wbJcJCkBcMg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vl0H-qTclOg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VjYeIfdUq0Q",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "4gEoh3sk2AE",
+    "title": "Intro \\u0026 Sourdough Starter feeding",
+    "score": 10
+  },
+  {
+    "id": "gHPSiqweC78",
+    "title": "Simple Sourdough Bread: Step by Step 🍞🍞75% Hydration",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "CTuGXdyrWUo",
+    "title": "Beginner Sourdough Bread",
+    "score": 10
+  },
+  {
+    "id": "ssPg5k4UhVQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "XQWD-PTFdew",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gxqPbGqYACw",
+    "title": "The Rise and Fall of Julius Caesar",
+    "score": 10
+  },
+  {
+    "id": "0bbvJixWtuQ",
+    "title": "The Engineering Innovations Behind the World’s Most Advanced Submarines | Blueprint",
+    "score": 10
+  },
+  {
+    "id": "9cdUxZuarL0",
+    "title": "The Nile and the First Megastructures",
+    "score": 10
+  },
+  {
+    "id": "iLj8ttLqfEI",
+    "title": "Turbines and fans inspired by whales, Showers that helps saving water, Rotor blades for onshore and offshore energy production",
+    "score": 10
+  },
+  {
+    "id": "cbkG5e3AGQ0",
+    "title": "3 Hours of Amazing Nature Scenery \\u0026 Relaxing Music for Stress Relief.",
+    "score": 10
+  },
+  {
+    "id": "HVE4EwZ2peo",
+    "title": "6 Hour 4K Beautiful places Aerial Views",
+    "score": 10
+  },
+  {
+    "id": "G1hKzCkywM8",
+    "title": "Nature Europe 4K • Calm Horizon with Deep Relaxing Music | Relaxation Film",
+    "score": 10
+  },
+  {
+    "id": "tf-z2vU9tuI",
+    "title": "5 HRS Amazing Landscape Photography - Wallpapers Slideshow in 4K UHD - Top World Destinations",
+    "score": 10
+  },
+  {
+    "id": "JWqysywg8oU",
+    "title": "2 Hours of Relaxing Landscape \\u0026 Nature Photography",
+    "score": 10
+  },
+  {
+    "id": "nh_DX6QSJu4",
+    "title": "Best of the Best: 20 Years of Nature's Best Photography",
+    "score": 10
+  },
+  {
+    "id": "tQ9gPQAk8xY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gSBGNv9f8vU",
+    "title": "AI In The Next 5 Years (2026 to 2030)",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "10 Smart Gadgets That Will Define 2026: What's Coming",
+    "score": 10
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "آموزش برنامه نویسی پایتون از مقدماتی تا پیشرفته ( صفر تا صد python )",
+    "score": 10
+  },
+  {
+    "id": "_uQrJ0TkZlc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MAdr67RNrMg",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "nLRL_NcnK-4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ERCMXc8x7mc",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "kqtD5dpn9C8",
+    "title": "9 HOURS of Python Projects - From Beginner to Advanced",
+    "score": 10
+  },
+  {
+    "id": "b093aqAZiPU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "UY-G2Yg7e4U",
+    "title": "Rare Barn Find Sees Daylight for the First Time in 28 Years",
+    "score": 10
+  },
+  {
+    "id": "6_5FnCLLYoA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "U87ZhylevYA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0lriA2ZoacE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xglEjH0Ue8o",
+    "title": "LOCATION",
+    "score": 10
+  },
+  {
+    "id": "a2y0dUCuAP8",
+    "title": "Improve your SPANISH listening by up to 90% in just 45 minutes!",
+    "score": 10
+  },
+  {
+    "id": "t7-nb1wlnyA",
+    "title": "Hi, I'm Lucia. Nice to meet you",
+    "score": 10
+  },
+  {
+    "id": "DqAstqD7Pzc",
+    "title": "URGENT: SOFI Shareholders Do THIS ASAP!",
+    "score": 10
+  },
+  {
+    "id": "n_2y53eAy54",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "-N2PhuRQYM0",
+    "title": "Soviet On Venus",
+    "score": 10
+  },
+  {
+    "id": "MzvibwGi7Sw",
+    "title": "Dad Reacts to Ariana Grande - thank u, next",
+    "score": 10
+  },
+  {
+    "id": "Km__cJEJ3JI",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "-_aGvdfLTKY",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "uKqRAC-JNOM",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "XTZigwkcJhw",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "m7XHduHsBvk",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "DOJremEQw88",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "Z1pmpDRrQhU",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "6GcpNvYFMGE",
+    "title": "Song credits",
+    "score": 10
+  },
+  {
+    "id": "_MmPHecEtFM",
+    "title": "Inside the Sub That Reached Earth's Deepest Point | Bathyscaphe Trieste",
+    "score": 10
+  },
+  {
+    "id": "o_Zs8UdCArM",
+    "title": "Deep Sea Gigantism | Why the Ocean Breeds Giants",
+    "score": 10
+  },
+  {
+    "id": "yhx77tFyDg0",
+    "title": "Granite.",
+    "score": 10
+  },
+  {
+    "id": "zpx4FI8WMOc",
+    "title": "Crayons.",
+    "score": 10
+  },
+  {
+    "id": "UvBWvgs_Ewk",
+    "title": "Sandwich Cookies- Originally aired 2009",
+    "score": 10
+  },
+  {
+    "id": "10bX7DALeM0",
+    "title": "Playing Cards - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "6as_1m9YAG0",
+    "title": "Fresh Cut Flowers.",
+    "score": 10
+  },
+  {
+    "id": "2_ByOx96xNA",
+    "title": "Indy Car Seats - Originally aired 2013",
+    "score": 10
+  },
+  {
+    "id": "xNl46qUrYJQ",
+    "title": "Soda Crackers - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "-yqehvAQH1A",
+    "title": "Hammer.",
+    "score": 10
+  },
+  {
+    "id": "5XFLpRN2tYc",
+    "title": "Pillows - Originally aired 2014",
+    "score": 10
+  },
+  {
+    "id": "qCjH8J76uJQ",
+    "title": "Bandages - Originally aired 2005",
+    "score": 10
+  },
+  {
+    "id": "OoEvbC2UDzk",
+    "title": "Baseballs - Originally aired 2008",
+    "score": 10
+  },
+  {
+    "id": "gJDKP8bpUoY",
+    "title": "Cultured Diamonds.",
+    "score": 10
+  },
+  {
+    "id": "1uWA6iEz37Q",
+    "title": "Filing Cabinets",
+    "score": 10
+  },
+  {
+    "id": "zL93IObiPbw",
+    "title": "Glass Paperweights - Originally aired 2010",
+    "score": 10
+  },
+  {
+    "id": "OEJv74QnduA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "H2EJuAcrZYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GPVsHOlRBBI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "5NgNicANyqM",
+    "title": "Introuction",
+    "score": 10
+  },
+  {
+    "id": "rfscVS0vtbw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DMw8jH0R6Fg",
+    "title": "Overview",
+    "score": 10
+  },
+  {
+    "id": "sTAYtvdPoA0",
+    "title": "2026 Grand Champion Steer 'White Castle'  shatters auction record at Fort Worth Stock Show and Rodeo",
+    "score": 10
+  },
+  {
+    "id": "sOpo2cVoAxQ",
+    "title": "Mercury Grand Marquis - a cool American 1980s sedan (saloon)",
+    "score": 10
+  },
+  {
+    "id": "8iBWGnLWYcg",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "bfE_SzOXNuw",
+    "title": "About The GSX-S1000GT Incident | What Happened?",
+    "score": 10
+  },
+  {
+    "id": "GLbDF8P4gww",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "YIOin2IbIOM",
+    "title": "tik tok thank you next ariana song",
+    "score": 10
+  },
+  {
+    "id": "CXmiEk8d8QE",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "Kfkp74mNl0U",
+    "title": "DOLLAR TREE GRAND OPENING 🎉 NEW ORANGE COUNTY STORE WALKTHROUGH",
+    "score": 10
+  },
+  {
+    "id": "62rmEepuNzY",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "xu7Cxhl68Yo",
+    "title": "The 12,000-Year Cycle — What Keeps Resetting Earth... and Why?",
+    "score": 10
+  },
+  {
+    "id": "_8wopG_Q7Wk",
+    "title": "The 12,000-Year Solar Cycle that Resets Earth's Civilizations | Stefan Burns",
+    "score": 10
+  },
+  {
+    "id": "HxsIZ4vVImo",
+    "title": "Massive solar flare is coming",
+    "score": 10
+  },
+  {
+    "id": "38GNSOXE4fY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iMfsa7ntJZE",
+    "title": "30 MIN NAP",
+    "score": 10
+  },
+  {
+    "id": "JjMeU1X9m_Y",
+    "title": "Ancient Civilizations Reset Cycles – Atlantis, Lost Knowledge \\u0026 Human Amnesia Explained",
+    "score": 10
+  },
+  {
+    "id": "GPO-3njGk04",
+    "title": "Ancient Civilizations Reset Cycles Explained",
+    "score": 10
+  },
+  {
+    "id": "kLIfHeYCLQk",
+    "title": "Reset sleep cycle (morphic field/programmed energies)",
+    "score": 10
+  },
+  {
+    "id": "ybccqZiExlI",
+    "title": "Intermittent Fasting Resets Your Sleep Cycle (Circadian Rhythm)",
+    "score": 10
+  },
+  {
+    "id": "kK_RWPLlMFY",
+    "title": "Your circadian rhythm",
+    "score": 10
+  },
+  {
+    "id": "PLNFuGOwNyo",
+    "title": "A Moment Before the Cycle Resets",
+    "score": 10
+  },
+  {
+    "id": "iPNnTD6dO38",
+    "title": "The Multifamily Market Is Quietly Resetting | Ken McElroy",
+    "score": 10
+  },
+  {
+    "id": "1SUWVsUSBa8",
+    "title": "Loan Maturities and Market Stress",
+    "score": 10
+  },
+  {
+    "id": "aDQhM9aMh5k",
+    "title": "Fasting Benefits Chart",
+    "score": 10
+  },
+  {
+    "id": "_tJM74eZy04",
+    "title": "Ariana Grande - thank u, next (audio)",
+    "score": 10
+  },
+  {
+    "id": "dMAesP78uWA",
+    "title": "Comments",
+    "score": 10
+  },
+  {
+    "id": "55jzFEqTvQA",
+    "title": "Keyboard shortcuts",
+    "score": 10
+  },
+  {
+    "id": "rj0tLcutBZQ",
+    "title": "Thank u Next by Ariana Grande (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "u0-7200DXtg",
+    "title": "Books of Titans Reading Project",
+    "score": 10
+  },
+  {
+    "id": "9NeuXPShR18",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hSUxnTenqSg",
+    "title": "The Turning Point",
+    "score": 10
+  },
+  {
+    "id": "eZqljmKDzBU",
+    "title": "AI 3D-Scans FINALLY Decoded The Rosetta Stone Mystery — What Was Revealed is STUNNING",
+    "score": 10
+  },
+  {
+    "id": "zdyNxIXv0Us",
+    "title": "'CLOSE CIRCLE'?: Former FBI special agent speculates on Guthrie captor's ID",
+    "score": 10
+  },
+  {
+    "id": "fDqvf-WqJqE",
+    "title": "Deputies carrying boxes from  home of Annie Guthrie, sister of 'Today' co-anchor",
+    "score": 10
+  },
+  {
+    "id": "iJHtVop4pLs",
+    "title": "The Weekend: Primetime 07/02/26 | MSNBC BREAKING NEWS TODAY February 7, 2026",
+    "score": 10
+  },
+  {
+    "id": "SZ0uw-Nj8WI",
+    "title": "Your Yearly Dose of Good News (2025)",
+    "score": 10
+  },
+  {
+    "id": "X8ZD7nTQ5iI",
+    "title": "The Great New Year's Bake Off 2025/26 | Legendary Bakers Ring in 2026",
+    "score": 10
+  },
+  {
+    "id": "j9X_Euj2EyU",
+    "title": "Good Morning America Full Broadcast — Saturday, February 7, 2026",
+    "score": 10
+  },
+  {
+    "id": "ai6yRa2zW64",
+    "title": "A Great Big World - This Is the New Year",
+    "score": 10
+  },
+  {
+    "id": "27R_goWiAAU",
+    "title": "The Last Truly Great Year of WWE",
+    "score": 10
+  },
+  {
+    "id": "mESLJMbT4zg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Fu8T-7Ct6Oc",
+    "title": "Walter Cruttenden: The Great Year, Lost Ancient Knowledge, and Awakening from Amnesia Ep.19",
+    "score": 10
+  },
+  {
+    "id": "h2jvHynuMjI",
+    "title": "Thank u Next Clean-Ariana Grande",
+    "score": 10
+  },
+  {
+    "id": "gl1aHhXnN1k",
+    "title": "Ariana Grande - thank u, next (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "tX_vx_s6Gr0",
+    "title": "Ariana Grande - thank u, next (audio)",
+    "score": 10
+  },
+  {
+    "id": "LdeIHC2EGCE",
+    "title": "Ariana Grande - we can't be friends (wait for your love) (lyric visualizer)",
+    "score": 10
+  },
+  {
+    "id": "5STD5iSW9wo",
+    "title": "thank you, brent - ARIANA GRANDE PARODY | Brent Rivera",
+    "score": 10
+  },
+  {
+    "id": "6mDTwFoD_WU",
+    "title": "Ariana Grande - thank u, next (Clean - Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "KqrDah9PD_c",
+    "title": "Reacting to Ariana Grande - Thank U, Next!",
+    "score": 10
+  },
+  {
+    "id": "ge6szxSfx7I",
+    "title": "Ariana Grande - thank u, next (Clean - Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "AVOIR8MugFs",
+    "title": "thank u, next - Ariana Grande - FUNK cover feat. Rozzi!!",
+    "score": 10
+  },
+  {
+    "id": "zein2Bq8ymI",
+    "title": "Ariana Grande - thank u, next (Karaoke Version)",
+    "score": 10
+  },
+  {
+    "id": "arqGaaG4XmM",
+    "title": "Thank u Next by Ariana Grande (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "Jya_JotgZwI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "qAHrcPJO9yo",
+    "title": "Major search for missing Gold Coast fisherman | 7NEWS",
+    "score": 10
+  },
+  {
+    "id": "eGR2Yf6yBRA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "o0AU8H3k0As",
+    "title": "Using the College and Major Search Tools",
+    "score": 10
+  },
+  {
+    "id": "jj-M6Gym0ik",
+    "title": "College Majors Most Likely To Cause Burnout",
+    "score": 10
+  },
+  {
+    "id": "KLEK8tzuQHo",
+    "title": "BigFuture: A major and career search resource",
+    "score": 10
+  },
+  {
+    "id": "k_0CmiFc-fs",
+    "title": "Using Your College Major for your Online Job Search",
+    "score": 10
+  },
+  {
+    "id": "NtN0AYNkgXg",
+    "title": "Nancy Guthrie case: Major police presence outside home | Vargas Reports",
+    "score": 10
+  },
+  {
+    "id": "Jy1TdTNWf2s",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "f6K4Bc2KcNQ",
+    "title": "#creatorsearchinsights #easiestmajor easiest major college search college majors application,",
+    "score": 10
+  },
+  {
+    "id": "dE9O7y_lYuQ",
+    "title": "This Morning’s Top Headlines – Feb. 4 | Morning News NOW",
+    "score": 10
+  },
+  {
+    "id": "3fZ7gy8m3HM",
+    "title": "Top Story with Tom Llamas - Feb. 3 | NBC News NOW",
+    "score": 10
+  },
+  {
+    "id": "lII7Xm2jnNA",
+    "title": "Is it too hot for the Winter Olympics?",
+    "score": 10
+  },
+  {
+    "id": "yL2cTjKZ4O8",
+    "title": "Best college for you major academics college search",
+    "score": 10
+  },
+  {
+    "id": "SevtSaTzsCQ",
+    "title": "'A Solution In Search Of A Problem': Jared Huffman Casts Major Doubt On Viability Of Deep Sea Mining",
+    "score": 10
+  },
+  {
+    "id": "LA7k4R6IynM",
+    "title": "Top Story with Tom Llamas - Feb. 5 | NBC News NOW",
+    "score": 10
+  },
+  {
+    "id": "d_yh8hZeNkI",
+    "title": "Top 5 Mistakes I Made In High School",
+    "score": 10
+  },
+  {
+    "id": "qVvSUY_FWzg",
+    "title": "Search for Salary by Major #jobsearch #salary #career",
+    "score": 10
+  },
+  {
+    "id": "xUId1ndmeY4",
+    "title": "5 Majors You Shouldn't Choose Just For The Money",
+    "score": 10
+  },
+  {
+    "id": "7fdK02hsJkA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "_9b7BOJyE9A",
+    "title": "Walter White joins the Avengers",
+    "score": 10
+  },
+  {
+    "id": "JyxAA0J6KnY",
+    "title": "Star Trek: Renegades - FULL MOVIE with Walter Koenig, Tim Russ, Robert Picardo, and more!",
+    "score": 10
+  },
+  {
+    "id": "eE2Wgop9VLM",
+    "title": "Walter White in Mario Kart Wii",
+    "score": 10
+  },
+  {
+    "id": "1XSysnj2Bk0",
+    "title": "Walter Cruttenden - Lost Star of Myth and Time",
+    "score": 10
+  },
+  {
+    "id": "uwaBxU5Nb0U",
+    "title": "A Conversation with Walter Koenig, Star Trek's Chekov (1994)",
+    "score": 10
+  },
+  {
+    "id": "o8czGSHEWiE",
+    "title": "Babylon 5",
+    "score": 10
+  },
+  {
+    "id": "1azoIQB2PMc",
+    "title": "Baghdad Battery",
+    "score": 10
+  },
+  {
+    "id": "L2yUkhtb4dI",
+    "title": "Walter Koenig on his \\\"Star Trek\\\" co-stars - TelevisionAcademy.com/Interviews",
+    "score": 10
+  },
+  {
+    "id": "8mpRlAb2xRw",
+    "title": "Working with William Shatner",
+    "score": 10
+  },
+  {
+    "id": "pSiMOGvzIyQ",
+    "title": "MLWTWB Co-Star Test",
+    "score": 10
+  },
+  {
+    "id": "zbycUne12a0",
+    "title": "Irresponsible politics. Unfortunately, things are going to come to a head! We'll have to get thro...",
+    "score": 10
+  },
+  {
+    "id": "qlzO088mces",
+    "title": "⚡️НОВОСТИ | СТРАШНАЯ АВАРИЯ В МОСКВЕ| КИЛЛЕРА ВЕРНУЛИ В РОССИЮ| РУХНУЛ АТТРАКЦИОН. ПОГИБ ПОЛИЦЕЙСКИЙ",
+    "score": 10
+  },
+  {
+    "id": "dQBlqm62qKI",
+    "title": "45 Minutes of Jeff Dunham \\u0026 Walter Through the Years",
+    "score": 10
+  },
+  {
+    "id": "wYptL31Op-I",
+    "title": "Unhinged in Hollywood",
+    "score": 10
+  },
+  {
+    "id": "DsnCRilvZao",
+    "title": "I WENT TO THE SITE OF THE COVERED TUNNEL. HERE'S WHAT WITNESSES AND PERSONS TOLD ME.",
+    "score": 10
+  },
+  {
+    "id": "qokjOy6kdbg",
+    "title": "Star Trek Continues E09 \\\"What Ships Are For\\\"",
+    "score": 10
+  },
+  {
+    "id": "3VEZH8bqytA",
+    "title": "STARRING VIC MIGNOGNA",
+    "score": 10
+  },
+  {
+    "id": "xRs3uRCWSb8",
+    "title": "5-STAR MCDONALD'S ALL-AMERICAN!! 6'5 SG Ja'Kobe Walter is TOUGH!",
+    "score": 10
+  },
+  {
+    "id": "ewqAaTrMZxk",
+    "title": "Wyprawowy STAR  266 ekipy WALTER TEAM",
+    "score": 10
+  },
+  {
+    "id": "tmfB0sY4Tqg",
+    "title": "SS Division in France, Das Reich",
+    "score": 10
+  },
+  {
+    "id": "UtY84_oaaqU",
+    "title": "Walter Koenig Compares Star Trek to Babylon 5, C2E2 2020",
+    "score": 10
+  },
+  {
+    "id": "pkGoGOjgYqU",
+    "title": "Star Presence and Ascension : Sandra Walter",
+    "score": 10
+  },
+  {
+    "id": "OjeX5drV9ms",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "pX1puTIogCw",
+    "title": "Ariana Grande - thank u, next (clean)",
+    "score": 10
+  },
+  {
+    "id": "S1XSzfFAYHE",
+    "title": "katseye's soundcheck is too entertaining pt.4",
+    "score": 10
+  },
+  {
+    "id": "0UM8qOkE7Hw",
+    "title": "Dad Reacts to Ariana Grande - thank u, next",
+    "score": 10
+  },
+  {
+    "id": "AoAm4om0wTs",
+    "title": "BILLIE EILISH \\u0026 FINNEAS O'CONNELL Win SONG OF THE YEAR | 2026 GRAMMYs",
+    "score": 10
+  },
+  {
+    "id": "n2UnPnOYHNM",
+    "title": "Ariana Grande \\u0026 thank u, next WIN \\\"Favorite Female Artist \\u0026 Song\\\"  | 2019 Kids' Choice Awards",
+    "score": 10
+  },
+  {
+    "id": "emAZgR5GUWw",
+    "title": "Ariana Grande - thank u, next (Clean - Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "5K6foouoB-M",
+    "title": "Ariana Grande - One Last Time (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "cghnCHgCKQA",
+    "title": "she’s so sweet for doing that for her dad 🥺💞 #arianagrande",
+    "score": 10
+  },
+  {
+    "id": "53Sg4uZcOpc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "PG5mBrM1QBA",
+    "title": "Introduction and overview",
+    "score": 10
+  },
+  {
+    "id": "xAqCEBFGdYk",
+    "title": "Excel tip advanced filter unique values",
+    "score": 10
+  },
+  {
+    "id": "zf4aMlFgd6I",
+    "title": "Known issue 🚨 Greyed out search filters issue yt studio Greyed out search filters issue",
+    "score": 10
+  },
+  {
+    "id": "dneR1fSiS2Q",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt Studio Update",
+    "score": 10
+  },
+  {
+    "id": "i4Uy050xsEM",
+    "title": "Known Issue 🚨Greyed out search filters issue | YouTube notice Known Issue🚨",
+    "score": 10
+  },
+  {
+    "id": "nf48TRJCrvk",
+    "title": "Known issue 🚨 Greyed out search filters issue | Greyed out search filters issue yt studio ",
+    "score": 10
+  },
+  {
+    "id": "UW2Ra50WHTw",
+    "title": "Known issue Greyed out search filters issue kya hai Yt Studio | Greyed out search filters issue",
+    "score": 10
+  },
+  {
+    "id": "XjCjhAN-Pcc",
+    "title": "Known Issue 🚨Greyed out search filters issue Known Issue | iska Matlab keya Hai in hindi",
+    "score": 10
+  },
+  {
+    "id": "4LacR703c_U",
+    "title": "Google Search Tricks - Google Advanced Search Filters -  Google Search Filters",
+    "score": 10
+  },
+  {
+    "id": "1HEHAAyaF7E",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "lhhFDISgobg",
+    "title": "Filter with Search - MIcrosoft Excel Tip",
+    "score": 10
+  },
+  {
+    "id": "Na2h1wj26UU",
+    "title": "Introduction and what we are doing",
+    "score": 10
+  },
+  {
+    "id": "tSZQLsAgyBE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ebavLWRi-ko",
+    "title": "Mauro Paul - EMUNÁH (OneShot Official) | Fin Del Selah",
+    "score": 10
+  },
+  {
+    "id": "yQnP3PHYVxw",
+    "title": "Real Images Of Venus Show That Something Is Seriously Off With The Planet",
+    "score": 10
+  },
+  {
+    "id": "0iq91vQc6nY",
+    "title": "Paul Mauro - Intelligence at the NYPD | Snack Break with Aroop Mukharji",
+    "score": 10
+  },
+  {
+    "id": "hWQ79axWVyA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sSkPO4GSu9Y",
+    "title": "These are 'OUTRAGEOUS CONDITIONS': Paul Mauro",
+    "score": 10
+  },
+  {
+    "id": "2hauqRyuNac",
+    "title": "Paul Mauro: We need to look larger than these 5 officers",
+    "score": 10
+  },
+  {
+    "id": "Xl6lveI3E3I",
+    "title": "This letter could explain why police launched a new search, says former NYPD inspector",
+    "score": 10
+  },
+  {
+    "id": "j6pu6poI2h4",
+    "title": "FULL INTERVIEW: P.I. breaks down Nancy Guthrie case | FOX 10 Phoenix",
+    "score": 10
+  },
+  {
+    "id": "9fOcHXYhgKY",
+    "title": "Guthrie family may have gotten ‘proof of life’: Mark Geragos | NewsNation Prime",
+    "score": 10
+  },
+  {
+    "id": "gOv0WLXwKXQ",
+    "title": "MAJOR development in search for Nancy Guthrie",
+    "score": 10
+  },
+  {
+    "id": "OWKcNiyMxEM",
+    "title": "Deputies carrying boxes from  home of Annie Guthrie, sister of 'Today' co-anchor",
+    "score": 10
+  },
+  {
+    "id": "2OYzyjZpfH0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8Wm1HpTB2KQ",
+    "title": "FBI will investigate whether Charlie Kirk assassination was a conspiracy: Paul Mauro #news #usa",
+    "score": 10
+  },
+  {
+    "id": "6EP9LSTnaZM",
+    "title": "Mauro Paul Ft. @Deyelee - No Es Para Mí (Video  Oficial) | Fin Del Selah ",
+    "score": 10
+  },
+  {
+    "id": "68tsFntiRNM",
+    "title": "Video on Alex Pretti’s phone will provide KEY audio: Paul Mauro",
+    "score": 10
+  },
+  {
+    "id": "Pf0X9hVZabw",
+    "title": "Paul Mauro: This is an ‘unusual’ circumstance in Luigi Mangione case",
+    "score": 10
+  },
+  {
+    "id": "AbMzOTAAPMg",
+    "title": "The symbolism of this is inescapable: Retired NYPD inspector",
+    "score": 10
+  },
+  {
+    "id": "pxmBEB8zAwo",
+    "title": "‘ARE YOU KIDDING ME?’: Paul Mauro slams those who say Minneapolis shooter didn’t have this",
+    "score": 10
+  },
+  {
+    "id": "CXmV0E2KxWc",
+    "title": "This is the feds’ ‘BEST MOVE’ for Kirk assassin case: Paul Mauro",
+    "score": 10
+  },
+  {
+    "id": "picXD3uQtcc",
+    "title": "Mauro Paul - SOLAMENTE TU PRESENCIA (Video Oficial) | Fin Del Selah ",
+    "score": 10
+  },
+  {
+    "id": "1dFvVog74Bk",
+    "title": "Mauro Paul - No es Hora de Rendirse (VideoLyrics)  ",
+    "score": 10
+  },
+  {
+    "id": "FxCe9kUMeu0",
+    "title": "Mauro Paul • Sé Que Tú (VIDEO OFICIAL) prod. @dimeloismael",
+    "score": 10
+  },
+  {
+    "id": "Uh82n2fPF7E",
+    "title": "Mauro Paul - VISIONARIO (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "0GWcvygGp20",
+    "title": "#1 SIEMPRE CON FE - Mauro Paul (Video Oficial)",
+    "score": 10
+  },
+  {
+    "id": "WqXSEnUs7IM",
+    "title": "SINCERO (Remix) - Mauro Paul Ft. Little Boogie, Refran PZK , Lepa, Kazik, AT$EL, Laiky, ThomsCry",
+    "score": 10
+  },
+  {
+    "id": "SUDrr2Dh7xQ",
+    "title": "Mauro Paul - SINCERO (ft Matheo Romann) SHOT By @NicoMoreno1",
+    "score": 10
+  },
+  {
+    "id": "TdJVys6E6pA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "rXv-FoG8bCw",
+    "title": "Teens Go Missing –20 Years Later They Find These Polaroids | The Case of Lauria and Ashley",
+    "score": 10
+  },
+  {
+    "id": "JsAM0qZWPdU",
+    "title": "500,000 Years Later—Aliens Find Earth's Sleeping War Fleet! Best HFY | HFY Sci-Fi Story",
+    "score": 10
+  },
+  {
+    "id": "wdxm5_FwsFo",
+    "title": "Titanic: Why It Took 73 Years To Find The Wreck",
+    "score": 10
+  },
+  {
+    "id": "CeOyXYK_qPg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "BgYNsqcii8c",
+    "title": "Took me THREE YEARS to find one!",
+    "score": 10
+  },
+  {
+    "id": "8i8WOYWURpg",
+    "title": "BARN FIND Anniversary Corvette Parked 37 YEARS! Will it RUN AND DRIVE Home?",
+    "score": 10
+  },
+  {
+    "id": "Bn-yUH4y3o8",
+    "title": "1954 Rover Barn Find | Rescue after 56 years",
+    "score": 10
+  },
+  {
+    "id": "sar57tUZLL4",
+    "title": "Mom Finds Kidnapped Son 2 Years Later",
+    "score": 10
+  },
+  {
+    "id": "4o_TBop1S4M",
+    "title": "Rare Barn Find Sees Daylight for the First Time in 28 Years",
+    "score": 10
+  },
+  {
+    "id": "RXPFHKqbM0w",
+    "title": "Calculate the number of Years between two Dates in Excel",
+    "score": 10
+  },
+  {
+    "id": "Ha38IMstgF8",
+    "title": "Chosen One, This Person Had Waited 7 Years To Find You",
+    "score": 10
+  },
+  {
+    "id": "KjYoiRGtIx8",
+    "title": "He Waited Years to Find Her… And Won’t Let Go Again | The Price of His Obsession | Romantic Movies",
+    "score": 10
+  },
+  {
+    "id": "kVoY_ls_HKk",
+    "title": "50 Years Later, Couple Reunites \\u0026 Find Lost Daughter! ❤️👧 II STEVE HARVEY",
+    "score": 10
+  },
+  {
+    "id": "g6FE70ti6tg",
+    "title": "I've been trying to find this movie for 10 years",
+    "score": 10
+  },
+  {
+    "id": "YZDFAmaaa6E",
+    "title": "9 Video Game Secrets That Took Years to Find",
+    "score": 10
+  },
+  {
+    "id": "Ea6hoKsitGU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C-TNI1xQb-4",
+    "title": "This Mob Took Me 13 Years to Find...",
+    "score": 10
+  },
+  {
+    "id": "ncZ4DrOd98w",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "F7rdCveIC9Q",
+    "title": "$106",
+    "score": 10
+  },
+  {
+    "id": "njn_Kpao3qI",
+    "title": "Orange Dollar - A Million Bucks",
+    "score": 10
+  },
+  {
+    "id": "v_5E5m0D4iU",
+    "title": "Orange Dollar - Lost Without",
+    "score": 10
+  },
+  {
+    "id": "CDiuCHUQmEk",
+    "title": "Orange Dollar - The Way That I Loved",
+    "score": 10
+  },
+  {
+    "id": "yjQ3Fzw0GBs",
+    "title": "Orange Dollar - Never Again",
+    "score": 10
+  },
+  {
+    "id": "5NCptPmv5gY",
+    "title": "Orange Dollar - This Life We're Living",
+    "score": 10
+  },
+  {
+    "id": "rsMLp0clbaE",
+    "title": "Orange Dollar - This Life We're Living",
+    "score": 10
+  },
+  {
+    "id": "_L9hJCc5TBs",
+    "title": "Orange Dollar - Can't Give Less Lyric Video",
+    "score": 10
+  },
+  {
+    "id": "E2XVa8Kh8HI",
+    "title": "Orange Dollar - Somewhere To Be",
+    "score": 10
+  },
+  {
+    "id": "kR03NifYjhg",
+    "title": "Orange Dollar - Good Days and Bad",
+    "score": 10
+  },
+  {
+    "id": "V5mOiwE3RHU",
+    "title": "Orange Dollar - Goodbye",
+    "score": 10
+  },
+  {
+    "id": "4YaN7pKDMUU",
+    "title": "Orange Dollar - For Years",
+    "score": 10
+  },
+  {
+    "id": "X30IHCZD2b4",
+    "title": "Orange Dollar - Hope It Lasts",
+    "score": 10
+  },
+  {
+    "id": "_gnVFS7bpyo",
+    "title": "Orange Dollar - More Than Enough",
+    "score": 10
+  },
+  {
+    "id": "ubrEOZE9ERo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KNtJGQkC-WI",
+    "title": "Ariana Grande Breaks Down 21 Looks, From Victorious to Wicked | Life in Looks | Vogue",
+    "score": 10
+  },
+  {
+    "id": "pT3Sq62u60E",
+    "title": "Ariana Grande’s Life in Looks",
+    "score": 10
+  },
+  {
+    "id": "s37x2VSZrLw",
+    "title": "Back to where it all began 🥹 #Victorious",
+    "score": 10
+  },
+  {
+    "id": "pkZc7gj2VCg",
+    "title": "Ariana Grande's Best Singing Impressions. #Ariana Grande's #imitate #celebrity #ranking #music",
+    "score": 10
+  },
+  {
+    "id": "SXiSVQZLje8",
+    "title": "Ariana Grande - breathin",
+    "score": 10
+  },
+  {
+    "id": "kN0iD0pI3o0",
+    "title": "Ariana Grande’s BEST Celebrity Impressions!",
+    "score": 10
+  },
+  {
+    "id": "bfBA9UbP_ts",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "V9PVRfjEBTI",
+    "title": "Ariana Grande, The Weeknd - Love Me Harder",
+    "score": 10
+  },
+  {
+    "id": "g5qU7p7yOY8",
+    "title": "Ariana Grande - twilight zone (Official Lyric Video)",
+    "score": 10
+  },
+  {
+    "id": "x1XIJM6spaE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "i6BUfAqh648",
+    "title": "Middlesboro Kentucky",
+    "score": 10
+  },
+  {
+    "id": "QjZ8UX2bwco",
+    "title": "Introductions",
+    "score": 10
+  },
+  {
+    "id": "zi0uvVbiIHA",
+    "title": "Think Even Bigger",
+    "score": 10
+  },
+  {
+    "id": "NMM-0BsSOdk",
+    "title": "Intro Chatter",
+    "score": 10
+  },
+  {
+    "id": "o31Rpfc0iwM",
+    "title": "Big Burns",
+    "score": 10
+  },
+  {
+    "id": "fpeK_IrP1zQ",
+    "title": "Tunguska",
+    "score": 10
+  },
+  {
+    "id": "0h8EsdlAn30",
+    "title": "Geometry of Cometary Orbits",
+    "score": 10
+  },
+  {
+    "id": "dS4S-UJjOOQ",
+    "title": "Year-end chatter",
+    "score": 10
+  },
+  {
+    "id": "NSbq5KoGkk8",
+    "title": "Great Year Precession Linked to Cycle of Catastrophes? | Randall Carlson - Kosmographia Clips 010.4",
+    "score": 10
+  },
+  {
+    "id": "sL3dpIhsSNk",
+    "title": "3I ATLAS Just Changed Color, Accelerated, AND Emitted Pulses — Webb Confirms New Anomaly",
+    "score": 10
+  },
+  {
+    "id": "5pt6qry4Hwg",
+    "title": "Breaking News Alert: The Webb Signal",
+    "score": 10
+  },
+  {
+    "id": "OjDHfow1zQM",
+    "title": "The Sacred Clock of Destruction | @TheRandallCarlson  at Cosmic Summit 2025",
+    "score": 10
+  },
+  {
+    "id": "YQSHxGJLspY",
+    "title": "Platinum Group Metals effect on Biology | Randall Carlson - Kosmographia Clips 027.1",
+    "score": 10
+  },
+  {
+    "id": "XbtookJJrb0",
+    "title": "This is The Vital Role of Sacred Geometry in The Modern Age | STC 37",
+    "score": 10
+  },
+  {
+    "id": "yinkOMPre6Y",
+    "title": "The Cycles That Shape Civilization",
+    "score": 10
+  },
+  {
+    "id": "s1b0RVdK5R8",
+    "title": "Ep064 Secrets of Sacred Geometry (Classes Forming Now) -Kosmographia The Randall Carlson Podcast",
+    "score": 10
+  },
+  {
+    "id": "5E3GS95MH0g",
+    "title": "Sedona Workshop",
+    "score": 10
+  },
+  {
+    "id": "Ip25DkCuijg",
+    "title": "Ep073 Implausible Moses Coulee Formation -Kosmographia The Randall Carlson Podcast",
+    "score": 10
+  },
+  {
+    "id": "-6UOpLr9h30",
+    "title": "Ep072 Glaciers' Big DAM Problems - Meltwater Conduits -Kosmographia The Randall Carlson Podcast",
+    "score": 10
+  },
+  {
+    "id": "QHF0sFpF4yA",
+    "title": "Recent Climate Flux",
+    "score": 10
+  },
+  {
+    "id": "QKlmuEyBw3Y",
+    "title": "Model of Landform Development by Subglacial Meltwater Shaw",
+    "score": 10
+  },
+  {
+    "id": "Gx-LFt20znk",
+    "title": "The Fingerprints of Catastrophe",
+    "score": 10
+  },
+  {
+    "id": "ioZ-kNov20c",
+    "title": "Why Does the Earth's Axial Procession Go in Reverse to Its Spin",
+    "score": 10
+  },
+  {
+    "id": "VaKHxNDbb_I",
+    "title": "Hamilton Pool",
+    "score": 10
+  },
+  {
+    "id": "K_x03O1-MHI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Er49aGCMUIY",
+    "title": "The Minecart Incident | D\\u0026D (The Devil's Due IO5e) #dnd #dungeonsanddragons",
+    "score": 10
+  },
+  {
+    "id": "VikHUdgf2-w",
+    "title": "Pak Mosque Attack: Islamic State Claims Deadliest Bombing Incident in Islamabad That Killed 36 |WION",
+    "score": 10
+  },
+  {
+    "id": "aZRhzea_nas",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "JW9D_Zu-GDQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "RPdx7nhwTgA",
+    "title": "The Ladder Incident | D\\u0026D (The Devil's Due IO5e) #dnd #dungeonsanddragons",
+    "score": 10
+  },
+  {
+    "id": "_I2FVhLWIOE",
+    "title": "The Church Rock Incident - America’s Largest Nuclear Disaster",
+    "score": 10
+  },
+  {
+    "id": "YgvGzRQdvmI",
+    "title": "Loco Pilot Shocking Facts About Charlapalli Railway Station Vijayashanti Incident! | BIG TV",
+    "score": 10
+  },
+  {
+    "id": "5-k-brW1xmw",
+    "title": "Bill Burr On His Road Rage Incident!!! 😂😂😂",
+    "score": 10
+  },
+  {
+    "id": "o_X6phszA5A",
+    "title": "Hidden Incident Revealed: Chinese Nuclear Sub Incident in Yangtze Raises Regional Radiation Concerns",
+    "score": 10
+  },
+  {
+    "id": "xD77XaYnZ8I",
+    "title": "I Investigated the Exploding Whale Incident 🐳🤯",
+    "score": 10
+  },
+  {
+    "id": "M-IJUi58yrM",
+    "title": "Basant Festival Lahore 2026, Kite Flying Incident | Breaking News | GNN",
+    "score": 10
+  },
+  {
+    "id": "lI7uWByFqJ0",
+    "title": "How Harassment Trauma Affects Your Life #themotormouth #thepaayaljain #trauma #motivation #incident",
+    "score": 10
+  },
+  {
+    "id": "_LpCCgn5EEs",
+    "title": "The DoorDash Girl’s Story Takes A Dark Turn After Shocking Incident",
+    "score": 10
+  },
+  {
+    "id": "hNGk0TGUZ_8",
+    "title": "విజయారెడ్డి వాళ్ళ అమ్మ ఇల్లు 85 లక్షలకు అమ్ముతాం అన్నది | Vijayareddy Incident About New House | RTV",
+    "score": 10
+  },
+  {
+    "id": "g14d-lpJ9J4",
+    "title": "విజయారెడ్డి కేసులో మరో కొత్త కోణం | Vijayreddy Incident About in New House | RTV",
+    "score": 10
+  },
+  {
+    "id": "oNPrwGjmStw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Xjj38QbZhyk",
+    "title": "Precession of the Equinoxes",
+    "score": 10
+  },
+  {
+    "id": "S1qkJ0yrlyY",
+    "title": "Etowah, Ocmulgee in GA",
+    "score": 10
+  },
+  {
+    "id": "h0JTO_8SlZU",
+    "title": "Ep045 Phenomenal Lake Agassiz and Glacial Megafloods on Kosmographia - The Randall Carlson Podcast",
+    "score": 10
+  },
+  {
+    "id": "ImukD9HWWA0",
+    "title": "Oak Lake",
+    "score": 10
+  },
+  {
+    "id": "j3cQHlxw1d4",
+    "title": "2001 Leonid Meteor Shower",
+    "score": 10
+  },
+  {
+    "id": "EY26Dx5hUHU",
+    "title": "UK Circle Mounds, Standing Stones",
+    "score": 10
+  },
+  {
+    "id": "c6sj0YUJBGs",
+    "title": "Why Is June 30th Chosen as Asteroid Date",
+    "score": 10
+  },
+  {
+    "id": "oynr7yUiyrw",
+    "title": "Intro Chatter",
+    "score": 10
+  },
+  {
+    "id": "QaGnfrdOFwI",
+    "title": "Population of Woolly Mammoths",
+    "score": 10
+  },
+  {
+    "id": "akOPyKcEYIA",
+    "title": "Carbon Dating",
+    "score": 10
+  },
+  {
+    "id": "DbakPmqR7VE",
+    "title": "Randall Carlson Podcast Ep035 Wildfires and Wasteland YDB Fingerprints of Catastrophe - Kosmographia",
+    "score": 10
+  },
+  {
+    "id": "6y9RMY7S7XU",
+    "title": "Regular Polyhedra",
+    "score": 10
+  },
+  {
+    "id": "LBbaGmHscg8",
+    "title": "Hattusa | Rise and Fall of the Ancient Hittite City",
+    "score": 10
+  },
+  {
+    "id": "r-sLnXNljr4",
+    "title": "Hattusa - The Hittite Trail",
+    "score": 10
+  },
+  {
+    "id": "JvthtMHXkcY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OT8MwLMQEYc",
+    "title": "HATTUSA: Exploring this ancient HITTITE CAPITAL!",
+    "score": 10
+  },
+  {
+    "id": "5pNQbOUJjkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ToeX2VKQQYE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "cJGWVQDnS48",
+    "title": "Evidence of Ancient Drill Holes",
+    "score": 10
+  },
+  {
+    "id": "YabQUizxbZI",
+    "title": "The Sound of Ancient Languages. You Haven't Seen Anything Like This Before!",
+    "score": 10
+  },
+  {
+    "id": "Wc22W3bos64",
+    "title": "Old Norse",
+    "score": 10
+  },
+  {
+    "id": "GAFdM7g161g",
+    "title": "Tocharian: Tracing the Footprints of Proto-Indo-European's Second Child",
+    "score": 10
+  },
+  {
+    "id": "YtgSU3FOqkQ",
+    "title": "HATTUSA 1080p HD",
+    "score": 10
+  },
+  {
+    "id": "R_ozkvch4Tc",
+    "title": "Ancient Hittites and Hattusa 5.000 Years Ago",
+    "score": 10
+  },
+  {
+    "id": "elObE9Hjjk0",
+    "title": "Hattusa, Çorum | Turkish Museums",
+    "score": 10
+  },
+  {
+    "id": "A8_mZ7CKpw8",
+    "title": "The Sound of the Hittite language (Vocabulary \\u0026 Sample Texts)",
+    "score": 10
+  },
+  {
+    "id": "ScmsxS0Sr4w",
+    "title": "Good morning!",
+    "score": 10
+  },
+  {
+    "id": "rpYjq6Fk-Ls",
+    "title": "ANCIENT HITTITE CAPITAL - HATTUSA TURKEY",
+    "score": 10
+  },
+  {
+    "id": "3c5q2SeE3D4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bTOQQy8db5A",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "OusqE7gTUOI",
+    "title": "I - Origins",
+    "score": 10
+  },
+  {
+    "id": "YKqVn1Td55g",
+    "title": "Hattusa: The Ancient Capital of The Hittites",
+    "score": 10
+  },
+  {
+    "id": "hIHrSlpOeaw",
+    "title": "What is the capital of the ancient Hittite empire in Asia Minor?",
+    "score": 10
+  },
+  {
+    "id": "UQkS0nG78YA",
+    "title": "The Hittites and their Capital City, Hattusha - Andreas Schachner",
+    "score": 10
+  },
+  {
+    "id": "WWLFpnxtJ8c",
+    "title": "Tarhunzas Hattusas – Ancient Hittite Epic Song (Official Release)",
+    "score": 10
+  },
+  {
+    "id": "LYGEH6dK6Lw",
+    "title": "HATTUSA: The Lost Capital of the Hittites - City of a Thousand Gods",
+    "score": 10
+  },
+  {
+    "id": "TH3FanRFchE",
+    "title": "The Hittites and Their Mysterious Capital Hattusa",
+    "score": 10
+  },
+  {
+    "id": "4xC10uEpJKM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fiedXGMfiP0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1ekZEVeXwek",
+    "title": "Ariana Grande - thank u, next (Traducida al Español)",
+    "score": 10
+  },
+  {
+    "id": "b87dBaL4qI0",
+    "title": "Ariana Grande - thank u, next (clean)",
+    "score": 10
+  },
+  {
+    "id": "UdRAXWNvjzE",
+    "title": "Ariana Grande \\u0026 Justin Bieber - Stuck with U",
+    "score": 10
+  },
+  {
+    "id": "prvDemxqJIY",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9rASbRRNvx8",
+    "title": "la la land / tribute",
+    "score": 10
+  },
+  {
+    "id": "3SWgkyhM1-4",
+    "title": "The Land - Martins Complete Ultimate Tribute - Three of Three 2005-2018",
+    "score": 10
+  },
+  {
+    "id": "0g0qi__-rtE",
+    "title": "The Land - part two 1993 - Martins Complete Ultimate Tribute",
+    "score": 10
+  },
+  {
+    "id": "oRf95CKIjQw",
+    "title": "The Land part one of three - Martins Complete Ultimate Tribute",
+    "score": 10
+  },
+  {
+    "id": "OsPqwFJMVB0",
+    "title": "Thank You (Tribute to Grandparents) by Michael Land - LYRIC VIDEO",
+    "score": 10
+  },
+  {
+    "id": "2VgEt1m2YxE",
+    "title": "The Terminator - Salvation - Genisys - Dark Fate - Tribute (Land of Confusion)",
+    "score": 10
+  },
+  {
+    "id": "wlMPI_9qQrU",
+    "title": "Sugarland - Adalida (George Strait Tribute 2009)",
+    "score": 10
+  },
+  {
+    "id": "8UNq7U4n4Sc",
+    "title": "This Land Is Your Land: A Tribute To Bernie Sanders",
+    "score": 10
+  },
+  {
+    "id": "Q3aqV-f7tEo",
+    "title": "2010-06-25 Camera Eye performed by Lotus Land RUSH Tribute",
+    "score": 10
+  },
+  {
+    "id": "M5-RA3-ABEQ",
+    "title": "D.Cure - No Land is Free (A Charlie Kirk Tribute)",
+    "score": 10
+  },
+  {
+    "id": "CHa97NAVLBk",
+    "title": "Tribute Quartet - Come On, Let’s Go To That Land",
+    "score": 10
+  },
+  {
+    "id": "uEizQmQ4-SU",
+    "title": "Lotus Land (RUSH tribute band) - 'Hemispheres Prelude'",
+    "score": 10
+  },
+  {
+    "id": "kndbyOtMRaQ",
+    "title": "Vangelis`Land - A Tribute to Vangelis by Gero Stöver",
+    "score": 10
+  },
+  {
+    "id": "N_xhfR9hjvk",
+    "title": "land of the evil [the craft tribute]",
+    "score": 10
+  },
+  {
+    "id": "X8FLDa7QtTk",
+    "title": "Billie Eilish's 'stolen land' remark haunts singer as critics demand she give up her mansion",
+    "score": 10
+  },
+  {
+    "id": "qomouEW4TH4",
+    "title": "Sharpteeth Tribute - With Music From \\\"Gladiator\\\"!",
+    "score": 10
+  },
+  {
+    "id": "9lJ5vtyt-W0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Swaek7e_5_c",
+    "title": "Forces",
+    "score": 10
+  },
+  {
+    "id": "Ny3gqTxWVcw",
+    "title": "Collective Forces",
+    "score": 10
+  },
+  {
+    "id": "oVFpj6SqEIc",
+    "title": "The Collective Force Steady Flow",
+    "score": 10
+  },
+  {
+    "id": "v8Y9eRdg9Mc",
+    "title": "Operation Collective Deterrence",
+    "score": 10
+  },
+  {
+    "id": "eBdZ-NN0q-k",
+    "title": "Cities Are Collective Forces",
+    "score": 10
+  },
+  {
+    "id": "WseYobUK0xQ",
+    "title": "Collective Forces Haunt Your Past",
+    "score": 10
+  },
+  {
+    "id": "OhJ0q13gdJs",
+    "title": "UN and the Use of Force - Self Defense and the Collective Security",
+    "score": 10
+  },
+  {
+    "id": "I0kyjc9ZrFA",
+    "title": "The Collective Force Video Press Kit",
+    "score": 10
+  },
+  {
+    "id": "IVLACF-P5x4",
+    "title": "The Close Quarters Tactics Weekend at Tactical Cowboy",
+    "score": 10
+  },
+  {
+    "id": "v5DBVYjh-_U",
+    "title": "THE ARMED TRESPASSER: Part 2, Criminal Charges \\u0026 Court Drama",
+    "score": 10
+  },
+  {
+    "id": "xNW2tbmgoSI",
+    "title": "Ukraine Turned HUNTING Russians Into a 24/7 “McDonald’s” Operation",
+    "score": 10
+  },
+  {
+    "id": "vrEXagu4v-g",
+    "title": "Super Bowl LX : Joint Force Practice Flyover",
+    "score": 10
+  },
+  {
+    "id": "E1NNYTzAIpU",
+    "title": "3:45 AM - Iran Fired 52 Missiles At US Air Base - 48 Minutes Later Their Entire Missile Empire Gone",
+    "score": 10
+  },
+  {
+    "id": "RM7q4EHjck8",
+    "title": "ABC World News Tonight with David Muir Full Broadcast - February 7, 2026",
+    "score": 10
+  },
+  {
+    "id": "2SEA5NZiFY0",
+    "title": "THE BREAKS COLLECTIVE AND TOUR DE FORCES",
+    "score": 10
+  },
+  {
+    "id": "d0kchJK8YrA",
+    "title": "What Is The Collective Security Treaty Organization (CSTO)? - International Policy Zone",
+    "score": 10
+  },
+  {
+    "id": "89qHqLWUFMs",
+    "title": "Joint exercises of the CSTO Collective Forces completed in Kazakhstan",
+    "score": 10
+  },
+  {
+    "id": "Sc_HCH9zhJk",
+    "title": "Carl Jung's Collective Unconscious: The Hidden Force Fueling America's Political Polarization",
+    "score": 10
+  },
+  {
+    "id": "H0zKZ21TldU",
+    "title": "Surprisingly, collective forces take over the Military Council's Camp",
+    "score": 10
+  },
+  {
+    "id": "lK378IBP9yc",
+    "title": "Use of Force  International Law Simplified Lex Animata by Hesham Elrafei",
+    "score": 10
+  },
+  {
+    "id": "vFFpiVPyMy4",
+    "title": "CORFU CHANNEL CASE",
+    "score": 10
+  },
+  {
+    "id": "jMBqvZPewnw",
+    "title": "SOGCast 002: Jim \\\"Wild Carrot\\\" Jones's SOG Recon Mission to Recover Downed Pilots",
+    "score": 10
+  },
+  {
+    "id": "p_iX1cC_d_w",
+    "title": "Donell Jones - Shorty Got Her Eyes On Me (Enhanced Video Version)",
+    "score": 10
+  },
+  {
+    "id": "i91NBc-jhjw",
+    "title": "A-Team \\u0026 MACV-SOG w/ Jim Jones-Shorten [Part I]",
+    "score": 10
+  },
+  {
+    "id": "wROLDE2iA8k",
+    "title": "SOG Prairie Fire Stories #2: Jim 'Wild Carrot\\\" Shorten-Jones",
+    "score": 10
+  },
+  {
+    "id": "rs34y1jQ87w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ka5U6k0fXk4",
+    "title": "Meteorites, ParaRescue, \\u0026 Radiology w/ Jim Jones-Shorten [Part II]",
+    "score": 10
+  },
+  {
+    "id": "YZLLHViFIo4",
+    "title": "Take your clothes off because Dr. Shorter-Jones is not surprised!! | Kicks \\u0026 Kulture | Season 1",
+    "score": 10
+  },
+  {
+    "id": "i3O5cB7LZJ8",
+    "title": "The Real ResQ Ep 147 [Full] Jim Shorten Jones US Navy, US Army Spec Ops and US Air Force Pararescue",
+    "score": 10
+  },
+  {
+    "id": "r0sPL8DgkKE",
+    "title": "Joe Rogan Experience #1555 - Alex Jones \\u0026 Tim Dillon",
+    "score": 10
+  },
+  {
+    "id": "jdVso9FSkmE",
+    "title": "Are Coal Plants Really Clean",
+    "score": 10
+  },
+  {
+    "id": "mmVKE1bmZnU",
+    "title": "Jaci Jones (Shorter Reel)",
+    "score": 10
+  },
+  {
+    "id": "oVqh8hpdYEY",
+    "title": "Shortened Reel",
+    "score": 10
+  },
+  {
+    "id": "JBUz7uTD3uI",
+    "title": "Rad Brad \\\"Extreme Extremities\\\"",
+    "score": 10
+  },
+  {
+    "id": "8Y68YJmPEfY",
+    "title": "Mr. Jones (Parody) - Counting Crows \\u0026 Indiana Jones (Shortened)",
+    "score": 10
+  },
+  {
+    "id": "4V90AmXnguw",
+    "title": "Ed Jones shortened",
+    "score": 10
+  },
+  {
+    "id": "h17dfwHvi74",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "sjQX2aFulv4",
+    "title": "HEALTH FULL EPISODE | feat. DR. MELANIE SHORTER-JONES | KICKS \\u0026 KULTURE | ep. 2",
+    "score": 10
+  },
+  {
+    "id": "YWuvcywzq8A",
+    "title": "s0n1cvolt shortened",
+    "score": 10
+  },
+  {
+    "id": "Gsh4QshcEFI",
+    "title": "Emilia Jones - Both Sides Now - BAFTAs 2022 Perfomance (from CODA)",
+    "score": 10
+  },
+  {
+    "id": "-vbraa31zNI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "QZRWyYHcMqw",
+    "title": "BEST OF PLANET MICRO 2025",
+    "score": 10
+  },
+  {
+    "id": "g1GboYJIPN0",
+    "title": "CONCEALABILITY",
+    "score": 10
+  },
+  {
+    "id": "9ji79ufNcyM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "L0--kdSnvrI",
+    "title": "The Micro 4/3 is Dead Videos",
+    "score": 10
+  },
+  {
+    "id": "41OV8-OK2g8",
+    "title": "Best Micro-Compact 9mm Pistols",
+    "score": 10
+  },
+  {
+    "id": "zHqL0Eku1mA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "3G-scCrSH60",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qYflCv7G1AU",
+    "title": "Raid Japan Egu Dama Level",
+    "score": 10
+  },
+  {
+    "id": "Ipi4VBX-oII",
+    "title": "Best Micro Pistol Red Dots!",
+    "score": 10
+  },
+  {
+    "id": "J2PqtXuAnOY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "5bzIgl-18gY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "hObWTCserzA",
+    "title": "Airburst HIMARS Strike on Belgorod Powerplant - Cool Video",
+    "score": 10
+  },
+  {
+    "id": "gLNlJFBmlkc",
+    "title": "Way Easier Than I Expected: Fixing Head Nod in the PM-728",
+    "score": 10
+  },
+  {
+    "id": "6wOondKoZ1I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jT9qZo5e88Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o4e-Kt02rfc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Bl6U4MUTops",
+    "title": "Corey Holcomb is OFFICIALLY Going Out SAD!",
+    "score": 10
+  },
+  {
+    "id": "36VvpYWS7BY",
+    "title": "Micro Dynamics: The Missing Step Between Good and Great Mixes",
+    "score": 10
+  },
+  {
+    "id": "cpfxWgSwIdY",
+    "title": "INTRO",
+    "score": 10
+  },
+  {
+    "id": "rfxvQcXESIY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "HR0HWQh9ECU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0Hi9lBjZGIM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "BFYLthX6GOw",
+    "title": "G2 Reticle",
+    "score": 10
+  },
+  {
+    "id": "eFAgUQ3seP4",
+    "title": "Casio Oceanus OCW-T3000-2AJF",
+    "score": 10
+  },
+  {
+    "id": "-iSgwjUV750",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ADoXOMxCzt8",
+    "title": "How Long Does It Take To Get Pregnant? What is Normal When You Are Trying to Conceive?",
+    "score": 10
+  },
+  {
+    "id": "YBB7CfTlyq4",
+    "title": "Top Tips From A Fertility Doctor to Get Pregnant Fast",
+    "score": 10
+  },
+  {
+    "id": "JtDg0C6I_Iw",
+    "title": "Female Fertility Animation",
+    "score": 10
+  },
+  {
+    "id": "Kc25nVI6ojA",
+    "title": "Pregnancy: The First Trimester",
+    "score": 10
+  },
+  {
+    "id": "8312a32dcQc",
+    "title": "Trying to conceive a baby boy? What is the best method?",
+    "score": 10
+  },
+  {
+    "id": "We2b_D_JPmk",
+    "title": "Getting pregnant on your period??",
+    "score": 10
+  },
+  {
+    "id": "JOvyGJxcWsE",
+    "title": "How can I know when I conceived?",
+    "score": 10
+  },
+  {
+    "id": "VElixuAoV1U",
+    "title": "Implantation: How Long After Sex Does Implantation Occur? | Doctor Explains",
+    "score": 10
+  },
+  {
+    "id": "iY2x4UVqwJg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s-Xpa5UZAZs",
+    "title": "What is the best time to get pregnant?",
+    "score": 10
+  },
+  {
+    "id": "D0-Vaqf0P6A",
+    "title": "How Do You Get Pregnant? | Planned Parenthood Video",
+    "score": 10
+  },
+  {
+    "id": "n04NPtZI4QQ",
+    "title": "Calculating ovulation: the optimum time for getting pregnant",
+    "score": 10
+  },
+  {
+    "id": "BInTGgQwzGk",
+    "title": "There's a flash at the moment of conception",
+    "score": 10
+  },
+  {
+    "id": "jckwfInMoYg",
+    "title": "Best Timing for Trying To Conceive After Pregnancy #ttc",
+    "score": 10
+  },
+  {
+    "id": "v9LldKtq3yc",
+    "title": "The Sunday Mass — February 8, 2026 — 5th Sunday in Ordinary Time CC",
+    "score": 10
+  },
+  {
+    "id": "jzJY-DSyZfQ",
+    "title": "Entrance Hymn",
+    "score": 10
+  },
+  {
+    "id": "EwTZ1fypivg",
+    "title": "How Long Does It Take To Get Pregnant? What is Normal When You Are Trying to Conceive?",
+    "score": 10
+  },
+  {
+    "id": "TtlJgjFR9-o",
+    "title": "Tracking My Cycle",
+    "score": 10
+  },
+  {
+    "id": "6ZjA6IWCv2s",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "WhpbWkrLs9g",
+    "title": "Top Tips From A Fertility Doctor to Get Pregnant Fast",
+    "score": 10
+  },
+  {
+    "id": "eD59SWXZtJ8",
+    "title": "4 Ways ✅ To Track Your Fertile Window",
+    "score": 10
+  },
+  {
+    "id": "U0aZv3HbpG4",
+    "title": "Best time to get pregnant | ovulation | when do women ovulate | #pregnancy #fertilityfacts",
+    "score": 10
+  },
+  {
+    "id": "Hh0ZKHdD8Ko",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "yrweaPpm0Fw",
+    "title": "The 26,000-Year Cycle That Resets Civilization",
+    "score": 10
+  },
+  {
+    "id": "adzx547ptck",
+    "title": "HIPPARCHUS 190 - 120 BC",
+    "score": 10
+  },
+  {
+    "id": "2JJjNc1xPKw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "qlVgEoZDjok",
+    "title": "Precession and the Yuga Cycle with Walter Cruttenden",
+    "score": 10
+  },
+  {
+    "id": "vRCVOZzumZc",
+    "title": "The Great Year, Precession, and Astrophotography",
+    "score": 10
+  },
+  {
+    "id": "WjWV0nfWlPk",
+    "title": "Walter Cruttenden - Binary Research Institute - The Yuga Cycle - The Great Year - Precession",
+    "score": 10
+  },
+  {
+    "id": "nOqGBhrODvc",
+    "title": "The Precession of the Equinoxes Explained with Graham Hancock",
+    "score": 10
+  },
+  {
+    "id": "FunVM44dy_c",
+    "title": "Great Year Precession Linked to Cycle of Catastrophes? | Randall Carlson - Kosmographia Clips 010.4",
+    "score": 10
+  },
+  {
+    "id": "gMuwLuThGJg",
+    "title": "Did Elon Musk Just Say We're in the Singularity?",
+    "score": 10
+  },
+  {
+    "id": "FZ43nflqrJA",
+    "title": "\\\"I Found Out Who REALLY Built The Pyramids And I Brought Proof\\\" Graham Hancock Leaves World STUNNED",
+    "score": 10
+  },
+  {
+    "id": "-soZTOXZKWo",
+    "title": "At the End of the Age: The Precession of the Equinoxes (season 2, episode 13)",
+    "score": 10
+  },
+  {
+    "id": "iA2b5wGudK0",
+    "title": "Significance of Astrological Ages",
+    "score": 10
+  },
+  {
+    "id": "E4X7t1Uo9IM",
+    "title": "The Crystalline Timeline Activates Tomorrow",
+    "score": 10
+  },
+  {
+    "id": "-oPE3l5E8uk",
+    "title": "Precession of the Equinoxes Clearly Illustrated",
+    "score": 10
+  },
+  {
+    "id": "tbbkHwDOxZM",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DARSWSkqj00",
+    "title": "The Giza Clock",
+    "score": 10
+  },
+  {
+    "id": "90q1uIQ5PqM",
+    "title": "The REAL TRUTH about precession reveals a SECRET that has been kept for MILLIONS OF YEARS!",
+    "score": 10
+  },
+  {
+    "id": "kLfoy5V7CRE",
+    "title": "How Can a Star Moving in a Straight Line across the Sky Keep in Sync with Rotation",
+    "score": 10
+  },
+  {
+    "id": "Pcn1vuYk2kw",
+    "title": "Yuga Cycle",
+    "score": 10
+  },
+  {
+    "id": "n5bKzBZ7XuM",
+    "title": "Cosmic Cycles of Time: Understanding the Great Year - Walter Cruttenden (The justBernard Show)",
+    "score": 10
+  },
+  {
+    "id": "HwF1unuZ_gc",
+    "title": "Precession = The Key",
+    "score": 10
+  },
+  {
+    "id": "hGfUYXxMDr8",
+    "title": "The Age of Gemini",
+    "score": 10
+  },
+  {
+    "id": "2BZfJrECQck",
+    "title": "Ep076 Precession, Great Time-scales, Tarot Card Symbolism -Kosmographia The Randall Carlson Podcast",
+    "score": 10
+  },
+  {
+    "id": "zIjfojS354s",
+    "title": "Analyzing Evil: Walter White From Breaking Bad",
+    "score": 10
+  },
+  {
+    "id": "r0MD1CKLIe8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "q1e4g81AVl0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "44wwLei5vjA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0z-Cz_T_fUY",
+    "title": "Walter Russell's Hidden Papers Revealed by Terrence Howard",
+    "score": 10
+  },
+  {
+    "id": "5qZI0QaCI14",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-ack19YeFsc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o4VIdIKI7RY",
+    "title": "What was Walter White's alter ego?",
+    "score": 10
+  },
+  {
+    "id": "0Mi3XFfAiCU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "jhCCIzfe5ic",
+    "title": "Breaking Bad - The Value of Human Life",
+    "score": 10
+  },
+  {
+    "id": "V87lK_sUDDY",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "pg0ScZNZByk",
+    "title": "Breaking Bad: Hank Is Not The Hero",
+    "score": 10
+  },
+  {
+    "id": "_GnJijhQkpk",
+    "title": "The Messy Morality of Mike Ehrmantraut (Better Call Saul \\u0026 Breaking Bad)",
+    "score": 10
+  },
+  {
+    "id": "DOEzpSnDA_0",
+    "title": "Is Mike Good?",
+    "score": 10
+  },
+  {
+    "id": "8iTv21sRiAI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "KXggfKpGwsI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "x0Edm0w9pc0",
+    "title": "Walt Outplays Mike",
+    "score": 10
+  },
+  {
+    "id": "F87r9p6zHRY",
+    "title": "Morally Ambiguous Characters",
+    "score": 10
+  },
+  {
+    "id": "QvIXPPtEChE",
+    "title": "Vince Gilligan On What Happens to Walter White's Family | Fireside Chat | Breaking Bad",
+    "score": 10
+  },
+  {
+    "id": "VIWR9JGaZSM",
+    "title": "The Ending Of Breaking Bad Finally Explained",
+    "score": 10
+  },
+  {
+    "id": "JOzrWlv18-8",
+    "title": "American nightmare",
+    "score": 10
+  },
+  {
+    "id": "jS8J-TCLea0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yqyEYVFiPQk",
+    "title": "How Bryan Cranston became Walter White",
+    "score": 10
+  },
+  {
+    "id": "D3eB8sEpH6Y",
+    "title": "Walter White never changed",
+    "score": 10
+  },
+  {
+    "id": "snsNU__6w6Q",
+    "title": "We Need to Talk About Walter. The Lore of SILENT HILL 4: THE ROOM!",
+    "score": 10
+  },
+  {
+    "id": "Tqf-vdYkxG0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Bvq5YqyRoKU",
+    "title": "Math Antics - Telling Time",
+    "score": 10
+  },
+  {
+    "id": "QU-XUmujbuM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "bZY8WNMRcQ8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "xdR7s8mwyp8",
+    "title": "12 o'clock",
+    "score": 10
+  },
+  {
+    "id": "tEmg914-9xY",
+    "title": "How does a Clock work? ⏰ Maddie's Do You Know 👩",
+    "score": 10
+  },
+  {
+    "id": "p5gXD70Fubc",
+    "title": "How do you read a clock?",
+    "score": 10
+  },
+  {
+    "id": "5XHMFJA1KoE",
+    "title": "FUN FACTS",
+    "score": 10
+  },
+  {
+    "id": "YmxeKvPMwH4",
+    "title": "Telling Time - Basics of the Clock 1st Grade",
+    "score": 10
+  },
+  {
+    "id": "5xRoBx7iVGI",
+    "title": "hands on the clock",
+    "score": 10
+  },
+  {
+    "id": "6Ti72WkUDU4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "fuNakY51YpM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zUbnnJDyXIM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "biDxyjwC88I",
+    "title": "How a Clock Works",
+    "score": 10
+  },
+  {
+    "id": "3Posbu-VKxU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Xxui8MoUJ5k",
+    "title": "SHOCKING: Doctor Doom Is Being Spotted in Old Marvel Movies! (MCU Theory)",
+    "score": 10
+  },
+  {
+    "id": "6oniHmcSSOo",
+    "title": "Getting Recognized (In the Wild)",
+    "score": 10
+  },
+  {
+    "id": "owKh8UllUr8",
+    "title": "The Lizard Hunter Spotted on 27th Ave - CONTINUED",
+    "score": 10
+  },
+  {
+    "id": "kmn-C-CVJ4Q",
+    "title": "Billionaire Was Going on a Trip With His Fiancée  Until He Spotted His Ex in The Plane",
+    "score": 10
+  },
+  {
+    "id": "3Nx_PKZP6vM",
+    "title": "He saw her and froze",
+    "score": 10
+  },
+  {
+    "id": "P23wCws2_FQ",
+    "title": "I Spotted This Text Reveal Animation On Almost EVERY Award-Winning Site",
+    "score": 10
+  },
+  {
+    "id": "4A0dP8yMwD8",
+    "title": "AI Supercar Spotted! 🏎️⚡ Jiyue ROBO X Reveal | 0-100 in 1.9s!",
+    "score": 10
+  },
+  {
+    "id": "m8huZCGbHX4",
+    "title": "Intro: The Jiyue ROBO X Road Test \\u0026 AI Revolution",
+    "score": 10
+  },
+  {
+    "id": "kqeo_7xWIeg",
+    "title": "Raddy \\u0026 Oren Spotted Sprunki in the Pool?! What Happened?",
+    "score": 10
+  },
+  {
+    "id": "rvqCtdVZQNw",
+    "title": "HARRY \\u0026 MEGHAN VANISH from Montecito – \\\"Midnight Trucks\\\" Spotted as Bank MOVES IN",
+    "score": 10
+  },
+  {
+    "id": "-XfIQaNJnHE",
+    "title": "BREAKING: Senate LEADERS CORNER Trump — Tense Confrontation ERUPTS!!",
+    "score": 10
+  },
+  {
+    "id": "s-0CMX-vsx4",
+    "title": "Shy Black Waitress Greeted Billionaire CEO's Sicilian Dad—Her Dialect Greeting Left the Room Frozen",
+    "score": 10
+  },
+  {
+    "id": "4ZHUUQI9jT0",
+    "title": "Pilot Threatens Black CEO With Arrest — Her Identity Shocks Everyone Onboard",
+    "score": 10
+  },
+  {
+    "id": "6-R_vS6MNw8",
+    "title": "Billionaire Left His Ex When He Became CEO, Years Later She Stormed Into His Family Dinner With Twin",
+    "score": 10
+  },
+  {
+    "id": "4tdq25gVN-A",
+    "title": "She walked into his family dinner uninvited",
+    "score": 10
+  },
+  {
+    "id": "z6KRcBsLGJs",
+    "title": "THE UNTHINKABLE Is About To Happen To SILVER. Silver Stackers Will be MILLIONAIRES",
+    "score": 10
+  },
+  {
+    "id": "nEx4ytvLaG4",
+    "title": "Latest Guthrie message contained a ‘troubling line’: Paul Mauro",
+    "score": 10
+  },
+  {
+    "id": "Um4eVNyjBp4",
+    "title": "NEW COLOR!",
+    "score": 10
+  },
+  {
+    "id": "sOoQr-SCPbw",
+    "title": "I Spotted Rumi's Dad In Kpop Demon Hunters! (Hidden Detail You Missed)",
+    "score": 10
+  },
+  {
+    "id": "GRVYghnVQ4w",
+    "title": "Strange Acceleration Patterns Spotted Near 3I/ATLAS… James Webb Infrared Imaging Reveals All",
+    "score": 10
+  },
+  {
+    "id": "_s7ge76AkLE",
+    "title": "3 Super Rare Lincoln Wheat Pennies Worth INSANE Money Right Now | USA Coin Reveal",
+    "score": 10
+  },
+  {
+    "id": "YQURwNRpW04",
+    "title": "Shocking Hidden Penny Worth Millions Revealed",
+    "score": 10
+  },
+  {
+    "id": "0D3CREitcYY",
+    "title": "NEW Skin Spotted? (Reveals and Hero Gameplay) - Star Wars Battlefront 2",
+    "score": 10
+  },
+  {
+    "id": "0hEhbaAGTug",
+    "title": "Chain Lightning",
+    "score": 10
+  }
+]

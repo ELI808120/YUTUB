@@ -1,1 +1,3487 @@
-[]
+[
+  {
+    "id": "oC_Fc2NtrnI",
+    "title": "מדריך Numpy (פייתון)",
+    "score": 110
+  },
+  {
+    "id": "uIiy30Cxb_w",
+    "title": "מדריך פייתון - 31 - טאפלים",
+    "score": 110
+  },
+  {
+    "id": "XHbuQf-DWIk",
+    "title": "מדריך פייתון למתחילים | פרק 1",
+    "score": 110
+  },
+  {
+    "id": "ZZCnfRmxq6s",
+    "title": "מדריך פייתון - 8 - הפונקציה INPUT",
+    "score": 110
+  },
+  {
+    "id": "qANjueE_EkE",
+    "title": "מדריך פייתון - 36 - מיון והעתקה במילונים",
+    "score": 110
+  },
+  {
+    "id": "j__kTCNWUMU",
+    "title": "מדריך פייתון - 1 - התקנת פייתון וסביבת עבודה",
+    "score": 110
+  },
+  {
+    "id": "hNuJ7Doc7Sg",
+    "title": "מדריך פייתון - 18- String Formats",
+    "score": 110
+  },
+  {
+    "id": "Vb1Am5uD3ss",
+    "title": "אפיית לחם מחמצת - המדריך המלא מאת שי גולדין -לחם Pain d'Or",
+    "score": 110
+  },
+  {
+    "id": "L3eCCaTvry4",
+    "title": "לימוד אנגלית למתחילים-  אנגלית מדוברת לניהול שיחה",
+    "score": 110
+  },
+  {
+    "id": "5171rnwFHbk",
+    "title": "לימוד אנגלית למתחילים- 50 משפטים באנגלית",
+    "score": 110
+  },
+  {
+    "id": "IlU0ILhD_1U",
+    "title": "לימוד אנגלית למתחילים: הטיפים המובילים שלי",
+    "score": 110
+  },
+  {
+    "id": "byLFiFawEuY",
+    "title": "סביבת עבודה",
+    "score": 60
+  },
+  {
+    "id": "gjLP9A19L_I",
+    "title": "מבוא",
+    "score": 60
+  },
+  {
+    "id": "pqCCn72LXP0",
+    "title": "התקנת פייתון",
+    "score": 60
+  },
+  {
+    "id": "DkYDlCXZALU",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "uA8wcQAib2o",
+    "title": "הכנת מחמצת ביתית בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "6OBhiguJnMo",
+    "title": "כך תכינו מחמצת של תומר בלס",
+    "score": 60
+  },
+  {
+    "id": "N2gZOrnjbYA",
+    "title": "איך להכין לחם מחמצת - שלב אחר שלב עם חנה",
+    "score": 60
+  },
+  {
+    "id": "a6FRN4HM4pw",
+    "title": "!מתכון ללחם ביתי ללא לישה וללא מיקסר בקלי קלות",
+    "score": 60
+  },
+  {
+    "id": "9OGqXPZNJHI",
+    "title": "עיצוב כיכר לחם מחמצת מתוך סדנה - אסף האופה - לחמי בוטיק",
+    "score": 60
+  },
+  {
+    "id": "gHPSiqweC78",
+    "title": "מתכון ללחם מחמצת",
+    "score": 60
+  },
+  {
+    "id": "yCNvgjb98Vc",
+    "title": "11 טיפים למרקם מושלם: איך להכין לחם מחמצת אוורירי ופתוח",
+    "score": 60
+  },
+  {
+    "id": "3tvEFE-2m4c",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "0KFlSX-W3fg",
+    "title": "!איך להכין לחם מחמצת - המתכון הכי קל ברשת",
+    "score": 60
+  },
+  {
+    "id": "y-vtJrirvX0",
+    "title": "לחם מחמצת למתחילים - כולל מושגים בסיסיים בעולם האפיה",
+    "score": 60
+  },
+  {
+    "id": "EshwlLrGvFY",
+    "title": "פתיח",
+    "score": 60
+  },
+  {
+    "id": "zJpqWVutpnM",
+    "title": "4 מרכיבים! בלי ללוש לחם! כל אחד יכול להכין את הלחם הביתי הזה!",
+    "score": 60
+  },
+  {
+    "id": "8AhoN6YNzgE",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד של ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "GkqwWesdLhE",
+    "title": "ניסוי מדעי לילדים - מרחיקים חיידקים - ניסוי מים , פלפל וסבון | רפאל המטייל | יאנ'ציקס",
+    "score": 60
+  },
+  {
+    "id": "-scoD7XQ288",
+    "title": "5 ניסויים מדעיים בספיישל מיוחד 2 ! ניסויים מדעיים עם ילדים 🧪 | רפאל המטייל ויאנצ'יקס",
+    "score": 60
+  },
+  {
+    "id": "4FHbbc8v1Cs",
+    "title": "ניסוי אדיר שכל אחד יכול לעשות בבית!!\\\\\\\\ ניסויים😱",
+    "score": 60
+  },
+  {
+    "id": "xl4lDC7pE4k",
+    "title": "קיסמי שיניים זזים מעצמם ויוצרים כוכב",
+    "score": 60
+  },
+  {
+    "id": "Ll3yKFl2zH4",
+    "title": "לגרום לדברים להיעלם! | אור | ניסויים מדעיים לילדים | RTÉjr",
+    "score": 60
+  },
+  {
+    "id": "s7XgfF6SVwY",
+    "title": "4 ניסויי מדע מדהימים ליום אחד בפנים | אוסף | SciShow Kids",
+    "score": 60
+  },
+  {
+    "id": "VfEnAUDUBz0",
+    "title": "אנגלית - למדו 1000 משפטים קצרים",
+    "score": 60
+  },
+  {
+    "id": "1yCCqX_IC_E",
+    "title": "למד אנגלית בזמן שאתה ישן ||| הביטויים והמילים החשובות ביותר באנגלית ||| 8 שעות",
+    "score": 60
+  },
+  {
+    "id": "jwmU-L8ihwg",
+    "title": "Python Guide: Why You Should Learn Python in 2025?",
+    "score": 50
+  },
+  {
+    "id": "NumGmnqQQj8",
+    "title": "Python Full Course for Beginners",
+    "score": 50
+  },
+  {
+    "id": "WzbyPDDN6v0",
+    "title": "Python Guide: Installing Python and a Workspace on Your Computer",
+    "score": 50
+  },
+  {
+    "id": "zYj_QhnqZnQ",
+    "title": "Bake the Perfect Sourdough Bread: A Step-by-Step Guide",
+    "score": 50
+  },
+  {
+    "id": "ePsNWXGz9Zw",
+    "title": "Wholemeal sourdough bread made from rye flour - quick and easy to make!",
+    "score": 50
+  },
+  {
+    "id": "HA4_gVHBUXc",
+    "title": "The Abyss | Deep Sea Documentary for Sleep (4K)",
+    "score": 50
+  },
+  {
+    "id": "fuiJ-3CdU3Q",
+    "title": "Coolest New Technologies of 2026",
+    "score": 50
+  },
+  {
+    "id": "RM717Aj_VKQ",
+    "title": "America CAN'T Compete with China’s High-Tech Future! 🇨🇳",
+    "score": 50
+  },
+  {
+    "id": "YqBl2h_1vWI",
+    "title": "2026 Will Be Ruled by These 20 New Tech Trends",
+    "score": 50
+  },
+  {
+    "id": "uUdDQSb5Jqo",
+    "title": "Timelapse of Future Technology 2 (Sci-Fi Documentary)",
+    "score": 50
+  },
+  {
+    "id": "2xkODJbAY6Q",
+    "title": "I bought the most FUTURISTIC Tech in the World",
+    "score": 50
+  },
+  {
+    "id": "b0HfmY64eSE",
+    "title": "The World in 2050: Future Technology Will Leave You Speachless",
+    "score": 50
+  },
+  {
+    "id": "2Yh8hBuh3uA",
+    "title": "Introduction to to Top 10 Future Technologies",
+    "score": 50
+  },
+  {
+    "id": "m-Wbn1htwdY",
+    "title": "Coolest New Technologies of 2025",
+    "score": 50
+  },
+  {
+    "id": "u9Ji_p0ODKk",
+    "title": "2070: 15 Technologies That Sound Impossible",
+    "score": 50
+  },
+  {
+    "id": "o41gYSHXMKo",
+    "title": "20 Future Technologies Already in Development",
+    "score": 50
+  },
+  {
+    "id": "jE8C0FHWuks",
+    "title": "300 Godlike Technologies From Year 3000 Onward",
+    "score": 50
+  },
+  {
+    "id": "TlESUCjUPmo",
+    "title": "Top 5 Oil PAINTING Techniques Every Beginner Should Know",
+    "score": 50
+  },
+  {
+    "id": "lKuzi4DGE84",
+    "title": "5 Ways to Start an Oil Painting - Art Techniques for Beginners and Advanced",
+    "score": 50
+  },
+  {
+    "id": "bZ-iV7aAouA",
+    "title": "Introduction: What Makes a Good Glaze?",
+    "score": 50
+  },
+  {
+    "id": "25EVQncFaf4",
+    "title": "Color Theory Lesson",
+    "score": 50
+  },
+  {
+    "id": "1JIF8GcWeKA",
+    "title": "EASY SCIENCE EXPERIMENTS TO DO AT HOME",
+    "score": 50
+  },
+  {
+    "id": "gbCUwCykzko",
+    "title": "33 AMAZING SCIENCE EXPERIMENTS! Compilation | Best of the Year",
+    "score": 50
+  },
+  {
+    "id": "2oDdsK1PCnc",
+    "title": "Kids science experiment with Skittles",
+    "score": 50
+  },
+  {
+    "id": "4VTMH2UZMm8",
+    "title": "40 Science Experiments - Experiments You Can Do at Home Compilation by Inventor 101",
+    "score": 50
+  },
+  {
+    "id": "_ZizKQqHNgI",
+    "title": "100 EASY SCIENCE EXPERIMENTS with Explanation - PART 1 (1-50)",
+    "score": 50
+  },
+  {
+    "id": "R5LHCV4WkOs",
+    "title": "How to write a \\\"Why this college\\\" essay",
+    "score": 50
+  },
+  {
+    "id": "rhgDGjSN13g",
+    "title": "How the Boeing 787 Works | Full Documentary",
+    "score": 50
+  },
+  {
+    "id": "ug-d9uzr8v8",
+    "title": "Multi-million-dollar river restoration project underway",
+    "score": 50
+  },
+  {
+    "id": "xvexIbE5WCg",
+    "title": "Absolute disaster turns satisfying restoration project.",
+    "score": 50
+  },
+  {
+    "id": "YlddL1A9rgk",
+    "title": "The River Mease: A catchment restoration project",
+    "score": 50
+  },
+  {
+    "id": "H_SOdJJ5rBk",
+    "title": "1920's Vintage Scale Restoration - A Scale That Every American Once Knew",
+    "score": 50
+  },
+  {
+    "id": "BZmoJh-iyZE",
+    "title": "Couple Turns Abandoned Shed Into Cozy Home | Full Renovation by @project.restoration",
+    "score": 50
+  },
+  {
+    "id": "E2XjTQf_sMg",
+    "title": "This might be my favourite restoration project of this year!",
+    "score": 50
+  },
+  {
+    "id": "Cg5qqai54_A",
+    "title": "Trash to TREASURE Restoration | Furniture Restoration",
+    "score": 50
+  },
+  {
+    "id": "2sU-2SHK9qU",
+    "title": "Plans Changed The Supra is Back Early! Supra Restoration/Build",
+    "score": 50
+  },
+  {
+    "id": "88bz6cyo80M",
+    "title": "Full Build: From Rusted Out 1961 Chevy Impala to Revved Up Red Sled",
+    "score": 50
+  },
+  {
+    "id": "MdBI_0OmNW4",
+    "title": "Toyota Land Cruiser Full Restoration Project | From Abandoned to Legendary",
+    "score": 50
+  },
+  {
+    "id": "FJnQfGeg6fY",
+    "title": "Florida breaks ground on major Everglades restoration project",
+    "score": 50
+  },
+  {
+    "id": "BVNGjDZS008",
+    "title": "Louisiana shifts coastal strategy after canceling two major restoration projects",
+    "score": 50
+  },
+  {
+    "id": "IirYQZXmkyY",
+    "title": "Maumee River restoration project now complete",
+    "score": 50
+  },
+  {
+    "id": "J73WmPP9vzE",
+    "title": "Volkswagen Scirocco Restoration | Full Sport Coupe Rebuild Project",
+    "score": 50
+  },
+  {
+    "id": "XXmJ3gutndA",
+    "title": "IZH-49 from 1952 | Full Rusted Shotgun Restoration",
+    "score": 50
+  },
+  {
+    "id": "zQwDRRnuqTY",
+    "title": "Abandoned Mitsubishi Pajero Restoration | Ultimate 4x4 Rebuild Transformation!",
+    "score": 50
+  },
+  {
+    "id": "54mpymkZruc",
+    "title": "From Completely Destroyed to Perfectly Functional – The Ultimate Steel Gear Restoration Project",
+    "score": 50
+  },
+  {
+    "id": "F30RCJQ2tsY",
+    "title": "1871 Candy Drop Roller Restoration - Thomas Mills",
+    "score": 50
+  },
+  {
+    "id": "8Y4nk5yElGk",
+    "title": "Medieval Manor Restoration - The Restoration Man - S02 EP6 - Home Renovation",
+    "score": 50
+  },
+  {
+    "id": "ZioqHNFv6Ag",
+    "title": "Restoring a Legend 1970 Tomos Automatic N - Full RESTORATION",
+    "score": 50
+  },
+  {
+    "id": "WcI1eSGIWy0",
+    "title": "500+ Simple Phrases | Learn English | English Speaking Practice for Beginners",
+    "score": 50
+  },
+  {
+    "id": "SWR69BF224E",
+    "title": "How to Find a Career You Genuinely Love",
+    "score": 50
+  },
+  {
+    "id": "unSDLLQQLGI",
+    "title": "Casually Explained: Guide to College and University",
+    "score": 50
+  },
+  {
+    "id": "g06OvVMeYhI",
+    "title": "T.I. on Trap Music, Southern Rap, \\u0026 Building a Legacy | Still 400",
+    "score": 50
+  },
+  {
+    "id": "AZkZVpgAFTQ",
+    "title": "How to Choose a School | How to College | Crash Course",
+    "score": 50
+  },
+  {
+    "id": "fZPGevLvOrw",
+    "title": "How To Complete Common App College-specific Questions? - College Admissions Insider",
+    "score": 50
+  },
+  {
+    "id": "hamOIczXWYs",
+    "title": "An Insider's Guide to Applying to Highly Selective Colleges \\u0026 Universities",
+    "score": 50
+  },
+  {
+    "id": "83DV5bnYU8g",
+    "title": "How to Write an Essay: 4 Minute Step-by-step Guide | Scribbr 🎓",
+    "score": 50
+  },
+  {
+    "id": "yri3YXZpdBQ",
+    "title": "Papers \\u0026 Essays: Crash Course Study Skills #9",
+    "score": 50
+  },
+  {
+    "id": "0mF0mFwlnAY",
+    "title": "How to Paraphrase",
+    "score": 50
+  },
+  {
+    "id": "Hu4RsnEk8lY",
+    "title": "Scammer Payback Answers Scam Questions | Tech Support | WIRED",
+    "score": 50
+  },
+  {
+    "id": "yuEpcF3kTKQ",
+    "title": "How To Value A Business - Warren Buffett",
+    "score": 50
+  },
+  {
+    "id": "Z1rN3pqCUjM",
+    "title": "How to Value a Small Business (Key Factors You Should Consider Before You Buy or Sell)",
+    "score": 50
+  },
+  {
+    "id": "yDYKcagAeTw",
+    "title": "Biggest Hits in College Football History",
+    "score": 50
+  },
+  {
+    "id": "Y433tcqXTX8",
+    "title": "A Strange Guide",
+    "score": 50
+  },
+  {
+    "id": "XfG8ONJ1S6w",
+    "title": "Should I dropout of High School? | What I learned",
+    "score": 50
+  },
+  {
+    "id": "GAS-vU2RbUQ",
+    "title": "Pretending To Be University Lecturers For A Day",
+    "score": 50
+  },
+  {
+    "id": "CrEmMWl-t9I",
+    "title": "Visiting New York? A Local's Guide to SoHo with Rajiv Surendra (Shopping, Eating, Sightseeing)",
+    "score": 50
+  },
+  {
+    "id": "lSEqhcqjIE4",
+    "title": "How to Write an Awesome \\\"Why This College?\\\" Essay",
+    "score": 50
+  },
+  {
+    "id": "hCRTFLykZSI",
+    "title": "City College Norwich Higher Education Documentary",
+    "score": 50
+  },
+  {
+    "id": "HP7oGNN1DpM",
+    "title": "Sport Science BASES Experience Day 2024 with City College Norwich",
+    "score": 50
+  },
+  {
+    "id": "MWd27iiFtP0",
+    "title": "Introduction to Shiatsu College Norwich - 3 ways you can learn Shiatsu",
+    "score": 50
+  },
+  {
+    "id": "FeH130DbgPU",
+    "title": "9 Biblical Events That Actually Happened - Confirmed by Science",
+    "score": 50
+  },
+  {
+    "id": "K5KVEU3aaeQ",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "blol2iEDwF8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "KmvMGgL88Ms",
+    "title": "feels like a shopping spree \"},{\"text\":\"#college\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLMCENbKAxgJIhMI6ejsrePIkgMVtK1lAx1UUzxoygEEAmIcpA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/college\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gULCgdjb2xsZWdlGAE%3D\"}},\"loggingDirectives\":{\"trackingParams\":\"CLMCENbKAxgJIhMI6ejsrePIkgMVtK1lAx1UUzxo\",\"visibility\":{\"types\":\"12\"}}},{\"text\":\" \"},{\"text\":\"#collegelife\",\"navigationEndpoint\":{\"clickTrackingParams\":\"CLICENbKAxgLIhMI6ejsrePIkgMVtK1lAx1UUzxoygEEAmIcpA==\",\"commandMetadata\":{\"webCommandMetadata\":{\"url\":\"/hashtag/collegelife\",\"webPageType\":\"WEB_PAGE_TYPE_BROWSE\",\"rootVe\":6827,\"apiUrl\":\"/youtubei/v1/browse\"}},\"browseEndpoint\":{\"browseId\":\"FEhashtag\",\"params\":\"6gUPCgtjb2xsZWdlbGlmZRgB\"}},\"loggingDirectives\":{\"trackingParams\":\"CLICENbKAxgLIhMI6ejsrePIkgMVtK1lAx1UUzxo\",\"visibility\":{\"types\":\"12\"}}}]},\"viewCount\":{\"videoViewCountRenderer\":{\"viewCount\":{\"simpleText\":\"59,596,974 views\"},\"shortViewCount\":{\"simpleText\":\"59M views\"},\"originalViewCount\":\"0\"}},\"videoActions\":{\"menuRenderer\":{\"items\":[{\"menuServiceItemRenderer\":{\"text\":{\"runs\":[{\"text\":\"Report",
+    "score": 10
+  },
+  {
+    "id": "4gEoh3sk2AE",
+    "title": "Intro \\u0026 Sourdough Starter feeding",
+    "score": 10
+  },
+  {
+    "id": "CTuGXdyrWUo",
+    "title": "Beginner Sourdough Bread",
+    "score": 10
+  },
+  {
+    "id": "esJ2bTDeizI",
+    "title": "Combining the water, sourdough starter, salt, and flour.",
+    "score": 10
+  },
+  {
+    "id": "J8qLAg85pPQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Uh3fNYVwDXM",
+    "title": "Ocean Watch | A Tale of Deep Sea Exploration",
+    "score": 10
+  },
+  {
+    "id": "VlcI2Vu5uV4",
+    "title": "David Attenborough | Monterey Bay | Deep Ocean | Life in the Abyss",
+    "score": 10
+  },
+  {
+    "id": "t9XVt-2hhQo",
+    "title": "What They Found In the Deepest Place on Earth",
+    "score": 10
+  },
+  {
+    "id": "SXWDW62h_QY",
+    "title": "Introduction to The Deep Sea",
+    "score": 10
+  },
+  {
+    "id": "im61iyNpimw",
+    "title": "Travel to the Depths of Our Mysterious Oceans | 4K UHD | Blue Planet II | BBC Earth",
+    "score": 10
+  },
+  {
+    "id": "EF8C4v7JIbA",
+    "title": "The Deadly Portuguese Man O’War",
+    "score": 10
+  },
+  {
+    "id": "WeCiFVDm3pk",
+    "title": "Inside the Marianas Trench: Earth's Deepest Point | How the Earth Was Made (S1, E2) | Full Episode",
+    "score": 10
+  },
+  {
+    "id": "ZC0DxdjTjT8",
+    "title": "Unveiling the Ocean’s Deepest Trenches | Exploring the Mystical Ocean Cliffs",
+    "score": 10
+  },
+  {
+    "id": "JRv-gA_3jPk",
+    "title": "Why We Can’t Truly Explore the Ocean",
+    "score": 10
+  },
+  {
+    "id": "_MmPHecEtFM",
+    "title": "The Greatest Mysteries of the Pacific Ocean | Drain the Oceans | MEGA EPISODE | Nat Geo",
+    "score": 10
+  },
+  {
+    "id": "bxIV_itPWkU",
+    "title": "This Discovery in the Mariana Trench Will Transform Geopolitics (4K)",
+    "score": 10
+  },
+  {
+    "id": "6NnLfbTCM2I",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "myGGS1FBsk4",
+    "title": "Inside the Sub That Reached Earth's Deepest Point | Bathyscaphe Trieste",
+    "score": 10
+  },
+  {
+    "id": "o_Zs8UdCArM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wrJsExM8D-o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kE-IJLXd4ZI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t5oSxg5iG44",
+    "title": "China Is Living in 2050",
+    "score": 10
+  },
+  {
+    "id": "Otim2mDjsYM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Oa9aWdcCC4o",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0sGd38Hy4ng",
+    "title": "1. Colony Starships",
+    "score": 10
+  },
+  {
+    "id": "PFVvCs9iQco",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "T-F-vVNVQ50",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "SwkGVPh8jYs",
+    "title": "20 Space Megastructures That Will Transform Our Future",
+    "score": 10
+  },
+  {
+    "id": "lGa0mwR5XAQ",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "Zv_OkJfgheM",
+    "title": "USE AN UNDERPAINTING",
+    "score": 10
+  },
+  {
+    "id": "q6Fh07zQ2KU",
+    "title": "My 10 Best Oil Painting TIPS To Instantly Improve Your Paintings",
+    "score": 10
+  },
+  {
+    "id": "2QP8uJCSD2g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "XzYRCOGDa88",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "0H9OiRWAMMw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m2kU8JXL0JU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "zYQd41u1niw",
+    "title": "Surface is fundamental",
+    "score": 10
+  },
+  {
+    "id": "8L66Zlc8T24",
+    "title": "Photographic References",
+    "score": 10
+  },
+  {
+    "id": "A2gsfar6RaM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DGGy6DvbXu8",
+    "title": "Intro Graphics and Music",
+    "score": 10
+  },
+  {
+    "id": "rBzGzmqNl1c",
+    "title": "Take care of good tonal values",
+    "score": 10
+  },
+  {
+    "id": "7vmpbavXNyk",
+    "title": "UNDER BOUND",
+    "score": 10
+  },
+  {
+    "id": "jYtwUPi6Rsw",
+    "title": "Negative Space",
+    "score": 10
+  },
+  {
+    "id": "gp-lY7WcqkQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "ZdfAR6oeylM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7nnR69HiSTU",
+    "title": "Ultraglazing",
+    "score": 10
+  },
+  {
+    "id": "RjMbuG7tRJU",
+    "title": "Best Oil Painting Tips For Brand New Painters",
+    "score": 10
+  },
+  {
+    "id": "NGf36IZK92o",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "gWMYYu8ijoI",
+    "title": "Artemis-1 Launch Cinematic 4K (FULL VOLUME) No Music (NASA's SLS Rocket)",
+    "score": 10
+  },
+  {
+    "id": "b28zbsnk-48",
+    "title": "Starship | Tenth Flight Test",
+    "score": 10
+  },
+  {
+    "id": "RYUr-5PYA7s",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "z-R3DShHbkA",
+    "title": "Color changing walking water",
+    "score": 10
+  },
+  {
+    "id": "pVDqiYIxvdA",
+    "title": "Instantly freeze water trick with HOT-ICE",
+    "score": 10
+  },
+  {
+    "id": "t8pcKyc3XbM",
+    "title": "Superabsorbent polymer powder (SAP powder)",
+    "score": 10
+  },
+  {
+    "id": "1Q_4HXewiS0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NYQl9-5FpQM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "HQgGvVOQdYg",
+    "title": "Eurofighter Typhoon – Power \\u0026 Program",
+    "score": 10
+  },
+  {
+    "id": "V5MYhFET9vQ",
+    "title": "World's Hardest Working Ships: Built for the Impossible | FD Engineering",
+    "score": 10
+  },
+  {
+    "id": "qDEIDuMnpPY",
+    "title": "Sneako Just Ended His Career.",
+    "score": 10
+  },
+  {
+    "id": "4KKpZZruUNQ",
+    "title": "Complete Nonsense",
+    "score": 10
+  },
+  {
+    "id": "xAansOUEmmk",
+    "title": "Secret Treasure Inside - Restoring a French Cash Register with Hidden Money",
+    "score": 10
+  },
+  {
+    "id": "ian6CXeFUYc",
+    "title": "53 Years Abandoned / Restoring a Rare 1963 AC Greyhound To Perfection",
+    "score": 10
+  },
+  {
+    "id": "pY4sZ_NfHo4",
+    "title": "I bought an ABANDONED Workshop - 1 Year Transformation *Timelapse*",
+    "score": 10
+  },
+  {
+    "id": "bFt1lBtvyV4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "W8r4w8gsNgA",
+    "title": "The internet found her and destroyed her",
+    "score": 10
+  },
+  {
+    "id": "inS6sAEj13A",
+    "title": "The No. 1 Junior in America Chose THIS College Golf Program | Skratch University",
+    "score": 10
+  },
+  {
+    "id": "dPeFHl3xKrI",
+    "title": "What I Found Hiding in This College River Will Blow Your Mind",
+    "score": 10
+  },
+  {
+    "id": "LaAyqjAbDZc",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "yC-DDo3ESwA",
+    "title": "This Is What College Really Looks Like Now",
+    "score": 10
+  },
+  {
+    "id": "EHLtkZk7N_M",
+    "title": "I Worked at a Billionaire Hotel",
+    "score": 10
+  },
+  {
+    "id": "Xl7925VXk0Q",
+    "title": "Ivy League coach reveals why HARVARD didn't accept me",
+    "score": 10
+  },
+  {
+    "id": "5hs22GlP4kg",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "9ick8X1G0L4",
+    "title": "Why I Hate College",
+    "score": 10
+  },
+  {
+    "id": "Ghx3BJ3sCd4",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "HyVuphlsVwo",
+    "title": "Avoid This College Essay Mistake",
+    "score": 10
+  },
+  {
+    "id": "TwXI0ys9GQI",
+    "title": "Pokimane's Career Just ENDED... (FULL Breakdown!)",
+    "score": 10
+  },
+  {
+    "id": "sDwFNkb8wuA",
+    "title": "Career advice from a miserable wage slave.",
+    "score": 10
+  },
+  {
+    "id": "cQO0IqMLBkk",
+    "title": "Joe Budden Just Ended Corey Holcomb Career ",
+    "score": 10
+  },
+  {
+    "id": "2QF0mGt5Iqs",
+    "title": "Sneako Just Ended His Career.",
+    "score": 10
+  },
+  {
+    "id": "bDeyXmuRXTw",
+    "title": "My Career Advice For Anyone Feeling Stuck In Life",
+    "score": 10
+  },
+  {
+    "id": "Jl4Waz8TmyU",
+    "title": "Pokimane's Career Just ENDED... (This Is BAD!!)",
+    "score": 10
+  },
+  {
+    "id": "IWzSEMyMyHE",
+    "title": "Joe Rogan’s Career Just CRASHED..",
+    "score": 10
+  },
+  {
+    "id": "IQ0Iv7Wul1I",
+    "title": "I Swapped Wade and Hardens Careers",
+    "score": 10
+  },
+  {
+    "id": "n90vsqruVT0",
+    "title": "Adobe Just Killed My Career",
+    "score": 10
+  },
+  {
+    "id": "RmRdVFhW_pU",
+    "title": "Big Boy's Career Just Ended after NUCLEAR BOMBSHELL by Ex Strength Cartel Member",
+    "score": 10
+  },
+  {
+    "id": "O3m14PVOq_g",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "wf6ZGuV5a3M",
+    "title": "The Job Market Just Got WORSE \\u0026 Here's Why",
+    "score": 10
+  },
+  {
+    "id": "YvgLXMidQ2E",
+    "title": "Subscribe!",
+    "score": 10
+  },
+  {
+    "id": "pu__97bVyOc",
+    "title": "Jordan Peterson: Why You Won't Have a Career",
+    "score": 10
+  },
+  {
+    "id": "Zy4a8T45GiQ",
+    "title": "Pokimane Just Ended Her Career.",
+    "score": 10
+  },
+  {
+    "id": "MLWsnrT97FI",
+    "title": "Andrew Tate Just Ended His Career.",
+    "score": 10
+  },
+  {
+    "id": "kds5u47HkIA",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "lWz-46NPqdk",
+    "title": "Universitas",
+    "score": 10
+  },
+  {
+    "id": "_nClrnP9LMM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "NDj5_cw4oHw",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "jrVABIl384g",
+    "title": "Ivy League vs Community College: Which Education Is Better? | Middle Ground",
+    "score": 10
+  },
+  {
+    "id": "_Z7J8O_HBYU",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "DPxbh2Tq4I4",
+    "title": "Honest College Tour",
+    "score": 10
+  },
+  {
+    "id": "Ayb_2qbZHm4",
+    "title": "High School vs College - How Do They Compare?",
+    "score": 10
+  },
+  {
+    "id": "ksRmL0SDKhY",
+    "title": "Use Your Time Wisely",
+    "score": 10
+  },
+  {
+    "id": "FOcXeCYlaFc",
+    "title": "College made absolutely zero sense...",
+    "score": 10
+  },
+  {
+    "id": "5h8l7VLtrqw",
+    "title": "What Not to Bring to College",
+    "score": 10
+  },
+  {
+    "id": "k89OBkg2sfI",
+    "title": "College: What it Was, Is, and Should Be",
+    "score": 10
+  },
+  {
+    "id": "35BhTmbqDRQ",
+    "title": "Arguments for the Traditional Liberal Arts College Education",
+    "score": 10
+  },
+  {
+    "id": "EddI8KHNCYA",
+    "title": "What Is College?: Exploring What's Possible After High School",
+    "score": 10
+  },
+  {
+    "id": "BbvFpd2XoAE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s9WQCA3KxB8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "-BoRabTGnVI",
+    "title": "Top 10 College Majors That Are Actually Worth It",
+    "score": 10
+  },
+  {
+    "id": "yx8PrF0HJhM",
+    "title": "High School vs. College",
+    "score": 10
+  },
+  {
+    "id": "zdgyGdd7TH8",
+    "title": "What’s the Hardest Year of College?",
+    "score": 10
+  },
+  {
+    "id": "tiXPNKAr5fU",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "0lJYviju6RY",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "8XofC51RLFc",
+    "title": "What NOT to do on your first day of college…..",
+    "score": 10
+  },
+  {
+    "id": "7ZVGtMuDQgs",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "90czr-lhKHM",
+    "title": "Charlie VS 400 Cambridge Students And A Professor",
+    "score": 10
+  },
+  {
+    "id": "jWY0FlWJBYI",
+    "title": "Transcript",
+    "score": 10
+  },
+  {
+    "id": "sGlPwHyXGhc",
+    "title": "Lindsey Graham In SHAMBLES As Republicans Go Full Panic Over Sudden Senate Downfall",
+    "score": 10
+  },
+  {
+    "id": "Et6FEoWTS48",
+    "title": "Republicans respond to Trump's racist repost of Obamas",
+    "score": 10
+  },
+  {
+    "id": "EzcBP7BnN6c",
+    "title": "Trump Posts Video Portraying Obamas As Apes, Sparking Outrage | 12:30 REPORT",
+    "score": 10
+  },
+  {
+    "id": "zI2W5D-dSp8",
+    "title": "Republicans Hit With News They FEARED As Democrats Reveal Crushing Virginia Blow",
+    "score": 10
+  },
+  {
+    "id": "UvuoC69cpK0",
+    "title": "Republicans TERRIFIED After Crushing Election Surprise As Voters Turn On Them In Droves",
+    "score": 10
+  },
+  {
+    "id": "MG0YEizczb0",
+    "title": "Republicans send Biden autopen report to the Justice Department, urging further investigation",
+    "score": 10
+  },
+  {
+    "id": "n8J8DkNAoMQ",
+    "title": "Trump’s racist repost of Obamas gets Republican pushback",
+    "score": 10
+  },
+  {
+    "id": "5RKhKK7XP44",
+    "title": "‘Awful politics for Republicans’: Enten runs numbers on expiring Obamacare subsidies",
+    "score": 10
+  },
+  {
+    "id": "voUSCxGAb7A",
+    "title": "Republican House Speaker SNAPS In Election Panic As Trump Tells Bongino The Unthinkable",
+    "score": 10
+  },
+  {
+    "id": "Zrh_v4ENAJE",
+    "title": "Why a Republican plan could disqualify married women from voting in the midterms",
+    "score": 10
+  },
+  {
+    "id": "wvpEXfxwyaw",
+    "title": "New clues in the Guthrie abduction case",
+    "score": 10
+  },
+  {
+    "id": "f3vpaQ0bwIY",
+    "title": "'Republicans should be really worried': Enten on special elections",
+    "score": 10
+  },
+  {
+    "id": "ZPcJ0EZMV6Y",
+    "title": "Harry Enten runs the numbers on TX special election",
+    "score": 10
+  },
+  {
+    "id": "KDg8IaZ9eNY",
+    "title": "How the Republican Party went from Lincoln to Trump",
+    "score": 10
+  },
+  {
+    "id": "s8VOM8ET1WU",
+    "title": "WHIGS DEMOCRATIC",
+    "score": 10
+  },
+  {
+    "id": "hbVSOf4qfn4",
+    "title": "Republicans Go FULL PANIC As Texas Special Election Spells Disaster For Midterms",
+    "score": 10
+  },
+  {
+    "id": "DtOK5txGQCE",
+    "title": "Republican Visibly Offends Hosts with Simple Facts About ICE Shooting",
+    "score": 10
+  },
+  {
+    "id": "_A27ThofxDo",
+    "title": "Some GOP leaders say Young Republicans who allegedly texted slurs should resign",
+    "score": 10
+  },
+  {
+    "id": "ZovcHij5kcA",
+    "title": "Republicans IN JEOPARDY As Fox News Drops Bad News On Them",
+    "score": 10
+  },
+  {
+    "id": "LRwudgvbfrI",
+    "title": "Republicans revolt against Trump's health care plan",
+    "score": 10
+  },
+  {
+    "id": "Y3wWprSXn4g",
+    "title": "How Trump Screwed New York Republicans Again",
+    "score": 10
+  },
+  {
+    "id": "E8vudxhW6ic",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "9sdTBL30Nvk",
+    "title": "Still - 98 Degrees (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "99qcyujv3MI",
+    "title": "98 Degrees - Still",
+    "score": 10
+  },
+  {
+    "id": "LMj-OymCTDA",
+    "title": "98 degrees - still - 98 Degrees And Rising",
+    "score": 10
+  },
+  {
+    "id": "wPLXf81_g2Y",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "C8gHUVLHwaQ",
+    "title": "Still - 98 Degrees",
+    "score": 10
+  },
+  {
+    "id": "VC2w3KiMar0",
+    "title": "98 Degrees - Still",
+    "score": 10
+  },
+  {
+    "id": "aRZjUtRtfgY",
+    "title": "100 Degrees (Still Disco to Me) [with Dannii Minogue]",
+    "score": 10
+  },
+  {
+    "id": "4gAsPT-vgeM",
+    "title": "‘The Three Degrees’ Were Never The Same After This Happened..",
+    "score": 10
+  },
+  {
+    "id": "gU6-w0yqE1M",
+    "title": "T.I. Says \\\"Top Back\\\" Beat Was Really Made for Juvenile | Still 400",
+    "score": 10
+  },
+  {
+    "id": "TIVTWFI-bJo",
+    "title": "98 Degrees - Still Lyrics",
+    "score": 10
+  },
+  {
+    "id": "UwOI1OOhgQ4",
+    "title": "7 USELESS Degrees Universities STILL Promote",
+    "score": 10
+  },
+  {
+    "id": "1_hiikZ17H4",
+    "title": "The Only College Degrees Still Worth It in 2026",
+    "score": 10
+  },
+  {
+    "id": "2TyipwcgLqg",
+    "title": "100 Degrees (Still Disco to Me) [with Dannii Minogue] [7th Heaven Club Mix]",
+    "score": 10
+  },
+  {
+    "id": "T3NeuiEafDs",
+    "title": "Sam Zell: Get a Law Degree",
+    "score": 10
+  },
+  {
+    "id": "U-ViiSKSwiI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "ceXSZtJlAGA",
+    "title": "This found footage will HAUNT your dreams",
+    "score": 10
+  },
+  {
+    "id": "f01CvWBU_Es",
+    "title": "This found YOU for a reason — this is your power! ❤️‍🔥",
+    "score": 10
+  },
+  {
+    "id": "WTXqJrKJJ3Q",
+    "title": "Zach Webb - Found (Lyrics) i found life when i found you",
+    "score": 10
+  },
+  {
+    "id": "9w3smtLLvC0",
+    "title": "I Found This In Our Halloween Candy 😭",
+    "score": 10
+  },
+  {
+    "id": "c7mgHkThTFI",
+    "title": "If this found you Congratulations —  this has been a long time coming 🎰 ",
+    "score": 10
+  },
+  {
+    "id": "wmSzZArNRAM",
+    "title": "This found you for a reason...",
+    "score": 10
+  },
+  {
+    "id": "SVAfrf0z_dg",
+    "title": "This Found You Because You’re Going To Look Completely Different In The Next 14 Days | Abraham Hicks",
+    "score": 10
+  },
+  {
+    "id": "ClfO4tdLO08",
+    "title": "This found you because all this weird sh*t is over in the next few hours…..5 hours to be exact ",
+    "score": 10
+  },
+  {
+    "id": "66rIV53Yb_U",
+    "title": "This found you 𝐦𝐢𝐧𝐮𝐭𝐞𝐬 before you receive 𝐮𝐧𝐞𝐱𝐩𝐞𝐜𝐭𝐞𝐝 𝐦𝐢𝐫𝐚𝐜𝐥𝐞𝐬.",
+    "score": 10
+  },
+  {
+    "id": "PBNmO4dtYBY",
+    "title": "👉 If This Found You, Spirit Has A Message For You ✨🌙 TIMELESS",
+    "score": 10
+  },
+  {
+    "id": "pun9gBKwRHE",
+    "title": "They Vanished and Left this Impossible Structure Behind",
+    "score": 10
+  },
+  {
+    "id": "MC3V-lLU3Gk",
+    "title": "The Worst Family Tradition Ever Documented (*MATURE AUDIENCES ONLY*)",
+    "score": 10
+  },
+  {
+    "id": "V61B4JTczJM",
+    "title": "3 -- \\\"Over the Horizon\\\".A morbid discovery was made on an oceanic voyage in the 1800's",
+    "score": 10
+  },
+  {
+    "id": "8rhxdEZi-Y8",
+    "title": "Exploring the Dark Secrets of the World's Most Forbidden Island!",
+    "score": 10
+  },
+  {
+    "id": "krOdoUBOGcE",
+    "title": "Emboozi Mukati Djjacob Omutuuze Daddy Andre Diana Skyz RIP Special Edition",
+    "score": 10
+  },
+  {
+    "id": "UClli42dq88",
+    "title": "There’s Something Strange Hidden Under This Lake",
+    "score": 10
+  },
+  {
+    "id": "WkYmb171pdY",
+    "title": "This pop star is EVIL",
+    "score": 10
+  },
+  {
+    "id": "1xBPT9pl_qA",
+    "title": "3 -- \\\"Deja Vu\\\".After a doctor's office calls a patient for an upcoming surgery, a series of events unfolds that is truly stranger than fiction",
+    "score": 10
+  },
+  {
+    "id": "ods966X8rp8",
+    "title": "THEY'RE IN SHOCK... THE MONSTER THEY CREATED IS NOW HUNTING THEM 😭💀🔥",
+    "score": 10
+  },
+  {
+    "id": "6XTq8Gaad5c",
+    "title": "NANCY GUTHRIE NEW FBI SEARCH ARREST COMING MISSING 84 YEAR OLD MOM",
+    "score": 10
+  },
+  {
+    "id": "WxlWvUyy4rY",
+    "title": "from a SUDDEN breakdown to a MASSIVE breakthrough. this found u on time",
+    "score": 10
+  },
+  {
+    "id": "4ULYNmgWmzQ",
+    "title": "This Found Footage Game Looks Better Than Real Life",
+    "score": 10
+  },
+  {
+    "id": "wm9VSxiSEEw",
+    "title": "People have found Epstein accounts..",
+    "score": 10
+  },
+  {
+    "id": "AwXRh8YsPmc",
+    "title": "This found you because God is moving you the F*ck OUT and UP",
+    "score": 10
+  },
+  {
+    "id": "JNl8xlO6EEU",
+    "title": "This found you because ITS TIME TO LOCK IN ‼️ Your whole year depends on this moment🕊️",
+    "score": 10
+  },
+  {
+    "id": "PJHytN28t0o",
+    "title": "Stunning Design on this found #Mudlarking the Thames #metaldetecting #beachcombing #river #london",
+    "score": 10
+  },
+  {
+    "id": "L026e0mR-NA",
+    "title": "If This Found You Tonight, It’s Not an Accident",
+    "score": 10
+  },
+  {
+    "id": "-D4m-6UB1Sg",
+    "title": "This found you because your Grandparents said you have to move..",
+    "score": 10
+  },
+  {
+    "id": "uXFoFhSf6N0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "wVfD9ubMFX4",
+    "title": "The Best Way to Start \\u0026 End a College Essay! | Tips for Common App and Supplementals",
+    "score": 10
+  },
+  {
+    "id": "E5SmMV9-UbM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Xz94wRwFOCI",
+    "title": "Watch THIS Before Starting Your Common App Essay",
+    "score": 10
+  },
+  {
+    "id": "eGR2Yf6yBRA",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "MDi5s-Vl3Mw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "eQ6tzOux3Bc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "EL1abPAkZfM",
+    "title": "Why Take Major-Specific College Visits",
+    "score": 10
+  },
+  {
+    "id": "hYV5HqPKFS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "aIBH0OTz38E",
+    "title": "are essays important?",
+    "score": 10
+  },
+  {
+    "id": "yMzGvRjZyAk",
+    "title": "Should I Prioritize Common App Or College Specific Requirements? - The College Explorer",
+    "score": 10
+  },
+  {
+    "id": "KxMBPfMBqfY",
+    "title": "Lying on Your College Application",
+    "score": 10
+  },
+  {
+    "id": "LOoIPnal_tI",
+    "title": "An Introduction to Applying to Highly Selective Colleges",
+    "score": 10
+  },
+  {
+    "id": "WH5sDn-9XAs",
+    "title": "One Student Every College Wants",
+    "score": 10
+  },
+  {
+    "id": "YUnj_47q8JM",
+    "title": "What Specific Qualities Do Colleges Seek In Application Essays? - The College Explorer",
+    "score": 10
+  },
+  {
+    "id": "_jsPEehCSG4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "UuxFE_pA1CA",
+    "title": "looking at a pdf of your application end of the writing supplement",
+    "score": 10
+  },
+  {
+    "id": "D7uKPS7MSl0",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "2cKZM8lT-qo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "JBVMb9vvy2k",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "DO5MflX_eik",
+    "title": "I’m begging you to write essays",
+    "score": 10
+  },
+  {
+    "id": "UuOWNNvupik",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "liyFKUFCQno",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "N4YjXJVzoZY",
+    "title": "What Are They?",
+    "score": 10
+  },
+  {
+    "id": "XqhgENMJAWs",
+    "title": "Ivy League coach reveals why HARVARD didn't accept me",
+    "score": 10
+  },
+  {
+    "id": "CGe4tx8nuGI",
+    "title": "STANFORD SUPPLEMENTS",
+    "score": 10
+  },
+  {
+    "id": "gFXE9n7hrOI",
+    "title": "Intro to Advanced Writing",
+    "score": 10
+  },
+  {
+    "id": "jztZpqnDw8A",
+    "title": "Fail, less than 40",
+    "score": 10
+  },
+  {
+    "id": "IN6IOSMviS4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "-VSuGG46-1I",
+    "title": "\\\"THE SEED\\\"",
+    "score": 10
+  },
+  {
+    "id": "GgkRoYPLhts",
+    "title": "Do not use contractions",
+    "score": 10
+  },
+  {
+    "id": "Eqf3TaihsOI",
+    "title": "Structure",
+    "score": 10
+  },
+  {
+    "id": "KlgR1q3UQZE",
+    "title": "BRAIN DUMP",
+    "score": 10
+  },
+  {
+    "id": "Dz9aqJWIlOE",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "GNL1_tNTqpw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "o9aVjBHEEbU",
+    "title": "Essay Question",
+    "score": 10
+  },
+  {
+    "id": "VDqB7EJ5_yE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2meKwMIWGlw",
+    "title": "Writing College Essays Is Easy, Actually",
+    "score": 10
+  },
+  {
+    "id": "-PT6lWFi6PM",
+    "title": "Scammer Explains 20 Scams in 20 Minutes",
+    "score": 10
+  },
+  {
+    "id": "6nfGwSw-I14",
+    "title": "Scambaiting Support",
+    "score": 10
+  },
+  {
+    "id": "cRUpM9MS3-k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "qFYhW0WyRIk",
+    "title": "Enron",
+    "score": 10
+  },
+  {
+    "id": "7uO5e_8YxG8",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "gIOz1dZGllg",
+    "title": "Phishing Scams",
+    "score": 10
+  },
+  {
+    "id": "HawmGu7oNrc",
+    "title": "Origins of a Salesman: The Making of Jordan Belfort",
+    "score": 10
+  },
+  {
+    "id": "IaBqSMt3t7M",
+    "title": "CHECK FRAUD EXPLAINED",
+    "score": 10
+  },
+  {
+    "id": "7wuKlP2bZrA",
+    "title": "The Wolf of Wall Street Scam Explained Like You're 5",
+    "score": 10
+  },
+  {
+    "id": "gWFRbhVj7BI",
+    "title": "The $63 BILLION Company That Sold Nothing",
+    "score": 10
+  },
+  {
+    "id": "VSbO8vmZNm0",
+    "title": "The Image – How Enron Sold the Future",
+    "score": 10
+  },
+  {
+    "id": "Kfdj3AfDD74",
+    "title": "Ponzi: The Financial Idiot Who Scammed the World",
+    "score": 10
+  },
+  {
+    "id": "LgDQG-ZKRFg",
+    "title": "Intro to The Ponzi Story",
+    "score": 10
+  },
+  {
+    "id": "jsyjtQ1h0Qs",
+    "title": "Testing The World's Heaviest Products",
+    "score": 10
+  },
+  {
+    "id": "JLNUt2p3IoQ",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AKvNo33j5Lw",
+    "title": "Why Epstein emails have so many ='s",
+    "score": 10
+  },
+  {
+    "id": "SVVnkNZWJhk",
+    "title": "Taking $𝟏𝟓,𝟎𝟎𝟎 from Trash Talking Scammer",
+    "score": 10
+  },
+  {
+    "id": "ACKyicPeNvY",
+    "title": "The Man Who Robbed An Entire Country",
+    "score": 10
+  },
+  {
+    "id": "FHr1WnAn-kU",
+    "title": "Prologue: The Story of Jho Low",
+    "score": 10
+  },
+  {
+    "id": "lNgOSCAGMRg",
+    "title": "Pyramid Schemes and Ponzi Schemes Explained in One Minute",
+    "score": 10
+  },
+  {
+    "id": "1QkZcdCDJJg",
+    "title": "What OS a pyramid scheme?",
+    "score": 10
+  },
+  {
+    "id": "fSlh_P2__ig",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1GItMxUEtss",
+    "title": "The Art Market Scam Explained Using Bananas",
+    "score": 10
+  },
+  {
+    "id": "dHy07B-UHkE",
+    "title": "Meet Corpo Monkey",
+    "score": 10
+  },
+  {
+    "id": "GHKyDYtKGEg",
+    "title": "The Honey Scam: Explained",
+    "score": 10
+  },
+  {
+    "id": "EAx_RtMKPm8",
+    "title": "Three Card Monte Scam Explained!",
+    "score": 10
+  },
+  {
+    "id": "p4f9LWCwBFM",
+    "title": "Every Major FINANCIAL SCAM of the 21st Century Explained in 12 Minutes",
+    "score": 10
+  },
+  {
+    "id": "T4MkrwG5BRI",
+    "title": "BitConnect",
+    "score": 10
+  },
+  {
+    "id": "gFYBqZnFQ6w",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "h6DP3qPpBx8",
+    "title": "Is An Entrepreneurship Major Worth It?",
+    "score": 10
+  },
+  {
+    "id": "vwB4xXA2hZE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "b_eQhqzYJag",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "QM1D8Sx4N3U",
+    "title": "Are Degrees in Entrepreneurship Worth It?",
+    "score": 10
+  },
+  {
+    "id": "JL74S3gJYok",
+    "title": "Are degrees in entrepreneurship worth it",
+    "score": 10
+  },
+  {
+    "id": "yM12Uv0mZQM",
+    "title": "3 Easy Steps to Assess the Value of Your Business",
+    "score": 10
+  },
+  {
+    "id": "yMAStvCcSqE",
+    "title": "What is a Small Business Worth?",
+    "score": 10
+  },
+  {
+    "id": "e9q6wvWRCSs",
+    "title": "Intro Summary",
+    "score": 10
+  },
+  {
+    "id": "q8d9uuO1Cf4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "WKVIf2J2Ko0",
+    "title": "The BEST college DEGREES for ENTREPRENEURS",
+    "score": 10
+  },
+  {
+    "id": "Upq23UTqDIc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "2nyHe87HLD4",
+    "title": "Top 4 Ways to Value a Business | What is Your Business Worth?",
+    "score": 10
+  },
+  {
+    "id": "cu6UX2o4oo0",
+    "title": "Book Value Method",
+    "score": 10
+  },
+  {
+    "id": "T3Ud5WQCrzQ",
+    "title": "Which Business Degrees Are Worth It | Business Majors Ranked Best to Worst",
+    "score": 10
+  },
+  {
+    "id": "VNHrJlwZBD4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "SZFiwl-o9Do",
+    "title": "The Boys | Have A Word Podcast #366",
+    "score": 10
+  },
+  {
+    "id": "cp2S4srsq-8",
+    "title": "Eleanor Tiernan | Have A Word Podcast #364",
+    "score": 10
+  },
+  {
+    "id": "JlPSYF5xPoQ",
+    "title": "Laura Smyth | Have A Word Podcast #363",
+    "score": 10
+  },
+  {
+    "id": "018KItsMwtE",
+    "title": "Thomas Green | Have A Word Podcast #362",
+    "score": 10
+  },
+  {
+    "id": "2SZwmfaXeX4",
+    "title": "Rachel Fairburn | Have A Word Podcast #361",
+    "score": 10
+  },
+  {
+    "id": "FCBBDS7Gi5o",
+    "title": "Red Richardson | Have A Word Podcast #360",
+    "score": 10
+  },
+  {
+    "id": "2NxJV0gM2iA",
+    "title": "Jimmy Carr | Have A Word Podcast #359",
+    "score": 10
+  },
+  {
+    "id": "I3Ba4Ju_q7g",
+    "title": "Ray Bradshaw | Have A Word Podcast #358",
+    "score": 10
+  },
+  {
+    "id": "ukKem9BgjR0",
+    "title": "Jessie Cave | Have A Word Podcast #357",
+    "score": 10
+  },
+  {
+    "id": "l6AYQwoFu6w",
+    "title": "Jan Richardson Sight Words | Level F | Have | Jack Hartmann",
+    "score": 10
+  },
+  {
+    "id": "53ySmRKu3PY",
+    "title": "THE INDIA SPECIAL",
+    "score": 10
+  },
+  {
+    "id": "KwGdTBY5wwM",
+    "title": "Meet the Sight Words Level 1 - \\\"have\\\" | Preschool Prep Company",
+    "score": 10
+  },
+  {
+    "id": "PjkE5DxTO_o",
+    "title": "Mike Rice | Have A Word Podcast #356",
+    "score": 10
+  },
+  {
+    "id": "BtyxOn6wS1w",
+    "title": "Shane Gillis | Have A Word Podcast #172",
+    "score": 10
+  },
+  {
+    "id": "r6GvU3UjvIk",
+    "title": "Have- Sight Word Song for the word \\\"Have\\\"",
+    "score": 10
+  },
+  {
+    "id": "QBEtDVvw1A4",
+    "title": "Rich Wilson (Jamie Hutchinson GUEST HOST) | Have A Word Podcast #239",
+    "score": 10
+  },
+  {
+    "id": "7moEbc-xYF8",
+    "title": "Red Richardson | Have A Word Podcast #360",
+    "score": 10
+  },
+  {
+    "id": "FJ4k2hfjvkQ",
+    "title": "Mark Nelson | Have A Word Podcast #349",
+    "score": 10
+  },
+  {
+    "id": "EiMOhJdifvY",
+    "title": "Andrew Schulz | Have A Word Podcast #246",
+    "score": 10
+  },
+  {
+    "id": "_cIB9aWmor8",
+    "title": "Thomas Green | Have A Word Podcast #362",
+    "score": 10
+  },
+  {
+    "id": "dcJdUnMR3n8",
+    "title": "Missing Letter",
+    "score": 10
+  },
+  {
+    "id": "wWeYXYUaX4w",
+    "title": "Jimmy Carr | Have A Word Podcast #359",
+    "score": 10
+  },
+  {
+    "id": "5ZlixgT1lcc",
+    "title": "Seann Walsh | Have A Word Podcast #352",
+    "score": 10
+  },
+  {
+    "id": "laBOoGx6hLw",
+    "title": "Andrew Hamilton| Have A Word Podcast #355",
+    "score": 10
+  },
+  {
+    "id": "8lWyg6YIvBM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "gIVE_lHTDq8",
+    "title": "They Lied To Us About College",
+    "score": 10
+  },
+  {
+    "id": "zXWu0KWfF9o",
+    "title": "the biggest player in college basketball",
+    "score": 10
+  },
+  {
+    "id": "uIorWQnAOuM",
+    "title": "The Top 25 Colleges With The Best Value",
+    "score": 10
+  },
+  {
+    "id": "OVvcWa20fzU",
+    "title": "College Towns Are Awesome, and These Are the 10 Best",
+    "score": 10
+  },
+  {
+    "id": "soeuaU7odJY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7iBmZbSnI-E",
+    "title": "Welcome To the Worst Four Years of Your Life",
+    "score": 10
+  },
+  {
+    "id": "5-sNd7VB3xM",
+    "title": "The Best Suburbs In North America: 10 Places With Great Urbanism Outside the Core City",
+    "score": 10
+  },
+  {
+    "id": "COrGXKPEqu4",
+    "title": "10 Best Universities for Urbanism In North America: Colleges With Great Transit, Walking and Biking",
+    "score": 10
+  },
+  {
+    "id": "EkSTlKaC3eg",
+    "title": "Top 15 Little \\\"Ivy League\\\" Colleges in USA",
+    "score": 10
+  },
+  {
+    "id": "8onf-Up0BD4",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wDw_6195_3c",
+    "title": "Something strange 😧 is happening on College Campuses - Couldn't post in FULL but here's a TASTE!",
+    "score": 10
+  },
+  {
+    "id": "oOVFL8Ys3QU",
+    "title": "Her 1-star acting was almost as bad as her evil plan",
+    "score": 10
+  },
+  {
+    "id": "ANED1fe7lDY",
+    "title": "Top 30 Best Universities in USA | US News University Rankings",
+    "score": 10
+  },
+  {
+    "id": "BKOMu1xGWsY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "dN-JSa9TzuI",
+    "title": "Chapter 1 - Launching a new EV brand",
+    "score": 10
+  },
+  {
+    "id": "41aIbHwBlzA",
+    "title": "Why college stadiums are the biggest in the world",
+    "score": 10
+  },
+  {
+    "id": "sO9DQUWrGSU",
+    "title": "So many lies…",
+    "score": 10
+  },
+  {
+    "id": "IlBFbFKGS8U",
+    "title": "Notre Dame, BYU biggest College Football Playoff snubs this season | Rushing The Field | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "6H-bQTBJ1TI",
+    "title": "Sneaking Into The Biggest College In Newyork! (NYU)",
+    "score": 10
+  },
+  {
+    "id": "gO2TSHqBXEg",
+    "title": "British Guy REACTS to the 10 BIGGEST College Football Stadiums 😱🇺🇸 | THEY’RE HUGE!",
+    "score": 10
+  },
+  {
+    "id": "W1-9t8lA1Nc",
+    "title": "Biggest College Football Upset in Every State (2000-2018)",
+    "score": 10
+  },
+  {
+    "id": "y6tRjEH3S1Q",
+    "title": "Top 10 BIGGEST College Football BUSTS of all time || Recruiting Throwback",
+    "score": 10
+  },
+  {
+    "id": "jNSRQT6AdPg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "VC0gHC8X7Mo",
+    "title": "NEYLAND STADIUM",
+    "score": 10
+  },
+  {
+    "id": "nqlng2RDWK4",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "AI76NVRK5BM",
+    "title": "Strange College: Episode 1",
+    "score": 10
+  },
+  {
+    "id": "yQs7ePuhfuA",
+    "title": "SYLVIA DUKE",
+    "score": 10
+  },
+  {
+    "id": "LafPMzq6iQE",
+    "title": "Strange College Classes",
+    "score": 10
+  },
+  {
+    "id": "Kfyicb_ZCuE",
+    "title": "Media Genres: Zombies",
+    "score": 10
+  },
+  {
+    "id": "7Zy9Yo63HY4",
+    "title": "Why the world finds American sports strange",
+    "score": 10
+  },
+  {
+    "id": "zrDuWHRp5dA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "zHx0RNknva4",
+    "title": "Strange College: Episode 3",
+    "score": 10
+  },
+  {
+    "id": "T6fyP6pjZqo",
+    "title": "SYLVIA DUKE",
+    "score": 10
+  },
+  {
+    "id": "nZrs5_rmstI",
+    "title": "College Football Strangest Endings | Part 2",
+    "score": 10
+  },
+  {
+    "id": "NCsIS_YmXLU",
+    "title": "I Went To America's Dumbest City",
+    "score": 10
+  },
+  {
+    "id": "ZUoWgWqiq88",
+    "title": "I Went Undercover as a Nerd at a High School Track Meet!",
+    "score": 10
+  },
+  {
+    "id": "lHw1hRHQu1Q",
+    "title": "College Football Strangest Endings | Part 3",
+    "score": 10
+  },
+  {
+    "id": "YqBbsKoIVU4",
+    "title": "Touchdown",
+    "score": 10
+  },
+  {
+    "id": "o3eqmSEif80",
+    "title": "My Town Has ONE RULE: Never Go In The Fog",
+    "score": 10
+  },
+  {
+    "id": "IbnCbIYkHWc",
+    "title": "College Football \\\"You Cost Us The Game\\\" Moments",
+    "score": 10
+  },
+  {
+    "id": "9iVkr8lOr3g",
+    "title": "College Football Strangest Endings",
+    "score": 10
+  },
+  {
+    "id": "2wcqdYl7C1M",
+    "title": "Teen finds SECRET room on college campus",
+    "score": 10
+  },
+  {
+    "id": "gJCY3JaCZAw",
+    "title": "College\",\"bold\":true},{\"text\":\" freshman finds an off-limits door on campus ...",
+    "score": 10
+  },
+  {
+    "id": "dwUNAb5GJ0Y",
+    "title": "Built to Spill ~ Strange @ College Street Music Hall ~ New Haven , CT",
+    "score": 10
+  },
+  {
+    "id": "NjJ05xZgg6E",
+    "title": "We Visited The DUMBEST College in America",
+    "score": 10
+  },
+  {
+    "id": "4au2yN-1hog",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "RhNHanXBkiU",
+    "title": "Special moments when walk-ons get surprise scholarships | ESPN",
+    "score": 10
+  },
+  {
+    "id": "DCKUYhPGHuk",
+    "title": "OHIO STATE",
+    "score": 10
+  },
+  {
+    "id": "mYfWzBh2KIw",
+    "title": "Ellen Surprises a College Kid with a Big Heart",
+    "score": 10
+  },
+  {
+    "id": "rHzad1ad3qk",
+    "title": "SURPRISE REUNION",
+    "score": 10
+  },
+  {
+    "id": "jqpC28W_Okc",
+    "title": "College Walk Ons Getting Scholarships!!!!! ( Emotional Moments)",
+    "score": 10
+  },
+  {
+    "id": "2RBKp4L0oZw",
+    "title": "He traveled to America to surprise his daughter who’s an exchange student ❤️",
+    "score": 10
+  },
+  {
+    "id": "wqxkjM6HoIg",
+    "title": "Long-Distance Love Surprises Compilation ✨",
+    "score": 10
+  },
+  {
+    "id": "oqky4Epipek",
+    "title": "I’VE BEEN WARNED, BE CAREFUL COMING BACK TO USA",
+    "score": 10
+  },
+  {
+    "id": "QBHoAIwhFts",
+    "title": "NHL Players Going Undercover",
+    "score": 10
+  },
+  {
+    "id": "rd7km6Au01g",
+    "title": "Latest Guthrie message contained a ‘troubling line’: Paul Mauro",
+    "score": 10
+  },
+  {
+    "id": "i_2VhWZQL2A",
+    "title": "Peter Forsberg gets in disguise and fools Swedish veteran mens team",
+    "score": 10
+  },
+  {
+    "id": "B5c3lzeKiSQ",
+    "title": "'SPELLBINDING!': Chock and Bates turn it up for free dance win | Winter Olympics 2026 | NBC Sports",
+    "score": 10
+  },
+  {
+    "id": "ArOj-raXeCQ",
+    "title": "Eli Manning goes undercover as a College Football walk-on 😎 | Eli’s Places",
+    "score": 10
+  },
+  {
+    "id": "Na2hOcx4uX8",
+    "title": "She came home from college and scared her parents 😂",
+    "score": 10
+  },
+  {
+    "id": "4b6wWuMzZzk",
+    "title": "Ole Miss surprises walk-on with scholarship | ESPN",
+    "score": 10
+  },
+  {
+    "id": "1f0qSYRhxj8",
+    "title": "She traveled to her best friend’s college graduation to surprise her ❤️",
+    "score": 10
+  },
+  {
+    "id": "1TPciSjMDeM",
+    "title": "She Traveled Miles to Surprise Her Boyfriend! ✈️❤️‍🔥❤️ (@madeline) #LongDistanceLove",
+    "score": 10
+  },
+  {
+    "id": "XOlMQom5258",
+    "title": "Surprise Military Family Welcome Home at South Carolina Football Game",
+    "score": 10
+  },
+  {
+    "id": "kUkKhRtk8VU",
+    "title": "couples surprise we miss our love #surprise #surprisegift",
+    "score": 10
+  },
+  {
+    "id": "DWLlUwDbfv8",
+    "title": "Finals Week Puppy Surprise",
+    "score": 10
+  },
+  {
+    "id": "pcaakTyCIKE",
+    "title": "Brother drives 17 hours to surprise sister at her nursing school graduation",
+    "score": 10
+  },
+  {
+    "id": "KVit4vSAMsk",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "OTZzjAU0Kg0",
+    "title": "College Graduates VS Dropouts Debate: Is College Worth It?",
+    "score": 10
+  },
+  {
+    "id": "SbeKi7jow0s",
+    "title": "HARVARD STUDENTS",
+    "score": 10
+  },
+  {
+    "id": "zpem9r3D60E",
+    "title": "1 Millionaire Dropout vs 10 College Students",
+    "score": 10
+  },
+  {
+    "id": "tFlOfTcgguc",
+    "title": "this is what dropping out feels llike...",
+    "score": 10
+  },
+  {
+    "id": "HNnLi3Sgork",
+    "title": "College Graduates VS Dropouts Debate： Is College Worth It？",
+    "score": 10
+  },
+  {
+    "id": "TxDZik-SdR0",
+    "title": "6 Ivy League Students vs 1 Secret Dropout | Odd One Out",
+    "score": 10
+  },
+  {
+    "id": "5l_SKvzpepA",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "9Ef3yqP2c6c",
+    "title": "Ivy League vs Community College: Which Education Is Better? | Middle Ground",
+    "score": 10
+  },
+  {
+    "id": "c0bjv1smoVk",
+    "title": "5 Anime Fans vs 1 Secret Hater | Odd One Out",
+    "score": 10
+  },
+  {
+    "id": "GBC5NA5hJnE",
+    "title": "Round 1",
+    "score": 10
+  },
+  {
+    "id": "bba_vEkOiKs",
+    "title": "Are Ivy League Students Elitists? Ivy League Students vs Dropouts | Middle Ground",
+    "score": 10
+  },
+  {
+    "id": "TwhFSTAQbGo",
+    "title": "An Ivy League education is worth the tuition",
+    "score": 10
+  },
+  {
+    "id": "ajicTeiA6Xs",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "IHZbmJUber0",
+    "title": "Thinking of dropping out of college? This is for you!",
+    "score": 10
+  },
+  {
+    "id": "AVoRFNaf5DE",
+    "title": "Why I Dropped Out of College | Steve Jobs",
+    "score": 10
+  },
+  {
+    "id": "DjxhenAHyGk",
+    "title": "Benefits to dropping out of college?",
+    "score": 10
+  },
+  {
+    "id": "5HgfYDajfmU",
+    "title": "WHO'S SMARTER? | College Grads vs Dropouts",
+    "score": 10
+  },
+  {
+    "id": "sKAKp-QvwfE",
+    "title": "COLLEGE DROPOUTS",
+    "score": 10
+  },
+  {
+    "id": "bTsMbUi6pyI",
+    "title": "College Dropout - Jerry ft. Bohemia (Official Song)",
+    "score": 10
+  },
+  {
+    "id": "r3Qt2R2AqwE",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "O1N8yegel2c",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "GeFr4_CADp4",
+    "title": "Met her in soho",
+    "score": 10
+  },
+  {
+    "id": "F7mN_dsocVI",
+    "title": "The Pogues - A Rainy Night In Soho",
+    "score": 10
+  },
+  {
+    "id": "PSyL-TrD_2g",
+    "title": "Eat Your Parents- Violent Soho",
+    "score": 10
+  },
+  {
+    "id": "rJCGEM0tD0Q",
+    "title": "Eat Your Parents - Violent Soho",
+    "score": 10
+  },
+  {
+    "id": "vusfWinksUY",
+    "title": "Inside SoHo: The Heart of NYC’s Iconic Neighborhood",
+    "score": 10
+  },
+  {
+    "id": "56njLFB4UrE",
+    "title": "Introduction to SoHo",
+    "score": 10
+  },
+  {
+    "id": "H0_k-E4D5PE",
+    "title": "SPERM-CANDLE STYLE",
+    "score": 10
+  },
+  {
+    "id": "k6E6zZy0B5M",
+    "title": "Now or never: Europe on its own feet",
+    "score": 10
+  },
+  {
+    "id": "ossxVQ72Z30",
+    "title": "Anak, niregaluhan ang ina ng isang milyong piso! | Kapuso Mo, Jessica Soho",
+    "score": 10
+  },
+  {
+    "id": "bDoLUQHO2Is",
+    "title": "Kapuso Mo, Jessica Soho: Ang nobya kong foreigner!",
+    "score": 10
+  },
+  {
+    "id": "x0RsowMcvfw",
+    "title": "Mackenzie Davis Never Forget 10\\\"inches Boys! Craig Ferguson Most Hilarious Show 😀",
+    "score": 10
+  },
+  {
+    "id": "ciEZxj9AOyU",
+    "title": "Lola, ibinibenta ang kanyang gintong ngipin! | Kapuso Mo, Jessica Soho",
+    "score": 10
+  },
+  {
+    "id": "jY73YAYVmtE",
+    "title": "JED MADELA Shares His Multi-Million Peso Pop-Art Toy Collection! | Karen Davila Ep237",
+    "score": 10
+  },
+  {
+    "id": "HS9W1X_Bk_8",
+    "title": "Savannah Guthrie and family say ‘we will pay’ in new video, beg for return of mother",
+    "score": 10
+  },
+  {
+    "id": "96fjaTT5vHc",
+    "title": "GET GET AWWWkward Open Forum with Sexbomb Girls! (Part 2)",
+    "score": 10
+  },
+  {
+    "id": "x3XIjrZlbe0",
+    "title": "Entitled: UK Monarchy, national security at risk amid Andrew’s ties to sex trafficking \\u0026 shady deals",
+    "score": 10
+  },
+  {
+    "id": "qRgEqjcPHWc",
+    "title": "Downtown (Uptempo)",
+    "score": 10
+  },
+  {
+    "id": "rmrF3UTo75Y",
+    "title": "Introduction to the Episode",
+    "score": 10
+  },
+  {
+    "id": "O3fHgM0fCAU",
+    "title": "Last Night in Soho (2021) - Into the 60s Scene | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "Zf1ePdKUTec",
+    "title": "Last Night in Soho (2021) - How's Your Dancing? Scene | Movieclips",
+    "score": 10
+  },
+  {
+    "id": "MhpzJx2N2C0",
+    "title": "Longines Gets It! (An Evening Inside Their New Soho Boutique)",
+    "score": 10
+  },
+  {
+    "id": "1n_odztAqnA",
+    "title": "Nick Cave Sings \\\"A Rainy Night in Soho\\\" at Shane MacGowan's Funeral",
+    "score": 10
+  },
+  {
+    "id": "oHLqEdsrVk8",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "DpkKU0Q1IwE",
+    "title": "I Worked at a Billionaire Hotel",
+    "score": 10
+  },
+  {
+    "id": "INgbG-U4tSE",
+    "title": "Life of a Hotel Worker",
+    "score": 10
+  },
+  {
+    "id": "ZgXdfRGU-tg",
+    "title": "The Money-Making Secrets Behind Hotel Design | WSJ Pro Perfected",
+    "score": 10
+  },
+  {
+    "id": "116cwKs2XQs",
+    "title": "Why your hotel closet vanished",
+    "score": 10
+  },
+  {
+    "id": "rgc3L3G9lw8",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "mBsJ0vC4Xnw",
+    "title": "I Tried Working As A Hotel Receptionist ...But I Only Let Creepy Strangers In",
+    "score": 10
+  },
+  {
+    "id": "GMB0DJ6Ez8o",
+    "title": "Day in the Life of a Japanese Hotel Worker",
+    "score": 10
+  },
+  {
+    "id": "qZsdm0RZ18k",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8SXsnHyUX1Q",
+    "title": "Hotel Employees Reveal Secrets About Hotels",
+    "score": 10
+  },
+  {
+    "id": "p0gwPwtXLjI",
+    "title": "HOTEL\",\"bold\":true},{\"text\":\" EMPLOYEES REVEAL SECRETS ABOUT ...",
+    "score": 10
+  },
+  {
+    "id": "AdJTDDa4aHk",
+    "title": "DAY IN THE LIFE | what it’s like working in hotels + what i do \\u0026 how i got into Hotel Management!",
+    "score": 10
+  },
+  {
+    "id": "DCOO7M5U_HY",
+    "title": "LIFE AS A HOTEL NIGHT AUDITOR",
+    "score": 10
+  },
+  {
+    "id": "mk7_tS_2U5o",
+    "title": "Background",
+    "score": 10
+  },
+  {
+    "id": "6EeBLxvYHOk",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "kLqN0wkqxEE",
+    "title": "Inside The Indian Hotel For The Super Rich | Hotel India E2 | Our Stories",
+    "score": 10
+  },
+  {
+    "id": "DEVP9xux6Rg",
+    "title": "Gym",
+    "score": 10
+  },
+  {
+    "id": "CI0Gy1L1oxs",
+    "title": "Three Types of Personalities",
+    "score": 10
+  },
+  {
+    "id": "PmAtZiN5K5U",
+    "title": "Being a Night Auditor at a hotel",
+    "score": 10
+  },
+  {
+    "id": "07MWbz4Qj70",
+    "title": "An Inside Look At Upper Class Social Events | Inside Tatler E2 | Our Stories",
+    "score": 10
+  },
+  {
+    "id": "CNpQCiWqeCM",
+    "title": "Lily Lewis",
+    "score": 10
+  },
+  {
+    "id": "CbpsFrj0_a4",
+    "title": "Why Marriott, Hilton and Hyatt Don’t Actually Own Most of Their Hotels  | WSJ The Economics Of",
+    "score": 10
+  },
+  {
+    "id": "qFUuUzZNznY",
+    "title": "The hotel industry",
+    "score": 10
+  },
+  {
+    "id": "V4PIuJgANyM",
+    "title": "The Soul of a Hotel | Mark Harmon | TEDxWilmingtonSalon",
+    "score": 10
+  },
+  {
+    "id": "h9x2_WgwhY4",
+    "title": "What They Don't Tell You At A Hotel Front Desk Interview",
+    "score": 10
+  },
+  {
+    "id": "sTa6RA1W-ko",
+    "title": "HOTEL MAINTENANCE 101",
+    "score": 10
+  },
+  {
+    "id": "-27cl4m_69s",
+    "title": "What It's Like Working Night Shift In A Hotel",
+    "score": 10
+  },
+  {
+    "id": "e428Rk41-YI",
+    "title": "What does a hotel receptionist do?",
+    "score": 10
+  },
+  {
+    "id": "5bPPSlhlzv4",
+    "title": "Hotel Room Cleaning Sequence │ Instructional Video",
+    "score": 10
+  },
+  {
+    "id": "ggZ8QxMN8Uw",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "FtqZbfdtUAQ",
+    "title": "How '90s Internet Destroyed the Economy | The \\\"Dot-Com\\\" Bubble",
+    "score": 10
+  },
+  {
+    "id": "Tj_RphBpwiw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "aWRph_R1Eww",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "wKmj5p2XmBo",
+    "title": "The internet destroyed him",
+    "score": 10
+  },
+  {
+    "id": "6nZ1dlw2f8Q",
+    "title": "How The Internet Destroyed Critical Thinking Forever",
+    "score": 10
+  },
+  {
+    "id": "HuUQYA0RtLE",
+    "title": "Is the Internet Dying? | AI Slop, Dead Internet Theory, Google's Broken, Social Media, and Bots",
+    "score": 10
+  },
+  {
+    "id": "3dstGVhEshU",
+    "title": "the massive shift of the Internet",
+    "score": 10
+  },
+  {
+    "id": "yJ9oEi3Yyg0",
+    "title": "The internet keeps getting worse. Let's talk about why.",
+    "score": 10
+  },
+  {
+    "id": "YcW9IB5e3_E",
+    "title": "Beginning",
+    "score": 10
+  },
+  {
+    "id": "WDd-jMYJiqo",
+    "title": "The Entire Internet is Broken. no one is talking about it",
+    "score": 10
+  },
+  {
+    "id": "cijjBQPtEwA",
+    "title": "What this means..",
+    "score": 10
+  },
+  {
+    "id": "XoYYnM6qwAM",
+    "title": "Remember them? The internet destroyed them",
+    "score": 10
+  },
+  {
+    "id": "KR2GKMUn-ak",
+    "title": "What The Internet Did To Garfield",
+    "score": 10
+  },
+  {
+    "id": "O2C5R3FOWdE",
+    "title": "The Appeal of Garfield",
+    "score": 10
+  },
+  {
+    "id": "J5ZmLvy_Jfg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pq07OV__6l0",
+    "title": "Chris Chan: How the Internet Destroyed Us Forever",
+    "score": 10
+  },
+  {
+    "id": "ZQS_WNgWPVM",
+    "title": "The Internet's Most Documented Person",
+    "score": 10
+  },
+  {
+    "id": "PaVjQFMg7L0",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "F6OFi2g5ZnU",
+    "title": "How Internet Brain Rot Destroyed Gen Alpha",
+    "score": 10
+  },
+  {
+    "id": "7Od5rp1AFYk",
+    "title": "Starlink BLACKED OUT: Iran \\u0026 Russia Just Destroyed Elon Musk’s “Unstoppable” Internet\\\"",
+    "score": 10
+  },
+  {
+    "id": "8Uj_w7m-JoU",
+    "title": "How Google RUINED the Internet",
+    "score": 10
+  },
+  {
+    "id": "P7NHABs76mg",
+    "title": "The Seven People Who Can Turn Off the Internet",
+    "score": 10
+  },
+  {
+    "id": "6KDBpn8fW78",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "RzEJqbsFK8U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "rnEAAFeE3W4",
+    "title": "Who thinks I need a Spanish class || Salish Matter #salishmatter #befamous",
+    "score": 10
+  },
+  {
+    "id": "Q85NHpc-Jxc",
+    "title": "Nidal Wonder and Salish Matter no more friends??😱💔 #salishmatter #salish",
+    "score": 10
+  },
+  {
+    "id": "PhjsOi0W1a8",
+    "title": "Salish Matter CAUGHT Being SO SAD While GOING THROUGH Nidal Wonder's PHONE?!😱🤔 #nalish #salishmatter",
+    "score": 10
+  },
+  {
+    "id": "o4EXcTKcX3c",
+    "title": "No matter how difficult it is, you'll still be happy ❤️ ​⁠@Yes_blondy",
+    "score": 10
+  },
+  {
+    "id": "MNOV_YPnSks",
+    "title": "OMG! 🤯 Salish Matter is Pregnant 😍 Who's her Father 🤥 #nalish",
+    "score": 10
+  },
+  {
+    "id": "5jJlBZ0G19U",
+    "title": "Salish Matter is Having FUN 🤣 | Most Silly Video #salishmatter",
+    "score": 10
+  },
+  {
+    "id": "JJSE_T4apwM",
+    "title": "I am Officially Married 😍 | Salish Matter and Nidal | SALISH",
+    "score": 10
+  },
+  {
+    "id": "ZtkuIbn_5ug",
+    "title": "Kids Told Can't Have TOYS On CHRISTMAS Ft. Salish Matter | Dhar Mann",
+    "score": 10
+  },
+  {
+    "id": "bZyewkD-dFo",
+    "title": "KIDS ROB A TOY STORE On CHRISTMAS",
+    "score": 10
+  },
+  {
+    "id": "rRrT37ruAtE",
+    "title": "Salish Matter Vs Lilly K",
+    "score": 10
+  },
+  {
+    "id": "ZXB5nC1TgZo",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "nPiFfJ0UTqE",
+    "title": "Buffalo Springfield - For What It's Worth (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "80_39eAx3z8",
+    "title": "YK Osiris - Worth it (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "kXV-LsjWS4k",
+    "title": "Fifth Harmony - Worth It (Lyrics) ft. Kid Ink",
+    "score": 10
+  },
+  {
+    "id": "Cw1qnwbIEFY",
+    "title": "Worth It",
+    "score": 10
+  },
+  {
+    "id": "l1s_3ludzHk",
+    "title": "JuiceWRLD - Worth it (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "gjvvyx7CwX8",
+    "title": "worth it",
+    "score": 10
+  },
+  {
+    "id": "od4vnbOSl4g",
+    "title": "Buffalo Springfield - For What It's Worth 1967",
+    "score": 10
+  },
+  {
+    "id": "5wzkADAkElo",
+    "title": "Anything Worth Doing Is Worth Doing Badly | Jordan Peterson | Best Life Advice",
+    "score": 10
+  },
+  {
+    "id": "FJV7HeHT4q4",
+    "title": "$3 Fries Vs. $100 Fries",
+    "score": 10
+  },
+  {
+    "id": "iN8zmmCRqUA",
+    "title": "Paying a 1% Advisor Fee: Worth It or Overpriced?",
+    "score": 10
+  },
+  {
+    "id": "yt40NOjqd7Q",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "m45DTO8sKcE",
+    "title": "$3 Ramen Vs. $79 Ramen • Japan",
+    "score": 10
+  },
+  {
+    "id": "QtVL76gh09U",
+    "title": "We've Owned an EV for 3 Years, Was it Worth it?",
+    "score": 10
+  },
+  {
+    "id": "eBW1twZqLVo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "iq0PVz6FgOc",
+    "title": "Worth Goin FED Fo",
+    "score": 10
+  },
+  {
+    "id": "u7Mtr5EypSU",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "mXkqcefSKzc",
+    "title": "College Essay Tips + Writing your Best College Essay | Real Advice from Harvard Admissions",
+    "score": 10
+  },
+  {
+    "id": "nhtfrSO8GWo",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "d_QsWrPZVRk",
+    "title": "intro",
+    "score": 10
+  },
+  {
+    "id": "tRC0HZyNCW4",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "8_-C9B4GxR0",
+    "title": "Intro and what we’ll cover",
+    "score": 10
+  },
+  {
+    "id": "i38hpvPp62I",
+    "title": "5 College Essay Topics to Avoid (And What to Write About Instead)",
+    "score": 10
+  },
+  {
+    "id": "qudDyrqDCS0",
+    "title": "I Analyze Two Successful College Essays",
+    "score": 10
+  },
+  {
+    "id": "na-0ybN46nI",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "VQ4bJlJvA3Q",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "rA3ZmR2kZPo",
+    "title": "Reading The Secret College Essay Harvard Admissions LOVED",
+    "score": 10
+  },
+  {
+    "id": "W-nIrQk6ZQM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "1k2I84HuTc8",
+    "title": "The ULTIMATE College Essay Masterclass",
+    "score": 10
+  },
+  {
+    "id": "ZoF6Cq4Itms",
+    "title": "Introduction",
+    "score": 10
+  },
+  {
+    "id": "t_N7MAr98CI",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "yH9bguaxhTw",
+    "title": "Is College Worth the Time and Money?",
+    "score": 10
+  },
+  {
+    "id": "CfoGLH7kQLs",
+    "title": "1950s with a high school diploma",
+    "score": 10
+  },
+  {
+    "id": "U4DKMOhIwio",
+    "title": "Do college degrees still matter in 2025?",
+    "score": 10
+  },
+  {
+    "id": "KepYoASoduU",
+    "title": "Was College Worth It in 2026? NYC Grads Break Down Their Degree \\u0026 Salaries (SoHo)",
+    "score": 10
+  },
+  {
+    "id": "_O48-ao5_40",
+    "title": "Is it still worth going to university?",
+    "score": 10
+  },
+  {
+    "id": "2JB-kBB-8LI",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "7WwfUbUoEDA",
+    "title": "Life Inside America’s Oldest Private Military College | Norwich University",
+    "score": 10
+  },
+  {
+    "id": "G7szSKp6DEw",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Ftq2d_w_-9I",
+    "title": "Norwich University Campus Tour",
+    "score": 10
+  },
+  {
+    "id": "uSmQnZQ3EDM",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "AI66uxP-B3g",
+    "title": "Inside Access to Music College, Norwich",
+    "score": 10
+  },
+  {
+    "id": "GAOygmz8yDo",
+    "title": "ACC Norwich 2025",
+    "score": 10
+  },
+  {
+    "id": "iGTpH2CamJE",
+    "title": "City College Norwich graduation ceremony",
+    "score": 10
+  },
+  {
+    "id": "xd2yYQl8ssU",
+    "title": "Murder Spree | City College Norwich | Short Film",
+    "score": 10
+  },
+  {
+    "id": "4FcXCCywDS8",
+    "title": "One student's inspiring story as City College Norwich praised by Ofsted",
+    "score": 10
+  },
+  {
+    "id": "exwL9ErdGqQ",
+    "title": "🇬🇧 Norwich City Tour 2023 | Walking Through Norwich Town Centre | England Walk 4K HDR",
+    "score": 10
+  },
+  {
+    "id": "Eo-ijd3v5p0",
+    "title": "Norwich Together | Stories from Our Families | Senior Military College",
+    "score": 10
+  },
+  {
+    "id": "mVSPlJOP4CU",
+    "title": "Rook Welcome Week | Military College Life",
+    "score": 10
+  },
+  {
+    "id": "LlhTsNwpXBc",
+    "title": "Commencement and Joint Commissioning 2024 | Norwich University Graduation",
+    "score": 10
+  },
+  {
+    "id": "YqUMTfu8j5I",
+    "title": "Welcome to Norwich - A Fine City",
+    "score": 10
+  },
+  {
+    "id": "Yu1JEymOVjw",
+    "title": "How many churches are in Norwich?",
+    "score": 10
+  },
+  {
+    "id": "UrKmQ5L8v8E",
+    "title": "What Citadel Military College \\\"Knobs\\\" Go Through On Day One | Boot Camp",
+    "score": 10
+  },
+  {
+    "id": "fHvbC3o39Hk",
+    "title": "Knobs arrive",
+    "score": 10
+  },
+  {
+    "id": "379X44AtsZQ",
+    "title": "Autistic lad turned away from Norwich college",
+    "score": 10
+  },
+  {
+    "id": "9EjScpZn0qA",
+    "title": "NCAA Football: Coast Guard v. Norwich (10/25/2025)",
+    "score": 10
+  },
+  {
+    "id": "ih7kibF2nko",
+    "title": "The A List | Norwich | Access Creative College Alumni",
+    "score": 10
+  },
+  {
+    "id": "RBhg4YarYms",
+    "title": "Doing things differently: No-homework policy helps Norwich school to glowing Ofsted report",
+    "score": 10
+  },
+  {
+    "id": "7otA0YL8Zw0",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "k8rUoGxPTJM",
+    "title": "The Community League U-16 | Gameweek 9 | The Sports School vs Stadium FC",
+    "score": 10
+  },
+  {
+    "id": "Z8UoaerOs4Q",
+    "title": "The Community League - Pro Football Final Day Throwback",
+    "score": 10
+  },
+  {
+    "id": "gHy5XiHmxGg",
+    "title": "The Community League U-16 | Rescheduled Game | South United FC vs Young Blues Elite U15 B",
+    "score": 10
+  },
+  {
+    "id": "JlUavkYM7c4",
+    "title": "The Community League U-16 | Rescheduled Game | Sporthood vs Young Blues Elite U15 A",
+    "score": 10
+  },
+  {
+    "id": "pVujM7qVZIE",
+    "title": "The Community League U-14 | Super Cup | Final | Alchemy Ignis vs South United FC",
+    "score": 10
+  },
+  {
+    "id": "qXymPVcrvIo",
+    "title": "The Community League U-14 | Super Cup | 3rd Place Playoff | BLR City FC vs The Sports School",
+    "score": 10
+  },
+  {
+    "id": "69Q4AOLxLAE",
+    "title": "Community league may be forced to shut down | CTV News Edmonton at 11:30 for Feb. 6, 2026",
+    "score": 10
+  },
+  {
+    "id": "1KBQmmSWYJk",
+    "title": "The Community League U-14 | Gameweek 4 | Match 1 | South United FC vs Alchemy Terra",
+    "score": 10
+  },
+  {
+    "id": "oye-hpBCGLg",
+    "title": "Ivy League vs Community College: Which Education Is Better? | Middle Ground",
+    "score": 10
+  },
+  {
+    "id": "M4usYuJUTSg",
+    "title": "The Community League U-16 | Gameweek 1 | Match 5 | Alchemy Ignis vs Young Blues Elite U15 B",
+    "score": 10
+  },
+  {
+    "id": "IGbL9DCLIPo",
+    "title": "The Community League U-14 | Gameweek 6 | Match 1 | The Sports School vs South United FC",
+    "score": 10
+  },
+  {
+    "id": "20PLJ_T4bbA",
+    "title": "The Community League U-14 | Super Cup | Final | Alchemy Ignis vs South United FC",
+    "score": 10
+  },
+  {
+    "id": "3uKDg_zBWYo",
+    "title": "The Community League U-16 | Gameweek 4 | Postponed Match | Alchemy Ignis vs The Sports School",
+    "score": 10
+  },
+  {
+    "id": "26_125-XtYE",
+    "title": "The Community League U-14 | Gameweek 4 | Match 3 | BBFS Snipers FC vs Sporthood",
+    "score": 10
+  },
+  {
+    "id": "gfiZLa6JhzM",
+    "title": "The Community League U-16 | Gameweek 3 | Match 1 | South United FC vs The Sports School",
+    "score": 10
+  },
+  {
+    "id": "ztWumLlKfVk",
+    "title": "The Community League U-14 | Gameweek 3 | Match 1 | South United FC vs BLR City FC",
+    "score": 10
+  },
+  {
+    "id": "iUepcrv4DQ8",
+    "title": "The Community League U-16 | Gameweek 2 | Match 1 | Alchemy Ignis vs South United FC",
+    "score": 10
+  },
+  {
+    "id": "xcXgpvMuVSk",
+    "title": "The Community League U-16 | Gameweek 5 | Match 3 | Young Blues Elite U15B vs Rebels FC",
+    "score": 10
+  },
+  {
+    "id": "uLpqThcVWSk",
+    "title": "The Community League U-14 | Gameweek 1 | Match 3 | South United FC vs Samurai BLR FC",
+    "score": 10
+  },
+  {
+    "id": "JaU_EO1aIFM",
+    "title": "TCL Pro Football | Gameweek 4 | Match 3 | BLR Phantoms FC vs MRU FC",
+    "score": 10
+  },
+  {
+    "id": "ASisAtp3hIs",
+    "title": "COMMUNITY LEAGUE - theHunter Classic",
+    "score": 10
+  },
+  {
+    "id": "YgXwoxPNQXA",
+    "title": "Community League Details",
+    "score": 10
+  },
+  {
+    "id": "_5dmJqbGkcM",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "NXA6Xjb7NyI",
+    "title": "That's actually hilarious meme - Scott Pilgrim",
+    "score": 10
+  },
+  {
+    "id": "Gx_NFAC0Tes",
+    "title": "Batman: Arkham City | That actually is.... pretty funny!",
+    "score": 10
+  },
+  {
+    "id": "TDRhxgmpRNA",
+    "title": "Creepy Natural Phenomena That Actually Exist",
+    "score": 10
+  },
+  {
+    "id": "ty7fF4uDZ_M",
+    "title": "Spider Apocalypse Fields",
+    "score": 10
+  },
+  {
+    "id": "pFoty21X370",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "4OVejuZTGYQ",
+    "title": "Top 10 Terrifying Animals That Actually Exist",
+    "score": 10
+  },
+  {
+    "id": "FNiXDiNsM9Q",
+    "title": "Intro - Humans love to be afraid, AJ's self tanner issue",
+    "score": 10
+  },
+  {
+    "id": "bNisFXh7h9M",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "S3ksC_8jGuc",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "s_jaU5V9FUg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "7voiUnqZiac",
+    "title": "Stupid Dares That Actually Killed People",
+    "score": 10
+  },
+  {
+    "id": "ksEkeU4DR5k",
+    "title": "The Great Flood",
+    "score": 10
+  },
+  {
+    "id": "NoM1bwc58HE",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "Vb3Mml-sgZI",
+    "title": "The Scariest Animals That ACTUALLY EXIST..",
+    "score": 10
+  },
+  {
+    "id": "PLTh6hd0GTg",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "xBav1smLv4U",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "pM2RIFs78pY",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "t9MAy4uxgCc",
+    "title": "Search filters",
+    "score": 10
+  },
+  {
+    "id": "hnoAoyNkVPI",
+    "title": "Catch A Rising Star…Bridgette Whittemore! ",
+    "score": 10
+  },
+  {
+    "id": "npi9gqU2k_c",
+    "title": "Your Podcast Will Go Nowhere…Except On The Air! ",
+    "score": 10
+  },
+  {
+    "id": "gLHUCXfKw44",
+    "title": "Lawyers, Liars, \\u0026 Losers…Winter Classic, What A Week! ",
+    "score": 10
+  },
+  {
+    "id": "q807u7mB5rI",
+    "title": "Happy New Year…Not A Thread Of Fashion Between Them! ",
+    "score": 10
+  },
+  {
+    "id": "FmJfK7dO9s8",
+    "title": "Sabrina Carpenter - Nonsense (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "YcSP1ZUf1eQ",
+    "title": "Complete Nonsense",
+    "score": 10
+  },
+  {
+    "id": "UrhGzqBGhCI",
+    "title": "The Hot Wheels Movie is Complete Nonsense.",
+    "score": 10
+  },
+  {
+    "id": "9kHjqgkds3Q",
+    "title": "AcceleRacers: Ignition",
+    "score": 10
+  },
+  {
+    "id": "4E8Yeax2S0E",
+    "title": "Intro",
+    "score": 10
+  },
+  {
+    "id": "B0VHcBJOLAA",
+    "title": "talking COMPLETE nonsense to a Scammer who threatened me!! | #IRLrosie #scambaiting",
+    "score": 10
+  },
+  {
+    "id": "wwsUvAtq6JA",
+    "title": "Trump Is Collapsing",
+    "score": 10
+  },
+  {
+    "id": "jVJf-o-7xOs",
+    "title": "Leaked Recording Reveals Dark Truth About Epstein And Israel",
+    "score": 10
+  },
+  {
+    "id": "TWd6_Eoey_U",
+    "title": "Watching AI Slop until our brains fall out... (Compilation)",
+    "score": 10
+  },
+  {
+    "id": "rojhNTz7ZxA",
+    "title": "Locked Their Hard Drives, Listen to Them Rage",
+    "score": 10
+  },
+  {
+    "id": "Fb_TTLo1fFg",
+    "title": "Dr Rahmeh Aladwan | Zionism, Global Jewry, Jihad, Palestine \\u0026 The Left | BB #192",
+    "score": 10
+  },
+  {
+    "id": "hLK17gXKLis",
+    "title": "Rhett and Link - Complete Nonsense #5",
+    "score": 10
+  },
+  {
+    "id": "FEYiP0Im1tE",
+    "title": "SIRI impression \\u0026 old lady VS  insane SCAMMERS 😆  | IRLrosie #scambaiting",
+    "score": 10
+  },
+  {
+    "id": "CEyFONUxuj4",
+    "title": "Modded Red Dead Online is Complete Nonsense",
+    "score": 10
+  },
+  {
+    "id": "OVUMUKIi8Bg",
+    "title": "Sabrina Carpenter - Nonsense (Official Audio)",
+    "score": 10
+  },
+  {
+    "id": "ECVA6FvhdEE",
+    "title": "Complete Nonsense",
+    "score": 10
+  },
+  {
+    "id": "5MEShY3Ht2k",
+    "title": "Rhett and Link - Complete Nonsense #20",
+    "score": 10
+  },
+  {
+    "id": "3v_LG_MOiqk",
+    "title": "Sabrina Carpenter - Nonsense (Lyrics)",
+    "score": 10
+  },
+  {
+    "id": "PwrFCMywQlU",
+    "title": "Rhett and Link - Complete Nonsense [OldSchool] #2",
+    "score": 10
+  },
+  {
+    "id": "ex_-SptREes",
+    "title": "Rhett and Link - Complete Nonsense #4",
+    "score": 10
+  },
+  {
+    "id": "QqSqgOeBFK8",
+    "title": "Rhett and Link - Complete Nonsense #23",
+    "score": 10
+  },
+  {
+    "id": "Pm_qtBdBVis",
+    "title": "Search filters",
+    "score": 10
+  }
+]
